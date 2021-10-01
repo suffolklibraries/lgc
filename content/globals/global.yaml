@@ -40,7 +40,7 @@ data:
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost event lorem ipsum dolor sit amet, consectetur adipiscing elit.'
   listing_call_to_action: 'Get in touch with Georgie'
-  listing_image: DE_MOVERS_IMG-1.jpg
+  listing_image: placeholder-avatar.jpg
   listing_email: georgina.quinn@suffolklibraries.co.uk
   library_cta:
     -
