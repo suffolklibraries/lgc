@@ -1,7 +1,7 @@
 {{ partial:global/page-header/spotlight }}
 
 <div class="o-wrap o-grid o-grid--page-reverse">
-  <main class="o-flow o-flow--l o-prose--pull-up-image" id="main">
+  <main class="o-flow o-flow--l o-prose--pull-up-image" id="main" tabindex="0">
     {{ if featured_image }}
       {{ glide:featured_image width="1251" height="834" }}<figure><img src="{{ url }}" alt="{{ alt }}" /></figure>{{ /glide:featured_image }}
     {{ /if }}
