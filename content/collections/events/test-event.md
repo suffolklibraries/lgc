@@ -18,7 +18,7 @@ organisers:
   - dance-east
   - britten-pears-arts
 address_line_1: 'All Saints Church Hall'
-address_line_2: "\LChurch Street\L"
+address_line_2: "Church Street"
 town: Sudbury
 postcode: 'CO10 2BL'
 featured_image: DE_MOVERS_IMG-1.jpg
