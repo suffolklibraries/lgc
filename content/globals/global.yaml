@@ -55,7 +55,7 @@ data:
       content:
         -
           type: text
-          text: "You can also explore activities and events \Lto get involved with at your local library"
+          text: 'You can also explore activities and events to get involved with at your local library'
     -
       type: paragraph
       content:
