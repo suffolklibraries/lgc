@@ -126,8 +126,6 @@ function Events() {
     
     latEl.dispatchEvent(new Event('change', { bubbles: true }));
     lngEl.dispatchEvent(new Event('change', { bubbles: true }));
-
-    console.log(lat, lng)
   }
 
 

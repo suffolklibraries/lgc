@@ -8,7 +8,7 @@ var: 3
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>{{ title ?? site:name }}</title>
+        {{ seo }}
         <link rel="stylesheet" href="{{ mix src='css/site.css' }}">
         <link rel="stylesheet" href="https://use.typekit.net/hbp8rhy.css">
         <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
@@ -22,6 +22,17 @@ var: 3
         <meta name="msapplication-TileColor" content="#333333">
         <meta name="msapplication-config" content="/icons/browserconfig.xml">
         <meta name="theme-color" content="#333333">
+        {{ if featured_image }}
+            {{ glide:featured_image width="1200" }}
+                <meta property="og:image" content="{{ site:url }}{{ url }}" />
+                <meta name="twitter:image" content="{{ site:url }}{{ url }}" />
+            {{ /glide:featured_image }}
+        {{ else }}
+            {{ glide:global:seo_image width="1200" }}
+                <meta property="og:image" content="{{ site:url }}{{ url }}" />
+                <meta name="twitter:image" content="{{ site:url }}{{ url }}" />
+            {{ /glide:global:seo_image }}
+        {{ /if }}
     </head>
     <body>
         <a class="c-skip-link button button--pink" href="#main">Skip to content</a>

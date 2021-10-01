@@ -7,7 +7,6 @@ function Search() {
 }
 
 function onChange(e) {
-  console.log('Nothing?')
   const form = e.currentTarget;
   const checkedCategories = form.querySelectorAll('[name="category[]"]:checked');
 
@@ -47,8 +46,6 @@ function onChange(e) {
     return;
   }
 
-  console.log(1)
-
   form.dispatchEvent(new Event('submit'));
 }
 
@@ -56,8 +53,6 @@ function onSubmit(e) {
   if (e.currentTarget.classList.contains('js-search--simple')) { 
     return;
   }
-
-  console.log(2)
 
   e.preventDefault();
   const formData = new FormData(e.currentTarget);

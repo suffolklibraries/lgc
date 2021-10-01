@@ -53,6 +53,10 @@
       width: 100%;
       min-height: 100%;
       object-fit: cover;
+
+      _::-webkit-full-page-media, _:future, :root & {
+        min-height: auto;
+      }
     }
 
     @media (min-width: 50em) {
