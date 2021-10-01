@@ -6,6 +6,8 @@ function renderEvents(events, map, infowindow, markers = [], bounds) {
   }
 
   events.forEach((event) => {
+    if (!event.lat || !event.lng) return;
+
     const content = `<div class="o-flow o-flow--xs u-pad-s u-font step--1">
       <h3 class="step--1">
         <a href="${event.url}">${event.title}</a>
