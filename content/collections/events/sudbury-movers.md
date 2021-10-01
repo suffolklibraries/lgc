@@ -4,7 +4,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1633085626
+updated_at: 1633092290
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2021-10-20 09:00'

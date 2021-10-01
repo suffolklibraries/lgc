@@ -19,11 +19,17 @@ class Events extends Scope
         $thisMorning = date('Y-m-d H:i:s', strtotime('today'));
         $query->where('end_date', '>=', $thisMorning);
 
+        // Virtual filtering
+        $isVirtual = !empty($_GET['virtual']);
+        if ($isVirtual) {
+            $query->where('virtual', true);
+        }
+
         // Location filtering
         $hasLat = !empty($values['latitude']);
         $hasLng = !empty($values['longitude']);
         
-        if ($hasLat && $hasLng) {
+        if ($hasLat && $hasLng && !$isVirtual) {
             $lat = $hasLat ? $values['latitude'] : 52.058836;
             $lng = $hasLng ? $values['longitude'] : 1.156518;
             $radius = !empty($values['radius']) ? $values['radius'] : 99;
@@ -53,11 +59,6 @@ class Events extends Scope
         // Free filtering
         if (!empty($_GET['free'])) {
             $query->where('free', true);
-        }
-
-        // Virtual filtering
-        if (!empty($_GET['virtual'])) {
-            $query->where('virtual', true);
         }
     }
 }

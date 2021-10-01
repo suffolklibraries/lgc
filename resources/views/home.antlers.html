@@ -78,8 +78,8 @@
     {{ index == 0 ? '' : ',' }}
     {
       "title": "{{ title }}",
-      "lat": {{ latitude }},
-      "lng": {{ longitude }},
+      "lat": {{ if latitude }}{{ latitude }}{{ else }}null{{ /if }},
+      "lng": {{ if longitude }}{{ longitude }}{{ else }}null{{ /if }},
       "url": "{{ url }}",
       "free": {{ free ? 'true' : 'false' }},
       "address": "{{ address_line_1 }}",

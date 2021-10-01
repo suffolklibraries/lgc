@@ -187,8 +187,6 @@ sections:
           width: 50
           listable: hidden
           instructions_position: above
-          validate:
-            - required
       -
         handle: longitude
         field:
@@ -201,8 +199,6 @@ sections:
           width: 50
           listable: hidden
           instructions_position: above
-          validate:
-            - required
       -
         handle: address_line_1
         field:

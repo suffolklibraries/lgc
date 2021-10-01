@@ -6,6 +6,7 @@ function Search() {
   searchForm.addEventListener('submit', onSubmit);
 }
 
+
 function onChange(e) {
   const form = e.currentTarget;
   const checkedCategories = form.querySelectorAll('[name="category[]"]:checked');

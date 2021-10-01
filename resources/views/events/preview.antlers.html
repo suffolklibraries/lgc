@@ -29,6 +29,7 @@
         {{ if address_line_1 }}
         <li>{{ address_line_1 }}{{ town ? ', ' : '' }}{{ town }}</li>
         {{ /if }}
+        {{ if virtual }}<li>Virtual event</li>{{ /if }}
       </ul>
     </div>
     {{ partial src='global/icon' id="arrow-right" square="true" }}
