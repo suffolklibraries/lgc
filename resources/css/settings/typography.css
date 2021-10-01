@@ -1,0 +1,8 @@
+:root {
+  --font-stack: ff-good-web-pro, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+  --font-weight: 500;
+
+  --line-height-large: 1.6;
+  --line-height-medium: 1.4;
+  --line-height-small: 1.2;
+}

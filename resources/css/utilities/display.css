@@ -1,0 +1,13 @@
+.hidden,
+.js-hidden {
+  display: none;
+}
+
+.u-display-block {
+  display: block;
+}
+
+.u-display-inline-block {
+  display: inline-block;
+}
+

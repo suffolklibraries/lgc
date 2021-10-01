@@ -1,0 +1,80 @@
+.o-prose {
+  & p a,
+  & li a {
+    text-decoration: underline;
+    color: var(--blue);
+  }
+
+  ul li {
+    list-style: disc;
+  }
+
+  ol li {
+    list-style: decimal;
+  }
+
+  ul li,
+  ol li {
+    margin-left: 1em;
+
+    & + li {
+      margin-top: 0.525em;
+    }
+  }
+
+  blockquote {
+    --flow: 0.5rem;
+  }
+
+  &.o-flow > h2 {
+    --flow: var(--space-m-l);
+
+    &:first-child {
+      margin-top: var(--flow);
+    }
+  }
+
+  &.o-flow > h2 + *,
+  &.o-flow > h3 + * {
+    --flow: 0.75rem;
+  }
+
+  .u-no-underline {
+    text-decoration: none;
+
+    .c-icon {
+      margin-right: var(--space-s);
+      transition: 300ms background;
+    }
+
+    &:hover .c-icon {
+      background: var(--hot-pink-dark);
+    }
+  }
+
+  &--green-arrow .c-icon--arrow-right {
+    color: var(--green);
+  }
+
+  @media (min-width: 40em) {
+    &-image {
+      &.o-prose-image--left {
+        float: left;
+        margin-right: 1.5rem;
+      }
+
+      &.o-prose-image--right {
+        float: right;
+        margin-left: 1.5rem;
+      }
+    }
+  }
+
+  &--pull-up-image > :first-child > img {
+    margin-top: calc(-1 * (var(--space-s-l) + var(--space-s-m) + var(--space-m)));
+
+    @media (min-width: 50em) {
+      margin-top: calc(-1 * (var(--space-s-l) + var(--space-s-m)));
+    }
+  }
+}

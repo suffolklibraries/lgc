@@ -1,0 +1,5 @@
+.c-filter {
+  background: var(--lightest-blue);
+  border-radius: var(--radius);
+  padding: var(--space-s-m);
+}

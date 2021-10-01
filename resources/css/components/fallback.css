@@ -1,0 +1,40 @@
+.c-fallback {
+  background: var(--accent, var(--random)) url('/site/themes/suffolk/img/pulse-light.svg') left center / 70% repeat-x;
+
+  & > * {
+    height: 0;
+    padding-bottom: 66.6667%;
+  }
+}
+
+.c-cover {
+  height: 0;
+  position: relative;
+  padding-bottom: 150.8741%;
+  /* padding-bottom: 50%; */
+  background: var(--lightest-grey) url('/site/themes/suffolk/img/pulse-translucent-rotated.svg') center top / 70% repeat-y;
+  /* border-left: 3px solid #FFF;
+  border-right: 3px solid #FFF; */
+
+  img {
+    object-fit: contain;
+    position: absolute;
+    z-index: 1;
+    height: 100%;
+    width: calc(100% + 6px);
+    left: -3px;
+    top: 0;
+    max-width: none;
+    filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.2));
+  }
+
+  svg {
+    object-fit: contain;
+    position: absolute;
+    height: 50%;
+    width: 100%;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}

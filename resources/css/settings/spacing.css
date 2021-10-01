@@ -1,0 +1,48 @@
+:root {
+  --max-value: 2;
+  --min-value: 1;
+  --max-screen: 92.5;
+
+  --fc-screen: 100vw;
+  --fc-bp: calc((var(--fc-screen) - 20em) / (var(--max-screen) - 20));
+
+  --fc-xs-min: 9.5;
+  --fc-xs-max: 11;
+
+  --fc-s-min: 19;
+  --fc-s-max: 22;
+  --fc-s-major: 33;
+
+  --fc-m-min: 38;
+  --fc-m-max: 44;
+
+  --fc-l-min: 57;
+  --fc-l-max: 66;
+
+  --fc-xl-min: 76;
+  --fc-xl-max: 88;
+
+  --space-xs: calc(((var(--fc-xs-min) / 16) * 1rem) + (var(--fc-xs-max) - var(--fc-xs-min)) * var(--fluid-bp));
+  --space-s: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-s-max) - var(--fc-s-min)) * var(--fluid-bp));
+  --space-m: calc(((var(--fc-m-min) / 16) * 1rem) + (var(--fc-m-max) - var(--fc-m-min)) * var(--fluid-bp));
+  --space-l: calc(((var(--fc-l-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-l-min)) * var(--fluid-bp));
+  --space-xl: calc(((var(--fc-xl-min) / 16) * 1rem) + (var(--fc-xl-max) - var(--fc-xl-min)) * var(--fluid-bp));
+
+  --space-xs-s: calc(((var(--fc-xs-min) / 16) * 1rem) + (var(--fc-s-max) - var(--fc-xs-min)) * var(--fluid-bp));
+  --space-xs-m: calc(((var(--fc-xs-min) / 16) * 1rem) + (var(--fc-m-max) - var(--fc-xs-min)) * var(--fluid-bp));
+  --space-s-m: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-m-max) - var(--fc-s-min)) * var(--fluid-bp));
+  --space-s-l: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-s-min)) * var(--fluid-bp));
+  --space-m-l: calc(((var(--fc-m-min) / 16) * 1rem) + (var(--fc-l-max) - var(--fc-m-min)) * var(--fluid-bp));
+  --space-l-xl: calc(((var(--fc-l-min) / 16) * 1rem) + (var(--fc-xl-max) - var(--fc-l-min)) * var(--fluid-bp));
+  --space-m-xl: calc(((var(--fc-m-min) / 16) * 1rem) + (var(--fc-xl-max) - var(--fc-m-min)) * var(--fluid-bp));
+
+  --gutter: var(--space-s-m);
+  --space-s-xs: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-xs-max) - var(--fc-s-min)) * var(--fluid-bp));
+  --space-s-major: calc(((var(--fc-s-min) / 16) * 1rem) + (var(--fc-s-major) - var(--fc-s-min)) * var(--fluid-bp));
+}
+
+@media screen and (min-width: 75em) {
+  :root {
+    --fc-screen: calc(var(--max-screen) * 1rem);
+  }
+}

@@ -1,0 +1,6 @@
+.c-breadcrumb {
+  font-weight: 700;
+  font-size: var(--step--1);
+  padding-bottom: var(--space-xs);
+  display: inline-block;
+}

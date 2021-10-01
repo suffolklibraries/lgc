@@ -1,0 +1,68 @@
+<form method="GET" action="/" class="js-search js-search--{{ full ? 'full' : 'simple' }} o-flow">
+  <h3 class="h4">Search all events and activities</h3>
+
+  <div class="c-alert js-hidden js-map-alert">
+    <p></p>
+  </div>
+
+  <button type="button" class="button button--wide button--pink button--round js-location">
+    Use your location
+  </button>
+
+  <div class="o-flow o-flow--2xs u-relative">
+    <label for="autocomplete-location" class="c-label">Or enter your town, village, address or postcode:</label>
+    <input id="autocomplete-location" type="text" name="place" value="{{ get:place }}" class="js-map-autocomplete" />
+    {{ partial src="global/icon" id="location" }}
+  </div>
+
+  {{ if full }}
+    <div class="c-events-radius">
+      <label for="search-radius">Show me results within </label>
+      <select name="radius" id="search-radius">
+        <option value="" {{ {get:radius == '99' or get:radius == ''} ? 'selected' : '' }}>any distance</option>
+        <option value="2" {{ get:radius == '2' ? 'selected' : '' }}>2 miles</option>
+        <option value="5" {{ get:radius == '5' ? 'selected' : '' }}>5 miles</option>
+        <option value="10" {{ get:radius == '10' ? 'selected' : '' }}>10 miles</option>
+        <option value="30" {{ get:radius == '30' ? 'selected' : '' }}>30 miles</option>
+      </select>
+    </div>
+
+    <ul class="c-tags">
+      <li>
+        <input type="checkbox" name="category-clear" value="" id="category-clear" {{ if !get:category }}checked{{ /if }} />
+        <label class="c-tag c-tag--blue" for="category-clear">All categories</label>
+      </li>
+      {{ taxonomy from="event_categories" }}
+        <li>
+          <input type="checkbox" name="category[]" value="{{ slug }}" id="category-{{ slug }}" {{ if get:category | contains:slug }}checked{{ /if }} />
+          <label class="c-tag c-tag--blue" for="category-{{ slug }}">{{ title }}</label>
+        </li>
+      {{ /taxonomy }}
+    </ul>
+
+    <div class="o-flow o-flow--2xs">
+      <p>
+        <input type="checkbox" name="free" value="1" id="filter-free" {{ if get:free }}checked{{ /if }} />
+        <label for="filter-free">Only show free events</label>
+      </p>
+
+      <p>
+        <input type="checkbox" name="virtual" value="1" id="filter-virtual" {{ if get:virtual }}checked{{ /if }} />
+        <label for="filter-virtual">Only show virtual events</label>
+      </p>
+    </div>
+  {{ /if }}
+
+  <noscript>
+    <div class="u-flex">
+      <button type="submit" class="button button--blue button--round button--right">
+        {{ partial src="global/twi" label="Find events near you" icon="arrow-right" }}
+      </button>
+    </div>
+  </noscript>
+
+  <input type="hidden" name="lat" value="{{ get:lat }}" />
+  <input type="hidden" name="lng" value="{{ get:lng }}" />
+  <input type="hidden" name="page" value="1" />
+
+</form>

@@ -1,0 +1,122 @@
+.c-digital {
+  background: rgba(58, 161, 154, 0.5);
+  padding: var(--space-m-l) 0;
+
+  .c-icon {
+    color: var(--white);
+  }
+
+  &_split + * {
+    border-top: 1px solid var(--black);
+    padding-top: var(--space-xs-s);
+    margin-top: var(--space-xs-s);
+  }
+
+  dt p {
+    font-style: italic;
+    line-height: 1.2;
+    font-size: var(--step--1);
+    margin-top: 0.4em;
+  }
+
+  dd {
+    display: flex;
+    flex-direction: column;
+    font-size: var(--step--1);
+
+    > * + * {
+      margin-top: var(--space-xs);
+    }
+
+    a span {
+      text-decoration: underline;
+    }
+
+    span {
+      overflow: hidden;
+      display: block;
+    }
+    
+    .c-icon {
+      margin-right: var(--space-xs);
+      float: left;
+    }
+  }
+
+  header p {
+    align-self: end;
+  }
+
+  &_split {
+    display: grid;
+    grid-gap: var(--space-xs);
+    grid-template-columns: 100%;
+  }
+  
+  &_graphic {
+    display: none;
+  }
+
+  @media (min-width: 48em) {
+    &_split {
+      grid-template-columns: 1fr 2fr;
+      grid-gap: var(--space-s);
+
+      & + * {
+        padding-top: 1.5rem;
+        margin-top: 1.5rem;
+      }
+    }
+
+    dd {
+      align-self: center;
+      max-width: 500px;
+    }
+  }
+
+  @media (min-width: 60em) {
+    .o-wrap {
+      display: grid;
+      grid-template-columns: 3fr 1fr;
+    }
+
+    dd {
+      padding-right: var(--space-l);
+    }
+
+    &_graphic {
+      --graphic-y: 29px;
+
+      background: var(--teal) url('/site/themes/suffolk/img/pulse.svg') left bottom 40px / 187px repeat-x;
+      height: calc(100% + var(--space-m-l) + var(--space-m-l) + var(--graphic-y));
+      margin-top: calc(-1 * (var(--space-m-l) + var(--graphic-y)));
+      margin-right: calc(-1 * var(--space-s-m));
+      margin-left: calc(-1 * var(--space-s-m));
+      box-shadow: 0px 4px 44px rgba(0, 0, 0, 0.1);
+      border-radius: 60px 60px 0px 0px;
+      border: 15px solid #FFF;
+      border-bottom: none;
+      position: relative;
+      color: #FFF;
+
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: var(--space-s-l);
+      line-height: 1.2;
+      font-size: var(--step-4);
+
+      &:after {
+        content: '';
+        height: 6px;
+        width: 44px;
+        background: #FFF;
+        border-radius: 4px;
+        position: absolute;
+        left: 50%;
+        top: var(--space-m);
+        transform: translateX(-50%) translateY(-100%);
+      }
+    }
+  }
+}

@@ -1,0 +1,112 @@
+.o-grid {
+  display: grid;
+  grid-gap: var(--gutter);
+
+  &--no-gap {
+    grid-gap: 0;
+  }
+
+  &--of-two {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 48em) {
+      grid-template-columns: repeat(2, 1fr);
+
+      .o-grid--span-2 {
+        grid-column: span 2;
+      }
+    }
+  }
+
+  &--of-three {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 45em) {
+      grid-template-columns: repeat(2, 1fr);
+
+      .o-grid--span-2 {
+        grid-column: span 2;
+      }
+    }
+
+    @media (min-width: 65em) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  &--two-thirds {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 45em) {
+      grid-template-columns: repeat(3, 1fr);
+
+      & > :nth-child(2n+1) {
+        grid-column: span 2;
+      }
+    }
+  }
+
+  &--two-thirds-switch {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 45em) {
+      grid-template-columns: repeat(3, 1fr);
+
+      & > :nth-child(2n) {
+        grid-column: span 2;
+      }
+    }
+  }
+
+  &--of-four {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 35em) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (min-width: 65em) {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+
+  &--fluid {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 48em) {
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+
+      & > :first-child:last-child {
+        max-width: calc(50% - var(--gutter) / 2);
+      }
+    }
+  }
+
+  &--page {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 50em) {
+      grid-template-columns: 2.5fr 1fr;
+    }
+
+    @media (min-width: 80em) {
+      grid-template-columns: 2fr 1fr;
+    }
+  }
+
+  &--page-reverse {
+    grid-template-columns: repeat(1, 1fr);
+
+    @media (min-width: 50em) {
+      grid-template-columns: 2.5fr 1fr;
+
+      &-switch > :first-child {
+        order: 1;
+      }
+    }
+
+    @media (min-width: 80em) {
+      grid-template-columns: 2fr 1fr;
+    }
+  }
+}

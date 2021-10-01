@@ -1,0 +1,52 @@
+.c-icon {
+  width: 1em;
+  height: 1em;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+
+  svg {
+    width: 1em;
+    height: 1em;
+  }
+
+  .h2 &,
+  .h3 & {
+    margin-right: var(--space-xs);
+    color: var(--teal);
+    transform: scale(1.15) translateY(5%);
+  }
+
+  &.c-icon--inline {
+    transform: translateY(20%);
+    font-size: var(--step-0);
+    margin-right: 0.25em;
+  }
+}
+
+.c-icon--circle,
+.c-icon--square {
+  background: var(--purple);
+  height: var(--space-m);
+  width: var(--space-m);
+  border-radius: 100%;
+  font-size: var(--space-s);
+
+  svg {
+    color: var(--white);
+  }
+
+  &-grey {
+    background: var(--lightest-grey);
+
+    svg {
+      color: var(--purple);
+    }
+  }
+}
+
+.c-icon--square {
+  border-radius: 0;
+  background: var(--hot-pink);
+}

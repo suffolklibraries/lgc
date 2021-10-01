@@ -1,0 +1,13 @@
+title: Events
+template: events/show
+layout: layout
+mount: home
+taxonomies:
+  - event_categories
+  - organisers
+revisions: false
+route: 'things-to-do/{slug}'
+sort_dir: asc
+date_behavior:
+  past: public
+  future: private

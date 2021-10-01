@@ -1,0 +1,23 @@
+.o-wrap {
+  max-width: 85.25rem;
+  margin-left: auto;
+  margin-right: auto;
+  padding-right: var(--gutter);
+  padding-left: var(--gutter);
+}
+
+.o-wrap--no-pad {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.o-wrap--prose {
+  max-width: 946px;
+}
+
+@media (min-width: 48em) {
+  .o-wrap--pull {
+    margin-right: calc(-1 * var(--gutter));
+    margin-left: calc(-1 * var(--gutter));
+  }
+}

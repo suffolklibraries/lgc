@@ -1,0 +1,23 @@
+<header class="c-page-header c-page-header--with-content">
+  <div class="o-wrap">
+    
+    <div class="headline o-flow">
+      <h1>{{ title }}</h1>
+
+      {{ if standfirst }}
+        <div class="u-flow step-1 o-wrap--prose">
+          {{ standfirst | markdown }}
+        </div>
+      {{ /if }}
+    </div>
+
+    {{ if promo }}
+      <div class="c-page-header_content c-page-header_content--offset step-1">
+        <div class="u-line-height--large o-prose o-flow">
+          {{ promo }}
+        </div>
+        <figure class="c-page-header_content-image"></figure>
+      </div>
+    {{ /if }}
+  </div>
+</header>

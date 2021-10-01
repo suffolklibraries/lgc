@@ -1,0 +1,13 @@
+<ul class="c-top_menu">
+  {{ nav:main }}
+    {{ if url == '/spotlight' }}
+      {{ collection:spotlights limit="1" sort="date:desc" as="spotlights" }}
+        {{ spotlights }}
+          <li><a href="{{ url }}">Spotlight</a></li>
+        {{ /spotlights }}
+      {{ /collection:spotlights }}
+    {{ else }}
+      <li><a href="{{ url }}">{{ title }}</a></li>
+    {{ /if }}
+  {{ /nav:main }}
+</ul>

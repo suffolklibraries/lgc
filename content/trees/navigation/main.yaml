@@ -1,0 +1,13 @@
+tree:
+  -
+    id: 0a7db127-c0f0-4fdd-b0e1-a2ba1f900de2
+    title: 'Things to do'
+    url: /
+  -
+    id: e528f084-1cef-4178-ae9d-c586e24e634a
+    title: Spotlight
+    url: /spotlight
+  -
+    id: a700b3cd-5dcb-4421-a5bc-225f446faa3d
+    title: About
+    url: /about

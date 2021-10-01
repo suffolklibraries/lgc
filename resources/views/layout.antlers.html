@@ -1,0 +1,33 @@
+---
+var: 3
+---
+
+<!doctype html>
+<html lang="{{ site:short_locale }}">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>{{ title ?? site:name }}</title>
+        <link rel="stylesheet" href="{{ mix src='css/site.css' }}">
+        <link rel="stylesheet" href="https://use.typekit.net/hbp8rhy.css">
+    </head>
+    <body>
+        <a class="c-skip-link button button--pink" href="#main">Skip to content</a>
+        
+        {{ partial:global/header }}
+
+        <div>
+            {{ template_content }}
+        </div>
+
+        {{ partial:global/footer }}
+
+        <script>
+            var _maps = {
+                api: '{{ config:app:google_maps }}',
+            };
+        </script>
+        <script src="{{ mix src='/js/site.js' }}"></script>
+    </body>
+</html>

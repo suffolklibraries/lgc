@@ -1,0 +1,91 @@
+{{ partial:global/page-header/home }}
+
+<div class="o-wrap">
+  <main class="o-grid o-grid--page-reverse o-grid--page-reverse-switch" id="main">
+    {{ partial src="events/form" full="true" }}
+
+    <div>
+      <div class="o-flow">
+        {{ collection:events
+          query_scope="events"
+          sort="start_date:asc|start_time:asc"
+          paginate="true"
+          limit="6"
+          as="events"
+          :latitude="get:lat"
+          :longitude="get:lng"
+          :radius="get:radius"
+        }}
+          <div class="o-flow o-flow--xs">
+            <header class="u-split u-split--wrap">
+              <h2 class="h2">Find an event</h2>
+              <div>
+                <a href="#tab-list" class="c-tab-trigger" aria-expanded="true">
+                  {{ partial src="global/twi" label="List view" icon="list" }}
+                </a>
+                <a href="#tab-map" class="c-tab-trigger" aria-expanded="false">
+                  {{ partial src="global/twi" label="Map view" icon="map-pin" }}
+                </a>
+              </div>
+            </header>
+
+            <div class="js-search-header">
+              <p>Showing {{ events | length }} of {{ paginate }}{{ total_items }} {{ 'event' | plural:total_items }}{{ /paginate }}</p>
+            </div>
+          </div>
+
+          <div class="c-tab c-tab--active c-tab--list" id="tab-list">
+            <div class="js-events" aria-live="polite">
+              {{ if no_results }}
+                <div class="c-alert c-alert--info"><p>We can’t find any events with your current selection. Please broaden your selection to find out what’s on.</p></div>
+              {{ else }}
+                <div class="o-flow o-flow--xs">
+                  {{ events scope="event"}}
+                    {{ partial:events/preview }}
+                  {{ /events }}
+                </div>
+              {{ /if }}
+            </div>
+          </div>
+
+          <div class="c-tab c-tab--map" id="tab-map">
+            <div class="c-map"><div id="map" class="u-fill"></div></div>
+          </div>
+
+          {{ partial:global/pagination }}
+        {{ /collection:events }}
+      </div>
+
+    </div>
+  </main>
+
+  <aside class="c-library-cta o-flow">
+    {{ global:library_cta }}
+  </aside>
+</div>
+
+<script type="application/json" id="json-events">
+[
+  {{ collection:events
+    query_scope="events"
+    sort="start_date:asc|start_time:asc"
+    :latitude="get:lat"
+    :longitude="get:lng"
+    :radius="get:radius"
+    as="events"
+  }}
+    {{ events scope="event" }}
+    {{ index == 0 ? '' : ',' }}
+    {
+      "title": "{{ title }}",
+      "lat": {{ latitude }},
+      "lng": {{ longitude }},
+      "url": "{{ url }}",
+      "free": {{ free ? 'true' : 'false' }},
+      "address": "{{ address_line_1 }}",
+      "postcode": "{{ postcode }}"
+    }
+    {{ /events }}
+  {{ /collection:events }}
+]
+</script>

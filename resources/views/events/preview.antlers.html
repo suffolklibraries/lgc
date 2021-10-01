@@ -1,0 +1,36 @@
+<article class="c-event-card c-event-card--{{ orientation or 'horizontal' }}">
+  <a class="c-event-card__link" href="{{ url }}">
+    <figure class="c-event-card__image">
+      {{ if featured_image }}
+        {{ glide:featured_image width="834" height="556" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}
+      {{ else }}
+        <img src="/img/image-fallback.svg" />
+      {{ /if }}
+    </figure>
+    <div class="c-event-card__content o-flow o-flow--xs step--1">
+      <header>
+        <h2 class="h4">{{ title }}</h2>
+        {{ if organisers | length }}
+          <p class="u-dark-grey">By {{ organisers }}{{ index !== 0 ? ' & ' : '' }}{{ title }}{{ /organisers }}</p>
+        {{ /if }}
+        {{ if free }}<span class="c-event-card__free c-tag">Free</span>{{ /if }}
+      </header>
+      <div>
+        {{ content }}
+      </div>
+      <ul class="c-event-card__meta">
+        <li>
+          {{ if start_date | format:Ymd === end_date | format:Ymd }}
+            {{ start_date format="D j M Y" }}
+          {{ else }}
+            {{ start_date format="D j M" }} - {{ end_date format="D j M Y" }}</li>
+          {{ /if }}
+        </li>
+        {{ if address_line_1 }}
+        <li>{{ address_line_1 }}{{ town ? ', ' : '' }}{{ town }}</li>
+        {{ /if }}
+      </ul>
+    </div>
+    {{ partial src='global/icon' id="arrow-right" square="true" }}
+  </a>
+</article>

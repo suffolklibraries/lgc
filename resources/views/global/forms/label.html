@@ -1,0 +1,4 @@
+<label for="{{ if field_id }}{{ field_id }}{{ else }}{{ label | slugify }}{{ /if }}" class="c-label">
+  {{ if required }}<sup>*</sup>{{ /if }}
+  {{ label }}
+</label>

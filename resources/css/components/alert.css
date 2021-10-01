@@ -1,0 +1,35 @@
+.c-alert {
+  background: var(--lightest-blue);
+  padding: var(--space-s) var(--space-s-m);
+  border-radius: var(--radius);
+
+  a {
+    text-decoration: underline;
+    color: var(--blue);
+  }
+
+  & > * + * {
+    margin-top: var(--space-s);
+  }
+
+  &--concise {
+    padding: var(--space-xs) var(--space-s);
+  }
+
+  &--large {
+    padding: var(--space-s-m) var(--space-s-m);
+  }
+
+  &--error {
+    background: rgba(223, 80, 79, 0.5);
+  }
+
+  &--success {
+    background: rgba(80, 166, 94, 0.5);
+  }
+
+  &--info {
+    background: var(--lightest-grey);
+  }
+}
+

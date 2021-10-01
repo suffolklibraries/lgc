@@ -1,0 +1,122 @@
+<svg width="0" height="0" class="hidden">
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="bullet">
+    <circle cx="12" cy="12" r="4" fill="currentColor"></circle>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="chevron-left">
+    <path d="M16 4l-8 8 8 8" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    </path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="chevron-right">
+    <path d="M8 20l8-8-8-8" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    </path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="chevron-up">
+    <path d="M20 16l-8-8-8 8" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    </path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="close">
+    <path d="M19 5L5 19M5 5l14 14" stroke="currentColor" stroke-width="3" stroke-linecap="round"
+      stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="mail">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M22 6l-10 7L2 6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    </path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="phone">
+    <path
+      d="M22 16.92v3a1.998 1.998 0 0 1-2.18 2 19.791 19.791 0 0 1-8.63-3.07 19.502 19.502 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.908.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"
+      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="add">
+    <path d="M12 3v18m-9-9h18" stroke="currentColor" stroke-width="3" stroke-linecap="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="arrow-left">
+    <path d="M2 12.5L9.5 5M2 12.5L9.5 20M2 12.5h20" stroke="currentColor" stroke-width="3" stroke-linecap="round"
+      stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="arrow-right">
+    <path d="M22 12.5L14.5 5m7.5 7.5L14.5 20m7.5-7.5H2" stroke="currentColor" stroke-width="3" stroke-linecap="round"
+      stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="calendar">
+    <path d="M19 4H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm-3-2v4M8 2v4m-5 4h18"
+      stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="chevron-down">
+    <path d="M4 8l8 8 8-8" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="facebook">
+    <path
+      d="M23 12c0-6.075-4.925-11-11-11S1 5.925 1 12c0 5.49 4.023 10.041 9.281 10.866V15.18H7.488V12h2.793V9.577c0-2.757 1.643-4.28 4.155-4.28 1.204 0 2.462.215 2.462.215v2.707h-1.387c-1.366 0-1.792.848-1.792 1.718V12h3.05l-.487 3.18h-2.563v7.686C18.977 22.041 23 17.49 23 12z"
+      fill="currentColor"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="info">
+    <path d="M12 12v9" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+    <circle cx="12" cy="5" r="1" stroke="currentColor" stroke-width="2"></circle>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="instagram">
+    <path
+      d="M12.002 6.358a5.63 5.63 0 0 0-5.639 5.64 5.63 5.63 0 0 0 5.64 5.639 5.63 5.63 0 0 0 5.639-5.64 5.63 5.63 0 0 0-5.64-5.639zm0 9.306a3.673 3.673 0 0 1-3.666-3.666 3.67 3.67 0 0 1 3.666-3.667 3.67 3.67 0 0 1 3.667 3.667 3.673 3.673 0 0 1-3.667 3.666zm7.186-9.536c0 .73-.59 1.315-1.316 1.315a1.315 1.315 0 1 1 1.315-1.315zm3.735 1.335c-.084-1.762-.486-3.323-1.777-4.609-1.286-1.286-2.847-1.688-4.609-1.777-1.815-.103-7.258-.103-9.074 0-1.757.084-3.318.486-4.609 1.772-1.29 1.286-1.688 2.847-1.777 4.609-.103 1.816-.103 7.259 0 9.074.084 1.762.486 3.323 1.777 4.61 1.29 1.285 2.847 1.687 4.609 1.776 1.816.103 7.259.103 9.074 0 1.762-.084 3.323-.486 4.609-1.777 1.286-1.286 1.688-2.846 1.777-4.608.103-1.816.103-7.254 0-9.07zM20.577 18.48a3.712 3.712 0 0 1-2.091 2.09c-1.448.575-4.884.442-6.484.442-1.6 0-5.04.128-6.483-.441a3.712 3.712 0 0 1-2.09-2.091c-.575-1.448-.442-4.884-.442-6.484 0-1.6-.128-5.04.441-6.483a3.712 3.712 0 0 1 2.091-2.09c1.448-.575 4.883-.442 6.483-.442 1.6 0 5.04-.128 6.484.441a3.712 3.712 0 0 1 2.09 2.091c.575 1.448.442 4.884.442 6.484 0 1.6.133 5.04-.441 6.483z"
+      fill="currentColor"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="map-pin">
+    <g clip-path="url(#clip0)">
+      <path d="M6.657 15.657A8 8 0 0 1 17.97 4.343a8 8 0 0 1 0 11.314l-5.657 5.657-5.657-5.657z" stroke="currentColor"
+        stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+      <circle cx="12.314" cy="10" r="2" transform="rotate(-45 12.314 10)" fill="currentColor"></circle>
+    </g>
+    <defs>
+      <clipPath id="clip0">
+        <path d="M0 0h24v24H0V0z" fill="#fff"></path>
+      </clipPath>
+    </defs>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="repeat">
+    <path d="M17 1l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    </path>
+    <path d="M3 11V9a4 4 0 0 1 4-4h14M7 23l-4-4 4-4" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+      stroke-linejoin="round"></path>
+    <path d="M21 13v2a4 4 0 0 1-4 4H3" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+      stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="menu">
+    <path d="M2 4h20M2 12h20M2 20h20" stroke="currentColor" stroke-width="3" stroke-linecap="round"
+      stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="search">
+    <path d="M22 22l-4.5-4.5M20 11a9 9 0 1 1-18 0 9 9 0 0 1 18 0z" stroke="currentColor" stroke-width="3"
+      stroke-linecap="round" stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="tick">
+    <path d="M4 12.353L9.647 18 21 6" stroke="currentColor" stroke-width="3" stroke-linecap="round"
+      stroke-linejoin="round"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="twitter">
+    <path
+      d="M7.548 21.501c9.056 0 14.01-7.503 14.01-14.01 0-.213 0-.425-.015-.636A10.02 10.02 0 0 0 24 4.305a9.829 9.829 0 0 1-2.828.775 4.94 4.94 0 0 0 2.165-2.723 9.867 9.867 0 0 1-3.127 1.195 4.929 4.929 0 0 0-8.391 4.491A13.98 13.98 0 0 1 1.67 2.898a4.928 4.928 0 0 0 1.525 6.573A4.887 4.887 0 0 1 .96 8.855v.063a4.926 4.926 0 0 0 3.95 4.826 4.915 4.915 0 0 1-2.223.085 4.93 4.93 0 0 0 4.6 3.42A9.88 9.88 0 0 1 0 19.288a13.94 13.94 0 0 0 7.548 2.208"
+      fill="currentColor"></path>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="spotify">
+    <path fill="currentColor" d="M18.5 10.8A18.3 18.3 0 0 0 5.7 9.5a1 1 0 1 1-.6-2c4-1.2 10.4-1 14.5 1.5a1 1 0 0 1-1 1.8Zm-.1 3c-.3.5-.8.6-1.2.4-3-1.9-7.5-2.4-11-1.3a.9.9 0 0 1-.4-1.7c4-1.2 9-.6 12.3 1.5.4.2.5.8.3 1.2Zm-1.4 3c-.2.4-.6.5-.9.3-2.6-1.6-5.8-2-9.7-1a.7.7 0 1 1-.3-1.4 14 14 0 0 1 10.7 1.2c.3.2.4.6.2 1ZM12 1a11 11 0 1 0 0 22 11 11 0 0 0 0-22Z"/>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="youtube">
+    <path fill="currentColor" fill-rule="evenodd" d="M12.34 4c1.48 0 7.4.06 9.04.5a3.02 3.02 0 012.12 2.15c.5 1.9.5 5.85.5 5.85v.01c0 .23-.02 4-.5 5.83a3.02 3.02 0 01-2.12 2.15c-1.72.47-8.14.5-9.23.5h-.3c-1.09 0-7.52-.03-9.23-.5A3.02 3.02 0 01.5 18.34c-.42-1.6-.49-4.69-.5-5.59v-.5c.01-.9.08-3.99.5-5.6a3.02 3.02 0 012.12-2.14c1.64-.45 7.55-.5 9.04-.51zM10 9v7l6-3.5L10 9z"/>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="clock">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6l4 2m6-2a10 10 0 1 1-20 0 10 10 0 0 1 20 0Z"/>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="money">
+    <path fill="currentColor" d="M2 9.5V4a1 1 0 0 1 1-1h18a1 1 0 0 1 1 1v5.5a2.5 2.5 0 0 0 0 5V20a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1v-5.5a2.5 2.5 0 0 0 0-5ZM4 8a4.5 4.5 0 0 1 0 8v3h16v-3a4.5 4.5 0 0 1 0-8V5H4v3Zm5 1h6v2H9V9Zm0 4h6v2H9v-2Z"/>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="users">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2m22 0v-2a4 4 0 0 0-3-3.9m-4-12a4 4 0 0 1 0 7.8M13 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0Z"/>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="list">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 6h13M8 12h13M8 18h13M3 6h0M3 12h0M3 18h0"/>
+  </symbol>
+  <symbol viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="location">
+    <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m3 12.5 19-9-9 19-2-8-8-2Z"/>
+  </symbol>
+</svg>

@@ -1,0 +1,14 @@
+.c-newsletter {
+  background: var(--yellow);
+  padding: var(--space-s-m);
+
+  @media (max-width: 30em), (min-width: 48em) and (max-width: 60em) {
+    form {
+      flex-direction: column;
+
+      & > :last-child {
+        margin: 1rem 0 0;
+      }
+    }
+  }
+}

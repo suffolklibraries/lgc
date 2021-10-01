@@ -1,0 +1,12 @@
+.c-tick-list {
+  li {
+    padding-left: 2.5rem;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' fill='none' viewBox='0 0 24 24'%3E%3Cpath stroke='%23333' stroke-linecap='round' stroke-linejoin='round' stroke-width='3' d='M4 12.4 9.6 18 21 6' opacity='.7'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: 0 0.175rem;
+  }
+
+  li + li {
+    margin-top: var(--space-xs-s);
+  }
+}

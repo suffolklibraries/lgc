@@ -1,0 +1,27 @@
+.c-tag {
+  font-size: var(--step--1);
+  padding: 0.5em 1em;
+  line-height: 1;
+  background: var(--lightest-blue);
+  border-radius: 7px;
+  display: inline-block;
+  margin: var(--tag-gap, 0);
+
+  &[aria-current] {
+    background: #2867E0;
+    color: var(--white);
+  }
+}
+
+.c-tags {
+  font-size: 0;
+
+  --tag-gap: 0.25em;
+  margin-left: calc(-0.25 * var(--step--1));
+  margin-right: calc(-0.25 * var(--step--1));
+
+  & > li {
+    display: inline-block;
+    margin: var(--tag-gap, 0);
+  }
+}

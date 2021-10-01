@@ -1,0 +1,16 @@
+.c-featured {
+  background: var(--orange);
+  color: var(--white);
+  text-transform: uppercase;
+  font-size: var(--step--2);
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  padding: 0.1em 0.5em;
+  position: absolute;
+  z-index: 2;
+  left: var(--space-s);
+  top: 0;
+  
+  margin-top: 0;
+  --flow: 0;
+}

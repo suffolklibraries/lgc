@@ -1,0 +1,26 @@
+<footer class="c-pagination o-flow js-pagination">
+  {{ paginate }}
+    {{ if prev_page }}
+      <div>
+        <a href="{{ prev_page }}{{ if regular }}#regular-events{{ /if }}" class="u-inline-flex o-flow-x o-flow--xs">
+          {{ partial:global/icon id="arrow-left" class="u-green" inline="true" }}
+          <span>
+            {{ previous or "Previous page" }}
+            <br /><u>{{ current_page | subtract:1 }} of {{ total_pages }}</u>
+          </span>
+        </a>
+      </div>
+    {{ /if }}
+    {{ if next_page }}
+      <div class="{{ next_page and prev_page ? 'u-keyline' : '' }}">
+        <a href="{{ next_page }}{{ if regular }}#regular-events{{ /if }}" class="u-inline-flex o-flow-x o-flow--xs">
+          {{ partial:global/icon id="arrow-right" class="u-green" inline="true" }}
+          <span>
+            {{ next or "Next page" }}
+            <br /><u>{{ current_page | add:1 }} of {{ total_pages }}</u>
+          </span>
+        </a>
+      </div>
+    {{ /if }}
+  {{ /paginate }}
+</footer>

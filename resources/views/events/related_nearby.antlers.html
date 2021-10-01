@@ -1,0 +1,23 @@
+{{ collection:events
+  as="nearby_events"
+  :limit="global:related_events_count | subtract:running"
+  query_scope="events"
+  :slug:isnt="slug"
+  :url:isnt="organiser_events.0.url"
+  :id:isnt="category_events.0.id"
+  :latitude="latitude"
+  :longitude="longitude"
+  radius="10"
+}}
+  {{ nearby_events scope="event"}}
+    {{ partial src="events/preview" orientation="vertical" }}
+  {{ /nearby_events }}
+
+  {{ category_events scope="event"}}
+    {{ partial src="events/preview" orientation="vertical" }}
+  {{ /category_events }}
+
+  {{ organiser_events scope="event" }}
+    {{ partial src="events/preview" orientation="vertical" }}
+  {{ /organiser_events }}
+{{ /collection:events }}
