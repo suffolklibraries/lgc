@@ -769,14 +769,11 @@ figcaption {
 }
 .o-grid {
   display: grid;
-  grid-gap: calc(calc(((19 / 16) * 1rem) + (44 - 19) * calc(
-    (100vw - 320 / 16 * 1rem) /
-      (1480 - 320)
-  )) * 2) calc(((19 / 16) * 1rem) + (44 - 19) * calc(
+  grid-gap: calc(((19 / 16) * 1rem) + (44 - 19) * calc(
     (100vw - 320 / 16 * 1rem) /
       (1480 - 320)
   ));
-  grid-gap: calc(var(--gutter) * 2) var(--gutter);
+  grid-gap: var(--gutter);
 }
 .o-grid--no-gap {
     grid-gap: 0;
@@ -872,7 +869,15 @@ figcaption {
       }
     }
 .o-grid--page {
-    grid-template-columns: repeat(1, 1fr)
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: calc(calc(((19 / 16) * 1rem) + (44 - 19) * calc(
+    (100vw - 320 / 16 * 1rem) /
+      (1480 - 320)
+  )) * 2) calc(((19 / 16) * 1rem) + (44 - 19) * calc(
+    (100vw - 320 / 16 * 1rem) /
+      (1480 - 320)
+  ));
+    grid-gap: calc(var(--gutter) * 2) var(--gutter)
   }
 @media (min-width: 50em) {
 
@@ -887,7 +892,15 @@ figcaption {
   }
     }
 .o-grid--page-reverse {
-    grid-template-columns: repeat(1, 1fr)
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: calc(calc(((19 / 16) * 1rem) + (44 - 19) * calc(
+    (100vw - 320 / 16 * 1rem) /
+      (1480 - 320)
+  )) * 2) calc(((19 / 16) * 1rem) + (44 - 19) * calc(
+    (100vw - 320 / 16 * 1rem) /
+      (1480 - 320)
+  ));
+    grid-gap: calc(var(--gutter) * 2) var(--gutter)
   }
 @media (min-width: 50em) {
 
