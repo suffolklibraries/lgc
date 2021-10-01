@@ -1,0 +1,10 @@
+{{ collection:events
+  as="category_events"
+  limit="1"
+  query_scope="events"
+  :slug:isnt="slug"
+  :url:isnt="organiser_events.0.url"
+  :taxonomy:event_categories="event_categories"
+}}
+  {{ partial src="events/related_nearby" :running="total_results | add:count" }}
+{{ /collection:events }}

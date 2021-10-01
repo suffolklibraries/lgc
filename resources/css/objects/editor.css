@@ -1,0 +1,7 @@
+.o-editor {
+    margin-top: 1rem;
+
+  .o-prose + .o-prose {
+    --flow: var(--space-m);
+  }
+}

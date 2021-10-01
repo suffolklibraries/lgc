@@ -1,0 +1,21 @@
+<div class="o-flow">
+  {{ content_area }}
+    {{ if type == 'text' }}
+      <div class="o-prose o-flow o-prose--pull-up-image js-link-icons">
+        {{ text }}
+      </div>
+    {{ elseif type == 'youtube' }}
+      <figure>
+        <div class="c-embed">
+          <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/{{ video_id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </figure>
+    {{ elseif type == 'event' }}
+      <div class="o-flow">
+        {{ events scope="event" }}
+          {{ partial src="events/preview" }}
+        {{ /events }}
+      </div>
+    {{ /if }}
+  {{ /content_area }}
+</div>

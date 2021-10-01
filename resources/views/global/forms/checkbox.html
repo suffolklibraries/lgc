@@ -1,0 +1,20 @@
+{{ if options | length == 1 }}
+  <ul>
+    {{ options }}
+      <li>
+        <input type="checkbox" name="{{ field_id or field:label | slugify }}" id="{{ field_id or field:label | slugify }}" value="{{ value }}" {{ if required }}required{{ /if }}/>
+        <label for="{{ field_id or field:label | slugify }}"><span class="c-label">{{ if required }}<sup>*</sup> {{ /if }}{{ field:label }}</span></label>
+      </li>
+    {{ /options }}
+  </ul>
+{{ else }}
+  {{ partial:global/forms/label }}
+  <ul>
+    {{ options }}
+      <li>
+        <input type="checkbox" name="{{ field_id or field:label | slugify }}" id="{{ field_id or field:label | slugify }}_{{ index }}" value="{{ value }}" {{ if required }}required{{ /if }}/>
+        <label for="{{ field_id or field:label | slugify }}_{{ index }}">{{ label }}</label>
+      </li>
+    {{ /options }}
+  </ul>
+{{ /if }}

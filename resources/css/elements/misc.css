@@ -1,0 +1,12 @@
+hr {
+  border: none;
+  border-top: 1px solid var(--light-grey);
+  margin: var(--flow) 0;
+}
+
+figcaption {
+  display: block;
+  margin-top: 0.5em;
+  font-size: var(--step--1);
+  color: var(--dark-grey);
+}

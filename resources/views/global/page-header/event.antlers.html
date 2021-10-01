@@ -1,0 +1,25 @@
+<header class="c-page-header c-page-header--events {{ if standfirst or event_start_date }}c-page-header--with-content{{ /if }} {{ if standfirst }}c-page-header--standfirst{{ else }}c-page-header--simple{{ /if }} {{ if colour or hero-colour }} c-page-header--{{ colour or hero-colour }}{{ /if }} {{ if breadcrumb and breadcrumbLink != '/' }}c-page-header--breadcrumb{{ /if }}">
+  <div class="o-wrap">
+    
+    <div class="o-grid o-grid--page">
+      <div class="headline o-flow o-flow--xs">
+        <h1>{{ title }}</h1>
+        {{ if organisers | length }}
+          <p class="c-page-header_organisers">By {{ organisers }}{{ index !== 0 ? ' & ' : '' }}{{ title }}{{ /organisers }}</p>
+        {{ /if }}
+        {{ if content }}
+          <div class="u-flow step-1 o-wrap--prose u-margin-top-m">
+            {{ content }}
+          </div>
+        {{ /if }}
+      </div>
+
+      {{ if accessibility_information }}
+        <div class="c-tick-list step--1">
+          {{ accessibility_information }}
+        </div>
+      {{ /if }}
+    </div>
+
+  </div>
+</header>

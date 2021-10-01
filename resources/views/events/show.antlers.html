@@ -1,0 +1,107 @@
+{{ partial:global/page-header/event }}
+
+<main class="o-wrap o-grid o-grid--page-reverse o-grid--page-reverse-switch" id="main">
+  <aside class="o-flow o-flow--m">
+    <div>
+      <ol class="c-event-meta o-flow">
+        {{ if start_date | format:Ymd === end_date | format:Ymd }}
+          <li class="c-twi c-twi--left">
+            <span class="u-screen-reader-only">Event date:</span>
+            {{ partial src="global/icon" id="calendar" }}
+            <span>{{ start_date format="l j F Y" }}</span>
+          </li>
+          <li class="c-twi c-twi--left">
+            <span class="u-screen-reader-only">Event time:</span>
+            {{ partial src="global/icon" id="clock" }}
+            <span>{{ start_date format="G:ia" }} – {{ end_date format="G:ia" }}</span>
+          </li>
+        {{ else }}
+          <li class="c-twi c-twi--left">
+            <span class="u-screen-reader-only">Event date and time:</span>
+            {{ partial src="global/icon" id="calendar" }}
+            <span>{{ start_date format="D j M" }} {{ start_date format="G:ia" }} – {{ end_date format="D j M Y" }} {{ end_date format="H:ia" }}</span>
+          </li>
+        {{ /if }}
+
+        {{ if free or cost_details }}
+          <li class="c-twi c-twi--left">
+            <span class="u-screen-reader-only">Event cost:</span>
+            {{ partial src="global/icon" id="money" }}
+            <span>
+              {{ if free }}
+                {{ cost_details ? cost_details : 'Free entry' }}
+              {{ else }}
+                {{ cost_details }}
+              {{ /if }}
+            </span>          
+          </li>
+        {{ /if }}
+
+        {{ if attendance_information }}
+          <li>
+            <span class="u-screen-reader-only">Attendance information:</span>
+            {{ partial src="global/twi" icon="users" :label="attendance_information" }}
+          </li>
+        {{ /if }}
+        {{ if address_line_1 }}
+          <li class="c-twi c-twi--left">
+            <span class="u-screen-reader-only">Event <address></address>:</span>
+            {{ partial src="global/icon" id="map-pin" }}
+            <span>
+              {{ address_line_1 }}<br />
+              {{ if address_line_2 }}{{ address_line_2 }}<br />{{ /if }}
+              {{ if town }}{{ town }}<br />{{ /if }}
+              {{ if postcode }}{{ postcode }}{{ /if }}
+            <span>
+          </li>
+        {{ /if }}
+        {{ if virtual }}
+          <li class="c-twi c-twi--left">
+            {{ partial src="global/icon" id="map-pin" }}
+            <span>Virtual event</span>
+          </li>
+        {{ /if }}
+      </ol>
+      {{ if latitude and longitude }}
+        <div class="c-map">
+          <div id="static-map" class="u-fill" data-lat="{{ latitude }}" data-lng="{{ longitude }}"></div>
+        </div>
+      {{ /if }}
+    </div>
+
+    {{ if booking_link }}
+      <a href="{{ booking_link }}" class="button button--pink button--round button--wide">
+        {{ partial src="global/twi" label="Book your place" icon="arrow-right" }}
+      </a>
+    {{ /if }}
+    {{ if cta }}
+      <div class="o-prose o-flow o-flow--xs c-event-cta js-link-icons">
+        {{ cta }}
+      </div>
+    {{ /if }}
+  </aside>
+  
+  <div class="o-flow o-flow--l">
+    {{ if featured_image }}
+      {{ glide:featured_image width="1251" height="834" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}
+    {{ /if }}
+
+    {{ partial src="global/content_area" }}
+  </div>
+
+</main>
+
+<aside class="o-wrap o-flow o-flow--m u-pad-top-l">
+  <h2 class="h2">You might be interested in&hellip;</h2>
+  <div class="o-grid o-grid--of-three">
+    {{ collection:events
+      as="organiser_events"
+      limit="1"
+      query_scope="events"
+      :slug:isnt="slug"
+      :taxonomy:organisers="organisers"
+    }}
+      {{ partial src="events/related_categories" :count="total_results" }}
+    {{ /collection:events }}
+  </div>
+</aside>

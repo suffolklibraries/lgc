@@ -1,0 +1,8 @@
+name: 'Trys Mudford'
+super: true
+id: 5b72ad31-9613-4471-9564-e28d5005ecc0
+password_hash: $2y$10$hBoUMW0Si/EHgrk7K32Z7eX1QJLheVObTJMAAO5C0pnS2Km6t90CK
+preferences:
+  taxonomies:
+    event_categories:
+      after_save: create_another

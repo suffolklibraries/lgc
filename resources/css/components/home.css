@@ -1,0 +1,37 @@
+.c-home-content {
+  & > :first-child > .c-card {
+    display: flex;
+    flex-direction: column;
+
+    figure {
+      order: -1;
+      margin-top: 0;
+      margin-bottom: var(--flow);
+
+      & ~ * {
+        display: none;
+      }
+    }
+  }
+}
+
+.c-home-events {
+  & > * {
+    margin-bottom: var(--space-s);
+  }
+
+  @media (min-width: 55em) {
+    column-count: 2;
+    column-gap: var(--gutter);
+    column-width: 200px;
+
+    & > * {
+      display: inline-block;
+      break-inside: avoid;
+    }
+  }
+
+  &-container:first-child:last-child {
+    grid-column: 1 / -1;
+  }
+}

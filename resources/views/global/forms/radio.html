@@ -1,0 +1,9 @@
+{{ partial:global/forms/label }}
+<ul>
+  {{ options }}
+    <li>
+      <input type="radio" name="{{ field_id or field:label | slugify }}" id="{{ field_id or field:label | slugify }}_{{ index }}" value="{{ value }}" {{ if required }}required{{ /if }}/>
+      <label for="{{ field_id or field:label | slugify }}_{{ index }}">{{ label }}</label>
+    </li>
+  {{ /options }}
+</ul>

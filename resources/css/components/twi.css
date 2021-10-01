@@ -1,0 +1,28 @@
+.c-twi {
+  --twi-space: var(--space-xs);
+  display: inline-flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  .c-icon {
+    margin-left: var(--twi-space);
+  }
+
+  &--left .c-icon {
+    margin-right: var(--twi-space);
+    margin-left: 0;
+  }
+
+  &--right .c-icon {
+    order: 1;
+  }
+
+  .c-icon,
+  svg {
+    flex-shrink: 0;
+  }
+}
+
+li.c-twi {
+  display: flex;
+}

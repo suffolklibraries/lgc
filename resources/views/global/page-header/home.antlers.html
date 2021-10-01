@@ -1,0 +1,41 @@
+<header class="c-page-header c-page-header--with-content c-page-header--standfirst">
+  <div class="o-wrap">
+    
+    <div class="headline o-flow">
+      <h1>{{ title }}</h1>
+      
+      <div class="u-flow step-1 o-wrap--prose">
+        {{ content }}
+      </div>
+    </div>
+
+
+    {{ collection:spotlights limit="1" sort="date:desc" as="spotlights" }}
+      {{ spotlights }}
+        <div class="c-page-header_content">
+          {{ if featured_image }}
+            {{ glide:featured_image width="1251" height="834" }}
+              <figure class="c-page-header_content-image">
+                <img src="{{ url }}" alt="{{ alt }}" />
+              </figure>
+            {{ /glide:featured_image }}
+          {{ /if }}
+          <div class="o-flow o-flow--xs c-page-header_content-wrapper">
+            <header>
+              <p class="eyebrow u-hot-pink">Spotlight on</p>
+              <h2 class="h2">{{ title }}</h2>
+            </header>
+            <div class="o-prose o-flow">
+              {{ description }}
+              <p>
+                <a href="{{ url }}" class="u-no-underline u-fill-after">
+                {{ partial src="global/twi" :label="call_to_action" icon="arrow-right" square="true" }}
+                </a>
+              </p>
+            </div>
+          </div>
+        </div>
+      {{ /spotlights }}
+    {{ /collection:spotlights }}
+  </div>
+</header>

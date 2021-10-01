@@ -1,0 +1,5 @@
+{{ if environment === 'production' }}
+    {{ site_settings.footer_scripts }}
+        {{ script_snippet }}
+    {{ /site_settings.footer_scripts }}
+{{ endif }}

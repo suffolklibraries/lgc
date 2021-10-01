@@ -1,0 +1,2 @@
+{{ partial:global/forms/label }}
+<input type="date" id="{{ if field_id }}{{ field_id }}{{ else }}{{ label | slugify }}{{ /if }}" name="{{ if field_id }}{{ field_id }}{{ else }}{{ label | slugify }}{{ /if }}" {{ if required }}required{{ /if }} />

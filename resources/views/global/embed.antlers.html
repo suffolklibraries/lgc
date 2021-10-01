@@ -1,0 +1,7 @@
+<figure class="c-embed">
+  {{ if youtube_id }}
+    <iframe title="External Youtube video" width="560" height="315" src="//www.youtube-nocookie.com/embed/{{ youtube_id }}" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  {{ elseif vimeo_id }}
+    <iframe title="External Vimeo video" src="https://player.vimeo.com/video/{{ vimeo_id }}" width="640" height="360" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  {{ /if }}
+</figure>

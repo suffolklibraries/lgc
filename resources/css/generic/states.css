@@ -1,0 +1,13 @@
+:focus {
+  outline: 3px solid #ffb700;
+}
+
+[disabled] {
+  cursor: not-allowed;
+  opacity: 0.4;
+}
+
+[aria-hidden],
+[hidden] {
+  display: none;
+}

@@ -1,0 +1,49 @@
+:root {
+  --flow: var(--space-s);
+}
+
+.o-flow > * + * {
+  --flow: var(--space-s);
+  
+  margin-top: var(--flow);
+}
+
+.o-flow--2xs > * + * {
+  --flow: var(--space-2xs);
+}
+
+.o-flow--xs > * + * {
+  --flow: var(--space-xs);
+}
+
+.o-flow--s > * + * {
+  --flow: var(--space-s);
+}
+
+.o-flow--s-m > * + * {
+  --flow: var(--space-s-m);
+}
+
+.o-flow--m > * + * {
+  --flow: var(--space-m);
+}
+
+.o-flow--l > * + * {
+  --flow: var(--space-l);
+}
+
+.o-flow--xl > * + * {
+  --flow: var(--space-xl);
+}
+
+.o-flow.o-prose > * + * {
+  --flow: calc(0.666 * var(--space-m));
+}
+
+.o-flow--s.o-prose > * + * {
+  --flow: var(--space-s);
+}
+
+.o-flow-x > * + * {
+  margin-left: var(--flow);
+}

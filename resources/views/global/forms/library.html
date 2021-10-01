@@ -1,0 +1,6 @@
+{{ partial:global/forms/label }}
+<select class="js-autocomplete" id="{{ if field_id }}{{ field_id }}{{ else }}{{ label | slugify }}{{ /if }}" name="{{ if field_id }}{{ field_id }}{{ else }}{{ label | slugify }}{{ /if }}" {{ if required }}required{{ /if }}>
+  {{ collection:libraries }}
+    <option value="{{ title }}">{{ title }}</option>
+  {{ /collection:libraries }}
+</select>

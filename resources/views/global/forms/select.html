@@ -1,0 +1,6 @@
+{{ partial:global/forms/label }}
+<select id="{{ if field_id }}{{ field_id }}{{ else }}{{ label | slugify }}{{ /if }}" name="{{ if field_id }}{{ field_id }}{{ else }}{{ label | slugify }}{{ /if }}" {{ if required }}required{{ /if }}>
+  {{ options }}
+    <option value="{{ value }}">{{ label }}</option>
+  {{ /options }}
+</select>

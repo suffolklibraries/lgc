@@ -1,0 +1,32 @@
+{{ partial:global/page-header/spotlight }}
+
+<div class="o-wrap o-grid o-grid--page-reverse">
+  <main class="o-flow o-flow--l o-prose--pull-up-image" id="main">
+    {{ if featured_image }}
+      {{ glide:featured_image width="1251" height="834" }}<figure><img src="{{ url }}" alt="{{ alt }}" /></figure>{{ /glide:featured_image }}
+    {{ /if }}
+
+    {{ partial src="global/content_area" }}
+
+    <div class="o-prose o-prose--green-arrow">
+      <p>
+        <a href="/">{{ partial src="global/twi" label="Browse all events and activities" icon="arrow-right" }}</a>
+      </p>
+      {{ collection:next in="spotlights" as="posts" limit="1" sort="date:desc" }}
+        {{ posts }}
+          <p>
+            <a href="{{ url }}">
+              <span class="c-twi c-twi--left">
+                {{ partial src="global/icon" id="arrow-right" }}
+                <span>Previous spotlight: {{ title }}</span>
+              </span>              
+            </a>
+          </p>
+        {{ /posts }}
+      {{ /collection:next }}
+    </div>
+  </main>
+  <aside class="o-flow o-flow--m">
+    {{ partial src="events/form" }}
+  </aside>
+</div>

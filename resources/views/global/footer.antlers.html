@@ -1,0 +1,57 @@
+{{ global }}
+  <footer class="c-footer" role="contentinfo">
+    <div class="c-footer_primary">
+      <div class="o-wrap"> 
+        <div class="o-grid o-grid--page-reverse">
+          <div>
+            <div class="o-flow o-flow--xs">
+              <h3>Follow us</h3>
+              <ul class="c-footer_social">
+                {{ social_links }}
+                  <li>
+                    <a href="{{ link }}" aria-label="Suffolk Libraries on {{ icon }}">
+                      {{ partial:global/icon :id="icon" }}
+                    </a>
+                  </li>
+                {{ /social_links }}
+              </ul>
+            </div>
+
+            <div class="o-flow o-flow--xs c-footer_newsletter">
+              <h3>Stay in the loop</h3>
+              {{ newsletter_embed }}
+            </div>
+          </div>
+          <div>
+            <div>
+              <div class="c-footer-listing o-flow o-flow--xs step--1">
+                <h3 class="step-0">{{ listing_section_title }}</h3>
+                {{ listing_content }}
+                <figure class="c-footer-listing_image">
+                  {{ glide:listing_image width="132" height="132" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:listing_image }}
+                  <figcaption>
+                    <a href="mailto:{{ listing_email }}">{{ listing_call_to_action }}</a>
+                  </figcaption>
+                </figure>
+              </div>
+            </div>
+            <a href="https://www.artscouncil.org.uk/" class="c-footer_arts">
+              <img src="/img/arts-council-england.png" alt="Arts Council England logo" />
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="c-footer_secondary">
+      <div class="o-wrap">
+        <a class="c-footer_secondary-wrapper" href="https://www.suffolklibraries.co.uk/">
+          <img src="/img/logo.svg" alt="Suffolk Libraries Logo" />
+          <p class="step--1">Suffolk Libraries HMRC charity number XT34476.<br />
+            Registered company number IP031542.</p>
+        </a>
+      </div>
+    </div>
+  </footer>
+{{ /global }}
+
+{{ partial src="global/organisers" }}

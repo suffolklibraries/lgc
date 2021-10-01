@@ -1,0 +1,7 @@
+.c-pagination {
+  padding: 0 0 var(--space-m-l);
+
+  a {
+    color: var(--blue);
+  }
+}
