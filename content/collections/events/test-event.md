@@ -1,10 +1,10 @@
 ---
 id: 2d56b8d2-2432-43e9-86c5-b05cf36c23b9
 blueprint: events
-title: 'Test event'
+title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1633082172
+updated_at: 1633085626
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2021-10-20 09:00'
@@ -18,7 +18,7 @@ organisers:
   - dance-east
   - britten-pears-arts
 address_line_1: 'All Saints Church Hall'
-address_line_2: "Church Street"
+address_line_2: 'Church Street'
 town: Sudbury
 postcode: 'CO10 2BL'
 featured_image: DE_MOVERS_IMG-1.jpg
