@@ -47,7 +47,7 @@
 
   &__free.c-tag {
     background: var(--lightest-green);
-    color: var(--green);
+    color: var(--accessible-green);
     font-weight: 700;
     border-radius: 2em;
     margin-top: 0;

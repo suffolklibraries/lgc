@@ -2,6 +2,7 @@
   --blue: #2867E0;
   --purple: #7A3E69;
   --green: #50A65E;
+  --accessible-green: #4A8D55;
   --lightest-green: #D4E5D7;
   --yellow: #FCC333;
   --red: #DF504F;
@@ -1728,8 +1729,8 @@ figcaption {
 .c-event-card__free.c-tag {
     background: #D4E5D7;
     background: var(--lightest-green);
-    color: #50A65E;
-    color: var(--green);
+    color: #4A8D55;
+    color: var(--accessible-green);
     font-weight: 700;
     border-radius: 2em;
     margin-top: 0;
