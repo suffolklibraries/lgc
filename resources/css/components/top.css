@@ -3,7 +3,7 @@
   padding-top: var(--space-xs-m);
 
   &_logo {
-    width: 40vw;
+    width: 45vw;
     min-width: 150px;
     max-width: 386px;
     display: flex;

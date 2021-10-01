@@ -1,6 +1,6 @@
 .o-grid {
   display: grid;
-  grid-gap: var(--gutter);
+  grid-gap: calc(var(--gutter) * 2) var(--gutter);
 
   &--no-gap {
     grid-gap: 0;
