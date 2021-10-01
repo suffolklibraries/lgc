@@ -33,6 +33,9 @@ var: 3
                 <meta name="twitter:image" content="{{ site:url }}{{ url }}" />
             {{ /glide:global:seo_image }}
         {{ /if }}
+        {{ if environment === 'production' }}
+            {{ global:header_scripts }}
+        {{ endif }}
     </head>
     <body>
         <a class="c-skip-link button button--pink" href="#main">Skip to content</a>

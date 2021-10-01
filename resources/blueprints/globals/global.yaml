@@ -84,6 +84,21 @@ sections:
           listable: hidden
           instructions_position: above
       -
+        handle: header_scripts
+        field:
+          theme: material
+          mode: htmlmixed
+          indent_type: tabs
+          indent_size: 4
+          key_map: default
+          line_numbers: true
+          line_wrapping: true
+          display: 'Header Scripts'
+          type: code
+          icon: code
+          listable: hidden
+          instructions_position: above
+      -
         handle: seo_image
         field:
           mode: list
