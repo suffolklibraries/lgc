@@ -25,7 +25,7 @@ data:
       link: 'https://open.spotify.com/show/36qSnIxRfApjdCWOkmCIuy?si=TimTK26PREqiorXgYxQHsg&dl_branch=1'
       icon: spotify
   newsletter_embed: |-
-    <form action="https://suffolklibraries.us4.list-manage.com/subscribe/post?u=8fdb8e824d6cb5f95be2c5b88&amp;id=3ec8bb8121" method="post" name="mc-embedded-subscribe-form" target="_blank">
+    <form action="https://suffolklibraries.us4.list-manage.com/subscribe/post?u=8fdb8e824d6cb5f95be2c5b88&amp;id=6911de9aaa" method="post" name="mc-embedded-subscribe-form" target="_blank">
       <div class="u-flex o-flow-x">
         <p class="u-flex-1">
           <label class="u-screen-reader-only" for="newsletter-email">Email address</label>
@@ -33,15 +33,15 @@ data:
         </p>
         <input type="submit" class="button button--orange" name="subscribe" value="Subscribe" />
       </div>
-      <div style="position: absolute; left: -5000px; width: 0;" aria-hidden="true"><input type="text" name="b_8fdb8e824d6cb5f95be2c5b88_3ec8bb8121" tabindex="-1" value=""></div>
+      <div style="position: absolute; left: -5000px; width: 0;" aria-hidden="true"><input type="text" name="b_8fdb8e824d6cb5f95be2c5b88_6911de9aaa" tabindex="-1" value=""></div>
     </form>
     <p>We never spam. Unsubscribe at any time. <a href="#">View the latest edition</a></p>
   seo_image: opengraph.png
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost event lorem ipsum dolor sit amet, consectetur adipiscing elit.'
   listing_call_to_action: 'Get in touch with Georgie'
-  listing_image: placeholder-avatar.jpg
-  listing_email: georgina.quinn@suffolklibraries.co.uk
+  listing_image: headshot.jpg
+  listing_email: Get.Creative@suffolklibraries.co.uk
   library_cta:
     -
       type: heading

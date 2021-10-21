@@ -7,7 +7,7 @@ longitude: '1.1479309984275614'
 start_date: '2021-11-11 16:00'
 end_date: '2021-11-11 18:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1634119297
+updated_at: 1634647411
 free: true
 virtual: false
 organisers:
@@ -33,7 +33,35 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call Britten Pears Arts on [01728 687152] (tel:01728 687152) or email [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org).'
+        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call Britten Pears Arts on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01728687152'
+              rel: null
+              target: null
+              title: null
+        text: '01728 687152'
+      -
+        type: text
+        text: ' or email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:community@brittenpearsarts.org'
+              rel: null
+              target: null
+              title: null
+        text: community@brittenpearsarts.org
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
