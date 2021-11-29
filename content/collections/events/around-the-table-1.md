@@ -1,5 +1,6 @@
 ---
 id: 7ee65735-2595-4725-aaff-6f19757d5a73
+published: false
 blueprint: events
 title: 'Around The Table 2022'
 start_date: '2022-02-01 15:30'

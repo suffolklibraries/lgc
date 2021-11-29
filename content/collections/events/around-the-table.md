@@ -1,5 +1,6 @@
 ---
 id: 13f3ed11-1bb7-4292-925d-116f8d3e9deb
+published: false
 blueprint: events
 title: 'Around The Table'
 start_date: '2021-12-22 15:30'

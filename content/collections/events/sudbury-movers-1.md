@@ -1,10 +1,11 @@
 ---
 id: 281fde37-2b58-474c-9712-a56fb4fb8aaa
+published: false
 blueprint: events
 title: 'Sudbury Grovers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1633094151
+updated_at: 1636552590
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-21 09:00'

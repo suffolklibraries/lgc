@@ -1,5 +1,6 @@
 ---
 id: a92fb52a-f6c9-4568-80c2-b2f66e4821b7
+published: false
 blueprint: events
 title: 'Around The Other Table'
 start_date: '2022-03-03 15:30'

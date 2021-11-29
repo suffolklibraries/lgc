@@ -4,10 +4,10 @@ blueprint: events
 title: 'Group A - Ipswich'
 latitude: '52.05886231610009'
 longitude: '1.1479309984275614'
-start_date: '2021-11-11 16:00'
-end_date: '2021-11-11 18:00'
+start_date: '2022-01-20 16:00'
+end_date: '2022-01-20 18:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1634647411
+updated_at: 1637752537
 free: true
 virtual: false
 organisers:
@@ -75,7 +75,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Group A meets at The New Wolsey Theatre in Ipswich ....'
+        text: 'Group A meets at The New Wolsey Theatre in Ipswich, unless otherwise stated, for details on how to get to The New Wolsey please visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.wolseytheatre.co.uk/your-visit/getting-here/'
+              rel: null
+              target: _blank
+              title: null
+        text: www.wolseytheatre.co.uk/your-visit/getting-here/.
   -
     type: heading
     attrs:
@@ -89,7 +100,35 @@ content_area:
     content:
       -
         type: text
-        text: 'For more information, please contact community@brittenpearsarts.org (mailto:community@brittenpearsarts.org) or call 01728 687152 (tel:01728 687152).'
+        text: 'For more information, you can call Britten Pears Arts on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01728687152'
+              rel: null
+              target: null
+              title: null
+        text: '01728 687152'
+      -
+        type: text
+        text: ' or email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:community@brittenpearsarts.org'
+              rel: null
+              target: null
+              title: null
+        text: community@brittenpearsarts.org
+      -
+        type: text
+        text: .
   -
     type: paragraph
 attendance_information: 'Ages 8 - 18'
@@ -100,6 +139,7 @@ postcode: 'IP1 2AS'
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
+  - Covid-19 preventative measures in place
 cta: |-
   This event is organised by Britten Pears Arts.
   Contact details below.
@@ -109,5 +149,11 @@ cta: |-
   [01728 687152](tel:01728687152)
 
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
+event_categories:
+  - family-friendly
+  - teen-and-young-adult
+  - primary-school-age
+  - music
+  - performance
 ---
 Free singing and vocal group for young people
