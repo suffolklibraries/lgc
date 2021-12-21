@@ -1,18 +1,17 @@
 ---
 id: a583a8f6-8951-4784-bb1f-055ccb813fd0
 blueprint: events
-title: 'Group A - Ipswich (Duplicated)'
-latitude: '52.05886231610009'
-longitude: '1.1479309984275614'
-start_date: '2022-01-20 16:00'
-end_date: '2022-01-20 18:00'
+title: 'East Suffolk Skylarks - Snape'
+latitude: '52.16397679077819'
+longitude: '1.496796100174832'
+start_date: '2022-02-24 10:30'
+end_date: '2022-02-24 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1637752537
+updated_at: 1640103933
 free: true
 virtual: false
 organisers:
   - britten-pears-arts
-featured_image: group-a.jpg
 content_area:
   -
     type: heading
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A free vocal performance group providing 8—18 year-olds opportunities to work with a wide variety of professional musicians and explore a breadth of musical genres. The group meets every other Thursday in Ipswich.  '
+        text: 'Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions. East Suffolk Skylarks groups use techniques based on years of research to help those with Parkinson’s to maintain or improve their psychological and physical wellbeing through taking part in regular singing activity.'
   -
     type: paragraph
     content:
@@ -75,18 +74,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Group A meets at The New Wolsey Theatre in Ipswich, unless otherwise stated, for details on how to get to The New Wolsey please visit '
+        text: 'Skylarks   '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.wolseytheatre.co.uk/your-visit/getting-here/'
+              href: 'https://brittenpearsarts.org/visit-us/snape-maltings/getting-here'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: www.wolseytheatre.co.uk/your-visit/getting-here/.
+        text: 'Getting here | Britten Pears Arts'
   -
     type: heading
     attrs:
@@ -131,14 +130,16 @@ content_area:
         text: .
   -
     type: paragraph
-attendance_information: 'Ages 8 - 18'
-address_line_1: 'The New Wolsey Theatre'
-address_line_2: 'Civic Drive'
-town: Ipswich
-postcode: 'IP1 2AS'
+attendance_information: 'Older people living with Parkinsons'
+address_line_1: 'The Trask'
+address_line_2: 'Snape Maltings'
+town: Snape
+postcode: 'IP17 1AB'
 accessibility_information: |-
+  -  Dementia friendly
+  -  Parkinson's friendly
+  - Indoor seated venue
   - Wheelchair access
-  - Indoor venue
   - Covid-19 preventative measures in place
 cta: |-
   This event is organised by Britten Pears Arts.
@@ -150,10 +151,8 @@ cta: |-
 
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
 event_categories:
-  - family-friendly
-  - teen-and-young-adult
-  - primary-school-age
+  - later-in-life
   - music
-  - performance
+  - singing
 ---
-Free singing and vocal group for young people
+Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions
