@@ -5,10 +5,10 @@ blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
-start_date: '2022-02-24 10:30'
-end_date: '2022-02-24 12:00'
+start_date: '2022-02-07 10:30'
+end_date: '2022-02-07 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640263105
+updated_at: 1640263439
 free: true
 virtual: false
 organisers:
@@ -75,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Skylarks takes place at 10:30am to 12pm every other Thursday at The Trask, Snape Maltings Snape !P17 1SP. For more information on how to get to Snape Maltings please visit '
+        text: 'Participate takes place 10:30am to 12pm every Tuesday morning at The Waterloo Centre in Leiston. For more information on how to get to Snape Maltings please visit '
       -
         type: text
         marks:
