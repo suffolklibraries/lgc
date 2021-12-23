@@ -1,13 +1,13 @@
 ---
 id: abffe914-9950-4f58-aa28-f64c8ff85af4
 blueprint: events
-title: 'Group A - Ipswich (Duplicated)'
+title: Drama@TheMix
 latitude: '52.05886231610009'
 longitude: '1.1479309984275614'
-start_date: '2022-01-20 16:00'
-end_date: '2022-01-20 18:00'
+start_date: '2022-01-18 16:00'
+end_date: '2022-01-18 18:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1637752537
+updated_at: 1640278897
 free: true
 virtual: false
 organisers:
@@ -88,6 +88,12 @@ content_area:
               title: null
         text: www.wolseytheatre.co.uk/your-visit/getting-here/.
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Delivery may change depending on Covid restrictions.'
+  -
     type: heading
     attrs:
       level: 2
@@ -131,7 +137,7 @@ content_area:
         text: .
   -
     type: paragraph
-attendance_information: 'Ages 8 - 18'
+attendance_information: 'Ages 4 - 18'
 address_line_1: 'The New Wolsey Theatre'
 address_line_2: 'Civic Drive'
 town: Ipswich
@@ -150,9 +156,7 @@ cta: |-
 
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
 event_categories:
-  - family-friendly
   - teen-and-young-adult
-  - primary-school-age
   - music
   - performance
 ---
