@@ -4,10 +4,10 @@ blueprint: events
 title: Drama@TheMix
 latitude: '52.05886231610009'
 longitude: '1.1479309984275614'
-start_date: '2022-01-18 16:00'
-end_date: '2022-01-18 18:00'
+start_date: '2022-01-18 18:00'
+end_date: '2022-01-18 20:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640278897
+updated_at: 1640278962
 free: true
 virtual: false
 organisers:
@@ -137,7 +137,7 @@ content_area:
         text: .
   -
     type: paragraph
-attendance_information: 'Ages 4 - 18'
+attendance_information: 'Ages 14 - 18'
 address_line_1: 'The New Wolsey Theatre'
 address_line_2: 'Civic Drive'
 town: Ipswich
@@ -160,4 +160,4 @@ event_categories:
   - music
   - performance
 ---
-Free singing and vocal group for young people
+Free after school weekly drama sessions for young people
