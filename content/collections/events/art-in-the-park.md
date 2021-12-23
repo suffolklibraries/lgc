@@ -4,7 +4,7 @@ blueprint: events
 title: 'Art in the Park'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640271610
+updated_at: 1640275831
 latitude: '52.06392285511714'
 longitude: '1.1567751119529726'
 start_date: '2022-02-21 10:00'
@@ -38,7 +38,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Wrap up warm to head outdoors with Rock Paper Scissors. Meet outside Christchurch Mansion in Christchurch park and go a making journey. Using animal and nature themes, there will be fun for all the family.  There will be a short walk to draw and paint, collect nature finds and then come back to the front of the mansion to do some more creating!'
+        text: 'Wrap up warm this February half term and head outdoors with Rock Paper Scissors. Meet outside Christchurch Mansion in Christchurch park and go a making journey. Using animal and nature themes, there will be fun for all the family.  There will be a short walk to draw and paint, collect nature finds and then come back to the front of the mansion to do some more creating!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Art in the Park will start at 10am, 11am 12pm, 1pm and 2pm and each session will run for approximately 90 minutes. '
   -
     type: heading
     attrs:
@@ -52,7 +58,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet outside Christchurch Mansion in the park. '
+        text: 'Please meet outside Christchurch Mansion in the park. '
   -
     type: heading
     attrs:
@@ -63,6 +69,24 @@ content_area:
         text: 'How to book'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Book your place on the session '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.rockpaperscissors.org.uk/shop/av9bij0orevkb7ebilw464r6zpnm4d'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: ' '
   -
     type: paragraph
 cta: |-
@@ -70,9 +94,9 @@ cta: |-
 
   Contact details below.
 
-  [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
+  [team@rockpaperscissors.org.uk](mailto:team@rockpaperscissors.org.uk)
 
-  [https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers](https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers)
+  [https://www.rockpaperscissors.org.uk/contact](https://www.rockpaperscissors.org.uk/contact)
 booking_link: 'https://www.rockpaperscissors.org.uk/shop/av9bij0orevkb7ebilw464r6zpnm4d'
 accessibility_information: |-
   - Outside activity 
