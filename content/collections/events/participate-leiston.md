@@ -2,13 +2,13 @@
 id: df36620c-a9c6-422e-ad5c-8f86f865b715
 published: false
 blueprint: events
-title: 'East Suffolk Skylarks - Ipswich (Duplicated)'
+title: 'Participate - Leiston'
 latitude: '52.067209642443295'
 longitude: '1.183780854281746'
 start_date: '2022-02-24 10:30'
 end_date: '2022-02-24 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640262652
+updated_at: 1640263055
 free: true
 virtual: false
 organisers:
@@ -27,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions. East Suffolk Skylarks groups use techniques based on years of research to help those with Parkinson’s to maintain or improve their psychological and physical wellbeing through taking part in regular singing activity.'
+        text: 'Come and explore objects and music with our friendly team of workshop leaders and musicians. These sessions will bring you together with others in your local community, providing an opportunity to take part in activities and connect over tea and cake. Sessions last for two hours and tea and cake is provided. No musical experience is necessary. Our team are trained to ensure these workshops are suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
   -
     type: paragraph
     content:
@@ -166,13 +166,13 @@ content_area:
   -
     type: paragraph
 attendance_information: 'Older people living with Parkinsons'
-address_line_1: 'Ransomes Sports Pavilion'
-address_line_2: 'Sidegate Avenue'
-town: Ipswich
-postcode: 'IP4 4JJ'
+address_line_1: 'Waterloo Centre'
+address_line_2: 'Waterloo Avenue'
+town: Leiston
+postcode: 'IP16 4HE'
 accessibility_information: |-
   -  Dementia friendly
-  -  Parkinson's friendly
+  -  Autism friendly 
   - Indoor seated venue
   - Wheelchair access
   - Covid-19 preventative measures in place
@@ -191,4 +191,4 @@ event_categories:
   - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/skylarks'
 ---
-Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions
+Relaxed and fun music and heritage workshops for adults in Leiston
