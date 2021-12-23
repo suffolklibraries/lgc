@@ -1,10 +1,11 @@
 ---
 id: 9193ea5c-014c-45c3-9386-ae27c6d3e949
+published: false
 blueprint: events
-title: 'Mini Music Makers (Duplicated)'
+title: 'Art in the Park'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1637059471
+updated_at: 1640270601
 latitude: '52.164482106259534'
 longitude: '1.5877787370457823'
 start_date: '2021-11-26 10:00'
