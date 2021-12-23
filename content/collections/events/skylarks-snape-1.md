@@ -1,13 +1,13 @@
 ---
 id: 3bbbdd08-a53f-4b90-8228-1627eb770c41
 blueprint: events
-title: 'East Suffolk Skylarks - Snape (Duplicated)'
-latitude: '52.16397679077819'
-longitude: '1.496796100174832'
+title: 'East Suffolk Skylarks - Ipswich'
+latitude: '52.067209642443295'
+longitude: ', 1.183780854281746'
 start_date: '2022-02-24 10:30'
 end_date: '2022-02-24 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640261900
+updated_at: 1640262206
 free: true
 virtual: false
 organisers:
@@ -165,10 +165,10 @@ content_area:
   -
     type: paragraph
 attendance_information: 'Older people living with Parkinsons'
-address_line_1: 'The Trask'
-address_line_2: 'Snape Maltings'
-town: Snape
-postcode: 'IP17 1AB'
+address_line_1: 'Ransomes Sports Pavilion'
+address_line_2: 'Sidegate Avenue'
+town: Ipswich
+postcode: 'IP4 4JJ'
 accessibility_information: |-
   -  Dementia friendly
   -  Parkinson's friendly
