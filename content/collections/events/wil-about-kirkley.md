@@ -1,6 +1,5 @@
 ---
 id: 1576b143-cff8-40a5-987a-57f03be8d526
-published: false
 blueprint: events
 title: 'Wild About Kirkley'
 start_date: '2022-01-18 13:00'
@@ -8,7 +7,7 @@ end_date: '2022-01-18 15:30'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640278530
+updated_at: 1640278563
 event_categories:
   - outdoor-venue
   - nature
@@ -130,5 +129,6 @@ cta: |-
   [07704 068 327](tel:07704068327)
 
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
+featured_image: 13-July-forage-1.jpg
 ---
 Foraging presentation and tasting session with forager, Jon Tyler.
