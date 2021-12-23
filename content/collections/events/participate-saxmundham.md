@@ -3,12 +3,12 @@ id: 727c92e0-a891-4ea0-b39a-021cc015b99a
 published: false
 blueprint: events
 title: 'Participate - Saxmundham'
-latitude: '52.2072538466367'
-longitude: '1.5721966542855077'
+latitude: '52.2149703191624'
+longitude: '1.4923007463413769'
 start_date: '2022-02-08 10:30'
 end_date: '2022-02-08 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640264749
+updated_at: 1640264958
 free: true
 virtual: false
 organisers:
@@ -75,7 +75,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Participate takes place 2:30pm to 4:30pm every Tuesday afternoon at The Waterloo Centre in Leiston. '
+        text: 'Participate takes place 10:30am to 12:30pm every Tuesday morning at the Market Hall in Saxmundham.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please note there will not be a session on Tuesday 15th February. '
   -
     type: paragraph
     content:
@@ -155,10 +161,10 @@ content_area:
   -
     type: paragraph
 attendance_information: Adults
-address_line_1: 'Waterloo Centre'
-address_line_2: 'Waterloo Avenue'
-town: Leiston
-postcode: 'IP16 4HE'
+address_line_1: 'The Market Hall'
+address_line_2: 'High Street'
+town: Saxmundham
+postcode: 'IP17 1AB'
 accessibility_information: |-
   -  Dementia friendly
   -  Autism friendly 
