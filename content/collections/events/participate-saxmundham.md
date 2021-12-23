@@ -1,13 +1,14 @@
 ---
 id: 727c92e0-a891-4ea0-b39a-021cc015b99a
+published: false
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
+title: 'Participate - Saxmundham'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
 start_date: '2022-02-08 10:30'
 end_date: '2022-02-08 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640264586
+updated_at: 1640264749
 free: true
 virtual: false
 organisers:
@@ -179,4 +180,4 @@ event_categories:
   - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
 ---
-Relaxed and fun music and heritage workshops for adults in Leiston
+Relaxed and fun music and heritage workshops for adults in Saxmundham
