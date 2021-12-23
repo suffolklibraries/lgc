@@ -3,11 +3,11 @@ id: 3bbbdd08-a53f-4b90-8228-1627eb770c41
 blueprint: events
 title: 'East Suffolk Skylarks - Ipswich'
 latitude: '52.067209642443295'
-longitude: ', 1.183780854281746'
+longitude: '1.183780854281746'
 start_date: '2022-02-24 10:30'
 end_date: '2022-02-24 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640262206
+updated_at: 1640262223
 free: true
 virtual: false
 organisers:
