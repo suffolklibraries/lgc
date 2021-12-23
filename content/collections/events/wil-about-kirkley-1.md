@@ -2,12 +2,12 @@
 id: 44fc0d65-2115-407b-a409-a498d5a438e7
 blueprint: events
 title: 'Wild About Kirkley'
-start_date: '2022-01-18 13:00'
-end_date: '2022-01-18 15:30'
+start_date: '2022-01-21 13:00'
+end_date: '2022-01-21 15:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640278596
+updated_at: 1640278724
 event_categories:
   - outdoor-venue
   - nature
@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'On the afternoon of Tuesday 18 January, join forager Jon Tyler for a foraging presentation and tasting session.'
+        text: 'On Friday 21 January, discover Kirkley’s marine environment and biodiversity with CEFAS.'
   -
     type: paragraph
     content:
@@ -131,4 +131,4 @@ cta: |-
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
 featured_image: 13-July-forage-1.jpg
 ---
-Foraging presentation and tasting session with forager, Jon Tyler.
+Discuss Kirkley’s marine environment and biodiversity with CEFAS.
