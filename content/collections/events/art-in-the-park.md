@@ -5,28 +5,26 @@ blueprint: events
 title: 'Art in the Park'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640270658
-latitude: '52.164482106259534'
-longitude: '1.5877787370457823'
+updated_at: 1640271532
+latitude: '52.06392285511714'
+longitude: '1.1567751119529726'
 start_date: '2022-02-21 10:00'
-end_date: '2021-11-21 15:30'
+end_date: '2022-02-21 11:30'
 event_categories:
-  - music
   - early-years
   - parent-and-baby
   - toddler
   - family-friendly
+  - crafts
+  - art
 free: true
 virtual: false
 organisers:
-  - britten-pears-arts
-address_line_1: 'The Red House'
-address_line_2: 'Golf Lane'
-town: Aldeburgh
-postcode: 'IP15 5PZ'
-attendance_information: |-
-  Under 5s
-  Parent and baby
+  - rock-paper-scissors
+address_line_1: 'Christchurch Park'
+town: Ipswich
+postcode: 'IP4 2BX'
+attendance_information: 'Suitable for young children and their carers'
 content_area:
   -
     type: heading
@@ -41,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Mini Music Makers is a Friday morning session of fun music and play activities for 0-5 year olds that takes place at The Red House, Aldeburgh. These sessions, which include singing and creative play, are great for  little ones to learn social skills, turn taking, sharing and following instructions.'
+        text: 'Wrap up warm to head outdoors with Rock Paper Scissors. Meet outside Christchurch Mansion in Christchurch park and go a making journey. Using animal and nature themes, there will be fun for all the family.  There will be a short walk to draw and paint, collect nature finds and then come back to the front of the mansion to do some more creating!'
   -
     type: heading
     attrs:
@@ -55,21 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Mini Music Makers meets on Friday mornings at The Red House in the seaside town of Aldeburgh. Whether travelling by car, train, bike or bus, please visit '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://brittenpearsarts.org/visit-us/the-red-house/getting-here'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Britten Pears Arts'
-      -
-        type: text
-        text: ' for your preferred route of transport. '
+        text: 'Meet outside Christchurch Mansion in the park. '
   -
     type: heading
     attrs:
@@ -100,21 +84,20 @@ content_area:
         text: ' or join the Facebook Group: just search “Mini Music Makers at The Red House”.'
   -
     type: paragraph
-    content:
-      -
-        type: image
-        attrs:
-          src: 'asset::assets::Mini_Music_Makers_1.jfif'
-          alt: null
 cta: |-
-  This event is organised by Britten Pears Arts.
+  This event is organised by Rock Paper Scissors
+
   Contact details below.
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 
   [https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers](https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers)
-booking_link: '#'
-accessibility_information: '- Indoor or outside venue'
-featured_image: Mini_Music_Makers_2.jfif
+booking_link: 'https://www.rockpaperscissors.org.uk/shop/av9bij0orevkb7ebilw464r6zpnm4d'
+accessibility_information: |-
+  - Outside activity 
+  - Family friendly
+  - Autism friendly
+  - Wheelchair accesss
+featured_image: F7D83BC7-6BC5-4BC5-BCB9-291BC8B56A60.jpeg
 ---
-Mini Music Makers is a free music, heritage and place session for families with children under five years old.
+Fun for all the family in Christchurch Park this February half term
