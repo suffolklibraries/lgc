@@ -8,7 +8,7 @@ longitude: '1.5721966542855077'
 start_date: '2022-02-07 10:30'
 end_date: '2022-02-07 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640263439
+updated_at: 1640263483
 free: true
 virtual: false
 organisers:
@@ -165,7 +165,7 @@ content_area:
         text: .
   -
     type: paragraph
-attendance_information: 'Older people living with Parkinsons'
+attendance_information: 'Participatory music session for adults'
 address_line_1: 'Waterloo Centre'
 address_line_2: 'Waterloo Avenue'
 town: Leiston
