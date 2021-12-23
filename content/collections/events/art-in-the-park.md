@@ -1,11 +1,10 @@
 ---
 id: 9193ea5c-014c-45c3-9386-ae27c6d3e949
-published: false
 blueprint: events
 title: 'Art in the Park'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640271532
+updated_at: 1640271610
 latitude: '52.06392285511714'
 longitude: '1.1567751119529726'
 start_date: '2022-02-21 10:00'
@@ -64,24 +63,6 @@ content_area:
         text: 'How to book'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Contact Mini Music Makers via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Britten Pears Arts website'
-      -
-        type: text
-        text: ' or join the Facebook Group: just search “Mini Music Makers at The Red House”.'
   -
     type: paragraph
 cta: |-
