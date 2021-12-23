@@ -8,7 +8,7 @@ longitude: '1.183780854281746'
 start_date: '2022-02-24 10:30'
 end_date: '2022-02-24 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640262329
+updated_at: 1640262577
 free: true
 virtual: false
 organisers:
@@ -75,24 +75,24 @@ content_area:
     content:
       -
         type: text
-        text: 'Skylarks takes place at 10:30am to 12pm every other Thursday at The Trask, Snape Maltings Snape !P17 1SP. For more information on how to get to Snape Maltings please visit '
+        text: 'Skylarks takes place at 10:30am to 12pm every other Thursday at Ransomes Sports Pavilion, Sidegate Avenue, Ipswich, IP4 4JJ. For more information on how to get to Ransomes Sports Pavillion please visit the venue''s website: '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://brittenpearsarts.org/visit-us/snape-maltings/getting-here'
+              href: 'https://www.venuesipswich.co.uk/ransomes-sports-pavilion/'
               rel: null
               target: null
               title: null
-        text: 'Getting here | Britten Pears Arts'
+        text: 'Ransomes Sports Pavilion - Venues Ipswich'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'If you require transport to or form the event, please contact Lucy-Eve on '
+        text: 'If you require transport to or from the event, please contact Lucy-Eve on '
       -
         type: text
         marks:
