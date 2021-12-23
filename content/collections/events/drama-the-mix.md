@@ -1,18 +1,15 @@
 ---
 id: abffe914-9950-4f58-aa28-f64c8ff85af4
 blueprint: events
-title: Drama@TheMix
-latitude: '52.05886231610009'
-longitude: '1.1479309984275614'
+title: DRAMA@THEMIX
+latitude: '52.185306394956015'
+longitude: '0.9995085831205711'
 start_date: '2022-01-18 18:00'
 end_date: '2022-01-18 20:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640278962
+updated_at: 1640279629
 free: true
 virtual: false
-organisers:
-  - britten-pears-arts
-featured_image: group-a.jpg
 content_area:
   -
     type: heading
@@ -27,41 +24,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A free vocal performance group providing 8—18 year-olds opportunities to work with a wide variety of professional musicians and explore a breadth of musical genres. The group meets every other Thursday in Ipswich.  '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call Britten Pears Arts on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01728687152'
-              rel: null
-              target: null
-              title: null
-        text: '01728 687152'
-      -
-        type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:community@brittenpearsarts.org'
-              rel: null
-              target: null
-              title: null
-        text: community@brittenpearsarts.org
-      -
-        type: text
-        text: .
+        text: 'DRAMA@THEMIX offers free weekly drama sessions for young people living in or around Stowmarket. Led by professional youth theatre tutors providing the opportunity to develop the skills needed for performance - confidence, team work, speaking out and problem solving.  Using drama games and exercises participants are encouraged to learn and use their imaginations and explore new ideas, as well as have fun and make new friends.'
   -
     type: heading
     attrs:
@@ -75,18 +38,27 @@ content_area:
     content:
       -
         type: text
-        text: 'Group A meets at The New Wolsey Theatre in Ipswich, unless otherwise stated, for details on how to get to The New Wolsey please visit '
+        text: 'Find us at The Mix in Stowmarket every Tuesday evening. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you require transport to be able to take part please call Liz on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.wolseytheatre.co.uk/your-visit/getting-here/'
+              href: 'tel:07775778228'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: www.wolseytheatre.co.uk/your-visit/getting-here/.
+        text: '07775 778228'
+      -
+        type: text
+        text: ' to see if transport can be arranged.'
   -
     type: paragraph
     content:
@@ -106,58 +78,64 @@ content_area:
     content:
       -
         type: text
-        text: 'For more information, you can call Britten Pears Arts on '
+        text: 'Contact Chloe via '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01728687152'
+              href: 'mailto:chloe@themixstowmarket.co.uk'
               rel: null
               target: null
               title: null
-        text: '01728 687152'
+        text: chloe@themixstowmarket.co.uk
       -
         type: text
-        text: ' or email '
+        text: ' or call Liz on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:community@brittenpearsarts.org'
+              href: 'tel:07775778228'
               rel: null
               target: null
               title: null
-        text: community@brittenpearsarts.org
+        text: '07775 778228'
       -
         type: text
-        text: .
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are no auditions necessary but places are limited.'
   -
     type: paragraph
 attendance_information: 'Ages 14 - 18'
-address_line_1: 'The New Wolsey Theatre'
-address_line_2: 'Civic Drive'
-town: Ipswich
-postcode: 'IP1 2AS'
+address_line_1: 'The Mix'
+address_line_2: '127 Ipswich Street'
+town: Stowmarket
+postcode: 'IP14 1BB'
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
   - Covid-19 preventative measures in place
 cta: |-
-  This event is organised by Britten Pears Arts.
+  This event is held at The Mix in Stowmarket.
+
   Contact details below.
 
-  [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
+  [chloe@themixstowmarket.co.uk](mailto:chloe@themixstowmarket.co.uk)
 
-  [01728 687152](tel:01728687152)
-
-  [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
+  [07775 778228.](tel:07775778228.)
 event_categories:
-  - teen-and-young-adult
-  - music
+  - drama
   - performance
+  - teen-and-young-adult
+booking_link: '#'
 ---
 Free after school weekly drama sessions for young people
