@@ -8,7 +8,7 @@ longitude: '1.496796100174832'
 start_date: '2022-02-24 10:30'
 end_date: '2022-02-24 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640261900
+updated_at: 1640262627
 free: true
 virtual: false
 organisers:
@@ -75,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Skylarks takes place at 10:30am to 12pm every other Thursday at The Trask, Snape Maltings Snape !P17 1SP. For more information on how to get to Snape Maltings please visit '
+        text: 'Skylarks takes place at 10:30am to 12pm every other Thursday at The Trask, Snape Maltings Snape IP17 1SP. For more information on how to get to Snape Maltings please visit '
       -
         type: text
         marks:
@@ -92,7 +92,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you require transport to or form the event, please contact Lucy-Eve on '
+        text: 'If you require transport to or from the event, please contact Lucy-Eve on '
       -
         type: text
         marks:
