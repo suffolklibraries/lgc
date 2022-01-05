@@ -5,24 +5,19 @@ blueprint: events
 title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1641406040
-latitude: '52.0356853'
-longitude: '0.7231837'
-start_date: '2022-01-12 09:00'
-end_date: '2022-01-12 13:00'
+updated_at: 1641406831
+start_date: '2022-01-17 10:30'
+end_date: '2022-01-17 12:00'
 event_categories:
   - crafts
-  - film
+  - food
+  - nature
 free: true
-virtual: false
-address_line_1: 'All Saints Church Hall'
-address_line_2: 'Church Street'
-town: Sudbury
-postcode: 'CO10 2BL'
+virtual: true
 featured_image: DE_MOVERS_IMG-1.jpg
 attendance_information: |-
-  About 10 people
-  Age 55+
+  Family carers 
+  Adults living rurally
 content_area:
   -
     type: heading
@@ -37,41 +32,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
+        text: 'The Friends Around the Table project aims to explore food, culture and nature in regular workshops, to offer family carers and adults living rurally, relaxed and enjoyable get-togethers.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser David Harris on '
+        text: 'At the workshops people will work with professional artists, chefs and food-led practitioners where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473295230'
-              rel: null
-              target: null
-              title: null
-        text: '01473 295 230'
+        text: 'All workshops are free of charge and no experience is necessary.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: ' or connect with '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: '#'
-              rel: null
-              target: null
-              title: null
-        text: 'Dance East via Facebook'
-      -
-        type: text
-        text: .
+        text: 'Participants are welcome to attend as many or as few of the workshops as they are able.'
   -
     type: heading
     attrs:
@@ -85,19 +64,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall in Sudbury. You can enter the church through the wooden double doors on Northgate Street or the sliding doors (disabled entrance) on Old Foundry Road.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Once you’ve arrived on the first floor, go through the Lecture Hall door on the right-hand side of the staff desk.'
-  -
-    type: set
-    attrs:
-      values:
-        type: youtube
-        video_id: Ji8TZqiJZ4o
+        text: 'Friends Around the Table will be held virtually every Monday morning for the start of 2022. All you need is a computer, tablet or mobile which you can take virtual calls on. Call details will be sent once you have booked on the sessions using the information below. '
   -
     type: heading
     attrs:
@@ -111,25 +78,62 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall in Sudbury. You can enter the church through the wooden double doors on Northgate Street or the sliding doors (disabled entrance) on Old Foundry Road.'
-  -
-    type: paragraph
-    content:
+        text: 'If you would like to join the Friends Around the Table sessions please call Carrie Phoenix on '
       -
         type: text
-        text: 'Once you’ve arrived on the first floor, go through the Lecture Hall door on the right-hand side of the staff desk.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'Tel:01986873955'
+              rel: null
+              target: null
+              title: null
+        text: '01986 873 955'
+      -
+        type: text
+        text: ' or email Carrie at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:carrie@suffolkartlink.org.uk'
+              rel: null
+              target: null
+              title: null
+        text: carrie@suffolkartlink.org.uk
+      -
+        type: text
+        text: '. Find out more information '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkartlink.org.uk/our-work/friends-around-the-table/'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: '. All workshops are free of change and participants are welcome to attend as few or as many of the workshops as they are able. '
+  -
+    type: paragraph
 cta: |-
-  This event is organised by Dance East. Please contact David Harris:
+  This event is organised by Suffolk Artlink. Please contact Carrie Phoenix:
 
-  [dharris@danceeast.co.uk](mailto:dharris@danceeast.co.uk)
+  [carrie@suffolkartlink.org.uk](mailto:carrie@suffolkartlink.org.uk)
 
-  [01473 295 230](tel:01473295230)
+  [01986 873 955 ](tel:01986873955 )
 
-  [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: '#'
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+  [www.suffolkartlink.org.uk/our-work/friends-around-the-table/](https://www.suffolkartlink.org.uk/our-work/friends-around-the-table/)
+booking_link: 'https://www.suffolkartlink.org.uk/our-work/friends-around-the-table/'
+accessibility_information: '- online session'
+organisers:
+  - suffolk-artlink
 ---
 We explore food, creativity and culture in regular workshops, to offer adult carers a moment of respite from their caring role.
