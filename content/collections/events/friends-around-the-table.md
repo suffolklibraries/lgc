@@ -1,10 +1,11 @@
 ---
 id: c71cdcb3-6270-4ebc-a095-ea0d39af5add
+published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated) (2)'
+title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1637752602
+updated_at: 1641406012
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
@@ -14,9 +15,6 @@ event_categories:
   - film
 free: true
 virtual: false
-organisers:
-  - dance-east
-  - britten-pears-arts
 address_line_1: 'All Saints Church Hall'
 address_line_2: 'Church Street'
 town: Sudbury
