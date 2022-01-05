@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1641406012
+updated_at: 1641406040
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
@@ -132,4 +132,4 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 ---
-A weekly dance class for everyone over 55; Sudbury Movers classes are designed to benefit you both mentally and physically.
+We explore food, creativity and culture in regular workshops, to offer adult carers a moment of respite from their caring role.
