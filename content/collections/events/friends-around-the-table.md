@@ -4,7 +4,7 @@ blueprint: events
 title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1641406844
+updated_at: 1641406952
 start_date: '2022-01-17 10:30'
 end_date: '2022-01-17 12:00'
 event_categories:
@@ -13,7 +13,7 @@ event_categories:
   - nature
 free: true
 virtual: true
-featured_image: DE_MOVERS_IMG-1.jpg
+featured_image: around-the-table.jpg
 attendance_information: |-
   Family carers 
   Adults living rurally
