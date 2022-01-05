@@ -4,19 +4,18 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1637752602
+updated_at: 1641407312
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
 end_date: '2022-01-12 13:00'
 event_categories:
-  - crafts
-  - film
+  - dance
+  - later-in-life
 free: true
 virtual: false
 organisers:
   - dance-east
-  - britten-pears-arts
 address_line_1: 'All Saints Church Hall'
 address_line_2: 'Church Street'
 town: Sudbury
