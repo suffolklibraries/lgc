@@ -1,11 +1,10 @@
 ---
 id: c71cdcb3-6270-4ebc-a095-ea0d39af5add
-published: false
 blueprint: events
 title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1641406831
+updated_at: 1641406844
 start_date: '2022-01-17 10:30'
 end_date: '2022-01-17 12:00'
 event_categories:
