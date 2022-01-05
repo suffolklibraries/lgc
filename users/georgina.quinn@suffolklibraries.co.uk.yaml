@@ -6,3 +6,6 @@ preferences:
   taxonomies:
     event_categories:
       after_save: create_another
+  collections:
+    events:
+      per_page: 100
