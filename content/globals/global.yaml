@@ -35,7 +35,7 @@ data:
       </div>
       <div style="position: absolute; left: -5000px; width: 0;" aria-hidden="true"><input type="text" name="b_39d6c8527f75e31c9e770c6a4_99bfb72dfd" tabindex="-1" value=""></div>
     </form>
-    <p>We never spam. Unsubscribe at any time. <a href="#">View the latest edition</a></p>
+    <p>We never spam. Unsubscribe at any time. <!-- <a href="#">View the latest edition</a> --></p>
   seo_image: opengraph.png
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost event in Suffolk then please let us know about it.'
