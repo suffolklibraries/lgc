@@ -209,3 +209,20 @@ sections:
           icon: bard
           listable: hidden
           instructions_position: above
+  disclaimer:
+    display: Disclaimer
+    fields:
+      -
+        handle: disclaimer_content
+        field:
+          restrict: false
+          automatic_line_breaks: true
+          automatic_links: false
+          escape_markup: false
+          smartypants: false
+          antlers: false
+          display: Content
+          type: markdown
+          icon: markdown
+          listable: hidden
+          instructions_position: above
