@@ -37,6 +37,13 @@ data:
     </form>
     <p>We never spam. Unsubscribe at any time. <!-- <a href="#">View the latest edition</a> --></p>
   seo_image: opengraph.png
+  footer_links:
+    -
+      text: 'Privacy and cookies'
+      url: 'https://www.suffolklibraries.co.uk/about/legal-information/privacy-and-cookies'
+      type: new_set
+      enabled: true
+  footer_links_title: 'Legal, privacy & cookies'
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost event in Suffolk then please let us know about it.'
   listing_call_to_action: 'Get in touch with Georgie'

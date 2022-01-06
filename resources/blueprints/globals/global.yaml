@@ -69,6 +69,50 @@ sections:
           listable: hidden
           instructions_position: above
       -
+        handle: footer_links_title
+        field:
+          input_type: text
+          antlers: false
+          display: 'Footer Links Title'
+          type: text
+          icon: text
+          listable: hidden
+          instructions_position: above
+      -
+        handle: footer_links
+        field:
+          collapse: false
+          sets:
+            new_set:
+              display: 'New Set'
+              fields:
+                -
+                  handle: text
+                  field:
+                    input_type: text
+                    antlers: false
+                    display: Text
+                    type: text
+                    icon: text
+                    listable: hidden
+                    instructions_position: above
+                -
+                  handle: url
+                  field:
+                    input_type: text
+                    antlers: false
+                    display: URL
+                    type: text
+                    icon: text
+                    instructions: 'Either a page on this site, like /spotlight/get-creative-2022 or an external link like https://www.suffolklibraries.co.uk/about'
+                    listable: hidden
+                    instructions_position: above
+          display: 'Footer Links'
+          type: replicator
+          icon: replicator
+          listable: hidden
+          instructions_position: above
+      -
         handle: newsletter_embed
         field:
           theme: material
