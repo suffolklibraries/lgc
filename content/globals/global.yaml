@@ -24,6 +24,13 @@ data:
     -
       link: 'https://open.spotify.com/show/36qSnIxRfApjdCWOkmCIuy?si=TimTK26PREqiorXgYxQHsg&dl_branch=1'
       icon: spotify
+  footer_links_title: 'Legal, privacy & cookies'
+  footer_links:
+    -
+      text: 'Privacy and cookies'
+      url: 'https://www.suffolklibraries.co.uk/about/legal-information/privacy-and-cookies'
+      type: new_set
+      enabled: true
   newsletter_embed: |-
     <form action="https://suffolklibraries.us5.list-manage.com/subscribe/post?u=39d6c8527f75e31c9e770c6a4&amp;id=99bfb72dfd" method="post" name="mc-embedded-subscribe-form" target="_blank">
       <div class="u-flex o-flow-x">
@@ -36,14 +43,16 @@ data:
       <div style="position: absolute; left: -5000px; width: 0;" aria-hidden="true"><input type="text" name="b_39d6c8527f75e31c9e770c6a4_99bfb72dfd" tabindex="-1" value=""></div>
     </form>
     <p>We never spam. Unsubscribe at any time. <!-- <a href="#">View the latest edition</a> --></p>
+  header_scripts: |-
+    <script type="text/javascript">
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-48176962-1', 'auto');
+      ga('send', 'pageview');
+    </script>
   seo_image: opengraph.png
-  footer_links:
-    -
-      text: 'Privacy and cookies'
-      url: 'https://www.suffolklibraries.co.uk/about/legal-information/privacy-and-cookies'
-      type: new_set
-      enabled: true
-  footer_links_title: 'Legal, privacy & cookies'
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost event in Suffolk then please let us know about it.'
   listing_call_to_action: 'Get in touch with Georgie'
