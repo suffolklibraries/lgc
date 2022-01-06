@@ -3,7 +3,7 @@
     <div class="c-footer_primary">
       <div class="o-wrap"> 
         <div class="o-grid o-grid--page-reverse">
-          <div>
+          <div class="o-flow">
             <div class="o-flow o-flow--xs">
               <h3>Follow us</h3>
               <ul class="c-footer_social">
@@ -20,6 +20,15 @@
             <div class="o-flow o-flow--xs c-footer_newsletter">
               <h3>Stay in the loop</h3>
               {{ newsletter_embed }}
+            </div>
+
+            <div class="o-flow o-flow--xs">
+              <h3>{{ footer_links:title }}</h3>
+              <ul>
+              {{ footer_links:links }}
+                <li><a href="{{ url }}">{{ text }}</a></li>
+              {{ /footer_links:links }}
+              </ul>
             </div>
           </div>
           <div>

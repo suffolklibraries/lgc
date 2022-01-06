@@ -3,6 +3,11 @@
 
   padding-top: var(--space-l-xl);
   color: var(--white);
+
+  li a {
+    text-decoration: underline;
+    color: var(--orange);
+  }
   
   &_primary {
     background: var(--black);
