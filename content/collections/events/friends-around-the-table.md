@@ -4,7 +4,7 @@ blueprint: events
 title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1641406952
+updated_at: 1641553146
 start_date: '2022-01-17 10:30'
 end_date: '2022-01-17 12:00'
 event_categories:
@@ -15,7 +15,7 @@ free: true
 virtual: true
 featured_image: around-the-table.jpg
 attendance_information: |-
-  Family carers 
+  Family and carers 
   Adults living rurally
 content_area:
   -
@@ -114,12 +114,12 @@ content_area:
             attrs:
               href: 'https://www.suffolkartlink.org.uk/our-work/friends-around-the-table/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: here
+        text: here.
       -
         type: text
-        text: '. All workshops are free of change and participants are welcome to attend as few or as many of the workshops as they are able. '
+        text: ' All workshops are free of change and participants are welcome to attend as few or as many of the workshops as they are able. '
   -
     type: paragraph
 cta: |-
