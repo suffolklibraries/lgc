@@ -1,10 +1,11 @@
 ---
 id: 89cc841a-af17-4965-ab6d-1521893173d7
+published: false
 blueprint: events
 title: 'Sudbury Movers (Duplicated) (2)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1641407312
+updated_at: 1641755503
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
