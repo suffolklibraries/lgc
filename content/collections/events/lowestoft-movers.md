@@ -5,7 +5,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641830621
+updated_at: 1641830854
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
@@ -13,18 +13,16 @@ end_date: '2022-01-12 13:00'
 event_categories:
   - dance
   - later-in-life
-free: true
+free: false
 virtual: false
 organisers:
   - dance-east
-address_line_1: 'All Saints Church Hall'
-address_line_2: 'Church Street'
-town: Sudbury
-postcode: 'CO10 2BL'
+address_line_1: 'The Kirkley Centre'
+address_line_2: 'London Road S'
+town: Lowestoft
+postcode: 'NR33 0AZ'
 featured_image: DE_MOVERS_IMG-1.jpg
-attendance_information: |-
-  About 10 people
-  Age 55+
+attendance_information: 'Age 55+'
 content_area:
   -
     type: heading
@@ -137,11 +135,11 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Dance East. Please contact David Harris:
+  This event is organised by Dance East. Please contact Alysha Hudson:
 
-  [dharris@danceeast.co.uk](mailto:dharris@danceeast.co.uk)
+  [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
 
-  [01473 295 230](tel:01473295230)
+  [07984 756499](tel:07984756499)
 
   [danceeast.co.uk](http://danceeast.co.uk)
 booking_link: 'https://www.danceeast.co.uk/workshops/lowestoft-movers/'
@@ -149,5 +147,6 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
+cost_details: £4
 ---
 A weekly dance class for everyone over 55; Sudbury Movers classes are designed to benefit you both mentally and physically.
