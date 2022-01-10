@@ -5,7 +5,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641827598
+updated_at: 1641828839
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
@@ -45,32 +45,32 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser David Harris on '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Alysha Hudson on'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473295230'
+              href: 'Tel:07984756499'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: '01473 295 230'
+        text: ' 07984 756499'
       -
         type: text
-        text: ' or connect with '
+        text: ' or email at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: '#'
+              href: 'mailto:alysha1990@hotmail.com'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Dance East via Facebook'
+        text: alysha1990@hotmail.com
       -
         type: text
         text: .
@@ -128,7 +128,7 @@ cta: |-
   [01473 295 230](tel:01473295230)
 
   [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: '#'
+booking_link: 'https://www.danceeast.co.uk/workshops/lowestoft-movers/'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
