@@ -5,15 +5,14 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641831099
+updated_at: 1641832302
 latitude: '52.0356853'
 longitude: '0.7231837'
-start_date: '2022-01-12 09:00'
-end_date: '2022-01-12 13:00'
+start_date: '2022-01-12 10:00'
 event_categories:
   - dance
   - later-in-life
-free: true
+free: false
 virtual: false
 organisers:
   - dance-east
@@ -45,21 +44,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser David Harris on '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Esther Alcock on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473295230'
+              href: 'Tel:01473235581'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: '01473 295 230'
+        text: '01473 235581'
       -
         type: text
-        text: ' or connect with '
+        text: '  or connect with '
       -
         type: text
         marks:
@@ -95,12 +94,6 @@ content_area:
         type: text
         text: 'Once you’ve arrived on the first floor, go through the Lecture Hall door on the right-hand side of the staff desk.'
   -
-    type: set
-    attrs:
-      values:
-        type: youtube
-        video_id: Ji8TZqiJZ4o
-  -
     type: heading
     attrs:
       level: 2
@@ -113,19 +106,38 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall in Sudbury. You can enter the church through the wooden double doors on Northgate Street or the sliding doors (disabled entrance) on Old Foundry Road.'
-  -
-    type: paragraph
-    content:
+        text: 'To Book you can call Esther Alcock on '
       -
         type: text
-        text: 'Once you’ve arrived on the first floor, go through the Lecture Hall door on the right-hand side of the staff desk.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'Tel:01473235581'
+              rel: null
+              target: _blank
+              title: null
+        text: '01473 235581'
+      -
+        type: text
+        text: " or email at \_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:Esther.alcock@danceeast.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: Esther.alcock@danceeast.co.uk
 cta: |-
   This event is organised by Dance East. Please contact David Harris:
 
-  [dharris@danceeast.co.uk](mailto:dharris@danceeast.co.uk)
+  [Esther.alcock@danceeast.co.uk ](mailto:Esther.alcock@danceeast.co.uk )
 
-  [01473 295 230](tel:01473295230)
+  [01473 235581](tel:01473235581)
 
   [danceeast.co.uk](http://danceeast.co.uk)
 booking_link: '#'
@@ -133,5 +145,6 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
+cost_details: £4
 ---
 A weekly dance class for everyone over 55; Sudbury Movers classes are designed to benefit you both mentally and physically.
