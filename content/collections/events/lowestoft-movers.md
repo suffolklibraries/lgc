@@ -1,11 +1,10 @@
 ---
 id: cad5985c-1756-45b4-a77c-e36aca9b8ac4
-published: false
 blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641830278
+updated_at: 1641830550
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
@@ -95,14 +94,6 @@ content_area:
         type: text
         text: 'You can enter the building through the front doors on London Road South, which are are also suitable for the those with accessibility needs.'
   -
-    type: paragraph
-  -
-    type: set
-    attrs:
-      values:
-        type: youtube
-        video_id: Ji8TZqiJZ4o
-  -
     type: heading
     attrs:
       level: 2
@@ -115,7 +106,35 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Alysha Hudson on 07984 756499 or email at alysha1990@hotmail.com.'
+        text: 'To book you can call Alysha Hudson on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'Tel:07984 756499'
+              rel: null
+              target: _blank
+              title: null
+        text: '07984 756499'
+      -
+        type: text
+        text: ' or email at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'Mailto:alysha1990@hotmail.com'
+              rel: null
+              target: _blank
+              title: null
+        text: alysha1990@hotmail.com
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by Dance East. Please contact David Harris:
 
