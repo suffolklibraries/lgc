@@ -5,11 +5,11 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641830971
+updated_at: 1641831014
 latitude: '52.0356853'
 longitude: '0.7231837'
-start_date: '2022-01-12 09:00'
-end_date: '2022-01-12 13:00'
+start_date: '2022-01-14 10:00'
+end_date: '2022-01-14 11:00'
 event_categories:
   - dance
   - later-in-life
