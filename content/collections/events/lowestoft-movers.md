@@ -5,7 +5,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641829679
+updated_at: 1641830219
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-12 09:00'
@@ -87,13 +87,9 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers meets at The Kirkley Centre in Lowestoft. You can enter the building through the front doors on London Road South '
+        text: 'Lowestoft Movers meets at The Kirkley Centre in Lowestoft on 154 London Rd S. You can enter the building through the front doors on London Road South, which are are also suitable for the those with accessibility needs.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Once you’ve arrived on the first floor, go through the Lecture Hall door on the right-hand side of the staff desk.'
   -
     type: set
     attrs:
@@ -113,13 +109,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall in Sudbury. You can enter the church through the wooden double doors on Northgate Street or the sliding doors (disabled entrance) on Old Foundry Road.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Once you’ve arrived on the first floor, go through the Lecture Hall door on the right-hand side of the staff desk.'
+        text: 'To book you can call Alysha Hudson on 07984 756499 or email at alysha1990@hotmail.com.'
 cta: |-
   This event is organised by Dance East. Please contact David Harris:
 
