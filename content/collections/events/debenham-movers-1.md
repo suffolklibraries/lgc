@@ -5,7 +5,7 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641900322
+updated_at: 1641901122
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-01-13 10:00'
@@ -44,7 +44,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can email our organiser Chrissie Moore at '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You can email our organiser Chrissie Moore at '
       -
         type: text
         marks:
