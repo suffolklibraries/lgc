@@ -5,9 +5,9 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641899046
-latitude: '52.044439425379515'
-longitude: '0.9559571219725871'
+updated_at: 1641900262
+latitude: '52.22327511053906'
+longitude: '1.1697874596611926'
 start_date: '2022-01-13 10:00'
 event_categories:
   - dance
@@ -16,10 +16,10 @@ free: false
 virtual: false
 organisers:
   - dance-east
-address_line_1: 'Hadleigh Baptist Church'
-address_line_2: 'George Street'
-town: Hadleigh
-postcode: 'IP7 5BE'
+address_line_1: 'Debenham Sports and Leisure Centre'
+address_line_2: 'Gracechurch Street'
+town: Debenham
+postcode: 'IP14 6BL'
 featured_image: DE_MOVERS_IMG-1.jpg
 attendance_information: |-
   About 10 people
@@ -44,21 +44,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Karen Pratt on '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can email our organiser Chrissie Moore at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:07751891319'
+              href: 'mailto:Chrissie.Moore@danceeast.co.uk'
               rel: null
               target: _blank
               title: null
-        text: '07751891319'
+        text: Chrissie.Moore@danceeast.co.uk
       -
         type: text
-        text: '  or connect with '
+        text: ' or connect with '
       -
         type: text
         marks:
@@ -86,13 +86,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George street in Hadleigh, IP7 5BE.'
+        text: 'Debenham Movers meets at Debenham Sports and Leisure on Gracechurch Street in Debenham, IP14 6BL.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is an entrance the church through the front gate on George Street through to the entrance of the church.'
+        text: 'There is an entrance at the front of the building via the carpark, this entrance uses sliding doors for those that have accessibility needs. '
   -
     type: heading
     attrs:
@@ -106,44 +106,25 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Karen Pratt on '
+        text: 'To book you can email Chrissie Moore at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:07751891319'
+              href: 'mailto:Chrissie.Moore@danceeast.co.uk'
               rel: null
               target: _blank
               title: null
-        text: '07751891319'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:karenlouisedance@gmail.com'
-              rel: null
-              target: null
-              title: null
-        text: karenlouisedance@gmail.com
-      -
-        type: text
-        text: .
+        text: Chrissie.Moore@danceeast.co.uk
 cta: |-
-  This event is organised by Dance East. Please contact Esther Husdon:
+  This event is organised by Dance East. Please contact Chrissie Moore:
 
-  [karenlouisedance@gmail.com ](mailto:karenlouisedance@gmail.com )
-
-  [07751 891319](tel:07751891319)
+  [Chrissie.Moore@danceeast.co.uk](mailto:Chrissie.Moore@danceeast.co.uk)
 
   [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: 'https://www.danceeast.co.uk/workshops/hadleigh-movers/'
+booking_link: 'https://www.danceeast.co.uk/workshops/debenham-movers/'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
