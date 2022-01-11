@@ -5,9 +5,9 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641895216
-latitude: '52.0356853'
-longitude: '0.7231837'
+updated_at: 1641895551
+latitude: '52.03576875968241'
+longitude: '0.7231630550633815'
 start_date: '2022-01-19 10:00'
 event_categories:
   - dance
