@@ -2,10 +2,10 @@
 id: 52ff4fb4-f2c5-4807-b0ca-4f9b34141695
 published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated) (2)'
+title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641896951
+updated_at: 1641897042
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2022-01-19 10:00'
@@ -152,4 +152,4 @@ cost_details: £4
 end_date: '2022-01-19 11:30'
 ---
 A weekly dance class for everyone over 55.
-Sudbury Movers classes are designed to benefit you both mentally and physically.
+Hadleigh Movers classes are designed to benefit you both mentally and physically.
