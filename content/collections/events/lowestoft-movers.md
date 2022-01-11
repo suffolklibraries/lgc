@@ -5,7 +5,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641893372
+updated_at: 1641893594
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-14 10:00'
@@ -149,4 +149,5 @@ accessibility_information: |-
   - Indoor venue
 cost_details: £4
 ---
-A weekly dance class for everyone over 55; Sudbury Movers classes are designed to benefit you both mentally and physically.
+A weekly dance class for everyone over 55.
+Sudbury Movers classes are designed to benefit you both mentally and physically.
