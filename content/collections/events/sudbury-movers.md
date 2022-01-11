@@ -5,7 +5,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641833915
+updated_at: 1641892430
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-19 10:00'
@@ -120,7 +120,7 @@ content_area:
         text: '01473 235581'
       -
         type: text
-        text: " or email at \_"
+        text: ' or email at '
       -
         type: text
         marks:
@@ -132,6 +132,9 @@ content_area:
               target: null
               title: null
         text: Esther.alcock@danceeast.co.uk
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by Dance East. Please contact Esther Husdon:
 
@@ -148,4 +151,5 @@ accessibility_information: |-
 cost_details: £4
 end_date: '2022-01-19 11:30'
 ---
-A weekly dance class for everyone over 55. Sudbury Movers classes are designed to benefit you both mentally and physically.
+A weekly dance class for everyone over 55.
+Sudbury Movers classes are designed to benefit you both mentally and physically.
