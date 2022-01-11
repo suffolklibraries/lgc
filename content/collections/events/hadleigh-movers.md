@@ -5,9 +5,9 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641897100
-latitude: '52.03576875968241'
-longitude: '0.7231630550633815'
+updated_at: 1641898251
+latitude: '52.044439425379515'
+longitude: '0.9559571219725871'
 start_date: '2022-01-25 11:30'
 event_categories:
   - dance
@@ -16,10 +16,10 @@ free: false
 virtual: false
 organisers:
   - dance-east
-address_line_1: 'All Saints Church Hall'
-address_line_2: 'Church Street'
-town: Sudbury
-postcode: 'CO10 2BN'
+address_line_1: 'Hadleigh Baptist Church'
+address_line_2: 'George Street'
+town: Hadleigh
+postcode: 'IP7 5BE'
 featured_image: DE_MOVERS_IMG-1.jpg
 attendance_information: |-
   About 10 people
@@ -44,18 +44,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Esther Alcock on '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Karen Pratt on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:01473235581'
+              href: 'Tel:07751891319'
               rel: null
               target: _blank
               title: null
-        text: '01473 235581'
+        text: '07751891319'
       -
         type: text
         text: '  or connect with '
@@ -86,13 +86,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall on Church street in Sudbury.'
+        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George street in Hadleigh.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can enter the church through the wooden double doors through the entrance from church street. The session is held within the main church hall.'
+        text: 'You can enter the church through the front gate on George Street through to the entrance of the church.'
   -
     type: heading
     attrs:
@@ -106,18 +106,18 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Esther Alcock on '
+        text: 'To book you can call Karen Pratt on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:01473235581'
+              href: 'Tel:07751891319'
               rel: null
               target: _blank
               title: null
-        text: '01473 235581'
+        text: '07751891319'
       -
         type: text
         text: ' or email at '
@@ -127,20 +127,20 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:Esther.alcock@danceeast.co.uk'
+              href: 'mailto:karenlouisedance@gmail.com'
               rel: null
               target: null
               title: null
-        text: Esther.alcock@danceeast.co.uk
+        text: karenlouisedance@gmail.com
       -
         type: text
         text: .
 cta: |-
   This event is organised by Dance East. Please contact Esther Husdon:
 
-  [Esther.alcock@danceeast.co.uk ](mailto:Esther.alcock@danceeast.co.uk )
+  [karenlouisedance@gmail.com ](mailto:karenlouisedance@gmail.com )
 
-  [01473 235581](tel:01473235581)
+  [07751 891319](tel:07751891319)
 
   [danceeast.co.uk](http://danceeast.co.uk)
 booking_link: '#'
@@ -148,7 +148,7 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £4
+cost_details: £3
 end_date: '2022-01-25 12:30'
 ---
 A weekly dance class for everyone over 55.
