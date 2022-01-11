@@ -5,7 +5,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641893306
+updated_at: 1641895181
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-19 10:00'
@@ -19,7 +19,7 @@ organisers:
 address_line_1: 'All Saints Church Hall'
 address_line_2: 'Church Street'
 town: Sudbury
-postcode: 'CO10 2BL'
+postcode: 'CO10 2BN'
 featured_image: DE_MOVERS_IMG-1.jpg
 attendance_information: |-
   About 10 people
@@ -86,7 +86,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall in Sudbury. You can enter the church through the wooden double doors through the entrance from church street. The session is held within the main church hall.'
+        text: 'Sudbury Movers meets at All Saints Church Hall on Church street in Sudbury.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You can enter the church through the wooden double doors through the entrance from church street. The session is held within the main church hall.'
   -
     type: heading
     attrs:
