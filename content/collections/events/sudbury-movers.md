@@ -4,7 +4,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641896913
+updated_at: 1641898358
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2022-01-19 10:00'
@@ -142,7 +142,7 @@ cta: |-
   [01473 235581](tel:01473235581)
 
   [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: '#'
+booking_link: 'https://www.danceeast.co.uk/workshops/sudbury-movers/'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
