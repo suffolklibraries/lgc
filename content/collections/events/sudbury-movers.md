@@ -5,7 +5,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641892430
+updated_at: 1641893250
 latitude: '52.0356853'
 longitude: '0.7231837'
 start_date: '2022-01-19 10:00'
@@ -86,13 +86,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall in Sudbury. You can enter the church through the wooden double doors on Northgate Street or the sliding doors (disabled entrance) on Old Foundry Road.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Once you’ve arrived on the first floor, go through the Lecture Hall door on the right-hand side of the staff desk.'
+        text: 'Sudbury Movers meets at All Saints Church Hall in Sudbury. You can enter the church through the wooden double doors through the entrance from church street. The session is held within the main church hall.'
   -
     type: heading
     attrs:
