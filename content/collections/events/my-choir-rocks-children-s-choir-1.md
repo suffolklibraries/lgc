@@ -39,6 +39,10 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Children''s choir meets at the Marina Theatre in Lowestoft, NR32 1HH. The entrance is at the front of the building via the Marina and has wide double wooden doors for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -59,16 +63,16 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:myrockchoir@gmail.com'
+              href: 'mailto:community@marinatheatre.co.uk'
               rel: null
               target: _blank
               title: null
-        text: myrockchoir@gmail.com
+        text: community@marinatheatre.co.uk
       -
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641987193
+updated_at: 1641988369
 end_date: '2022-01-17 19:00'
 attendance_information: 'Indoor venue'
 latitude: '52.47621148431746'
