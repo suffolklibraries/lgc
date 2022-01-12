@@ -9,7 +9,7 @@ event_categories:
   - singing
 organisers:
   - my-choir-rocks
-start_date: '2022-01-18 17:30'
+start_date: '2022-01-17 18:00'
 free: false
 cost_details: £5
 virtual: false
@@ -68,8 +68,8 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641987112
-end_date: '2022-01-18 18:30'
+updated_at: 1641987193
+end_date: '2022-01-17 19:00'
 attendance_information: 'Indoor venue'
 latitude: '52.47621148431746'
 longitude: '1.7535448715530941'
