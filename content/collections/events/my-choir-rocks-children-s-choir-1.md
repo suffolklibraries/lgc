@@ -1,5 +1,6 @@
 ---
 id: 302f31a2-2ed6-4693-97ee-a32c9bc04e39
+published: false
 blueprint: events
 title: 'Children’s Choir - Kesgrave (Duplicated)'
 event_categories:
@@ -67,7 +68,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641986266
+updated_at: 1641986302
 end_date: '2022-01-18 18:30'
 attendance_information: 'Indoor venue'
 latitude: '52.0617115716603'
