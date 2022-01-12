@@ -4,11 +4,11 @@ blueprint: events
 title: 'Mini Music Makers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1637059471
+updated_at: 1642003135
 latitude: '52.164482106259534'
 longitude: '1.5877787370457823'
-start_date: '2021-11-26 10:00'
-end_date: '2021-11-26 11:30'
+start_date: '2022-02-04 10:00'
+end_date: '2022-02-04 11:30'
 event_categories:
   - music
   - early-years
