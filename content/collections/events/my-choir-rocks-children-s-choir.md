@@ -39,6 +39,22 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Children''s choir meets at Kesgrave War Memorial Community Centre on Twelve acre approach.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The entrance to the building is at the front via the car park which does have disabled parking spaces.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The front entrance to the building also has double doors for those with accessibility needs.'
   -
     type: heading
     attrs:
@@ -68,7 +84,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641986266
+updated_at: 1641989205
 end_date: '2022-01-18 18:30'
 attendance_information: 'Indoor venue'
 latitude: '52.0617115716603'
