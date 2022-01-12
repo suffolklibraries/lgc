@@ -13,7 +13,9 @@ start_date: '2022-01-18 17:30'
 free: false
 cost_details: £5
 virtual: false
-accessibility_information: '- Autism friendly'
+accessibility_information: |-
+  - Autism friendly
+  - Indoor venue
 content_area:
   -
     type: heading
@@ -28,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We are a children’s choir that sings modern popular music. We focus on wellbeing and confidence through the learning, practice and performance of music.'
+        text: 'They are a children’s choir that sings modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
   -
     type: heading
     attrs:
@@ -83,10 +85,16 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The first session of the children''s choir is free to attend then on is £5 per session.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641997193
+updated_at: 1641999830
 end_date: '2022-01-18 18:30'
-attendance_information: 'Indoor venue'
+attendance_information: 'Ages 5-11'
 latitude: '52.0617115716603'
 longitude: '1.2363744326897836'
 address_line_1: 'Twelve Acre Approach'
