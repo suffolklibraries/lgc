@@ -8,7 +8,7 @@ end_date: '2022-02-25 17:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641983819
+updated_at: 1641997107
 event_categories:
   - film
   - teen-and-young-adult
@@ -113,5 +113,6 @@ content_area:
       -
         type: text
         text: .
+featured_image: BFI-image.jpg
 ---
 Film Academy is a fast paced, fun and practical filmmaking experience, designed for young people with some demonstrable interest and/or experience in film.
