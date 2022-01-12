@@ -2,14 +2,14 @@
 id: 183a05b7-b810-4fa9-83fc-1cab026287de
 published: false
 blueprint: events
-title: 'My Choir Rocks - Children’s Choir'
+title: 'My Choir Rocks - Children’s Choir - Kesgrave'
 event_categories:
   - early-years
   - music
   - singing
 organisers:
   - my-choir-rocks
-start_date: '2022-01-12 10:37'
+start_date: '2022-01-18 17:30'
 free: false
 cost_details: £5
 virtual: false
@@ -30,6 +30,7 @@ content_area:
         type: text
         text: 'We are a children’s choir that sings modern popular music. We focus on wellbeing and confidence through the learning, practice and performance of music.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641984274
+updated_at: 1641984589
+end_date: '2022-01-18 18:30'
 ---
 My Choir is a children’s choir that sings modern popular music. We focus on confidence and wellbeing by having fun with learning, practicing and performing music.
