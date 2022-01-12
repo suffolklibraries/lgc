@@ -2,7 +2,7 @@
 id: 302f31a2-2ed6-4693-97ee-a32c9bc04e39
 published: false
 blueprint: events
-title: 'Children’s Choir - Kesgrave (Duplicated)'
+title: 'Children’s Choir - Lowestoft'
 event_categories:
   - early-years
   - music
@@ -68,15 +68,14 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641986302
+updated_at: 1641987112
 end_date: '2022-01-18 18:30'
 attendance_information: 'Indoor venue'
-latitude: '52.0617115716603'
-longitude: '1.2363744326897836'
-address_line_1: 'Twelve Acre Approach'
-address_line_2: Kesgrave
-town: Ipswich
-postcode: 'IP5 1JF'
+latitude: '52.47621148431746'
+longitude: '1.7535448715530941'
+address_line_1: 'Marina Theatre'
+town: Lowestoft
+postcode: 'NR32 1HH'
 cta: |-
   [myrockchoir@gmail.com](mailto:myrockchoir@gmail.com)
 
