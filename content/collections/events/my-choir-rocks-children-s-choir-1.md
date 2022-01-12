@@ -72,7 +72,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641988369
+updated_at: 1641990783
 end_date: '2022-01-17 19:00'
 attendance_information: 'Indoor venue'
 latitude: '52.47621148431746'
