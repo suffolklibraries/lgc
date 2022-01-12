@@ -13,7 +13,9 @@ start_date: '2022-01-17 18:00'
 free: false
 cost_details: £5
 virtual: false
-accessibility_information: '- Autism friendly'
+accessibility_information: |-
+  - Autism friendly
+  - Indoor venue
 content_area:
   -
     type: heading
@@ -28,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We are a children’s choir that sings modern popular music. We focus on wellbeing and confidence through the learning, practice and performance of music.'
+        text: 'They are a children’s choir that sings modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
   -
     type: heading
     attrs:
@@ -72,9 +74,9 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641990783
+updated_at: 1642001187
 end_date: '2022-01-17 19:00'
-attendance_information: 'Indoor venue'
+attendance_information: 'Ages 5-11'
 latitude: '52.47621148431746'
 longitude: '1.7535448715530941'
 address_line_1: 'Marina Theatre'
