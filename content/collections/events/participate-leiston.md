@@ -1,6 +1,5 @@
 ---
 id: df36620c-a9c6-422e-ad5c-8f86f865b715
-published: false
 blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
@@ -8,7 +7,7 @@ longitude: '1.5721966542855077'
 start_date: '2022-02-08 14:30'
 end_date: '2022-02-08 16:30'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642076527
+updated_at: 1642076534
 free: true
 virtual: false
 organisers:
