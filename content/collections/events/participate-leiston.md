@@ -7,7 +7,7 @@ longitude: '1.5721966542855077'
 start_date: '2022-02-08 14:30'
 end_date: '2022-02-08 16:30'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642003185
+updated_at: 1642066036
 free: true
 virtual: false
 organisers:
@@ -178,5 +178,6 @@ event_categories:
   - music
   - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
+featured_image: LGC_music_option1.PNG
 ---
 Relaxed and fun music and heritage workshops for adults in Leiston
