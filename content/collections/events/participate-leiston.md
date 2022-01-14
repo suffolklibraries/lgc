@@ -7,7 +7,7 @@ longitude: '1.5721966542855077'
 start_date: '2022-02-08 14:30'
 end_date: '2022-02-08 16:30'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642076950
+updated_at: 1642177085
 free: true
 virtual: false
 organisers:
@@ -178,5 +178,6 @@ event_categories:
   - music
   - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
+featured_image: 'Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
 Relaxed and fun music and heritage workshops for adults in Leiston
