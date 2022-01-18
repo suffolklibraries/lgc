@@ -1,12 +1,11 @@
 ---
 id: 302f31a2-2ed6-4693-97ee-a32c9bc04e39
-published: false
 blueprint: events
 title: 'Children’s Choir - Lowestoft'
 event_categories:
-  - early-years
   - music
   - singing
+  - primary-school-age
 organisers:
   - my-choir-rocks
 start_date: '2022-01-17 18:00'
@@ -74,7 +73,7 @@ content_area:
         type: text
         text: .
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642506432
+updated_at: 1642506512
 end_date: '2022-01-17 19:00'
 attendance_information: 'Ages 5-11'
 latitude: '52.47621148431746'
