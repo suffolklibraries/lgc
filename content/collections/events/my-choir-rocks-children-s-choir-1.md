@@ -30,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'They are a children’s choir that sings modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
+        text: 'A children’s choir that sings modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
   -
     type: heading
     attrs:
@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Children''s choir meets at the Marina Theatre in Lowestoft, NR32 1HH. The entrance is at the front of the building via the Marina and has wide double wooden doors for those that have accessibility needs.'
+        text: 'Children''s Choir meets at the Marina Theatre in Lowestoft, NR32 1HH. The entrance is at the front of the building via the Marina and has wide double wooden doors for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -58,7 +58,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please email: '
+        text: 'For more information or to book please email: '
       -
         type: text
         marks:
@@ -73,8 +73,8 @@ content_area:
       -
         type: text
         text: .
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642496984
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1642506432
 end_date: '2022-01-17 19:00'
 attendance_information: 'Ages 5-11'
 latitude: '52.47621148431746'
@@ -85,7 +85,7 @@ postcode: 'NR32 1HH'
 cta: |-
   [myrockchoir@gmail.com](mailto:myrockchoir@gmail.com)
 
-  [7848854391](tel:7848854391)
+  [07848854391](tel:07848854391)
 featured_image: Music_white.png
 ---
-My Choir is a children’s choir that sings modern popular music. We focus on confidence and wellbeing by having fun with learning, practicing and performing music.
+My Choir is a children’s choir that sings modern popular music with a focus on confidence and wellbeing.
