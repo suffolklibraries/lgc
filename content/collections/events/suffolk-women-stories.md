@@ -1,26 +1,21 @@
 ---
 id: 84918c1f-8f8e-4a88-99b0-896b6bbf1cc6
-published: false
 blueprint: events
 title: 'Suffolk Women Stories'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642522740
-latitude: '52.22327511053906'
-longitude: '1.1697874596611926'
-start_date: '2022-01-13 10:00'
-free: false
+updated_at: 1642524213
+latitude: '52.05311582765442'
+longitude: '1.1635049206228716'
+start_date: '2022-01-18 10:00'
+free: true
 virtual: false
 organisers:
-  - dance-east
-address_line_1: 'Debenham Sports and Leisure Centre'
-address_line_2: 'Gracechurch Street'
-town: Debenham
-postcode: 'IP14 6BL'
-featured_image: DE_MOVERS_IMG-1.jpg
-attendance_information: |-
-  About 10 people
-  Age 55+
+  - creative-curve
+address_line_1: 'Suffolk Archives at The Hold'
+address_line_2: '131 Fore Street'
+town: Ipswich
+postcode: 'IP4 1LN'
 content_area:
   -
     type: heading
@@ -35,67 +30,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
+        text: 'Creative workshops at The Hold every Thursday and Saturday from January 20th to March 10th 2022. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns.'
+        text: 'Suffolk Women Stories offers free art workshops for women (and persons who identify as female) to create visuals of their life via quirky highly individual icons of their favourite things, clothes, shoes, images of their homes, flowers etc.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can email our organiser Chrissie Moore at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:Chrissie.Moore@danceeast.co.uk'
-              rel: null
-              target: _blank
-              title: null
-        text: Chrissie.Moore@danceeast.co.uk
-      -
-        type: text
-        text: ' or connect with '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.facebook.com/danceeast'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Dance East via Facebook'
-      -
-        type: text
-        text: .
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Debenham Movers meets at Debenham Sports and Leisure on Gracechurch Street in Debenham, IP14 6BL.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is an entrance at the front of the building via the carpark, this entrance uses sliding doors for those that have accessibility needs. '
+        text: 'Come along with your family and friends to make a record of your life to be included in this exciting interactive wall showcasing women''s stories in Suffolk today. These stories will then be added to the archives in order that people in the future understand what Suffolk women in 2022 believed in, valued and felt what still needed to be changed in society. No experience necessary.'
   -
     type: heading
     attrs:
@@ -109,33 +56,66 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can email Chrissie Moore at '
+        text: 'Workshops will be held at The Hold every Thursday and Saturday from Jan 20th until March 10th 2022. Morning and afternoon sessions available.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Book via '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:Chrissie.Moore@danceeast.co.uk'
+              href: 'https://www.ticketsource.co.uk/suffolk-archives/suffolk-women-stories-free-art-workshops/2022-02-03/10:00/t-ppqadx'
               rel: null
               target: _blank
               title: null
-        text: Chrissie.Moore@danceeast.co.uk
+        text: TicketSource
       -
         type: text
-        text: .
+        text: ' or book with Creative Curve by emailing '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:admin@creativecurve.org.uk'
+              rel: null
+              target: null
+              title: null
+        text: admin@creativecurve.org.uk
+      -
+        type: text
+        text: ' or call '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:077729028534'
+              rel: null
+              target: null
+              title: null
+        text: '077729028534'
 cta: |-
-  This event is organised by Dance East. Please contact Chrissie Moore:
+  This event is organised by Creative Curve. Please contact:
 
-  [Chrissie.Moore@danceeast.co.uk](mailto:Chrissie.Moore@danceeast.co.uk)
+  [admin@creativecurve.org.uk](mailto:admin@creativecurve.org.uk)
 
-  [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: 'https://www.danceeast.co.uk/workshops/debenham-movers/'
+  [077729028534](tel:077729028534)
+booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/suffolk-women-stories-free-art-workshops/2022-02-03/10:00/t-ppqadx'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £3
-end_date: '2022-01-13 11:00'
+end_date: '2022-03-10 10:00'
+event_categories:
+  - crafts
+  - art
 ---
-Creative Curve presents
+Creative free art workshops to celebrate Women's History Month.
