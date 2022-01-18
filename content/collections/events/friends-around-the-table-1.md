@@ -1,10 +1,10 @@
 ---
 id: eea3d350-960b-436c-b36c-b5dcd8ae3192
 blueprint: events
-title: 'Friends Around The Table'
+title: 'Friends Around The Table - the end of the Spice Route'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642519843
+updated_at: 1642519896
 start_date: '2022-01-31 10:30'
 end_date: '2022-01-31 12:00'
 event_categories:
