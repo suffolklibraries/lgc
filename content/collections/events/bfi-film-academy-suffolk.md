@@ -7,8 +7,8 @@ start_date: '2022-02-19 10:00'
 end_date: '2022-02-25 17:00'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641998914
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1642507004
 event_categories:
   - film
   - teen-and-young-adult
@@ -52,19 +52,25 @@ content_area:
     content:
       -
         type: text
-        text: ' A combination of workshops, practical skills development, watching and talking about film and to make a film together. '
+        text: 'Film Academy is a fast paced, fun and practical filmmaking experience, designed for young people with some demonstrable interest and/or experience in film.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The opportunity to meet and work alongside industry professionals from across disciplines including writing and directing through to production, sound design, editing and camera.'
+        text: 'The academy brings together a combination of film-making workshops, to develop practical skills. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'To meet and begin to network with other young film fans from across the region.    To achieve an Arts Award qualification. To become part of the Film Academy alumni and access exclusive opportunities.'
+        text: 'Get the opportunity to meet and work alongside industry professionals from across disciplines, including writing and directing through to production, sound design, editing and camera. Also, meet and begin to network with other young film fans from across the region.  '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Other benefits include: an Arts Award qualification, become part of the Film Academy alumni and access exclusive opportunities!'
   -
     type: heading
     attrs:
@@ -78,7 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'BFI Film Academy meets at the University Of Suffolk, 19 Neptune quay in Ipswich.'
+        text: 'BFI Film Academy meets at the University Of Suffolk, 19 Neptune Quay in Ipswich.'
   -
     type: paragraph
     content:
@@ -121,4 +127,4 @@ content_area:
         text: 'This event offers a bursary for any applicants that require it. '
 featured_image: BFI-image.jpg
 ---
-Film Academy is a fast paced, fun and practical filmmaking experience, designed for young people with some demonstrable interest and/or experience in film.
+Film Academy is for young people with an interest or experience in film.
