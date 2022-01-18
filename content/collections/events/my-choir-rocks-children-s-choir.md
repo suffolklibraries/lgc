@@ -4,9 +4,8 @@ published: false
 blueprint: events
 title: 'Children’s Choir - Kesgrave'
 event_categories:
-  - early-years
   - music
-  - singing
+  - primary-school-age
 organisers:
   - my-choir-rocks
 start_date: '2022-01-18 17:30'
@@ -92,7 +91,7 @@ content_area:
         type: text
         text: 'The first session of the children''s choir is free to attend and, if your child enjoys the session, from then on is £5 per session.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642506265
+updated_at: 1642506483
 end_date: '2022-01-18 18:30'
 attendance_information: '5-11 years'
 latitude: '52.0617115716603'
