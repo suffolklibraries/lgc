@@ -1,10 +1,10 @@
 ---
 id: eea3d350-960b-436c-b36c-b5dcd8ae3192
 blueprint: events
-title: 'Friends Around The Table (Duplicated)'
+title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642519758
+updated_at: 1642519823
 start_date: '2022-01-24 10:30'
 end_date: '2022-01-24 12:00'
 event_categories:
@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this session of Friends Around the Table discover the start of the Spice Route: Middle East.'
+        text: 'In this session of Friends Around the Table discover the end of the Spice Route: Japan. '
   -
     type: paragraph
     content:
