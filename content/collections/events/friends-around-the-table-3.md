@@ -1,12 +1,12 @@
 ---
 id: 6f166a24-6900-48f5-a788-a4941cc8110c
 blueprint: events
-title: 'Friends Around The Table - spice making (Duplicated)'
+title: 'Friends Around The Table - spice cook-up'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642519995
-start_date: '2022-02-07 10:30'
-end_date: '2022-02-07 12:00'
+updated_at: 1642520077
+start_date: '2022-02-14 10:30'
+end_date: '2022-02-14 12:00'
 event_categories:
   - crafts
   - food
@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this session of Friends Around the Table try your hand at spice making. '
+        text: 'In this session of Friends Around the Table explore cooking with spices. '
   -
     type: paragraph
     content:
