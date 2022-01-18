@@ -4,7 +4,7 @@ blueprint: events
 title: 'Friends Around The Table - spice making'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642519969
+updated_at: 1642519995
 start_date: '2022-02-07 10:30'
 end_date: '2022-02-07 12:00'
 event_categories:
@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this session of Friends Around the Table discover the end of the Spice Route: Japan. '
+        text: 'In this session of Friends Around the Table try your hand at spice making. '
   -
     type: paragraph
     content:
