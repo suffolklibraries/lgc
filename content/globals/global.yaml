@@ -31,6 +31,11 @@ data:
       url: 'https://www.suffolklibraries.co.uk/about/legal-information/privacy-and-cookies'
       type: new_set
       enabled: true
+    -
+      text: 'Terms & Conditions'
+      url: 'https://getcreative.suffolklibraries.co.uk/terms'
+      type: new_set
+      enabled: true
   newsletter_embed: |-
     <form action="https://suffolklibraries.us5.list-manage.com/subscribe/post?u=39d6c8527f75e31c9e770c6a4&amp;id=99bfb72dfd" method="post" name="mc-embedded-subscribe-form" target="_blank">
       <div class="u-flex o-flow-x">
