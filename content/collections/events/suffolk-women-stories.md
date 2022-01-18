@@ -2,16 +2,13 @@
 id: 84918c1f-8f8e-4a88-99b0-896b6bbf1cc6
 published: false
 blueprint: events
-title: 'Debenham Movers (Duplicated)'
+title: 'Suffolk Women Stories'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642522667
+updated_at: 1642522740
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-01-13 10:00'
-event_categories:
-  - dance
-  - later-in-life
 free: false
 virtual: false
 organisers:
@@ -141,6 +138,4 @@ accessibility_information: |-
 cost_details: £3
 end_date: '2022-01-13 11:00'
 ---
-A weekly dance class for everyone over 55.
-
-Hadleigh Movers classes are designed to benefit you both mentally and physically.
+Creative Curve presents
