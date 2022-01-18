@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Children''s choir meets at Kesgrave War Memorial Community Centre on Twelve acre approach.'
+        text: 'Children''s choir meets at Kesgrave War Memorial Community Centre on Twelve acre approach, IP5 1JF.'
   -
     type: paragraph
     content:
@@ -92,7 +92,7 @@ content_area:
         type: text
         text: 'The first session of the children''s choir is free to attend then on is £5 per session.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642497093
+updated_at: 1642498561
 end_date: '2022-01-18 18:30'
 attendance_information: 'Ages 5-11'
 latitude: '52.0617115716603'
