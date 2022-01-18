@@ -7,7 +7,7 @@ longitude: '1.496796100174832'
 start_date: '2022-02-24 10:30'
 end_date: '2022-02-24 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642177152
+updated_at: 1642506576
 free: true
 virtual: false
 organisers:
@@ -189,6 +189,6 @@ event_categories:
   - music
   - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/skylarks'
-featured_image: Music_drum.png
+featured_image: 'Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions
