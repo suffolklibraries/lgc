@@ -1,12 +1,12 @@
 ---
 id: dcc85706-eaa8-4765-aa0d-bb8f27c0374e
 blueprint: events
-title: 'Friends Around The Table - the end of the Spice Route (Duplicated)'
+title: 'Friends Around The Table - spice making'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642519896
-start_date: '2022-01-31 10:30'
-end_date: '2022-01-31 12:00'
+updated_at: 1642519969
+start_date: '2022-02-07 10:30'
+end_date: '2022-02-07 12:00'
 event_categories:
   - crafts
   - food
