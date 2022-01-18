@@ -74,7 +74,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642001187
+updated_at: 1642496984
 end_date: '2022-01-17 19:00'
 attendance_information: 'Ages 5-11'
 latitude: '52.47621148431746'
@@ -86,5 +86,6 @@ cta: |-
   [myrockchoir@gmail.com](mailto:myrockchoir@gmail.com)
 
   [7848854391](tel:7848854391)
+featured_image: Music_white.png
 ---
 My Choir is a children’s choir that sings modern popular music. We focus on confidence and wellbeing by having fun with learning, practicing and performing music.
