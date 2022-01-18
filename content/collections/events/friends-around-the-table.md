@@ -4,9 +4,9 @@ blueprint: events
 title: 'Friends Around The Table'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1641553146
-start_date: '2022-01-17 10:30'
-end_date: '2022-01-17 12:00'
+updated_at: 1642519758
+start_date: '2022-01-24 10:30'
+end_date: '2022-01-24 12:00'
 event_categories:
   - crafts
   - food
@@ -26,6 +26,12 @@ content_area:
       -
         type: text
         text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In this session of Friends Around the Table discover the start of the Spice Route: Middle East.'
   -
     type: paragraph
     content:
@@ -135,4 +141,4 @@ accessibility_information: '- online session'
 organisers:
   - suffolk-artlink
 ---
-We explore food, creativity and culture in regular workshops, to offer adult carers a moment of respite from their caring role.
+Explore food, creativity and culture in regular workshops to offer adult carers a moment of respite from their caring role.
