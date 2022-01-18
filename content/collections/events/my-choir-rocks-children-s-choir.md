@@ -30,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'They are a children’s choir that sings modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
+        text: 'A children’s choir that sings modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
   -
     type: heading
     attrs:
@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Children''s choir meets at Kesgrave War Memorial Community Centre on Twelve acre approach, IP5 1JF.'
+        text: 'Children''s Choir meets at Kesgrave War Memorial Community Centre on Twelve Acre Approach, IP5 1JF.'
   -
     type: paragraph
     content:
@@ -70,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please email: '
+        text: 'For more information and to book please email: '
       -
         type: text
         marks:
@@ -90,11 +90,11 @@ content_area:
     content:
       -
         type: text
-        text: 'The first session of the children''s choir is free to attend then on is £5 per session.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642498561
+        text: 'The first session of the children''s choir is free to attend and, if your child enjoys the session, from then on is £5 per session.'
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1642506224
 end_date: '2022-01-18 18:30'
-attendance_information: 'Ages 5-11'
+attendance_information: '5-11 years'
 latitude: '52.0617115716603'
 longitude: '1.2363744326897836'
 address_line_1: 'Twelve Acre Approach'
@@ -104,7 +104,7 @@ postcode: 'IP5 1JF'
 cta: |-
   [myrockchoir@gmail.com](mailto:myrockchoir@gmail.com)
 
-  [7848854391](tel:7848854391)
+  [07848854391](tel:07848854391)
 featured_image: Music_white.png
 ---
-My Choir is a children’s choir that sings modern popular music. We focus on confidence and wellbeing by having fun with learning, practicing and performing music.
+My Choir is a children’s choir that sings modern popular music with a focus on confidence and wellbeing.
