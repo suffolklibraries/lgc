@@ -90,7 +90,7 @@ content_area:
         type: text
         text: 'The first session of the children''s choir is free to attend and, if your child enjoys the session, from then on is £5 per session.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642506529
+updated_at: 1642585803
 end_date: '2022-01-18 18:30'
 attendance_information: '5-11 years'
 latitude: '52.0617115716603'
@@ -103,6 +103,6 @@ cta: |-
   [myrockchoir@gmail.com](mailto:myrockchoir@gmail.com)
 
   [07848854391](tel:07848854391)
-featured_image: Music_white.png
+featured_image: Music.png
 ---
 My Choir is a children’s choir that sings modern popular music with a focus on confidence and wellbeing.
