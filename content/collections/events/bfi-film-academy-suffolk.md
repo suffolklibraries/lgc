@@ -7,7 +7,7 @@ end_date: '2022-02-25 17:00'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642507010
+updated_at: 1642611602
 event_categories:
   - film
   - teen-and-young-adult
@@ -25,7 +25,7 @@ address_line_1: 'University of Suffolk'
 address_line_2: 'Waterfront Building, 19 Neptune Quay'
 town: Ipswich
 postcode: 'IP4 1QJ'
-booking_link: www.creative-nation.co.uk/filmacademy
+booking_link: 'https://www.creative-nation.co.uk/filmacademy/'
 cta: |-
   This event is organised by BFI Film Academy/Creative Nation please contact Alice Whitney:
 
