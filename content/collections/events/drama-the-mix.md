@@ -7,7 +7,7 @@ longitude: '0.9995085831205711'
 start_date: '2022-01-18 18:00'
 end_date: '2022-01-18 20:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640279629
+updated_at: 1642585822
 free: true
 virtual: false
 content_area:
@@ -137,5 +137,6 @@ event_categories:
   - performance
   - teen-and-young-adult
 booking_link: '#'
+featured_image: Theatre.png
 ---
 Free after school weekly drama sessions for young people
