@@ -20,7 +20,7 @@ address_line_1: 'Hadleigh Baptist Church'
 address_line_2: 'George Street'
 town: Hadleigh
 postcode: 'IP7 5BE'
-featured_image: DE_MOVERS_IMG-1.jpg
+featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
 attendance_information: |-
   About 10 people
   Age 55+
