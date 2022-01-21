@@ -5,7 +5,7 @@ blueprint: events
 title: 'Tots & Co'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642762614
+updated_at: 1642762697
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2021-11-06 09:30'
@@ -71,7 +71,21 @@ content_area:
         text: '01473 295 230'
       -
         type: text
-        text: ' or connect with.'
+        text: ' or connect with '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.facebook.com/danceeast'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Dance East via Facebook'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
