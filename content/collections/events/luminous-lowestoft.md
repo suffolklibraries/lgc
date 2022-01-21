@@ -7,7 +7,7 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - siren-calling
-start_date: '2022-02-15 09:30'
+start_date: '2022-03-01 09:30'
 free: true
 virtual: true
 attendance_information: |-
@@ -62,10 +62,6 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Luminous meets at Shire Hall on Market Hill in Woodbridge,IP12 4LP'
   -
     type: heading
     attrs:
@@ -108,9 +104,9 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642767858
+updated_at: 1642768508
 booking_link: 'https://sirencalling.org/luminous'
-end_date: '2022-02-16 17:00'
+end_date: '2022-01-02 17:00'
 accessibility_information: |-
   - Seated Venue
   - Covid 19 preventitive measures in place
