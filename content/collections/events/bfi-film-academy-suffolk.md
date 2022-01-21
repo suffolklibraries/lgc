@@ -124,6 +124,6 @@ content_area:
       -
         type: text
         text: 'This event offers a bursary for any applicants that require it. '
-featured_image: BFI-image.jpg
+featured_image: bfifilmacademyimages/BFI-image.jpg
 ---
 Film Academy is for young people with an interest or experience in film.
