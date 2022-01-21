@@ -85,6 +85,6 @@ cta: |-
   [myrockchoir@gmail.com](mailto:myrockchoir@gmail.com)
 
   [07848854391](tel:07848854391)
-featured_image: Music_white.png
+featured_image: offthepressimages/Music_white.png
 ---
 My Choir is a children’s choir that sings modern popular music with a focus on confidence and wellbeing.
