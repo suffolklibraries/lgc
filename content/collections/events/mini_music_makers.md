@@ -3,8 +3,8 @@ id: dd7108dd-465c-4fd8-a816-211bceeb70af
 blueprint: events
 title: 'Mini Music Makers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642003135
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1642761432
 latitude: '52.164482106259534'
 longitude: '1.5877787370457823'
 start_date: '2022-02-04 10:00'
@@ -112,7 +112,7 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 
   [https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers](https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers)
-booking_link: '#'
+booking_link: 'https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers'
 accessibility_information: '- Indoor or outside venue'
 featured_image: miscellaneous/Mini_Music_Makers_2.jfif
 ---
