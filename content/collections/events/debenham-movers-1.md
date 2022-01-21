@@ -20,7 +20,7 @@ address_line_1: 'Debenham Sports and Leisure Centre'
 address_line_2: 'Gracechurch Street'
 town: Debenham
 postcode: 'IP14 6BL'
-featured_image: DE_MOVERS_IMG-1.jpg
+featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
 attendance_information: |-
   About 10 people
   Age 55+
