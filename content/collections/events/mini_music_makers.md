@@ -114,6 +114,6 @@ cta: |-
   [https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers](https://brittenpearsarts.org/take-part/families-young-people/mini-music-makers)
 booking_link: '#'
 accessibility_information: '- Indoor or outside venue'
-featured_image: Mini_Music_Makers_2.jfif
+featured_image: miscellaneous/Mini_Music_Makers_2.jfif
 ---
 Mini Music Makers is a free music, heritage and place session for families with children under five years old.
