@@ -103,7 +103,7 @@ content_area:
       -
         type: image
         attrs:
-          src: 'asset::assets::Mini_Music_Makers_1.jfif'
+          src: 'asset::assets::miscellaneous/Mini_Music_Makers_1.jfif'
           alt: null
 cta: |-
   This event is organised by Britten Pears Arts.
