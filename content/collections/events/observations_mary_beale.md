@@ -21,7 +21,7 @@ address_line_1: 'Moyse''s Hall Museum'
 address_line_2: Cornhill
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 1DX'
-featured_image: mary-beale-use.jpg
+featured_image: miscellaneous/mary-beale-use.jpg
 content_area:
   -
     type: heading
