@@ -104,7 +104,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642768695
+updated_at: 1642770527
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-16 17:00'
 accessibility_information: |-
@@ -115,4 +115,9 @@ cta: |-
   This event is run by Siren Calling for more information please email or visit the website:
   [xenia.dautzenberg@sirencalling.org](mailto:xenia.dautzenberg@sirencalling.org)
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
+latitude: '51.96383179324009'
+longitude: '1.352184169421521'
+address_line_1: 'Level two'
+address_line_2: '54 Cobbold Road'
+postcode: 'IP11 7EL'
 ---
