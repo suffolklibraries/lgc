@@ -4,7 +4,7 @@ blueprint: events
 title: 'Suffolk Women Stories'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642762856
+updated_at: 1642771369
 latitude: '52.05311582765442'
 longitude: '1.1635049206228716'
 start_date: '2022-01-18 10:00'
@@ -117,5 +117,6 @@ end_date: '2022-03-10 10:00'
 event_categories:
   - crafts
   - art
+featured_image: Creative_Curve_Suffolk_Womens_stories.jpg
 ---
 Creative free art workshops to celebrate Women's History Month.
