@@ -57,7 +57,7 @@ data:
       ga('create', 'UA-48176962-1', 'auto');
       ga('send', 'pageview');
     </script>
-  seo_image: opengraph.png
+  seo_image: suffolklibrariesimages/opengraph.png
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost event in Suffolk then please let us know about it.'
   listing_call_to_action: 'Get in touch with Georgie'
