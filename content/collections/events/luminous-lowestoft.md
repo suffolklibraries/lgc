@@ -104,9 +104,9 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642768508
+updated_at: 1642770545
 booking_link: 'https://sirencalling.org/luminous'
-end_date: '2022-01-02 17:00'
+end_date: '2022-03-02 17:00'
 accessibility_information: |-
   - Seated Venue
   - Covid 19 preventitive measures in place
