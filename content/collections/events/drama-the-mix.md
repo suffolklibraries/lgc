@@ -137,6 +137,6 @@ event_categories:
   - performance
   - teen-and-young-adult
 booking_link: '#'
-featured_image: Theatre.png
+featured_image: offthepressimages/Theatre.png
 ---
 Free after school weekly drama sessions for young people
