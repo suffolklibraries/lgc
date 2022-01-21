@@ -2,7 +2,7 @@
 id: 533fd713-deae-4a6d-be94-6690f71b1b42
 published: false
 blueprint: events
-title: 'Luminous - Woodbridge (Duplicated)'
+title: 'Luminous - Lowestoft'
 event_categories:
   - teen-and-young-adult
 organisers:
@@ -108,18 +108,13 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642767784
+updated_at: 1642767858
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-02-16 17:00'
 accessibility_information: |-
   - Seated Venue
   - Covid 19 preventitive measures in place
-latitude: '52.094018349213144'
-longitude: '1.3136418252454478'
-address_line_1: 'Shire Hall'
-address_line_2: 'Market Hill'
-town: Woodbridge
-postcode: 'IP12 4LP'
+town: Lowestoft
 cta: |-
   This event is run by Siren Calling for more information please email or visit the website:
   [xenia.dautzenberg@sirencalling.org](mailto:xenia.dautzenberg@sirencalling.org)
