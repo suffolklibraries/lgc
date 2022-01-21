@@ -140,6 +140,6 @@ accessibility_information: |-
   - Complimentary for carers
   - Taster sessions available
 cost_details: '£49 for 7 week course'
-featured_image: 9J1A0101-(2).jpg
+featured_image: danceeastimages/9J1A0101-(2).jpg
 ---
 A course for growns ups and littles ones who just want to move and shake!
