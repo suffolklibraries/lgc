@@ -13,7 +13,7 @@ event_categories:
   - combined-arts
 organisers:
   - suffolk-art-link
-featured_image: around-the-table.jpg
+featured_image: suffolkartlinkimages/around-the-table.jpg
 content_area:
   -
     type: paragraph
