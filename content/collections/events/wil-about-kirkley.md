@@ -129,6 +129,6 @@ cta: |-
   [07704 068 327](tel:07704068327)
 
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
-featured_image: 13-July-forage-1.jpg
+featured_image: suffolkartlinkimages/13-July-forage-1.jpg
 ---
 Foraging presentation and tasting session with forager, Jon Tyler.
