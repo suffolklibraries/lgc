@@ -3,8 +3,8 @@ id: 84918c1f-8f8e-4a88-99b0-896b6bbf1cc6
 blueprint: events
 title: 'Suffolk Women Stories'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642771369
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1642782518
 latitude: '52.05311582765442'
 longitude: '1.1635049206228716'
 start_date: '2022-01-18 10:00'
@@ -43,6 +43,20 @@ content_area:
       -
         type: text
         text: 'Come along with your family and friends to make a record of your life to be included in this exciting interactive wall showcasing women''s stories in Suffolk today. These stories will then be added to the archives in order that people in the future understand what Suffolk women in 2022 believed in, valued and felt what still needed to be changed in society. No experience necessary.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get here'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find The Hold opposite University of Suffolk buildings in Ipswich, near the Waterfront. There is a car park behind The Hold building where you can get two hours free parking. '
   -
     type: heading
     attrs:
