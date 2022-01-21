@@ -1,6 +1,5 @@
 ---
 id: 44fc0d65-2115-407b-a409-a498d5a438e7
-published: false
 blueprint: events
 title: 'Wild About Kirkley'
 start_date: '2022-01-21 13:00'
@@ -8,7 +7,7 @@ end_date: '2022-01-21 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642762295
+updated_at: 1642762364
 event_categories:
   - outdoor-venue
   - nature
