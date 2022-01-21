@@ -12,7 +12,7 @@ free: true
 virtual: false
 organisers:
   - britten-pears-arts
-featured_image: group-a.jpg
+featured_image: brittenpearsartsimages/group-a.jpg
 content_area:
   -
     type: heading
