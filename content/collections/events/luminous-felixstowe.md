@@ -104,7 +104,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642770527
+updated_at: 1642778237
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-16 17:00'
 accessibility_information: |-
@@ -120,4 +120,5 @@ longitude: '1.352184169421521'
 address_line_1: 'Level two'
 address_line_2: '54 Cobbold Road'
 postcode: 'IP11 7EL'
+featured_image: LUMINOUS-FELIXSTOWE-15-16-MAR-2022.png
 ---
