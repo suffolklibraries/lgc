@@ -20,7 +20,7 @@ address_line_1: 'The Kirkley Centre'
 address_line_2: 'London Road S'
 town: Lowestoft
 postcode: 'NR33 0AZ'
-featured_image: DE_MOVERS_IMG-1.jpg
+featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
 attendance_information: 'Age 55+'
 content_area:
   -
