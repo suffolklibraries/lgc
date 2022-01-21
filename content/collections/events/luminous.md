@@ -16,10 +16,14 @@ attendance_information: |-
 content_area:
   -
     type: paragraph
+  -
+    type: paragraph
+  -
+    type: paragraph
     content:
       -
         type: text
-        text: 'We are offering three sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.'
+        text: 'They are offering three sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.'
   -
     type: paragraph
     content:
@@ -43,13 +47,61 @@ content_area:
     content:
       -
         type: text
-        text: 'After the workshops we will mentor participants in the making of a creative output for six weeks. This will then be presented in'
+        text: 'After the workshops they will mentor participants in the making of a creative output for six weeks. This will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation!'
+  -
+    type: paragraph
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get here'
+  -
+    type: paragraph
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to book'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'video format on a livestream from a SWT location, with participants present to discuss their creation!'
+        text: 'Go to '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://sirencalling.org/luminous'
+              rel: null
+              target: null
+              title: null
+        text: 'https://sirencalling.org/luminous'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Have a read through our project information for the location you''re interested in (Woodbridge, Lowestoft or Felixstowe).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is a link to registration/info on how to register on the page.'
+  -
+    type: heading
+    attrs:
+      level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642765961
+updated_at: 1642766334
+booking_link: 'https://sirencalling.org/luminous'
 ---
