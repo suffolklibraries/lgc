@@ -103,6 +103,6 @@ accessibility_information: |-
   - Family friendly
   - Autism friendly
   - Wheelchair accesss
-featured_image: F7D83BC7-6BC5-4BC5-BCB9-291BC8B56A60.jpeg
+featured_image: rockpaperscissorsimages/F7D83BC7-6BC5-4BC5-BCB9-291BC8B56A60.jpeg
 ---
 Fun for all the family in Christchurch Park this February half term
