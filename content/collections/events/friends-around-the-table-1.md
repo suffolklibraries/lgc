@@ -13,7 +13,7 @@ event_categories:
   - nature
 free: true
 virtual: true
-featured_image: around-the-table.jpg
+featured_image: suffolkartlinkimages/around-the-table.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
