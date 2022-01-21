@@ -104,7 +104,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642770545
+updated_at: 1642778444
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-02 17:00'
 accessibility_information: |-
@@ -115,4 +115,5 @@ cta: |-
   This event is run by Siren Calling for more information please email or visit the website:
   [xenia.dautzenberg@sirencalling.org](mailto:xenia.dautzenberg@sirencalling.org)
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
+featured_image: LOWESTOFT.png
 ---
