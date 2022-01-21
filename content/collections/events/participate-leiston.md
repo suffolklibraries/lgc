@@ -178,6 +178,6 @@ event_categories:
   - music
   - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
-featured_image: 'Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
+featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
 Relaxed and fun music and heritage workshops for adults in Leiston
