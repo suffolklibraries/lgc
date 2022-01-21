@@ -1,11 +1,10 @@
 ---
 id: 5e189b78-e71d-49aa-b7f9-7eaf30fb79d1
-published: false
 blueprint: events
 title: 'Tots & Co'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642762697
+updated_at: 1642762711
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2021-11-06 09:30'
