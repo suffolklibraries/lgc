@@ -2,12 +2,12 @@
 id: b1973dba-8e67-44bf-b9f2-02161056865a
 published: false
 blueprint: events
-title: Luminous
+title: 'Luminous - Woodbridge'
 event_categories:
   - teen-and-young-adult
 organisers:
   - siren-calling
-start_date: '2022-01-21 11:41'
+start_date: '2022-02-15 09:30'
 free: true
 virtual: true
 attendance_information: |-
@@ -15,9 +15,13 @@ attendance_information: |-
   Indoor venue
 content_area:
   -
-    type: paragraph
-  -
-    type: paragraph
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'What to expect'
   -
     type: paragraph
     content:
@@ -48,8 +52,6 @@ content_area:
       -
         type: text
         text: 'After the workshops they will mentor participants in the making of a creative output for six weeks. This will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation!'
-  -
-    type: paragraph
   -
     type: heading
     attrs:
@@ -102,6 +104,20 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642766334
+updated_at: 1642767279
 booking_link: 'https://sirencalling.org/luminous'
+end_date: '2022-02-16 17:00'
+accessibility_information: |-
+  - Seated Venue
+  - Covid 19 preventitive measures in place
+latitude: '52.094018349213144'
+longitude: '1.3136418252454478'
+address_line_1: 'Shire Hall'
+address_line_2: 'Market Hill'
+town: Woodbridge
+postcode: 'IP12 4LP'
+cta: |-
+  This event is run by Siren Calling for more information please email or visit the website:
+  [xenia.dautzenberg@sirencalling.org](mailto:xenia.dautzenberg@sirencalling.org)
+  [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
 ---
