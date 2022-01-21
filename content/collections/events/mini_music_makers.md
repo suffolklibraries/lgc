@@ -4,7 +4,7 @@ blueprint: events
 title: 'Mini Music Makers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642761432
+updated_at: 1642761466
 latitude: '52.164482106259534'
 longitude: '1.5877787370457823'
 start_date: '2022-02-04 10:00'
