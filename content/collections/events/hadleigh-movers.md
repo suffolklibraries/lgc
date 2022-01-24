@@ -3,8 +3,8 @@ id: 52ff4fb4-f2c5-4807-b0ca-4f9b34141695
 blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642763980
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643025709
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2022-01-25 11:30'
@@ -37,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
+        text: 'Debenham Movers is a gentle movement class for over 55s. Held every Tuesday, 11.30am – 12.30am at Debenham Community Centre. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
