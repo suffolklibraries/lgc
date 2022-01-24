@@ -1,6 +1,5 @@
 ---
 id: b1973dba-8e67-44bf-b9f2-02161056865a
-published: false
 blueprint: events
 title: 'Luminous - Woodbridge'
 event_categories:
@@ -136,7 +135,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643021147
+updated_at: 1643021246
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-02-16 17:00'
 accessibility_information: |-
