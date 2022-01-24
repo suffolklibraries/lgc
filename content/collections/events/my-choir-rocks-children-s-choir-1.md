@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A children’s choir that sings modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
+        text: 'A children’s choir that meets weekly during term time to sing modern popular music. The choir sessions focus on wellbeing and confidence through the learning, practice and performance of music.'
   -
     type: heading
     attrs:
@@ -73,7 +73,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643033663
+updated_at: 1643033852
 end_date: '2022-01-31 19:00'
 attendance_information: 'Ages 5-11'
 latitude: '52.47621148431746'
