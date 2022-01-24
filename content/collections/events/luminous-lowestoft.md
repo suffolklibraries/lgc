@@ -10,9 +10,7 @@ organisers:
 start_date: '2022-03-01 09:30'
 free: true
 virtual: true
-attendance_information: |-
-  16-25
-  Indoor venue
+attendance_information: 'Ages 16-25'
 content_area:
   -
     type: heading
@@ -27,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'They are offering three sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.'
+        text: 'Siren Calling are offering three 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk with choices on in person or online events.'
   -
     type: paragraph
     content:
@@ -51,7 +49,7 @@ content_area:
     content:
       -
         type: text
-        text: 'After the workshops they will mentor participants in the making of a creative output for six weeks. This will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation!'
+        text: 'After the workshops, they will mentor participants in the making of a creative output for six weeks. This will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation!'
   -
     type: heading
     attrs:
@@ -62,6 +60,28 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Luminous Lowestoft meets at Inspire Suffolk, Colville House Lowestoft, NR33 9NB.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue has a car park at the front of the building.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue has double doors and an access ramp for those that have accessibility needs. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For those not able to attend in person the event is also being held digitally.'
   -
     type: heading
     attrs:
@@ -92,7 +112,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Have a read through our project information for the location you''re interested in (Woodbridge, Lowestoft or Felixstowe).'
+        text: 'Have a read through the project information for the location you''re interested in (Woodbridge, Lowestoft or Felixstowe).'
   -
     type: paragraph
     content:
@@ -104,16 +124,23 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642778444
+updated_at: 1643020719
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-02 17:00'
 accessibility_information: |-
-  - Seated Venue
-  - Covid 19 preventitive measures in place
+  - Seated venue
+  - Covid 19 preventative measures in place
+  - Indoor venue
 town: Lowestoft
 cta: |-
   This event is run by Siren Calling for more information please email or visit the website:
   [xenia.dautzenberg@sirencalling.org](mailto:xenia.dautzenberg@sirencalling.org)
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
 featured_image: LOWESTOFT.png
+latitude: '52.47173796426557'
+longitude: '1.7208826829302177'
+address_line_1: 'Colville House'
+address_line_2: 'School Road'
+postcode: 'NR33 9NB'
 ---
+Learn to understand and manage your wellbeing with  sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
