@@ -3,8 +3,8 @@ id: 2d56b8d2-2432-43e9-86c5-b05cf36c23b9
 blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641898824
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643026311
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2022-01-19 10:00'
@@ -37,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
+        text: 'Sudbury Movers is a gentle movement class for over 55s. Held every Wednesday at 10-11.30am at All Saints Church Hall. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
