@@ -118,7 +118,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643020896
+updated_at: 1643020970
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-02-16 17:00'
 accessibility_information: |-
@@ -137,4 +137,4 @@ cta: |-
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
 featured_image: LUMINOUS-WOODBRIDGE-15-16-FEB-2022-1642778119.png
 ---
-Learn to understand and manage your wellbeing with sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
+Learn to understand and manage your wellbeing with 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
