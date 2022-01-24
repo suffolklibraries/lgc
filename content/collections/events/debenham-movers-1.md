@@ -1,11 +1,10 @@
 ---
 id: 495e297a-3cf3-4d61-a8b8-1f9fad3e88cc
-published: false
 blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643025450
+updated_at: 1643025532
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-01-27 10:00'
@@ -38,33 +37,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Debeham Movers is a gentle movement class for over 55s. Held every Thursday, 10.00am – 11.00am at Debenham Community Centre. The session is led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
+        text: 'Debenham Movers is a gentle movement class for over 55s. Held every Thursday, 10.00am – 11.00am at Debenham Community Centre. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'You can email our organiser Chrissie Moore at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:Chrissie.Moore@danceeast.co.uk'
-              rel: null
-              target: _blank
-              title: null
-        text: Chrissie.Moore@danceeast.co.uk
-      -
-        type: text
-        text: ' or connect with '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns about DanceEast''s Movers classes via our Facebook page: '
       -
         type: text
         marks:
