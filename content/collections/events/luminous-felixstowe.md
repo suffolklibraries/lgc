@@ -1,6 +1,5 @@
 ---
 id: 4654252f-3144-4818-98ea-5b012b3aabd0
-published: false
 blueprint: events
 title: 'Luminous - Felixstowe'
 event_categories:
@@ -136,7 +135,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643021176
+updated_at: 1643021234
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-16 17:00'
 accessibility_information: |-
