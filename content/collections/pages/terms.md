@@ -35,6 +35,12 @@ content_area:
     content:
       -
         type: text
+        text: 'Please be aware that if appropriate imagery is not supplied Suffolk Libraries reserves the right to use a generic placeholder image. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'BOOKING. '
   -
     type: paragraph
@@ -67,5 +73,5 @@ content_area:
         type: text
         text: 'In the case of cancellations or changes to an activity, it is the content provider’s responsibility to update Suffolk Libraries or inform event attendees. Please be aware Suffolk Libraries will need at least 24 hours to amend live listings with information changes.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642527468
+updated_at: 1643027274
 ---
