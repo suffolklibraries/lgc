@@ -117,8 +117,8 @@ content_area:
     type: heading
     attrs:
       level: 2
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643020837
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643020891
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-16 17:00'
 accessibility_information: |-
@@ -137,4 +137,4 @@ address_line_2: '54 Cobbold Road'
 postcode: 'IP11 7EL'
 featured_image: LUMINOUS-FELIXSTOWE-15-16-MAR-2022.png
 ---
-Learn to understand and manage your wellbeing with  sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
+Learn to understand and manage your wellbeing with sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
