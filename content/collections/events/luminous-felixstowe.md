@@ -62,6 +62,22 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Luminous meets at Level 2 In 54 Cobbold Road Felixstowe,IP11 7EL.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is a car park close to the venue which is situated on Crescent Road.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For those not able to attend in person the event is also being held digitally. '
   -
     type: heading
     attrs:
@@ -104,7 +120,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642778237
+updated_at: 1643018479
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-16 17:00'
 accessibility_information: |-
