@@ -24,7 +24,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Siren Calling are offering three 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk with choices on in person or online events.'
+        text: 'Siren Calling are offering three 2 day workshops in collaboration with Suffolk Mind and Inspire Suffolk for people aged 16-25 across Suffolk. The workshops are available to join online or in person. '
   -
     type: paragraph
     content:
@@ -60,13 +60,13 @@ content_area:
             content:
               -
                 type: text
-                text: 'Realise that your future is not fixed, imagine the possibilities'
+                text: 'Realise that your future is not fixed, imagine the possibilities.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'After the workshops, they will mentor participants in the making of a creative output for six weeks. This will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation!'
+        text: 'After the workshops, participants will be mentored in the making of a creative output for six weeks. This work will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation.'
   -
     type: heading
     attrs:
@@ -80,13 +80,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Luminous meets at Shire Hall on Market Hill in Woodbridge,IP12 4LP. There is car parking outside the venue and around the square.'
+        text: 'Luminous meets at Shire Hall on Market Hill in Woodbridge, IP12 4LP. There is car parking outside the venue and around the square.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The venue Has wide double doors for those that have accessibility needs.'
+        text: 'The venue has wide double doors for those that have accessibility needs.'
   -
     type: paragraph
     content:
@@ -129,13 +129,9 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a link to registration/info on how to register on the page.'
-  -
-    type: heading
-    attrs:
-      level: 2
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643021246
+        text: 'There is a link to registration and information on how to register on the page above. '
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643028059
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-02-16 17:00'
 accessibility_information: |-
