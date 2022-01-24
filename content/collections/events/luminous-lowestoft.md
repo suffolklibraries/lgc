@@ -80,13 +80,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Luminous meets at Level 2 In 54 Cobbold Road Felixstowe, IP11 7EL.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is a car park close to the venue which is situated on Crescent Road.'
+        text: 'Luminous will meet at Inspire Suffolk Colville House, School Road, Lowestoft NR33 9NB. Bus stops and train stations are both within walking distance of the venue.'
   -
     type: paragraph
     content:
@@ -131,7 +125,7 @@ content_area:
         type: text
         text: 'There is a link to registration and information on how to register on the page above. '
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643027988
+updated_at: 1643028244
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-02 17:00'
 accessibility_information: |-
