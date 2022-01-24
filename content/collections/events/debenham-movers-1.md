@@ -5,13 +5,13 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643024939
+updated_at: 1643025065
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-01-27 10:00'
 event_categories:
-  - dance
   - later-in-life
+  - movement
 free: false
 virtual: false
 organisers:
