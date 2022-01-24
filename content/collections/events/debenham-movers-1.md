@@ -5,7 +5,7 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643025065
+updated_at: 1643025450
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-01-27 10:00'
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
+        text: 'Debeham Movers is a gentle movement class for over 55s. Held every Thursday, 10.00am – 11.00am at Debenham Community Centre. The session is led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
   -
     type: paragraph
     content:
