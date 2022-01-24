@@ -1,6 +1,5 @@
 ---
 id: 533fd713-deae-4a6d-be94-6690f71b1b42
-published: false
 blueprint: events
 title: 'Luminous - Lowestoft'
 event_categories:
@@ -142,7 +141,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643021137
+updated_at: 1643021241
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-02 17:00'
 accessibility_information: |-
