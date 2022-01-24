@@ -3,15 +3,16 @@ id: cad5985c-1756-45b4-a77c-e36aca9b8ac4
 blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1641902842
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643026174
 latitude: '52.0356853'
 longitude: '0.7231837'
-start_date: '2022-01-14 10:00'
-end_date: '2022-01-14 11:00'
+start_date: '2022-01-28 10:00'
+end_date: '2022-01-28 11:00'
 event_categories:
   - dance
   - later-in-life
+  - movement
 free: false
 virtual: false
 organisers:
@@ -36,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by experienced dance artists, you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun!'
+        text: 'Lowestoft Movers is a gentle movement class for over 55s. Held every Friday at 10-11am at The Kirkley Centre. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
@@ -84,7 +85,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers meets at The Kirkley Centre in Lowestoft on 154 London Rd S.'
+        text: 'Lowestoft Movers meet at The Kirkley Centre in Lowestoft on 154 London Rd S.'
   -
     type: paragraph
     content:
