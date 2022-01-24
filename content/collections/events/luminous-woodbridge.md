@@ -65,7 +65,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Luminous meets at Shire Hall on Market Hill in Woodbridge,IP12 4LP'
+        text: 'Luminous meets at Shire Hall on Market Hill in Woodbridge,IP12 4LP. There is car parking outside the venue and around the square.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue Has wide double doors for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -108,7 +114,7 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642778152
+updated_at: 1643017897
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-02-16 17:00'
 accessibility_information: |-
@@ -126,3 +132,4 @@ cta: |-
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
 featured_image: LUMINOUS-WOODBRIDGE-15-16-FEB-2022-1642778119.png
 ---
+Learn to understand and manage your wellbeing with  sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
