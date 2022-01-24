@@ -1,5 +1,6 @@
 ---
 id: 97fbb18f-8efc-4a87-ae81-1effd4512742
+published: false
 blueprint: events
 title: 'Children’s Choir - Kesgrave (Duplicated) (2)'
 event_categories:
