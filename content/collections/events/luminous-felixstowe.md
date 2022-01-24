@@ -31,19 +31,37 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn to understand and manage your wellbeing.'
+        text: 'At these workshops:'
   -
-    type: paragraph
+    type: bullet_list
     content:
       -
-        type: text
-        text: 'Gain new skills to help with future work.'
-  -
-    type: paragraph
-    content:
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Learn to understand and manage your wellbeing'
       -
-        type: text
-        text: 'Realise that your future is not fixed, imagine the possibilities.'
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Gain new skills to help with future work'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Realise that your future is not fixed, imagine the possibilities.'
   -
     type: paragraph
     content:
@@ -117,8 +135,8 @@ content_area:
     type: heading
     attrs:
       level: 2
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643020977
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643021024
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-16 17:00'
 accessibility_information: |-
@@ -132,9 +150,9 @@ cta: |-
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
 latitude: '51.96383179324009'
 longitude: '1.352184169421521'
-address_line_1: 'Level two'
+address_line_1: 'Level Two'
 address_line_2: '54 Cobbold Road'
 postcode: 'IP11 7EL'
 featured_image: LUMINOUS-FELIXSTOWE-15-16-MAR-2022.png
 ---
-Learn to understand and manage your wellbeing with 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
+Learn to understand and manage your wellbeing with sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
