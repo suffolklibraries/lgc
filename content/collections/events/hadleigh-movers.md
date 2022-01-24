@@ -4,13 +4,14 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643025709
+updated_at: 1643025976
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
-start_date: '2022-01-25 11:30'
+start_date: '2022-01-31 11:30'
 event_categories:
-  - dance
   - later-in-life
+  - movement
+  - dance
 free: false
 virtual: false
 organisers:
