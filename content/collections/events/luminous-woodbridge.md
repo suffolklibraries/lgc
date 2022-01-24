@@ -10,9 +10,7 @@ organisers:
 start_date: '2022-02-15 09:30'
 free: true
 virtual: true
-attendance_information: |-
-  16-25
-  Indoor venue
+attendance_information: 'Ages 16-25'
 content_area:
   -
     type: heading
@@ -27,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'They are offering three sets of 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.'
+        text: 'Siren Calling are offering three 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk with choices on in person or online events.'
   -
     type: paragraph
     content:
@@ -51,7 +49,7 @@ content_area:
     content:
       -
         type: text
-        text: 'After the workshops they will mentor participants in the making of a creative output for six weeks. This will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation!'
+        text: 'After the workshops, they will mentor participants in the making of a creative output for six weeks. This will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation!'
   -
     type: heading
     attrs:
@@ -72,6 +70,12 @@ content_area:
       -
         type: text
         text: 'The venue Has wide double doors for those that have accessibility needs.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For those not able to attend in person the event is also being held digitally.'
   -
     type: heading
     attrs:
@@ -102,7 +106,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Have a read through our project information for the location you''re interested in (Woodbridge, Lowestoft or Felixstowe).'
+        text: 'Have a read through the project information for the location you''re interested in (Woodbridge, Lowestoft or Felixstowe).'
   -
     type: paragraph
     content:
@@ -114,12 +118,13 @@ content_area:
     attrs:
       level: 2
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643017897
+updated_at: 1643020742
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-02-16 17:00'
 accessibility_information: |-
-  - Seated Venue
-  - Covid 19 preventitive measures in place
+  - Seated venue
+  - Covid 19 preventative measures in place
+  - Indoor venue and online
 latitude: '52.094018349213144'
 longitude: '1.3136418252454478'
 address_line_1: 'Shire Hall'
