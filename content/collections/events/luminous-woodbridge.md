@@ -148,6 +148,6 @@ cta: |-
   This event is run by Siren Calling for more information please email or visit the website:
   [xenia.dautzenberg@sirencalling.org](mailto:xenia.dautzenberg@sirencalling.org)
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
-featured_image: LUMINOUS-WOODBRIDGE-15-16-FEB-2022-1642778119.png
+featured_image: luminous/LUMINOUS-WOODBRIDGE-15-16-FEB-2022-1642778119.png
 ---
 Learn to understand and manage your wellbeing with 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
