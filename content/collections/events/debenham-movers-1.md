@@ -1,11 +1,10 @@
 ---
 id: 495e297a-3cf3-4d61-a8b8-1f9fad3e88cc
-published: false
 blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643105129
+updated_at: 1643105140
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-02-01 10:00'
