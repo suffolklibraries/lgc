@@ -66,7 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: 'After the workshops, participants will be mentored in the making of a creative output for six weeks. This work will then be presented in video format on a livestream from a SWT location, with participants present to discuss their creation.'
+        text: 'After the workshops, participants will be mentored in the making of a creative output for six weeks. This work will then be presented in video format on a livestream from a Suffolk Wildlife Trust location, with participants present to discuss their creation.'
   -
     type: heading
     attrs:
@@ -125,7 +125,7 @@ content_area:
         type: text
         text: 'There is a link to registration and information on how to register on the page above. '
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643107625
+updated_at: 1643111294
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-02-16 17:00'
 accessibility_information: |-
