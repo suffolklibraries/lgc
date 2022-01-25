@@ -131,6 +131,6 @@ end_date: '2022-03-10 10:00'
 event_categories:
   - crafts
   - art
-featured_image: Creative_Curve_Suffolk_Womens_stories.jpg
+featured_image: miscellaneous/Creative_Curve_Suffolk_Womens_stories.jpg
 ---
 Creative free art workshops to celebrate Women's History Month.
