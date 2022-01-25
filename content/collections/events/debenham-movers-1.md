@@ -1,11 +1,10 @@
 ---
 id: 495e297a-3cf3-4d61-a8b8-1f9fad3e88cc
-published: false
 blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643105260
+updated_at: 1643105543
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-02-01 10:00'
@@ -92,25 +91,27 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can email Chrissie Moore at '
+        text: 'To book you can email Zoe Ablitt at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:Chrissie.Moore@danceeast.co.uk'
+              href: 'mailto:Zoe.Ablitt@danceeast.co.uk'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: Chrissie.Moore@danceeast.co.uk
+        text: Zoe.Ablitt@danceeast.co.uk
       -
         type: text
         text: .
 cta: |-
-  This event is organised by Dance East. Please contact Chrissie Moore:
+  This event is organised by Dance East. Please contact Zoe Ablitt:
 
-  [Chrissie.Moore@danceeast.co.uk](mailto:Chrissie.Moore@danceeast.co.uk)
+  [Zoe.Ablitt@danceeast.co.uk](mailto:Zoe.Ablitt@danceeast.co.uk)
+
+  [01473295245](tel:01473295245)
 
   [danceeast.co.uk](http://danceeast.co.uk)
 booking_link: 'https://www.danceeast.co.uk/workshops/debenham-movers/'
