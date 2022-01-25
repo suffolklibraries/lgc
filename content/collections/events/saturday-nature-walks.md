@@ -55,7 +55,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is parking at the front of the building.'
+        text: 'The Art Station is just a short walk away from Saxmundham train station or, if you''re travelling by car, there is parking at the front of the building.'
   -
     type: heading
     attrs:
@@ -87,12 +87,14 @@ content_area:
       -
         type: text
         text: 'Saturday Nature Walks is a free event but donations are welcome as all donations go to the art and learning programme at The Art Station.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643124503
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643125849
 event_categories:
   - nature
   - outdoor-venue
   - movement
+  - art
+  - crafts
 end_date: '2022-01-29 13:00'
 cost_details: 'Pay what you want'
 latitude: '52.21614100732545'
@@ -111,3 +113,4 @@ cta: |-
 
   [https://theartstation.uk/event/nature-walks/](https://theartstation.uk/event/nature-walks/)
 ---
+A series of family friendly community walks followed by creative workshops.
