@@ -1,11 +1,10 @@
 ---
 id: cad5985c-1756-45b4-a77c-e36aca9b8ac4
-published: false
 blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643118015
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643118897
 start_date: '2022-01-27 12:20'
 end_date: '2022-01-27 13:40'
 event_categories:
@@ -45,18 +44,32 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Alysha Hudson on'
+        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can visit the website '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:07984756499'
+              href: 'https://www.alyshahudson.co.uk/'
+              rel: null
+              target: null
+              title: null
+        text: 'Alysha Hudson – Dance Yoga Movement'
+      -
+        type: text
+        text: ', call the organiser Alysha Hudson on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07984756499'
               rel: null
               target: _blank
               title: null
-        text: ' 07984 756499'
+        text: '07984 756499'
       -
         type: text
         text: ' or email at '
@@ -143,8 +156,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 
-  [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: 'https://www.danceeast.co.uk/workshops/lowestoft-movers/'
+  [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
