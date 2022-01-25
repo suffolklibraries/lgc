@@ -1,11 +1,10 @@
 ---
 id: 2d56b8d2-2432-43e9-86c5-b05cf36c23b9
-published: false
 blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643105613
+updated_at: 1643105904
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2022-01-26 10:00'
@@ -106,18 +105,18 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Esther Alcock on '
+        text: 'To book you can call Zoe Ablitt on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:01473235581'
+              href: 'Tel:01473295245'
               rel: null
               target: _blank
               title: null
-        text: '01473 235581'
+        text: '01473295245'
       -
         type: text
         text: ' or email at '
@@ -127,20 +126,19 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:Esther.alcock@danceeast.co.uk'
+              href: 'Mailto:01473295245'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: Esther.alcock@danceeast.co.uk
-      -
-        type: text
-        text: .
+        text: Zoe.Ablitt@danceeast.co.uk
+  -
+    type: paragraph
 cta: |-
   This event is organised by Dance East. Please contact Zoe Ablitt:
 
+  [Zoe.Ablitt@danceeast.co.uk](mailto:Zoe.Ablitt@danceeast.co.uk)
 
-
-
+  [01473295245](tel:01473295245)
 
   [danceeast.co.uk](http://danceeast.co.uk)
 booking_link: 'https://www.danceeast.co.uk/workshops/sudbury-movers/'
