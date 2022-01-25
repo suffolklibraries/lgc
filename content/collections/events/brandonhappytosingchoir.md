@@ -5,7 +5,6 @@ blueprint: events
 title: 'Brandon Happy to Sing Choir'
 event_categories:
   - music
-  - primary-school-age
 start_date: '2022-01-25 17:30'
 free: false
 cost_details: £5
@@ -46,11 +45,7 @@ content_area:
   -
     type: paragraph
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643042482
+updated_at: 1643110707
 end_date: '2022-01-25 18:30'
-cta: |-
-  [myrockchoir@gmail.com](mailto:myrockchoir@gmail.com)
-
-  [07848854391](tel:07848854391)
 featured_image: offthepressimages/Music.png
 ---
