@@ -9,7 +9,7 @@ organisers:
   - siren-calling
 start_date: '2022-03-15 09:30'
 free: true
-virtual: true
+virtual: false
 attendance_information: 'Ages 16-25'
 content_area:
   -
@@ -25,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Siren Calling are offering three 2 day workshops in collaboration with Suffolk Mind and Inspire Suffolk for people aged 16-25 across Suffolk. The workshops are available to join online or in person. '
+        text: 'Siren Calling are offering three 2 day workshops in collaboration with Suffolk Mind and Inspire Suffolk for people aged 16-25 across Suffolk. '
   -
     type: paragraph
     content:
@@ -87,13 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a car park close to the venue which is situated on Crescent Road.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'For those not able to attend in person the event is also being held digitally. '
+        text: 'There is a car park close to the venue which is situated on Crescent Road. '
   -
     type: heading
     attrs:
@@ -131,8 +125,8 @@ content_area:
       -
         type: text
         text: 'There is a link to registration and information on how to register on the page above. '
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643027973
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643107538
 booking_link: 'https://sirencalling.org/luminous'
 end_date: '2022-03-16 17:00'
 accessibility_information: |-
