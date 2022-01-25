@@ -1,5 +1,6 @@
 ---
 id: 533fd713-deae-4a6d-be94-6690f71b1b42
+published: false
 blueprint: events
 title: 'Luminous - Lowestoft'
 event_categories:
