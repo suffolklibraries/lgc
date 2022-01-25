@@ -148,6 +148,6 @@ longitude: '1.352184169421521'
 address_line_1: 'Level Two'
 address_line_2: '54 Cobbold Road'
 postcode: 'IP11 7EL'
-featured_image: LUMINOUS-FELIXSTOWE-15-16-MAR-2022.png
+featured_image: luminous/LUMINOUS-FELIXSTOWE-15-16-MAR-2022.png
 ---
 Learn to understand and manage your wellbeing with 2-day workshops in collaboration with Suffolk Mind & Inspire Suffolk.
