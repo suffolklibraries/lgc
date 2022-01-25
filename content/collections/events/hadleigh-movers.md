@@ -3,8 +3,8 @@ id: 52ff4fb4-f2c5-4807-b0ca-4f9b34141695
 blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643026221
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643105199
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2022-01-31 11:30'
@@ -148,7 +148,7 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £3
+cost_details: £5.50
 end_date: '2022-01-25 12:30'
 ---
 A weekly dance class for everyone over 55.
