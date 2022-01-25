@@ -5,7 +5,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643107879
+updated_at: 1643109337
 start_date: '2022-01-27 12:20'
 end_date: '2022-01-27 13:40'
 event_categories:
@@ -15,7 +15,7 @@ event_categories:
 free: false
 virtual: false
 organisers:
-  - dance-east
+  - alysha-hudson-dance-yoga-movement
 town: Lowestoft
 featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
 attendance_information: 'Age 55+'
@@ -33,7 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers is a gentle movement class for over 55s. Held every Friday at 10-11am at The Kirkley Centre. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
+        text: 'Lowestoft Movers is a gentle movement class for over 55s. Held every Thursday at 12:20pm - 13:40pm at St Margaret''s Hall and every Friday at 10am - 11:30am at The Seagull Theatre. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
@@ -78,6 +84,16 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Lowestoft movers meets at St Margaret''s Hall and The Seagull Theatre in Lowestoft.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Both venues have double doors for those that have accessibility needs. '
   -
     type: heading
     attrs:
@@ -134,6 +150,11 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £5
+latitude: '52.48648327953463'
+longitude: '1.7417192424554064'
+address_line_1: 'St Margaret''s Church'
+address_line_2: '147 Hollingsworth Rd'
+postcode: 'NR32 4BW'
 ---
 A weekly dance class for everyone over 55.
 Sudbury Movers classes are designed to benefit you both mentally and physically.
