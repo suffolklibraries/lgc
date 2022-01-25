@@ -4,7 +4,7 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643106336
+updated_at: 1643110381
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2022-01-31 11:30'
@@ -15,7 +15,7 @@ event_categories:
 free: false
 virtual: false
 organisers:
-  - dance-east
+  - karenlouisedance
 address_line_1: 'Hadleigh Baptist Church'
 address_line_2: 'George Street'
 town: Hadleigh
@@ -58,21 +58,18 @@ content_area:
         text: '07751891319'
       -
         type: text
-        text: '  or connect with '
+        text: ' or email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.facebook.com/danceeast'
+              href: 'mailto:karenlouisedance@gmail.com'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Dance East via Facebook'
-      -
-        type: text
-        text: .
+        text: karenlouisedance@gmail.com
   -
     type: heading
     attrs:
@@ -142,8 +139,8 @@ cta: |-
 
   [07751 891319](tel:07751891319)
 
-  [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: 'https://www.danceeast.co.uk/workshops/hadleigh-movers/'
+  [https://karenlouisedance.com](https://karenlouisedance.com)
+booking_link: 'mailto:https://karenlouisedance.com'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
