@@ -4,7 +4,7 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643105199
+updated_at: 1643106307
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2022-01-31 11:30'
