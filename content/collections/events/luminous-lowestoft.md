@@ -137,7 +137,7 @@ cta: |-
   This event is run by Siren Calling for more information please email or visit the website:
   [xenia.dautzenberg@sirencalling.org](mailto:xenia.dautzenberg@sirencalling.org)
   [https://sirencalling.org/luminous](https://sirencalling.org/luminous)
-featured_image: LOWESTOFT.png
+featured_image: luminous/LOWESTOFT.png
 latitude: '52.47173796426557'
 longitude: '1.7208826829302177'
 address_line_1: 'Colville House'
