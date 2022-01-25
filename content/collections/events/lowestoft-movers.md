@@ -5,11 +5,9 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643106710
-latitude: '52.0356853'
-longitude: '0.7231837'
-start_date: '2022-01-28 10:00'
-end_date: '2022-01-28 11:00'
+updated_at: 1643107879
+start_date: '2022-01-27 12:20'
+end_date: '2022-01-27 13:40'
 event_categories:
   - dance
   - later-in-life
@@ -18,10 +16,7 @@ free: false
 virtual: false
 organisers:
   - dance-east
-address_line_1: 'The Kirkley Centre'
-address_line_2: 'London Road S'
 town: Lowestoft
-postcode: 'NR33 0AZ'
 featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
 attendance_information: 'Age 55+'
 content_area:
@@ -83,16 +78,6 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Lowestoft Movers meet at The Kirkley Centre in Lowestoft on 154 London Rd S.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'You can enter the building through the front doors on London Road South, which are are also suitable for the those with accessibility needs.'
   -
     type: heading
     attrs:
