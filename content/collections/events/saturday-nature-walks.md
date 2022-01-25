@@ -6,8 +6,8 @@ title: 'Saturday Nature Walks'
 organisers:
   - the-art-station
 featured_image: IMG_4999.jpg
-start_date: '2022-01-25 10:34'
-free: false
+start_date: '2022-01-29 10:30'
+free: true
 virtual: false
 content_area:
   -
@@ -29,13 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a series of family friendly community walks followed by creative workshops. Guided by local artists Hannah Varga and'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Jevan Watkins Jones.'
+        text: 'Join us for a series of family friendly community walks followed by creative workshops. Guided by local artists Hannah Varga and Jevan Watkins Jones.'
   -
     type: paragraph
     content:
@@ -43,7 +37,77 @@ content_area:
         type: text
         text: 'Come as you are. All welcome. Art materials and refreshments provided.'
   -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Saturday Nature Walks meets at The Art Station on 48 High Street in Saxmundham.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is parking at the front of the building.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book please visit: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theartstation.uk/event/nature-walks/'
+              rel: null
+              target: null
+              title: null
+        text: 'Nature Walks - The Art Station'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Saturday Nature Walks is a free event but donations are welcome as all donations go to the art and learning programme at The Art Station.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643107437
+updated_at: 1643124503
+event_categories:
+  - nature
+  - outdoor-venue
+  - movement
+end_date: '2022-01-29 13:00'
+cost_details: 'Pay what you want'
+latitude: '52.21614100732545'
+longitude: '1.4920889368887216'
+address_line_1: 'The Art Station'
+address_line_2: '48 High Street'
+town: Saxmundham
+postcode: 'IP17 1AB.'
+booking_link: 'https://theartstation.uk/event/nature-walks/'
+cta: |-
+  This event is orginised by Verity Slade at The Art Station please get in contact:
+
+  [verity@theartstation.uk](verity@theartstation.uk)
+
+  [07856 165382](tel:07856165382)
+
+  [https://theartstation.uk/event/nature-walks/](https://theartstation.uk/event/nature-walks/)
 ---
