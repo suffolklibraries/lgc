@@ -7,7 +7,7 @@ start_date: '2022-01-26 18:30'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643111157
+updated_at: 1643111166
 organisers:
   - newmarket-community-arts
 featured_image: Capture-(2).PNG
