@@ -7,18 +7,18 @@ start_date: '2022-02-18 16:00'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643295415
+updated_at: 1643295537
 organisers:
   - national-horse-racing-museum
 featured_image: nhrm_twilight2.jpg
 end_date: '2022-02-18 18:00'
 cost_details: £3
-latitude: '52.24646566476873'
-longitude: '0.4096564712834654'
-address_line_1: 'The Severals Pavilion'
-address_line_2: '2-4 Bury Rd'
+latitude: '52.24381308873231'
+longitude: '0.40742766749163495'
+address_line_1: 'National Horse Racing Museum'
+address_line_2: 'Palace Street'
 town: Newmarket
-postcode: 'CB8 7BP'
+postcode: 'CB8 8EP'
 booking_link: 'https://www.nhrm.co.uk/event/twilight-with-the-museum-the-wow-the-weird-and-the-wonderful/'
 event_categories:
   - museums
