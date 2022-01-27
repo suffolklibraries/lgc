@@ -6,7 +6,7 @@ start_date: '2022-02-18 16:00'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643296196
+updated_at: 1643296233
 organisers:
   - national-horse-racing-museum
 featured_image: nhrm_twilight2.jpg
