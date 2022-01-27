@@ -1,12 +1,13 @@
 ---
 id: cfb30d1f-6b62-49b2-b1c6-7a61ace608e6
+published: false
 blueprint: events
 title: 'Samba Drumming Club (Duplicated)'
 start_date: '2022-01-26 18:30'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643111166
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643294703
 organisers:
   - newmarket-community-arts
 featured_image: Capture-(2).PNG
