@@ -4,9 +4,8 @@
       <div>
         <a href="{{ prev_page }}{{ if regular }}#regular-events{{ /if }}" class="u-inline-flex o-flow-x o-flow--xs">
           {{ partial:global/icon id="arrow-left" class="u-green" inline="true" }}
-          <span>
-            {{ previous or "Previous page" }}
-            <br /><u>{{ current_page | subtract:1 }} of {{ total_pages }}</u>
+          <span aria-label="{{ previous or 'Previous page' }} - {{ current_page | subtract:1 }} of {{ total_pages }}">
+            <u>{{ current_page | subtract:1 }} of {{ total_pages }}</u>
           </span>
         </a>
       </div>
@@ -15,9 +14,8 @@
       <div class="{{ next_page and prev_page ? 'u-keyline' : '' }}">
         <a href="{{ next_page }}{{ if regular }}#regular-events{{ /if }}" class="u-inline-flex o-flow-x o-flow--xs">
           {{ partial:global/icon id="arrow-right" class="u-green" inline="true" }}
-          <span>
-            {{ next or "Next page" }}
-            <br /><u>{{ current_page | add:1 }} of {{ total_pages }}</u>
+          <span aria-label="{{ next or 'Next page' }} - {{ current_page | add:1 }} of {{ total_pages }}">
+            <u>{{ current_page | add:1 }} of {{ total_pages }}</u>
           </span>
         </a>
       </div>
