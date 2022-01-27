@@ -1,10 +1,11 @@
 ---
 id: 9d03364f-f64b-4a3e-b134-f08ed81cdcd7
+published: false
 blueprint: events
 title: 'Suffolk Women Stories (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1642782518
+updated_at: 1643283289
 latitude: '52.05311582765442'
 longitude: '1.1635049206228716'
 start_date: '2022-01-18 10:00'
