@@ -13,13 +13,13 @@
           <li class="c-twi c-twi--left">
             <span class="u-screen-reader-only">Event time:</span>
             {{ partial src="global/icon" id="clock" }}
-            <span>{{ start_date format="G:ia" }} – {{ end_date format="G:ia" }}</span>
+            <span>{{ start_date format="G:i" }} – {{ end_date format="G:i" }}</span>
           </li>
         {{ else }}
           <li class="c-twi c-twi--left">
             <span class="u-screen-reader-only">Event date and time:</span>
             {{ partial src="global/icon" id="calendar" }}
-            <span>{{ start_date format="D j M" }} {{ start_date format="G:ia" }} – {{ end_date format="D j M Y" }} {{ end_date format="H:ia" }}</span>
+            <span>{{ start_date format="D j M" }} {{ start_date format="G:i" }} – {{ end_date format="D j M Y" }} {{ end_date format="H:i" }}</span>
           </li>
         {{ /if }}
 
