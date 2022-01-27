@@ -1,0 +1,124 @@
+---
+id: cfb30d1f-6b62-49b2-b1c6-7a61ace608e6
+published: false
+blueprint: events
+title: 'Twilight at the National Horse Racing Museum'
+start_date: '2022-02-18 16:00'
+free: false
+virtual: false
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643295415
+organisers:
+  - national-horse-racing-museum
+featured_image: nhrm_twilight2.jpg
+end_date: '2022-02-18 18:00'
+cost_details: £3
+latitude: '52.24646566476873'
+longitude: '0.4096564712834654'
+address_line_1: 'The Severals Pavilion'
+address_line_2: '2-4 Bury Rd'
+town: Newmarket
+postcode: 'CB8 7BP'
+booking_link: 'https://www.nhrm.co.uk/event/twilight-with-the-museum-the-wow-the-weird-and-the-wonderful/'
+event_categories:
+  - museums
+  - family-friendly
+attendance_information: 'Family friendly'
+accessibility_information: '- Indoor venue'
+content_area:
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Come and explore the Trainer''s House at the National Horse Racing Museum in darkness. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Bring your torch and explore the dimly-lit Trainer’s House Galleries with our special Twilight Trail as you search for the weirdest objects in our collection. Discover the wow, the weird and the wonderful, vote for the weirdest object of all, then take a close-up peek at some unusual sights through our special microscopes. Be curious! Be surprised! Be amazed!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This event is part of the University of Cambridge Museums’ Twilight initiative.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For more information on how to get to the National Horse Racing Museum, where to park or how to access  the museum by public transport please visit: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.nhrm.co.uk/visit/travel/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Getting Here | NHRM : NHR'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Tickets cost £3 per adult and children under 16 go FREE.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Arrive any time from 4pm, last admission at 5:30pm. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To purchase tickets, please visit:'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.nhrm.co.uk/event/twilight-with-the-museum-the-wow-the-weird-and-the-wonderful/'
+              rel: null
+              target: _blank
+              title: null
+        text: ' Twilight With The Museum: The Wow, The Weird and The Wonderful - NHRM : NHRM'
+cta: |-
+  This event is run by the National Horse Racing Museum, for more information please get in touch by email or phone:
+
+  [info@nhrm.co.uk](mail:info@nhrm.co.uk)
+
+  [01638 667314](tel:01638 667314)
+---
+Come along and explore Trainer's House by torchlight to discover the wow, the weird and the wornderful....
