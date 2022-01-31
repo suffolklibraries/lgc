@@ -1,13 +1,12 @@
 ---
 id: 57e514bc-b8a0-4195-a821-648d38119029
-published: false
 blueprint: events
 title: 'Newmarket Samba Drumming Club'
 start_date: '2022-02-02 18:30'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643638935
+updated_at: 1643638989
 organisers:
   - newmarket-community-arts
 featured_image: offthepressimages/Music.png
