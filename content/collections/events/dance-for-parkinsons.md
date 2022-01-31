@@ -2,10 +2,10 @@
 id: 5f629834-f7df-42da-bb03-a1971642ca0e
 published: false
 blueprint: events
-title: 'Dance for Parkinson''s'
+title: 'Dance for Parkinsons'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643640786
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643641050
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2022-02-02 14:00'
@@ -61,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a car park one to two minute walking distance from the venue.'
+        text: 'There is a carpark one to two minuet walking distance from the venue.'
   -
     type: paragraph
     content:
@@ -113,11 +113,9 @@ content_area:
   -
     type: paragraph
 cta: |-
-  This event is organised by Dance East. Please contact Zoe Ablitt:
+  This event is organised by Dance East. Please contact Esther Alcock:
 
-  [Zoe.Ablitt@danceeast.co.uk](mailto:Zoe.Ablitt@danceeast.co.uk)
 
-  [01473295245](tel:01473295245)
 
   [danceeast.co.uk](http://danceeast.co.uk)
 booking_link: 'https://www.danceeast.co.uk/book/?id=227572'
@@ -130,4 +128,4 @@ accessibility_information: |-
 cost_details: £6
 end_date: '2022-02-02 15:30'
 ---
-Experience the joy of dancing to live music, socialising and meeting new people, seeing dance performances and unique opportunities to meet the creatives and world renowned guest artists.
+Experience the joy of dancing to live music, socialising and meeting new people, seeing danceperformances and unique opportunities to meet the creatives and world renowned guest artists.
