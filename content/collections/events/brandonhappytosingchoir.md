@@ -37,6 +37,22 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Brandon Happy to Sing Choir meets at the Brandon Town Bowling Club, IP27 0JB.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is a car park just next door at the Brandon leisure centre.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The premises has wheelchair access for those that have accessibility needs. '
   -
     type: heading
     attrs:
@@ -47,8 +63,26 @@ content_area:
         text: 'How to book'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book your place or find out more information please email: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'Mailto:jillvhopper@hotmail.com'
+              rel: null
+              target: _blank
+              title: null
+        text: jillvhopper@hotmail.com
+      -
+        type: text
+        text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643127681
+updated_at: 1643628146
 end_date: '2022-01-25 18:30'
 featured_image: offthepressimages/Music.png
 attendance_information: 18+
@@ -60,7 +94,7 @@ postcode: 'IP27 0JB'
 cta: |-
   This event is orginised by Jill Hopper at Brandon Creative Fourm please get in touch via:
 
-  [jillvhopper@hotmail.com](jillvhopper@hotmail.com)
+  [jillvhopper@hotmail.com](mailto:jillvhopper@hotmail.com)
 
   [07985 376465](tel:07985376465)
 ---
