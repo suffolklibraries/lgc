@@ -5,10 +5,10 @@ blueprint: events
 title: 'Dance for Parkinsons'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643628744
+updated_at: 1643640652
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2022-01-26 10:00'
+start_date: '2022-02-02 14:00'
 event_categories:
   - dance
   - later-in-life
@@ -21,9 +21,6 @@ address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
 featured_image: Dance-for-Parkinsons_Rachel-Cherry.jpg
-attendance_information: |-
-  About 10 people
-  Age 55+
 content_area:
   -
     type: heading
@@ -38,41 +35,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers is a gentle movement class for over 55s. Held every Wednesday at 10-11.30am at All Saints Church Hall. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
+        text: 'Delivered by dance artist Lynette King and musician Calvin Goymer, you will creatively explore the themes, music and choreographic language of this term’s chosen pieces across the eight sessions.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Esther Alcock on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'Tel:01473235581'
-              rel: null
-              target: _blank
-              title: null
-        text: '01473 235581'
-      -
-        type: text
-        text: '  or connect with '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.facebook.com/danceeast'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Dance East via Facebook'
-      -
-        type: text
-        text: .
+        text: 'Every Wednesday from 26th Jan - 6th April (excluding 23rd February) 2:00pm-3:30pm.'
   -
     type: heading
     attrs:
@@ -86,13 +55,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers meets at All Saints Church Hall on Church street in Sudbury.'
+        text: 'Dance For Parkinsons meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can enter the church through the wooden double doors through the entrance from church street. The session is held within the main church hall.'
+        text: 'There is a carpark one to two minuet walking distance from the venue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building also has wheelchair access for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -106,32 +81,35 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Zoe Ablitt on '
+        text: 'Book via the DanceEast website '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:01473295245'
+              href: 'https://www.danceeast.co.uk/book/?id=227572'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: '01473295245'
+        text: 'https://www.danceeast.co.uk/book/?id=227572'
       -
         type: text
-        text: ' or email at '
+        text: ' or by calling Box Office on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Mailto:01473295245'
+              href: 'tel:01473295230'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: Zoe.Ablitt@danceeast.co.uk
+        text: '01473 295230'
+      -
+        type: text
+        text: .
   -
     type: paragraph
 cta: |-
@@ -142,13 +120,14 @@ cta: |-
   [01473295245](tel:01473295245)
 
   [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: 'https://www.danceeast.co.uk/workshops/sudbury-movers/'
+booking_link: 'https://www.danceeast.co.uk/book/?id=227572'
 accessibility_information: |-
-  - Autism friendly
+  - Dementia friendly 
+  - Autism friendly 
   - Wheelchair access
-  - Indoor venue
-cost_details: £3
-end_date: '2022-01-26 11:30'
+  - Social distancing in place 
+  - Covid-19 preventative measures in place
+cost_details: £6
+end_date: '2022-02-02 15:30'
 ---
-A weekly dance class for everyone over 55.
-Sudbury Movers classes are designed to benefit you both mentally and physically.
+Experience the joy of dancing to live music, socialising and meeting new people, seeing danceperformances and unique opportunities to meet the creatives and world renowned guest artists.
