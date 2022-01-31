@@ -5,7 +5,7 @@ blueprint: events
 title: 'Saturday Nature Walks'
 organisers:
   - the-art-station
-featured_image: IMG_4999.jpg
+featured_image: miscellaneous/IMG_4999.jpg
 start_date: '2022-01-29 10:30'
 free: true
 virtual: false
