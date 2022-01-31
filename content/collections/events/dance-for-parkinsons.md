@@ -2,10 +2,10 @@
 id: 5f629834-f7df-42da-bb03-a1971642ca0e
 published: false
 blueprint: events
-title: 'Dance for Parkinsons'
+title: 'Dance for Parkinson''s'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643640652
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643640786
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2022-02-02 14:00'
@@ -61,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a carpark one to two minuet walking distance from the venue.'
+        text: 'There is a car park one to two minute walking distance from the venue.'
   -
     type: paragraph
     content:
@@ -130,4 +130,4 @@ accessibility_information: |-
 cost_details: £6
 end_date: '2022-02-02 15:30'
 ---
-Experience the joy of dancing to live music, socialising and meeting new people, seeing danceperformances and unique opportunities to meet the creatives and world renowned guest artists.
+Experience the joy of dancing to live music, socialising and meeting new people, seeing dance performances and unique opportunities to meet the creatives and world renowned guest artists.
