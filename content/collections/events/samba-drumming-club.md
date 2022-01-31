@@ -10,7 +10,7 @@ updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1643111166
 organisers:
   - newmarket-community-arts
-featured_image: Capture-(2).PNG
+featured_image: miscellaneous/Capture-(2).PNG
 end_date: '2022-01-26 20:00'
 cost_details: £6
 latitude: '52.24646566476873'
