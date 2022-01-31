@@ -6,8 +6,8 @@ title: 'Newmarket Samba Drumming Club'
 start_date: '2022-01-26 18:30'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643636254
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643638766
 organisers:
   - newmarket-community-arts
 featured_image: offthepressimages/Music.png
@@ -103,4 +103,4 @@ cta: |-
 
   [07957442084](tel:07957442084)
 ---
-Let's make some noise ! high energy weekly drumming club for aged 14 +. No experience necessary - pro teacher - all drums provided
+High energy weekly drumming club for ages 14+. No experience necessary and all drums provided.
