@@ -87,8 +87,8 @@ content_area:
       -
         type: text
         text: 'Saturday Nature Walks is a free event but donations are welcome as all donations go to the art and learning programme at The Art Station.'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643125849
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643623783
 event_categories:
   - nature
   - outdoor-venue
@@ -107,7 +107,7 @@ booking_link: 'https://theartstation.uk/event/nature-walks/'
 cta: |-
   This event is orginised by Verity Slade at The Art Station please get in contact:
 
-  [verity@theartstation.uk](verity@theartstation.uk)
+  [verity@theartstation.uk](mailto:verity@theartstation.uk)
 
   [07856 165382](tel:07856165382)
 
