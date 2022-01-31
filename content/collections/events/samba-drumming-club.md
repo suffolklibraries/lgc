@@ -2,15 +2,15 @@
 id: 57e514bc-b8a0-4195-a821-648d38119029
 published: false
 blueprint: events
-title: 'Samba Drumming Club'
+title: 'Newmarket Samba Drumming Club'
 start_date: '2022-01-26 18:30'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643111166
+updated_at: 1643636254
 organisers:
   - newmarket-community-arts
-featured_image: miscellaneous/Capture-(2).PNG
+featured_image: offthepressimages/Music.png
 end_date: '2022-01-26 20:00'
 cost_details: £6
 latitude: '52.24646566476873'
@@ -22,6 +22,7 @@ postcode: 'CB8 7BP'
 booking_link: 'https://www.eventbrite.com/e/newsamba-samba-drumming-club-tickets-238634501217'
 event_categories:
   - music
+  - teen-and-young-adult
 attendance_information: |-
   Social distancing in place.
 
@@ -38,6 +39,16 @@ content_area:
         text: 'What to expect'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'This friendly samba drum band provides an introduction to the different instruments used in a Brazilian Samba Band as well as techniques and tips. No experience needed.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Every Wednesday from 6.30 to 8 pm at The Pavillion on The Severals. During term time - this half- term starts Wed 12th January until Wed 9th February.'
   -
     type: heading
     attrs:
@@ -51,7 +62,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Samba Drumming Club Meets At The Severals Pavilion Newmarket, CB87BP'
+        text: 'Samba Drumming Club Meets At The Severals Pavilion Newmarket, CB87BP.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue has wheel chair access for those that have accessibility needs. '
   -
     type: paragraph
   -
@@ -86,4 +103,4 @@ cta: |-
 
   [07957442084](tel:07957442084)
 ---
-Learn Samba drumming from a professional tutor and all drums provided. No prior experience necessary.
+Let's make some noise ! high energy weekly drumming club for aged 14 +. No experience necessary - pro teacher - all drums provided
