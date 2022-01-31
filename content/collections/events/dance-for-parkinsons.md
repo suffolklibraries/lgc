@@ -2,12 +2,12 @@
 id: 5f629834-f7df-42da-bb03-a1971642ca0e
 published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated) (2)'
+title: 'Dance for Parkinsons'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643105904
-latitude: '52.03576875968241'
-longitude: '0.7231630550633815'
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643626154
+latitude: '52.05290880617399'
+longitude: '1.1552660082048722'
 start_date: '2022-01-26 10:00'
 event_categories:
   - dance
@@ -16,11 +16,11 @@ free: false
 virtual: false
 organisers:
   - dance-east
-address_line_1: 'All Saints Church Hall'
-address_line_2: 'Church Street'
-town: Sudbury
-postcode: 'CO10 2BN'
-featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
+address_line_1: 'Dance East'
+address_line_2: 'Jerwood Dance House'
+town: Ipswich
+postcode: 'IP4 1DW'
+featured_image: Dance-for-Parkinsons_Rachel-Cherry.jpg
 attendance_information: |-
   About 10 people
   Age 55+
