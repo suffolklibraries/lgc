@@ -5,7 +5,7 @@ blueprint: events
 title: 'Dance for Parkinsons'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643641405
+updated_at: 1643646010
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2022-02-02 14:00'
@@ -119,7 +119,7 @@ cta: |-
 
   [01473 235581](tel:01473235581)
 
-  [www.danceeast.co.uk](http://danceeast.co.uk)
+  [www.danceeast.co.uk](www.danceeast.co.uk)]
 booking_link: 'https://www.danceeast.co.uk/book/?id=227572'
 accessibility_information: |-
   - Dementia friendly 
