@@ -3,3 +3,7 @@ roles:
   - editor
 id: 73585618-b2c6-4117-9078-fe4dcc123fca
 password_hash: $2y$10$hWFMo8ZK0VBYWngg/znD6eq6Qj7OH5QG3o.R49yT.MLeupBdAXOXK
+preferences:
+  collections:
+    events:
+      per_page: 100
