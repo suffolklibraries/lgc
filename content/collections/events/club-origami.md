@@ -5,7 +5,7 @@ blueprint: events
 title: 'Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643707235
+updated_at: 1643708565
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2021-11-18 10:30'
@@ -139,13 +139,24 @@ content_area:
         text: 'https://www.danceeast.co.uk/performances/club-origami/'
       -
         type: text
-        text: ' or by calling Box Office on01473 295230'
+        text: ' or by calling Box Office on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473295230'
+              rel: null
+              target: _blank
+              title: null
+        text: '01473 295230'
 cta: |-
   This event is organised by Dance East. 
 
-  [info@danceeast.co.uk](mailto:info@danceeast.co.uk)
+  [Zoe.Ablitt@danceeast.co.uk](mailto:Zoe.Ablitt@danceeast.co.uk)
 
-  [01473 295 230](tel:01473295230)
+  [01473295245](tel:01473295245)
 
   [danceeast.co.uk](http://danceeast.co.uk)
 accessibility_information: |-
@@ -154,5 +165,7 @@ accessibility_information: |-
   - Social distancing in place 
   - Covid-19 preventative measures in place
 cost_details: '£7.00 Adult, £5.00 Child'
+featured_image: CLUBORIGAMI_SEDANCE2021_SUMMERDEAN_SELECTS-26.jpg
+booking_link: 'https://www.danceeast.co.uk/performances/club-origami/'
 ---
 Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
