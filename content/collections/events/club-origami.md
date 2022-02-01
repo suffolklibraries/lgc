@@ -4,8 +4,8 @@ published: false
 blueprint: events
 title: 'Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643714343
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643738183
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-02-18 10:30'
@@ -14,7 +14,6 @@ event_categories:
   - family-friendly
   - parent-and-baby
   - early-years
-  - toddler
   - dance
 free: false
 virtual: false
@@ -99,13 +98,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Club Origami meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
+        text: 'Club Origami will be shown at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is a carpark one to two minuet walking distance from the venue.'
+        text: 'There is a car park one to two minute walking distance from the venue.'
   -
     type: paragraph
     content:
