@@ -5,10 +5,10 @@ blueprint: events
 title: 'Eleesha Drennan Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643711606
+updated_at: 1643712258
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2022-02-02 14:00'
+start_date: '2022-02-09 09:30'
 event_categories:
   - dance
   - later-in-life
@@ -42,7 +42,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Perfect for dance students, artists, bloggers and anyone interested in peeking behind the scenes. ‘Watch Dance Class’ is free to attend, but booking is required. Please note, it is a requirement that face coverings are worn at all times during the session (unless exempt).'
+        text: 'Perfect for dance students, artists, bloggers and anyone interested in peeking behind the scenes. ‘Watch Dance Class’ is free to attend, but booking is required. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please note, it is a requirement that face coverings are worn at all times during the session (unless exempt).'
       -
         type: hard_break
   -
@@ -129,6 +135,7 @@ accessibility_information: |-
   - Wheelchair access
   - Seated venue 
   - Covid-19 preventative measures in place
-end_date: '2022-02-02 15:30'
+end_date: '2022-02-09 13:00'
 attendance_information: 18+
 ---
+Watch Dance Class is an open house session in which anyone and everyone is invited to watch or sketch a professional class onstage.
