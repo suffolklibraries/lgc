@@ -2,17 +2,18 @@
 id: 96950b86-3537-4c30-8546-353fa2f76a84
 published: false
 blueprint: events
-title: 'Dance for Parkinsons (Duplicated)'
+title: 'Eleesha Drennan Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643706033
+updated_at: 1643711518
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2022-02-02 14:00'
 event_categories:
   - dance
   - later-in-life
-free: false
+  - teen-and-young-adult
+free: true
 virtual: false
 organisers:
   - dance-east
@@ -20,7 +21,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: Dance-for-Parkinsons_Rachel-Cherry.jpg
+featured_image: Photo-by-Nicole-Guarino-1643711159.jpg
 content_area:
   -
     type: heading
@@ -35,13 +36,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Delivered by dance artist Lynette King and musician Calvin Goymer, you will creatively explore the themes, music and choreographic language of this term’s chosen pieces across the eight sessions.'
+        text: '‘Watch Dance Class’ is an open house session in which anyone and everyone is invited to watch or sketch a professional class onstage, giving a unique glimpse into how Eleesha Drennan and company dancers prepare before a show.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Every Wednesday from 26th Jan - 6th April (excluding 23rd February) 2:00pm-3:30pm.'
+        text: 'Perfect for dance students, artists, bloggers and anyone interested in peeking behind the scenes. ‘Watch Dance Class’ is free to attend, but booking is required. Please note, it is a requirement that face coverings are worn at all times during the session (unless exempt).'
+      -
+        type: hard_break
   -
     type: heading
     attrs:
@@ -55,7 +58,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Dance For Parkinsons meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
+        text: 'Eleesha Drennan Watch Dance Class meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
   -
     type: paragraph
     content:
@@ -88,11 +91,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/book/?id=227572'
+              href: 'https://www.danceeast.co.uk/workshops/eleesha-drennan-watch-a-dance-class/'
               rel: null
               target: null
               title: null
-        text: 'https://www.danceeast.co.uk/book/?id=227572'
+        text: 'https://www.danceeast.co.uk/workshops/eleesha-drennan-watch-a-dance-class/'
       -
         type: text
         text: ' or by calling Box Office on '
@@ -115,19 +118,15 @@ content_area:
 cta: |-
   This event is organised by Dance East. Please contact Esther Alcock:
 
-  [Esther.Alcock@danceeast.co.uk](mailto:Esther.Alcock@danceeast.co.uk) 
 
-  [01473 235581](tel:01473235581)
 
   [danceeast.co.uk](https://www.danceeast.co.uk/)
-booking_link: 'https://www.danceeast.co.uk/book/?id=227572'
+booking_link: 'https://www.danceeast.co.uk/workshops/eleesha-drennan-watch-a-dance-class/'
 accessibility_information: |-
-  - Dementia friendly 
-  - Autism friendly 
+  - Hearing loops
   - Wheelchair access
-  - Social distancing in place 
+  - Seated venue 
   - Covid-19 preventative measures in place
-cost_details: £6
 end_date: '2022-02-02 15:30'
+attendance_information: 18+
 ---
-Experience the joy of dancing to live music, socialising and meeting new people, seeing danceperformances and unique opportunities to meet the creatives and world renowned guest artists.
