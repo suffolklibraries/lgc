@@ -5,7 +5,7 @@ blueprint: events
 title: 'Eleesha Drennan Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643712258
+updated_at: 1643712743
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2022-02-09 09:30'
