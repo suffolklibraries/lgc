@@ -5,16 +5,17 @@ blueprint: events
 title: 'Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643706688
+updated_at: 1643707155
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
-start_date: '2021-11-06 09:30'
-end_date: '2021-11-06 10:30'
+start_date: '2021-11-18 10:30'
+end_date: '2021-11-18 13:30'
 event_categories:
   - family-friendly
   - parent-and-baby
   - early-years
   - toddler
+  - dance
 free: false
 virtual: false
 organisers:
@@ -80,6 +81,12 @@ content_area:
         type: text
         text: .
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Friday 18th February 10.30am and 1.30pm Saturday 19th February 10.30am and 1.30pm'
+  -
     type: heading
     attrs:
       level: 2
@@ -89,6 +96,22 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Club Origami meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is a carpark one to two minuet walking distance from the venue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building also has wheelchair access for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -130,5 +153,6 @@ accessibility_information: |-
   - Wheelchair access
   - Social distancing in place 
   - Covid-19 preventative measures in place
+cost_details: '£7.00 Adult, £5.00 Child'
 ---
 Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
