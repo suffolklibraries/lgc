@@ -2,16 +2,15 @@
 id: d448edd1-d89d-4e74-9a80-5cf025d5bd2f
 published: false
 blueprint: events
-title: 'Tots & Co (Duplicated) (2)'
+title: 'Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1642762762
+updated_at: 1643706688
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2021-11-06 09:30'
 end_date: '2021-11-06 10:30'
 event_categories:
-  - dance
   - family-friendly
   - parent-and-baby
   - early-years
@@ -24,7 +23,7 @@ address_line_1: 'DanceEast, Jerwood DanceHouse'
 address_line_2: '1-3 Foundry Lane'
 town: Ipswich
 postcode: 'IP4 1DW'
-attendance_information: '9 months to 2 years'
+attendance_information: 'Indoor Venue'
 content_area:
   -
     type: heading
@@ -39,19 +38,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Expect to have lots of fun on a Saturday morning at Tots & Co! '
+        text: 'An immersive and interactive dance show inviting family audiences to create, imagine and explore whole new ways of thinking, playing and moving. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This course is designed to introduce movement and rhythm to your little ones, whilst using their imagination and having fun. We''ll also be using props such as scarves, balls and hoops to introduce co-ordination skills. This is a really fun, friendly and safe environment for you and your little one to explore movement together and hopefully make some memories too!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tots & Co  is for grown ups and their little ones aged between nine months and two years, but you can join up until their third birthday! '
+        text: 'Dance, fashion, and live music meet the magic of origami to sweep us up on a spirited and inspiring adventure in a land made purely of paper and play.'
   -
     type: paragraph
     content:
@@ -96,10 +89,6 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: TBC
   -
     type: heading
     attrs:
@@ -113,18 +102,21 @@ content_area:
     content:
       -
         type: text
-        text: 'To find out more information or to book on to the course please visit the '
+        text: 'Tickets can be booked via the Dance East website '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/courses/tots-and-co-au21/'
+              href: 'https://www.danceeast.co.uk/performances/club-origami/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'DanceEast website'
+        text: 'https://www.danceeast.co.uk/performances/club-origami/'
+      -
+        type: text
+        text: ' or by calling Box Office on01473 295230'
 cta: |-
   This event is organised by Dance East. 
 
@@ -133,14 +125,10 @@ cta: |-
   [01473 295 230](tel:01473295230)
 
   [danceeast.co.uk](http://danceeast.co.uk)
-booking_link: 'https://www.danceeast.co.uk/courses/tots-and-co-au21/'
 accessibility_information: |-
-  - Autism friendly
+  - Hearing loops
   - Wheelchair access
-  - Indoor venue
-  - Complimentary for carers
-  - Taster sessions available
-cost_details: '£49 for 7 week course'
-featured_image: danceeastimages/9J1A0101-(2).jpg
+  - Social distancing in place 
+  - Covid-19 preventative measures in place
 ---
-A course for growns ups and littles ones who just want to move and shake!
+Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
