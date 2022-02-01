@@ -5,7 +5,7 @@ blueprint: events
 title: 'Stories of a Little Watersprite'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643709447
+updated_at: 1643710698
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2021-11-26 10:30'
@@ -174,3 +174,4 @@ cost_details: '£7.00 Adult, £5.00 Child'
 featured_image: Little-Watersprites-Bild-046-credit-Franz-Kimmel.jpg
 booking_link: 'https://www.danceeast.co.uk/performances/the-little-watersprite-sophie-nuzel/'
 ---
+Stories of a Little Watersprite is a show for children and families that uses storytelling, movement and puppetry to tell a tale of community, support and belonging.
