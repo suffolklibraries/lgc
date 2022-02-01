@@ -2,10 +2,10 @@
 id: e4c1f9d7-e5e5-4fc0-983e-78c52284ef4f
 published: false
 blueprint: events
-title: 'Club Origami (Duplicated)'
+title: 'Stories of a Little Watersprite'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643708565
+updated_at: 1643709051
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2021-11-18 10:30'
@@ -39,13 +39,19 @@ content_area:
     content:
       -
         type: text
-        text: 'An immersive and interactive dance show inviting family audiences to create, imagine and explore whole new ways of thinking, playing and moving. '
+        text: 'Amongst drifting waterweed and ancient moss-covered rocks the pond is teeming with life. Newts, snails, tiny minnows and bigger fish all go about their business as usual. However, over the years things have entered the pond from above. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Dance, fashion, and live music meet the magic of origami to sweep us up on a spirited and inspiring adventure in a land made purely of paper and play.'
+        text: 'Things that haven’t grown out of the squelchy mud or been born among the boulders. There’s so much of it that the inhabitants have completely stopped noticing it. This underwater world is in need of change. And this is where a little watersprite awakens.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sophie Nüzel’s work for children and families uses storytelling, movement and puppetry to tell a tale of community, support and belonging. The show is recreated at each venue and performed by three professional performers and an intergenerational local cast.'
   -
     type: paragraph
     content:
@@ -99,7 +105,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Club Origami meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
+        text: 'Stories of a Little Watersprite meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
   -
     type: paragraph
     content:
@@ -132,11 +138,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/performances/club-origami/'
+              href: 'https://www.danceeast.co.uk/performances/the-little-watersprite-sophie-nuzel/'
               rel: null
               target: null
               title: null
-        text: 'https://www.danceeast.co.uk/performances/club-origami/'
+        text: 'https://www.danceeast.co.uk/performances/the-little-watersprite-sophie-nuzel/'
       -
         type: text
         text: ' or by calling Box Office on '
@@ -165,7 +171,6 @@ accessibility_information: |-
   - Social distancing in place 
   - Covid-19 preventative measures in place
 cost_details: '£7.00 Adult, £5.00 Child'
-featured_image: CLUBORIGAMI_SEDANCE2021_SUMMERDEAN_SELECTS-26.jpg
-booking_link: 'https://www.danceeast.co.uk/performances/club-origami/'
+featured_image: Little-Watersprites-Bild-046-credit-Franz-Kimmel.jpg
+booking_link: 'https://www.danceeast.co.uk/performances/the-little-watersprite-sophie-nuzel/'
 ---
-Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
