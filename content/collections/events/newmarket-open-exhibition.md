@@ -7,7 +7,7 @@ start_date: '2022-02-12 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643814545
+updated_at: 1643814597
 event_categories:
   - exhibition
   - family-friendly
@@ -25,9 +25,9 @@ accessibility_information: |-
   - Covid-19 preventative measures in place 
   - Complimentary tickets for carers
 featured_image: Early-Morning-Exercise---Chihiro-Kinjo.png
-latitude: '52.24397375043447 0.40743389826690196'
+latitude: '52.24397375043447'
 longitude: '0.40743389826690196'
-address_line_1: 'National Horse Racing Museum,'
+address_line_1: 'National Horse Racing Museum'
 address_line_2: 'Palace Street'
 town: Newmarket
 postcode: 'CB8 8EP'
