@@ -1,11 +1,10 @@
 ---
 id: e4c1f9d7-e5e5-4fc0-983e-78c52284ef4f
-published: false
 blueprint: events
 title: 'Stories of a Little Watersprite'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643801375
+updated_at: 1643801443
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-02-26 11:00'
@@ -103,18 +102,7 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/place/St+Peter''s+Dock+Car+Park/@52.0527015,1.1515674,17z/data=!4m5!3m4!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.05288!4d1.1538971'
-              rel: null
-              target: null
-              title: null
-        text: 'St Peter''s Docks car park'
-      -
-        type: text
-        text: ' is a two minute walk away from the venue. '
+        text: 'St Peter''s Docks car park is a two minute walk away from the venue. '
   -
     type: paragraph
     content:
