@@ -4,10 +4,10 @@ blueprint: events
 title: DRAMA@THEMIX
 latitude: '52.185306394956015'
 longitude: '0.9995085831205711'
-start_date: '2022-02-01 18:00'
-end_date: '2022-02-01 20:00'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643194307
+start_date: '2022-02-09 18:00'
+end_date: '2022-02-09 20:00'
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643792323
 free: true
 virtual: false
 content_area:
