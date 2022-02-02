@@ -4,17 +4,15 @@ published: false
 blueprint: events
 title: 'Stories of a Little Watersprite'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643712508
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643801375
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-02-26 11:00'
 end_date: '2022-02-26 14:00'
 event_categories:
   - family-friendly
-  - parent-and-baby
   - early-years
-  - toddler
   - dance
 free: false
 virtual: false
@@ -105,7 +103,18 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a carpark one to two minuet walking distance from the venue.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/St+Peter''s+Dock+Car+Park/@52.0527015,1.1515674,17z/data=!4m5!3m4!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.05288!4d1.1538971'
+              rel: null
+              target: null
+              title: null
+        text: 'St Peter''s Docks car park'
+      -
+        type: text
+        text: ' is a two minute walk away from the venue. '
   -
     type: paragraph
     content:
@@ -125,7 +134,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Tickets can be booked via the Dance East website '
+        text: 'Tickets can be booked via the '
       -
         type: text
         marks:
@@ -134,9 +143,9 @@ content_area:
             attrs:
               href: 'https://www.danceeast.co.uk/performances/the-little-watersprite-sophie-nuzel/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'https://www.danceeast.co.uk/performances/the-little-watersprite-sophie-nuzel/'
+        text: 'Dance East website'
       -
         type: text
         text: ' or by calling Box Office on '
