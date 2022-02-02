@@ -1,20 +1,20 @@
 ---
 id: d448edd1-d89d-4e74-9a80-5cf025d5bd2f
-published: false
 blueprint: events
 title: 'Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643738183
+updated_at: 1643802852
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-02-18 10:30'
 end_date: '2022-02-19 13:30'
 event_categories:
   - family-friendly
-  - parent-and-baby
   - early-years
   - dance
+  - primary-school-age
+  - performance
 free: false
 virtual: false
 organisers:
@@ -84,7 +84,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Friday 18th February 10.30am and 1.30pm Saturday 19th February 10.30am and 1.30pm'
+        text: 'The show is on: '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: ' Friday 18th February 10.30am and 1.30pm'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: ' Saturday 19th February 10.30am and 1.30pm'
   -
     type: heading
     attrs:
@@ -104,7 +116,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a car park one to two minute walking distance from the venue.'
+        text: 'St Peter''s Docks car park is a two minute walk away from the venue. '
   -
     type: paragraph
     content:
@@ -124,7 +136,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Tickets can be booked via the Dance East website '
+        text: 'Tickets can be booked via the '
       -
         type: text
         marks:
@@ -133,12 +145,12 @@ content_area:
             attrs:
               href: 'https://www.danceeast.co.uk/performances/club-origami/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'https://www.danceeast.co.uk/performances/club-origami/'
+        text: 'Dance East website'
       -
         type: text
-        text: ' or by calling Box Office on '
+        text: ' or by calling the Box Office on '
       -
         type: text
         marks:
@@ -150,6 +162,14 @@ content_area:
               target: _blank
               title: null
         text: '01473 295230'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Photo Credit: Summer Dean'
 cta: |-
   This event is organised by Dance East. 
 
