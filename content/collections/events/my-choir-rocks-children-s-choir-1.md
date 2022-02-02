@@ -8,7 +8,7 @@ event_categories:
   - primary-school-age
 organisers:
   - my-choir-rocks
-start_date: '2022-01-31 18:00'
+start_date: '2022-02-09 18:00'
 free: false
 cost_details: £5
 virtual: false
@@ -73,8 +73,8 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643033852
-end_date: '2022-01-31 19:00'
+updated_at: 1643792221
+end_date: '2022-02-09 19:00'
 attendance_information: 'Ages 5-11'
 latitude: '52.47621148431746'
 longitude: '1.7535448715530941'
