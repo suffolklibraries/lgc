@@ -1,11 +1,10 @@
 ---
 id: 96950b86-3537-4c30-8546-353fa2f76a84
-published: false
 blueprint: events
 title: 'Eleesha Drennan Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643712743
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643802001
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2022-02-09 09:30'
@@ -13,6 +12,10 @@ event_categories:
   - dance
   - later-in-life
   - teen-and-young-adult
+  - crafts
+  - art
+  - combined-arts
+  - performance
 free: true
 virtual: false
 organisers:
@@ -49,8 +52,6 @@ content_area:
       -
         type: text
         text: 'Please note, it is a requirement that face coverings are worn at all times during the session (unless exempt).'
-      -
-        type: hard_break
   -
     type: heading
     attrs:
@@ -70,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a carpark one to two minuet walking distance from the venue.'
+        text: 'St Peters Dock car park is a two minute walk away from the venue.'
   -
     type: paragraph
     content:
@@ -90,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Book via the DanceEast website '
+        text: 'Book via the '
       -
         type: text
         marks:
@@ -99,12 +100,12 @@ content_area:
             attrs:
               href: 'https://www.danceeast.co.uk/workshops/eleesha-drennan-watch-a-dance-class/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'https://www.danceeast.co.uk/workshops/eleesha-drennan-watch-a-dance-class/'
+        text: 'Dance East website'
       -
         type: text
-        text: ' or by calling Box Office on '
+        text: ' or by calling the Box Office on '
       -
         type: text
         marks:
@@ -121,6 +122,10 @@ content_area:
         text: .
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Photo Credit: Nicole Guarino'
 cta: |-
   This event is organised by Dance East. Please contact Zoe Ablitt:
 
@@ -136,6 +141,6 @@ accessibility_information: |-
   - Seated venue 
   - Covid-19 preventative measures in place
 end_date: '2022-02-09 13:00'
-attendance_information: 18+
+attendance_information: 'Teens and adults'
 ---
-Watch Dance Class is an open house session in which anyone and everyone is invited to watch or sketch a professional class onstage.
+Watch Dance Class is an open house session where everyone is invited to watch or sketch a professional class onstage.
