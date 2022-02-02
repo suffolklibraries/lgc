@@ -4,7 +4,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643793132
+updated_at: 1643793494
 start_date: '2022-02-10 12:20'
 end_date: '2022-02-10 13:40'
 event_categories:
