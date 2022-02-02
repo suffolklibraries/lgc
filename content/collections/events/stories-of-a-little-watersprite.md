@@ -4,7 +4,7 @@ blueprint: events
 title: 'Stories of a Little Watersprite'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643801587
+updated_at: 1643802607
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-02-26 11:00'
@@ -154,6 +154,14 @@ content_area:
               target: _blank
               title: null
         text: '01473 295230'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Photo Credit: Franz Kimmel'
 cta: |-
   This event is organised by Dance East. 
 
