@@ -3,11 +3,11 @@ id: 5f629834-f7df-42da-bb03-a1971642ca0e
 blueprint: events
 title: 'Dance for Parkinson''s'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643737961
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1643793002
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2022-02-02 14:00'
+start_date: '2022-02-09 14:00'
 event_categories:
   - dance
   - later-in-life
@@ -139,7 +139,7 @@ accessibility_information: |-
   - Social distancing in place 
   - Covid-19 preventative measures in place
 cost_details: £6
-end_date: '2022-02-02 15:30'
+end_date: '2022-02-09 15:30'
 attendance_information: 'Those with Parkinson''s'
 ---
 Experience the joy of dancing to live music in these specially designed movement classes for those living with Parkinson's.
