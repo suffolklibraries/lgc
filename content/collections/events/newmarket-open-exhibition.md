@@ -7,7 +7,7 @@ start_date: '2022-02-12 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643814022
+updated_at: 1643814545
 event_categories:
   - exhibition
   - family-friendly
@@ -62,6 +62,22 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Newmarket Open Exhibition meets at the National Horse Racing Museum.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building has a small carpark next to the building.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building also has wheelchair access for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -70,5 +86,18 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The exhibition is free to enter, simply go to the museum shop for a wristband.'
+attendance_information: 18+
+cta: |-
+  This event is run by the National Horse Racing Museum for more info please get in touch via:
+
+  [grainer@nhrm.co.uk](mailto:grainer@nhrm.co.uk)
+
+  [01638667314](tel:01638667314)
 ---
 The National Horseracing Museum is holding a ‘Newmarket Open’ Exhibition of works from artists based in Suffolk and Cambridgeshire.
