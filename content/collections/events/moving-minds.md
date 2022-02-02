@@ -1,20 +1,17 @@
 ---
 id: 364d8bd5-2b56-4b68-9aff-fcf66e469d8c
-published: false
 blueprint: events
 title: 'Moving Minds'
-start_date: '2022-02-02 10:00'
-end_date: '2022-06-29 12:00'
+start_date: '2022-02-09 10:00'
+end_date: '2022-02-09 12:00'
 free: true
 virtual: true
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643714201
-event_categories:
-  - dance
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1643802375
 organisers:
   - inside-out-community
 featured_image: Moving_Minds.jpg
-attendance_information: Online
+attendance_information: Adults
 accessibility_information: '- Live-streamed or recorded option available'
 content_area:
   -
@@ -30,19 +27,19 @@ content_area:
     content:
       -
         type: text
-        text: 'This term, sessions will take place via Zoom and Inside Out are able to provide support to access the app, should this be required. '
+        text: 'Moving Minds is a creative dance and movement session for adults designed to support and improve mental health and wellbeing, as well as build social interaction.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'No previous dance experience is required; we welcome anyone who feels drawn to the idea of creative dance and movement as away of supporting their wellbeing & mental health. A safe and supportive space is created, in which it feels comfortable to explore movement and express yourself with increasing creativity and freedom. '
+        text: 'No previous dance experience is required; Moving Minds welcomes anyone who feels drawn to the idea of creative dance and movement as away of supporting their wellbeing & mental health. A safe and supportive space is created, in which it feels comfortable to explore movement and express yourself with increasing creativity and freedom. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We have fun in the process as we move independently and collaborate with others. It is a session in which everything is voluntary, so there is no pressure on anyone to ‘perform’ – the goal is to learn about the art of creative dance while developing movement skills, awareness of good alignment and safe practice, progressing at our own individual pace & physical ability. '
+        text: 'Have fun in the process as you move independently and collaborate with others. It is a session in which everything is voluntary, so there is no pressure on anyone to ‘perform’ – the goal is to learn about the art of creative dance while developing movement skills, awareness of good alignment and safe practice, progressing at our own individual pace & physical ability. '
   -
     type: paragraph
     content:
@@ -54,7 +51,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Every Wednesday from 26th January'
+        text: 'This term, sessions will take place via Zoom and Inside Out are able to provide support to access the app, should this be required.  Moving Minds take place every Wednesday from 26th January 2022.'
   -
     type: heading
     attrs:
@@ -68,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event takes place online.'
+        text: 'This event takes place online. Book online to find out further details of how to attend, see below for details.'
   -
     type: heading
     attrs:
@@ -96,10 +93,10 @@ content_area:
         text: info@insideoutcommunity.com
       -
         type: text
-        text: ' and they will send you a sign up form'
+        text: ' to receive a sign up form.'
 booking_link: 'mailto:info@insideoutcommunity.com'
 cta: |-
-  This event is orginised by Janine Tompkins for more info please get in touch via:
+  This event is orginised by Janine Tompkins for more info please get in touch via email:
 
   [info@insideoutcommunity.com](mailto:info@insideoutcommunity.com)
 ---
