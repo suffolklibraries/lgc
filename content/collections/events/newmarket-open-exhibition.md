@@ -7,7 +7,7 @@ start_date: '2022-02-12 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643814597
+updated_at: 1643815213
 event_categories:
   - exhibition
   - family-friendly
@@ -65,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Newmarket Open Exhibition meets at the National Horse Racing Museum.'
+        text: 'Newmarket Open Exhibition meets at the National Horse Racing Museum, Palace Street, Newmarket, CB8 8EP.'
   -
     type: paragraph
     content:
