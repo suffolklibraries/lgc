@@ -4,7 +4,7 @@ blueprint: events
 title: 'Stories of a Little Watersprite'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643801443
+updated_at: 1643801587
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-02-26 11:00'
@@ -117,6 +117,12 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There will be two performances of the show on Saturday 26th February, one at 11am and then another at 2pm. '
   -
     type: paragraph
     content:
