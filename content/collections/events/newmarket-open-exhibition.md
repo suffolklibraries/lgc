@@ -6,13 +6,10 @@ title: 'Newmarket Open Exhibition'
 start_date: '2022-02-12 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643815213
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644012249
 event_categories:
   - exhibition
-  - family-friendly
-  - teen-and-young-adult
-  - later-in-life
 organisers:
   - national-horse-racing-museum
 end_date: '2022-04-24 16:00'
@@ -45,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The exhibition showcases the diversity and high quality of creative work being produced in the region and are available to purchase from £75 – we hope you find a piece that you love! The artworks show a great variety of media and subject matter, and the selection panel made choices in the hope that the exhibition will delight and challenge visitors. '
+        text: 'The exhibition showcases the diversity and high quality of creative work being produced in the region and are available to purchase from £75 – we hope you''ll find a piece that you love! The artworks show a great variety of media and subject matter, and the selection panel made choices in the hope that the exhibition will delight and challenge visitors. '
   -
     type: paragraph
     content:
@@ -71,13 +68,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The building has a small carpark next to the building.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The building also has wheelchair access for those that have accessibility needs.'
+        text: 'The building has wheelchair access for those with accessibility needs.'
   -
     type: heading
     attrs:
@@ -92,12 +83,8 @@ content_area:
       -
         type: text
         text: 'The exhibition is free to enter, simply go to the museum shop for a wristband.'
-attendance_information: 18+
-cta: |-
-  This event is run by the National Horse Racing Museum for more info please get in touch via:
-
-  [grainer@nhrm.co.uk](mailto:grainer@nhrm.co.uk)
-
-  [01638667314](tel:01638667314)
+attendance_information: Adults
+cta: 'This event is run by the National Horse Racing Museum'
+booking_link: 'https://www.nhrm.co.uk/event/newmarket-open/'
 ---
 The National Horseracing Museum is holding a ‘Newmarket Open’ Exhibition of works from artists based in Suffolk and Cambridgeshire.
