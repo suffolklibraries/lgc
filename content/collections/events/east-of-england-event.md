@@ -1,6 +1,5 @@
 ---
 id: 09a9d0a7-f656-4bda-9b3c-dbd5a3f993ee
-published: false
 blueprint: events
 title: 'East of England Event'
 organisers:
@@ -29,19 +28,19 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be case studies in the morning, a networking opportunity and then your choice of discussion groups in the afternoon. They have a great range of content confirmed from museums and organisations in Norwich, Great Yarmouth and St Albans and more coming. '
+        text: 'There will be case studies in the morning, a networking opportunity and then your choice of discussion groups in the afternoon. There will be a great range of content confirmed from museums and organisations in Norwich, Great Yarmouth and St Albans and more coming. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Attendees will also bring insights from many more places. They will be in touch to ask you to give your preferences for the afternoon discussion group once you have registered via Eventbrite. '
+        text: 'Attendees will also bring insights from many more places. The Migration Museum will be in touch to ask you to give your preferences for the afternoon discussion group once you have registered via Eventbrite. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This event is open to all but most relevant for those working across the East of England. They understand that it may be a challenge to commit to this length of event online and appreciate that you might need to drop in and out during the day.'
+        text: 'This event is open to all but most relevant for those working across the East of England. It is understood that it may be a challenge to commit to this length of event online and appreciate that you might need to drop in and out during the day.'
   -
     type: heading
     attrs:
@@ -81,11 +80,10 @@ content_area:
               target: null
               title: null
         text: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644230142
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644236273
 event_categories:
-  - teen-and-young-adult
-  - later-in-life
+  - museums
 featured_image: Migration-Network-1644229641.png
 attendance_information: 18+
 booking_link: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'
@@ -93,7 +91,5 @@ cta: |-
   This event is run by Devi Singh on behalf of The Migration Museum for more infromation please get in touch via:
 
   [devi@devisingh.com](mailto:devi@devisingh.com)
-
-  [07800 871215](tel:07800871215)
 ---
-At this Migration Network event we aim to bring together people from all over, including museums, cultural and academicorganisations working on migration and intersecting themes to share best practice and learn from each other.
+At this Migration Network event the aim is to bring together people from all over, including museums, cultural and academic organisations working on migration and intersecting themes to share best practice and learn from each other.
