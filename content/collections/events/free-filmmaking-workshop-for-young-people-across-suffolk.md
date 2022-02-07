@@ -3,11 +3,11 @@ id: f43777ff-a693-4395-bae4-307b90cf131e
 published: false
 blueprint: events
 title: 'Free Filmmaking Workshop for Young People across Suffolk'
-start_date: '2022-02-07 10:00'
+start_date: '2022-02-19 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644248555
+updated_at: 1644248709
 event_categories:
   - film
   - teen-and-young-adult
@@ -117,5 +117,6 @@ cta: |-
 
   [01787370378](tel:01787370378)
 attendance_information: 'Ages 9 to 16 years'
+end_date: '2022-02-20 15:00'
 ---
 Free movie trailer and music video film making workshop for young people. Learn how to make films using professional equipment and trained by professional filmmakers.
