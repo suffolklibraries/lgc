@@ -1,5 +1,6 @@
 ---
 id: 09a9d0a7-f656-4bda-9b3c-dbd5a3f993ee
+published: false
 blueprint: events
 title: 'East of England Event'
 organisers:
@@ -63,7 +64,36 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book please visit: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'
+              rel: null
+              target: null
+              title: null
+        text: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644229151
+updated_at: 1644230142
+event_categories:
+  - teen-and-young-adult
+  - later-in-life
+featured_image: Migration-Network-1644229641.png
+attendance_information: 18+
+booking_link: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'
+cta: |-
+  This event is run by Devi Singh on behalf of The Migration Museum for more infromation please get in touch via:
+
+  [devi@devisingh.com](mailto:devi@devisingh.com)
+
+  [07800 871215](tel:07800871215)
 ---
 At this Migration Network event we aim to bring together people from all over, including museums, cultural and academicorganisations working on migration and intersecting themes to share best practice and learn from each other.
