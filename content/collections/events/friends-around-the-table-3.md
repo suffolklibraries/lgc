@@ -4,7 +4,7 @@ blueprint: events
 title: 'Friends Around The Table - spice cook-up'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644247053
+updated_at: 1644247068
 start_date: '2022-02-14 10:30'
 end_date: '2022-02-14 12:00'
 event_categories:
@@ -12,7 +12,7 @@ event_categories:
   - food
   - nature
 free: true
-virtual: false
+virtual: true
 featured_image: suffolkartlinkimages/around-the-table.jpg
 attendance_information: |-
   Family and carers 
