@@ -7,7 +7,7 @@ start_date: '2022-03-01 19:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644232883
+updated_at: 1644239984
 event_categories:
   - teen-and-young-adult
   - drama
@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This project is aimed at people who are engaged with questions of identity, expression and sexuality. it is also for people who are new to those questions and interested in engaging in personal narratives.'
+        text: 'This project is aimed at people 18+, who are engaged with questions of identity, expression and sexuality. it is also for people who are new to those questions and interested in engaging in personal narratives.'
   -
     type: paragraph
     content:
@@ -157,6 +157,6 @@ booking_link: 'https://theatreroyal.org/shows/adult-theatre-workshop-theres-nowt
 cta: |-
   This event is organised by the Theatre Royal Bury St Edmunds for more information please get in touch via:
 
-  [lucinda@theatreroyal.org](mailto:lucinda@theatreroyal.org)
+  [engagement@theatreroyal.org](mailto:engagement@theatreroyal.org)
 ---
 Workshop series theatre making Verbatim writting.
