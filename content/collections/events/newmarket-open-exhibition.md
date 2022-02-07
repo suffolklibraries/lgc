@@ -1,20 +1,18 @@
 ---
 id: 57226fde-acc6-4bb5-936d-6cea6aff526f
-published: false
 blueprint: events
 title: 'Newmarket Open Exhibition'
 start_date: '2022-02-12 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644228707
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644235851
 event_categories:
   - exhibition
 organisers:
   - national-horse-racing-museum
 end_date: '2022-04-24 16:00'
 accessibility_information: |-
-  - Family friendly 
   - Dementia friendly 
   - Autism friendly
   - Wheelchair access
@@ -83,7 +81,15 @@ content_area:
       -
         type: text
         text: 'The exhibition is free to enter, simply go to the museum shop for a wristband.'
-attendance_information: Adults
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Image credit: Early Morning Exercise - Chihiro Kinjo'
+attendance_information: 'Adults and teens'
 cta: |-
   This event is run by the National Horse Racing Museum for more information please get in touch via:
 
