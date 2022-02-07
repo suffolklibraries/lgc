@@ -6,7 +6,7 @@ start_date: '2022-02-12 10:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644235851
+updated_at: 1644236366
 event_categories:
   - exhibition
 organisers:
@@ -91,9 +91,9 @@ content_area:
         text: 'Image credit: Early Morning Exercise - Chihiro Kinjo'
 attendance_information: 'Adults and teens'
 cta: |-
-  This event is run by the National Horse Racing Museum for more information please get in touch via:
+  This event is run by the National Horse Racing Museum. For more information please get in touch via:
 
-  [grainer@nhrm.co.uk](mailto:grainer@nhrm.co.uk)
+  [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638 667314](tel:01638667314)
 booking_link: 'https://www.nhrm.co.uk/event/newmarket-open/'
