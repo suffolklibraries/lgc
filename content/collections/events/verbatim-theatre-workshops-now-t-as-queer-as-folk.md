@@ -3,9 +3,160 @@ id: 2330181d-5285-4834-b6b1-4b335d44ca5a
 published: false
 blueprint: events
 title: 'Verbatim theatre workshops " Now''t As Queer As Folk "'
-start_date: '2022-02-07 10:36'
+start_date: '2022-03-01 19:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644230224
+updated_at: 1644232883
+event_categories:
+  - teen-and-young-adult
+  - drama
+organisers:
+  - theatre-royal-bury-st-edmunds
+featured_image: Queer-as-folk.png
+end_date: '2022-04-05 21:00'
+cost_details: '£35 for 6 sessions'
+attendance_information: 18+
+accessibility_information: |-
+  - Complimentary tickets for carers 
+  - indoor venue
+latitude: '52.24082876567966'
+longitude: '0.7168733718612081'
+address_line_1: 'Theatre Royal'
+address_line_2: 'Westgate Street'
+town: 'Bury St Edmunds'
+postcode: IP331QR
+content_area:
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This project is aimed at people who are engaged with questions of identity, expression and sexuality. it is also for people who are new to those questions and interested in engaging in personal narratives.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'What will you learn?'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To uncover personal stories and make them theatrical.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The art of storytelling and how to bring words to live off the page.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'How to write and re-write pieces of work.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'How to write in your own voice, focusing on imagery, metaphor, form and structure.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You will have time to share your work and receive peer feedback as well as the space and time to read and discuss your own research as a group.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This event takes place Tuesdays starting March 1st running for 6 weeks.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get here'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Verbatim theatre workshops meets at Westgate St, Bury St Edmunds, Bury Saint Edmunds IP33 1QR.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:engagement@theatreroyal.org'
+              rel: null
+              target: _blank
+              title: null
+        text: engagement@theatreroyal.org
+      -
+        type: text
+        text: ' to access bursary places or call box office on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01284769505'
+              rel: null
+              target: _blank
+              title: null
+        text: '01284769505'
+      -
+        type: text
+        text: ' or via '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theatreroyal.org/shows/adult-theatre-workshop-theres-nowt-so-queer-as-folk/'
+              rel: null
+              target: null
+              title: null
+        text: 'Adult Theatre Workshop - There''s Nowt So Queer As Folk - Theatre Royal'
+      -
+        type: text
+        text: ' to book place directly.'
+booking_link: 'https://theatreroyal.org/shows/adult-theatre-workshop-theres-nowt-so-queer-as-folk/'
+cta: |-
+  This event is organised by the Theatre Royal Bury St Edmunds for more information please get in touch via:
+
+  [lucinda@theatreroyal.org](mailto:lucinda@theatreroyal.org)
 ---
+Workshop series theatre making Verbatim writting.
