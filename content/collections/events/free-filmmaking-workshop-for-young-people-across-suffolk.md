@@ -6,11 +6,12 @@ title: 'Free Filmmaking Workshop for Young People across Suffolk'
 start_date: '2022-02-07 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644235664
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644236451
 event_categories:
   - film
   - teen-and-young-adult
+  - primary-school-age
 organisers:
   - the-offshoot-foundation
 featured_image: Hartismere-School.jpg
@@ -75,5 +76,6 @@ cta: |-
   [theoffshootfoundation@gmail.com](mailto:theoffshootfoundation@gmail.com)
 
   [01787370378](tel:01787370378)
+attendance_information: 'Ages 9 to 16 years'
 ---
-Free Movie Trailer and Music Video Film Making workshop for young people. Learn how to make films using professionalequipment and trained by professional filmmakers.
+Free movie trailer and music video film making workshop for young people. Learn how to make films using professional equipment and trained by professional filmmakers.
