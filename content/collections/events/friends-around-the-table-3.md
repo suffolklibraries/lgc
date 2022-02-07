@@ -4,7 +4,7 @@ blueprint: events
 title: 'Friends Around The Table - spice cook-up'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644246745
+updated_at: 1644247053
 start_date: '2022-02-14 10:30'
 end_date: '2022-02-14 12:00'
 event_categories:
@@ -69,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table will be held every Monday morning for the start of 2022. All you need is a computer, tablet or mobile which you can take virtual calls on. Call details will be sent once you have booked on the sessions using the information below. '
+        text: 'Friends Around the Table will be held virtually every Monday morning for the start of 2022. All you need is a computer, tablet or mobile which you can take virtual calls on. Call details will be sent once you have booked on the sessions using the information below. '
   -
     type: heading
     attrs:
@@ -139,11 +139,5 @@ cta: |-
 booking_link: 'https://www.suffolkartlink.org.uk/our-work/friends-around-the-table/'
 organisers:
   - suffolk-artlink
-latitude: '52.09002093943122'
-longitude: '1.3157261935326063'
-address_line_1: 'Woodbridge Community Hall'
-address_line_2: 'Station Rd'
-town: Woodbridge
-postcode: 'IP12 4AU'
 ---
 Explore food, creativity and culture in regular workshops to offer adult carers a moment of respite from their caring role.
