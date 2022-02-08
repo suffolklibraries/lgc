@@ -6,10 +6,9 @@ title: 'Verbatim theatre workshops " Now''t As Queer As Folk "'
 start_date: '2022-03-01 19:00'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644239984
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644334964
 event_categories:
-  - teen-and-young-adult
   - drama
 organisers:
   - theatre-royal-bury-st-edmunds
@@ -34,43 +33,46 @@ content_area:
     content:
       -
         type: text
-        text: 'What to expect'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This project is aimed at people 18+, who are engaged with questions of identity, expression and sexuality. it is also for people who are new to those questions and interested in engaging in personal narratives.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'What will you learn?'
   -
-    type: paragraph
+    type: bullet_list
     content:
       -
-        type: text
-        text: 'To uncover personal stories and make them theatrical.'
-  -
-    type: paragraph
-    content:
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'To uncover personal stories and make them theatrical.'
       -
-        type: text
-        text: 'The art of storytelling and how to bring words to live off the page.'
-  -
-    type: paragraph
-    content:
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'The art of storytelling and how to bring words to live off the page.'
       -
-        type: text
-        text: 'How to write and re-write pieces of work.'
-  -
-    type: paragraph
-    content:
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'How to write and re-write pieces of work.'
       -
-        type: text
-        text: 'How to write in your own voice, focusing on imagery, metaphor, form and structure.'
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'How to write in your own voice, focusing on imagery, metaphor, form and structure.'
   -
     type: paragraph
     content:
@@ -82,7 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event takes place Tuesdays starting March 1st running for 6 weeks.'
+        text: 'This event takes place Tuesdays, starting March 1st and then running for 6 weeks.'
   -
     type: heading
     attrs:
@@ -96,7 +98,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Verbatim theatre workshops meets at Westgate St, Bury St Edmunds, Bury Saint Edmunds IP33 1QR.'
+        text: 'Verbatim theatre workshops meet at Westgate St, Bury St Edmunds, Bury Saint Edmunds IP33 1QR.'
   -
     type: heading
     attrs:
@@ -159,4 +161,4 @@ cta: |-
 
   [engagement@theatreroyal.org](mailto:engagement@theatreroyal.org)
 ---
-Workshop series theatre making Verbatim writting.
+This project is aimed at people 18+, who are engaged with questions of identity, expression and sexuality. it is also for people who are new to those questions and interested in engaging in personal narratives.
