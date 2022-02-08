@@ -1,5 +1,6 @@
 ---
 id: 8508518b-5731-4d61-8850-fd6a14c272fa
+published: false
 blueprint: events
 title: 'Saturday Nature Walks'
 organisers:
@@ -92,8 +93,8 @@ content_area:
       -
         type: text
         text: 'Saturday Nature Walks is a free event but donations are welcome as all donations go to the art and learning programme at The Art Station.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643626630
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644340354
 event_categories:
   - nature
   - outdoor-venue
