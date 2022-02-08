@@ -8,6 +8,8 @@ event_categories:
   - primary-school-age
   - teen-and-young-adult
   - exhibition
+  - later-in-life
+  - art
 organisers:
   - 303-projects-cic
 start_date: '2022-02-19 13:00'
@@ -17,8 +19,6 @@ accessibility_information: |-
   - Dementia friendly 
   - Autism friendly
   - Wheelchair access
-  - Seated venue 
-  - Standing venue,
   - Outdoor venue 
   - Social distancing in place 
   - Covid-19 preventative measures in place
@@ -54,7 +54,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event runs Saturdays from 1pm to 5pm.'
+        text: '303 Projects is a CIC (Community Interest Company) and run for the particular benefit of the Lowestoft community, as well as encourage a broader visiting public to the area.'
   -
     type: heading
     attrs:
@@ -74,7 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is parking just outside of the venue.'
+        text: 'There is parking just outside of the venue. '
   -
     type: paragraph
     content:
@@ -94,16 +94,34 @@ content_area:
     content:
       -
         type: text
-        text: 'There is no booking for this event as it is free to attend.'
+        text: 'The gallery is open on Saturdays from 1pm to 5pm, or by appointment. To enter on Saturdays, there is no need to book ahead. Please see the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.303projects.com/about'
+              rel: null
+              target: _blank
+              title: null
+        text: website
+      -
+        type: text
+        text: ' or follow the gallery on Instagram @303_projects for up to date information on exhibitions and events. '
 cta: |-
   This event is run by 303 projects for more information pleases get in touch via:
 
   [alexander@303projects.com](mailto:alexander@303projects.com)
 
   [07788 299403](tel:07788299403)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644334250
+
+  [https://www.303projects.com/about](https://www.303projects.com/about)
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644335435
 featured_image: 303-Projects-1.jpg
 end_date: '2022-02-19 17:00'
+attendance_information: 'Open to all'
+booking_link: '#'
 ---
 Contemporary art gallery in Lowestoft, Suffolk, run by artist Alexander Costello.
