@@ -1,6 +1,5 @@
 ---
 id: 66238882-0e09-411e-9664-79c5df3e0fda
-published: false
 blueprint: events
 title: 'Contemporary Art Gallery'
 event_categories:
@@ -82,6 +81,12 @@ content_area:
         type: text
         text: 'The venue also has wheelchair access for those that have accessibility needs. '
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue is a fifteen minuet walk from Lowestoft station and is there is Lorne park road bus stop a short walk from the venue.'
+  -
     type: heading
     attrs:
       level: 2
@@ -117,8 +122,8 @@ cta: |-
   [07788 299403](tel:07788299403)
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644335435
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1644337263
 featured_image: 303-Projects-1.jpg
 end_date: '2022-02-19 17:00'
 attendance_information: 'Open to all'
