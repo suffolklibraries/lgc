@@ -6,8 +6,8 @@ title: 'Verbatim theatre workshops " Now''t As Queer As Folk "'
 start_date: '2022-03-01 19:00'
 free: false
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644334964
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1644336392
 event_categories:
   - drama
 organisers:
@@ -100,6 +100,12 @@ content_area:
         type: text
         text: 'Verbatim theatre workshops meet at Westgate St, Bury St Edmunds, Bury Saint Edmunds IP33 1QR.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are two bus stop a short walk from the venue, one is Brewery bus stop and the other is St Edmunds RC Primary bus stop.'
+  -
     type: heading
     attrs:
       level: 2
@@ -159,6 +165,10 @@ booking_link: 'https://theatreroyal.org/shows/adult-theatre-workshop-theres-nowt
 cta: |-
   This event is organised by the Theatre Royal Bury St Edmunds for more information please get in touch via:
 
+  [https://theatreroyal.org/shows/adult-theatre-workshop-theres-nowt-so-queer-as-folk/]
+
   [engagement@theatreroyal.org](mailto:engagement@theatreroyal.org)
+
+  [01284769505](tel:01284769505)
 ---
 This project is aimed at people 18+, who are engaged with questions of identity, expression and sexuality. it is also for people who are new to those questions and interested in engaging in personal narratives.
