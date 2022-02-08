@@ -1,6 +1,5 @@
 ---
 id: 9334a1f6-b404-476a-86d2-60f5563a61b6
-published: false
 blueprint: events
 title: 'Henry Driver: Unseen & Unceasing'
 organisers:
@@ -121,7 +120,7 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644341153
+updated_at: 1644341181
 event_categories:
   - art
   - exhibition
