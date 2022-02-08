@@ -120,7 +120,7 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644341181
+updated_at: 1644341213
 event_categories:
   - art
   - exhibition
@@ -142,4 +142,4 @@ accessibility_information: |-
   -Indoor, seated venue
   -Covid-19 preventative measures in place
 ---
-The Art Station is launching 'Unseen & Unceasing' - a new digital artwork from Suffolk-based artist Henry Driver.
+Join The Art Station to launch 'Unseen & Unceasing' - a new digital artwork from Suffolk-based artist Henry Driver.
