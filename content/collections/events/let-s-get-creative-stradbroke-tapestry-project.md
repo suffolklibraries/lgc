@@ -4,10 +4,8 @@ published: false
 blueprint: events
 title: 'Let’s Get Creative - Stradbroke Tapestry Project'
 event_categories:
-  - early-years
-  - primary-school-age
-  - teen-and-young-adult
-  - later-in-life
+  - open-to-all
+  - art
 organisers:
   - suffolk-artlink
 start_date: '2022-02-27 10:00'
@@ -15,7 +13,7 @@ end_date: '2022-03-27 13:00'
 free: true
 virtual: false
 attendance_information: |-
-  All ages
+  Open to all
 
   Indoor venue
 accessibility_information: |-
@@ -53,6 +51,16 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Stradbroke Tapestry Project meets at Stradbroke Library, Court House, Queens Street, Stradbroke, IP21 5HG.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Church bus stop is a short walk from the venue.'
   -
     type: heading
     attrs:
@@ -61,6 +69,16 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book please contact library manager Maureen John at Stradbroke library 01379 384768'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644335443
+updated_at: 1644339160
+cta: |-
+  This event is organised by Suffolk Artlink for more information please get in touch via:
+
+  [charlie@suffolkartlink.org.uk](mailto:charlie@suffolkartlink.org.uk)
 ---
