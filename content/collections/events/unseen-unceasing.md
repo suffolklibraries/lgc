@@ -120,7 +120,7 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644402673
+updated_at: 1644402742
 event_categories:
   - art
   - exhibition
@@ -136,7 +136,7 @@ booking_link: 'https://theartstation.uk/event/henry-driver-unseen-unceasing/'
 cta: |-
   This event is orginised by The Art Station, to find out more information then please visit the website:
 
-  [https://theartstation.uk/event/henry-driver-unseen-unceasing/)[https://theartstation.uk/event/henry-driver-unseen-unceasing/]
+  [https://theartstation.uk/event/henry-driver-unseen-unceasing/)(https://theartstation.uk/event/henry-driver-unseen-unceasing/)
 attendance_information: 'All welcome'
 accessibility_information: |-
   -Indoor, seated venue
