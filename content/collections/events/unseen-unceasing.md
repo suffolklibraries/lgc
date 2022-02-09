@@ -82,7 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Saturday Nature Walks meets at The Art Station on 48 High Street in Saxmundham.'
+        text: 'Henry Driver: Unseen & Unceasing will be shown at The Art Station on 48 High Street in Saxmundham.'
   -
     type: paragraph
     content:
@@ -120,7 +120,7 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644341213
+updated_at: 1644402673
 event_categories:
   - art
   - exhibition
@@ -136,7 +136,7 @@ booking_link: 'https://theartstation.uk/event/henry-driver-unseen-unceasing/'
 cta: |-
   This event is orginised by The Art Station, to find out more information then please visit the website:
 
-  [https://theartstation.uk/event/henry-driver-unseen-unceasing/)
+  [https://theartstation.uk/event/henry-driver-unseen-unceasing/)[https://theartstation.uk/event/henry-driver-unseen-unceasing/]
 attendance_information: 'All welcome'
 accessibility_information: |-
   -Indoor, seated venue
