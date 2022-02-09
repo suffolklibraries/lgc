@@ -2,13 +2,13 @@
 id: 80c4b916-d08f-473b-b984-093f4375a3b8
 published: false
 blueprint: events
-title: 'Group A - Ipswich (Duplicated)'
+title: 'Group A - Ipswich'
 latitude: '52.05886231610009'
 longitude: '1.1479309984275614'
-start_date: '2022-03-03 16:15'
-end_date: '2022-03-03 18:15'
+start_date: '2022-03-31 16:15'
+end_date: '2022-03-31 18:15'
 updated_by: 87f603de-9e7e-4063-9310-cad1dde625ef
-updated_at: 1644424145
+updated_at: 1644424182
 free: true
 virtual: false
 organisers:
