@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table - Nature walk and craft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644574950
+updated_at: 1644575439
 start_date: '2022-02-23 10:30'
 end_date: '2022-02-23 12:30'
 event_categories:
