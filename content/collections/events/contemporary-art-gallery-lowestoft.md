@@ -7,7 +7,7 @@ event_categories:
   - primary-school-age
   - teen-and-young-adult
   - exhibition
-  - later-in-life
+  - later-life
   - art
 organisers:
   - 303-projects-cic
