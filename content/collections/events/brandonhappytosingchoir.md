@@ -6,7 +6,7 @@ title: 'Brandon Happy to Sing Choir'
 event_categories:
   - music
   - teen-and-young-adult
-  - later-in-life
+  - later-life
 start_date: '2022-01-25 17:30'
 free: false
 cost_details: £5
