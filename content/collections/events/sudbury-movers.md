@@ -10,7 +10,7 @@ longitude: '0.7231630550633815'
 start_date: '2022-02-09 10:00'
 event_categories:
   - dance
-  - later-in-life
+  - later-life
 free: false
 virtual: false
 organisers:
