@@ -11,7 +11,7 @@ updated_at: 1640278563
 event_categories:
   - outdoor-venue
   - nature
-  - later-in-life
+  - later-life
 organisers:
   - suffolk-artlink
 content_area:
