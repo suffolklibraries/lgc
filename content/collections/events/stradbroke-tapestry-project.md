@@ -6,7 +6,7 @@ title: 'Stradbroke Tapestry Project'
 event_categories:
   - art
   - family-friendly
-  - later-in-life
+  - later-life
   - crafts
 organisers:
   - suffolk-artlink
