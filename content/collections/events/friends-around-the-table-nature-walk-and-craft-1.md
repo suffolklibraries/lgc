@@ -1,5 +1,6 @@
 ---
 id: 962f2773-f03b-4c82-b283-3caf4b716cd8
+published: false
 blueprint: events
 title: 'Friends Around The Table - Nature walk and craft (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
