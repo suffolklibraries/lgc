@@ -2,18 +2,17 @@
 id: 36964a86-c38b-4ed1-b554-35d173278d3b
 published: false
 blueprint: events
-title: 'Friends Around The Table - spice cook-up (Duplicated)'
+title: 'Friends Around The Table - Nature walk and craft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644247068
-start_date: '2022-02-14 10:30'
-end_date: '2022-02-14 12:00'
+updated_at: 1644574661
+start_date: '2022-02-23 10:30'
+end_date: '2022-02-23 12:30'
 event_categories:
   - crafts
-  - food
   - nature
 free: true
-virtual: true
+virtual: false
 featured_image: suffolkartlinkimages/around-the-table.jpg
 attendance_information: |-
   Family and carers 
@@ -32,19 +31,19 @@ content_area:
     content:
       -
         type: text
-        text: 'In this session of Friends Around the Table explore cooking with spices. '
+        text: 'In this session of Friends Around the Table explore nature and crafts. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Friends Around the Table project aims to explore food, culture and nature in regular workshops, to offer family carers and adults living rurally, relaxed and enjoyable get-togethers.'
+        text: 'The Friends Around the Table project aims to explore nature and arts and crafts in regular workshops, to offer family carers and adults living rurally, relaxed and enjoyable get-togethers.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'At the workshops people will work with professional artists, chefs and food-led practitioners where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
+        text: 'At the workshops people will work with professional artists, where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
   -
     type: paragraph
     content:
@@ -70,7 +69,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table will be held virtually every Monday morning for the start of 2022. All you need is a computer, tablet or mobile which you can take virtual calls on. Call details will be sent once you have booked on the sessions using the information below. '
+        text: 'Friends Around the Table Nature Walk And Craft will be held at Woodbridge Community Centre,IP12 4AU.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is parking at the front and rear of the building with disabled parking spaces for those that require them.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The closest bus stop is Deben pool which is a one to two minuet walk from the venue.'
   -
     type: heading
     attrs:
@@ -140,5 +151,11 @@ cta: |-
 booking_link: 'https://www.suffolkartlink.org.uk/our-work/friends-around-the-table/'
 organisers:
   - suffolk-artlink
+latitude: '52.090197048537284'
+longitude: '1.3157172945566769'
+address_line_1: 'Woodbridge Community Hall'
+address_line_2: 'Station Rd'
+town: Woodbridge
+postcode: 'IP12 4AU'
 ---
 Explore food, creativity and culture in regular workshops to offer adult carers a moment of respite from their caring role.
