@@ -1,6 +1,5 @@
 ---
 id: 295e6fd4-de73-497b-915e-b3d9063ee50d
-published: false
 blueprint: events
 title: 'Group A - Ipswich'
 latitude: '52.05886231610009'
@@ -8,7 +7,7 @@ longitude: '1.1479309984275614'
 start_date: '2022-02-21 10:00'
 end_date: '2022-02-21 15:00'
 updated_by: 87f603de-9e7e-4063-9310-cad1dde625ef
-updated_at: 1644424021
+updated_at: 1644586403
 free: true
 virtual: false
 organisers:
