@@ -9,7 +9,7 @@ latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2022-02-15 11:00'
 event_categories:
-  - later-in-life
+  - later-life
   - movement
   - dance
 free: false
