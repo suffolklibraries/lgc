@@ -2,12 +2,12 @@
 id: 562f22f1-c75e-45bc-ae7c-f6a37973cc1d
 published: false
 blueprint: events
-title: 'Friends Around The Table - Nature walk and craft (Duplicated)'
+title: 'Friends Around The Table - Sound And Drawing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644575439
-start_date: '2022-02-23 10:30'
-end_date: '2022-02-23 12:30'
+updated_at: 1644576907
+start_date: '2022-03-16 10:30'
+end_date: '2022-03-16 12:30'
 event_categories:
   - crafts
   - nature
@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this session of Friends Around the Table explore nature and crafts. '
+        text: 'In this session of Friends Around the Table explore sound and arts crafts. '
   -
     type: paragraph
     content:
@@ -69,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table Nature Walk And Craft will be held at Woodbridge Community Centre, IP12 4AU.'
+        text: 'Friends Around the Table Sound And Drawing will be held at Woodbridge Community Centre, IP12 4AU.'
   -
     type: paragraph
     content:
@@ -158,4 +158,4 @@ address_line_2: 'Station Rd'
 town: Woodbridge
 postcode: 'IP12 4AU'
 ---
-Explore nature, creativity and arts and craft in regular workshops to offer adult carers a moment of respite from their caring role.
+Explore sound, art and creativity in regular workshops to offer adult carers a moment of respite from their caring role.
