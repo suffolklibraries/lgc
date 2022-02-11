@@ -10,7 +10,7 @@ longitude: '1.1552660082048722'
 start_date: '2022-02-09 09:30'
 event_categories:
   - dance
-  - later-in-life
+  - later-life
   - teen-and-young-adult
   - crafts
   - art
