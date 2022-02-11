@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table - Nature walk and craft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644574661
+updated_at: 1644574950
 start_date: '2022-02-23 10:30'
 end_date: '2022-02-23 12:30'
 event_categories:
@@ -37,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Friends Around the Table project aims to explore nature and arts and crafts in regular workshops, to offer family carers and adults living rurally, relaxed and enjoyable get-togethers.'
+        text: 'The Friends Around the Table project aims to explore nature with arts and crafts in regular workshops, to offer family carers and adults living rurally, relaxed and enjoyable get-togethers.'
   -
     type: paragraph
     content:
@@ -69,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table Nature Walk And Craft will be held at Woodbridge Community Centre,IP12 4AU.'
+        text: 'Friends Around the Table Nature Walk And Craft will be held at Woodbridge Community Centre, IP12 4AU.'
   -
     type: paragraph
     content:
@@ -158,4 +158,4 @@ address_line_2: 'Station Rd'
 town: Woodbridge
 postcode: 'IP12 4AU'
 ---
-Explore food, creativity and culture in regular workshops to offer adult carers a moment of respite from their caring role.
+Explore nature, creativity and arts and craft in regular workshops to offer adult carers a moment of respite from their caring role.
