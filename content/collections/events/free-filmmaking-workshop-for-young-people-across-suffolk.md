@@ -7,7 +7,7 @@ start_date: '2022-02-19 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644249062
+updated_at: 1644572562
 event_categories:
   - film
   - teen-and-young-adult
