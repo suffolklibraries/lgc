@@ -9,7 +9,7 @@ start_date: '2022-02-10 12:20'
 end_date: '2022-02-10 13:40'
 event_categories:
   - dance
-  - later-in-life
+  - later-life
   - movement
 free: false
 virtual: false
