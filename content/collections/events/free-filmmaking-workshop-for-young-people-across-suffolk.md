@@ -7,7 +7,7 @@ start_date: '2022-02-19 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644572562
+updated_at: 1644579735
 event_categories:
   - film
   - teen-and-young-adult
@@ -31,6 +31,16 @@ content_area:
         text: 'What to expect'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'A free filmmaking workshop for young people ages 9-16 that will teach you the basics and beginnings of filmmaking. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'These work shops are led by professional filmmakers to teach the ins and outs and what you need to know to become a filmmaker yourself.'
   -
     type: heading
     attrs:
