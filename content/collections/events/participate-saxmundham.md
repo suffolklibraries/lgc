@@ -180,7 +180,7 @@ cta: |-
 
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
 event_categories:
-  - later-in-life
+  - later-life
   - music
   - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
