@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table - Colour From Your Cupboard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644577351
+updated_at: 1644851202
 start_date: '2022-03-02 10:30'
 end_date: '2022-03-02 12:30'
 event_categories:
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this session of Friends Around the Table explore food and crafts. '
+        text: 'In this weeks Friends Around the Table explore food and crafts. '
   -
     type: paragraph
     content:
