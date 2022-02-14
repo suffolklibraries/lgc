@@ -6,8 +6,8 @@ latitude: '52.05886231610009'
 longitude: '1.1479309984275614'
 start_date: '2022-02-21 10:00'
 end_date: '2022-02-21 15:00'
-updated_by: 87f603de-9e7e-4063-9310-cad1dde625ef
-updated_at: 1644586403
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1644834858
 free: true
 virtual: false
 organisers:
@@ -156,4 +156,4 @@ event_categories:
   - music
   - performance
 ---
-Free singing and vocal group for young people
+An extended session of Group A for half term that focuses on a bigger group project.
