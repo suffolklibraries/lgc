@@ -7,7 +7,7 @@ longitude: '0.9995085831205711'
 start_date: '2022-01-18 18:00'
 end_date: '2022-03-29 20:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644858567
+updated_at: 1644858702
 free: true
 virtual: false
 content_area:
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Find us at The Mix in Stowmarket every Tuesday evening. '
+        text: 'Find us at The Mix in Stowmarket every Tuesday evening between the 18th January and 29th March, apart from the 22nd February when there will be no session due to half term. '
   -
     type: paragraph
     content:
