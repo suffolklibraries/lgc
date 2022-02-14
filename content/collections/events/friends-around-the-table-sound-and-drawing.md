@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table - Sound And Drawing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644577041
+updated_at: 1644852388
 start_date: '2022-03-16 10:30'
 end_date: '2022-03-16 12:30'
 event_categories:
@@ -31,7 +31,10 @@ content_area:
     content:
       -
         type: text
-        text: 'In this session of Friends Around the Table explore sound and arts crafts. '
+        marks:
+          -
+            type: bold
+        text: 'In this weeks Friends Around the Table create drawing tools from foraged materials and explore the sound of drawing with Kasia Posen.'
   -
     type: paragraph
     content:
@@ -81,7 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The closest bus stop is Deben pool which is a one to two minuet walk from the venue.'
+        text: 'The closest bus stop is Deben pool which is a one to two minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -123,7 +126,13 @@ content_area:
         text: carrie@suffolkartlink.org.uk
       -
         type: text
-        text: '. Find out more information '
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find out more information '
       -
         type: text
         marks:
