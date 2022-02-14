@@ -7,7 +7,7 @@ longitude: '1.7355823675853659'
 start_date: '2022-02-24 10:00'
 end_date: '2022-02-24 15:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644840036
+updated_at: 1644840296
 free: true
 virtual: false
 organisers:
@@ -75,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Group A meets at The Seagull Theatre in Lowestoft, Morton Rd, NR33 0JH.'
+        text: 'Group A meets at Studio 3 at The Seagull Theatre in Lowestoft, Morton Rd, NR33 0JH.'
   -
     type: paragraph
     content:
