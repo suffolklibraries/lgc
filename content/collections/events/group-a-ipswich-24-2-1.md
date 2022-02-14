@@ -8,7 +8,7 @@ longitude: '1.7355823675853659'
 start_date: '2022-02-24 10:00'
 end_date: '2022-02-24 15:00'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644834013
+updated_at: 1644834938
 free: true
 virtual: false
 organisers:
@@ -76,18 +76,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Group A meets at The New Wolsey Theatre in Ipswich, unless otherwise stated, for details on how to get to The New Wolsey please visit '
+        text: 'Group A meets at The Seagull Theatre in Lowestoft, Morton Rd, NR33 0JH.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.wolseytheatre.co.uk/your-visit/getting-here/'
-              rel: null
-              target: _blank
-              title: null
-        text: www.wolseytheatre.co.uk/your-visit/getting-here/.
+        text: 'The building has a carpark at the front of the building.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building does have wheel chair accessibility for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -157,4 +158,4 @@ event_categories:
   - music
   - performance
 ---
-Free singing and vocal group for young people
+An extended session of Group A for half term that focuses on a bigger group project.
