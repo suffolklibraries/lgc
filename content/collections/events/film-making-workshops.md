@@ -1,20 +1,19 @@
 ---
 id: f43777ff-a693-4395-bae4-307b90cf131e
-published: false
 blueprint: events
-title: 'Free Filmmaking Workshop for Young People across Suffolk'
+title: 'Film Making Workshops for Young People across Suffolk'
 start_date: '2022-02-19 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644579735
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644838863
 event_categories:
   - film
   - teen-and-young-adult
   - primary-school-age
 organisers:
   - the-offshoot-foundation
-featured_image: Hartismere-School.jpg
+featured_image: Film.png
 accessibility_information: |-
   - Wheelchair access
   - Seated venue 
@@ -34,13 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'A free filmmaking workshop for young people ages 9-16 that will teach you the basics and beginnings of filmmaking. '
+        text: 'Discover a selection of free, standalone film making workshops for young people aged 9-16. At these workshops learn the basics and beginnings of filmmaking. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'These work shops are led by professional filmmakers to teach the ins and outs and what you need to know to become a filmmaker yourself.'
+        text: 'These workshops are led by professional filmmakers who teach the ins and outs of what one needs to know to become a film maker.'
   -
     type: heading
     attrs:
@@ -54,7 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Free filmmaking workshop has events in multiple different venues over the next two months, locations and dates listed below:'
+        text: 'Free film making workshops are available in multiple venues over the next two months. Each workshop is standalone. Dates and locations listed below:'
   -
     type: paragraph
     content:
