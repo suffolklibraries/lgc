@@ -1,12 +1,12 @@
 ---
 id: 2330181d-5285-4834-b6b1-4b335d44ca5a
 blueprint: events
-title: 'Verbatim theatre workshops " Now''t As Queer As Folk "'
+title: 'Verbatim theatre workshops “Now''t As Queer As Folk”'
 start_date: '2022-03-01 19:00'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644856565
+updated_at: 1644856682
 event_categories:
   - drama
 organisers:
