@@ -19,7 +19,7 @@ accessibility_information: |-
   - Social distancing in place 
   - Covid-19 preventative measures in place 
   - Complimentary tickets for carers
-featured_image: Early-Morning-Exercise---Chihiro-Kinjo.png
+featured_image: miscellaneous/Early-Morning-Exercise---Chihiro-Kinjo.png
 latitude: '52.24397375043447'
 longitude: '0.40743389826690196'
 address_line_1: 'National Horse Racing Museum'
