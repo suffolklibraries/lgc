@@ -4,7 +4,7 @@ blueprint: events
 title: 'Henry Driver: Unseen & Unceasing'
 organisers:
   - the-art-station
-featured_image: Henry_Driver_UU_insta1-1644341142.jpg
+featured_image: miscellaneous/Henry_Driver_UU_insta1-1644341142.jpg
 start_date: '2022-02-18 19:00'
 free: true
 virtual: false
