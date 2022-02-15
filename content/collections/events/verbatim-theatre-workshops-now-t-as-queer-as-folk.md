@@ -11,7 +11,7 @@ event_categories:
   - drama
 organisers:
   - theatre-royal-bury-st-edmunds
-featured_image: Queer-as-folk.png
+featured_image: miscellaneous/Queer-as-folk.png
 end_date: '2022-04-05 21:00'
 cost_details: '£35 for 6 sessions'
 attendance_information: 18+
