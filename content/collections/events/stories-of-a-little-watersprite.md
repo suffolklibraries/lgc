@@ -176,7 +176,7 @@ accessibility_information: |-
   - Social distancing in place 
   - Covid-19 preventative measures in place
 cost_details: '£7.00 Adult, £5.00 Child'
-featured_image: Little-Watersprites-Bild-046-credit-Franz-Kimmel.jpg
+featured_image: miscellaneous/Little-Watersprites-Bild-046-credit-Franz-Kimmel.jpg
 booking_link: 'https://www.danceeast.co.uk/performances/the-little-watersprite-sophie-nuzel/'
 ---
 Stories of a Little Watersprite is a show for children and families that uses storytelling, movement and puppetry to tell a tale of community, support and belonging.
