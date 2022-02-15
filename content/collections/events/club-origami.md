@@ -184,7 +184,7 @@ accessibility_information: |-
   - Social distancing in place 
   - Covid-19 preventative measures in place
 cost_details: '£7.00 Adult, £5.00 Child'
-featured_image: CLUBORIGAMI_SEDANCE2021_SUMMERDEAN_SELECTS-26.jpg
+featured_image: danceeastimages/CLUBORIGAMI_SEDANCE2021_SUMMERDEAN_SELECTS-26.jpg
 booking_link: 'https://www.danceeast.co.uk/performances/club-origami/'
 ---
 Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
