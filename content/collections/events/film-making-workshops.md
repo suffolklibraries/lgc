@@ -5,8 +5,8 @@ title: 'Film Making Workshops for Young People across Suffolk'
 start_date: '2022-02-19 10:00'
 free: true
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644838863
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1644917486
 event_categories:
   - film
   - teen-and-young-adult
@@ -59,37 +59,43 @@ content_area:
     content:
       -
         type: text
-        text: 'Fisher Theatre, Bungay - Feb 19th & 20th - 10am - 3pm ( 5 Hours)'
+        text: 'Fisher Theatre, Bungay - Feb 19th & 20th - 10am - 3pm (5 Hours)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Apex, Bury St Edmunds, - Feb 26th & 27th - 10am - 3pm ( 5 Hours)'
+        text: 'The Apex, Bury St Edmunds, - Feb 26th & 27th - 10am - 3pm (5 Hours)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Hartismere School, Eye, - 19th & 20th March - 10am - 3pm ( 5 Hours)'
+        text: 'Hartismere School, Eye, - 19th & 20th March - 10am - 3pm (5 Hours)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Samuel Ward Academy, Haverhill, - 5th & 6th March - 10am - 3pm ( 5 Hours)'
+        text: 'Samuel Ward Academy, Haverhill, - 5th & 6th March - 10am - 3pm (5 Hours)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'West Suffolk College Hub, Sudbury, 26th & 27th March - - 10am - 3pm ( 5 Hours)'
+        text: 'West Suffolk College Hub, Sudbury, 26th & 27th March - - 10am - 3pm (5 Hours)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Stowmarket High School, Stowmarket - March 12th & 13th - 10am - 3pm ( 5 Hours)'
+        text: 'Stowmarket High School, Stowmarket - March 12th & 13th - 10am - 3pm (5 Hours)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Chantry Library, Ipswich - 5th & 6th March - 10 - 3pm (5 Hours)'
   -
     type: heading
     attrs:
