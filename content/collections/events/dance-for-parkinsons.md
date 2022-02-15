@@ -19,7 +19,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: Dance-for-Parkinsons_Rachel-Cherry.jpg
+featured_image: danceeastimages/Dance-for-Parkinsons_Rachel-Cherry.jpg
 content_area:
   -
     type: heading
