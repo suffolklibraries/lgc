@@ -117,7 +117,7 @@ content_area:
       -
         type: image
         attrs:
-          src: 'asset::assets::nhrm_twilight1.jpg'
+          src: 'asset::assets::miscellaneous/nhrm_twilight1.jpg'
           alt: null
 cta: |-
   This event is run by the National Horse Racing Museum, for more information please get in touch by email or phone:
