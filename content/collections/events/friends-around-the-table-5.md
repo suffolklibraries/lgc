@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table - Forage And Experiment'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644927702
+updated_at: 1644927798
 start_date: '2022-03-09 10:30'
 end_date: '2022-03-09 12:30'
 event_categories:
@@ -43,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'At the workshops people will work with professional artists, where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
+        text: 'At the workshops, people will work with professional artists, where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
   -
     type: paragraph
     content:
