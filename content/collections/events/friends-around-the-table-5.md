@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table - Forage And Experiment'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644851998
+updated_at: 1644927702
 start_date: '2022-03-09 10:30'
 end_date: '2022-03-09 12:30'
 event_categories:
@@ -31,10 +31,7 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'In this weeks Friends Around the Table join John Tyler and experiment with foraged flavours.'
+        text: 'In this week''s Friends Around the Table join John Tyler and experiment with foraged flavours.'
   -
     type: paragraph
     content:
@@ -72,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table Forage And Experiment will be held at Woodbridge Community Centre, IP12 4AU.'
+        text: 'Friends Around the Table  will be held at Woodbridge Community Centre, IP12 4AU.'
   -
     type: paragraph
     content:
@@ -84,7 +81,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The closest bus stop is Deben pool which is a one to two minute walk from the venue.'
+        text: 'There are bus routes one to two minute walk from the venue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Woodbridge Community Centre is a two minute walk from Woodbridge train station.'
   -
     type: heading
     attrs:
