@@ -4,8 +4,8 @@ published: false
 blueprint: events
 title: 'Friends Around The Table - Nature walk and craft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644927931
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1644936906
 start_date: '2022-02-23 10:30'
 end_date: '2022-02-23 12:30'
 event_categories:
@@ -75,13 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is parking at the front and rear of the building with disabled parking spaces for those that require them.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The closest bus stop is Deben pool which is a one to two minute walk from the venue.'
+        text: 'There is parking at the front and rear of the building with disabled parking spaces for those that require them. There are also bus routes and stops close to the venue.'
   -
     type: heading
     attrs:
