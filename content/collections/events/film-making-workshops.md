@@ -13,7 +13,7 @@ event_categories:
   - primary-school-age
 organisers:
   - the-offshoot-foundation
-featured_image: Film.png
+featured_image: offthepressimages/Film.png
 accessibility_information: |-
   - Wheelchair access
   - Seated venue 
