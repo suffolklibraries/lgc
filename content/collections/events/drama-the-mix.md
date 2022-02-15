@@ -137,6 +137,6 @@ event_categories:
   - performance
   - teen-and-young-adult
 booking_link: '#'
-featured_image: Drama-at-the-Mix.jpg
+featured_image: miscellaneous/Drama-at-the-Mix.jpg
 ---
 Free after school weekly drama sessions for young people
