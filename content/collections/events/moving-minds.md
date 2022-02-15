@@ -10,7 +10,7 @@ updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1644830261
 organisers:
   - inside-out-community
-featured_image: Moving_Minds.jpg
+featured_image: miscellaneous/Moving_Minds.jpg
 attendance_information: Adults
 accessibility_information: '- Live-streamed or recorded option available'
 content_area:
