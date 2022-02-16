@@ -1,5 +1,6 @@
 ---
 id: a66100cb-5a21-40df-bf0a-c2ad1fdd4596
+published: false
 blueprint: events
 title: 'Felixstowe Book Festival (Duplicated)'
 featured_image: Harvest-House-conservatory-from-outside.JPG
@@ -86,7 +87,7 @@ content_area:
         type: text
         text: 'Full details of all authors and events are on the festival website www.felixstowebookfestival.co.uk and tickets are available from the New Wolsey Box Office (01473 295900)'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645024839
+updated_at: 1645024908
 cost_details: '£5 - £15'
 cta: |-
   This event is run by the Felixstowe Book Festival, for more information please get in contact via:
