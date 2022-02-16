@@ -1,6 +1,5 @@
 ---
 id: f82351a6-3fc3-4c74-8423-e424e8a71995
-published: false
 blueprint: events
 title: 'Group A - Lowestoft'
 latitude: '52.45682329843236'
@@ -8,7 +7,7 @@ longitude: '1.7355823675853659'
 start_date: '2022-02-24 10:00'
 end_date: '2022-02-24 15:00'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645008465
+updated_at: 1645008767
 free: true
 virtual: false
 organisers:
@@ -148,6 +147,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
   - Covid-19 preventative measures in place
+  - Autism friendly
 cta: |-
   This event is organised by Britten Pears Arts.
   Contact details below.
