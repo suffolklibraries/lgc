@@ -1,13 +1,14 @@
 ---
 id: f82351a6-3fc3-4c74-8423-e424e8a71995
+published: false
 blueprint: events
 title: 'Group A - Lowestoft'
 latitude: '52.45682329843236'
 longitude: '1.7355823675853659'
 start_date: '2022-02-24 10:00'
 end_date: '2022-02-24 15:00'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644840296
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1645008465
 free: true
 virtual: false
 organisers:
@@ -27,7 +28,13 @@ content_area:
     content:
       -
         type: text
-        text: 'A free vocal performance group providing 8—18 year-olds opportunities to work with a wide variety of professional musicians and explore a breadth of musical genres. The group typically meets every other Thursday in Ipswich. This session is part of a February half term project. '
+        text: 'Join us for an exciting half-term project as part of our vocal performance initiative, Group A. Collaborate with other young people in a session of song writing and singing .'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You’ll need to bring: Water, lunch and snacks Comfortable clothing Your voice!'
   -
     type: paragraph
     content:
@@ -133,8 +140,8 @@ content_area:
   -
     type: paragraph
 attendance_information: 'Ages 8 - 18'
-address_line_1: '19-75 Morton Rd'
-address_line_2: Pakefield
+address_line_1: 'The Seagull Theatre'
+address_line_2: '19-75 Morton Rd'
 town: Lowestoft
 postcode: 'NR33 0JH'
 accessibility_information: |-
