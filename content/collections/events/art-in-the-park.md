@@ -4,7 +4,7 @@ blueprint: events
 title: 'Art in the Park'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1640275831
+updated_at: 1645048295
 latitude: '52.06392285511714'
 longitude: '1.1567751119529726'
 start_date: '2022-02-21 10:00'
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Wrap up warm this February half term and head outdoors with Rock Paper Scissors. Meet outside Christchurch Mansion in Christchurch park and go a making journey. Using animal and nature themes, there will be fun for all the family.  There will be a short walk to draw and paint, collect nature finds and then come back to the front of the mansion to do some more creating!'
+        text: 'Wrap up warm this February half term and head outdoors with Rock Paper Scissors. Meet outside Christchurch Mansion in Christchurch park and go on a making journey. Using animal and nature themes, there will be fun for all the family.  There will be a short walk to draw and paint, collect nature finds and then come back to the front of the mansion to do some more creating!'
   -
     type: paragraph
     content:
