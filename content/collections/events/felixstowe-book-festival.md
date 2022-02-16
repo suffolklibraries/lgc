@@ -87,5 +87,14 @@ content_area:
         type: text
         text: 'Full details of all authors and events are on the festival website www.felixstowebookfestival.co.uk and tickets are available from the New Wolsey Box Office (01473 295900)'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645022175
+updated_at: 1645024839
+cost_details: '£5 - £15'
+cta: |-
+  This event is run by the Felixstowe Book Festival, for more information please get in contact via:
+
+  [meg@megreid.co.uk](mailto:meg@megreid.co.uk)
+
+  [01394 279783](tel:01394279783)
+
+  [www.felixstowebookfestival.co.uk](www.felixstowebookfestival.co.uk)
 ---
