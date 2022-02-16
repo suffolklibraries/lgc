@@ -2,12 +2,12 @@
 id: 364d8bd5-2b56-4b68-9aff-fcf66e469d8c
 blueprint: events
 title: 'Moving Minds'
-start_date: '2022-02-16 10:00'
-end_date: '2022-02-16 12:00'
+start_date: '2022-02-23 10:00'
+end_date: '2022-02-23 12:00'
 free: true
 virtual: true
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644830261
+updated_at: 1645002372
 organisers:
   - inside-out-community
 featured_image: miscellaneous/Moving_Minds.jpg
