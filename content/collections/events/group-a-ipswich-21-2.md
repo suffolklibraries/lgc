@@ -1,14 +1,13 @@
 ---
 id: 295e6fd4-de73-497b-915e-b3d9063ee50d
-published: false
 blueprint: events
 title: 'Group A - Ipswich'
-latitude: '52.05886231610009'
-longitude: '1.1479309984275614'
+latitude: '52.059939400319095'
+longitude: '1.1594049874577717'
 start_date: '2022-02-21 10:00'
 end_date: '2022-02-21 15:00'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645008912
+updated_at: 1645009423
 free: true
 virtual: false
 organisers:
@@ -28,7 +27,25 @@ content_area:
     content:
       -
         type: text
-        text: 'A free vocal performance group providing 8—18 year-olds opportunities to work with a wide variety of professional musicians and explore a breadth of musical genres. The group typically meets every other Thursday in Ipswich. This session is part of a February half term project. '
+        text: 'Please describe the event, activity or programme on offer .Join us for an exciting half-term project as part of our vocal performance initiative, Group A. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Collaborate with other young people for a day of song writing and singing. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You’ll need to bring: Water, lunch and snacks Comfortable clothing Your voice !'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Age range: 8-18'
   -
     type: paragraph
     content:
@@ -133,10 +150,10 @@ content_area:
   -
     type: paragraph
 attendance_information: 'Ages 8 - 18'
-address_line_1: 'The New Wolsey Theatre'
-address_line_2: 'Civic Drive'
+address_line_1: 'St Margaret''s Church Centre'
+address_line_2: 'Bolton Lane'
 town: Ipswich
-postcode: 'IP1 2AS'
+postcode: 'IP4 2BF'
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
