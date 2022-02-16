@@ -2,7 +2,7 @@
 id: 820b20cd-2517-42f8-a788-a69de1b2febb
 published: false
 blueprint: events
-title: 'Contemporary Art Gallery (Duplicated)'
+title: 'One Minute Volume Ten'
 event_categories:
   - family-friendly
   - primary-school-age
@@ -12,7 +12,7 @@ event_categories:
   - art
 organisers:
   - 303-projects-cic
-start_date: '2022-02-19 13:00'
+start_date: '2022-02-19 17:00'
 free: true
 virtual: false
 accessibility_information: |-
@@ -42,13 +42,19 @@ content_area:
     content:
       -
         type: text
-        text: 'The gallery aims to champion contemporary art in Lowestoft and engage and enrich the community through the promotion and delivery of a high quality contemporary art programme of diverse and inclusive exhibitions, screenings and talks by and with local, national and internationally recognised and renowned artists. '
+        text: "One Minute Volume Ten, a screening of film and video work of one minute in length by international artists, curated by artist and filmmaker\_Kerry Baldry. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The gallery invites collaboration, exchange and opportunities with local, national and international artists, arts organisations and institutions.'
+        text: 'One minute Volume Ten is screening daily, on loop, between 5pm-8pm. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "There is no access\_to the gallery at this time. The screening is to be viewed through the gallery window from the street."
   -
     type: paragraph
     content:
@@ -86,7 +92,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The venue is a fifteen minuet walk from Lowestoft station and is there is Lorne park road bus stop a short walk from the venue.'
+        text: 'The venue is a fifteen minute walk from Lowestoft station and is there is Lorne park road bus stop a short walk from the venue.'
   -
     type: heading
     attrs:
@@ -100,21 +106,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The gallery is open on Saturdays from 1pm to 5pm, or by appointment. To enter on Saturdays, there is no need to book ahead. Please see the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.303projects.com/about'
-              rel: null
-              target: _blank
-              title: null
-        text: website
-      -
-        type: text
-        text: ' or follow the gallery on Instagram @303_projects for up to date information on exhibitions and events. '
+        text: 'This event is free to attend and does not require booking.'
 cta: |-
   This event is run by 303 projects for more information pleases get in touch via:
 
@@ -124,9 +116,9 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644337263
+updated_at: 1645017788
 featured_image: miscellaneous/303-Projects-1.jpg
-end_date: '2022-02-19 17:00'
+end_date: '2022-02-19 20:00'
 attendance_information: 'Open to all'
 booking_link: '#'
 ---
