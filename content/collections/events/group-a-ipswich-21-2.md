@@ -8,7 +8,7 @@ longitude: '1.1594049874577717'
 start_date: '2022-02-21 10:00'
 end_date: '2022-02-21 15:00'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645009937
+updated_at: 1645011401
 free: true
 virtual: false
 organisers:
@@ -28,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please describe the event, activity or programme on offer .Join us for an exciting half-term project as part of our vocal performance initiative, Group A. '
+        text: 'Join us for an exciting half-term project as part of our vocal performance initiative, Group A. '
   -
     type: paragraph
     content:
@@ -40,13 +40,46 @@ content_area:
     content:
       -
         type: text
-        text: 'You’ll need to bring: Water, lunch and snacks Comfortable clothing Your voice !'
+        text: 'You’ll need to bring:'
   -
-    type: paragraph
+    type: bullet_list
     content:
       -
-        type: text
-        text: 'Age range: 8-18'
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: ' Water '
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: ' lunch and snacks '
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: ' Comfortable clothing Your voice !'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Age range: 8-18'
   -
     type: paragraph
     content:
@@ -94,18 +127,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Group A meets at The New Wolsey Theatre in Ipswich, unless otherwise stated, for details on how to get to The New Wolsey please visit '
+        text: 'Group A meets at St Margret''s Church, 22 Bolton Ln, Ipswich IP4 2BT.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.wolseytheatre.co.uk/your-visit/getting-here/'
-              rel: null
-              target: _blank
-              title: null
-        text: www.wolseytheatre.co.uk/your-visit/getting-here/.
+        text: 'The building has wheelchair access for those that accessibility needs.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are bus routes a small distance from the venue, just a one too two minute walk.'
   -
     type: heading
     attrs:
