@@ -6,8 +6,8 @@ latitude: '52.45682329843236'
 longitude: '1.7355823675853659'
 start_date: '2022-02-24 10:00'
 end_date: '2022-02-24 15:00'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645009776
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1645010075
 free: true
 virtual: false
 organisers:
@@ -27,13 +27,52 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for an exciting half-term project as part of our vocal performance initiative, Group A. Collaborate with other young people in a session of song writing and singing .'
+        text: 'Join Britten Pears Arts for an exciting half-term project as part of their vocal performance initiative, Group A. Collaborate with other young people in a session of song writing and singing.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You’ll need to bring: Water, lunch and snacks Comfortable clothing Your voice!'
+        text: 'As it''s a longer day than usual, you’ll need to bring: '
+  -
+    type: bullet_list
+    content:
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: Water
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Lunch and snacks '
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Comfortable clothing '
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Your voice!'
   -
     type: paragraph
     content:
