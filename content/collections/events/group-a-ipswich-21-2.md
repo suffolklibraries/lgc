@@ -1,14 +1,13 @@
 ---
 id: 295e6fd4-de73-497b-915e-b3d9063ee50d
-published: false
 blueprint: events
 title: 'Group A - Ipswich'
 latitude: '52.059939400319095'
 longitude: '1.1594049874577717'
 start_date: '2022-02-21 10:00'
 end_date: '2022-02-21 15:00'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645011401
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1645016534
 free: true
 virtual: false
 organisers:
@@ -28,13 +27,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for an exciting half-term project as part of our vocal performance initiative, Group A. '
+        text: 'Join Britten Pears Arts for an exciting half-term project as part of their vocal performance initiative, Group A. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Collaborate with other young people for a day of song writing and singing. '
+        text: 'If you''re aged between 8-18 years, then come along to collaborate with other young people for a day of song writing and singing. '
   -
     type: paragraph
     content:
@@ -61,7 +60,7 @@ content_area:
             content:
               -
                 type: text
-                text: ' lunch and snacks '
+                text: ' Lunch and snacks '
       -
         type: list_item
         content:
@@ -70,7 +69,7 @@ content_area:
             content:
               -
                 type: text
-                text: ' Comfortable clothing Your voice !'
+                text: ' Comfortable clothing '
       -
         type: list_item
         content:
@@ -79,7 +78,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Age range: 8-18'
+                text: 'Your voice!'
   -
     type: paragraph
     content:
