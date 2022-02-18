@@ -2,15 +2,15 @@
 id: cfb30d1f-6b62-49b2-b1c6-7a61ace608e6
 blueprint: events
 title: 'Twilight at the National Horse Racing Museum'
-start_date: '2022-02-18 16:00'
+start_date: '2022-02-25 16:00'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643296233
+updated_at: 1645189494
 organisers:
   - national-horse-racing-museum
 featured_image: miscellaneous/nhrm_twilight2.jpg
-end_date: '2022-02-18 18:00'
+end_date: '2022-02-25 18:00'
 cost_details: £3
 latitude: '52.24381308873231'
 longitude: '0.40742766749163495'
