@@ -1,7 +1,7 @@
 ---
 id: 09a9d0a7-f656-4bda-9b3c-dbd5a3f993ee
 blueprint: events
-title: 'East of England Event'
+title: 'Migration Network - East of England Event'
 organisers:
   - the-migration-museum
 start_date: '2022-03-22 11:00'
@@ -81,7 +81,7 @@ content_area:
               title: null
         text: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644236273
+updated_at: 1645189479
 event_categories:
   - museums
 featured_image: miscellaneous/Migration-Network-1644229641.png
