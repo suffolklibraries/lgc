@@ -1,10 +1,11 @@
 ---
 id: b8a1cc44-5c55-483c-95c4-506c601c1c7b
+published: false
 blueprint: events
 title: 'Club Origami (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643802852
+updated_at: 1645459466
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-02-18 10:30'
