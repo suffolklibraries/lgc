@@ -4,7 +4,7 @@ published: false
 blueprint: events
 title: 'Felixstowe Book Festival'
 featured_image: Harvest-House-conservatory-from-outside.JPG
-start_date: '2022-02-16 13:24'
+start_date: '2022-06-25 09:00'
 free: false
 virtual: false
 latitude: '51.96232523126101'
@@ -151,7 +151,7 @@ content_area:
         type: text
         text: )
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645459083
+updated_at: 1645459267
 cost_details: '£5 - £15'
 cta: |-
   This event is run by the Felixstowe Book Festival, for more information please get in contact via:
@@ -165,5 +165,11 @@ event_categories:
   - literature
   - performance
   - festival
+end_date: '2022-06-26 17:00'
+attendance_information: 'Booklovers & budding writers'
+accessibility_information: |-
+  - Seated venue
+  - Wheelchair access
+booking_link: www.felixstowebookfestival.co.uk
 ---
-Felixstowe Book Festival returns this year as authors
+Felixstowe Book Festival returns this year with live author events and a full programme of activity.
