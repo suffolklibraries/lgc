@@ -27,13 +27,25 @@ content_area:
     content:
       -
         type: text
-        text: 'A full programme of authors including: Saturday 25th June:'
+        text: 'From the 25th to the 26th June 2022. Join a programme of successful authors to talk all things literature. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: ' • Festival Patron Esther Freud talking to highly acclaimed writer Tessa Hadley• Actor and author Stephen McGann (who plays Dr Turner) “CALL THE MIDWIFE, A LABOUR OF LOVE” '
+        text: 'On Saturday 25th June the line up will include: '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '• Festival Patron Esther Freud talking to highly acclaimed writer Tessa Hadley'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '• Actor and author Stephen McGann (who plays Dr Turner) “CALL THE MIDWIFE, A LABOUR OF LOVE”'
   -
     type: paragraph
     content:
@@ -45,7 +57,37 @@ content_area:
     content:
       -
         type: text
-        text: '• Broadcaster Justin Webb, “ THE GIFT OF A RADIO – My childhood and Other Trainwrecks.” '
+        text: '• Broadcaster Justin Webb, “ THE GIFT OF A RADIO – My childhood and Other Trainwrecks.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'While on Sunday 26th June, the programme includes :'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '• Husband and wife thriller team Nicci Gerrard and Sean French, who write as Nicci Gerrard THE UNHEARD'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '• Nicola Upson DEAR LITTLE CORPSES'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '• Carol Drinkwater, author and actress'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'A full programme of activity will soon be available on the Felixstowe Book Festival website.'
   -
     type: heading
     attrs:
@@ -59,19 +101,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Felixstowe Book Festival takes place at Harvest House, Cobbold Road, IP11 7SP.'
+        text: 'Felixstowe Book Festival will be taking place across two locations this year. Sessions will either be at The Two Sisters Arts Centre in Trimley St Mary or in Harvest House on Cobbold Road. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is parking at the side of the building that can be accessed through the front drive way.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is wheelchair access for those that have accessibility needs.'
+        text: 'For Harvest House, there is parking at the side of the building that can be accessed through the front drive way. There is also wheelchair access for those that have accessibility needs.'
   -
     type: heading
     attrs:
@@ -85,9 +121,37 @@ content_area:
     content:
       -
         type: text
-        text: 'Full details of all authors and events are on the festival website www.felixstowebookfestival.co.uk and tickets are available from the New Wolsey Box Office (01473 295900)'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645024839
+        text: 'Full details of all authors and events are on the festival website '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://felixstowebookfestival.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: www.felixstowebookfestival.co.uk
+      -
+        type: text
+        text: ' and tickets are available from the New Wolsey Box Office ('
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473295900'
+              rel: null
+              target: _blank
+              title: null
+        text: '01473 295900'
+      -
+        type: text
+        text: )
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1645459083
 cost_details: '£5 - £15'
 cta: |-
   This event is run by the Felixstowe Book Festival, for more information please get in contact via:
@@ -97,4 +161,9 @@ cta: |-
   [01394 279783](tel:01394279783)
 
   [www.felixstowebookfestival.co.uk](www.felixstowebookfestival.co.uk)
+event_categories:
+  - literature
+  - performance
+  - festival
 ---
+Felixstowe Book Festival returns this year as authors
