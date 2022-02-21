@@ -151,14 +151,12 @@ content_area:
         type: text
         text: )
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645459267
+updated_at: 1645459385
 cost_details: '£5 - £15'
 cta: |-
   This event is run by the Felixstowe Book Festival, for more information please get in contact via:
 
-  [meg@megreid.co.uk](mailto:meg@megreid.co.uk)
-
-  [01394 279783](tel:01394279783)
+  [01473 295900](tel:01473295900)
 
   [www.felixstowebookfestival.co.uk](www.felixstowebookfestival.co.uk)
 event_categories:
