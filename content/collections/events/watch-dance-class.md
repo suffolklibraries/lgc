@@ -5,7 +5,7 @@ blueprint: events
 title: 'Mark Bruce Company - Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645461711
+updated_at: 1645461901
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-03-19 14:30'
@@ -171,4 +171,4 @@ accessibility_information: |-
 featured_image: Mark-Bruce-Company-GREEN-APPLES-image-by-Mark-Bruce-(2).jpg
 booking_link: 'https://www.danceeast.co.uk/workshops/mark-bruce-watch-dance-class/'
 ---
-Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
+Peek behind the scenes as the Mark Bruce Company prepare for their performance. Perfect for dance students, artists or anyone looking for an insight into the world of dance.
