@@ -1,11 +1,10 @@
 ---
 id: b8a1cc44-5c55-483c-95c4-506c601c1c7b
-published: false
 blueprint: events
 title: 'Mark Bruce Company - Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645461901
+updated_at: 1645461924
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-03-19 14:30'
