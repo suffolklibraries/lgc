@@ -5,18 +5,16 @@ blueprint: events
 title: 'Mark Bruce Company - Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645459638
+updated_at: 1645461711
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
-start_date: '2022-02-18 10:30'
-end_date: '2022-02-19 13:30'
+start_date: '2022-03-19 14:30'
+end_date: '2022-03-19 16:30'
 event_categories:
-  - family-friendly
-  - early-years
   - dance
-  - primary-school-age
   - performance
-free: false
+  - movement
+free: true
 virtual: false
 organisers:
   - dance-east
@@ -24,7 +22,7 @@ address_line_1: 'DanceEast, Jerwood DanceHouse'
 address_line_2: '1-3 Foundry Lane'
 town: Ipswich
 postcode: 'IP4 1DW'
-attendance_information: 'Indoor Venue'
+attendance_information: 'Teens and adults'
 content_area:
   -
     type: heading
@@ -39,19 +37,25 @@ content_area:
     content:
       -
         type: text
-        text: 'An immersive and interactive dance show inviting family audiences to create, imagine and explore whole new ways of thinking, playing and moving. '
+        text: 'Watch Dance Class is an open house company experience, perfect for dance students, artists, bloggers and anyone interested in peeking behind the scenes – you’ll be free to draw, paint or simply observe. Don’t miss this exclusive insight, as Mark Bruce Company prepare to perform in a professional company class.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Dance, fashion, and live music meet the magic of origami to sweep us up on a spirited and inspiring adventure in a land made purely of paper and play.'
+        text: 'This is a real treat for anyone coming along to ‘Phantoms’, the triple bill showing at the Jerwood DanceHouse on Friday 18 and Saturday 19 March 2022.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or if you would like to try a taster session you can call Dance East on '
+        text: '‘Watch Dance Class’ is free to attend, but booking is required.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please don’t hesitate to get in touch with your questions on '
       -
         type: text
         marks:
@@ -81,24 +85,6 @@ content_area:
         type: text
         text: .
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The show is on: '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: ' Friday 18th February 10.30am and 1.30pm'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: ' Saturday 19th February 10.30am and 1.30pm'
-  -
     type: heading
     attrs:
       level: 2
@@ -111,7 +97,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Club Origami will be shown at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
+        text: 'Mark Bruce Company - Watch Dance Class will be shown at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
   -
     type: paragraph
     content:
@@ -144,14 +130,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/performances/club-origami/'
+              href: 'https://www.danceeast.co.uk/workshops/mark-bruce-watch-dance-class/'
               rel: null
               target: _blank
               title: null
-        text: 'Dance East website'
+        text: 'Dance East website '
       -
         type: text
-        text: ' or by calling the Box Office on '
+        text: 'or by calling the Box Office on '
       -
         type: text
         marks:
@@ -170,11 +156,9 @@ content_area:
     content:
       -
         type: text
-        text: 'Photo Credit: Summer Dean'
+        text: 'Photo Credit: Mark Bruce '
 cta: |-
   This event is organised by Dance East. 
-
-  [Zoe.Ablitt@danceeast.co.uk](mailto:Zoe.Ablitt@danceeast.co.uk)
 
   [01473295245](tel:01473295245)
 
@@ -184,8 +168,7 @@ accessibility_information: |-
   - Wheelchair access
   - Social distancing in place 
   - Covid-19 preventative measures in place
-cost_details: '£7.00 Adult, £5.00 Child'
-featured_image: danceeastimages/CLUBORIGAMI_SEDANCE2021_SUMMERDEAN_SELECTS-26.jpg
-booking_link: 'https://www.danceeast.co.uk/performances/club-origami/'
+featured_image: Mark-Bruce-Company-GREEN-APPLES-image-by-Mark-Bruce-(2).jpg
+booking_link: 'https://www.danceeast.co.uk/workshops/mark-bruce-watch-dance-class/'
 ---
 Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
