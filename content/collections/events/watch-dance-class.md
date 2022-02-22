@@ -4,11 +4,11 @@ blueprint: events
 title: 'Mark Bruce Company - Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645461924
+updated_at: 1645521599
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2022-03-19 14:30'
-end_date: '2022-03-19 16:30'
+end_date: '2022-03-19 15:30'
 event_categories:
   - dance
   - performance
