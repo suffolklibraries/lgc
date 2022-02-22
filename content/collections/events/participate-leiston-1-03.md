@@ -1,13 +1,13 @@
 ---
 id: 8c9dcb9b-8f26-443c-bee8-30ca50766d95
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
+title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
 start_date: '2022-02-22 14:30'
 end_date: '2022-02-22 16:30'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644915722
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1645522427
 free: true
 virtual: false
 organisers:
