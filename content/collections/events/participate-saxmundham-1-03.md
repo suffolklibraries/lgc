@@ -5,9 +5,9 @@ title: 'Participate - Saxmundham'
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
 start_date: '2022-03-01 10:30'
-end_date: '2022-02-01 12:00'
+end_date: '2022-03-01 12:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645522340
+updated_at: 1645522356
 free: true
 virtual: false
 organisers:
