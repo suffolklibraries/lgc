@@ -89,8 +89,8 @@ content_area:
       -
         type: text
         text: 'The first session of the children''s choir is free to attend and, if your child enjoys the session, from then on is £5 per session.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644915482
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1645523047
 end_date: '2022-03-01 18:30'
 attendance_information: '5-11 years'
 latitude: '52.0617115716603'
