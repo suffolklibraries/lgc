@@ -1,11 +1,10 @@
 ---
 id: 562f22f1-c75e-45bc-ae7c-f6a37973cc1d
-published: false
 blueprint: events
 title: 'Friends Around The Table - Sound and Drawing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644936409
+updated_at: 1645612395
 start_date: '2022-03-16 10:30'
 end_date: '2022-03-16 12:30'
 event_categories:
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this week''s Friends Around the Table create drawing tools from foraged materials and explore the sound of drawing with Kasia Posen.'
+        text: 'In this week''s Friends Around the Table create drawing tools from foraged materials and explore the sound of drawing with artist Kasia Posen.'
   -
     type: paragraph
     content:
@@ -81,13 +80,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There are bus routes one to two minute walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Woodbridge Community Centre is a two minute walk from Woodbridge train station.'
+        text: 'Woodbridge Community Centre is a short walk from Woodbridge train station and there are bus routes nearby. '
   -
     type: heading
     attrs:
