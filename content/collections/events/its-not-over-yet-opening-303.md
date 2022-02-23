@@ -1,8 +1,7 @@
 ---
 id: 8601667e-cde7-4916-8f4f-bc272430698f
-published: false
 blueprint: events
-title: 'It''s Not Over Yet. An Exhibition by Duncan McAfee. (Duplicated)'
+title: 'It''s Not Over Yet. An Exhibition by Duncan McAfee.'
 event_categories:
   - family-friendly
   - primary-school-age
@@ -12,7 +11,7 @@ event_categories:
   - art
 organisers:
   - 303-projects-cic
-start_date: '2022-03-24 11:00'
+start_date: '2022-03-19 12:00'
 free: true
 virtual: false
 accessibility_information: |-
@@ -42,7 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: '303 Projects and The Art Gallery are very pleased to present “It’s Not Over Yet”, a double first solo exhibition of work by artist Duncan McAfee.'
+        text: 'Join Duncan McAfee at 303 Pojects on the afternoon of Saturday 19th March as they present their new first double solo exhibition. '
   -
     type: paragraph
     content:
@@ -176,10 +175,10 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645617743
+updated_at: 1645618140
 featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
-end_date: '2022-03-26 15:00'
+end_date: '2022-03-19 17:00'
 attendance_information: 'Open to all'
 booking_link: '#'
 ---
-“It’s Not Over Yet” is a double first solo exhibition of work by artist Duncan McAfee.
+Join artist Duncan McAffee as they present their work “It’s Not Over Yet”, a double first solo exhibition of work.
