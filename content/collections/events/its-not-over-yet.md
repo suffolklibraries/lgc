@@ -11,7 +11,7 @@ event_categories:
   - art
 organisers:
   - 303-projects-cic
-start_date: '2022-02-19 13:00'
+start_date: '2022-03-24 11:00'
 free: true
 virtual: false
 accessibility_information: |-
@@ -175,9 +175,9 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645617610
+updated_at: 1645617743
 featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
-end_date: '2022-02-19 17:00'
+end_date: '2022-03-26 15:00'
 attendance_information: 'Open to all'
 booking_link: '#'
 ---
