@@ -5,7 +5,7 @@ title: 'Henry Driver: Unseen & Unceasing'
 organisers:
   - the-art-station
 featured_image: miscellaneous/Henry_Driver_UU_insta1-1644341142.jpg
-start_date: '2022-02-18 19:00'
+start_date: '2022-03-04 19:00'
 free: true
 virtual: false
 content_area:
@@ -120,12 +120,12 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644402771
+updated_at: 1645616523
 event_categories:
   - art
   - exhibition
   - visual-arts
-end_date: '2022-02-18 21:00'
+end_date: '2022-03-04 21:00'
 latitude: '52.21614100732545'
 longitude: '1.4920889368887216'
 address_line_1: 'The Art Station'
@@ -142,4 +142,4 @@ accessibility_information: |-
   -Indoor, seated venue
   -Covid-19 preventative measures in place
 ---
-Join The Art Station to launch 'Unseen & Unceasing' - a new digital artwork from Suffolk-based artist Henry Driver.
+NEW DATE - Join The Art Station to launch 'Unseen & Unceasing' - a new digital artwork from Suffolk-based artist Henry Driver.
