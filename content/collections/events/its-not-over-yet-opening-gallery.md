@@ -85,13 +85,7 @@ content_area:
     content:
       -
         type: text
-        text: '"It''s Not Over Yet" will be shown at 303 Projects, in Kirkley, South Lowestoft and The Art Gallery in the Historic Old High Street to the North of the town'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find the exhibition at 303 Projects, 303 London Road South, Lowestoft, NR33 0DX. Located a stone throw ''in land'' from Claremont Pier and Lowestoft South Beach, and a 15 minute walk from Lowestoft train station, south, into Kirkley.'
+        text: 'The "It''s Not Over Yet" opening on Sunday 20th March can be found at The Art Gallery in the Historic Old High Street to the North of Lowestoft.'
   -
     type: heading
     attrs:
@@ -145,7 +139,7 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645618413
+updated_at: 1645618994
 featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
 end_date: '2022-03-20 15:00'
 attendance_information: 'Open to all'
