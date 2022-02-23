@@ -2,7 +2,7 @@
 id: 3248322e-3039-4407-af55-50b9b3fb01de
 published: false
 blueprint: events
-title: 'It''s Not Over Yet. An Exhibition by Duncan McAfee. (Duplicated) (2)'
+title: 'It''s Not Over Yet. An Exhibition by Duncan McAfee.'
 event_categories:
   - family-friendly
   - primary-school-age
@@ -12,7 +12,7 @@ event_categories:
   - art
 organisers:
   - 303-projects-cic
-start_date: '2022-03-24 11:00'
+start_date: '2022-03-20 12:00'
 free: true
 virtual: false
 accessibility_information: |-
@@ -22,12 +22,12 @@ accessibility_information: |-
   - Outdoor venue 
   - Social distancing in place 
   - Covid-19 preventative measures in place
-latitude: '52.465250253088584'
-longitude: '1.7422314674587998'
-address_line_1: '303 Projects'
-address_line_2: '303 London Road South'
+latitude: '52.48052033844243'
+longitude: '1.7561029426390278'
+address_line_1: 'The Art Gallery'
+address_line_2: '102 High Street'
 town: Lowestoft
-postcode: 'NR33 0DX'
+postcode: 'NR32 1XW'
 content_area:
   -
     type: heading
@@ -42,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: '303 Projects and The Art Gallery are very pleased to present “It’s Not Over Yet”, a double first solo exhibition of work by artist Duncan McAfee.'
+        text: 'Join Duncan McAfee at The Art Gallery in Lowestoft on the afternoon of Sunday 20th March as they present their new first double solo exhibition. '
   -
     type: paragraph
     content:
@@ -137,36 +137,6 @@ content_area:
     type: heading
     attrs:
       level: 2
-    content:
-      -
-        type: text
-        text: 'More about the venue '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '303 Projects aims to champion contemporary art in Lowestoft and engage and enrich the community through the promotion and delivery of a high quality contemporary art programme of diverse and inclusive exhibitions, screenings and talks by and with local, national and internationally recognised and renowned artists. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The gallery invites collaboration, exchange and opportunities with local, national and international artists, arts organisations and institutions.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '303 Projects is a CIC (Community Interest Company) and run for the particular benefit of the Lowestoft community, as well as encourage a broader visiting public to the area.'
-  -
-    type: paragraph
-    content:
-      -
-        type: image
-        attrs:
-          src: 'asset::assets::miscellaneous/303-Projects-1.jpg'
-          alt: '303 Projects Lowestoft'
 cta: |-
   This event is run by 303 projects for more information pleases get in touch via:
 
@@ -176,10 +146,10 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645617743
+updated_at: 1645618368
 featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
-end_date: '2022-03-26 15:00'
+end_date: '2022-03-20 15:00'
 attendance_information: 'Open to all'
 booking_link: '#'
 ---
-“It’s Not Over Yet” is a double first solo exhibition of work by artist Duncan McAfee.
+Join artist Duncan McAffee as they present their exhibition “It’s Not Over Yet” at The Art Gallery in Lowestoft.
