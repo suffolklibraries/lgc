@@ -1,7 +1,7 @@
 ---
 id: 8601667e-cde7-4916-8f4f-bc272430698f
 blueprint: events
-title: 'It''s Not Over Yet. An Exhibition by Duncan McAfee.'
+title: 'It''s Not Over Yet.  Exhibition opening by Duncan McAfee.'
 event_categories:
   - family-friendly
   - primary-school-age
@@ -175,7 +175,7 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645618140
+updated_at: 1645618435
 featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
 end_date: '2022-03-19 17:00'
 attendance_information: 'Open to all'
