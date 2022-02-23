@@ -1,7 +1,7 @@
 ---
 id: 5b00c3d1-bd08-44be-af78-7ba944c8676b
 blueprint: events
-title: 'It''s Not Over Yet'
+title: 'It''s Not Over Yet. An Exhibition by Duncan McAfee.'
 event_categories:
   - family-friendly
   - primary-school-age
@@ -145,7 +145,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The gallery aims to champion contemporary art in Lowestoft and engage and enrich the community through the promotion and delivery of a high quality contemporary art programme of diverse and inclusive exhibitions, screenings and talks by and with local, national and internationally recognised and renowned artists. '
+        text: '303 Projects aims to champion contemporary art in Lowestoft and engage and enrich the community through the promotion and delivery of a high quality contemporary art programme of diverse and inclusive exhibitions, screenings and talks by and with local, national and internationally recognised and renowned artists. '
   -
     type: paragraph
     content:
@@ -175,7 +175,7 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645617530
+updated_at: 1645617610
 featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
 end_date: '2022-02-19 17:00'
 attendance_information: 'Open to all'
