@@ -11,7 +11,7 @@ event_categories:
   - art
 organisers:
   - 303-projects-cic
-start_date: '2022-03-24 11:00'
+start_date: '2022-03-19 11:00'
 free: true
 virtual: false
 accessibility_information: |-
@@ -105,13 +105,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Open Thursdays - Saturdays 11am-3pm 102 High Street, Lowestoft, NR32 1XW '
+        text: 'At 303 Projects, the exhibition is up from 19th March to April 16th, Saturdays only, 12-5pm (or by appointment).'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The artist will be present at both private views on 19th and 20th March.'
+        text: 'At The Art Gallery, the exhibition is up from 24th March to 5th April (Thursdays to Saturdays, 11am-3pm).'
   -
     type: paragraph
     content:
@@ -175,9 +175,9 @@ cta: |-
 
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645617743
+updated_at: 1645622649
 featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
-end_date: '2022-03-26 15:00'
+end_date: '2022-04-16 15:00'
 attendance_information: 'Open to all'
 booking_link: '#'
 ---
