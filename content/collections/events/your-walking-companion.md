@@ -9,11 +9,7 @@ event_categories:
 start_date: '2022-02-23 12:00'
 free: true
 virtual: false
-accessibility_information: |-
-  - Wheelchair access
-  - Seated venue 
-  - Social distancing in place
-  - Outside
+accessibility_information: '- Outside'
 content_area:
   -
     type: heading
@@ -91,7 +87,7 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645615343
+updated_at: 1645615383
 end_date: '2023-02-23 12:00'
 featured_image: Walking_Companion_Copy-of-IMG_0294.JPEG
 attendance_information: Everyone
