@@ -1,6 +1,5 @@
 ---
 id: b46e403a-705f-4550-a992-238fd61588ee
-published: false
 blueprint: events
 title: 'Your Walking Companion'
 event_categories:
@@ -87,7 +86,7 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645615383
+updated_at: 1645615580
 end_date: '2023-02-23 12:00'
 featured_image: Walking_Companion_Copy-of-IMG_0294.JPEG
 attendance_information: Everyone
