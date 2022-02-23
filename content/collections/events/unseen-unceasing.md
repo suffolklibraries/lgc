@@ -119,7 +119,7 @@ content_area:
   -
     type: paragraph
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645616633
+updated_at: 1645616652
 event_categories:
   - art
   - exhibition
