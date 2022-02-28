@@ -33,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Today is International Women''s Day, when his-story becomes her-story, celebrate with the inspirational tales of local women overcoming the odds to become pilots, war workers, suffragettes, archaeologists or famous writers. archaeologists or famous writers.'
+        text: 'This walk tells the tales of women who went on to become pilots, war workers, suffragettes, archaeologists or famous writers. archaeologists or famous writers.'
       -
         type: hard_break
       -
@@ -120,8 +120,11 @@ content_area:
         type: text
         text: .
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/afternoon-tea-walk-remarkable-women-of-ipswich/2022-03-08/14:00/t-ogdxom'
-cta: 'This event is organised by ... for more information please get in contact via:'
+cta: |-
+  This event is organised by Ipswich Tour Guides Association for more information please get in contact via:
+
+  [http://www.ipswichtourguides.org.uk/](http://www.ipswichtourguides.org.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646056219
+updated_at: 1646057257
 ---
 Today is International Women's Day, when his-story becomes her-story, celebrate with the inspirational tales of local women overcoming the odds.
