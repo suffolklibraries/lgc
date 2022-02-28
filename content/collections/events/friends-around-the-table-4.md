@@ -1,11 +1,10 @@
 ---
 id: 962f2773-f03b-4c82-b283-3caf4b716cd8
-published: false
 blueprint: events
 title: 'Friends Around The Table - Colour from your cupboard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1644936754
+updated_at: 1646047832
 start_date: '2022-03-02 10:30'
 end_date: '2022-03-02 12:30'
 event_categories:
@@ -14,7 +13,7 @@ event_categories:
   - food
 free: true
 virtual: false
-featured_image: suffolkartlinkimages/around-the-table.jpg
+featured_image: Copy-of-AL_F-56---Copy-1646047824.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
