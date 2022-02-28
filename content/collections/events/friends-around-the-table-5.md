@@ -1,11 +1,10 @@
 ---
 id: 9fad43fd-c999-4741-8a05-1bf183f874af
-published: false
 blueprint: events
-title: 'Friends Around The Table - Forage And Experiment'
+title: 'Friends Around The Table - Forage & Experiment'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644927798
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646047796
 start_date: '2022-03-09 10:30'
 end_date: '2022-03-09 12:30'
 event_categories:
@@ -13,7 +12,7 @@ event_categories:
   - nature
 free: true
 virtual: false
-featured_image: suffolkartlinkimages/around-the-table.jpg
+featured_image: Copy-of-AL_F-56---Copy-1646047793.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
