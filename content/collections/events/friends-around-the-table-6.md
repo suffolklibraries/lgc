@@ -1,10 +1,10 @@
 ---
 id: a0d9507c-eb54-4f6f-a0a7-a089a9abf434
 blueprint: events
-title: 'Friends Around The Table - Gather, make and eat'
+title: 'Friends Around The Table - Gather, Make & Eat'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646047714
+updated_at: 1646047922
 start_date: '2022-03-23 10:30'
 end_date: '2022-03-23 12:30'
 event_categories:
