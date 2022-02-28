@@ -2,7 +2,7 @@
 id: bd6ca91f-f435-456c-b9e6-a43cda508558
 published: false
 blueprint: events
-title: 'Afternoon Tea Walk Remarkable Women of Ipswich'
+title: 'Afternoon Tea Walk: Remarkable Women of Ipswich'
 featured_image: Afternoon-Tea-Walk-Remarkable-Women-of-Ipswich.webp
 start_date: '2022-03-08 14:00'
 end_date: '2022-03-08 15:30'
@@ -11,8 +11,8 @@ cost_details: £10
 virtual: false
 attendance_information: 12+
 accessibility_information: |-
-  - Wheelchair Access
-  - Assistance dogs are welcome
+  - Wheelchair access
+  - Assistance dogs welcome
 latitude: '52.05294195739878'
 longitude: '1.1635607557180385'
 address_line_1: 'The Hold'
@@ -33,6 +33,12 @@ content_area:
     content:
       -
         type: text
+        text: 'For International Women''s Day, when his-story becomes her-story, celebrate with the inspirational tales of local women overcoming the odds.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'This walk tells the tales of women who went on to become pilots, war workers, suffragettes, archaeologists or famous writers. archaeologists or famous writers.'
       -
         type: hard_break
@@ -47,18 +53,7 @@ content_area:
         type: hard_break
       -
         type: text
-        text: '12+ event'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'This walk will be delivered by the Ipswich Tourist Guide Association.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Up to 5 complementary tickets per walk are available at the discretion of ITGA.'
+        text: 'This walk will be delivered by the Ipswich Tourist Guide Association. Up to 5 complementary tickets per walk are available at the discretion of ITGA.'
   -
     type: heading
     attrs:
@@ -78,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is carparking a short walk from the venue next to the student halls.'
+        text: 'There is a car park a short walk from the venue next to the student halls.'
   -
     type: paragraph
     content:
@@ -90,7 +85,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The closest bus stop is one to two minute walk from the venue outside of the travel lodge.'
+        text: 'The closest bus stop is a short walk from the venue outside of the Travel Lodge.'
   -
     type: heading
     attrs:
@@ -124,7 +119,10 @@ cta: |-
   This event is organised by Ipswich Tour Guides Association for more information please get in contact via:
 
   [http://www.ipswichtourguides.org.uk/](http://www.ipswichtourguides.org.uk/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646057257
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646065524
+event_categories:
+  - literature
+  - museums
 ---
-Today is International Women's Day, when his-story becomes her-story, celebrate with the inspirational tales of local women overcoming the odds.
+For International Women's Day, celebrate with inspirational tales of local women overcoming the odds.
