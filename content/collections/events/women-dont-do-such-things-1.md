@@ -1,10 +1,11 @@
 ---
 id: 4523544a-9643-4ac3-b11a-04b568f823d7
+published: false
 blueprint: events
 title: 'Women Don''t Do Such Things! (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643284360
+updated_at: 1646051088
 latitude: '52.05311582765442'
 longitude: '1.1635049206228716'
 start_date: '2022-02-04 09:00'
