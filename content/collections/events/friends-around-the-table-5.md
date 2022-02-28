@@ -12,7 +12,7 @@ event_categories:
   - nature
 free: true
 virtual: false
-featured_image: Copy-of-AL_F-56---Copy-1646047793.jpg
+featured_image: suffolkartlinkimages/Copy-of-AL_F-56---Copy-1646047793.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
