@@ -1,10 +1,10 @@
 ---
 id: 562f22f1-c75e-45bc-ae7c-f6a37973cc1d
 blueprint: events
-title: 'Friends Around The Table - Sound and Drawing'
+title: 'Friends Around The Table - Sound & Drawing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645612395
+updated_at: 1646047902
 start_date: '2022-03-16 10:30'
 end_date: '2022-03-16 12:30'
 event_categories:
@@ -12,7 +12,7 @@ event_categories:
   - nature
 free: true
 virtual: false
-featured_image: suffolkartlinkimages/around-the-table.jpg
+featured_image: Copy-of-AL_F-56---Copy-1646047898.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
