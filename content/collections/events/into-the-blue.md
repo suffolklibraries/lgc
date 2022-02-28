@@ -2,14 +2,14 @@
 id: 040c4f24-8616-4150-b6ee-13f3a9465d15
 published: false
 blueprint: events
-title: 'Into The Blue, How & Why Water Can Help You Feel Better'
+title: 'Into The Blue: How & Why Water Can Help You Feel Better'
 start_date: '2022-03-15 19:00'
 free: true
 virtual: true
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646059498
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646065297
 organisers:
-  - channel-festival
+  - pier-projects-art-agency
 featured_image: Into-The-Blue.jfif
 end_date: '2022-03-15 20:00'
 content_area:
@@ -26,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Jon Dr Catherine Kelly, author of ''Blue Spaces: How and Why Water Can Help You Feel Better'' who will kick off the event by sharing some of the thinking and experiences of the positive mental and physical benefits of water outlined in her recent book.'
+        text: 'Join Dr Catherine Kelly, author of ''Blue Spaces: How and Why Water Can Help You Feel Better'' who will kick off the event by sharing some of the thinking and experiences of the positive mental and physical benefits of water outlined in her recent book.'
   -
     type: paragraph
     content:
@@ -52,7 +52,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is being held online via Zoom,'
+        text: 'This event is being held online via Zoom, sign up via Eventbrite below to receive further details. '
   -
     type: heading
     attrs:
@@ -86,5 +86,9 @@ cta: |-
   Thsi event is run by Channel Festival for more information please visit:
 
   [https://www.eventbrite.co.uk/e/into-the-blue-how-why-water-can-help-you-feel-better-tickets-262412802757?aff=ebdsoporgprofile](https://www.eventbrite.co.uk/e/into-the-blue-how-why-water-can-help-you-feel-better-tickets-262412802757?aff=ebdsoporgprofile)
+event_categories:
+  - art
+  - nature
+accessibility_information: '- Virtual event'
 ---
-To open Channel Festival, join us for a discussion exploring the power of sea swimming on our physical and mental health.
+To open the Channel Festival, join a discussion exploring the power of sea swimming on physical and mental health.
