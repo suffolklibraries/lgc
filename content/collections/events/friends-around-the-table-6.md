@@ -1,11 +1,10 @@
 ---
 id: a0d9507c-eb54-4f6f-a0a7-a089a9abf434
-published: false
 blueprint: events
-title: 'Friends Around The Table - Gather, Make and eat'
+title: 'Friends Around The Table - Gather, make and eat'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644927761
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646047714
 start_date: '2022-03-23 10:30'
 end_date: '2022-03-23 12:30'
 event_categories:
@@ -14,7 +13,7 @@ event_categories:
   - food
 free: true
 virtual: false
-featured_image: suffolkartlinkimages/around-the-table.jpg
+featured_image: Copy-of-AL_F-56---Copy.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this week''s Friends Around the Table wander Woodbridge to forage, discover and eat.'
+        text: 'In this week''s Friends Around the Table wander around Woodbridge to forage, discover and eat.'
   -
     type: paragraph
     content:
