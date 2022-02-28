@@ -63,30 +63,6 @@ content_area:
     content:
       -
         type: text
-        text: 'While on Sunday 26th June, the programme includes :'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '• Husband and wife thriller team Nicci Gerrard and Sean French, who write as Nicci Gerrard THE UNHEARD'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '• Nicola Upson DEAR LITTLE CORPSES'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: '• Carol Drinkwater, author and actress'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'A full programme of activity will soon be available on the Felixstowe Book Festival website.'
   -
     type: heading
@@ -150,13 +126,15 @@ content_area:
       -
         type: text
         text: )
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645459385
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1646046985
 cost_details: '£5 - £15'
 cta: |-
   This event is run by the Felixstowe Book Festival, for more information please get in contact via:
 
-  [01473 295900](tel:01473295900)
+  [meg@megreid.co.uk](mailto:meg@megreid.co.uk)
+
+  [01394 279783](tel:01394279783)
 
   [www.felixstowebookfestival.co.uk](www.felixstowebookfestival.co.uk)
 event_categories:
