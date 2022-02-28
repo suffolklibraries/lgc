@@ -4,15 +4,15 @@ published: false
 blueprint: events
 title: 'Felixstowe Book Festival (Duplicated)'
 featured_image: Harvest-House-conservatory-from-outside.JPG
-start_date: '2022-02-16 13:24'
+start_date: '2022-06-26 09:00'
 free: false
 virtual: false
-latitude: '51.96232523126101'
-longitude: '1.3576523324957797'
-address_line_1: 'Harvest House'
-address_line_2: 'Cobbold Road'
-town: Felixstowe
-postcode: 'IP11 7SP'
+latitude: '51.984739449897916'
+longitude: '1.314318165284692'
+address_line_1: 'Two Sisters Arts Centre'
+address_line_2: '200 High Rd W'
+town: 'Trimley St Mary'
+postcode: 'IP11 0SP'
 content_area:
   -
     type: heading
@@ -27,25 +27,31 @@ content_area:
     content:
       -
         type: text
-        text: 'A full programme of authors including: Saturday 25th June:'
+        text: 'Sunday 26th June, the programme includes :'
   -
     type: paragraph
     content:
       -
         type: text
-        text: ' • Festival Patron Esther Freud talking to highly acclaimed writer Tessa Hadley• Actor and author Stephen McGann (who plays Dr Turner) “CALL THE MIDWIFE, A LABOUR OF LOVE” '
+        text: '• Husband and wife thriller team Nicci Gerrard and Sean French, who write as Nicci Gerrard THE UNHEARD'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '• Patrick Gale ‘MOTHER’S BOY’'
+        text: '• Nicola Upson DEAR LITTLE CORPSES'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '• Broadcaster Justin Webb, “ THE GIFT OF A RADIO – My childhood and Other Trainwrecks.” '
+        text: '• Carol Drinkwater, author and actress'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'A full programme of activity will soon be available on the Felixstowe Book Festival website.'
   -
     type: heading
     attrs:
@@ -87,7 +93,7 @@ content_area:
         type: text
         text: 'Full details of all authors and events are on the festival website www.felixstowebookfestival.co.uk and tickets are available from the New Wolsey Box Office (01473 295900)'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645024908
+updated_at: 1646053428
 cost_details: '£5 - £15'
 cta: |-
   This event is run by the Felixstowe Book Festival, for more information please get in contact via:
@@ -97,4 +103,14 @@ cta: |-
   [01394 279783](tel:01394279783)
 
   [www.felixstowebookfestival.co.uk](www.felixstowebookfestival.co.uk)
+event_categories:
+  - literature
+organisers:
+  - felixstowe-book-festival
+end_date: '2022-06-26 17:00'
+attendance_information: 'Booklovers & budding writers'
+accessibility_information: |-
+  - Seated venue
+  - Wheelchair access
+booking_link: www.felixstowebookfestival.co.uk
 ---
