@@ -1,6 +1,5 @@
 ---
 id: bd6ca91f-f435-456c-b9e6-a43cda508558
-published: false
 blueprint: events
 title: 'Afternoon Tea Walk: Remarkable Women of Ipswich'
 featured_image: Afternoon-Tea-Walk-Remarkable-Women-of-Ipswich.webp
@@ -10,9 +9,7 @@ free: false
 cost_details: £10
 virtual: false
 attendance_information: 12+
-accessibility_information: |-
-  - Wheelchair access
-  - Assistance dogs welcome
+accessibility_information: '- Assistance dogs welcome'
 latitude: '52.05294195739878'
 longitude: '1.1635607557180385'
 address_line_1: 'The Hold'
@@ -73,19 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a car park a short walk from the venue next to the student halls.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The venue has wheel chair access for those that accessibility needs.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The closest bus stop is a short walk from the venue outside of the Travelodge.'
+        text: 'For those travelling by car, there is a car park a short walk from the venue next to the student halls.'
   -
     type: heading
     attrs:
@@ -120,7 +105,7 @@ cta: |-
 
   [http://www.ipswichtourguides.org.uk/](http://www.ipswichtourguides.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646152973
+updated_at: 1646153067
 event_categories:
   - literature
   - museums
