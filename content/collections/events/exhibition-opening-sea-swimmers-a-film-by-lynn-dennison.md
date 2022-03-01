@@ -4,10 +4,10 @@ published: false
 blueprint: events
 title: 'Exhibition Opening: Sea Swimmers, a film by Lynn Dennison'
 start_date: '2022-03-18 18:30'
-free: false
+free: true
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646153819
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1646153842
 event_categories:
   - film
 organisers:
@@ -89,8 +89,8 @@ content_area:
         text: .
 booking_link: 'https://www.eventbrite.co.uk/e/exhibition-opening-sea-swimmers-a-film-by-lynn-dennison-tickets-262415972237?aff=ebdsoporgprofile'
 cta: |-
-  This event is run by Pier Projects Art Agenecy for more information please get in touch via:
+  Thsi event is run by Pier Projects Art Agenecy for more information please get in touch via:
 
-  [www.pierprojects.org/events](https://www.pierprojects.org/events)
+  [https://www.pierprojects.org/](https://www.pierprojects.org/)
 ---
 Join us at Hamilton MAS for the opening of Lynn Dennison's film 'Sea Swimmers' with an artist introduction and refreshments.
