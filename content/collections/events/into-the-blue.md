@@ -7,7 +7,7 @@ start_date: '2022-03-15 19:00'
 free: true
 virtual: true
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646153675
+updated_at: 1646153697
 organisers:
   - pier-projects-art-agency
 featured_image: Into-The-Blue.jfif
@@ -83,7 +83,7 @@ content_area:
         text: .
 booking_link: 'https://www.eventbrite.co.uk/e/into-the-blue-how-why-water-can-help-you-feel-better-tickets-262412802757?aff=ebdsoporgprofile'
 cta: |-
-  Thsi event is run by Channel Festival for more information please visit:
+  This event is part of the Channel Festival for more information please visit:
 
   [www.pierprojects.org/events](https://www.pierprojects.org/events)
 event_categories:
