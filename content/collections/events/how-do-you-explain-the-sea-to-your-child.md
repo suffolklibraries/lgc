@@ -81,7 +81,19 @@ content_area:
     content:
       -
         type: text
-        text: 'This event meets at Beach Hut 14, Promenade, close to the Spa Pavilion, Felixstowe'
+        text: 'This event meets at Beach Hut 14, Promenade, close to the Spa Pavilion, Felixstowe.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are bus routes one to two minute walk from the venue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is also car parking that is also a short walk from the venue.'
   -
     type: heading
     attrs:
@@ -112,9 +124,9 @@ content_area:
         text: .
 booking_link: 'https://www.eventbrite.co.uk/e/how-do-you-explain-the-sea-to-your-child-part-2-tickets-263720323587?aff=ebdsoporgprofile'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646140807
+updated_at: 1646141230
 end_date: '2022-03-19 15:30'
-latitude: '51.96098391274863,'
+latitude: '51.96098391274863'
 longitude: '1.3545811387327684'
 address_line_1: 'Beach Hut 14 (Mad Hutters)'
 address_line_2: 'Undercliff Road West'
