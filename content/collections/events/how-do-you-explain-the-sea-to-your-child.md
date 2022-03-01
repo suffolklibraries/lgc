@@ -112,7 +112,7 @@ content_area:
         text: .
 booking_link: 'https://www.eventbrite.co.uk/e/how-do-you-explain-the-sea-to-your-child-part-2-tickets-263720323587?aff=ebdsoporgprofile'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646140586
+updated_at: 1646140807
 end_date: '2022-03-19 15:30'
 latitude: '51.96098391274863,'
 longitude: '1.3545811387327684'
