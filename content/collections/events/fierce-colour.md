@@ -1,11 +1,10 @@
 ---
 id: 4523544a-9643-4ac3-b11a-04b568f823d7
-published: false
 blueprint: events
 title: 'Fierce Colour Art Exhibition'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646051931
+updated_at: 1646151698
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-12 19:30'
@@ -69,27 +68,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Admission is FREE, you can '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-archives/women-dont-do-such-things-exhibition/e-ezryzv'
-              rel: null
-              target: _blank
-              title: null
-        text: 'book in advance online'
-      -
-        type: text
-        text: ' or tickets are available at the door.  '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find out more information by visiting '
+        text: 'Admission is FREE, doors open from 7:30pm onwards. '
 cta: 'This event is organised by After Hours Collective x LED Creatives'
 accessibility_information: '- Indoor venue'
 end_date: '2022-03-12 22:00'
@@ -97,7 +76,9 @@ event_categories:
   - art
   - exhibition
   - visual-arts
-featured_image: fierce_colour.jpg
+featured_image: fierce_colour_crop1.jpg
 attendance_information: 18+
+organisers:
+  - after-hours-collective-x-led-creatives
 ---
 Pop up art exhibition celebrating female artists at Ronin Body Arts, Ipswich.
