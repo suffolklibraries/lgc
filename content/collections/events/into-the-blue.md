@@ -1,13 +1,12 @@
 ---
 id: 040c4f24-8616-4150-b6ee-13f3a9465d15
-published: false
 blueprint: events
 title: 'Into The Blue: How & Why Water Can Help You Feel Better'
 start_date: '2022-03-15 19:00'
 free: true
 virtual: true
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646153697
+updated_at: 1646153707
 organisers:
   - pier-projects-art-agency
 featured_image: Into-The-Blue.jfif
