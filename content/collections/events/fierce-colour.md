@@ -4,7 +4,7 @@ blueprint: events
 title: 'Fierce Colour Art Exhibition'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646151698
+updated_at: 1646151769
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-12 19:30'
@@ -41,6 +41,16 @@ content_area:
       -
         type: text
         text: 'This event will be part of the Ipswich Welcome Back weekend and supported by Ipswich Borough Council and the ERDF.'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: image
+        attrs:
+          src: 'asset::assets::fierce_colour.jpg'
+          alt: 'poster with artists names on'
   -
     type: heading
     attrs:
