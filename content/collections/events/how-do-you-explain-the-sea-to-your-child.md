@@ -81,7 +81,7 @@ content_area:
     content:
       -
         type: text
-        text: ' Beach Hut 14, Promenade, close to the Spa Pavilion, Felixstowe'
+        text: 'This event meets at Beach Hut 14, Promenade, close to the Spa Pavilion, Felixstowe'
   -
     type: heading
     attrs:
@@ -112,10 +112,10 @@ content_area:
         text: .
 booking_link: 'https://www.eventbrite.co.uk/e/how-do-you-explain-the-sea-to-your-child-part-2-tickets-263720323587?aff=ebdsoporgprofile'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646140168
+updated_at: 1646140586
 end_date: '2022-03-19 15:30'
-latitude: '51.96212953915554'
-longitude: '1.360234925935841'
+latitude: '51.96098391274863,'
+longitude: '1.3545811387327684'
 address_line_1: 'Beach Hut 14 (Mad Hutters)'
 address_line_2: 'Undercliff Road West'
 town: Felixstowe
@@ -124,5 +124,6 @@ cta: |-
   This event is run by Pier Projects Art Agency for more information please get in touch via:
 
   [https://www.channelfestival.co.uk/](https://www.channelfestival.co.uk/)
+accessibility_information: '- Covid protections in place'
 ---
 This event offers drawing, painting and collages to explore the sea. Free, creative art workshop for children.
