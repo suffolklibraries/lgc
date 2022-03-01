@@ -105,7 +105,7 @@ cta: |-
 
   [http://www.ipswichtourguides.org.uk/](http://www.ipswichtourguides.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646153067
+updated_at: 1646157832
 event_categories:
   - literature
   - museums
