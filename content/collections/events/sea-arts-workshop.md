@@ -27,13 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'How do sea animals swim? How do octopuses move their legs in the water? How can we create the colour of the sea?'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'On Saturday 19 March, come along to Mad Hutters beach hut in Felixstowe between 2pm and 3.30pm for a free creative workshop for children. Bring your own picnic mat and comfy clothes you don''t mind getting paint on!'
+        text: 'On Saturday 19 March, come along to Beach Hut 14 in Felixstowe between 2pm and 3.30pm for a free creative workshop for children. Bring your own picnic mat and comfy clothes you don''t mind getting paint on!'
   -
     type: paragraph
     content:
@@ -108,7 +102,7 @@ content_area:
         text: .
 booking_link: 'https://www.eventbrite.co.uk/e/how-do-you-explain-the-sea-to-your-child-part-2-tickets-263720323587?aff=ebdsoporgprofile'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646153508
+updated_at: 1646153557
 end_date: '2022-03-19 15:30'
 latitude: '51.96098391274863'
 longitude: '1.3545811387327684'
