@@ -7,7 +7,7 @@ start_date: '2022-03-15 19:00'
 free: true
 virtual: true
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646125485
+updated_at: 1646131438
 organisers:
   - pier-projects-art-agency
 featured_image: Into-The-Blue.jfif
