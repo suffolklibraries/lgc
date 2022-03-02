@@ -164,7 +164,7 @@ content_area:
       -
         type: image
         attrs:
-          src: 'asset::assets::miscellaneous/303-Projects-1.jpg'
+          src: 'asset::assets::miscellaneous/303projects/303-Projects-1.jpg'
           alt: '303 Projects Lowestoft'
 cta: |-
   This event is run by 303 projects for more information pleases get in touch via:
