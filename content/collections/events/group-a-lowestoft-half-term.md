@@ -1,5 +1,6 @@
 ---
 id: 86b2b135-997e-48de-9266-02dae7a0e18f
+published: false
 blueprint: events
 title: 'Group A - Lowestoft'
 latitude: '52.45682329843236'
@@ -7,7 +8,7 @@ longitude: '1.7355823675853659'
 start_date: '2022-03-10 10:00'
 end_date: '2022-03-10 15:00'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646240875
+updated_at: 1646240954
 free: true
 virtual: false
 organisers:
