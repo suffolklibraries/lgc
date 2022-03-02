@@ -6,8 +6,8 @@ latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
 start_date: '2022-03-08 14:30'
 end_date: '2022-03-08 16:30'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646125858
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646241433
 free: true
 virtual: false
 organisers:
