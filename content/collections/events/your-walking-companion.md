@@ -88,7 +88,7 @@ content_area:
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1645615580
 end_date: '2023-02-23 12:00'
-featured_image: Walking_Companion_Copy-of-IMG_0294.JPEG
+featured_image: miscellaneous/Walking_Companion_Copy-of-IMG_0294.JPEG
 attendance_information: Everyone
 latitude: '52.436193136319524'
 longitude: '0.6252482138125475'
