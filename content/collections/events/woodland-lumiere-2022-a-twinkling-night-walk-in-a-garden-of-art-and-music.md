@@ -1,8 +1,7 @@
 ---
 id: 3792846b-6a58-4ff0-a9ce-41ebad052a73
-published: false
 blueprint: events
-title: 'Woodland Lumiere 2022 A twinkling night walk in a garden of art & music'
+title: 'Woodland Lumiere 2022: A twinkling night walk in a garden of art & music'
 organisers:
   - creative-odyssey-projects
 start_date: '2022-03-02 18:00'
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Open Friday 25th Feb - Saturday 26th March. Evenings 6-9pm Wed - Sun, site closes at 10pm.'
+        text: 'Between 25th February and Saturday 26th March, Raveningham gardens will be open for their lumiere night walk. Book a slot on Wednesday to Sunday evenings, between 6pm and 9pm. '
   -
     type: paragraph
     content:
@@ -77,7 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The venue has on site carparking.'
+        text: 'Find Raveningham Centre on on what3words : means.connected.cared. The venue has on site car parking.'
   -
     type: heading
     attrs:
@@ -100,18 +99,22 @@ content_area:
             attrs:
               href: 'https://www.eventbrite.co.uk/e/woodland-lumiere-2022-a-twinkling-night-walk-in-a-garden-of-art-music-tickets-259730840937?aff=ebdsoporgprofile'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'Woodland Lumiere 2022 - A twinkling night walk in a garden of art & music. Tickets, Multiple Dates | Eventbrite'
 booking_link: 'https://www.eventbrite.co.uk/e/woodland-lumiere-2022-a-twinkling-night-walk-in-a-garden-of-art-music-tickets-259730840937?aff=ebdsoporgprofile'
 cta: |-
   This event is run by Creative Odyssey Projects, for more information please get in touch via:
 
-  [https://raveninghamsculpturetrail.com/](https://raveninghamsculpturetrail.com/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646221450
+  [raveninghamsculpturetrail.com/](https://raveninghamsculpturetrail.com/)
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646235087
 event_categories:
-  - combined-arts
+  - family-friendly
+  - art
+  - nature
+  - movement
 featured_image: miscellaneous/Woodland-Lumiere.jfif
+attendance_information: 'Open to all'
 ---
-Original Art, Music, Film, Poetry, Sculpture at our 2022 Woodland Lumiere. All set in 3 acres of magical, wild, garden in south Norfolk.
+Discover original art, music, film, poetry, sculpture at the Raveningham centre's 2022 Woodland Lumiere. All set in 3 acres of magical, wild, garden just north of Beccles.
