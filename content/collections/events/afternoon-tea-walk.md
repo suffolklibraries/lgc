@@ -2,7 +2,7 @@
 id: bd6ca91f-f435-456c-b9e6-a43cda508558
 blueprint: events
 title: 'Afternoon Tea Walk: Remarkable Women of Ipswich'
-featured_image: Afternoon-Tea-Walk-Remarkable-Women-of-Ipswich.webp
+featured_image: miscellaneous/Afternoon-Tea-Walk-Remarkable-Women-of-Ipswich.webp
 start_date: '2022-03-08 14:00'
 end_date: '2022-03-08 15:30'
 free: false
