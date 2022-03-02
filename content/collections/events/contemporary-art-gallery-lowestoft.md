@@ -125,7 +125,7 @@ cta: |-
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1645616754
-featured_image: miscellaneous/303-Projects-1.jpg
+featured_image: miscellaneous/303projects/303-Projects-1.jpg
 end_date: '2022-02-19 17:00'
 attendance_information: 'Open to all'
 booking_link: '#'
