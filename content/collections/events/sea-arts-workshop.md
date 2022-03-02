@@ -9,7 +9,7 @@ event_categories:
   - family-friendly
 organisers:
   - pier-projects-art-agency
-featured_image: HOW-DO-YOU-EXPLAIN-THE-SEA-TO-YOUR-CHILD.
+featured_image: miscellaneous/HOW-DO-YOU-EXPLAIN-THE-SEA-TO-YOUR-CHILD.
 start_date: '2022-03-19 14:00'
 free: true
 virtual: false
