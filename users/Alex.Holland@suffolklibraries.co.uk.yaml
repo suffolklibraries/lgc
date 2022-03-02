@@ -7,3 +7,6 @@ preferences:
   collections:
     events:
       per_page: 100
+  assets:
+    assets:
+      mode: grid
