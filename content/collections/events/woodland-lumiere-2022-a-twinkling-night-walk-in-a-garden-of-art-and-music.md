@@ -112,6 +112,6 @@ updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1646221450
 event_categories:
   - combined-arts
-featured_image: Woodland-Lumiere.jfif
+featured_image: miscellaneous/Woodland-Lumiere.jfif
 ---
 Original Art, Music, Film, Poetry, Sculpture at our 2022 Woodland Lumiere. All set in 3 acres of magical, wild, garden in south Norfolk.
