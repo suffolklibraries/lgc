@@ -3,7 +3,7 @@ id: a66100cb-5a21-40df-bf0a-c2ad1fdd4596
 published: false
 blueprint: events
 title: 'Felixstowe Book Festival (Duplicated)'
-featured_image: Harvest-House-conservatory-from-outside.JPG
+featured_image: miscellaneous/Harvest-House-conservatory-from-outside.JPG
 start_date: '2022-06-26 09:00'
 free: false
 virtual: false
