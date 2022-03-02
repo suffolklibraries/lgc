@@ -167,7 +167,7 @@ accessibility_information: |-
   - Wheelchair access
   - Social distancing in place 
   - Covid-19 preventative measures in place
-featured_image: Mark-Bruce-Company-GREEN-APPLES-image-by-Mark-Bruce-(2).jpg
+featured_image: miscellaneous/Mark-Bruce-Company-GREEN-APPLES-image-by-Mark-Bruce-(2).jpg
 booking_link: 'https://www.danceeast.co.uk/workshops/mark-bruce-watch-dance-class/'
 ---
 Peek behind the scenes as the Mark Bruce Company prepare for their performance. Perfect for dance students, artists or anyone looking for an insight into the world of dance.
