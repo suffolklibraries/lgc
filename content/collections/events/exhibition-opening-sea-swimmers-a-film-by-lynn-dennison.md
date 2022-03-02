@@ -12,7 +12,7 @@ event_categories:
   - film
 organisers:
   - pier-projects-art-agency
-featured_image: Exhibition-Opening-Sea-Swimmers-a-film-by-Lynn-Dennison.jfif
+featured_image: miscellaneous/Exhibition-Opening-Sea-Swimmers-a-film-by-Lynn-Dennison.jfif
 end_date: '2022-03-18 20:30'
 address_line_1: 'Bent Hill'
 town: Felixstowe
