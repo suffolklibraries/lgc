@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In addition, there will be a makers’ market, hands-on family activities and street entertainment as well as locally-sourced food and drink, all creating a mini festival feel to attract local as well as out-of-season visitors.'
+        text: 'In addition, there will be a makers’ market, hands-on family activities and street entertainment as well as locally-sourced food and drink, all creating a mini festival feel.'
   -
     type: heading
     attrs:
@@ -48,10 +48,6 @@ content_area:
         text: 'Beccles Wild About Art Market takes place at New Market, NR34 9HE.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus stops less than 5 minute walk from the event.'
   -
     type: heading
     attrs:
@@ -65,9 +61,9 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is free to attend and is not required to book.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646233536
+        text: 'This event is free to attend and booking is not required. '
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646238034
 event_categories:
   - art
   - family-friendly
@@ -78,6 +74,8 @@ cta: |-
   This event is run by the Market Place Project, for more information please get in touch via:
 
   [https://www.marketplaceproject.co.uk/](https://www.marketplaceproject.co.uk/)
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+featured_image: offthepressimages/otpillustrations/EXHIBITION.png
+attendance_information: 'Open to all'
+booking_link: 'https://www.thesuffolkcoast.co.uk/things-to-do/events/beccles-wild-about-art-market'
 ---
 The Beccles “Wild About Art” market will be a family-orientated, celebratory event based around art in all its forms taking place on 5 March 2022.
