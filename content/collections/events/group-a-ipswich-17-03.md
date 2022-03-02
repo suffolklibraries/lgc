@@ -1,14 +1,13 @@
 ---
 id: 4dcba854-3e19-4638-a63d-2335780889df
-published: false
 blueprint: events
 title: 'Group A - Ipswich'
 latitude: '52.05886231610009'
 longitude: '1.1479309984275614'
 start_date: '2022-03-17 16:15'
 end_date: '2022-03-17 18:15'
-updated_by: 87f603de-9e7e-4063-9310-cad1dde625ef
-updated_at: 1644424123
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646241144
 free: true
 virtual: false
 organisers:
@@ -151,7 +150,6 @@ cta: |-
 
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
 event_categories:
-  - family-friendly
   - teen-and-young-adult
   - primary-school-age
   - music
