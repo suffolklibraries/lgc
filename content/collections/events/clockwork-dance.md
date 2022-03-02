@@ -61,7 +61,7 @@ content_area:
         text: 'To book a place please'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1646219072
-featured_image: Clockwork-Dance.png
+featured_image: miscellaneous/Clockwork-Dance.png
 latitude: '52.456761210302176'
 longitude: '1.7357111153427938'
 address_line_1: 'The Seagull Theatre'
