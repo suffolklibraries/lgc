@@ -176,7 +176,7 @@ cta: |-
   [https://www.303projects.com/about](https://www.303projects.com/about)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1645622649
-featured_image: 'Untitled-Exploding-Head-3,-2021.jpg'
+featured_image: 'miscellaneous/Untitled-Exploding-Head-3,-2021.jpg'
 end_date: '2022-04-16 15:00'
 attendance_information: 'Open to all'
 booking_link: '#'
