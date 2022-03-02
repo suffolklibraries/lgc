@@ -9,7 +9,7 @@ updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1646153707
 organisers:
   - pier-projects-art-agency
-featured_image: miscellaneous/Into-The-Blue.jfif
+featured_image: miscellaneous/pierprojectsartsagency/Into-The-Blue.jfif
 end_date: '2022-03-15 20:00'
 content_area:
   -
