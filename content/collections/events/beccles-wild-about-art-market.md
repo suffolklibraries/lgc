@@ -78,6 +78,6 @@ cta: |-
   This event is run by the Market Place Project, for more information please get in touch via:
 
   [https://www.marketplaceproject.co.uk/](https://www.marketplaceproject.co.uk/)
-featured_image: otpillustrations/VISUALARTS.png
+featured_image: offthepressimages/otpillustrations/VISUALARTS.png
 ---
 The Beccles “Wild About Art” market will be a family-orientated, celebratory event based around art in all its forms taking place on 5 March 2022.
