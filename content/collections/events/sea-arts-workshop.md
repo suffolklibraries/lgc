@@ -9,7 +9,7 @@ event_categories:
   - family-friendly
 organisers:
   - pier-projects-art-agency
-featured_image: miscellaneous/HOW-DO-YOU-EXPLAIN-THE-SEA-TO-YOUR-CHILD.
+featured_image: HOW-DO-YOU-EXPLAIN-THE-SEA-TO-YOUR-CHILD.
 start_date: '2022-03-19 14:00'
 free: true
 virtual: false
@@ -102,7 +102,7 @@ content_area:
         text: .
 booking_link: 'https://www.eventbrite.co.uk/e/how-do-you-explain-the-sea-to-your-child-part-2-tickets-263720323587?aff=ebdsoporgprofile'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646153557
+updated_at: 1646241508
 end_date: '2022-03-19 15:30'
 latitude: '51.96098391274863'
 longitude: '1.3545811387327684'
