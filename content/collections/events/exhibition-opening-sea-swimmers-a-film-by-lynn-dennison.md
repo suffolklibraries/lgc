@@ -1,20 +1,21 @@
 ---
 id: 3da63c0c-d4d8-431b-9373-f189ef4bea95
-published: false
 blueprint: events
 title: 'Exhibition Opening: Sea Swimmers, a film by Lynn Dennison'
 start_date: '2022-03-18 18:30'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646153842
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646232818
 event_categories:
   - film
+  - art
+  - festival
 organisers:
   - pier-projects-art-agency
 featured_image: miscellaneous/pierprojectsartsagency/Exhibition-Opening-Sea-Swimmers-a-film-by-Lynn-Dennison.jfif
 end_date: '2022-03-18 20:30'
-address_line_1: 'Bent Hill'
+address_line_1: 'Hamilton MAS'
 town: Felixstowe
 postcode: 'IP11 7DG'
 content_area:
@@ -31,24 +32,59 @@ content_area:
     content:
       -
         type: text
+        text: 'Meet at Hamilton MAS for the opening of Lynn Dennison''s film ''Sea Swimmers'' with an artist introduction and refreshments.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'Alongside the film and projection, artist Lynn Dennison will introduce the work with a chance to ask questions.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This event is part of Channel Festival: a weekend of free activities, inspired by our relationship to the sea.'
+        text: 'This event is part of Channel Festival: a weekend of free activities, inspired by our relationship with the sea.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For more information:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'http://www.lynndennison.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'http://www.lynndennison.com/'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.channelfestival.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'https://www.channelfestival.co.uk/'
   -
     type: paragraph
     content:
       -
         type: text
         text: 'Channel Festival is organised by Pier Projects and supported by Suffolk County Council via Covid Continuity for Culture Fund and East Suffolk District Council.'
-  -
-    type: paragraph
-    content:
-      -
-        type: hard_break
   -
     type: heading
     attrs:
@@ -59,6 +95,10 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hamilton MAS is located opposite The Grand in Felixstowe, on Bent Hill. If driving, there is a pay and display car park opposite or bus stops are a ten minute walk away in the town centre. '
   -
     type: heading
     attrs:
@@ -92,5 +132,11 @@ cta: |-
   Thsi event is run by Pier Projects Art Agenecy for more information please get in touch via:
 
   [https://www.pierprojects.org/](https://www.pierprojects.org/)
+accessibility_information: |-
+  - Covid-19 preventative measures in place
+  - Indoor venue
+latitude: '51.96047782549526'
+longitude: '1.3508720542788692'
+address_line_2: 'Bent Hill'
 ---
-Join us at Hamilton MAS for the opening of Lynn Dennison's film 'Sea Swimmers' with an artist introduction and refreshments.
+Come along for the opening of Lynn Dennison's film 'Sea Swimmers', with an artist introduction and refreshments, part of the Channel Festival.
