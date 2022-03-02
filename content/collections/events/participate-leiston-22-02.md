@@ -1,5 +1,6 @@
 ---
 id: df36620c-a9c6-422e-ad5c-8f86f865b715
+published: false
 blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
