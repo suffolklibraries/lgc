@@ -4,7 +4,7 @@ blueprint: events
 title: 'Fierce Colour Art Exhibition'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646151892
+updated_at: 1646299489
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-12 19:30'
@@ -86,7 +86,7 @@ event_categories:
   - art
   - exhibition
   - visual-arts
-featured_image: fierce_colour_crop1.jpg
+featured_image: Fierce_colour2.png
 attendance_information: 18+
 organisers:
   - after-hours-collective-x-led-creatives
