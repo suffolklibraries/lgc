@@ -4,7 +4,7 @@ blueprint: events
 title: 'Fierce Colour Art Exhibition Launch'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646299687
+updated_at: 1646307269
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-12 19:30'
@@ -96,4 +96,4 @@ organisers:
   - after-hours-collective-x-led-creatives
 booking_link: 'https://www.facebook.com/ledcreatives/posts/5047599185305119'
 ---
-Pop up art exhibition celebrating female artists at Ronin Body Arts, Ipswich.
+Launch evening of pop up art exhibition celebrating female artists at Ronin Body Arts, Ipswich.
