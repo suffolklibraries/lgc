@@ -4,7 +4,7 @@ blueprint: events
 title: 'Fierce Colour Art Exhibition'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646307350
+updated_at: 1646307415
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-15 10:00'
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please be aware, there is an access issue as there are steps in the space. '
+        text: 'Please be aware, there is limited access as there are steps in the space. '
   -
     type: paragraph
   -
