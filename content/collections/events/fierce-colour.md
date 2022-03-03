@@ -1,14 +1,13 @@
 ---
 id: 8e455679-6c9b-4445-8453-46c858c56e96
-published: false
 blueprint: events
-title: 'Fierce Colour Art Exhibition (Duplicated)'
+title: 'Fierce Colour Art Exhibition'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646299510
+updated_at: 1646307350
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
-start_date: '2022-03-12 19:30'
+start_date: '2022-03-15 10:00'
 free: true
 virtual: false
 address_line_1: 'Ronin Body Arts'
@@ -29,19 +28,13 @@ content_area:
     content:
       -
         type: text
-        text: 'For one evening only, experience the culmination of 23 female artists'' work and get the chance to meet them.'
+        text: 'Fierce Colour is an art exhibition bringing together 23 local female artists'' work. The temporary exhibition at Ronin Body Arts will be available to view from Tuesday 15th to Friday 18th March during the day. Please see below for the list of artists taking part.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'From 7:30pm on the evening of the 12th March, join an array of female artists as they celebrate the launch of the new Fierce Colour pop up exhibition at Ronin Body Arts in Ipswich. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This event will be part of the Ipswich Welcome Back weekend and supported by Ipswich Borough Council and the ERDF.'
+        text: 'Please be aware, there is an access issue as there are steps in the space. '
   -
     type: paragraph
   -
@@ -82,7 +75,7 @@ content_area:
         text: 'Admission is FREE, doors open from 7:30pm onwards. '
 cta: 'This event is organised by After Hours Collective x LED Creatives'
 accessibility_information: '- Indoor venue'
-end_date: '2022-03-12 22:00'
+end_date: '2022-03-18 16:00'
 event_categories:
   - art
   - exhibition
