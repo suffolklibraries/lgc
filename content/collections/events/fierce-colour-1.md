@@ -1,10 +1,11 @@
 ---
 id: 8e455679-6c9b-4445-8453-46c858c56e96
+published: false
 blueprint: events
 title: 'Fierce Colour Art Exhibition (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646299489
+updated_at: 1646299510
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-12 19:30'
