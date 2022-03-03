@@ -1,10 +1,10 @@
 ---
 id: 4523544a-9643-4ac3-b11a-04b568f823d7
 blueprint: events
-title: 'Fierce Colour Art Exhibition'
+title: 'Fierce Colour Art Exhibition Launch'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646299489
+updated_at: 1646299687
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-12 19:30'
@@ -43,6 +43,10 @@ content_area:
         text: 'This event will be part of the Ipswich Welcome Back weekend and supported by Ipswich Borough Council and the ERDF.'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please be aware, there is limited access as there are a couple of steps in the middle of the room. If you would prefer to avoid the excited crowd of launch night as well, the exhibition will be available to view between Tuesday and Friday of the following week. '
   -
     type: paragraph
     content:
