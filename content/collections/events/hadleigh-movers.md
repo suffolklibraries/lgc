@@ -3,11 +3,11 @@ id: 52ff4fb4-f2c5-4807-b0ca-4f9b34141695
 blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646125945
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646391238
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
-start_date: '2022-02-08 11:00'
+start_date: '2022-03-15 11:00'
 event_categories:
   - later-life
   - movement
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Movers is a gentle movement class for over 55s. Held every Tuesday, 11.30am – 12.30am at Hadleigh Baptist Church. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
+        text: 'Hadleigh Movers is a gentle movement class for over 55s. Held every Tuesday, 11am – 12.30am at Hadleigh Baptist Church. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
@@ -83,13 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George street in Hadleigh, IP7 5BE.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is an entrance the church through the front gate on George Street through to the entrance of the church.'
+        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George Street in Hadleigh, IP7 5BE.'
   -
     type: heading
     attrs:
@@ -103,7 +97,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Karen Pratt on '
+        text: 'To book you can call Karen on '
       -
         type: text
         marks:
@@ -146,8 +140,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £5.50
-end_date: '2022-02-08 12:30'
+end_date: '2022-03-15 12:30'
 ---
-A weekly dance class for everyone over 55.
-
-Hadleigh Movers classes are designed to benefit you both mentally and physically.
+A weekly dance class for everyone over 55. Hadleigh Movers classes are designed to benefit you both mentally and physically.
