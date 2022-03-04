@@ -3,14 +3,15 @@ id: 2d56b8d2-2432-43e9-86c5-b05cf36c23b9
 blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1645002489
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646391513
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
-start_date: '2022-02-23 10:00'
+start_date: '2022-03-09 10:00'
 event_categories:
   - dance
   - later-life
+  - movement
 free: false
 virtual: false
 organisers:
@@ -105,38 +106,25 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Zoe Ablitt on '
+        text: 'For more details or to book, please visit the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:01473295245'
+              href: 'https://www.danceeast.co.uk/workshops/sudbury-movers/'
               rel: null
               target: _blank
               title: null
-        text: '01473295245'
+        text: 'Dance East website'
       -
         type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'Mailto:01473295245'
-              rel: null
-              target: _blank
-              title: null
-        text: Zoe.Ablitt@danceeast.co.uk
+        text: '. '
   -
     type: paragraph
 cta: |-
-  This event is organised by Dance East. Please contact Zoe Ablitt:
-
-  [Zoe.Ablitt@danceeast.co.uk](mailto:Zoe.Ablitt@danceeast.co.uk)
+  This event is organised by Dance East. Please see contact details below: 
 
   [01473295245](tel:01473295245)
 
@@ -147,7 +135,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £3
-end_date: '2022-02-23 11:30'
+end_date: '2022-03-09 11:30'
 ---
-A weekly dance class for everyone over 55.
-Sudbury Movers classes are designed to benefit you both mentally and physically.
+A weekly dance class for everyone over 55. Sudbury Movers classes are designed to benefit you both mentally and physically.
