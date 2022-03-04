@@ -4,7 +4,7 @@ blueprint: events
 title: 'Lowestoft Movers - St. Margaret''s Church'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646389127
+updated_at: 1646391607
 start_date: '2022-03-10 12:20'
 end_date: '2022-03-10 13:40'
 event_categories:
