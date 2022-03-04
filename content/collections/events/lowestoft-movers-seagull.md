@@ -1,13 +1,12 @@
 ---
 id: d37c65a8-d904-4bc0-a092-57cb22acb45f
-published: false
 blueprint: events
-title: 'Lowestoft Movers - St. Margaret''s Church (Duplicated)'
+title: 'Lowestoft Movers - Seagull Theatre'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646389220
-start_date: '2022-03-10 12:20'
-end_date: '2022-03-10 13:40'
+updated_at: 1646389720
+start_date: '2022-03-11 10:00'
+end_date: '2022-03-11 11:30'
 event_categories:
   - dance
   - later-life
@@ -163,10 +162,10 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £5
-latitude: '52.48648327953463'
-longitude: '1.7417192424554064'
-address_line_1: 'St Margaret''s Church'
-address_line_2: '147 Hollingsworth Rd'
-postcode: 'NR32 4BW'
+latitude: '52.456816760715476'
+longitude: '1.7356360119327994'
+address_line_1: 'The Seagull Theatre'
+address_line_2: '19-75 Morton Road'
+postcode: 'NR33 0JH'
 ---
 A weekly dance class for everyone over 55. Lowestoft Movers classes are designed to benefit you both mentally and physically.
