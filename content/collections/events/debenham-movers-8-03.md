@@ -4,7 +4,7 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646391387
+updated_at: 1646391530
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-03-08 10:00'
@@ -132,6 +132,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £4
-end_date: '2022-03-15 11:00'
+end_date: '2022-03-08 11:00'
 ---
 A weekly dance class for everyone over 55. Debenham Movers classes are designed to benefit you both mentally and physically.
