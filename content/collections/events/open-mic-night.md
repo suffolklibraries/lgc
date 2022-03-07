@@ -1,10 +1,11 @@
 ---
 id: 01a97bf1-5a63-4de2-81ab-345840a5c541
-published: false
 blueprint: events
 title: 'Welcome Back Ipswich - Open Mic Night'
 event_categories:
   - music
+  - performance
+  - welcome-back-ipswich
 featured_image: WBI-1646653719.PNG
 start_date: '2022-03-12 17:00'
 end_date: '2022-03-12 21:00'
@@ -12,7 +13,7 @@ free: true
 virtual: false
 latitude: '52.05499351589143'
 longitude: '1.1529391829163007'
-address_line_1: '47 St Nicholas St'
+address_line_1: '47 St Nicholas Street'
 town: Ipswich
 postcode: 'IP1 1TW'
 content_area:
@@ -49,13 +50,13 @@ content_area:
     content:
       -
         type: text
-        text: 'This event takes place at 47 St Nicholas St. there is carparking two to three minute walk from the venue outside at Cardinal park.'
+        text: 'This event takes place at 47 St Nicholas Street there is car parking two to three minute walk from the venue outside at Cardinal park.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are bus routes that are a five minute walk from the venue.'
+        text: 'There are also bus routes nearby.'
   -
     type: heading
     attrs:
@@ -74,7 +75,8 @@ cta: |-
   This event is run in by Welcome Back Ipswich, for more information please visit:
 
   [https://www.welcomebackipswich.co.uk/](https://www.welcomebackipswich.co.uk/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646660245
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646663445
+attendance_information: 18+
 ---
 A night of local talent showcasing their music on a live stage.
