@@ -2,7 +2,7 @@
 id: 926b9bac-6258-480b-b3ca-705a4b70575e
 published: false
 blueprint: events
-title: 'Brighten the Corners - Outloud Music'
+title: 'Welcome Back Ipswich - Brighten the Corners - Outloud Music'
 event_categories:
   - music
 organisers:
@@ -85,6 +85,6 @@ cta: |-
 
   [https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend](https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646665361
+updated_at: 1646665464
 ---
 “Brighten The Corners” Outloud Music is an exciting 2-day event being hosted in St Stephens Church from Friday 11th March, running from 6pm to 11pm.
