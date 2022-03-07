@@ -3,10 +3,10 @@ id: eb9e81b9-f05d-45a6-9b55-f59a2891a52d
 blueprint: events
 title: 'Welcome Back Ipswich - Light Projection Show'
 start_date: '2022-03-11 17:30'
-free: false
+free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646663304
+updated_at: 1646663494
 event_categories:
   - visual-arts
   - welcome-back-ipswich
