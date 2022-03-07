@@ -4,7 +4,7 @@ blueprint: events
 title: 'Fierce Colour Art Exhibition'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646307415
+updated_at: 1646662829
 latitude: '52.05811264600942'
 longitude: '1.153535544287903'
 start_date: '2022-03-15 10:00'
@@ -80,6 +80,7 @@ event_categories:
   - art
   - exhibition
   - visual-arts
+  - welcome-back-ipswich
 featured_image: Fierce_colour2.png
 attendance_information: 18+
 organisers:
