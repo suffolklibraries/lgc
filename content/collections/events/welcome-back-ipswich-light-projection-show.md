@@ -7,7 +7,7 @@ start_date: '2022-03-11 17:30'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646660042
+updated_at: 1646660125
 event_categories:
   - visual-arts
 featured_image: WBI-1646653719.PNG
@@ -85,3 +85,6 @@ content_area:
         type: text
         text: 'This event is free to attend and no booking is required. '
 ---
+This event is run in by Welcome Back Ipswich, for more information please visit:
+
+[https://www.welcomebackipswich.co.uk/](https://www.welcomebackipswich.co.uk/)
