@@ -107,8 +107,8 @@ cta: |-
   This event is run by Creative Odyssey Projects, for more information please get in touch via:
 
   [raveninghamsculpturetrail.com/](https://raveninghamsculpturetrail.com/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646235087
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1646648270
 event_categories:
   - family-friendly
   - art
