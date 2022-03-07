@@ -75,5 +75,6 @@ cta: |-
 
   [https://www.welcomebackipswich.co.uk/](https://www.welcomebackipswich.co.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646654124
+updated_at: 1646658448
 ---
+A night of local talent showcasing their music on a live stage.
