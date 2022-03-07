@@ -1,6 +1,5 @@
 ---
 id: 8e71f51e-747b-4500-ac30-981783917102
-published: false
 blueprint: events
 title: 'Welcome Back Ipswich - Eco Expo Gallery for The Environment'
 start_date: '2022-03-11 12:00'
@@ -114,7 +113,7 @@ content_area:
         type: text
         text: 'This is a drop in event so there is no booking required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646664393
+updated_at: 1646664493
 event_categories:
   - exhibition
   - art
@@ -133,6 +132,6 @@ booking_link: 'https://www.welcomebackipswich.co.uk/'
 cta: |-
   This event is part of the Welcome Back Ipswich Weekend. For more information please visit the website below:
 
-  (https://www.welcomebackipswich.co.uk/)[https://www.welcomebackipswich.co.uk/]
+  [https://www.welcomebackipswich.co.uk/](https://www.welcomebackipswich.co.uk/)
 ---
 Drop in art exibition that focuses on regional and national environmental issues and practices.
