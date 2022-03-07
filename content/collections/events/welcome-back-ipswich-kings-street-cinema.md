@@ -6,8 +6,8 @@ title: 'Welcome Back Ipswich - Kings Street Cinema'
 start_date: '2022-03-12 11:00'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646662174
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646662282
 event_categories:
   - film
 featured_image: WBI-1646653719.PNG
@@ -32,13 +32,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Kings Street Cinema is kind enough to screen two movies for everyone of all ages to enjoy over the Welcome Back Weekend. These are £3 each to attend with £1 being donated to St Elizabeth Hospice.'
+        text: 'Kings Street Cinema has been kind enough to screen two movies for everyone of all ages to enjoy over the Welcome Back Weekend. These are £3 each to attend with £1 being donated to St Elizabeth Hospice.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'They will be showing Peppa Pig Festival of Fun at 11am and Harry Potter and the Prisoner of Azkaban at 2.30pm, on the 12th and 13th of March'
+        text: 'They will be showing Peppa Pig Festival of Fun at 11am and Harry Potter and the Prisoner of Azkaban at 2.30pm, on the 12th and 13th of March.'
   -
     type: heading
     attrs:
@@ -82,4 +82,4 @@ cta: |-
 organisers:
   - king-street-cinema
 ---
-A film viewing of Pepa Pig festival of fun and Harry potter and the Prisoner of Azkaban
+A film viewing of Peppa Pig festival of fun and Harry Potter and the Prisoner of Azkaban
