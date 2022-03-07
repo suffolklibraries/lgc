@@ -27,6 +27,9 @@ content_area:
       -
         type: text
         text: 'Make sure you get yourself down to this exhibition which will include exhibits, educational talks, and interactive workshops.'
+  -
+    type: paragraph
+    content:
       -
         type: hard_break
       -
@@ -110,11 +113,12 @@ content_area:
       -
         type: text
         text: 'This is a drop in event so there is no booking required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646663910
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646664393
 event_categories:
   - exhibition
   - art
+  - welcome-back-ipswich
 organisers:
   - noise-of-art
 featured_image: WBI-1646653719.PNG
@@ -122,8 +126,13 @@ end_date: '2022-03-11 18:00'
 latitude: '52.0578717710907'
 longitude: '1.1504814927030484'
 address_line_1: Arlingtons
-address_line_2: '13 Museum St'
+address_line_2: '13 Museum Street'
 town: Ipswich
 postcode: 'IP1 1HE'
+booking_link: 'https://www.welcomebackipswich.co.uk/'
+cta: |-
+  This event is part of the Welcome Back Ipswich Weekend. For more information please visit the website below:
+
+  (https://www.welcomebackipswich.co.uk/)[https://www.welcomebackipswich.co.uk/]
 ---
-An art Exibition that focuses on regional and national enviromental issues and practises.
+Drop in art exibition that focuses on regional and national environmental issues and practices.
