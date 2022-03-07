@@ -71,10 +71,10 @@ content_area:
         type: text
         text: 'This event is free to attend and no booking is required.'
 cta: |-
-  This event is run in partnership by Aspire Black Suffolk and Noise of Art,for more information please get in touch via:
+  This event is run in by Welcome Back Ipswich, for more information please visit:
 
   [https://www.welcomebackipswich.co.uk/](https://www.welcomebackipswich.co.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646658448
+updated_at: 1646660245
 ---
 A night of local talent showcasing their music on a live stage.
