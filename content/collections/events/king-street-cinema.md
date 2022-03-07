@@ -1,15 +1,15 @@
 ---
 id: 0717381b-77ff-459e-98a5-6046f7e7ec56
-published: false
 blueprint: events
-title: 'Welcome Back Ipswich - Kings Street Cinema'
+title: 'Welcome Back Ipswich - King Street Cinema'
 start_date: '2022-03-12 11:00'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646662350
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646662771
 event_categories:
   - film
+  - welcome-back-ipswich
 featured_image: WBI-1646653719.PNG
 end_date: '2022-03-12 17:30'
 latitude: '52.05753346354616'
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Kings Street Cinema is kind enough to screen two movies for everyone of all ages to enjoy over the Welcome Back Weekend. These are £3 each to attend with £1 being donated to St Elizabeth Hospice.'
+        text: 'King Street Cinema has been kind enough to screen two movies for everyone of all ages to enjoy over the Welcome Back Weekend. These are £3 each to attend with £1 being donated to St Elizabeth Hospice.'
   -
     type: paragraph
     content:
@@ -52,19 +52,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event takes place at King Street Cinema, Corn Exchange.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking two to three minute walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The bus station is a two to three minute walk from the venue.'
+        text: 'This event takes place at King Street Cinema, Corn Exchange, Ipswich.'
   -
     type: heading
     attrs:
@@ -92,10 +80,11 @@ content_area:
         text: 'https://kingstreetcinema.co.uk/whats-on/festivals-seasons/welcome-back-ipswich/'
 booking_link: 'https://kingstreetcinema.co.uk/whats-on/festivals-seasons/welcome-back-ipswich/'
 cta: |-
-  This event is run by Kings Street Cinema, for more information please get in touch via:
+  This event is run by King Street Cinema, for more information please visit the website below:
 
   [https://kingstreetcinema.co.uk/whats-on/festivals-seasons/welcome-back-ipswich/](https://kingstreetcinema.co.uk/whats-on/festivals-seasons/welcome-back-ipswich/)
 organisers:
   - king-street-cinema
+attendance_information: Family-friendly
 ---
-A film viewing of Pepa Pig festival of fun and Harry potter and the Prisoner of Azkaban
+Low cost weekend film screenings of Peppa Pig: Festival of Fun and Harry Potter and the Prisoner of Azkaban.
