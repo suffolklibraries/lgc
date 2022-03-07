@@ -1,16 +1,15 @@
 ---
 id: 96d648fa-b635-4950-ab41-962be3dfdf52
-published: false
 blueprint: events
-title: 'Welcome Back Ipswich - Brighten the Corners (Duplicated)'
+title: 'Welcome Back Ipswich - Brighten the Corners'
 event_categories:
   - music
   - welcome-back-ipswich
 organisers:
   - the-smoke-house
 featured_image: WBI-(2).png
-start_date: '2022-03-11 19:30'
-end_date: '2022-03-11 22:30'
+start_date: '2022-03-12 11:30'
+end_date: '2022-03-12 18:00'
 free: true
 virtual: false
 attendance_information: 'Under 16s must be accompanied by an adult'
@@ -33,13 +32,13 @@ content_area:
     content:
       -
         type: text
-        text: 'With music ranging from hip-hop to indie, Brighten The Corners is a FREE weekend festival from The Smokehouse Presents, as part of the Welcome Back Weekend supported by Ipswich Borough Council.'
+        text: 'With music ranging from hip-hop to indie, Brighten The Corners is a FREE weekend festival from The Smokehouse Presents and Outloud Music, as part of the Welcome Back Weekend supported by Ipswich Borough Council.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Doors open at 5pm on Friday evening, with bands set to play between 7:30 and 10:30pm. Three bands will play on Friday evening, '
+        text: 'Doors open at 11:30am on Saturday 12 March, with a jam-packed line up set to kick off from midday, '
       -
         type: text
         marks:
@@ -53,19 +52,19 @@ content_area:
         text: 'find the programme here'
       -
         type: text
-        text: ' to see the line up.'
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'All ages are welcome, with under 16s accompanied by an adult. Please be aware that there will be strong language during the day time, so the event may not be family friendly. '
+        text: 'All ages are welcome, with under 16s accompanied by an adult. Please be aware that there will be strong language during the day time, so the event may not be family-friendly. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The venue has step free access, there aren''t toilets inside but there will be port-a-loos outside the venue. There will also be a bar inside the venue.'
+        text: 'The venue has step-free access, there aren''t toilets inside but there will be port-a-loos outside the venue. There will also be a bar inside the venue.'
   -
     type: paragraph
     content:
@@ -107,7 +106,7 @@ cta: |-
 
   [https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend](https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646669196
+updated_at: 1646669572
 address_line_2: 'St. Stephen''s Lane'
 booking_link: 'https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend'
 ---
