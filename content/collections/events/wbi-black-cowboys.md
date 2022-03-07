@@ -5,8 +5,8 @@ title: 'Welcome Back Ipswich - Black Cowboys'
 start_date: '2022-03-11 19:30'
 free: true
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646658146
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1646660108
 event_categories:
   - art
   - music
@@ -79,7 +79,7 @@ content_area:
         type: text
         text: 'No booking is required and it is free to attend.'
 cta: |-
-  This event is run in partnership with Aspire Black Suffolk and Noise of Art, for more information please visit:
+  This event is run in by Welcome Back Ipswich, for more information please visit:
 
   [https://www.welcomebackipswich.co.uk/](https://www.welcomebackipswich.co.uk/)
 booking_link: 'https://www.welcomebackipswich.co.uk/'
