@@ -1,22 +1,22 @@
 ---
 id: 053d7b6c-cb59-44d6-b2a2-66ae6283dccb
-published: false
 blueprint: events
 title: 'Welcome Back Ipswich - Black Cowboys'
 start_date: '2022-03-11 19:30'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646653350
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1646658146
 event_categories:
   - art
   - music
   - mixed-media
+  - welcome-back-ipswich
 organisers:
   - aspire-black-suffolk
   - noise-of-art
 featured_image: WBI-1646651553.PNG
-end_date: '2022-03-11 00:00'
+end_date: '2022-03-11 22:00'
 latitude: '52.0578717710907'
 longitude: '1.1504814927030484'
 address_line_1: Arlingtons
@@ -63,13 +63,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event takes place at Arlingtons,13 Museum St, Ipswich IP1 1HE.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking one to two minute walk from the venue with bus routes also a minutes walk from the venue.'
+        text: 'This event takes place at Arlingtons, 13 Museum Street, Ipswich IP1 1HE.'
   -
     type: heading
     attrs:
@@ -83,10 +77,11 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking is required and is free to attend.'
+        text: 'No booking is required and it is free to attend.'
 cta: |-
-  This event is run in partnership by Aspire Black Suffolk and Noise of Art,for more information please get in touch via:
+  This event is run in partnership with Aspire Black Suffolk and Noise of Art, for more information please visit:
 
   [https://www.welcomebackipswich.co.uk/](https://www.welcomebackipswich.co.uk/)
+booking_link: 'https://www.welcomebackipswich.co.uk/'
 ---
-Black Cowboys is a mixed media event that combines art and photos of african american cowboys and music.
+Black Cowboys is a mixed media event that combines art and photos of African American cowboys and music.
