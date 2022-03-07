@@ -1,5 +1,6 @@
 ---
 id: 96d648fa-b635-4950-ab41-962be3dfdf52
+published: false
 blueprint: events
 title: 'Welcome Back Ipswich - Brighten the Corners (Duplicated)'
 event_categories:
@@ -106,7 +107,7 @@ cta: |-
 
   [https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend](https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646669177
+updated_at: 1646669196
 address_line_2: 'St. Stephen''s Lane'
 booking_link: 'https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend'
 ---
