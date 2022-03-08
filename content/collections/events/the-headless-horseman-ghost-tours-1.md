@@ -1,7 +1,8 @@
 ---
 id: a3a84c29-1334-48a5-9b21-14a03cf498ac
+published: false
 blueprint: events
-title: 'The Headless Horseman Ghost Tours (Duplicated)'
+title: 'The Headless Horseman Ghost Tours (placeholder for October dates)'
 event_categories:
   - guided-tour
 start_date: '2022-03-12 19:30'
@@ -80,7 +81,7 @@ cta: |-
 
   [https://www.facebook.com/LavenhamLibrary/](https://www.facebook.com/LavenhamLibrary/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646736537
+updated_at: 1646736626
 featured_image: offthepressimages/otpillustrations/MUSEUMS_CULTURE.png
 ---
 Free guided tours around the village of Lavenham, detailing the creepy goings on after dark.
