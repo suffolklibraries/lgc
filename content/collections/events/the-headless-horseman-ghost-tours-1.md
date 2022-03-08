@@ -1,7 +1,8 @@
 ---
 id: 1138f53c-44e5-487a-b038-1b602624c147
+published: false
 blueprint: events
-title: 'The Headless Horseman Ghost Tours (Duplicated)'
+title: 'The Headless Horseman Ghost Tours (placeholder for October dates)'
 event_categories:
   - guided-tour
 start_date: '2022-03-12 19:30'
@@ -77,5 +78,5 @@ content_area:
         text: 'This is a free drop in event so no booking required.'
 cta: 'This event is run by  for more information please get in touch via:'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646735643
+updated_at: 1646735729
 ---
