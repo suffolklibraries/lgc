@@ -43,7 +43,7 @@ content_area:
       -
         type: image
         attrs:
-          src: 'asset::assets::fierce_colour.jpg'
+          src: 'asset::assets::miscellaneous/fierce_colour.jpg'
           alt: 'poster with artists names on'
   -
     type: heading
