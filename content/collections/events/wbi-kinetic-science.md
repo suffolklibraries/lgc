@@ -3,7 +3,7 @@ id: b9afe742-be66-464f-82d9-f6953696121f
 published: false
 blueprint: events
 title: 'WBI - Kinetic Science'
-featured_image: WBI-1646653719.PNG
+featured_image: miscellaneous/welcomebackipswich/WBI-1646653719.PNG
 start_date: '2022-03-07 10:18'
 free: false
 virtual: false
