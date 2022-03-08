@@ -12,7 +12,7 @@ event_categories:
   - family-friendly
 organisers:
   - norfolk-and-suffolk-aviation-museum
-featured_image: Suffolk-and-Norfolk-aviation-museum.PNG
+featured_image: miscellaneous/Suffolk-and-Norfolk-aviation-museum.PNG
 end_date: '2022-04-17 16:00'
 latitude: '52.434920622949484'
 longitude: '1.399743583871702'
