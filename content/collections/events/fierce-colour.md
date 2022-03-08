@@ -81,7 +81,7 @@ event_categories:
   - exhibition
   - visual-arts
   - welcome-back-ipswich
-featured_image: Fierce_colour2.png
+featured_image: miscellaneous/Fierce_colour2.png
 attendance_information: 18+
 organisers:
   - after-hours-collective-x-led-creatives
