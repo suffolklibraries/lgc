@@ -13,7 +13,7 @@ event_categories:
   - nature
 organisers:
   - rock-paper-scissors
-featured_image: Rock-Paper-Grow.PNG
+featured_image: rockpaperscissorsimages/Rock-Paper-Grow.PNG
 end_date: '2022-03-13 15:00'
 latitude: '52.04588138594748'
 longitude: '1.1726561357208318'
