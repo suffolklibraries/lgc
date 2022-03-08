@@ -71,7 +71,7 @@ content_area:
       -
         type: image
         attrs:
-          src: 'asset::assets::brighten-the-corners-square-1-1646668952.png'
+          src: 'asset::assets::miscellaneous/welcomebackipswich/brighten-the-corners-square-1-1646668952.png'
           alt: 'Brighten the corners poster '
   -
     type: heading
