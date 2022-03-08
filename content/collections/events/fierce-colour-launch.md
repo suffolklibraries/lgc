@@ -90,7 +90,7 @@ event_categories:
   - art
   - exhibition
   - visual-arts
-featured_image: Fierce_colour2.png
+featured_image: miscellaneous/Fierce_colour2.png
 attendance_information: 18+
 organisers:
   - after-hours-collective-x-led-creatives
