@@ -68,7 +68,7 @@ content_area:
         type: text
         text: 'This is a free drop in event so booking is not required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646738079
+updated_at: 1646738222
 event_categories:
   - guided-tour
   - history
