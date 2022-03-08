@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These are free guided tours around the village of Lavenham by an 17th C Ghost carrying his head, meeting the village''s many other ghosts, legends, myths, witches, curses and patron saints, while learning abut the history of the village and seeing''s its old houses in a new light.'
+        text: 'Ghost tours around the village of Lavenham by an 17th C Ghost carrying his head, meeting the village''s many other ghosts, legends, myths, witches, curses and patron saints, while learning abut the history of the village and seeing''s its old houses in a new light.'
   -
     type: paragraph
     content:
@@ -76,7 +76,12 @@ content_area:
       -
         type: text
         text: 'This is a free drop in event so no booking required.'
-cta: 'This event is run by  for more information please get in touch via:'
+cta: |-
+  This event is run by Lavenham Library for more information please get in touch via:
+
+  [https://www.facebook.com/LavenhamLibrary/](https://www.facebook.com/LavenhamLibrary/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646735643
+updated_at: 1646736537
+featured_image: offthepressimages/otpillustrations/MUSEUMS_CULTURE.png
 ---
+Free guided tours around the village of Lavenham, detailing the creepy goings on after dark.
