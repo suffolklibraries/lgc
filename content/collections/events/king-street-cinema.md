@@ -10,7 +10,7 @@ updated_at: 1646662771
 event_categories:
   - film
   - welcome-back-ipswich
-featured_image: WBI-1646653719.PNG
+featured_image: miscellaneous/welcomebackipswich/WBI-1646653719.PNG
 end_date: '2022-03-12 17:30'
 latitude: '52.05753346354616'
 longitude: '1.1521533445556205'
