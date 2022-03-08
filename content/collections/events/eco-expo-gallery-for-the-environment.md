@@ -120,7 +120,7 @@ event_categories:
   - welcome-back-ipswich
 organisers:
   - noise-of-art
-featured_image: WBI-1646653719.PNG
+featured_image: miscellaneous/welcomebackipswich/WBI-1646653719.PNG
 end_date: '2022-03-11 18:00'
 latitude: '52.0578717710907'
 longitude: '1.1504814927030484'
