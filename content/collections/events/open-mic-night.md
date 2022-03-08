@@ -6,7 +6,7 @@ event_categories:
   - music
   - performance
   - welcome-back-ipswich
-featured_image: WBI-1646653719.PNG
+featured_image: miscellaneous/welcomebackipswich/WBI-1646653719.PNG
 start_date: '2022-03-12 17:00'
 end_date: '2022-03-12 21:00'
 free: true
