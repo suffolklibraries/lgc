@@ -10,7 +10,7 @@ updated_at: 1646663494
 event_categories:
   - visual-arts
   - welcome-back-ipswich
-featured_image: WBI-1646653719.PNG
+featured_image: miscellaneous/welcomebackipswich/WBI-1646653719.PNG
 end_date: '2022-03-11 19:30'
 latitude: '52.05780769679796'
 longitude: '1.15262094058854'
