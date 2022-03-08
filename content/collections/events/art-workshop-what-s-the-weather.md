@@ -7,7 +7,7 @@ event_categories:
   - art
 organisers:
   - suffolk-archives
-featured_image: 'What''s-the-weather-1646740222.PNG'
+featured_image: 'suffolkarchives/What''s-the-weather-1646740222.PNG'
 start_date: '2022-03-13 10:00'
 end_date: '2022-03-13 12:00'
 free: true
