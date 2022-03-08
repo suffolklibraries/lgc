@@ -81,7 +81,7 @@ cta: |-
 
   [https://www.facebook.com/LavenhamLibrary/](https://www.facebook.com/LavenhamLibrary/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646736537
+updated_at: 1646739260
 featured_image: offthepressimages/otpillustrations/MUSEUMS_CULTURE.png
 ---
 Free guided tours around the village of Lavenham, detailing the creepy goings on after dark.
