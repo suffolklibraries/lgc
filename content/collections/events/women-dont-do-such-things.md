@@ -113,6 +113,6 @@ event_categories:
   - art
   - exhibition
   - visual-arts
-featured_image: miscellaneous/Women-Dont-Do-Such-Things!-v2_Page_10-(002).png
+featured_image: suffolkarchives/Women-Dont-Do-Such-Things!-v2_Page_10-(002).png
 ---
 New exhibition at The Hold, Ipswich celebrating women changing history.
