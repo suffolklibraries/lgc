@@ -10,7 +10,7 @@ updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1646732763
 event_categories:
   - art
-featured_image: WBI-1646653719.PNG
+featured_image: miscellaneous/welcomebackipswich/WBI-1646653719.PNG
 end_date: '2022-03-11 09:13'
 latitude: '52.057153102392164'
 longitude: '1.1557728982606845'
