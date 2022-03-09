@@ -1,12 +1,12 @@
 ---
 id: 7684cfec-0824-4d15-ab13-f20b781054e2
 blueprint: events
-title: 'Rock Paper Grow (Duplicated)'
-start_date: '2022-03-13 12:00'
+title: 'Rock Paper Grow'
+start_date: '2022-03-27 12:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646829564
+updated_at: 1646829615
 event_categories:
   - art
   - nature
@@ -15,7 +15,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/Rock-Paper-Grow.PNG
-end_date: '2022-03-13 15:00'
+end_date: '2022-03-27 15:00'
 latitude: '52.04588138594748'
 longitude: '1.1726561357208318'
 address_line_1: 'Holywells Park'
