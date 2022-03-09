@@ -7,7 +7,7 @@ event_categories:
   - welcome-back-ipswich
 organisers:
   - the-smoke-house
-featured_image: WBI-(2).png
+featured_image: miscellaneous/welcomebackipswich/WBI-1646653719.PNG
 start_date: '2022-03-12 11:30'
 end_date: '2022-03-12 18:00'
 free: true
@@ -106,7 +106,7 @@ cta: |-
 
   [https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend](https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646669572
+updated_at: 1646827938
 address_line_2: 'St. Stephen''s Lane'
 booking_link: 'https://www.thesmokehouse.org/whatson/brighten-the-corners-welcome-back-weekend'
 ---
