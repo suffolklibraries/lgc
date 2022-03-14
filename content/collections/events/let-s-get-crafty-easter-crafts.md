@@ -5,7 +5,7 @@ blueprint: events
 title: 'Let''s Get Crafty: Easter Crafts'
 organisers:
   - suffolk-archives
-start_date: '2022-03-14 09:59'
+start_date: '2022-04-11 10:00'
 free: false
 virtual: false
 latitude: '52.05294195739878'
@@ -47,7 +47,13 @@ content_area:
         type: hard_break
       -
         type: text
-        text: 'Price: £2.50 per child'
+        text: 'Price: £2.50 per child.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are also dates available for the 12th, 13th and the 14th.'
   -
     type: heading
     attrs:
@@ -93,11 +99,22 @@ content_area:
               target: null
               title: null
         text: 'What''s On - Suffolk Archives'
+      -
+        type: text
+        text: '. '
 booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
 cta: |-
   This event is run by Suffolk Archives, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647253448
+updated_at: 1647254052
+event_categories:
+  - art
+  - crafts
+  - primary-school-age
+featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+end_date: '2022-04-11 12:30'
+cost_details: '£2.50 per child'
 ---
+An arts and crafts activity session or children based around making arts and crafts for easter.
