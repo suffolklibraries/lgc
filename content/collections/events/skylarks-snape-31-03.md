@@ -4,10 +4,10 @@ blueprint: events
 title: 'East Suffolk Skylarks - Snape'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2022-03-10 10:30'
-end_date: '2022-03-10 12:00'
+start_date: '2022-03-31 10:30'
+end_date: '2022-03-31 12:00'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646644035
+updated_at: 1647249291
 free: true
 virtual: false
 organisers:
