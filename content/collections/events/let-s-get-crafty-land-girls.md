@@ -94,7 +94,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647256753
+updated_at: 1647257439
 event_categories:
   - art
   - crafts
