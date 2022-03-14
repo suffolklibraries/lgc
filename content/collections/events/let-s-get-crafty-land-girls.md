@@ -94,7 +94,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647257439
+updated_at: 1647263034
 event_categories:
   - art
   - crafts
@@ -105,7 +105,7 @@ end_date: '2022-04-13 12:30'
 latitude: '52.24222161832669'
 longitude: '0.7195140154637296'
 address_line_1: 'Suffolk Archives'
-address_line_2: '77 Raingate St,'
+address_line_2: '77 Raingate St'
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 2AR'
 booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
