@@ -7,7 +7,7 @@ start_date: '2022-03-19 12:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647268231
+updated_at: 1647271268
 event_categories:
   - art
   - teen-and-young-adult
