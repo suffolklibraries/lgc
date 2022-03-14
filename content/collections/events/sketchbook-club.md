@@ -7,7 +7,7 @@ start_date: '2022-03-19 12:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647268145
+updated_at: 1647268231
 event_categories:
   - art
   - teen-and-young-adult
@@ -18,7 +18,7 @@ end_date: '2022-03-19 13:30'
 cost_details: '£5 per session'
 latitude: '52.0530234424015'
 longitude: '1.163542469424476'
-address_line_1: T
+address_line_1: 'The Hold'
 town: Ipswich
 postcode: 'IP4 1LN'
 content_area:
@@ -83,5 +83,6 @@ content_area:
         text: 'Sketchbook Club — Rock Paper Scissors'
 booking_link: 'https://www.rockpaperscissors.org.uk/shop/highschoolerssketchbookclub'
 cta: 'This event is run by Rock Paper Scissors, for more information please visit: [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)'
+address_line_2: '131 Fore Street'
 ---
 A weekly drawing session for 11-18 year olds to hone their craft.
