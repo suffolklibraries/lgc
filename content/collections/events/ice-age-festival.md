@@ -59,6 +59,16 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ice Age Festival takes place at Ipswich Museum,IP1 3QH.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is carparking two to three minute walk from the venue. The bus station is also five to ten minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -67,6 +77,17 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'No booking is required this is a drop in event.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647263799
+updated_at: 1647267203
+organisers:
+  - ipswich-museum
+featured_image: offthepressimages/otpillustrations/MUSEUMS.png
+cta: 'This event is run by Ipswich Museums, for more information please get in touch via: [https://suffolkmuseums.org/events/ice-age-festival/](https://suffolkmuseums.org/events/ice-age-festival/)'
 ---
+An exibition at Ipswich Museum based on the ice age.
