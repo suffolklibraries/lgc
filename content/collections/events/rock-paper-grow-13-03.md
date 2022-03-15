@@ -6,7 +6,7 @@ start_date: '2022-03-13 12:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646829564
+updated_at: 1647346984
 event_categories:
   - art
   - nature
@@ -42,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: 'At this community garden and art session in Hollywells Park take part in the following activities:'
+        text: 'At this community garden and art session in Holywells Park take part in the following activities:'
   -
     type: bullet_list
     content:
