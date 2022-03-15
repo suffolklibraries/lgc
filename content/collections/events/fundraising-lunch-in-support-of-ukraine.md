@@ -7,7 +7,7 @@ start_date: '2022-03-26 12:30'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647361619
+updated_at: 1647361935
 event_categories:
   - food
 organisers:
