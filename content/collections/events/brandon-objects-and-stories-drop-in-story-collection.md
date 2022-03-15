@@ -107,6 +107,6 @@ cta: |-
 
   [07341 580208](tel:07341580208)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647351732
+updated_at: 1647352899
 ---
 A session that allows the residents to bring in personal items that hold stories to them to be used to create a collage art peice by artist Michelle Brace.
