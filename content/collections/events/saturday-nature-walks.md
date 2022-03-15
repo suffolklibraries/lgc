@@ -93,7 +93,7 @@ content_area:
         type: text
         text: 'Saturday Nature Walks is a free event but donations are welcome as all donations go to the art and learning programme at The Art Station.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1644915820
+updated_at: 1647344718
 event_categories:
   - nature
   - outdoor-venue
@@ -107,7 +107,7 @@ longitude: '1.4920889368887216'
 address_line_1: 'The Art Station'
 address_line_2: '48 High Street'
 town: Saxmundham
-postcode: 'IP17 1AB.'
+postcode: 'IP17 1AB'
 booking_link: 'https://theartstation.uk/event/nature-walks/'
 cta: |-
   This event is orginised by Verity Slade at The Art Station please get in contact:
