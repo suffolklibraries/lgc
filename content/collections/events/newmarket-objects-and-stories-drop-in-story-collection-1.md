@@ -2,7 +2,7 @@
 id: a547831e-e672-4d55-8f16-b2a28ed7efca
 published: false
 blueprint: events
-title: 'Brandon Objects And Stories: Drop In Story Collection (Duplicated)'
+title: 'Newmarket  Objects And Stories: Drop In Story Collection (Duplicated)'
 event_categories:
   - teen-and-young-adult
   - later-life
@@ -11,16 +11,16 @@ event_categories:
 organisers:
   - marketplace
 featured_image: Newmarkets-community-of-objects-stories-1-986x660-(1).jpg
-start_date: '2022-03-19 10:30'
-end_date: '2022-03-19 12:30'
+start_date: '2022-03-16 10:30'
+end_date: '2022-03-16 12:30'
 free: true
 virtual: false
-latitude: '52.4467868817488'
-longitude: '0.623669925257212'
-address_line_1: 'Brandon Library'
-address_line_2: 'Bury Road'
-town: Brandon
-postcode: 'IP27 0BQ'
+latitude: '52.24498945495521'
+longitude: '0.40528631361127143'
+address_line_1: 'Newmarket Library'
+address_line_2: '1a The Guineas'
+town: Newmarket
+postcode: 'CB8 8EQ'
 content_area:
   -
     type: heading
@@ -35,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Residents in Brandon are invited to visit their local library to take part in a project all about objects that hold a personal story.'
+        text: 'Residents in Newmarket are invited to visit their local library to take part in a project all about objects that hold a personal story.'
   -
     type: paragraph
     content:
@@ -47,13 +47,13 @@ content_area:
     content:
       -
         type: text
-        text: '10.30am to 12.30pm, Saturday 19th March '
+        text: '10.30am to 12.30pm, Wednesday 16th March'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '11.00am to 1.00pm, Thursday 24th March'
+        text: '11.00am to 1.00pm, Saturday 26th March'
   -
     type: heading
     attrs:
@@ -67,25 +67,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Brandon Objects And Stories meets at Brandon Library,IP27 0BQ.'
+        text: 'Newmarket Objects And Stories meets at Newmarket Library'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The building has wide double doors for those that have extra accessibility requirements.'
+        text: 'The library has double doors for those that have accessibility needs'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is a carpark outside of the venue.'
+        text: 'There is carparking one to two minute walk from the venue.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are bus routes that are a three to five minute walk from the venue. '
+        text: 'There are also bus routes that are one to two minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -107,6 +107,6 @@ cta: |-
 
   [07341 580208](tel:07341580208)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647352899
+updated_at: 1647356913
 ---
-A session that allows the residents to bring in personal items that hold stories to them to be used to create a collage art peice by artist Michelle Brace.
+A session that allows local residents to bring in personal items that hold stories to them to be used to create a collage art peice by artist Michelle Brace.
