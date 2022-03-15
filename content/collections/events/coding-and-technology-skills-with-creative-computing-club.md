@@ -129,7 +129,9 @@ cta: |-
   This event is run by The Art Startion, for more information please get in touch via:
 
   [https://theartstation.uk/](https://theartstation.uk/)
+
+  [07927770421](tel:07927770421)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647344930
+updated_at: 1647345400
 ---
 A session that are desinged to help get children and teens into the world of computers and coding.
