@@ -107,8 +107,8 @@ cta: |-
   This event is run by Creative Odyssey Projects, for more information please get in touch via:
 
   [raveninghamsculpturetrail.com/](https://raveninghamsculpturetrail.com/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646648270
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647337422
 event_categories:
   - family-friendly
   - art
@@ -117,4 +117,4 @@ event_categories:
 featured_image: miscellaneous/Woodland-Lumiere.jfif
 attendance_information: 'Open to all'
 ---
-Discover original art, music, film, poetry, sculpture at the Raveningham centre's 2022 Woodland Lumiere. All set in 3 acres of magical, wild, garden just north of Beccles.
+Discover original art, music, film, poetry, sculpture at the Raveningham centre's 2022 Woodland Lumiere. All set in three acres of magical, wild, garden just north of Beccles.
