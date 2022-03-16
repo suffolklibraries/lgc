@@ -85,8 +85,8 @@ content_area:
     type: paragraph
   -
     type: paragraph
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645615580
+updated_by: 87f603de-9e7e-4063-9310-cad1dde625ef
+updated_at: 1647422450
 end_date: '2023-02-23 12:00'
 featured_image: miscellaneous/Walking_Companion_Copy-of-IMG_0294.JPEG
 attendance_information: Everyone
@@ -100,7 +100,7 @@ cta: |-
 
   This project was supported by Brandon Country Park, West Suffolk Council and Brandon Creative Forum.
 organisers:
-  - marketplace
+  - cpp-marketplace
 address_line_2: 'Bury Road'
 booking_link: 'https://www.cppmarketplace.co.uk/download-your-walking-companion/'
 ---
