@@ -1,17 +1,18 @@
 ---
 id: 21f8ae20-2a34-454a-aa82-64fb28b0255c
 blueprint: events
-title: 'Brandon Objects & Stories: Drop In Story Collection (Duplicated)'
+title: 'Brandon Objects & Stories: Drop In Story Collection'
 event_categories:
   - teen-and-young-adult
   - later-life
   - primary-school-age
   - art
+  - mixed-media
 organisers:
   - cpp-marketplace
 featured_image: Newmarkets-community-of-objects-stories-1-986x660-(1).jpg
-start_date: '2022-03-19 10:30'
-end_date: '2022-03-19 12:30'
+start_date: '2022-03-24 11:00'
+end_date: '2022-03-24 13:00'
 free: true
 virtual: false
 latitude: '52.4467868817488'
@@ -124,7 +125,7 @@ cta: |-
 
   [https://www.cppmarketplace.co.uk](https://www.cppmarketplace.co.uk)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647431188
+updated_at: 1647431318
 attendance_information: 'Open to all'
 booking_link: 'https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/'
 ---
