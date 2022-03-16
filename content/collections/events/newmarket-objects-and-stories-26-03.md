@@ -54,7 +54,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.instagram.com/brandonobjectsandstories/'
+              href: 'https://www.instagram.com/newmarketobjectsandstories/'
               rel: null
               target: _blank
               title: null
@@ -127,6 +127,6 @@ cta: |-
 
   [07341 580208](tel:07341580208)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647434826
+updated_at: 1647435357
 ---
 Marketplace and artist Michelle Brace invite residents of Newmarket to bring personal items that hold stories to their local library. These stories will then be used to create a collage art piece.
