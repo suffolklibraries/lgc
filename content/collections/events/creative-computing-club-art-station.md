@@ -1,6 +1,5 @@
 ---
 id: e998783b-e642-4067-9ae9-4d09b11dac28
-published: false
 blueprint: events
 title: 'Coding and Technology Skills with Creative Computing Club'
 event_categories:
@@ -45,25 +44,31 @@ content_area:
     content:
       -
         type: text
-        text: 'Sunday March 27th at The Art Station (IP17 1AB)Session times:'
+        text: 'Sunday March 27th at The Art Station (IP17 1AB) '
   -
     type: paragraph
     content:
       -
         type: text
-        text: '10-11am 8-12 years old – Parent and child sessions'
+        text: 'Session times:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '11.30-12.30pm 8-12 years old – parent and child sessions'
+        text: '10-11am for 8-12 years old  (parent and child sessions)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '1-2pm 12-16 years old'
+        text: '11.30am-12.30pm  for 8-12 years old  (parent and child sessions)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '1-2pm for 12-16 years old'
   -
     type: paragraph
     content:
@@ -131,7 +136,8 @@ cta: |-
   [https://theartstation.uk/](https://theartstation.uk/)
 
   [07927770421](tel:07927770421)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647345400
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647430169
+attendance_information: '8 - 16 years'
 ---
-A session that are desinged to help get children and teens into the world of computers and coding.
+Fun sessions for young people looking to learn more about computers and coding.
