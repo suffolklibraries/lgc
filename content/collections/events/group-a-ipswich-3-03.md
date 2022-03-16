@@ -1,5 +1,6 @@
 ---
 id: e43b0736-87cc-4935-aaa5-9b29349fc441
+published: false
 blueprint: events
 title: 'Group A - Ipswich'
 latitude: '52.05886231610009'
