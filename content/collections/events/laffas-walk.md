@@ -55,7 +55,7 @@ content_area:
         type: text
         text: 'This is a free drop in event so booking is not required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647433947
+updated_at: 1647434039
 event_categories:
   - history
   - movement
@@ -67,6 +67,5 @@ address_line_1: 'Market Place'
 address_line_2: '13 Market Ln'
 town: Lavenham
 postcode: 'CO10 9QZ'
-cta: 'This event is run by  for more information please get in touch via:'
 ---
 A guided tour around Lavenham exploring the history of the town, the key people and historic architecture.
