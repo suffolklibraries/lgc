@@ -76,7 +76,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Find Raveningham Centre on on what3words : means.connected.cared. The venue has on site car parking.'
+        text: 'Find Raveningham Centre on what3words: means.connected.cared. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue has on site car parking.'
   -
     type: heading
     attrs:
@@ -108,7 +114,7 @@ cta: |-
 
   [raveninghamsculpturetrail.com/](https://raveninghamsculpturetrail.com/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647337422
+updated_at: 1647440426
 event_categories:
   - family-friendly
   - art
@@ -117,4 +123,4 @@ event_categories:
 featured_image: miscellaneous/Woodland-Lumiere.jfif
 attendance_information: 'Open to all'
 ---
-Discover original art, music, film, poetry, sculpture at the Raveningham centre's 2022 Woodland Lumiere. All set in three acres of magical, wild, garden just north of Beccles.
+Discover original art, music, film, poetry, sculpture at the Raveningham centre's 2022 Woodland Lumiere. All set in three acres of magical, wild garden just north of Beccles.
