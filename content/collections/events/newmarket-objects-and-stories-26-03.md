@@ -35,15 +35,39 @@ content_area:
     content:
       -
         type: text
-        text: 'Residents in Newmarket are invited to visit their local library to take part in a project all about objects that hold a personal story.'
+        text: 'Residents in Newmarket are invited to visit their local library to take part in a project all about objects that hold a personal story. All you need to do is bring along an item which tells us something about you and who you are.  When you arrive you''ll be asked about why this object is special to you and what story does it tell about you. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Digital artist, Michelle Brace will be curating the items into a collage, building a community of objects and stories by local people.'
+        text: 'With your permission, a photo will be taken of the object and your story will be recorded. Digital artist, Michelle Brace will then be curating the items into a collage, building a community of objects and stories by local people.'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you''d like to see examples of how the project will come together then please visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.instagram.com/brandonobjectsandstories/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Instagram page'
+      -
+        type: text
+        text: ' or search ''Newmarket objects and stories'' on Instagram. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Drop in sessions will take place at the following times and dates in the library: '
   -
     type: paragraph
     content:
@@ -63,7 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Newmarket Objects And Stories meets at Newmarket Library'
+        text: 'Newmarket Objects And Stories drop in point will be at Newmarket Library'
   -
     type: paragraph
     content:
@@ -102,7 +126,7 @@ cta: |-
   [comms@cppmarketplace.co.uk](mailto:comms@cppmarketplace.co.uk)
 
   [07341 580208](tel:07341580208)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647431463
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1647434826
 ---
-A session that allows local residents to bring in personal items that hold stories to them to be used to create a collage art peice by artist Michelle Brace.
+Marketplace and artist Michelle Brace invite residents of Newmarket to bring personal items that hold stories to their local library. These stories will then be used to create a collage art piece.
