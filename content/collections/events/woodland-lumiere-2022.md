@@ -76,7 +76,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Find Raveningham Centre on what3words: means.connected.cared. '
+        text: 'Find Raveningham Centre on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://what3words.com/means.connected.cared'
+              rel: null
+              target: null
+              title: null
+        text: what3words
+      -
+        type: text
+        text: ' and enter: means.connected.cared. '
   -
     type: paragraph
     content:
@@ -113,8 +127,8 @@ cta: |-
   This event is run by Creative Odyssey Projects, for more information please get in touch via:
 
   [raveninghamsculpturetrail.com/](https://raveninghamsculpturetrail.com/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647440449
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1647440861
 event_categories:
   - family-friendly
   - art
