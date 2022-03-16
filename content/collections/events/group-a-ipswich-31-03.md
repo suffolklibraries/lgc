@@ -5,10 +5,10 @@ blueprint: events
 title: 'Group A - Ipswich'
 latitude: '52.05886231610009'
 longitude: '1.1479309984275614'
-start_date: '2022-03-03 16:15'
-end_date: '2022-03-03 18:15'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646241116
+start_date: '2022-03-31 16:15'
+end_date: '2022-03-31 18:15'
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1647422867
 free: true
 virtual: false
 organisers:
