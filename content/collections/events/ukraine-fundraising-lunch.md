@@ -1,23 +1,22 @@
 ---
 id: 4ea2e3e7-88fe-4b91-98b2-e1e80a674cec
-published: false
 blueprint: events
 title: 'Fundraising lunch in support of Ukraine'
 start_date: '2022-03-26 12:30'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647361935
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647429813
 event_categories:
   - food
 organisers:
   - the-art-station
-featured_image: offthepressimages/otpillustrations/FOOD_NATURE.png
+featured_image: Save-the-date-(1).jpg
 end_date: '2022-03-26 16:30'
 latitude: '52.21614758071566'
 longitude: '1.4921854964134418'
 address_line_1: 'The Art Station'
-address_line_2: '48High St'
+address_line_2: '48 High St'
 town: Saxmundham
 postcode: 'IP17 1AB'
 content_area:
@@ -34,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at The Art Station on Saturday 26th March for a fundraising lunch in support of Ukraine, in partnership with Friends of Refugees Suffolk.'
+        text: 'Join us at The Art Station on Saturday 26 March for a fundraising lunch in support of Ukraine, in partnership with Friends of Refugees Suffolk.'
   -
     type: paragraph
     content:
