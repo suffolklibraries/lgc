@@ -5,7 +5,7 @@ title: 'Saturday Nature Walks'
 organisers:
   - the-art-station
 featured_image: miscellaneous/IMG_4999.jpg
-start_date: '2022-02-19 10:30'
+start_date: '2022-01-29 10:30'
 free: true
 virtual: false
 content_area:
@@ -92,15 +92,15 @@ content_area:
       -
         type: text
         text: 'Saturday Nature Walks is a free event but donations are welcome as all donations go to the art and learning programme at The Art Station.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647344718
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647433746
 event_categories:
   - nature
   - outdoor-venue
   - movement
   - art
   - crafts
-end_date: '2022-02-19 13:00'
+end_date: '2022-04-02 13:00'
 cost_details: 'Pay what you want'
 latitude: '52.21614100732545'
 longitude: '1.4920889368887216'
