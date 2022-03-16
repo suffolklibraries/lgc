@@ -5,10 +5,10 @@ blueprint: events
 title: 'Group A - Lowestoft'
 latitude: '52.456862524697534'
 longitude: '1.735636011963539'
-start_date: '2022-03-10 16:15'
-end_date: '2022-03-10 18:15'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646241311
+start_date: '2022-03-24 16:15'
+end_date: '2022-03-24 18:15'
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1647422310
 free: true
 virtual: false
 organisers:
@@ -73,6 +73,22 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Group A meets at Studio 3 at The Seagull Theatre in Lowestoft, Morton Rd, NR33 0JH.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building has a carpark at the front of the building.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building does have wheel chair accessibility for those that have accessibility needs.'
   -
     type: heading
     attrs:
