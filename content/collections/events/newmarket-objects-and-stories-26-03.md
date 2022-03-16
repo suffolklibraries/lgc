@@ -2,7 +2,7 @@
 id: a547831e-e672-4d55-8f16-b2a28ed7efca
 published: false
 blueprint: events
-title: 'Newmarket  Objects And Stories: Drop In Story Collection (Duplicated)'
+title: 'Newmarket Objects And Stories: Drop In Story Collection'
 event_categories:
   - teen-and-young-adult
   - later-life
@@ -11,8 +11,8 @@ event_categories:
 organisers:
   - marketplace
 featured_image: Newmarkets-community-of-objects-stories-1-986x660-(1).jpg
-start_date: '2022-03-16 10:30'
-end_date: '2022-03-16 12:30'
+start_date: '2022-03-26 11:00'
+end_date: '2022-03-26 13:00'
 free: true
 virtual: false
 latitude: '52.24498945495521'
@@ -44,10 +44,6 @@ content_area:
         text: 'Digital artist, Michelle Brace will be curating the items into a collage, building a community of objects and stories by local people.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: '10.30am to 12.30pm, Wednesday 16th March'
   -
     type: paragraph
     content:
@@ -106,7 +102,7 @@ cta: |-
   [comms@cppmarketplace.co.uk](mailto:comms@cppmarketplace.co.uk)
 
   [07341 580208](tel:07341580208)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647356913
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647431463
 ---
 A session that allows local residents to bring in personal items that hold stories to them to be used to create a collage art peice by artist Michelle Brace.
