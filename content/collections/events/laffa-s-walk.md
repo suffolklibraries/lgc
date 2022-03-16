@@ -1,6 +1,5 @@
 ---
 id: 15d3750e-192c-47ff-895d-d56d821e4eac
-published: false
 blueprint: events
 title: 'Laffa''s Walk'
 start_date: '2022-03-26 12:00'
@@ -26,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: "Your tour guide is a resident of Lavenham, a former senior lecturer at UCL and at the Tower of London, and comes dressed as the Anglo Saxon, Laffa, whom founded Lavenham as Laffa's Ham.\_\_"
+        text: "Your tour guide is a resident of Lavenham, a former senior lecturer at UCL and at the Tower of London, and comes dressed as the Anglo Saxon, Laffa, who founded Lavenham as Laffa's Ham.\_\_"
   -
     type: heading
     attrs:
@@ -42,18 +41,6 @@ content_area:
         type: text
         text: 'Laffa''s Walk takes place at market place, Lavenham.'
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking one to two minutes walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus routes five to six minutes walk from the venue.'
-  -
     type: heading
     attrs:
       level: 2
@@ -67,12 +54,12 @@ content_area:
       -
         type: text
         text: 'This is a free drop in event so booking is not required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646738222
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647433947
 event_categories:
-  - guided-tour
   - history
-featured_image: offthepressimages/otpillustrations/MUSEUM_CRAFT.png
+  - movement
+featured_image: offthepressimages/otpillustrations/OUTSIDEVENUE.png
 end_date: '2022-03-26 14:00'
 latitude: '52.109362703013765'
 longitude: '0.796324992788565'
