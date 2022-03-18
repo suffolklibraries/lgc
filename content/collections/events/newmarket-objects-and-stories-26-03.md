@@ -1,6 +1,5 @@
 ---
 id: a547831e-e672-4d55-8f16-b2a28ed7efca
-published: false
 blueprint: events
 title: 'Newmarket Objects And Stories: Drop In Story Collection'
 event_categories:
@@ -9,7 +8,7 @@ event_categories:
   - primary-school-age
   - art
 organisers:
-  - marketplace
+  - cpp-marketplace
 featured_image: Newmarkets-community-of-objects-stories-1-986x660-(1).jpg
 start_date: '2022-03-26 11:00'
 end_date: '2022-03-26 13:00'
@@ -67,7 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop in sessions will take place at the following times and dates in the library: '
+        text: 'The drop in session will take place at the following time and date in the library: '
   -
     type: paragraph
     content:
@@ -95,18 +94,6 @@ content_area:
         type: text
         text: 'The library has double doors for those that have accessibility needs'
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking one to two minute walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are also bus routes that are one to two minute walk from the venue.'
-  -
     type: heading
     attrs:
       level: 2
@@ -121,12 +108,11 @@ content_area:
         type: text
         text: 'This is a drop in event so booking is not required.'
 cta: |-
-  This event is run by Marketplace, for more information please get in touch via:
+  This event is run by Marketplace, for more information please visit:
 
-  [comms@cppmarketplace.co.uk](mailto:comms@cppmarketplace.co.uk)
-
-  [07341 580208](tel:07341580208)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647435357
+  [https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/](https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/)
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647601605
+booking_link: 'https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/'
 ---
-Marketplace and artist Michelle Brace invite residents of Newmarket to bring personal items that hold stories to their local library. These stories will then be used to create a collage art piece.
+CPP Marketplace and artist Michelle Brace invite residents of Newmarket to bring personal items that hold stories to their local library. These stories will then be used to create a collage art piece.
