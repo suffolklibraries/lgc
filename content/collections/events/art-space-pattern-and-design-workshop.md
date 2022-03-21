@@ -2,7 +2,7 @@
 id: f3b28427-cb07-44aa-b8f9-c5efcf7980d9
 published: false
 blueprint: events
-title: 'Art Space - pattern & design workshop.'
+title: 'Art Space - pattern & design workshop'
 event_categories:
   - teen-and-young-adult
   - art
@@ -104,6 +104,6 @@ cta: |-
 
   [https://www.suffolklibraries.co.uk/whats-on/art-space-pattern-and-design-workshop](https://www.suffolklibraries.co.uk/whats-on/art-space-pattern-and-design-workshop)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647880770
+updated_at: 1647880782
 ---
 Free art workshops for young people aged 12-16
