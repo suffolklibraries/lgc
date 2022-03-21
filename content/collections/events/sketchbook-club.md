@@ -3,18 +3,18 @@ id: ce0a41e6-c4f7-477b-8142-d2966f451cc3
 published: false
 blueprint: events
 title: 'Sketchbook Club'
-start_date: '2022-03-19 12:00'
+start_date: '2022-03-26 12:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647271268
+updated_at: 1647871825
 event_categories:
   - art
   - teen-and-young-adult
 organisers:
   - rock-paper-scissors
 featured_image: offthepressimages/otpillustrations/VISUALARTS.png
-end_date: '2022-03-19 13:30'
+end_date: '2022-03-26 13:30'
 cost_details: '£5 per session'
 latitude: '52.0530234424015'
 longitude: '1.163542469424476'
