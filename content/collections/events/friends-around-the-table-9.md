@@ -2,19 +2,19 @@
 id: 9e4e454d-2cc1-405b-aba6-c6589d7a9e9b
 published: false
 blueprint: events
-title: 'Friends Around The Table - Colour from your cupboard (Duplicated)'
+title: 'Friends Around The Table - Block print from your kitchen cupboard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646047832
-start_date: '2022-03-02 10:30'
-end_date: '2022-03-02 12:30'
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1647957647
+start_date: '2022-05-09 10:30'
+end_date: '2022-05-09 12:30'
 event_categories:
   - crafts
   - nature
   - food
 free: true
 virtual: false
-featured_image: suffolkartlinkimages/Copy-of-AL_F-56---Copy-1646047824.jpg
+featured_image: thumbnail_Copy-of-DSC_4330.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
@@ -32,25 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this week''s Friends Around the Table make paint from your own food with Kasia Posen.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The Friends Around the Table project aims to explore arts and crafts with the food you have in your cupboard in regular workshops, to offer family carers and adults living rurally, relaxed and enjoyable get-togethers.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'At the workshops, people will work with professional artists, where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'All workshops are free of charge and no experience is necessary.'
+        text: 'Join Jac Campbell to learn simple printing techniques for summer gatherings.'
   -
     type: paragraph
     content:
@@ -70,25 +52,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table be held at Woodbridge Community Centre, IP12 4AU.'
+        text: 'Friends Around the Table be held at The Ansell Centre in Hadleigh,IP7 5DL.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is parking at the front and rear of the building with disabled parking spaces for those that require them.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus routes one to two minute walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Woodbridge Community Centre is a two minute walk from Woodbridge train station.'
+        text: 'There is carparking five minutes walk from the venue.'
   -
     type: heading
     attrs:
@@ -164,11 +134,11 @@ cta: |-
 booking_link: 'https://www.suffolkartlink.org.uk/our-work/friends-around-the-table/'
 organisers:
   - suffolk-artlink
-latitude: '52.090197048537284'
-longitude: '1.3157172945566769'
-address_line_1: 'Woodbridge Community Hall'
-address_line_2: 'Station Rd'
-town: Woodbridge
-postcode: 'IP12 4AU'
+latitude: '52.042759060214834'
+longitude: '0.9533734566820419'
+address_line_1: 'The Ansell Centre'
+address_line_2: 'Market Pl'
+town: Hadleigh
+postcode: 'IP7 5DL'
 ---
 Explore food, creativity and arts and craft in regular workshops to offer adult carers a moment of respite from their caring role.
