@@ -2,12 +2,12 @@
 id: 3cb97740-3746-49d0-b674-729bf3b9a391
 published: false
 blueprint: events
-title: 'Friends Around The Table - Gather cook & eat (Duplicated)'
+title: 'Friends Around The Table - Fast flavour for friends'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647958946
-start_date: '2022-05-30 10:30'
-end_date: '2022-05-30 12:30'
+updated_at: 1647959413
+start_date: '2022-06-06 10:30'
+end_date: '2022-06-06 12:30'
 event_categories:
   - crafts
   - nature
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore foraged and local ingredients taking inspiration from the countryside with Lola De Mille.'
+        text: 'Experiment with herbs aand spices to create bespoke mixes for summer food with Lola De Mille.'
   -
     type: paragraph
     content:
