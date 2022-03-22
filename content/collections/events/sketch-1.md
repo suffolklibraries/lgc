@@ -1,12 +1,13 @@
 ---
 id: 4ad606c0-4541-46e4-8cf0-2c483aaea340
+published: false
 blueprint: events
 title: 'Sketch (Duplicated)'
 start_date: '2022-03-15 19:30'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647967713
+updated_at: 1647967842
 event_categories:
   - art
 organisers:
