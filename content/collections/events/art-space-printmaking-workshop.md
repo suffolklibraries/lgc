@@ -2,7 +2,7 @@
 id: 61b970c4-6348-4638-8a80-e6aaa1d0dcbb
 published: false
 blueprint: events
-title: 'Art Space - printmaking workshop'
+title: 'Art Space - Printmaking workshop'
 event_categories:
   - teen-and-young-adult
   - art
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn about pattern and design with Art Space, a workshop series for 12 to 16 year olds!'
+        text: 'Learn about printmaking with Art Space, a workshop series for 12 to 16 year olds!'
   -
     type: paragraph
     content:
@@ -46,7 +46,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this six-week series of Art Space at Ipswich County Library, participants will have the opportunity to make their own tote bags and plant pots, whilst exploring pattern & design through hand drawing and digital painting. Local artist Lily Hammond will be joining the sessions on 22 March and 17 May.'
+        text: 'In this six-week series at Gainsborough Community Library, participants will have the opportunity to explore two historic printmaking techniques - cyanotype and lino print. Printmaking artist Sarah Nkugwa will be joining the sessions on 25 March and 20 May.'
   -
     type: heading
     attrs:
@@ -104,6 +104,6 @@ cta: |-
 
   [https://www.suffolklibraries.co.uk/whats-on/art-space-pattern-and-design-workshop](https://www.suffolklibraries.co.uk/whats-on/art-space-pattern-and-design-workshop)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647946827
+updated_at: 1647946881
 ---
 Free art workshops for young people aged 12-16
