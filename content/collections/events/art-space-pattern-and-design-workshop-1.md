@@ -1,5 +1,6 @@
 ---
 id: 61b970c4-6348-4638-8a80-e6aaa1d0dcbb
+published: false
 blueprint: events
 title: 'Art Space - pattern & design workshop (Duplicated)'
 event_categories:
