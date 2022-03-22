@@ -6,13 +6,13 @@ title: Sketch
 start_date: '2022-03-15 19:30'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646757529
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647967713
 event_categories:
   - art
 organisers:
   - led-creatives
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+featured_image: sketch-new-wolsey-pub.jpg
 end_date: '2022-03-15 22:00'
 latitude: '52.05363164877224'
 longitude: '1.1608876675719249'
@@ -74,4 +74,4 @@ cta: |-
 
   [https://www.ledcreatives.com/new-page](https://www.ledcreatives.com/new-page)
 ---
-A drawing club where you get to meet new people and come and draw whatever your heart desires.
+A drawing club where you get to meet new people. Come and draw whatever your heart desires.
