@@ -2,12 +2,12 @@
 id: 2423bf05-532a-4d45-8d73-197c66365a32
 published: false
 blueprint: events
-title: 'Friends Around The Table - Block print from your kitchen cupboard (Duplicated)'
+title: 'Friends Around The Table - Portable feasts with friends'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647957647
-start_date: '2022-05-09 10:30'
-end_date: '2022-05-09 12:30'
+updated_at: 1647957903
+start_date: '2022-05-16 10:30'
+end_date: '2022-05-16 12:30'
 event_categories:
   - crafts
   - nature
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Jac Campbell to learn simple printing techniques for summer gatherings.'
+        text: 'Lola De Mille will share food ideas for outdoors socialising, whether it''s a wild gathering or a park bench catch-up'
   -
     type: paragraph
     content:
