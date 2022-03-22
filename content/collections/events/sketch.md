@@ -7,12 +7,12 @@ start_date: '2022-03-15 19:30'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647967713
+updated_at: 1647967883
 event_categories:
   - art
 organisers:
   - led-creatives
-featured_image: sketch-new-wolsey-pub.jpg
+featured_image: offthepressimages/otpillustrations/VISUALARTS.png
 end_date: '2022-03-15 22:00'
 latitude: '52.05363164877224'
 longitude: '1.1608876675719249'
