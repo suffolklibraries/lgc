@@ -1,5 +1,6 @@
 ---
 id: db09da27-4892-4b24-9452-bba3049e84ad
+published: false
 blueprint: events
 title: 'Art Space - Printmaking workshop (Duplicated)'
 event_categories:
