@@ -2,24 +2,24 @@
 id: db09da27-4892-4b24-9452-bba3049e84ad
 published: false
 blueprint: events
-title: 'Art Space - Printmaking workshop (Duplicated)'
+title: 'Art Space - pottery & clay workshop'
 event_categories:
   - teen-and-young-adult
   - art
 organisers:
   - suffolk-libraries
 featured_image: offthepressimages/otpillustrations/VISUALARTS.png
-start_date: '2022-03-25 16:00'
-end_date: '2022-03-25 18:00'
+start_date: '2022-03-26 12:00'
+end_date: '2022-03-26 14:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair access'
-latitude: '52.034397590862206'
-longitude: '1.1827808125027703'
-address_line_1: 'Gainsborough Community Library'
-address_line_2: 'Clapgate Ln'
-town: Ipswich
-postcode: 'IP3 0RL'
+latitude: '52.02533402507254'
+longitude: '0.7496957619302699'
+address_line_1: 'Great Cornard Library'
+address_line_2: 'Head Ln'
+town: 'Great Cornard'
+postcode: 'CO10 0JU'
 content_area:
   -
     type: heading
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn about printmaking with Art Space, a workshop series for 12 to 16 year olds!'
+        text: 'Learn about ceramic art with Art Space, a workshop series for 12 to 16 year olds!'
   -
     type: paragraph
     content:
@@ -46,7 +46,13 @@ content_area:
     content:
       -
         type: text
-        text: 'In this six-week series at Gainsborough Community Library, participants will have the opportunity to explore two historic printmaking techniques - cyanotype and lino print. Printmaking artist Sarah Nkugwa will be joining the sessions on 25 March and 20 May.'
+        text: 'In this six-week series at Great Cornard Library, participants will have the opportunity to explore making with clay. Ceramicist Rachel Kurdynowska will be joining the sessions on 26 March and 21 May.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'All materials are provided, and snacks too!'
   -
     type: paragraph
     content:
@@ -64,7 +70,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Week 1: 25 March (joined by artist Sarah Nkugwa)'
+                text: 'Week 1: 26 March (joined by artist Rachel Kurdynowska)'
       -
         type: list_item
         content:
@@ -73,7 +79,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Week 2: 1 April'
+                text: 'Week 2: 2 April'
       -
         type: list_item
         content:
@@ -82,7 +88,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Week 3: 8 April'
+                text: 'Week 3: 9 April'
       -
         type: list_item
         content:
@@ -91,7 +97,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Week 4: 6 May'
+                text: 'Week 4: 7 May'
       -
         type: list_item
         content:
@@ -100,7 +106,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Week 5: 13 May'
+                text: 'Week 5: 14 May'
       -
         type: list_item
         content:
@@ -109,7 +115,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Week 6: 20 May (joined by artist Sarah Nkugwa)'
+                text: 'Week 6: 21 May (joined by artist Rachel Kurdynowska)'
   -
     type: paragraph
     content:
@@ -129,19 +135,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Art space takes place at Gainsborough Community Library,IP3 0RL.'
+        text: 'Art space takes place at Great Cornard Library, CO10 0JU.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are bus routes that are three to five minute walk from the venue.'
+        text: 'There are bus routes that are 5 minute walk from the venue.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are wide doors for those that have extra accessibility needs.'
+        text: 'The venue has free carparking on site.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue has automatic double doors for those that require extra accessibility. '
   -
     type: heading
     attrs:
@@ -162,17 +174,17 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.eventbrite.co.uk/e/art-space-printmaking-gainsborough-library-tickets-238441253207?aff=ebdsoporgprofile'
+              href: 'https://www.eventbrite.co.uk/e/art-space-pottery-clay-great-cornard-library-tickets-267455174627?aff=ebdsoporgprofile'
               rel: null
               target: null
               title: null
-        text: 'https://www.eventbrite.co.uk/e/art-space-printmaking-gainsborough-library-tickets-238441253207?aff=ebdsoporgprofile'
-booking_link: 'https://www.eventbrite.co.uk/e/art-space-printmaking-gainsborough-library-tickets-238441253207?aff=ebdsoporgprofile'
+        text: 'https://www.eventbrite.co.uk/e/art-space-pottery-clay-great-cornard-library-tickets-267455174627?aff=ebdsoporgprofile'
+booking_link: 'https://www.eventbrite.co.uk/e/art-space-pottery-clay-great-cornard-library-tickets-267455174627?aff=ebdsoporgprofile'
 cta: |-
   This event is run by Suffolk Libraries, for more informations please get in touch via:
 
-  [https://www.suffolklibraries.co.uk/whats-on/art-space-printmaking-workshop](https://www.suffolklibraries.co.uk/whats-on/art-space-printmaking-workshop)
+  [https://www.suffolklibraries.co.uk/whats-on/art-space-pottery-and-clay-workshop](https://www.suffolklibraries.co.uk/whats-on/art-space-pottery-and-clay-workshop)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647947409
+updated_at: 1647949017
 ---
 Free art workshops for young people aged 12-16
