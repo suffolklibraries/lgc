@@ -1,11 +1,11 @@
 ---
 id: 3f7ba3b6-8b55-4957-ba80-5fe7a7f6387f
-published: false
 blueprint: events
 title: 'Free Art Workshops with Verity Slade'
 event_categories:
   - art
   - teen-and-young-adult
+  - crafts
 organisers:
   - art-eat-events
 featured_image: IMG_1668.JPG
@@ -33,13 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Inviting young people of Ipswich to take part in mural design workshops with artist Verity Slade. No registration necessary, just come along!'
+        text: 'Turn up and get arty!  Art Eat Events are inviting young people of Ipswich to take part in mural design workshops with artist Verity Slade. No registration necessary, just come along!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Thursdays: 24th March, 31st March & 7th April 2022 5.00pm - 7.00pm.'
+        text: 'Thursdays: 5.00pm - 7.00pm 24th March, 31st March & 7th April 2022 '
   -
     type: heading
     attrs:
@@ -53,19 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Free Art Workshops meets at The Hive in Ipswich,IP1 2ET.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking between one to two minute wall from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are also bus routes that are also one to two minute walk from the venue.'
+        text: 'Free Art Workshops meets at The Hive in Ipswich, IP1 2ET. Close to the town centre, there are local bus routes and car parks nearby. '
   -
     type: heading
     attrs:
@@ -81,12 +69,11 @@ content_area:
         type: text
         text: 'This is a drop in event so no booking is required.'
 cta: |-
-  This event is run by Verity Slade at Art Eat Events, for more information please get in touch via:
+  This event is run by Verity Slade with Art Eat Events, for more information please get in touch via:
 
   [hiya@verityslade.com](mailto:hiya@verityslade.com)
-
-  [07856165382](tel:07856165382)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647876999
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1647947947
+attendance_information: '11-18 years old'
 ---
-free workshops for young people to help develop skills in art.
+Free workshops for young people an teens to help develop their skills in art.
