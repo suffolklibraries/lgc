@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: offthepressimages/otpillustrations/VISUALARTS.png
-start_date: '2022-03-22 15:37'
-end_date: '2022-03-22 15:37'
+start_date: '2022-03-22 14:30'
+end_date: '2022-03-22 18:30'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair access'
@@ -48,6 +48,75 @@ content_area:
         type: text
         text: 'In this six-week series of Art Space at Ipswich County Library, participants will have the opportunity to make their own tote bags and plant pots, whilst exploring pattern & design through hand drawing and digital painting. Local artist Lily Hammond will be joining the sessions on 22 March and 17 May.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Art Space workshops will run during term time.'
+  -
+    type: bullet_list
+    content:
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Week 1: 22 March (joined by artist Lily Hammond)'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Week 2: 29 March'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Week 3: 5 April'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Week 4: 3 May'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Week 5: 10 May'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Week 6: 17 May (joined by artist Lily Hammond)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Art Space participants do not have to attend every workshop, but it is recommended that they join all or as many as possible to get the best out of it.'
+  -
     type: heading
     attrs:
       level: 2
@@ -72,7 +141,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is also carparking between five and seven minute walk from the venue behind The  Regent Theatre.'
+        text: 'There is also carparking between five and seven minute walk from the venue behind The Regent Theatre.'
   -
     type: heading
     attrs:
@@ -104,6 +173,6 @@ cta: |-
 
   [https://www.suffolklibraries.co.uk/whats-on/art-space-pattern-and-design-workshop](https://www.suffolklibraries.co.uk/whats-on/art-space-pattern-and-design-workshop)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647880782
+updated_at: 1647949680
 ---
 Free art workshops for young people aged 12-16
