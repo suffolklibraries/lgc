@@ -1,18 +1,17 @@
 ---
 id: 306ce382-fa4a-4594-b47f-c24dde91ddee
-published: false
 blueprint: events
 title: 'Bury St Edmunds Guildhall – 850 years a witness to the town and county'
 start_date: '2022-04-27 10:30'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647864424
+updated_at: 1648035942
 event_categories:
   - history
 organisers:
   - suffolk-archives
-featured_image: offthepressimages/otpillustrations/OUTSIDEVENUE.png
+featured_image: outsidevenue-2-resize.png
 end_date: '2022-04-27 11:30'
 cost_details: £6
 latitude: '52.24222161832669'
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: "The Bury St Edmunds Guildhall is reputedly one of the largest and certainly longest continuously used civic building in England. Its long history began under the shadow of one of the most powerful Benedictine abbeys in the land and as such was a focus of tension between town and abbey. Following the abbey’s dissolution, being the administrative centre of town life for the next 300 years, it witnessed both violence and celebration in equal measure. \_The Guildhall has also played a significant role in shaping the course of the nation’s history, even into the twentieth century and the dark days of the Second World War."
+        text: 'The Bury St Edmunds Guildhall is reputedly one of the largest and certainly longest continuously used civic buildings in England. Its long history began under the shadow of one of the most powerful Benedictine abbeys in the land and as such was a focus of tension between town and abbey. Following the abbey’s dissolution, being the administrative centre of town life for the next 300 years, it witnessed both violence and celebration in equal measure. The Guildhall has also played a significant role in shaping the course of the nation’s history, even into the twentieth century and the dark days of the Second World War.'
       -
         type: hard_break
       -
@@ -85,25 +84,26 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please visit: '
+        text: 'To book please visit the the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkarchives.co.uk/whats-on/'
+              href: 'https://www.suffolkarchives.co.uk/whats-on/.'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'https://www.suffolkarchives.co.uk/whats-on/'
+        text: 'Suffolk Archives websites'
       -
         type: text
         text: .
 booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
 cta: |-
-  This event is run by Suffolk Archives, for more information please get in touch via:
+  This event is run by Suffolk Archives, for more information please visit the websiteL
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
+attendance_information: 'Open to all'
 ---
-A historical deep dive into the Bury St Edmunds guildhall bulding that's been around for hundreds of years.
+A historical deep dive into the Bury St Edmunds Guildhall bulding.
