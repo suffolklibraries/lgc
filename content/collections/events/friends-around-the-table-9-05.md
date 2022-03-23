@@ -3,8 +3,8 @@ id: 9e4e454d-2cc1-405b-aba6-c6589d7a9e9b
 blueprint: events
 title: 'Friends Around The Table - Block print from your kitchen cupboard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648034447
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1648041189
 start_date: '2022-05-09 10:30'
 end_date: '2022-05-09 12:30'
 event_categories:
