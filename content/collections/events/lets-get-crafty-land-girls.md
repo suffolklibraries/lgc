@@ -1,6 +1,5 @@
 ---
 id: e4562364-97db-4d9b-b7cf-8524f2f07532
-published: false
 blueprint: events
 title: 'Let''s Get Crafty - Land Girls'
 start_date: '2022-04-13 10:00'
@@ -78,26 +77,27 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please visit: '
+        text: 'To book or for more information, please visit '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkarchives.co.uk/whats-on/'
+              href: 'https://www.suffolkarchives.co.uk/whats-on/.'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'https://www.suffolkarchives.co.uk/whats-on/'
+        text: 'The Suffolk Archives website'
       -
         type: text
-        text: .
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648034971
+        text: '. '
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648035230
 event_categories:
   - art
   - crafts
+  - family-friendly
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/otpillustrations/VISUALARTS.png
