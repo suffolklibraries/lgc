@@ -1,7 +1,7 @@
 ---
 id: dd2ab10f-f4d9-49b3-ace5-2fea61e09991
 blueprint: events
-title: 'Laffa''s Walk (Duplicated)'
+title: 'Laffa''s Walk'
 start_date: '2022-03-26 12:00'
 free: true
 virtual: false
@@ -55,11 +55,11 @@ content_area:
         type: text
         text: 'This is a free drop in event so booking is not required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648033808
+updated_at: 1648035034
 event_categories:
   - history
   - movement
-featured_image: Outside-Venue-1521-x-834.png
+featured_image: outsidevenue-2-resize.png
 end_date: '2022-03-26 14:00'
 latitude: '52.109362703013765'
 longitude: '0.796324992788565'
