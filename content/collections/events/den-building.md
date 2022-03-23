@@ -1,11 +1,11 @@
 ---
 id: 7575d87b-634c-4fab-97ba-4e11baa6c666
-published: false
 blueprint: events
-title: 'Den Building'
+title: 'Den Building in Bury St Edmunds'
 event_categories:
   - primary-school-age
   - nature
+  - family-friendly
 start_date: '2022-04-20 11:00'
 free: false
 cost_details: £5
@@ -92,7 +92,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There are bus routes that are just two to three minute walk from the venue.'
+        text: 'There are bus routes that are just a few minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -106,20 +106,23 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please visit: '
+        text: 'To book please visit the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=633347&utm_campaign=13067345_WOWS%20April%202022%20email&utm_medium=email&utm_source=TheApex&dm_i=1FM1'
+              href: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=633347&ins=941390'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=633347&utm_campaign=13067345_WOWS%20April%202022%20email&utm_medium=email&utm_source=TheApex&dm_i=1FM1'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647963508
+        text: 'What''s On West Suffolk website.'
+      -
+        type: text
+        text: ' '
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648034837
 organisers:
   - whats-on-west-suffolk
 featured_image: f251122c-858f-47e5-8024-c064244379c8.jpg
@@ -132,7 +135,7 @@ town: 'Bury Saint Edmunds'
 postcode: 'IP29 5LU'
 booking_link: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=633347&utm_campaign=13067345_WOWS%20April%202022%20email&utm_medium=email&utm_source=TheApex&dm_i=1FM1,7S2TT,74BNZ9,VQBJ5,1'
 cta: |-
-  This event is run by What's On West Suffolk , for more information please visit:
+  This event is promoted by What's On West Suffolk , for more information please visit:
 
   [https://www.whatsonwestsuffolk.co.uk](https://www.whatsonwestsuffolk.co.uk)
 ---
