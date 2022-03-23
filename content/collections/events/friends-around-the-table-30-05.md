@@ -5,7 +5,7 @@ blueprint: events
 title: 'Friends Around The Table - Gather cook & eat'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647958946
+updated_at: 1648041209
 start_date: '2022-05-30 10:30'
 end_date: '2022-05-30 12:30'
 event_categories:
@@ -33,6 +33,18 @@ content_area:
       -
         type: text
         text: 'Explore foraged and local ingredients taking inspiration from the countryside with Lola De Mille.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'At the workshops, people will work with professional artists, where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'All workshops are free of charge and no experience is necessary.'
   -
     type: paragraph
     content:
