@@ -1,6 +1,5 @@
 ---
 id: f42a11e0-73ea-47ec-9417-56174492e08b
-published: false
 blueprint: events
 title: 'Ice Age Festival'
 event_categories:
@@ -36,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a chance for all the family to learn about the ice age of Suffolk and beyond through amazing, internationally important collections.'
+        text: 'This is a chance for all the family to learn about the ice age of Suffolk and beyond, through amazing, internationally important collections.'
   -
     type: paragraph
     content:
@@ -48,7 +47,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Most activities are free, with something for all ages! There will also be a chance for children to take part in our pre-booked ice age arts and crafts workshops.'
+        text: 'Most activities are free, with something for all ages! There will also be a chance for children to take part in our pre-booked ice age arts and crafts workshops (these do cost £4 per child). '
   -
     type: heading
     attrs:
@@ -62,13 +61,41 @@ content_area:
     content:
       -
         type: text
-        text: 'Ice Age Festival takes place at Ipswich Museum,IP1 3QH.'
+        text: 'Ice Age Festival takes place at Ipswich Museum in Ipswich town centre. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is carparking two to three minute walk from the venue. The bus station is also five to ten minute walk from the venue.'
+        text: 'There are car parks and bus routes nearby. For information about all the car parks in Ipswich town centre visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://allaboutipswich.com/visiting/getting-to-ipswich-by-car'
+              rel: null
+              target: _blank
+              title: null
+        text: 'All About Ipswich'
+      -
+        type: text
+        text: ' and for the latest bus timetables visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk on Board'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -83,11 +110,11 @@ content_area:
       -
         type: text
         text: 'No booking is required this is a drop in event.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647267203
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648035631
 organisers:
   - ipswich-museum
 featured_image: offthepressimages/otpillustrations/MUSEUMS.png
 cta: 'This event is run by Ipswich Museums, for more information please get in touch via: [https://suffolkmuseums.org/events/ice-age-festival/](https://suffolkmuseums.org/events/ice-age-festival/)'
 ---
-An exibition at Ipswich Museum based on the ice age.
+An exibition at Ipswich Museum centred around the ice age.
