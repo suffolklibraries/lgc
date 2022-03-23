@@ -1,11 +1,10 @@
 ---
 id: 9e4e454d-2cc1-405b-aba6-c6589d7a9e9b
-published: false
 blueprint: events
 title: 'Friends Around The Table - Block print from your kitchen cupboard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647957647
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648034447
 start_date: '2022-05-09 10:30'
 end_date: '2022-05-09 12:30'
 event_categories:
@@ -38,6 +37,24 @@ content_area:
     content:
       -
         type: text
+        text: 'The Friends Around the Table project aims to explore nature with arts and crafts in regular workshops, to offer family carers and adults living rurally, relaxed and enjoyable get-togethers.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'At the workshops, people will work with professional artists, where there will be opportunities to meet new people, learn new skills and improve their physical and mental wellbeing through inspiring activities.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'All workshops are free of charge and no experience is necessary.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'Participants are welcome to attend as many or as few of the workshops as they are able.'
   -
     type: heading
@@ -52,13 +69,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table be held at The Ansell Centre in Hadleigh,IP7 5DL.'
+        text: 'Friends Around the Table be held at The Ansell Centre in Hadleigh, IP7 5DL.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is carparking five minutes walk from the venue.'
+        text: 'There is a car park a five minute walk from the venue.'
   -
     type: heading
     attrs:
