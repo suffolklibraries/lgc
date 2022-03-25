@@ -1,11 +1,11 @@
 ---
 id: 0838c256-94e5-4620-b26c-4b74d65dc341
-published: false
 blueprint: events
 title: 'West Stow - A Celebration'
 event_categories:
   - history
-  - open-to-all
+  - family-friendly
+  - museums
 organisers:
   - west-stow-anglo-saxon-village
 featured_image: 0e0dacab-ff8d-43e3-ab46-788e0fab15dc.jpg
@@ -33,27 +33,42 @@ content_area:
     content:
       -
         type: text
-        text: 'This weekend, on Mother’s Day weekend no less, is also a chance to find out more about West Stow and our collections, to hear what we have planned in the near future, and to meet the team and volunteers for talks, tours, and family activities.'
+        text: 'This weekend find out more about West Stow and their collections, hear what is planned in the near future, and meet the team and volunteers for talks, tours, and family activities.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The wonderful Rojo Arts will be leading Anglo-Saxon themed crafts in the marquee – join them and make Anglo-Saxon houses out of recycled cardboard and natural materials including foraged inks!'
-      -
-        type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'You can also see members of re-enactment group Stowacynn, and of course enjoy exploring the Anglo-Saxon Village and Museum.'
-      -
-        type: hard_break
-      -
-        type: hard_break
+        marks:
+          -
+            type: bold
+        text: 'Rojo Arts'
       -
         type: text
-        text: 'Admission to the Anglo-Saxon Village is free for this event (car park charges still apply - £3 all day / £2 all day for Blue Badge holders)'
+        text: ' will be leading Anglo-Saxon themed crafts in the marquee – join them and make Anglo-Saxon houses out of recycled cardboard and natural materials including foraged inks!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You can also see members of re-enactment group '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: Stowacynn
+      -
+        type: text
+        text: ', and of course enjoy exploring the Anglo-Saxon Village and Museum.'
+      -
+        type: hard_break
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Admission to the Anglo-Saxon Village is free for this event but car park charges still apply - £3 all day / £2 all day for Blue Badge holders.'
   -
     type: heading
     attrs:
@@ -73,13 +88,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There are bus routes a short walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is onsite carparking, carparking is £3 and £2 for blue badge holders'
+        text: 'There is an onsite car park, car park charges for the day are £3 and £2 for blue badge holders'
   -
     type: heading
     attrs:
@@ -110,10 +119,11 @@ content_area:
         text: website
 booking_link: 'https://www.weststow.org/whats-on/booking.cfm?ins=936990'
 cta: |-
-  The event is run by West Stow Anglo-Saxon Village, for more information please get in touch via:
+  The event is run by West Stow Anglo-Saxon Village, for more information please visit their website:
 
   [https://www.weststow.org](https://www.weststow.org)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648048008
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648206294
+attendance_information: 'Open to all'
 ---
-More than 50 years after the excavation ended, West Stow continues to unearth the past about our Anglo-Saxon ancestors…
+FREE entry this weekend at West Stow and come face to face with one of the Anglo-Saxons who was buried there!
