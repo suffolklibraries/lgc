@@ -1,11 +1,10 @@
 ---
 id: aedab439-0d21-46b0-803a-966fb8d90515
-published: false
 blueprint: events
 title: 'Friends Around The Table - Gather cook & eat'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648041209
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648207268
 start_date: '2022-05-30 10:30'
 end_date: '2022-05-30 12:30'
 event_categories:
@@ -64,13 +63,27 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table be held at The Ansell Centre in Hadleigh,IP7 5DL.'
+        text: 'Friends Around the Table be held at The Ansell Centre in Hadleigh, IP7 5DL.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is carparking five minutes walk from the venue.'
+        text: 'There is a car park a five minute walk from the venue. For more information about how to find the venue, please visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'http://www.ansellcc.org.uk/find-us/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'The Ansell Centre website'
+      -
+        type: text
+        text: '. '
   -
     type: heading
     attrs:
