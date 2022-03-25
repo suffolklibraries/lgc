@@ -1,11 +1,10 @@
 ---
 id: 3cb97740-3746-49d0-b674-729bf3b9a391
-published: false
 blueprint: events
 title: 'Friends Around The Table - Fast flavour for friends'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648041258
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648207207
 start_date: '2022-06-06 10:30'
 end_date: '2022-06-06 12:30'
 event_categories:
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Experiment with herbs aand spices to create bespoke mixes for summer food with Lola De Mille.'
+        text: 'Experiment with herbs and spices to create bespoke mixes for summer food with Lola De Mille.'
   -
     type: paragraph
     content:
@@ -64,13 +63,27 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table be held at The Ansell Centre in Hadleigh,IP7 5DL.'
+        text: 'Friends Around the Table be held at The Ansell Centre in Hadleigh, IP7 5DL.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is carparking five minutes walk from the venue.'
+        text: 'There is a car park a five minute walk from the venue. For more information about how to find the venue, please visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'http://www.ansellcc.org.uk/find-us/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'The Ansell Centre website'
+      -
+        type: text
+        text: '. '
   -
     type: heading
     attrs:
@@ -149,7 +162,7 @@ organisers:
 latitude: '52.042759060214834'
 longitude: '0.9533734566820419'
 address_line_1: 'The Ansell Centre'
-address_line_2: 'Market Pl'
+address_line_2: 'Market Place'
 town: Hadleigh
 postcode: 'IP7 5DL'
 ---
