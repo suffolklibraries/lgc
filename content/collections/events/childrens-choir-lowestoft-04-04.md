@@ -73,7 +73,7 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648454491
+updated_at: 1648454701
 end_date: '2022-04-04 19:00'
 attendance_information: 'Ages 5-11'
 latitude: '52.47621148431746'
