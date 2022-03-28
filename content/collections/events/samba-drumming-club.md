@@ -1,16 +1,18 @@
 ---
 id: 57e514bc-b8a0-4195-a821-648d38119029
+published: false
 blueprint: events
 title: 'Newmarket Samba Drumming Club'
-start_date: '2022-02-02 18:30'
+start_date: '2022-04-06 18:30'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1643638989
+updated_at: 1648460703
 organisers:
+  - newsamba
   - newmarket-community-arts
 featured_image: offthepressimages/Music.png
-end_date: '2022-02-02 20:00'
+end_date: '2022-04-06 20:00'
 cost_details: £6
 latitude: '52.24646566476873'
 longitude: '0.4096564712834654'
@@ -18,7 +20,6 @@ address_line_1: 'The Severals Pavilion'
 address_line_2: '2-4 Bury Rd'
 town: Newmarket
 postcode: 'CB8 7BP'
-booking_link: 'https://www.eventbrite.com/e/newsamba-samba-drumming-club-tickets-238634501217'
 event_categories:
   - music
   - teen-and-young-adult
@@ -26,6 +27,8 @@ attendance_information: |-
   Social distancing in place.
 
   Covid-19 preventative measures in place.
+
+  Ages 14 and up
 accessibility_information: '- Indoor venue'
 content_area:
   -
@@ -69,8 +72,6 @@ content_area:
         type: text
         text: 'The venue has wheel chair access for those that have accessibility needs. '
   -
-    type: paragraph
-  -
     type: heading
     attrs:
       level: 2
@@ -83,18 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please visit: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.eventbrite.com/e/newsamba-samba-drumming-club-tickets-238634501217'
-              rel: null
-              target: null
-              title: null
-        text: 'https://www.eventbrite.com/e/newsamba-samba-drumming-club-tickets-238634501217'
+        text: 'This is a drop in event so no booking is required.'
 cta: |-
   This event is run by Newmarket Community Arts, for more information please get in touch via email or phone:
 
