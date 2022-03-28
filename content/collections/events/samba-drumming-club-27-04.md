@@ -6,7 +6,7 @@ start_date: '2022-04-27 18:30'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648480421
+updated_at: 1648480484
 organisers:
   - newsamba
   - newmarket-community-arts
@@ -61,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Samba Drumming Club meets at The Severals Pavilion Newmarket, CB87BP.'
+        text: 'Samba Drumming Club meets at The Pavilion in Newmarket, CB8 7BP.'
   -
     type: paragraph
     content:
