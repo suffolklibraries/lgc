@@ -1,16 +1,16 @@
 ---
 id: d6cb4274-d644-487f-98d2-8e0a0b6f2323
 blueprint: events
-title: 'Social Action Workshop (Duplicated)'
+title: 'Social Action Workshop'
 event_categories:
   - art
-  - primary-school-age
   - family-friendly
   - activism
+  - teen-and-young-adult
 organisers:
   - rock-paper-scissors
-start_date: '2022-04-19 10:00'
-end_date: '2022-04-19 12:30'
+start_date: '2022-04-21 10:00'
+end_date: '2022-04-21 12:00'
 free: false
 cost_details: £2.50
 virtual: false
@@ -93,7 +93,7 @@ content_area:
               title: null
         text: here
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648477295
+updated_at: 1648477448
 featured_image: Social-action-workshop.jpg
 accessibility_information: '- Wheelchair access'
 latitude: '52.05294195739878'
@@ -107,5 +107,6 @@ cta: |-
   This event is run by Rock Paper Scissors, for more infromaion please visit: 
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
+attendance_information: 'Ages 11 - 18 years'
 ---
-Join Rock Paper Scissors this Easter holiday for art classes all about making your mark, no matter your age.
+Join Rock Paper Scissors this Easter holiday for art classes all about making your mark.
