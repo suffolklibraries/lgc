@@ -1,12 +1,12 @@
 ---
 id: b18a254b-eab2-4d60-bf3e-51ae1d4831fc
-published: false
 blueprint: events
 title: 'Social Action Workshop'
 event_categories:
   - art
   - primary-school-age
-  - teen-and-young-adult
+  - family-friendly
+  - activism
 organisers:
   - rock-paper-scissors
 start_date: '2022-04-19 10:00'
@@ -28,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: "Be inspired by protests in the past to create your own slogans and posters in support of a cause that is close to your heart. Be it save the planet, healthy eating or homes for hedgehogs, express your passion through art\_"
+        text: 'Be inspired by protests in the past to create your own slogans and posters in support of a cause that is close to your heart. Be it saving the planet, healthy eating or making homes for hedgehogs, express your passion through art. '
   -
     type: paragraph
     content:
@@ -40,13 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Tuesday 19th April [5 - 11Yr olds]'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Thursday 21st April [11 -18Yr olds]'
+        text: 'This session on Tuesday 19th April will be for 5  to 11 year olds, there will be another session for 11 to 18 year olds on Thursday 21st April. '
   -
     type: paragraph
     content:
@@ -66,13 +60,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Social Action Workshop  meets at The Hold, 131 Fore Street, Ipswich.'
+        text: 'Social Action Workshop meets at The Hold, 131 Fore Street, Ipswich.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'For those travelling by car, there is a car park a short walk from the venue next to the student halls.'
+        text: 'For those travelling by car, there is a car park a short walk from the venue next to the student halls. Bus routes are also available nearby. '
   -
     type: heading
     attrs:
@@ -98,8 +92,8 @@ content_area:
               target: _blank
               title: null
         text: here
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648462967
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648477295
 featured_image: Social-action-workshop.jpg
 accessibility_information: '- Wheelchair access'
 latitude: '52.05294195739878'
@@ -110,8 +104,8 @@ town: Ipswich
 postcode: 'IP4 1LN'
 booking_link: www.ticketsource.co.uk/suffolk-archives/social-action-arts-with-rock-paper-scissors/e-zrevvm
 cta: |-
-  This event is run by Rock Paper Scissors, for more infromaion please get in touch via:
+  This event is run by Rock Paper Scissors, for more infromaion please visit: 
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 ---
-Join us this Easter holidays for art classes all about making your mark no matter your age.
+Join Rock Paper Scissors this Easter holiday for art classes all about making your mark, no matter your age.
