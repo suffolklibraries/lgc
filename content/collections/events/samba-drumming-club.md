@@ -7,7 +7,7 @@ start_date: '2022-04-06 18:30'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648460703
+updated_at: 1648464314
 organisers:
   - newsamba
   - newmarket-community-arts
