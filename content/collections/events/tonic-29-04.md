@@ -1,6 +1,5 @@
 ---
 id: 9e49e498-c5e7-4c4b-a9c7-694f4516e20a
-published: false
 blueprint: events
 title: TONIC
 event_categories:
@@ -13,10 +12,13 @@ start_date: '2022-04-29 10:30'
 end_date: '2022-04-29 12:00'
 free: true
 virtual: false
-attendance_information: 'Indoor venue'
+attendance_information: |-
+  Anyone living with chronic pain and/or a long term health condition
+  Partners, friends and carers welcome
 accessibility_information: |-
   - Wheelchair access
   - Seated venue
+  - Indoor venue
 latitude: '52.0938914263135'
 longitude: '1.317752201967017'
 address_line_1: 'Woodbridge Library'
@@ -43,7 +45,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our new TONIC singing group offers a friendly, relaxed opportunity to sing uplifting songs in the company of other people who are experiencing similar challenges. Join us for an hour of singing followed by 30 minutes of social time, with a free tea or coffee included.'
+        text: 'Our new TONIC singing group offers a friendly, relaxed opportunity to sing uplifting songs in the company of other people who are experiencing similar challenges. Join Cohere Arts for an hour of singing followed by 30 minutes of social time, with a free tea or coffee included.'
   -
     type: heading
     attrs:
@@ -63,13 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There are bus routes that are a five minute walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is a carpark that is out side of the the venue.'
+        text: 'There is a carpark outside of the the venue and bus routes operating nearby.'
   -
     type: paragraph
     content:
@@ -93,10 +89,8 @@ content_area:
 cta: |-
   This event is run by Cohere Arts, for more information please get in touch via:
 
-  [07748070647](tel:07748070647)
-
-  [coherearts@gmail.com](mailo:coherearts@gmail.com)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1648459582
+  [coherearts@gmail.com](mailto:coherearts@gmail.com)
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1648479089
 ---
-a seated singing group for people living with chronic pain and/or long term health conditions
+A seated singing group for people living with chronic pain and/or long term health conditions.
