@@ -6,13 +6,13 @@ start_date: '2022-04-27 18:30'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648480400
+updated_at: 1648480421
 organisers:
   - newsamba
   - newmarket-community-arts
 featured_image: AC51083B-AD27-4807-B27C-E8E718AFD7B3.jpeg
 end_date: '2022-04-27 20:00'
-cost_details: £6
+cost_details: £3/£6
 latitude: '52.24646566476873'
 longitude: '0.4096564712834654'
 address_line_1: 'The Severals Pavilion'
