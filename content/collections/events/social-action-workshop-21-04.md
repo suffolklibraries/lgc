@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This session on Tuesday 19th April will be for 5  to 11 year olds, there will be another session for 11 to 18 year olds on Thursday 21st April. '
+        text: 'This session on Thursday 21st April is for young people aged 11 to 18 year olds, there is another session on Tuesday 19th April for younger children. '
   -
     type: paragraph
     content:
@@ -93,7 +93,7 @@ content_area:
               title: null
         text: here
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648477448
+updated_at: 1648477658
 featured_image: Social-action-workshop.jpg
 accessibility_information: '- Wheelchair access'
 latitude: '52.05294195739878'
