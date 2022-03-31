@@ -93,14 +93,14 @@ content_area:
         type: text
         text: '. '
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648035230
+updated_at: 1648718706
 event_categories:
   - art
   - crafts
   - family-friendly
 organisers:
   - suffolk-archives
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 end_date: '2022-04-13 12:30'
 latitude: '52.24222161832669'
 longitude: '0.7195140154637296'
