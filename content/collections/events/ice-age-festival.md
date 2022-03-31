@@ -111,10 +111,10 @@ content_area:
         type: text
         text: 'No booking is required this is a drop in event.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648035631
+updated_at: 1648718380
 organisers:
   - ipswich-museum
-featured_image: offthepressimages/otpillustrations/MUSEUMS.png
+featured_image: offthepressimages/new_resized_images/Museum.png
 cta: 'This event is run by Ipswich Museums, for more information please get in touch via: [https://suffolkmuseums.org/events/ice-age-festival/](https://suffolkmuseums.org/events/ice-age-festival/)'
 ---
 An exibition at Ipswich Museum centred around the ice age.
