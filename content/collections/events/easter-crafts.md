@@ -95,13 +95,13 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647968198
+updated_at: 1648718536
 event_categories:
   - art
   - crafts
   - primary-school-age
   - family-friendly
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 end_date: '2022-04-11 12:30'
 cost_details: '£2.50 per child'
 attendance_information: '5-11 year olds'
