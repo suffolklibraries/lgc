@@ -9,7 +9,7 @@ start_date: '2022-04-08 18:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649068919
+updated_at: 1649068969
 event_categories:
   - open-to-all
   - art
@@ -81,7 +81,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a drop in even so no booking is required.'
+        text: 'This is a drop in event so no booking is required.'
 cta: |-
   This event is run by The Art Station, for more information please get in touch via:
 
