@@ -32,7 +32,13 @@ content_area:
     content:
       -
         type: text
-        text: "Some of the best UK jazz musicians who are tutors on Suffolk Jazz School's Spring Jazz Course perform a public gig. \_It's a unique line up of excellence and you won't see all these musicians play together anywhere else."
+        text: "Some of the best UK jazz musicians who are tutors on Suffolk Jazz School's Spring Jazz Course perform a public gig. \_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'It''s a unique line up of excellence and you won''t see all these musicians play together anywhere else.'
   -
     type: heading
     attrs:
@@ -88,6 +94,11 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649172328
+updated_at: 1649172658
+booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/northgate-arts-centre/suffolk-jazz-school-tutors-gig/2022-04-19/13:45/t-kvalje'
+cta: |-
+  This event is run by Suffolk Jazz school, for more information please get in touch via:
+
+  [https://suffolkjazzschool.co.uk/](https://suffolkjazzschool.co.uk/)
 ---
 A Jazz gig feturing the tutors from Suffolk Jazz School.
