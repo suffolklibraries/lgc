@@ -27,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a range of family Easter craft sessions at The Hold. '
+        text: 'Find a range of family Easter craft sessions at The Hold. Craft sessions will be running on the 11th, 12th, 13th and 14th of April from 10am to 12:30pm. '
       -
         type: hard_break
       -
@@ -35,12 +35,6 @@ content_area:
       -
         type: text
         text: 'Advance booking is required for this event and children must be accompanied by a responsible adult at all times.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are also dates available on the 12th, 13th and the 14th of April.'
   -
     type: heading
     attrs:
@@ -95,14 +89,14 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648718756
+updated_at: 1649343024
 event_categories:
   - art
   - crafts
   - primary-school-age
   - family-friendly
-featured_image: offthepressimages/new_resized_images/VisualArts.png
-end_date: '2022-04-11 12:30'
+featured_image: The-Hold-Easter-craft-poster-(2)-1649342958.png
+end_date: '2022-04-14 12:30'
 cost_details: '£2.50 per child'
 attendance_information: '5-11 year olds'
 ---
