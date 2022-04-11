@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: offthepressimages/new_resized_images/Craft_Museum.png
-start_date: '2022-04-16 11:00'
-end_date: '2022-04-16 13:00'
+start_date: '2022-04-23 11:00'
+end_date: '2022-04-23 13:00'
 free: true
 virtual: false
 latitude: '52.45679714756922'
@@ -41,18 +41,9 @@ content_area:
         text: 'There will be three workshops on consecutive Sundays and our young participants will need to take part in all three.'
       -
         type: hard_break
-  -
-    type: paragraph
-    content:
       -
         type: text
         text: 'The workshop is free and all resources and materials are provided.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Additional date: 23rd April 2022.'
   -
     type: heading
     attrs:
@@ -107,6 +98,6 @@ cta: |-
 
   [https://theseagull.co.uk/activities/](https://theseagull.co.uk/activities/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649676736
+updated_at: 1649676823
 ---
 Get to create your own puppet in this arts and crafts workshop.
