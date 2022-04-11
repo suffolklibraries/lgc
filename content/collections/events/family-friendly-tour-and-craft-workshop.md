@@ -11,7 +11,7 @@ event_categories:
 organisers:
   - the-hold
   - suffolk-archives
-featured_image: image_2022-04-11_120442100.png
+featured_image: image_2022-04-11_155236221.png
 start_date: '2022-04-20 14:00'
 end_date: '2022-04-20 16:00'
 free: true
@@ -97,7 +97,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649688276
+updated_at: 1649690884
 attendance_information: 'Ages 4 - 13'
 ---
 Are you looking for an opportunity for you and your children to learn about history and do crafts during the Easter Holiday?
