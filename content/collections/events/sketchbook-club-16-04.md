@@ -6,14 +6,14 @@ start_date: '2022-04-16 12:00'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649675120
+updated_at: 1649689684
 event_categories:
   - art
   - teen-and-young-adult
   - crafts
 organisers:
   - rock-paper-scissors
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+featured_image: weekly-sketchbook-club.jfif
 end_date: '2022-04-16 13:30'
 cost_details: '£5 per session'
 latitude: '52.0530234424015'
