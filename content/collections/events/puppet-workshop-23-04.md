@@ -1,7 +1,7 @@
 ---
 id: 5cd35871-5681-4d41-a895-4a64b2bd397f
 blueprint: events
-title: 'Puppet Workshop for ages 10 - 14 (Duplicated)'
+title: 'Puppet Workshop for ages 10 - 14'
 event_categories:
   - crafts
   - teen-and-young-adult
@@ -98,6 +98,6 @@ cta: |-
 
   [https://theseagull.co.uk/activities/](https://theseagull.co.uk/activities/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649676823
+updated_at: 1649676835
 ---
 Get to create your own puppet in this arts and crafts workshop.
