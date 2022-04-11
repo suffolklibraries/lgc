@@ -1,14 +1,14 @@
 ---
 id: 21467cf4-50ab-4552-8370-7bf5c503f51e
 blueprint: events
-title: 'Saturday Art Club (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - art
   - primary-school-age
 organisers:
   - rock-paper-scissors
 featured_image: saturday-art-club.jfif
-start_date: '2022-04-16 10:00'
+start_date: '2022-04-23 10:00'
 free: false
 virtual: false
 latitude: '52.05306962490606'
@@ -115,8 +115,8 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649677234
-end_date: '2022-04-16 11:30'
+updated_at: 1649677285
+end_date: '2022-04-23 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
 ---
