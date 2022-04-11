@@ -1,5 +1,6 @@
 ---
 id: ab7ead5d-777e-4e8e-8f6e-155b095b060a
+published: false
 blueprint: events
 title: 'Family Friendly Tour & Craft Workshop'
 event_categories:
@@ -95,8 +96,8 @@ cta: |-
   This event is run by The Hold and Suffolk Archives, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649677980
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1649688276
 attendance_information: 'Ages 4 - 13'
 ---
 Are you looking for an opportunity for you and your children to learn about history and do crafts during the Easter Holiday?
