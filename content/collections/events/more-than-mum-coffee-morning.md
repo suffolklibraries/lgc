@@ -1,6 +1,5 @@
 ---
 id: 0c6b1700-8654-4b5c-958a-99f51314c31a
-published: false
 blueprint: events
 title: 'More Than Mum Coffee Morning!'
 event_categories:
@@ -32,17 +31,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Are you a mum who wants to make new friends? Be a part of a supportive and friendly group for women?'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Come to these coffee mornings to enjoy some coffee/tea and cake and relax while meeting other mums!'
-      -
-        type: hard_break
+        text: 'Are you a mum who wants to make new friends? '
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: 'There will be appearances from local services and networks too'
+        text: 'Be a part of a supportive and friendly group for women. Come along to these coffee mornings on the first Friday of every month to enjoy some coffee or tea and cake and relax while meeting other mums!'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There will be appearances from local services and networks too.'
   -
     type: heading
     attrs:
@@ -62,13 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is paid carparking next to the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus routes that are a one to two minute walk from the venue.'
+        text: 'On the Waterfront in Ipswich, car parks and transport links are nearby. '
   -
     type: heading
     attrs:
@@ -87,7 +84,8 @@ cta: |-
   This event is run by the future female Society, For more information please get in touch via:
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649686957
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649704966
+attendance_information: Mums!
 ---
 Come and join for the new More Than Mums Coffee Mornings!
