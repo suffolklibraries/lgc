@@ -33,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Turn up and get arty!  Art Eat Events are inviting young people of Ipswich to take part in mural design workshops with artist Verity Slade. No registration necessary, just come along!'
+        text: 'Turn up and get arty! Art Eat Events are inviting young people of Ipswich to take part in mural design workshops with artist Verity Slade. No registration necessary, just come along!'
   -
     type: paragraph
     content:
@@ -73,7 +73,7 @@ cta: |-
 
   [hiya@verityslade.com](mailto:hiya@verityslade.com)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647947947
+updated_at: 1649675168
 attendance_information: '11-18 years old'
 ---
 Free workshops for young people an teens to help develop their skills in art.
