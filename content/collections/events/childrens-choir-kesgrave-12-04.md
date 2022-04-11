@@ -7,7 +7,7 @@ event_categories:
   - primary-school-age
 organisers:
   - my-choir-rocks
-start_date: '2022-04-12 17:30'
+start_date: '2022-04-26 17:30'
 free: false
 cost_details: £5
 virtual: false
@@ -90,8 +90,8 @@ content_area:
         type: text
         text: 'The first session of the children''s choir is free to attend and, if your child enjoys the session, from then on is £5 per session.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649062627
-end_date: '2022-04-12 18:30'
+updated_at: 1649670665
+end_date: '2022-04-26 18:30'
 attendance_information: '5-11 years'
 latitude: '52.0617115716603'
 longitude: '1.2363744326897836'
