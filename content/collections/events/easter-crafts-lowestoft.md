@@ -1,8 +1,7 @@
 ---
 id: 46b655d8-297a-43c0-aa4f-78e046d226a1
-published: false
 blueprint: events
-title: 'Let''s Get Crafty: Easter Crafts Lowestoft'
+title: 'Let''s Get Crafty: Easter Fun at Suffolk Archives'
 organisers:
   - suffolk-archives
 start_date: '2022-04-13 13:00'
@@ -55,7 +54,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is paid carparking just next to the library.'
+        text: 'There is paid car parking just next to the library.'
   -
     type: paragraph
     content:
@@ -95,8 +94,8 @@ cta: |-
   This event is run by Suffolk Archives, for more information please visit the Suffolk Archives website:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649677344
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649677679
 event_categories:
   - art
   - crafts
@@ -105,5 +104,6 @@ event_categories:
 end_date: '2022-04-13 15:00'
 attendance_information: '5-11 year olds'
 featured_image: Lowestoft-Archives-Easter-Crafts.png
+accessibility_information: '- wheelchair access'
 ---
-An Easter themed arts and crafts activity session for children.
+An Easter themed arts and crafts activity session for children at The Suffolk Archives in Lowestoft.
