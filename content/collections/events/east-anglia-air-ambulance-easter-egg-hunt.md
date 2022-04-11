@@ -1,13 +1,12 @@
 ---
 id: dd8d12c4-3691-4561-ab99-947195d1f097
-published: false
 blueprint: events
 title: 'East Anglia Air Ambulance Easter Egg Hunt'
 start_date: '2022-04-17 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1646748347
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649678517
 event_categories:
   - family-friendly
 organisers:
@@ -34,19 +33,19 @@ content_area:
     content:
       -
         type: text
-        text: 'This annual family day out at the museum is in support of the East Anglian Air Ambulance. A donation will be made to the Air Ambulance after the event.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There will be stalls and games for all the family to enjoy. There will be a quiz on the day with an Easter Egg being the reward…actually, everyone taking part will receive an egg!'
+        text: 'Time for an Easter egg hunt! Head to the Norfolk and Suffolk Aviation Museum on Easter Sunday for stalls and games for all the family to enjoy. There will be a quiz on the day with an Easter Egg being the reward…actually, everyone taking part will receive an egg!'
   -
     type: paragraph
     content:
       -
         type: text
         text: 'With free entry and free parking, there are also 1000’s of artefacts, 60+ aircraft and cockpits, and themed rooms dedicated to the RAF Bomber Command, 446th Bomb Group, Air-Sea Rescue/Coastal Command and the Royal Observer Corps.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This annual family day out at the museum is in support of the East Anglian Air Ambulance. A donation will be made to the Air Ambulance after the event.'
   -
     type: heading
     attrs:
@@ -60,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event takes place at the Norfolk and Suffolk Aviation Museum,NR35 1NZ.'
+        text: 'This event takes place at the Norfolk and Suffolk Aviation Museum, NR35 1NZ.'
   -
     type: paragraph
     content:
@@ -86,4 +85,4 @@ cta: |-
 
   [https://aviationmuseum.net/](https://aviationmuseum.net/)
 ---
-The annual East Anglian Air Ambulance Easter Egg Hunt will take place at the Norfolk and Suffolk Aviation Museum.
+Annual East Anglian Air Ambulance Easter Egg Hunt at the Norfolk and Suffolk Aviation Museum.
