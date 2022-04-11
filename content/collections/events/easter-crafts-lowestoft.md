@@ -2,18 +2,18 @@
 id: 46b655d8-297a-43c0-aa4f-78e046d226a1
 published: false
 blueprint: events
-title: 'Let''s Get Crafty: Easter Crafts (Duplicated)'
+title: 'Let''s Get Crafty: Easter Crafts Lowestoft'
 organisers:
   - suffolk-archives
-start_date: '2022-04-11 10:00'
-free: false
+start_date: '2022-04-13 13:00'
+free: true
 virtual: false
-latitude: '52.05294195739878'
-longitude: '1.1635607557180385'
-address_line_1: 'The Hold'
-address_line_2: '131 Fore Street'
-town: Ipswich
-postcode: 'IP4 1LN'
+latitude: '52.47699554797066'
+longitude: '1.750409297706314'
+address_line_1: 'Lowestoft Central Library'
+address_line_2: 'Clapham Rd S'
+town: Lowestoft
+postcode: 'NR32 1DR'
 content_area:
   -
     type: heading
@@ -49,13 +49,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Let''s Get Crafty: Easter Crafts meets at The Hold, 131 Fore Street, Ipswich.'
+        text: 'Let''s Get Crafty: Easter Crafts meets at Lowestoft Central Library, NR32 1DR.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'For those travelling by car, there is a car park a short walk from the venue next to the student halls.'
+        text: 'There is paid carparking just next to the library.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building has access ramps and automatic double doors for those with accessibility needs.'
   -
     type: heading
     attrs:
@@ -90,15 +96,13 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649676197
+updated_at: 1649677040
 event_categories:
   - art
   - crafts
   - primary-school-age
   - family-friendly
-featured_image: The-Hold-Easter-craft-poster-(2)-1649342958.png
-end_date: '2022-04-14 12:30'
-cost_details: '£2.50 per child'
+end_date: '2022-04-13 15:00'
 attendance_information: '5-11 year olds'
 ---
 An Easter themed arts and crafts activity session for children.
