@@ -103,7 +103,7 @@ event_categories:
   - family-friendly
 end_date: '2022-04-13 15:00'
 attendance_information: '5-11 year olds'
-featured_image: Capture3.PNG
+featured_image: 'Let''s get crafty Easter.PNG'
 accessibility_information: '- wheelchair access'
 ---
 An Easter themed arts and crafts activity session for children at The Suffolk Archives in Lowestoft.
