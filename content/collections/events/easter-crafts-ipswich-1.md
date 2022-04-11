@@ -1,5 +1,6 @@
 ---
 id: 46b655d8-297a-43c0-aa4f-78e046d226a1
+published: false
 blueprint: events
 title: 'Let''s Get Crafty: Easter Crafts (Duplicated)'
 organisers:
@@ -88,8 +89,8 @@ cta: |-
   This event is run by Suffolk Archives, for more information please visit the Suffolk Archives website:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649343024
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1649676197
 event_categories:
   - art
   - crafts
