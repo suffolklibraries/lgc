@@ -1,16 +1,16 @@
 ---
 id: 09d59b42-bdc2-42b9-ac43-12062a69232e
-published: false
 blueprint: events
 title: 'Puppet Workshop Ages 10 - 14'
 event_categories:
   - crafts
   - teen-and-young-adult
+  - primary-school-age
 organisers:
   - the-seagull-theatre
-featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2022-04-09 11:00'
-end_date: '2022-04-09 13:00'
+featured_image: offthepressimages/new_resized_images/Craft_Museum.png
+start_date: '2022-04-16 11:00'
+end_date: '2022-04-16 13:00'
 free: true
 virtual: false
 latitude: '52.45679714756922'
@@ -41,6 +41,9 @@ content_area:
         text: 'There will be three workshops on consecutive Sundays and our young participants will need to take part in all three.'
       -
         type: hard_break
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'The workshop is free and all resources and materials are provided.'
@@ -49,7 +52,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Additional dates: 16th April 2022, 23rd April 2022.'
+        text: 'Additional date: 23rd April 2022.'
   -
     type: heading
     attrs:
@@ -69,13 +72,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The building has a carpark at the front of the building.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The building does have wheel chair accessibility for those that have accessibility needs.'
+        text: 'The building has a car park at the front and wheelchair access.'
   -
     type: heading
     attrs:
@@ -89,7 +86,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please visit this link '
+        text: 'The workshop is free but to book a place please visit The Seagull website '
       -
         type: text
         marks:
@@ -109,7 +106,7 @@ cta: |-
   This event is run by The Seagull Theatre, fore more information please get in touch via:
 
   [https://theseagull.co.uk/activities/](https://theseagull.co.uk/activities/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649165077
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649676718
 ---
-An arts and crafts workshops creating your own puppets.
+Get to create your own puppet in this arts and crafts workshop.
