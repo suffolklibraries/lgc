@@ -115,8 +115,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649677160
+updated_at: 1649677234
 end_date: '2022-04-16 11:30'
 cost_details: £5
+attendance_information: '5 - 10 years'
 ---
 A weekly art club for 5-10 year olds - have creative fun and explore process art.
