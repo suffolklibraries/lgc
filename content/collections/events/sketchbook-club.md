@@ -1,13 +1,12 @@
 ---
 id: ce0a41e6-c4f7-477b-8142-d2966f451cc3
-published: false
 blueprint: events
 title: 'High Schoolers Saturday Sketchbook Club'
 start_date: '2022-04-16 12:00'
 free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649674844
+updated_at: 1649674867
 event_categories:
   - art
   - teen-and-young-adult
