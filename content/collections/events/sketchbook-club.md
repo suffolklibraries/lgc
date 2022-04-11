@@ -2,19 +2,20 @@
 id: ce0a41e6-c4f7-477b-8142-d2966f451cc3
 published: false
 blueprint: events
-title: 'Sketchbook Club'
-start_date: '2022-03-26 12:00'
+title: 'High Schoolers Saturday Sketchbook Club'
+start_date: '2022-04-16 12:00'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647871825
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649674844
 event_categories:
   - art
   - teen-and-young-adult
+  - crafts
 organisers:
   - rock-paper-scissors
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
-end_date: '2022-03-26 13:30'
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
+end_date: '2022-04-16 13:30'
 cost_details: '£5 per session'
 latitude: '52.0530234424015'
 longitude: '1.163542469424476'
@@ -35,7 +36,36 @@ content_area:
     content:
       -
         type: text
-        text: 'A weekly sketchbook club for 11-18 year olds, with a focus on illustration, collage, typography and other 2D techniques. We will have different local artists showing how they use sketchbooks in their art practice, teaching and inspiring new techniques. We will aim to have a termly exhibit of the work.'
+        text: 'Meet at The Hold in Ipswich for a weekly sketchbook club for 11-18 year olds, with a focus on illustration, collage, typography and other 2D techniques. There will be different local artists showing how they use sketchbooks in their art practice, teaching and inspiring new techniques. Each term there''s an aim to exhibit work.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Each session lasts 90 minutes and is drop off - all staff are DBS checked and paediatric first aid qualified, along with safeguarding training. If you would like to see any of these policies, please ask.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are a number of free spaces available each week via our community partners, the price you pay goes towards subsidising these - if you want to find out more, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:team@rockpaperscissors.org.uk'
+              rel: null
+              target: _blank
+              title: null
+        text: 'get in touch with Rock Paper Scissors'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is the opportunity to work towards an Arts Award qualification, so chat to Lulu at Rock Paper Scissors if that is something you are interested in.'
   -
     type: heading
     attrs:
@@ -84,5 +114,6 @@ content_area:
 booking_link: 'https://www.rockpaperscissors.org.uk/shop/highschoolerssketchbookclub'
 cta: 'This event is run by Rock Paper Scissors, for more information please visit: [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)'
 address_line_2: '131 Fore Street'
+attendance_information: '11-18 years'
 ---
-A weekly drawing session for 11-18 year olds to hone their craft.
+A weekly drawing session at The Hold for 11-18 year olds to hone their craft.
