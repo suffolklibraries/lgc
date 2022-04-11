@@ -94,8 +94,8 @@ cta: |-
   This event is run by Suffolk Archives, for more information please visit the Suffolk Archives website:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649677679
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1649687735
 event_categories:
   - art
   - crafts
@@ -103,7 +103,7 @@ event_categories:
   - family-friendly
 end_date: '2022-04-13 15:00'
 attendance_information: '5-11 year olds'
-featured_image: Lowestoft-Archives-Easter-Crafts.png
+featured_image: Capture.PNG
 accessibility_information: '- wheelchair access'
 ---
 An Easter themed arts and crafts activity session for children at The Suffolk Archives in Lowestoft.
