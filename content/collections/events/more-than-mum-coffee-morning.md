@@ -40,8 +40,6 @@ content_area:
         text: 'Be a part of a supportive and friendly group for women. Come along to these coffee mornings on the first Friday of every month to enjoy some coffee or tea and cake and relax while meeting other mums!'
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
@@ -85,7 +83,7 @@ cta: |-
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649704966
+updated_at: 1649705074
 attendance_information: Mums!
 ---
-Come and join for the new More Than Mums Coffee Mornings!
+Come and join for the new More Than Mums Coffee Mornings in Ipswich!
