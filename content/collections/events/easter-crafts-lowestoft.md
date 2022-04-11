@@ -28,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Find a range of family Easter craft sessions at The Hold. Craft sessions will be running on the 11th, 12th, 13th and 14th of April from 10am to 12:30pm. '
+        text: 'Find a range of family Easter craft sessions at Lowestoft Central Library. Craft sessions will be running on the 13th of April from 1:00pm to 15:00pm. '
       -
         type: hard_break
       -
@@ -96,7 +96,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649677169
+updated_at: 1649677344
 event_categories:
   - art
   - crafts
