@@ -1,6 +1,5 @@
 ---
 id: ab7ead5d-777e-4e8e-8f6e-155b095b060a
-published: false
 blueprint: events
 title: 'Family Friendly Tour & Craft Workshop'
 event_categories:
@@ -36,19 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Go beyond the displays of ''Women don''t do such things!'' exhibition with a 30-minute family friendly tour from our exhibition team.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: ' Suffolk women past and present who have led change in their communities, careers and countries throughout history. Open a window on the world to hear more moving and poignant stories of women worldwide. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Then take part in a fun and engaging craft workshop to create a unique suffragette rosette and medal for women in your family or community who have inspired you.'
+        text: 'Go beyond the displays of ''Women don''t do such things!'' exhibition at The Hold with a 30 minute family friendly tour from our exhibition team. Suffolk women past and present who have led change in their communities, careers and countries throughout history. Open a window on the world to hear more moving and poignant stories of women worldwide. Then take part in a fun and engaging craft workshop to create a unique suffragette rosette and medal for women in your family or community who have inspired you.'
   -
     type: heading
     attrs:
@@ -88,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please visit this link '
+        text: 'To book please visit the Ticket Source website '
       -
         type: text
         marks:
@@ -108,7 +95,8 @@ cta: |-
   This event is run by The Hold and Suffolk Archives, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649675160
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649677980
+attendance_information: 'Ages 4 - 13'
 ---
 Are you looking for an opportunity for you and your children to learn about history and do crafts during the Easter Holiday?
