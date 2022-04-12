@@ -45,6 +45,42 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Shakespeare Schools Showcase takes place at Southwold Arts Centre, IP18 6JP'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is carparking that a five minute walk from the venue, there is alternative carparking on Gardner Road on Southwold common.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue also has wheelchair access for those with accessibility needs.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For any extra information please visit this link '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://southwoldartscentre.co.uk/visit'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -53,6 +89,26 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book please visit this link '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/southwold-arts-centre-tickets/shakespeare-celebration-schools-showcase/e-rxqdzq'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: .
 cta: |-
   This event is run by Prominent, for more information please get in touch via:
 
@@ -60,5 +116,14 @@ cta: |-
 
   [01473276126](tel:01473276126)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649755719
+updated_at: 1649756667
+featured_image: MTP_JUBILEE_800x600_TS_.jpg
+latitude: '52.328730124946944'
+longitude: '1.6802251847779843'
+address_line_1: 'Southwold Arts Centre'
+address_line_2: 'St Edmund''s Hall Cumberland Road'
+town: Southwold
+postcode: 'IP18 6JP'
+booking_link: 'https://www.ticketsource.co.uk/southwold-arts-centre-tickets/shakespeare-celebration-schools-showcase/e-rxqdzq'
 ---
+A collabrative project between schools and professional actors and musicians to put on a perfomance of shakespear's work.
