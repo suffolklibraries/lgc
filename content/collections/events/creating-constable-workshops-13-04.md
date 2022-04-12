@@ -1,17 +1,18 @@
 ---
 id: c770933a-6d05-4b63-8ce8-21825d44be56
-published: false
 blueprint: events
-title: 'Free Creating Constable Workshops'
+title: 'Creating Constable Workshops'
 event_categories:
   - crafts
   - art
+  - visual-arts
+  - exhibition
 organisers:
   - rock-paper-scissors
 start_date: '2022-04-13 09:30'
-free: false
+free: true
 virtual: false
-attendance_information: 'Sutible for ages 5+'
+attendance_information: 'Suitable for ages 5+'
 content_area:
   -
     type: heading
@@ -26,13 +27,22 @@ content_area:
     content:
       -
         type: text
-        text: 'In these creative workshops they will be visiting the Creating Constable Exhibition at Ipswich Mansion and working on a different creative project inspired by the amazing art work every session.'
+        text: 'In these creative workshops visit the '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Creating Constable'
+      -
+        type: text
+        text: ' Exhibition at Christchurch Mansion and work on a creative project inspired by the amazing artwork. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'They will be using lots of different materials including Lego, print making, plasticine and new ways of drawing!'
+        text: 'These sessions will use various materials including Lego, print making, plasticine and uncover new ways of drawing!'
   -
     type: paragraph
     content:
@@ -52,19 +62,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Free Creating Constable Workshops meets at Ipswich County Library, IP1 3DE.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carpark that is a four minute walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The building has wheelchair access for those with accessibility needs.'
+        text: 'Free Creating Constable Workshops meets at Ipswich County Library, IP1 3DE and then walk across to Christchurch Mansion. '
   -
     type: heading
     attrs:
@@ -78,7 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To boo please visit this link '
+        text: 'To book in advance, please visit this link '
       -
         type: text
         marks:
@@ -93,11 +91,10 @@ content_area:
       -
         type: text
         text: .
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649760403
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649778358
 featured_image: creating-constable-copy-2-croped.jpg
 end_date: '2022-04-13 11:30'
-cost_details: £5
 latitude: '52.05884099616096'
 longitude: '1.1566981540803476'
 address_line_1: 'Ipswich County Library'
@@ -110,4 +107,4 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 ---
-Art and crafts sessions at Ipswich County Library using lots of dfferent materials creating an exhibition for Ipswich Mansion.
+Be inspired by the Constable exhibition at Christchurch mansion then participate in an arts workshop.
