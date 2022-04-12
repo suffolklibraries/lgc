@@ -2,17 +2,16 @@
 id: b24ebd05-89d8-499f-a75b-ce13d648ef89
 published: false
 blueprint: events
-title: 'Saturday Art Club (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - art
   - primary-school-age
 organisers:
   - rock-paper-scissors
-featured_image: saturday-art-club.jfif
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 start_date: '2022-04-16 10:00'
 free: false
 virtual: false
-latitude: '52.05306962490606'
 longitude: '1.1634888252440703'
 address_line_1: 'The Hold'
 address_line_2: '131 Fore Street'
@@ -112,12 +111,12 @@ content_area:
         text: .
 booking_link: 'https://www.rockpaperscissors.org.uk/shop/sac'
 cta: |-
-  This event is run by Rock Paper Scissors, for more informaion please get in touch via:
+  This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649677234
-end_date: '2022-04-16 11:30'
+updated_at: 1649771418
+end_date: '2022-04-23 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
 ---
