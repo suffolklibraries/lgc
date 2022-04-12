@@ -10,7 +10,7 @@ event_categories:
   - exhibition
 organisers:
   - rock-paper-scissors
-start_date: '2022-04-13 09:30'
+start_date: '2022-04-15 09:30'
 free: true
 virtual: false
 attendance_information: 'Suitable for ages 5+'
@@ -111,9 +111,9 @@ content_area:
             type: italic
         text: 'These spaces are free to all but please consider adding a £5 donation to your booking if you are able to so we can continue to offer more free spaces in the future.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649778626
+updated_at: 1649778734
 featured_image: creating-constable-copy-2-croped.jpg
-end_date: '2022-04-13 11:30'
+end_date: '2022-04-15 11:30'
 latitude: '52.05884099616096'
 longitude: '1.1566981540803476'
 address_line_1: 'Ipswich County Library'
