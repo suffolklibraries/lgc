@@ -86,8 +86,14 @@ cta: |-
   This event is run by the National Horse Racing Museum, for more information please get in touch via:
 
   [https://www.nhrm.co.uk](https://www.nhrm.co.uk)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649684706
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1649769799
 attendance_information: 'Young children & families'
+latitude: '52.24394090406777'
+longitude: '0.40744462710298196'
+address_line_1: 'National Horse Racing Museum'
+address_line_2: 'Palace St'
+town: Newmarket
+postcode: 'CB8 8EP'
 ---
 Find all of the hidden chicks and name the horses to win some prizes at the National Horse Racing Museum.
