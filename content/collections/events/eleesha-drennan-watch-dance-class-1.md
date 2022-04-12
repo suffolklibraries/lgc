@@ -1,13 +1,14 @@
 ---
 id: 799a03eb-ff61-4ba9-bda7-881364dc8434
+published: false
 blueprint: events
-title: 'Eleesha Drennan Watch Dance Class (Duplicated)'
+title: 'Eleesha Drennan Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1643802001
-latitude: '52.05290880617399'
-longitude: '1.1552660082048722'
-start_date: '2022-02-09 09:30'
+updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
+updated_at: 1649773367
+latitude: '52.05271516726272'
+longitude: '1.1553475160520688'
+start_date: '2022-04-17 09:30'
 event_categories:
   - dance
   - later-life
@@ -140,7 +141,7 @@ accessibility_information: |-
   - Wheelchair access
   - Seated venue 
   - Covid-19 preventative measures in place
-end_date: '2022-02-09 13:00'
+end_date: '2022-04-17 12:00'
 attendance_information: 'Teens and adults'
 ---
 Watch Dance Class is an open house session where everyone is invited to watch or sketch a professional class onstage.
