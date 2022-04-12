@@ -111,11 +111,11 @@ content_area:
         text: .
 booking_link: 'https://www.rockpaperscissors.org.uk/shop/sac'
 cta: |-
-  This event is run by Rock Paper Scissors, for more informaion please get in touch via:
+  This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649677285
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1649771229
 end_date: '2022-04-23 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
