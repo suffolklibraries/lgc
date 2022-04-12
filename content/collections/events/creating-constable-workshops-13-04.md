@@ -91,8 +91,26 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'These spaces have been made available by generous funding from The Job Centre and Ipswich and Colchester museums for families in need.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'These spaces are free to all but please consider adding a £5 donation to your booking if you are able to so we can continue to offer more free spaces in the future.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649778358
+updated_at: 1649778432
 featured_image: creating-constable-copy-2-croped.jpg
 end_date: '2022-04-13 11:30'
 latitude: '52.05884099616096'
@@ -107,4 +125,4 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 ---
-Be inspired by the Constable exhibition at Christchurch mansion then participate in an arts workshop.
+Be inspired by the Constable exhibition at Christchurch mansion then participate in an arts workshop. Suitable for 5+.
