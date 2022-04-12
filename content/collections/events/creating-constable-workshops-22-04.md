@@ -1,7 +1,8 @@
 ---
 id: 8653fd17-fa30-415e-9c9e-7c32861294eb
+published: false
 blueprint: events
-title: 'Creating Constable Workshops (Duplicated)'
+title: 'Creating Constable Workshops'
 event_categories:
   - crafts
   - art
@@ -110,7 +111,7 @@ content_area:
             type: italic
         text: 'These spaces are free to all but please consider adding a £5 donation to your booking if you are able to so we can continue to offer more free spaces in the future.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649778654
+updated_at: 1649778708
 featured_image: creating-constable-copy-2-croped.jpg
 end_date: '2022-04-13 11:30'
 latitude: '52.05884099616096'
