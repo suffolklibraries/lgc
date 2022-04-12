@@ -1,13 +1,14 @@
 ---
 id: cd3231fb-85c9-45b4-ae4b-c675363b93b7
+published: false
 blueprint: events
-title: 'Group A - Lowestoft (Duplicated)'
+title: 'Group A - Lowestoft Tester'
 latitude: '52.45682329843236'
 longitude: '1.7355823675853659'
-start_date: '2022-04-07 10:00'
-end_date: '2022-04-07 15:00'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647422917
+start_date: '2022-04-13 10:00'
+end_date: '2022-04-13 15:00'
+updated_by: e3570092-47a3-4ba6-9557-68be2eac5f09
+updated_at: 1649774210
 free: true
 virtual: false
 organisers:
@@ -180,7 +181,7 @@ content_area:
 attendance_information: 'Ages 8 - 18'
 address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Rd'
-town: Lowestoft
+town: 'Pakefield, Lowestoft'
 postcode: 'NR33 0JH'
 accessibility_information: |-
   - Wheelchair access
@@ -203,4 +204,4 @@ event_categories:
   - music
   - performance
 ---
-An extended half term session of the free singing and vocal group for young people in Lowestoft
+Join Group A for a half term session in Lowestoft.
