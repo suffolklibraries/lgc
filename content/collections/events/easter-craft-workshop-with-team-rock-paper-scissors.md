@@ -45,6 +45,30 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'For directions and any extra travel information please visit this link '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://brittenpearsarts.org/visit-us/snape-maltings/getting-here'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue free onsite carparking.'
   -
     type: heading
     attrs:
@@ -78,6 +102,10 @@ cta: |-
   This event is run by Britten Pears Arts, for more information please get in touch via:
 
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
+
+  [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649840301
+updated_at: 1649842220
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
 ---
+Easter inspired arts and crafts session for children.
