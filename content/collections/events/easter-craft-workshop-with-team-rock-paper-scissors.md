@@ -1,16 +1,17 @@
 ---
 id: 4ac83037-d080-467d-860e-a8f758e7f76d
-published: false
 blueprint: events
-title: 'Easter Craft Workshop with Team Rock Paper Scissors'
+title: 'Easter Craft Workshop'
 event_categories:
   - art
   - crafts
+  - family-friendly
+  - early-years
 organisers:
   - britten-pears-arts
   - rock-paper-scissors
-start_date: '2022-04-16 11:00'
-end_date: '2022-04-16 11:50'
+start_date: '2022-04-16 12:00'
+end_date: '2022-04-16 14:00'
 free: false
 cost_details: '£3 per child'
 virtual: false
@@ -68,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The venue free onsite carparking.'
+        text: 'The venue has free on-site carparking.'
   -
     type: heading
     attrs:
@@ -99,13 +100,14 @@ content_area:
         text: .
 booking_link: 'https://brittenpearsarts.org/events/team-rock-paper-scissors'
 cta: |-
-  This event is run by Britten Pears Arts, for more information please get in touch via:
+  This event is run by Britten Pears Arts and Rock Paper Scissors, for more information please get in touch via:
 
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649842220
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649873322
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
+attendance_information: 'Under 12 years'
 ---
-Easter inspired arts and crafts session for children.
+Easter inspired arts and crafts session for children under 12 at Snape Maltings.
