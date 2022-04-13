@@ -34,13 +34,14 @@ content_area:
       -
         type: text
         text: 'These three workshops will allow some of our younger potential puppeteers to learn the basic skills to make simple puppets and bring them to life.'
+  -
+    type: paragraph
+    content:
       -
         type: hard_break
       -
         type: text
-        text: 'There will be three workshops on consecutive Sundays and our young participants will need to take part in all three.'
-      -
-        type: hard_break
+        text: 'There will be three workshops on consecutive Saturdays and our young participants will need to take part in all three.'
   -
     type: paragraph
     content:
@@ -107,6 +108,6 @@ cta: |-
 
   [https://theseagull.co.uk/activities/](https://theseagull.co.uk/activities/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649676736
+updated_at: 1649874712
 ---
 Get to create your own puppet in this arts and crafts workshop.
