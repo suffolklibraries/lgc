@@ -95,7 +95,7 @@ event_categories:
   - crafts
   - primary-school-age
   - family-friendly
-featured_image: The-Hold-Easter-craft-poster-(2)-1649342958.png
+featured_image: suffolkarchives/The-Hold-Easter-craft-poster-(2)-1649342958.png
 end_date: '2022-04-14 12:30'
 cost_details: '£2.50 per child'
 attendance_information: '5-11 year olds'
