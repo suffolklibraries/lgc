@@ -10,7 +10,7 @@ updated_at: 1648480484
 organisers:
   - newsamba
   - newmarket-community-arts
-featured_image: AC51083B-AD27-4807-B27C-E8E718AFD7B3.jpeg
+featured_image: miscellaneous/AC51083B-AD27-4807-B27C-E8E718AFD7B3.jpeg
 end_date: '2022-04-27 20:00'
 cost_details: £3/£6
 latitude: '52.24646566476873'
