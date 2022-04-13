@@ -2,14 +2,14 @@
 id: c89d51aa-5a8d-47da-8c40-5a87c4fc878e
 published: false
 blueprint: events
-title: 'Chat and Craft Group'
+title: 'Chat and Craft Group (WIP)'
 event_categories:
   - art
   - crafts
   - open-to-all
 organisers:
   - beccles-community-and-volunteer-hub
-start_date: '2022-04-13 09:39'
+start_date: '2022-04-13 10:00'
 free: false
 virtual: false
 latitude: '52.456335998932616'
@@ -61,5 +61,5 @@ cta: |-
 
   [https://www.facebook.com/groups/3076569359243988/](https://www.facebook.com/groups/3076569359243988/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649846106
+updated_at: 1649852317
 ---
