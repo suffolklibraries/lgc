@@ -6,7 +6,7 @@ start_date: '2022-04-17 10:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649873902
+updated_at: 1649874265
 event_categories:
   - family-friendly
 organisers:
@@ -40,6 +40,12 @@ content_area:
       -
         type: text
         text: 'With free entry and free parking, there are also 1000’s of artefacts, 60+ aircraft and cockpits, and themed rooms dedicated to the RAF Bomber Command, 446th Bomb Group, Air-Sea Rescue/Coastal Command and the Royal Observer Corps.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Light refreshments are served in the NAAFI themed café in the main hangar, and there are picnic tables throughout the site. There is wheelchair friendly access to all areas apart from aircraft cockpits. Well behaved dogs are welcome, provided they are kept on a lead (not in the shop, please).'
   -
     type: paragraph
     content:
@@ -84,5 +90,6 @@ cta: |-
   This event is run by Norfolk and Suffolk Aviation Museum, for more information please get in touch via:
 
   [https://aviationmuseum.net/](https://aviationmuseum.net/)
+accessibility_information: '- Wheelchair access'
 ---
 Annual East Anglian Air Ambulance Easter Egg Hunt at the Norfolk and Suffolk Aviation Museum.
