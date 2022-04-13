@@ -106,7 +106,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649873322
+updated_at: 1649874828
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 attendance_information: 'Under 12 years'
 ---
