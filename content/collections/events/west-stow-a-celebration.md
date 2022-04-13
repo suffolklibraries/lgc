@@ -8,7 +8,7 @@ event_categories:
   - museums
 organisers:
   - west-stow-anglo-saxon-village
-featured_image: 0e0dacab-ff8d-43e3-ab46-788e0fab15dc.jpg
+featured_image: miscellaneous/0e0dacab-ff8d-43e3-ab46-788e0fab15dc.jpg
 start_date: '2022-03-26 10:00'
 end_date: '2022-03-27 16:00'
 free: true
