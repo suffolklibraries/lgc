@@ -94,7 +94,7 @@ content_area:
         text: here
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1648477482
-featured_image: Social-action-workshop.jpg
+featured_image: rockpaperscissorsimages/Social-action-workshop.jpg
 accessibility_information: '- Wheelchair access'
 latitude: '52.05294195739878'
 longitude: '1.1635607557180385'
