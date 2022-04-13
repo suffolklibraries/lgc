@@ -1,12 +1,12 @@
 ---
 id: dd8d12c4-3691-4561-ab99-947195d1f097
 blueprint: events
-title: 'East Anglia Air Ambulance Easter Egg Hunt'
+title: 'East Anglian Air Ambulance Easter Egg Hunt'
 start_date: '2022-04-17 10:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649678517
+updated_at: 1649873902
 event_categories:
   - family-friendly
 organisers:
