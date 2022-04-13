@@ -4,7 +4,7 @@ blueprint: events
 title: 'Let''s Get Crafty: Easter Fun at Suffolk Archives'
 organisers:
   - suffolk-archives
-start_date: '2022-04-13 13:00'
+start_date: '2022-04-13 10:00'
 free: true
 virtual: false
 latitude: '52.47699554797066'
@@ -27,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Find a range of family Easter craft sessions at Lowestoft Central Library. Craft sessions will be running on the 13th of April from 1:00pm to 15:00pm. '
+        text: 'Find a range of family Easter craft sessions at Lowestoft Central Library. Craft sessions will be running on the 13th of April from 10am to 3pm. '
       -
         type: hard_break
       -
@@ -94,8 +94,8 @@ cta: |-
   This event is run by Suffolk Archives, for more information please visit the Suffolk Archives website:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649688066
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1649862550
 event_categories:
   - art
   - crafts
@@ -103,7 +103,7 @@ event_categories:
   - family-friendly
 end_date: '2022-04-13 15:00'
 attendance_information: '5-11 year olds'
-featured_image: 'Let''s get crafty Easter.PNG'
+featured_image: Lowestoft-Archives-Easter-Crafts.png
 accessibility_information: '- wheelchair access'
 ---
 An Easter themed arts and crafts activity session for children at The Suffolk Archives in Lowestoft.
