@@ -2,11 +2,11 @@
 id: c490e8d0-33af-4d80-ad43-afacb598be1c
 blueprint: events
 title: 'Community Gardening Club'
-start_date: '2022-04-19 10:00'
+start_date: '2022-04-26 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649760563
+updated_at: 1650355772
 event_categories:
   - art
   - nature
@@ -14,7 +14,7 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-end_date: '2022-04-19 12:00'
+end_date: '2022-04-26 12:00'
 latitude: '52.06356401835797'
 longitude: '1.1373199705972623'
 address_line_1: 'Eastern Angles Centre'
