@@ -7,7 +7,7 @@ start_date: '2022-04-25 19:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650360451
+updated_at: 1650383511
 event_categories:
   - movement
   - dance
@@ -80,3 +80,4 @@ cta: |-
 
   [07522198961](tel:07522198961)
 ---
+Get into the art of Belly Dancing with these classes, All skill levels welcome.
