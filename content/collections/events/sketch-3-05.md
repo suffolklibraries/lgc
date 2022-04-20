@@ -1,22 +1,21 @@
 ---
 id: fa98428b-6330-41a6-b033-4a6ec89639e5
-published: false
 blueprint: events
 title: Sketch
-start_date: '2022-03-15 19:30'
+start_date: '2022-05-03 19:30'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647967883
+updated_at: 1650446686
 event_categories:
   - art
 organisers:
   - led-creatives
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
-end_date: '2022-03-15 22:00'
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
+end_date: '2022-05-03 22:00'
 latitude: '52.05363164877224'
 longitude: '1.1608876675719249'
-address_line_1: 'lord Nelson'
+address_line_1: 'Lord Nelson'
 address_line_2: '81 Fore St'
 town: Ipswich
 postcode: 'IP4 1JZ'
@@ -42,19 +41,13 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'Where and when'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Sketch takes place at the Lord Nelson,IP4 1JZ.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The venue has carparking a one to two minute walk from the venue.'
+        text: 'Sketch takes place at the Lord Nelson, IP4 1JZ every other Tuesday at 7:30pm. '
   -
     type: heading
     attrs:
