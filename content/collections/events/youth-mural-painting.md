@@ -9,7 +9,7 @@ event_categories:
   - primary-school-age
 organisers:
   - eastern-angles
-featured_image: Youth-Mural-Painting-_-Eastern-Angles.html
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 start_date: '2022-05-13 10:00'
 end_date: '2022-05-13 13:00'
 free: true
@@ -95,7 +95,11 @@ content_area:
         type: text
         text: 'There are many time slots for Friday, Saturday and Sunday for the weeks of the 13th and the 20th. '
 booking_link: 'https://easternangles.co.uk/event/youth-mural-painting#tab-0=dates-and-times'
-cta: 'This event is run by Eastern Angles, for more information please get in touch via:'
+cta: |-
+  This event is run by Eastern Angles, for more information please get in touch via:
+
+  [https://easternangles.co.uk](https://easternangles.co.uk)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650457915
+updated_at: 1650460667
 ---
+Come and take part in the painting of the murals along Ipswich Waterfront.
