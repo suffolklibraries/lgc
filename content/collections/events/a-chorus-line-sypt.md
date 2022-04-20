@@ -33,7 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: "Don’t miss out on your chance to be involved with SYPTs 42nd production- A Chorus Line.\_"
+        text: 'Don’t miss out on your chance to be involved with SYPTs 42nd production- A Chorus Line.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Price for the three week course is £120, bursary applications are available.'
   -
     type: heading
     attrs:
@@ -47,7 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Young People''s Theatre Auditions takes place at Green king Social Club'
+        text: 'Suffolk Young People''s Theatre Auditions takes place at Green king Social Club, IP33 3PB.'
   -
     type: heading
     attrs:
@@ -81,7 +87,7 @@ cta: |-
 
   [https://sypt.website](https://sypt.website)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650449013
+updated_at: 1650450056
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
@@ -90,3 +96,4 @@ town: 'Bury St Edmunds'
 postcode: 'IP33 3PB'
 booking_link: 'https://sypt.website'
 ---
+Auditions are open for Suffolk Young People's Theatre summer show happening on May 1st.
