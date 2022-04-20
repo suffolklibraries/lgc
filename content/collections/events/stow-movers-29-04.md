@@ -1,13 +1,14 @@
 ---
 id: 41ca844f-d791-4be7-a76d-f75a7158da05
+published: false
 blueprint: events
-title: 'Hadleigh Movers (Duplicated)'
+title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650355996
-latitude: '52.044439425379515'
-longitude: '0.9559571219725871'
-start_date: '2022-04-26 11:00'
+updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
+updated_at: 1650465317
+latitude: '52.18786710902753'
+longitude: '0.9967641862737325'
+start_date: '2022-04-29 14:00'
 event_categories:
   - later-life
   - movement
@@ -16,14 +17,12 @@ free: false
 virtual: false
 organisers:
   - karenlouisedance
-address_line_1: 'Hadleigh Baptist Church'
-address_line_2: 'George Street'
-town: Hadleigh
-postcode: 'IP7 5BE'
+address_line_1: 'John Peel Centre'
+address_line_2: 'Church Walk'
+town: Stowmarket
+postcode: 'IP14 1ET'
 featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
-attendance_information: |-
-  About 10 people
-  Age 55+
+attendance_information: 'Age 55+'
 content_area:
   -
     type: heading
@@ -38,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Movers is a gentle movement class for over 55s. Held every Tuesday, 11am – 12.30am at Hadleigh Baptist Church. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
+        text: 'Stow Movers is a gentle movement class for over 55s held every Friday, 2-3.30pm at the John Peel Centre, Stowmarket. The session is led by an experienced dance artist, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
@@ -83,7 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George Street in Hadleigh, IP7 5BE.'
+        text: 'Stow Movers meets at the John Peel Centre, Church Walk in Stowmarket, IP14 1ET.'
   -
     type: heading
     attrs:
@@ -127,7 +126,7 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Dance East. Please contact Karen Pratt:
+  This event is organised by Karen Louise Dance. Please contact Karen Pratt:
 
   [karenlouisedance@gmail.com ](mailto:karenlouisedance@gmail.com )
 
@@ -140,6 +139,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £5.50
-end_date: '2022-04-26 12:30'
+end_date: '2022-04-29 15:30'
 ---
-A weekly dance class for everyone over 55. Hadleigh Movers classes are designed to benefit you both mentally and physically.
+A weekly dance class for everyone over 55, Stow Movers classes are designed to benefit you both mentally and physically.
