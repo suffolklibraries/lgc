@@ -1,11 +1,10 @@
 ---
 id: 41ca844f-d791-4be7-a76d-f75a7158da05
-published: false
 blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1650465317
+updated_at: 1650467090
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
 start_date: '2022-04-29 14:00'
