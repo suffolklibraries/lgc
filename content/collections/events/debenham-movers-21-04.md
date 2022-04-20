@@ -4,7 +4,7 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650355840
+updated_at: 1650462255
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-04-21 10:00'
@@ -124,9 +124,9 @@ content_area:
 cta: |-
   This event is organised by Dance East. Contact details below:
 
-  [01473295245](tel:01473295245)
+  [https://www.alyshahudson.co.uk](https://www.alyshahudson.co.uk)
 
-  [danceeast.co.uk](http://danceeast.co.uk)
+  [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
 booking_link: 'https://www.danceeast.co.uk/workshops/debenham-movers/'
 accessibility_information: |-
   - Autism friendly
