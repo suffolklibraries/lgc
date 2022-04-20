@@ -9,9 +9,9 @@ event_categories:
 organisers:
   - suffolk-young-peoples-theatre
 featured_image: young-theatre.jpg
-start_date: '2022-05-01 14:03'
-end_date: '2022-05-01 15:12'
-free: false
+start_date: '2022-05-01 10:00'
+end_date: '2022-05-01 17:00'
+free: true
 virtual: false
 content_area:
   -
@@ -44,6 +44,10 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Suffolk Young People''s Theatre Auditions takes place at Green king Social Club'
   -
     type: heading
     attrs:
@@ -52,7 +56,37 @@ content_area:
       -
         type: text
         text: 'How to book'
-cta: 'This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To apply for the audition please follow this link '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://sypt.website/auditions/'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: .
+cta: |-
+  This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:
+
+  [https://sypt.website](https://sypt.website)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650381719
+updated_at: 1650449013
+latitude: '52.239341265589545'
+longitude: '0.7162382582598522'
+address_line_1: 'Greene King Social Club'
+address_line_2: 'Off Cullum Road'
+town: 'Bury St Edmunds'
+postcode: 'IP33 3PB'
+booking_link: 'https://sypt.website'
 ---
