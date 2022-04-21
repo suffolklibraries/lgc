@@ -6,7 +6,7 @@ start_date: '2022-04-27 10:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650556507
+updated_at: 1650556918
 event_categories:
   - art
   - nature
@@ -63,6 +63,12 @@ content_area:
       -
         type: text
         text: '  '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Cups of tea included!'
   -
     type: heading
     attrs:
