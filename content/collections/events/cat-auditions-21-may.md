@@ -5,7 +5,7 @@ blueprint: events
 title: 'Centre for Advanced Training Auditions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1650636952
+updated_at: 1650637414
 latitude: '52.05282504038894'
 longitude: '1.1552529352396133'
 start_date: '2022-05-21 09:30'
@@ -160,13 +160,13 @@ content_area:
         type: text
         text: 'Photo Credit: Alicia Clarke '
 cta: |-
-  This event is organised by Dance East. Please contact Zoe Ablitt:
+  This event is organised by Dance East. Please contact the CAT Team:
 
-  [Zoe.Ablitt@danceeast.co.uk](mailto:Zoe.Ablitt@danceeast.co.uk)
+  [CAT@danceeast.co.uk](mailto:CAT@danceeast.co.uk)
 
-  [01473295245](tel:01473295245)
+  [01473295234](tel:01473295234)
 
-  [danceeast.co.uk](https://www.danceeast.co.uk/)
+  [danceeast.co.uk/cat](https://www.danceeast.co.uk/cat/)
 booking_link: 'https://www.danceeast.co.uk/workshops/eleesha-drennan-watch-a-dance-class/'
 end_date: '2022-05-21 12:45'
 attendance_information: 'Teens and young adults'
