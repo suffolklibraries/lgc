@@ -6,7 +6,7 @@ start_date: '2022-04-30 11:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650623405
+updated_at: 1650623902
 event_categories:
   - art
   - nature
@@ -14,7 +14,7 @@ event_categories:
   - crafts
 organisers:
   - rock-paper-scissors
-featured_image: rock_paper_grow_2.jpg
+featured_image: rock_paper_grow_2-(2).jpg
 end_date: '2022-04-30 15:00'
 latitude: '52.07441077811036'
 longitude: '1.1475718966106527'
@@ -87,74 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The event will be running on Saturday 30th April 11am-3pm  '
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Holywells Park lies one mile south-east of Ipswich town centre, close to the Waterfront and very near to University Campus Suffolk and Suffolk New College. '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ipswich.gov.uk/content/about-holywells-park-0'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Visit the Ipswich council website for location map and details. '
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The park has four main entrances - Cliff Lane (IP3 0PG), Nacton Road (IP3 0NG), Bishops Hill (IP3 8EL) and Myrtle Road (IP3 0AL).'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Parking is available at the Cliff Lane entrance for Blue Badge and permit holders only. Non-Blue Badge or non-permit holders are not permitted to use the car park. For information about all the car parks in Ipswich town centre visit '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://allaboutipswich.com/visiting/getting-to-ipswich-by-car'
-              rel: null
-              target: _blank
-              title: null
-        text: 'All About Ipswich'
-      -
-        type: text
-        text: ' and for the latest bus timetables visit '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk on Board'
-      -
-        type: text
-        text: .
+        text: 'The event will be running on Saturday 30th April 11am-3pm at Emmaus Community gardens, Dales Road. The session will take place outside in the garden.'
   -
     type: heading
     attrs:
@@ -168,7 +101,21 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is a free drop in session so no booking is required.'
+        text: 'This event is a free drop in session so no booking is required but more information can be found on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.facebook.com/events/413004733970570'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Rock Paper Scissors Facebook page'
+      -
+        type: text
+        text: '. '
 cta: |-
   This event is run by Rock Paper Scissors, for more information please see the websites below: 
 
