@@ -1,11 +1,10 @@
 ---
 id: 62a52cb1-41fb-43ad-94f1-b59e8d2cb79f
-published: false
 blueprint: events
 title: 'Centre for Advanced Training Auditions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1650639805
+updated_at: 1650640021
 latitude: '52.05282504038894'
 longitude: '1.1552529352396133'
 start_date: '2022-05-21 09:30'
@@ -22,7 +21,7 @@ address_line_1: DanceEast
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: ACE_CAT_SetUp_056-crop.jpg
+featured_image: ACE_CAT_SetUp_278-smaller-1650640012.jpg
 content_area:
   -
     type: heading
