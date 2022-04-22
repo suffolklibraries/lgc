@@ -2,11 +2,11 @@
 id: 37f86f75-251f-44e2-b05f-802f8b03e3f2
 blueprint: events
 title: 'Rock Paper Grow'
-start_date: '2022-03-13 12:00'
+start_date: '2022-04-30 11:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647346984
+updated_at: 1650623405
 event_categories:
   - art
   - nature
@@ -14,14 +14,14 @@ event_categories:
   - crafts
 organisers:
   - rock-paper-scissors
-featured_image: rockpaperscissorsimages/Rock-Paper-Grow.PNG
-end_date: '2022-03-13 15:00'
-latitude: '52.04588138594748'
-longitude: '1.1726561357208318'
-address_line_1: 'Holywells Park'
-address_line_2: 'Cliff Lane'
+featured_image: rock_paper_grow_2.jpg
+end_date: '2022-04-30 15:00'
+latitude: '52.07441077811036'
+longitude: '1.1475718966106527'
+address_line_1: 'Emmaus Community Gardens'
+address_line_2: '216 Dales Road'
 town: Ipswich
-postcode: 'IP3 0PG'
+postcode: 'IP1 4JY'
 content_area:
   -
     type: heading
@@ -36,13 +36,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Rock Paper Scissors for this free family outdoor workshops where you can learn about local wildlife, get creative in nature and benefit from time spent outdoors.'
+        text: 'Join Rock Paper Scissors for this free family outdoor workshop where you can learn about local wildlife, get creative in nature and benefit from time spent outdoors.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'At this community garden and art session in Holywells Park take part in the following activities:'
+        text: 'At this community garden and art session in Emmaus Community Gardens take part in the following activities:'
   -
     type: bullet_list
     content:
@@ -87,7 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The event will be running on Sunday 13th and Sunday 27th March, both from 12pm-3pm. Meet near the Stable Block and Orangery. No booking is required for this activity. '
+        text: 'The event will be running on Saturday 30th April 11am-3pm  '
   -
     type: heading
     attrs:
@@ -113,6 +113,8 @@ content_area:
               target: _blank
               title: null
         text: 'Visit the Ipswich council website for location map and details. '
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -170,7 +172,7 @@ content_area:
 cta: |-
   This event is run by Rock Paper Scissors, for more information please see the websites below: 
 
-  [https://www.facebook.com/events/367966608494803/?event_time_id=367970258494438](https://www.facebook.com/events/367966608494803/?event_time_id=367970258494438)
+  [https://www.facebook.com/events/413004733970570](https://www.facebook.com/events/413004733970570)
 
   [https://www.rockpaperscissors.org.uk/community-projects](https://www.rockpaperscissors.org.uk/community-projects)
 attendance_information: Family-friendly
