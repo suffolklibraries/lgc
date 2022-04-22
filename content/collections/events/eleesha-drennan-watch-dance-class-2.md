@@ -2,10 +2,10 @@
 id: 62a52cb1-41fb-43ad-94f1-b59e8d2cb79f
 published: false
 blueprint: events
-title: 'Eleesha Drennan Watch Dance Class (Duplicated) (2)'
+title: 'Centre for Advanced Training Auditions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1650635588
+updated_at: 1650635648
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2022-02-09 09:30'
@@ -144,4 +144,4 @@ accessibility_information: |-
 end_date: '2022-02-09 13:00'
 attendance_information: 'Teens and adults'
 ---
-Watch Dance Class is an open house session where everyone is invited to watch or sketch a professional class onstage.
+The DanceEast Centre for Advanced Training (CAT) offers high-quality training to young people aged 10 – 18 years with exceptional talent and potential in dance from the East of England. CAT is part of a national programme supported and developed by the Department for Education’s Music and Dance Scheme.
