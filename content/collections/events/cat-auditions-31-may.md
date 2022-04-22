@@ -2,13 +2,13 @@
 id: 0f1f2c3a-05a3-42e2-8751-88ecc8ef89d6
 published: false
 blueprint: events
-title: 'Centre for Advanced Training Auditions (Duplicated)'
+title: 'Centre for Advanced Training Auditions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1650639421
+updated_at: 1650639476
 latitude: '52.05282504038894'
 longitude: '1.1552529352396133'
-start_date: '2022-05-21 09:30'
+start_date: '2022-05-31 09:30'
 event_categories:
   - dance
   - teen-and-young-adult
@@ -176,7 +176,7 @@ cta: |-
 
   [danceeast.co.uk/cat](https://www.danceeast.co.uk/cat/)
 booking_link: 'https://www.danceeast.co.uk/cat/how-to-apply/'
-end_date: '2022-05-21 12:45'
+end_date: '2022-05-31 12:45'
 attendance_information: 'Teens and young adults'
 ---
 The DanceEast Centre for Advanced Training (CAT) offers high-quality training to young people aged 10 – 18 years with exceptional talent and potential in dance from the East of England. CAT is part of a national programme supported and developed by the Department for Education’s Music and Dance Scheme.
