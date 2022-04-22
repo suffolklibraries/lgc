@@ -1,10 +1,11 @@
 ---
 id: c95d284c-6079-4d46-ad26-800878402de7
+published: false
 blueprint: events
 title: 'Centre for Advanced Training Auditions (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1650639476
+updated_at: 1650639506
 latitude: '52.05282504038894'
 longitude: '1.1552529352396133'
 start_date: '2022-05-31 09:30'
