@@ -93,12 +93,12 @@ content_area:
       -
         type: text
         text: .
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649172658
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1650883677
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/northgate-arts-centre/suffolk-jazz-school-tutors-gig/2022-04-19/13:45/t-kvalje'
 cta: |-
   This event is run by Suffolk Jazz school, for more information please get in touch via:
 
   [https://suffolkjazzschool.co.uk/](https://suffolkjazzschool.co.uk/)
 ---
-A Jazz gig feturing the tutors from Suffolk Jazz School.
+A Jazz gig featuring the tutors from Suffolk Jazz School.
