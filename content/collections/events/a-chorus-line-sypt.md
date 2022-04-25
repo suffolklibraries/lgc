@@ -45,13 +45,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Video auditions are also accepted, choose a monologue or song from the audition pack, and perform the dance from the video provided and send it to ???'
+        text: 'Video auditions are also accepted, choose a monologue or song from the audition pack, and perform the dance from the video provided.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The deadline for the auditions has been extended to Monday the 16th of May.'
+        text: 'Details of who to send video applications to will be provided to you after applying, via email.  '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In-person auditions are being held on the 1st of May.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The deadline for video auditions has been extended to Monday the 16th of May.'
   -
     type: heading
     attrs:
@@ -98,8 +110,8 @@ cta: |-
   This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:
 
   [https://sypt.website](https://sypt.website)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650888992
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1650890727
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
