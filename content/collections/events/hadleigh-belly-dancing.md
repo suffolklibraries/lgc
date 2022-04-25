@@ -6,8 +6,8 @@ title: 'Belly Dancing Classes'
 start_date: '2022-04-25 19:00'
 free: false
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650383511
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1650885146
 event_categories:
   - movement
   - dance
@@ -52,7 +52,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Belly Dancing Classes takes place at St Mary''s Primary School, IP7 5BH.'
+        text: 'Belly Dancing Classes takes place at St Mary''s Primary School in Hadleigh. '
   -
     type: paragraph
     content:
@@ -80,4 +80,4 @@ cta: |-
 
   [07522198961](tel:07522198961)
 ---
-Get into the art of Belly Dancing with these classes, All skill levels welcome.
+Get into the art of Belly Dancing with these classes. All skill levels welcome.
