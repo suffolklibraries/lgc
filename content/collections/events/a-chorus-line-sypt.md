@@ -27,13 +27,13 @@ content_area:
     content:
       -
         type: text
-        text: 'SYPT is a fun filled 3 weeks of training for 14-22 year olds. Two weeks of rehearsals and one week of tech and shows, this summer school is very full on and takes dedication for all involved, however the fun had along the way and the lessons learned (team work, time management, self-confidence, the list goes on) are more valuable than could be imagined.'
+        text: 'Don’t miss out on your chance to be involved with SYPTs 42nd production- A Chorus Line.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Don’t miss out on your chance to be involved with SYPTs 42nd production- A Chorus Line.'
+        text: 'SYPT is a fun filled 3 weeks of training for 14-22 year olds. With two weeks of rehearsals and one week of tech and shows, this summer school is very full on and takes dedication for all involved, however the fun had along the way and the lessons learned (team work, time management, self-confidence, the list goes on) are more valuable than could be imagined.'
   -
     type: paragraph
     content:
@@ -45,7 +45,7 @@ content_area:
     content:
       -
         type: text
-        text: 'They do accept video auditions, choose a monologue or song from the audition pack, and perform the dance from the video provided and send it to them.'
+        text: 'Video auditions are also accepted, choose a monologue or song from the audition pack, and perform the dance from the video provided and send it to ???'
   -
     type: paragraph
     content:
@@ -65,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Young People''s Theatre Auditions takes place at Green king Social Club, IP33 3PB.'
+        text: 'Suffolk Young People''s Theatre Auditions takes place at Green King Social Club in Bury St Edmunds, P33 3PB.'
   -
     type: heading
     attrs:
@@ -98,8 +98,8 @@ cta: |-
   This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:
 
   [https://sypt.website](https://sypt.website)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650888769
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1650888992
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
