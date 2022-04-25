@@ -6,10 +6,11 @@ title: 'Arts at the Archives'
 event_categories:
   - art
   - crafts
+  - primary-school-age
 organisers:
   - suffolk-archives
-start_date: '2022-04-25 10:42'
-free: false
+start_date: '2022-05-14 10:30'
+free: true
 virtual: false
 content_area:
   -
@@ -77,6 +78,22 @@ content_area:
         text: 'How to get here'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Arts at the Archives takes place at Lowestoft archives,NR32 1DR.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is parking less than a minutes walk from the venue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are bus routes that are a three to four minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -106,8 +123,19 @@ content_area:
         type: text
         text: .
 booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx'
-cta: 'This event is run by Suffolk Archives, for more information please get in touch via:'
+cta: |-
+  This event is run by Suffolk Archives, for more information please get in touch via:
+
+  [https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx](https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650888297
+updated_at: 1650892295
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
+end_date: '2022-05-14 12:30'
+latitude: '52.476991717574975'
+longitude: '1.7502699257820735'
+address_line_1: 'Lowestoft Archives'
+address_line_2: 'Clapham Rd S'
+town: Lowestoft
+postcode: 'NR32 1DR'
 ---
 Art at the Archive is a new creative club for young people aged 8-14, that meets once a month during term-time at Lowestoft Archives.
