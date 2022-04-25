@@ -1,6 +1,5 @@
 ---
 id: 5e47dba1-0f53-4776-a1de-9a87f62921cc
-published: false
 blueprint: events
 title: 'A Chorus Line  - SYPT - Audition'
 event_categories:
@@ -27,7 +26,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Don’t miss out on your chance to be involved with SYPTs 42nd production- A Chorus Line.'
+        text: 'Don’t miss out on your chance to be involved with SYPTs 42nd production- A Chorus Line. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In-person auditions are being held on the 1st of May.'
   -
     type: paragraph
     content:
@@ -45,19 +50,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Video auditions are also accepted, choose a monologue or song from the audition pack, and perform the dance from the video provided.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Details of who to send video applications to will be provided to you after applying, via email.  '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'In-person auditions are being held on the 1st of May.'
+        text: 'Video auditions are also accepted, choose a monologue or song from the audition pack, and perform the dance from the video provided. Details of who to send video applications to will be provided after applying.  '
   -
     type: paragraph
     content:
@@ -110,8 +103,8 @@ cta: |-
   This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:
 
   [https://sypt.website](https://sypt.website)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650890727
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1650895444
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
@@ -122,4 +115,4 @@ booking_link: 'https://sypt.website'
 cost_details: 'Audition is free, the course is £120. Bursary Applications available'
 attendance_information: '14-22 year olds'
 ---
-Auditions are open for Suffolk Young People's Theatre summer show happening on May 1st.
+Auditions are open for Suffolk Young People's Theatre summer show 'A Chorus Line'.
