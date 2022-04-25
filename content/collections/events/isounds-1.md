@@ -1,5 +1,6 @@
 ---
 id: 2f9fc7ee-2987-4bd0-986f-0a8e49158df7
+published: false
 blueprint: events
 title: 'ISounds plus - Music Production Course (Duplicated)'
 event_categories:
