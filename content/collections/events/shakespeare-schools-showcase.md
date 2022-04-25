@@ -13,13 +13,10 @@ end_date: '2022-06-01 20:00'
 free: false
 cost_details: £5
 virtual: false
-attendance_information: |-
-  Famliy Friendly
-
-  Indoor Venue
+attendance_information: 'Open to all'
 accessibility_information: |-
   - Wheelchair access
-  - Seated venue
+  - Indoor, seated venue
 content_area:
   -
     type: heading
@@ -34,7 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Local schools have been working with professional actors and musicians to present a showcase of scenes with Shakespeare’s Kings, Queens, Dukes, Duchesses and their courtiers.'
+        text: 'Local schools Holton St Peter Primary School, Reydon Primary School and Wenhaston Primary School have been working with professional actors and musicians to present a showcase of scenes with Shakespeare’s Kings, Queens, Dukes, Duchesses and their courtiers.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Doors open at 4:15pm, show starts at 5pm. '
   -
     type: heading
     attrs:
@@ -54,7 +57,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is carparking that a five minute walk from the venue, there is alternative carparking on Gardner Road on Southwold common.'
+        text: 'There is a car park a five minute walk from the venue, there is alternative car parking on Gardner Road on Southwold Common.'
   -
     type: paragraph
     content:
@@ -94,7 +97,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book please visit this link '
+        text: 'To book please visit the TicketSource website '
       -
         type: text
         marks:
@@ -109,14 +112,9 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is run by Prominent, for more information please get in touch via:
-
-  [emily@prominentpr.co.uk](mailto:emily@prominentpr.co.uk)
-
-  [01473276126](tel:01473276126)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649756667
+cta: 'Presented by Matthew Townshend Productions (mtp) for Jubilee Celebration Week.'
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1650884101
 featured_image: MTP_JUBILEE_800x600_TS_.jpg
 latitude: '52.328730124946944'
 longitude: '1.6802251847779843'
@@ -126,4 +124,4 @@ town: Southwold
 postcode: 'IP18 6JP'
 booking_link: 'https://www.ticketsource.co.uk/southwold-arts-centre-tickets/shakespeare-celebration-schools-showcase/e-rxqdzq'
 ---
-A collabrative project between schools and professional actors and musicians to put on a perfomance of shakespear's work.
+A collabrative project between schools and professional actors and musicians to put on a perfomance of Shakespeare's work.
