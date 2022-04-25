@@ -6,8 +6,8 @@ title: 'Belly Dancing Classes'
 start_date: '2022-04-25 19:00'
 free: false
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650885146
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1650888394
 event_categories:
   - movement
   - dance
@@ -79,5 +79,7 @@ cta: |-
   [micaeladoucette@btinternet.com](mailto:micaeladoucette@btinternet.com)
 
   [07522198961](tel:07522198961)
+latitude: '52.04497346022964'
+longitude: '0.960664342440696'
 ---
 Get into the art of Belly Dancing with these classes. All skill levels welcome.
