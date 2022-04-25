@@ -41,6 +41,18 @@ content_area:
         type: text
         text: 'Price for the three week course is £120, bursary applications are available.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'They do accept video auditions, choose a monologue or song from the audition pack, and perform the dance from the video provided and send it to them.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The deadline for the auditions has been extended to Monday the 16th of May.'
+  -
     type: heading
     attrs:
       level: 2
@@ -86,8 +98,8 @@ cta: |-
   This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:
 
   [https://sypt.website](https://sypt.website)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650886216
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1650888769
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
