@@ -59,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is carparking close to the event either by the student dorms or at St Peters Dock carpark.'
+        text: 'There are car parks close to the event either by the student dorms or at St Peters Dock car park.'
   -
     type: heading
     attrs:
@@ -99,7 +99,7 @@ cta: |-
   This event is run by Eastern Angles, for more information please get in touch via:
 
   [https://easternangles.co.uk](https://easternangles.co.uk)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650460667
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1650886318
 ---
-Come and take part in the painting of the murals along Ipswich Waterfront.
+Come and take part in painting murals along Ipswich Waterfront.
