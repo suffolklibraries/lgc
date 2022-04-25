@@ -1,6 +1,5 @@
 ---
 id: 201e6b41-26e3-47d6-8610-a789004ca410
-published: false
 blueprint: events
 title: 'Arts at the Archives'
 event_categories:
@@ -26,48 +25,61 @@ content_area:
     content:
       -
         type: text
-        text: "Each month they will explore a different aspect of local heritage, then get inspired to design, make or create something!\_"
+        text: "Art at the Archive is a new creative club for young people aged 8-14, that meets once a month during term-time at Lowestoft Archives. Each month explore a different aspect of local heritage, then get inspired to design, make or create something!\_"
       -
         type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'There will also be the opportunity to use the club sessions to work towards an Arts Award at ‘Discover’ level.'
-      -
-        type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Children and young people do not need to be accompanied, but adults are welcome to stay to support a young person.'
-      -
-        type: hard_break
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'The main aims of the club are:'
+  -
+    type: bullet_list
+    content:
       -
-        type: hard_break
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'to empower young people to discover their local heritage for themselves'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'to develop young people''s self-confidence'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'to develop creativity.'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: '* to empower young people to discover their local heritage for themselves'
+        text: 'This summer term there will be 3 sessions, all themed around ‘seaside’. There will also be the opportunity to use the club sessions to work towards an Arts Award at ‘Discover’ level.'
       -
         type: hard_break
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: '* to develop young people''s self-confidence'
-      -
-        type: hard_break
-      -
-        type: text
-        text: '* to develop creativity'
-      -
-        type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'This summer term there will be 3 sessions, all themed around ‘seaside’.'
+        text: 'Children and young people do not need to be accompanied, but adults are welcome to stay to support a young person.'
   -
     type: heading
     attrs:
@@ -127,8 +139,8 @@ cta: |-
   This event is run by Suffolk Archives, for more information please get in touch via:
 
   [https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx](https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650892295
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1650895814
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 end_date: '2022-05-14 12:30'
 latitude: '52.476991717574975'
@@ -137,5 +149,6 @@ address_line_1: 'Lowestoft Archives'
 address_line_2: 'Clapham Rd S'
 town: Lowestoft
 postcode: 'NR32 1DR'
+attendance_information: 'Ages 8-14'
 ---
-Art at the Archive is a new creative club for young people aged 8-14, that meets once a month during term-time at Lowestoft Archives.
+Art at the Archive is a new creative club for young people aged 8-14, that meets once a month during term time at Lowestoft Archives.
