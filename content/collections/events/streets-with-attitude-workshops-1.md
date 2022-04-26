@@ -1,5 +1,6 @@
 ---
 id: d2bcbcb8-0624-4476-ac9c-2b2183aae337
+published: false
 blueprint: events
 title: 'Streets with Attitude workshops (Duplicated)'
 start_date: '2022-05-30 16:00'
@@ -104,7 +105,7 @@ content_area:
               title: null
         text: '07523243654'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650988278
+updated_at: 1650988315
 event_categories:
   - teen-and-young-adult
   - workshop
