@@ -2,8 +2,8 @@
 id: d2bcbcb8-0624-4476-ac9c-2b2183aae337
 published: false
 blueprint: events
-title: 'Streets with Attitude workshops (Duplicated)'
-start_date: '2022-05-30 16:00'
+title: 'Streets with Attitude - Final performace'
+start_date: '2022-06-04 16:00'
 free: true
 virtual: false
 content_area:
@@ -105,7 +105,7 @@ content_area:
               title: null
         text: '07523243654'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650988315
+updated_at: 1650988592
 event_categories:
   - teen-and-young-adult
   - workshop
@@ -126,4 +126,4 @@ cta: |-
 
   [https://www.arteatevents.com](https://www.arteatevents.com)
 ---
-A series of workshop that puts together a performance of skaters, BMXers, rollerskaters and wheelchair users.
+A performance of skaters, BMXers, rollerskaters and wheelchair users.
