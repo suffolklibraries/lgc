@@ -12,7 +12,7 @@ start_date: '2022-05-11 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650983826
+updated_at: 1650984053
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 end_date: '2022-05-11 12:30'
 latitude: '52.06153637380663'
