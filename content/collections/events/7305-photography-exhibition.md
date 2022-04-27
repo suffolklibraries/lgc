@@ -77,7 +77,7 @@ cta: |-
   This event is run by Arts Eat Events, for more informaion please get in touch via:
 
   [https://www.arteatevents.com](https://www.arteatevents.com)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650985591
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1651051826
 ---
-Two students from the University of Suffolk have produced and outdoor exhibition celebrating Stoke Bridge Skatepark.
+Two students from the University of Suffolk have produced an outdoor exhibition celebrating Stoke Bridge Skatepark.
