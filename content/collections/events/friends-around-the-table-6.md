@@ -1,5 +1,6 @@
 ---
 id: a0d9507c-eb54-4f6f-a0a7-a089a9abf434
+published: false
 blueprint: events
 title: 'Friends Around The Table - Gather, Make & Eat'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
