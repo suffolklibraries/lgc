@@ -1,17 +1,17 @@
 ---
 id: 2b104e1b-d029-47bf-883c-432b63444912
-published: false
 blueprint: events
 title: 'Youth Mural Painting'
 event_categories:
   - art
   - teen-and-young-adult
   - primary-school-age
+  - visual-arts
 organisers:
   - eastern-angles
-featured_image: offthepressimages/new_resized_images/VisualArts.png
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
 start_date: '2022-05-13 10:00'
-end_date: '2022-05-13 13:00'
+end_date: '2022-05-15 16:00'
 free: true
 virtual: false
 latitude: '52.051928013572685'
@@ -33,6 +33,40 @@ content_area:
     content:
       -
         type: text
+        text: 'Everyone is welcome to join in the painting three new murals at Ipswich Waterfront. The murals will be painted during two weekends in May on the hoardings on St. Peters Dock. Just book a time slot to take part by visiting the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://easternangles.co.uk/event/youth-mural-painting#tab-0=dates-and-times'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Eastern Angles website'
+      -
+        type: text
+        text: ', or phone '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07990802776'
+              rel: null
+              target: _blank
+              title: null
+        text: '07990802776'
+      -
+        type: text
+        text: ', passers by will be welcome to join if there is space available. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'Young People''s Art Workshops have been taking place since February with artists Lily Hammond, Frederico Ramos, Verity Slade, Keith Hopewell and Nikki Goldup for young people from local organisations in Ipswich including Acycle (African and Caribbean Youth Creative Learning Experience), Karibu Supplementary School, The Kurdish Mosque Youth Group, as well as young people at The Hive and Eastern Angles Centre.'
   -
     type: paragraph
@@ -40,6 +74,12 @@ content_area:
       -
         type: text
         text: " The workshops were designed to create ideas for the final artwork and give young people involved an opportunity to inspire the community through public art.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'An official launch of the murals will take place in the morning of Saturday the 28th May 2022, at 10am at St.Peters Dock everyone is welcome!'
   -
     type: heading
     attrs:
@@ -53,13 +93,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Youth Mural Painting takes place on The Waterfront.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are car parks close to the event either by the student dorms or at St Peters Dock car park.'
+        text: 'Youth Mural Painting takes place on The Waterfront. There are car parks close to the event either by the student dorms or at St Peters Dock car park.'
   -
     type: heading
     attrs:
@@ -93,13 +127,14 @@ content_area:
     content:
       -
         type: text
-        text: 'There are many time slots for Friday, Saturday and Sunday for the weeks of the 13th and the 20th. '
+        text: 'There are many time slots for Friday, Saturday and Sunday for the weekends of the 13th and the 20th May. '
 booking_link: 'https://easternangles.co.uk/event/youth-mural-painting#tab-0=dates-and-times'
 cta: |-
-  This event is run by Eastern Angles, for more information please get in touch via:
+  This event is run by Art Eat Events, for more information please visit:
 
   [https://easternangles.co.uk](https://easternangles.co.uk)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650886318
+updated_at: 1651051702
+attendance_information: 'Open to all'
 ---
 Come and take part in painting murals along Ipswich Waterfront.
