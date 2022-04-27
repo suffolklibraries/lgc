@@ -1,7 +1,7 @@
 ---
 id: 06f69896-915e-4268-8919-34ba9b57e105
 blueprint: events
-title: 'Mural Paintings on Ipswich Waterfront (Duplicated)'
+title: 'Mural Paintings on Ipswich Waterfront'
 event_categories:
   - art
   - teen-and-young-adult
@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-start_date: '2022-05-13 10:00'
-end_date: '2022-05-15 16:00'
+start_date: '2022-05-20 10:00'
+end_date: '2022-05-22 10:00'
 free: true
 virtual: false
 latitude: '52.051928013572685'
@@ -134,7 +134,7 @@ cta: |-
 
   [https://easternangles.co.uk](https://easternangles.co.uk)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651051729
+updated_at: 1651051776
 attendance_information: 'Open to all'
 ---
 Come and take part in painting murals along Ipswich Waterfront.
