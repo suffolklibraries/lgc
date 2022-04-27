@@ -8,7 +8,7 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - art-eat-events
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+featured_image: offthepressimages/new_resized_images/Teen.png
 start_date: '2022-05-21 11:00'
 end_date: '2022-05-21 17:00'
 free: true
@@ -93,7 +93,7 @@ cta: |-
 
   [https://www.arteatevents.com](https://www.arteatevents.com)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651053490
+updated_at: 1651056472
 accessibility_information: 'Outdoor venue'
 ---
 Art Eat are hosting a Paint Jam at Stoke Bridge Skatepark to celebrate the 20th anniversary of Stoke Bridge Skatepark.
