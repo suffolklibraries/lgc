@@ -9,7 +9,7 @@ event_categories:
   - visual-arts
 organisers:
   - eastern-angles
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+featured_image: 'art_eat_events/Keith-Hopewell-from-Black-&-White-Creatives-who-have-been-delivering-art-workshops-at-The-Kurdish-Mosque-and-Eastern-Angles,-and-will-be-painting-a-mural-with-volunteers-on-St-Peters-Dock-13,14,15,-20,-21,-.jpg'
 start_date: '2022-05-20 10:00'
 end_date: '2022-05-22 10:00'
 free: true
@@ -134,7 +134,7 @@ cta: |-
 
   [https://easternangles.co.uk](https://easternangles.co.uk)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651051776
+updated_at: 1651055905
 attendance_information: 'Open to all'
 ---
 Come and take part in painting murals along Ipswich Waterfront.
