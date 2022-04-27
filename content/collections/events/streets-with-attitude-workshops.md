@@ -104,14 +104,13 @@ content_area:
               target: _blank
               title: null
         text: '07523243654'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650988611
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1651054693
 event_categories:
   - teen-and-young-adult
   - workshop
 organisers:
   - art-eat-events
-featured_image: offthepressimages/new_resized_images/Teen.png
 end_date: '2022-06-03 20:00'
 attendance_information: 12+
 latitude: '52.05238800630151'
