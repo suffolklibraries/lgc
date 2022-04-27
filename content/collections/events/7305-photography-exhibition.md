@@ -1,5 +1,6 @@
 ---
 id: ce255878-159a-436b-848b-6b6da48550aa
+published: false
 blueprint: events
 title: '7305 Outdoor Photography Exhibition'
 event_categories:
@@ -7,7 +8,7 @@ event_categories:
   - hullabaloo22
 organisers:
   - art-eat-events
-featured_image: offthepressimages/new_resized_images/Teen.png
+featured_image: 'art_eat_events/Photo-by-Dylan-Winstone,-Fronside-Smith-Grind,-part-of-the-exhibition-in-The-Mill-Courtyard-behind-DanceEast.jpg'
 start_date: '2022-04-26 14:41'
 free: true
 virtual: false
@@ -78,6 +79,6 @@ cta: |-
 
   [https://www.arteatevents.com](https://www.arteatevents.com)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651053144
+updated_at: 1651055973
 ---
 Two students from the University of Suffolk have produced an outdoor exhibition celebrating Stoke Bridge Skatepark.
