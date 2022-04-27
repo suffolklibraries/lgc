@@ -9,7 +9,7 @@ event_categories:
   - visual-arts
 organisers:
   - eastern-angles
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+featured_image: art_eat_events/Art-Eat-Events--Artwork-by-Verity-Slade-who-has-led-free-art-workshops-with-young-people-to-design-a-new-mural-for-Ipswich-Waterfront-to-be-painted-over-two-weekends-in-May.jpg
 start_date: '2022-05-13 10:00'
 end_date: '2022-05-15 16:00'
 free: true
@@ -134,7 +134,7 @@ cta: |-
 
   [https://easternangles.co.uk](https://easternangles.co.uk)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651051729
+updated_at: 1651055707
 attendance_information: 'Open to all'
 ---
 Come and take part in painting murals along Ipswich Waterfront.
