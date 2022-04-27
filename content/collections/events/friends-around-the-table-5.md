@@ -1,5 +1,6 @@
 ---
 id: 9fad43fd-c999-4741-8a05-1bf183f874af
+published: false
 blueprint: events
 title: 'Friends Around The Table - Forage & Experiment'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
