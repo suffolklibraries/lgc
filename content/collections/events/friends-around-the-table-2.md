@@ -1,5 +1,6 @@
 ---
 id: dcc85706-eaa8-4765-aa0d-bb8f27c0374e
+published: false
 blueprint: events
 title: 'Friends Around The Table - spice making'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
