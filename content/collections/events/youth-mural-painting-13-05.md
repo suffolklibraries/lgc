@@ -1,7 +1,7 @@
 ---
 id: 2b104e1b-d029-47bf-883c-432b63444912
 blueprint: events
-title: 'Youth Mural Painting'
+title: 'Mural Paintings on Ipswich Waterfront'
 event_categories:
   - art
   - teen-and-young-adult
@@ -134,7 +134,7 @@ cta: |-
 
   [https://easternangles.co.uk](https://easternangles.co.uk)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651051702
+updated_at: 1651051729
 attendance_information: 'Open to all'
 ---
 Come and take part in painting murals along Ipswich Waterfront.
