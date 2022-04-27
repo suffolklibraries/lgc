@@ -2,8 +2,8 @@
 id: d2bcbcb8-0624-4476-ac9c-2b2183aae337
 published: false
 blueprint: events
-title: 'Streets with Attitude - Final performace'
-start_date: '2022-06-04 16:00'
+title: 'Streets with Attitude - Final Performance'
+start_date: '2022-06-04 12:00'
 free: true
 virtual: false
 content_area:
@@ -20,31 +20,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This project is a series of exciting workshops for anyone on wheels;'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'skateboarders, roller skaters, BMXers and wheelchair users. This is an opportunity for creative'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'collaboration and immersion into the possibilities of the world on wheels. This project is led by'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Dulce Duca an actress and circus artist for the last 17 years, originally from Portugal, she is'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'based in Great Yarmouth, East Anglia’s original Circus Capital.'
+        text: 'A collaborative street performance which will take place in two shows on Saturday 4th of June between 12pm to 5pm. An unusual and unique public performance made by Ipswich for Ipswich, complimenting a fantastic full day programme presented by Cult Café.'
   -
     type: heading
     attrs:
@@ -58,13 +34,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Streets with Attitude workshops takes place at the RW paul building at St Peter''s Dock'
+        text: 'Streets with Attitude - Final performance takes place outside the cult café at the James Hehir Building, IP3 0FS.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Carparking is less than a minutes walk from the venue.'
+        text: 'There is carparking less than a minutes walk from the venue.'
   -
     type: heading
     attrs:
@@ -78,49 +54,23 @@ content_area:
     content:
       -
         type: text
-        text: 'To book a place please Email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:Dulceduca.dif@gmail.com'
-              rel: null
-              target: _blank
-              title: null
-        text: Dulceduca.dif@gmail.com
-      -
-        type: text
-        text: ' or phone at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07523243654'
-              rel: null
-              target: _blank
-              title: null
-        text: '07523243654'
+        text: 'This is a drop in event so no booking is required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650988592
+updated_at: 1651050055
 event_categories:
   - teen-and-young-adult
-  - workshop
+  - performance
 organisers:
   - art-eat-events
 featured_image: offthepressimages/new_resized_images/Teen.png
-end_date: '2022-06-04 20:00'
-attendance_information: 12+
-latitude: '52.05238800630151'
-longitude: '1.154277725643876'
-address_line_1: 'RW Paul''s Building'
-address_line_2: 'St. Peters Dock'
+end_date: '2022-06-04 17:00'
+attendance_information: 'Outside venue'
+latitude: '52.050507163832776'
+longitude: '1.1640382944477083'
+address_line_1: 'Cult Cafe'
+address_line_2: 'James Hehir Building'
 town: Ipswich
-postcode: 'IP4 1BF'
-booking_link: 'mailto:Dulceduca.dif@gmail.com'
+postcode: 'IP3 0FS'
 cta: |-
   This event is run by Arts Eat Events, for more informaion please get in touch via:
 
