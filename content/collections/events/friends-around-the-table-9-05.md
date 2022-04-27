@@ -4,7 +4,7 @@ blueprint: events
 title: 'Friends Around The Table - Block print from your kitchen cupboard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648206746
+updated_at: 1651065736
 start_date: '2022-05-09 10:30'
 end_date: '2022-05-09 12:30'
 event_categories:
@@ -13,7 +13,7 @@ event_categories:
   - food
 free: true
 virtual: false
-featured_image: thumbnail_Copy-of-DSC_4330.jpg
+featured_image: FATT_Hadleigh.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
