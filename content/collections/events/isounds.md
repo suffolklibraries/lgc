@@ -2,7 +2,7 @@
 id: f531dee5-e533-4f1c-8673-dd62115dfa3c
 published: false
 blueprint: events
-title: 'ISounds plus - Music Production Course'
+title: 'iSounds + - Music Production Course'
 event_categories:
   - music
 organisers:
@@ -10,8 +10,8 @@ organisers:
 start_date: '2022-05-11 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650882341
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1651158112
 featured_image: Screenshot-2022-04-25-101257.png
 end_date: '2022-05-11 12:30'
 latitude: '52.06153637380663'
@@ -63,7 +63,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Isounds+ takes place at South Street Studios,Ipswich,IP1 3NU.'
+        text: 'iSounds+ takes place at South Street Studios,Ipswich,IP1 3NU.'
   -
     type: paragraph
     content:
@@ -114,5 +114,4 @@ cta: |-
 
   [https://www.outloudmusic.org/ilearn](https://www.outloudmusic.org/ilearn)
 ---
-free course for adults 19+ who live in Suffolk with additional needs and/or mental health issues. 
-Learn key skills of music production, song writing and recording at South Street Studios
+Free course for adults 19+ who live in Suffolk with additional needs and/or mental health issues. n the course learn key skills for music production, song writing and recording at South Street Studios.
