@@ -1,7 +1,7 @@
 ---
 id: 201e6b41-26e3-47d6-8610-a789004ca410
 blueprint: events
-title: 'Arts at the Archives'
+title: 'Art at the Archives'
 event_categories:
   - art
   - crafts
@@ -140,7 +140,7 @@ cta: |-
 
   [https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx](https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650895814
+updated_at: 1651155584
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 end_date: '2022-05-14 12:30'
 latitude: '52.476991717574975'
