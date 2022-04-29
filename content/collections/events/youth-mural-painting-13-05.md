@@ -7,6 +7,7 @@ event_categories:
   - teen-and-young-adult
   - primary-school-age
   - visual-arts
+  - hullabaloo22
 organisers:
   - art-eat-events
 featured_image: art_eat_events/Art-Eat-Events--Artwork-by-Verity-Slade-who-has-led-free-art-workshops-with-young-people-to-design-a-new-mural-for-Ipswich-Waterfront-to-be-painted-over-two-weekends-in-May.jpg
@@ -134,7 +135,7 @@ cta: |-
 
   [https://www.arteatevents.com/](https://www.arteatevents.com/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651226363
+updated_at: 1651228888
 attendance_information: 'Open to all'
 ---
 Come and take part in painting murals along Ipswich Waterfront.
