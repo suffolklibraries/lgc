@@ -8,8 +8,8 @@ event_categories:
   - primary-school-age
   - visual-arts
 organisers:
-  - eastern-angles
-featured_image: 'art_eat_events/Keith-Hopewell-from-Black-&-White-Creatives-who-have-been-delivering-art-workshops-at-The-Kurdish-Mosque-and-Eastern-Angles,-and-will-be-painting-a-mural-with-volunteers-on-St-Peters-Dock-13,14,15,-20,-21,-.jpg'
+  - art-eat-events
+featured_image: Art-by-Lily-Hammond.jpg
 start_date: '2022-05-20 10:00'
 end_date: '2022-05-22 10:00'
 free: true
@@ -132,9 +132,9 @@ booking_link: 'https://easternangles.co.uk/event/youth-mural-painting#tab-0=date
 cta: |-
   This event is run by Art Eat Events, for more information please visit:
 
-  [https://easternangles.co.uk](https://easternangles.co.uk)
+  [www.arteatevents.com](www.arteatevents.com)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651055905
+updated_at: 1651225538
 attendance_information: 'Open to all'
 ---
-Come and take part in painting murals along Ipswich Waterfront.
+Come and take part in the second weekend of painting murals along Ipswich Waterfront.
