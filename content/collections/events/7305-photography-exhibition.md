@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - art-eat-events
 featured_image: 'art_eat_events/Photo-by-Dylan-Winstone,-Fronside-Smith-Grind,-part-of-the-exhibition-in-The-Mill-Courtyard-behind-DanceEast.jpg'
-start_date: '2022-04-26 14:41'
+start_date: '2022-04-08 16:30'
 free: true
 virtual: false
 attendance_information: 'Outdoor Venue'
@@ -79,6 +79,7 @@ cta: |-
 
   [https://www.arteatevents.com](https://www.arteatevents.com)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651055973
+updated_at: 1651228757
+end_date: '2022-06-08 16:30'
 ---
 Two students from the University of Suffolk have produced an outdoor exhibition celebrating Stoke Bridge Skatepark.
