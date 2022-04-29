@@ -134,7 +134,7 @@ cta: |-
 
   [https://www.arteatevents.com/](https://www.arteatevents.com/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651226308
+updated_at: 1651226327
 attendance_information: 'Open to all'
 ---
 Come and take part in the second weekend of painting murals along Ipswich Waterfront.
