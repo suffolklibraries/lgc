@@ -3,8 +3,8 @@ id: 2d56b8d2-2432-43e9-86c5-b05cf36c23b9
 blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651046889
+updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
+updated_at: 1651222284
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2022-05-04 10:00'
@@ -44,35 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call our organiser Esther Alcock on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'Tel:01473235581'
-              rel: null
-              target: _blank
-              title: null
-        text: '01473 235581'
-      -
-        type: text
-        text: '  or connect with '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.facebook.com/danceeast'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Dance East via Facebook'
-      -
-        type: text
-        text: .
+        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call class tutor Laura on 07375024115 or email community-dance@hotmail.com. '
   -
     type: heading
     attrs:
@@ -136,7 +108,7 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £3
+cost_details: £4
 end_date: '2022-05-04 11:30'
 ---
 A weekly dance class for everyone over 55. Sudbury Movers classes are designed to benefit you both mentally and physically.
