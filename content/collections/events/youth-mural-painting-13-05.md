@@ -132,9 +132,9 @@ booking_link: 'https://easternangles.co.uk/event/youth-mural-painting#tab-0=date
 cta: |-
   This event is run by Art Eat Events, for more information please visit:
 
-  [www.arteatevents.com](www.arteatevents.com)
+  [https://www.arteatevents.com/](https://www.arteatevents.com/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651225571
+updated_at: 1651226363
 attendance_information: 'Open to all'
 ---
 Come and take part in painting murals along Ipswich Waterfront.
