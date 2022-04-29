@@ -1,6 +1,5 @@
 ---
 id: ce255878-159a-436b-848b-6b6da48550aa
-published: false
 blueprint: events
 title: '7305 Outdoor Photography Exhibition'
 event_categories:
@@ -79,7 +78,7 @@ cta: |-
 
   [https://www.arteatevents.com](https://www.arteatevents.com)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651228757
+updated_at: 1651228767
 end_date: '2022-06-08 16:30'
 ---
 Two students from the University of Suffolk have produced an outdoor exhibition celebrating Stoke Bridge Skatepark.
