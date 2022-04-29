@@ -3,8 +3,8 @@ id: 495e297a-3cf3-4d61-a8b8-1f9fad3e88cc
 blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650874939
+updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
+updated_at: 1651222405
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-05-03 10:00'
@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns about DanceEast''s Movers classes via our Facebook page: '
+        text: 'Please don’t hesitate to get in touch with your questions about DanceEast''s Movers classes via our Facebook page: '
       -
         type: text
         marks:
@@ -92,18 +92,18 @@ content_area:
     content:
       -
         type: text
-        text: "To book you can call Zoe Ablitt on\_"
+        text: "To book you can call Alysha Hudson on\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473295245'
+              href: 'tel:07984 756499'
               rel: null
               target: _blank
               title: null
-        text: '01473295245'
+        text: '07984 756499'
       -
         type: text
         text: "\_or email at\_"
@@ -113,11 +113,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:01473295245'
+              href: 'mailto:alysha1990@hotmail.com'
               rel: null
               target: _blank
               title: null
-        text: Zoe.Ablitt@danceeast.co.uk
+        text: alysha1990@hotmail.com
       -
         type: text
         text: .
