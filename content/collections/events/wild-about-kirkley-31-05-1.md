@@ -1,5 +1,6 @@
 ---
 id: 24bc6a21-1581-4e89-93ea-e86f2d80bf8f
+published: false
 blueprint: events
 title: 'Wild About Kirkley - First Light (Duplicated) (Duplicated)'
 start_date: '2022-05-31 13:00'
@@ -7,7 +8,7 @@ end_date: '2022-05-31 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651570250
+updated_at: 1651570293
 event_categories:
   - nature
   - later-life
