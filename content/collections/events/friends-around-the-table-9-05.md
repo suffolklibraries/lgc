@@ -13,7 +13,7 @@ event_categories:
   - food
 free: true
 virtual: false
-featured_image: FATT_Hadleigh.jpg
+featured_image: suffolkartlinkimages/FATT_Hadleigh.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
