@@ -125,7 +125,7 @@ updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1648034837
 organisers:
   - whats-on-west-suffolk
-featured_image: f251122c-858f-47e5-8024-c064244379c8.jpg
+featured_image: miscellaneous/f251122c-858f-47e5-8024-c064244379c8.jpg
 end_date: '2022-04-20 12:30'
 latitude: '52.22681278255398'
 longitude: '0.7287376491972122'
