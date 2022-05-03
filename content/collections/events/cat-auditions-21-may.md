@@ -21,7 +21,7 @@ address_line_1: DanceEast
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: ACE_CAT_SetUp_278-smaller-1650640012.jpg
+featured_image: danceeastimages/ACE_CAT_SetUp_278-smaller-1650640012.jpg
 content_area:
   -
     type: heading
