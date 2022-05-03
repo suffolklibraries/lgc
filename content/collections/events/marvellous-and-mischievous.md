@@ -2,9 +2,9 @@
 id: 0f1778b7-104f-4a44-916e-b472be68ed2a
 published: false
 blueprint: events
-title: 'Let''s Get Crafty - Land Girls (Duplicated)'
-start_date: '2022-04-13 10:00'
-free: true
+title: 'Marvellous and Mischievous'
+start_date: '2022-04-26 10:30'
+free: false
 virtual: false
 content_area:
   -
@@ -20,31 +20,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join us for some fun family crafts inspired by the Women’s Land Army.\_"
-      -
-        type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Suitable for ages 5-11'
-      -
-        type: hard_break
-      -
-        type: text
-        text: "\_"
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Advance booking required.'
-      -
-        type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Children must be accompanied by a responsible adult at all times.'
+        text: "Join them for a range of family crafts and activities inspired by 'The Lion, the Witch and the Wardrobe' and our exhibition 'Marvellous and Mischievous'.\_"
   -
     type: heading
     attrs:
@@ -58,13 +34,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Let''s Get Crafty - Land Girls meets at the Suffolk Archives in Bury St Edmunds, IP33 2AR.'
+        text: 'Let''s Get Crafty - Marvellous and Mischievous meets at the The Hold, Ipswich,IP4 1LN.'
   -
     type: paragraph
     content:
       -
         type: text
         text: 'There are bus routes between five and ten minute walk from the venue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The building has ramps and double automatic doors for those with accessibilities needs.'
   -
     type: heading
     attrs:
@@ -93,8 +75,8 @@ content_area:
       -
         type: text
         text: '. '
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648718706
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1651584773
 event_categories:
   - art
   - crafts
@@ -102,17 +84,18 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-end_date: '2022-04-13 12:30'
-latitude: '52.24222161832669'
-longitude: '0.7195140154637296'
-address_line_1: 'Suffolk Archives'
-address_line_2: '77 Raingate St'
-town: 'Bury Saint Edmunds'
-postcode: 'IP33 2AR'
+end_date: '2022-04-26 12:00'
+latitude: '52.05305327650036'
+longitude: '1.1635487570229357'
+address_line_1: 'The Hold'
+address_line_2: '131 Fore Street'
+town: Ipswich
+postcode: 'IP4 1LN'
 booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
 cta: |-
   This event is run by Suffolk Archives, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
+cost_details: £4
 ---
-Arts and crafts session based on and inspired by the Women's Land Army.
+Arts and crafts sessions bassed around The Lion, The Witch and The Wardrobe and the exhibition Marvellous and Mischievous.
