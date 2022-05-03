@@ -2,13 +2,13 @@
 id: b3eaf109-1231-4933-8640-31614dbd36bd
 published: false
 blueprint: events
-title: 'Wild About Kirkley - (Duplicated)'
-start_date: '2022-06-15 13:00'
-end_date: '2022-06-15 15:00'
+title: 'Wild About Kirkley - Kirkley Foraging Walk'
+start_date: '2022-06-28 13:00'
+end_date: '2022-06-28 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651570717
+updated_at: 1651570967
 event_categories:
   - nature
   - later-life
