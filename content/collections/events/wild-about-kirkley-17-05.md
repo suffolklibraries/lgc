@@ -2,13 +2,13 @@
 id: ba43d2f8-43c1-4aba-b872-3af002c68678
 published: false
 blueprint: events
-title: 'Wild About Kirkley (Duplicated)'
-start_date: '2022-05-03 10:30'
-end_date: '2022-05-03 15:00'
+title: 'Wild About Kirkley - First Light'
+start_date: '2022-05-17 13:00'
+end_date: '2022-05-17 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651568008
+updated_at: 1651569974
 event_categories:
   - nature
   - later-life
@@ -29,22 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'On Tuesday 3rd May Real Veg will help create compost bins and will be sowing seeds in the garden and discussing plans for future workshops and events.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: '*** Please bring a glass jar with a sample of soil in. The soil can be collected from your garden or somewhere in your local area. We will be testing the PH of the soil.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Suffolk Artlink welcomes you to learn, grow, eat and share through a series of inspiring, social and creative get-togethers centered around Kirkley. From now until March, you can enjoy free activities led by artists, Carrie Phoenix and Kasia Posen, plus guests. From foraging and tasting to learning about local marine life and growing organic vegetables you will creatively explore the place you call home alongside your friends and neighbours.   '
+        text: 'Suffolk Artlink welcomes you to learn, grow, eat and share through a series of inspiring, social and creative get-togethers centered around Kirkley. '
   -
     type: paragraph
     content:
@@ -175,6 +160,6 @@ cta: |-
   [07704 068 327](tel:07704068327)
 
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
-featured_image: suffolkartlinkimages/13-July-forage-1.jpg
+featured_image: Copy-of-18-May-forage-1-NI.jpg
 ---
-Join Suffolk Artlink in learning about Kirkley's natural environment. This week Real Veg will help us create compost bins and will be sowing seeds in the garden and planning for future workshops and events.
+Exploring our soil, sewing seeds in our community garden and planning for First Light Festival.
