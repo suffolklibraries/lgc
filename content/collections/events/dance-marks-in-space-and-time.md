@@ -7,7 +7,7 @@ event_categories:
   - fundraiser
 organisers:
   - the-cut
-featured_image: The-Cut.jpg
+featured_image: miscellaneous/The-Cut.jpg
 start_date: '2022-06-10 10:00'
 end_date: '2022-06-11 10:00'
 free: true
