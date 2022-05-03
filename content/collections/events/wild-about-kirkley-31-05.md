@@ -8,7 +8,7 @@ end_date: '2022-05-31 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651582491
+updated_at: 1651582610
 event_categories:
   - nature
   - later-life
@@ -43,12 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You are invited to GROW, TASTE, SHARE & DISCOVER through a series of creative'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'workshops, walks and Pop-Ups based at the Kirkley Pantry community garden, The Kirkley Centre and other outdoor locations including the beach which forms part of First Light Festival.'
+        text: 'You are invited to GROW, TASTE, SHARE & DISCOVER through a series of creative workshops, walks and Pop-Ups based at the Kirkley Pantry community garden, The Kirkley Centre and other outdoor locations including the beach which forms part of First Light Festival.'
   -
     type: paragraph
     content:
