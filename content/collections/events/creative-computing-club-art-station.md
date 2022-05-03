@@ -8,7 +8,7 @@ event_categories:
   - computing
 organisers:
   - the-art-station
-featured_image: Creative-Computing-Club.jpg
+featured_image: miscellaneous/Creative-Computing-Club.jpg
 start_date: '2022-03-27 10:00'
 end_date: '2022-03-27 11:00'
 free: false
