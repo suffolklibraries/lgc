@@ -7,7 +7,7 @@ event_categories:
   - primary-school-age
 organisers:
   - rock-paper-scissors
-featured_image: saturday-art-club.jfif
+featured_image: miscellaneous/saturday-art-club.jfif
 start_date: '2022-05-07 10:00'
 free: false
 virtual: false
