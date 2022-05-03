@@ -6,7 +6,7 @@ event_categories:
   - food
 organisers:
   - future-female-society
-featured_image: image_2022-04-11_151825497.png
+featured_image: miscellaneous/image_2022-04-11_151825497.png
 start_date: '2022-05-06 10:00'
 end_date: '2022-05-06 12:00'
 free: true
