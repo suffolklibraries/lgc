@@ -12,7 +12,7 @@ event_categories:
   - art
 organisers:
   - led-creatives
-featured_image: sketch-new-wolsey-pub.jpg
+featured_image: miscellaneous/sketch-new-wolsey-pub.jpg
 end_date: '2022-03-15 22:00'
 latitude: '52.05363164877224'
 longitude: '1.1608876675719249'
