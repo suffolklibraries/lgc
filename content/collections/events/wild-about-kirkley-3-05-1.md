@@ -1,5 +1,6 @@
 ---
 id: 7dcbc6b9-f1b4-4648-9b0b-fd782fd7f649
+published: false
 blueprint: events
 title: 'Wild About Kirkley (Duplicated)'
 start_date: '2022-05-03 10:30'
