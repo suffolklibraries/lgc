@@ -13,7 +13,7 @@ event_categories:
   - food
 free: true
 virtual: false
-featured_image: thumbnail_Copy-of-DSC_4330.jpg
+featured_image: suffolkartlinkimages/thumbnail_Copy-of-DSC_4330.jpg
 attendance_information: |-
   Family and carers 
   Adults living rurally
