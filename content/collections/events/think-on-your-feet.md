@@ -6,7 +6,7 @@ event_categories:
   - movement
 organisers:
   - the-hive
-featured_image: think-on-your-feet.PNG
+featured_image: miscellaneous/think-on-your-feet.PNG
 start_date: '2022-03-29 11:00'
 end_date: '2022-03-29 13:00'
 free: true
