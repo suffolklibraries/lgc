@@ -12,7 +12,7 @@ free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1651158112
-featured_image: Screenshot-2022-04-25-101257.png
+featured_image: miscellaneous/Screenshot-2022-04-25-101257.png
 end_date: '2022-05-11 12:30'
 latitude: '52.06153637380663'
 longitude: '1.144551031435341'
