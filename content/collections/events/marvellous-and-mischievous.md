@@ -2,8 +2,8 @@
 id: 0f1778b7-104f-4a44-916e-b472be68ed2a
 published: false
 blueprint: events
-title: 'Marvellous and Mischievous'
-start_date: '2022-04-26 10:30'
+title: 'Let''s Get Crafty: Marvellous and Mischievous'
+start_date: '2022-07-26 10:30'
 free: false
 virtual: false
 content_area:
@@ -76,7 +76,7 @@ content_area:
         type: text
         text: '. '
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651584773
+updated_at: 1651585201
 event_categories:
   - art
   - crafts
@@ -84,7 +84,7 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-end_date: '2022-04-26 12:00'
+end_date: '2022-07-26 12:00'
 latitude: '52.05305327650036'
 longitude: '1.1635487570229357'
 address_line_1: 'The Hold'
