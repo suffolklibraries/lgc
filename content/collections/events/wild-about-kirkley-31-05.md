@@ -2,13 +2,13 @@
 id: 841e2971-b5b9-43da-b0dc-067e18664b54
 published: false
 blueprint: events
-title: 'Wild About Kirkley - First Light (Duplicated)'
+title: 'Wild About Kirkley - First Light'
 start_date: '2022-05-31 13:00'
 end_date: '2022-05-31 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651572384
+updated_at: 1651582491
 event_categories:
   - nature
   - later-life
@@ -35,17 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Artlink welcomes you to celebrate Soil and Land through a series of regular, inspiring'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'and restorative get-togethers centred around Kirkley as part of the Wild About Kirkley'
-      -
-        type: hard_break
-      -
-        type: text
-        text: project.
+        text: 'Suffolk Artlink welcomes you to celebrate Soil and Land through a series of regular, inspiring and restorative get-togethers centred around Kirkley as part of the Wild About Kirkley project.'
       -
         type: hard_break
   -
@@ -53,22 +43,12 @@ content_area:
     content:
       -
         type: text
-        text: 'You are invited to GROW, TASTE, SHARE & amp; DISCOVER through a series of creative'
+        text: 'You are invited to GROW, TASTE, SHARE & DISCOVER through a series of creative'
       -
         type: hard_break
       -
         type: text
-        text: 'workshops, walks and Pop-Ups based at the Kirkley Pantry community garden, The Kirkley'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Centre and other outdoor locations including the beach which forms part of First Light'
-      -
-        type: hard_break
-      -
-        type: text
-        text: Festival.
+        text: 'workshops, walks and Pop-Ups based at the Kirkley Pantry community garden, The Kirkley Centre and other outdoor locations including the beach which forms part of First Light Festival.'
   -
     type: paragraph
     content:
