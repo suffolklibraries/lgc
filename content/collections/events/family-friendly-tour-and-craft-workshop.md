@@ -11,7 +11,7 @@ event_categories:
 organisers:
   - the-hold
   - suffolk-archives
-featured_image: image_2022-04-11_155236221.png
+featured_image: suffolkarchives/image_2022-04-11_155236221.png
 start_date: '2022-04-20 14:00'
 end_date: '2022-04-20 16:00'
 free: true
