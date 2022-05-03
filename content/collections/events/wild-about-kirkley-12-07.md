@@ -3,12 +3,12 @@ id: 7dcbc6b9-f1b4-4648-9b0b-fd782fd7f649
 published: false
 blueprint: events
 title: 'Wild About Kirkley (Duplicated)'
-start_date: '2022-05-03 10:30'
-end_date: '2022-05-03 15:00'
+start_date: '2022-07-12 13:30'
+end_date: '2022-07-12 15:00'
 free: true
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651236260
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1651571340
 event_categories:
   - nature
   - later-life
@@ -29,22 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'On Tuesday 3rd May Real Veg will help create compost bins and will be sowing seeds in the garden and discussing plans for future workshops and events.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: '*** Please bring a glass jar with a sample of soil in. The soil can be collected from your garden or somewhere in your local area. We will be testing the PH of the soil.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Suffolk Artlink welcomes you to learn, grow, eat and share through a series of inspiring, social and creative get-togethers centered around Kirkley. From now until March, you can enjoy free activities led by artists, Carrie Phoenix and Kasia Posen, plus guests. From foraging and tasting to learning about local marine life and growing organic vegetables you will creatively explore the place you call home alongside your friends and neighbours.   '
+        text: 'Suffolk Artlink welcomes you to learn, grow, eat and share through a series of inspiring, social and creative get-togethers centered around Kirkley. '
   -
     type: paragraph
     content:
@@ -177,4 +162,5 @@ cta: |-
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
 featured_image: suffolkartlinkimages/13-July-forage-1.jpg
 ---
-Join Suffolk Artlink in learning about Kirkley's natural environment. This week Real Veg will help us create compost bins and will be sowing seeds in the garden and planning for future workshops and events.
+Get creative with artist Genevieve Rudd as part of Heritage Action Zones.
+Cyanotype photography & eco-dyeing onto recycled fabrics, decorated with sewing, to stretch over canvas.
