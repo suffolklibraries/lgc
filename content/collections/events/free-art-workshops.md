@@ -8,7 +8,7 @@ event_categories:
   - crafts
 organisers:
   - art-eat-events
-featured_image: IMG_1668.JPG
+featured_image: miscellaneous/IMG_1668.JPG
 start_date: '2022-03-24 17:00'
 end_date: '2022-03-24 19:00'
 free: true
