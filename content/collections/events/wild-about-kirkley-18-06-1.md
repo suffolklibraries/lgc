@@ -2,13 +2,13 @@
 id: 7c66061f-a301-4e03-90d0-61bf83238d1e
 published: false
 blueprint: events
-title: 'Wild About Kirkley - (Duplicated)'
+title: 'Wild About Kirkley -'
 start_date: '2022-06-15 13:00'
 end_date: '2022-06-15 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651570518
+updated_at: 1651570717
 event_categories:
   - nature
   - later-life
@@ -139,12 +139,6 @@ content_area:
           -
             type: italic
         text: 'First Light Festival, Community Action Suffolk and Kirkley Pantry. The project has been made possible by the Arts Council England and Suffolk County Council.'
-latitude: '52.46436535067328'
-longitude: '1.7381295153426122'
-address_line_1: 'Kirkley Pantry, Kirkley Church Hall'
-address_line_2: 'St Peter''s Road'
-town: Lowestoft
-postcode: 'NR33 OLJ'
 attendance_information: 'Everyone welcome'
 accessibility_information: |-
   - Everyone welcome
@@ -162,4 +156,4 @@ cta: |-
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
 featured_image: Copy-of-18-May-forage-1-NI.jpg
 ---
-Foraging Walks around Kirkley as part of First Light Festival, foraged food tasting with Jon Tyler and creative activities led by us in The Pantry Community Garden. More details to follow.
+First Light Festival, Planet Positive Workshops and Kirkley Pantry Open Garden.
