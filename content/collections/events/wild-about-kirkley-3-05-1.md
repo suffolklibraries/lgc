@@ -1,13 +1,14 @@
 ---
 id: ba43d2f8-43c1-4aba-b872-3af002c68678
+published: false
 blueprint: events
 title: 'Wild About Kirkley (Duplicated)'
 start_date: '2022-05-03 10:30'
 end_date: '2022-05-03 15:00'
 free: true
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651236260
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1651568008
 event_categories:
   - nature
   - later-life
