@@ -7,7 +7,7 @@ event_categories:
   - performance
 organisers:
   - suffolk-young-peoples-theatre
-featured_image: young-theatre.jpg
+featured_image: miscellaneous/young-theatre.jpg
 start_date: '2022-05-01 10:00'
 end_date: '2022-05-01 17:00'
 free: true
