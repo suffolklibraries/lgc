@@ -11,7 +11,7 @@ event_categories:
   - history
 organisers:
   - suffolk-archives
-featured_image: outsidevenue-2-resize.png
+featured_image: offthepressimages/outsidevenue-2-resize.png
 end_date: '2022-04-27 11:30'
 cost_details: £6
 latitude: '52.24222161832669'
