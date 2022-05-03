@@ -1,5 +1,6 @@
 ---
 id: 841e2971-b5b9-43da-b0dc-067e18664b54
+published: false
 blueprint: events
 title: 'Wild About Kirkley - First Light (Duplicated)'
 start_date: '2022-05-17 13:00'
