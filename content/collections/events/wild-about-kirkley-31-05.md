@@ -8,7 +8,7 @@ end_date: '2022-05-31 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651570250
+updated_at: 1651572384
 event_categories:
   - nature
   - later-life
@@ -29,7 +29,46 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Artlink welcomes you to learn, grow, eat and share through a series of inspiring, social and creative get-togethers centered around Kirkley. '
+        text: 'Join us in a creative journey, to learn about Kirkley’s unique natural environment.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Suffolk Artlink welcomes you to celebrate Soil and Land through a series of regular, inspiring'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'and restorative get-togethers centred around Kirkley as part of the Wild About Kirkley'
+      -
+        type: hard_break
+      -
+        type: text
+        text: project.
+      -
+        type: hard_break
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You are invited to GROW, TASTE, SHARE & amp; DISCOVER through a series of creative'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'workshops, walks and Pop-Ups based at the Kirkley Pantry community garden, The Kirkley'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Centre and other outdoor locations including the beach which forms part of First Light'
+      -
+        type: hard_break
+      -
+        type: text
+        text: Festival.
   -
     type: paragraph
     content:
