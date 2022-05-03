@@ -14,7 +14,7 @@ event_categories:
   - crafts
 organisers:
   - rock-paper-scissors
-featured_image: rock_paper_grow_2-(2).jpg
+featured_image: rockpaperscissorsimages/rock_paper_grow_2-(2).jpg
 end_date: '2022-04-30 15:00'
 latitude: '52.07441077811036'
 longitude: '1.1475718966106527'
