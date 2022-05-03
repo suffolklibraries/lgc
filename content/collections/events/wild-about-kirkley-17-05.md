@@ -8,7 +8,7 @@ end_date: '2022-05-17 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651571439
+updated_at: 1651582240
 event_categories:
   - nature
   - later-life
@@ -35,17 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Artlink welcomes you to celebrate Soil and Land through a series of regular, inspiring'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'and restorative get-togethers centred around Kirkley as part of the Wild About Kirkley'
-      -
-        type: hard_break
-      -
-        type: text
-        text: project.
+        text: 'Suffolk Artlink welcomes you to celebrate Soil and Land through a series of regular, inspiring and restorative get-togethers centred around Kirkley as part of the Wild About Kirkley project.'
       -
         type: hard_break
   -
@@ -53,28 +43,19 @@ content_area:
     content:
       -
         type: text
-        text: 'You are invited to GROW, TASTE, SHARE &amp; DISCOVER through a series of creative'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'workshops, walks and Pop-Ups based at the Kirkley Pantry community garden, The Kirkley'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Centre and other outdoor locations including the beach which forms part of First Light'
-      -
-        type: hard_break
-      -
-        type: text
-        text: Festival.
+        text: 'You are invited to GROW, TASTE, SHARE & DISCOVER through a series of creative workshops, walks and Pop-Ups based at the Kirkley Pantry community garden, The Kirkley Centre and other outdoor locations including the beach which forms part of First Light Festival.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Everyone is welcome, no experience is necessary. Please come prepared to spend some time outdoors. Wear suitable clothing and footwear. The Pantry will be open for facilities, refreshments and hot drinks will be provided. You can attend as few or as many activities as you like.'
+        text: 'Everyone is welcome, no experience is necessary. Please come prepared to spend some time outdoors. Wear suitable clothing and footwear. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Pantry will be open for facilities, refreshments and hot drinks will be provided. You can attend as few or as many activities as you like.'
   -
     type: heading
     attrs:
