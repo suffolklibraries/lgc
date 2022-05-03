@@ -9,7 +9,7 @@ event_categories:
   - performance
 organisers:
   - the-hold
-featured_image: Yarnsmith-of-Norwich-1651585699.png
+featured_image: suffolkarchives/Yarnsmith-of-Norwich-1651585699.png
 start_date: '2022-07-28 10:00'
 end_date: '2022-07-28 10:30'
 free: true
