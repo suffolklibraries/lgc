@@ -13,7 +13,7 @@ updated_at: 1649068969
 event_categories:
   - open-to-all
   - art
-featured_image: BookofHours_flyer_dig.jpg
+featured_image: miscellaneous/BookofHours_flyer_dig.jpg
 end_date: '2022-04-08 21:00'
 latitude: '52.216147580613764'
 longitude: '1.4921962261052326'
