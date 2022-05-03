@@ -59,7 +59,7 @@ updated_at: 1648033808
 event_categories:
   - history
   - movement
-featured_image: Outside-Venue-1521-x-834.png
+featured_image: offthepressimages/Outside-Venue-1521-x-834.png
 end_date: '2022-03-26 14:00'
 latitude: '52.109362703013765'
 longitude: '0.796324992788565'
