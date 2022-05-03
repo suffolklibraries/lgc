@@ -2,13 +2,13 @@
 id: 24bc6a21-1581-4e89-93ea-e86f2d80bf8f
 published: false
 blueprint: events
-title: 'Wild About Kirkley - First Light (Duplicated) (Duplicated)'
-start_date: '2022-05-31 13:00'
-end_date: '2022-05-31 15:00'
+title: 'Wild About Kirkley -'
+start_date: '2022-06-15 13:00'
+end_date: '2022-06-15 15:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651570293
+updated_at: 1651570518
 event_categories:
   - nature
   - later-life
@@ -162,4 +162,4 @@ cta: |-
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
 featured_image: Copy-of-18-May-forage-1-NI.jpg
 ---
-Exploring our soil, sewing seeds in our community garden and planning for First Light Festival.
+Foraging Walks around Kirkley as part of First Light Festival, foraged food tasting with Jon Tyler and creative activities led by us in The Pantry Community Garden. More details to follow.
