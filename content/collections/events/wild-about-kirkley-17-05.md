@@ -1,14 +1,13 @@
 ---
 id: ba43d2f8-43c1-4aba-b872-3af002c68678
-published: false
 blueprint: events
-title: 'Wild About Kirkley - First Light'
+title: 'Wild About Kirkley'
 start_date: '2022-05-17 13:00'
 end_date: '2022-05-17 15:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651582240
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1651753130
 event_categories:
   - nature
   - later-life
@@ -36,8 +35,6 @@ content_area:
       -
         type: text
         text: 'Suffolk Artlink welcomes you to celebrate Soil and Land through a series of regular, inspiring and restorative get-togethers centred around Kirkley as part of the Wild About Kirkley project.'
-      -
-        type: hard_break
   -
     type: paragraph
     content:
@@ -167,7 +164,6 @@ town: Lowestoft
 postcode: 'NR33 OLJ'
 attendance_information: 'Everyone welcome'
 accessibility_information: |-
-  - Everyone welcome
   - Autism friendly
   - Dementia friendly
   - Wheelchair access
@@ -182,4 +178,4 @@ cta: |-
   [www.suffolkartlink.co.uk](https://www.suffolkartlink.org.uk/)
 featured_image: Copy-of-18-May-forage-1-NI.jpg
 ---
-Exploring our soil, sewing seeds in our community garden and planning for First Light Festival.
+Explore our soil, sew seeds in our community garden and plan for First Light Festival.
