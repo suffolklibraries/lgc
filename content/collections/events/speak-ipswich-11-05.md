@@ -1,20 +1,18 @@
 ---
 id: 515095cb-4443-4b2c-9add-67b8bd074c34
-published: false
 blueprint: events
-title: 'Community Garden at The Hive (Duplicated)'
-start_date: '2022-05-11 10:00'
+title: 'SPEAK Ipswich - English Conversational class'
+start_date: '2022-05-11 18:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651564709
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1651749930
 event_categories:
-  - art
-  - nature
+  - languages
 organisers:
   - the-hive
-featured_image: offthepressimages/new_resized_images/Food_Nature.png
-end_date: '2022-05-11 12:00'
+featured_image: SPEAK-Ipswich-LG-Post-(2).png
+end_date: '2022-05-11 19:30'
 latitude: '52.06134059473968'
 longitude: '1.1444118965713421'
 address_line_1: 'The Hive Ipswich CIC'
@@ -35,41 +33,30 @@ content_area:
     content:
       -
         type: text
-        text: 'Community, culture and art come together at The Hive and now gardening too! This new informal and relaxed gardening project will be taking place on Wednesdays between 10am and 12pm in the green space at the back of The Hive. If you''re interested in coming along or looking for more information then please call Cad on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07494219836'
-              rel: null
-              target: _blank
-              title: null
-        text: '07494219836'
-      -
-        type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:sarah@usethehive.org.uk'
-              rel: null
-              target: _blank
-              title: null
-        text: sarah@usethehive.org.uk.
-      -
-        type: text
-        text: '  '
+        text: 'Informal english conversational classes taking place at The Hive on Norwich Road, Ipswich. Every Wednesday from 6 to 7:30pm, starting from the 4th of May for 12 weeks. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Cups of tea included!'
+        text: 'SPEAK Ipswich aims to bring people together through Language and Culture exchange. We believe that these exchanges help our participants know about each other and create friendship bonds that they can use outside of our project.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For more information, please visit the SPEAK website. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.speak.social/en/'
+              rel: null
+              target: null
+              title: null
+        text: 'Learn a language and meet people in your city | SPEAK'
   -
     type: heading
     attrs:
@@ -125,43 +112,31 @@ content_area:
     content:
       -
         type: text
-        text: 'This is an informal, drop in event so there''s no need to book, however if you''re interested in coming along, or looking for more information, then please call Cad on '
+        text: 'This is an informal, drop in event so there''s no need to book, however if you''re interested in coming along, or looking for more information, then please email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07494219836'
+              href: 'mailto:ana.reis@speakfounder.social'
               rel: null
               target: _blank
               title: null
-        text: '07494219836'
+        text: 'ana.reis@speakfounder.social '
       -
         type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:sarah@usethehive.org.uk'
-              rel: null
-              target: _blank
-              title: null
-        text: sarah@usethehive.org.uk.
-      -
-        type: text
-        text: '  '
+        text: ' '
   -
     type: paragraph
 cta: |-
-  This event is run by The Hive, for more information or to register interest please see below: 
+  This event is run by The Hive and SPEAK, for more information or to register interest please see below: 
+
+  [https://www.speak.social](https://www.speak.social) 
 
   [https://usethehive.org.uk/](https://usethehive.org.uk/)
 
-  [sarah@usethehive.org.uk](mailto:sarah@usethehive.org.uk)
+  [ana.reis@speakfounder.social ](mailto:ana.reis@speakfounder.social )
 attendance_information: 'Everyone welcome'
 ---
-Come and get involved in an informal project to develop the garden at The Hive.
+Informal english conversation sessions at The Hive on Wednesday evenings.
