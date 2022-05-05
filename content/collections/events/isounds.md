@@ -1,6 +1,5 @@
 ---
 id: f531dee5-e533-4f1c-8673-dd62115dfa3c
-published: false
 blueprint: events
 title: 'iSounds + - Music Production Course'
 event_categories:
@@ -11,8 +10,8 @@ start_date: '2022-05-11 10:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651158112
-featured_image: miscellaneous/Screenshot-2022-04-25-101257.png
+updated_at: 1651752706
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 end_date: '2022-05-11 12:30'
 latitude: '52.06153637380663'
 longitude: '1.144551031435341'
@@ -63,13 +62,9 @@ content_area:
     content:
       -
         type: text
-        text: 'iSounds+ takes place at South Street Studios,Ipswich,IP1 3NU.'
+        text: 'iSounds+ takes place at South Street Studios, Ipswich, IP1 3NU.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking less than a minutes walk from the venue.'
   -
     type: heading
     attrs:
