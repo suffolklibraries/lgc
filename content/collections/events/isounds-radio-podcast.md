@@ -1,18 +1,17 @@
 ---
 id: 2f9fc7ee-2987-4bd0-986f-0a8e49158df7
-published: false
 blueprint: events
-title: 'ISounds - Radio and Podcast Production'
+title: 'iSounds - Radio and Podcast Production'
 event_categories:
-  - audio
-  - mixed-media
+  - music
+  - teen-and-young-adult
 organisers:
   - out-loud-music
 start_date: '2022-05-11 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1650984053
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1651752858
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 end_date: '2022-05-11 12:30'
 latitude: '52.06153637380663'
@@ -56,7 +55,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Gain skills to make a podcast, radio jingles and music beds,'
+        text: 'Gain skills to make a podcast, radio jingles and music beds. '
   -
     type: paragraph
     content:
@@ -76,13 +75,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Isounds takes place at South Street Studios,Ipswich,IP1 3NU.'
+        text: 'iSounds takes place at South Street Studios, Ipswich, IP1 3NU.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is carparking less than a minutes walk from the venue.'
+        text: 'Bus routes and car parks nearby. '
   -
     type: heading
     attrs:
@@ -127,6 +126,7 @@ cta: |-
 
   [https://www.outloudmusic.org/ilearn](https://www.outloudmusic.org/ilearn)
 booking_link: 'https://www.outloudmusic.org/ilearn'
+attendance_information: 19+
+accessibility_information: '- Additional needs and mental health issues supported'
 ---
-free course for adults 19+ who live in Suffolk with additional needs and/or mental health issues. 
-Learn key skills of raido and podcast production at South Street Studios.
+Learn key skills of raido and podcast production at South Street Studios. Free course for adults 19+ who live in Suffolk with additional needs and/or mental health issues.
