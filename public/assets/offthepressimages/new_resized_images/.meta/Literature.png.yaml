@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'A book being read'
 size: 434678
 last_modified: 1648718246
 width: 1521
