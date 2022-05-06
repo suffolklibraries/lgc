@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'A hand painting'
 size: 492004
 last_modified: 1649674794
 width: 1521
