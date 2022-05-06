@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Film clapperboard'
 size: 162662
 last_modified: 1648718298
 width: 1521
