@@ -6,7 +6,7 @@ start_date: '2022-05-11 18:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651749930
+updated_at: 1651847538
 event_categories:
   - languages
 organisers:
@@ -139,4 +139,4 @@ cta: |-
   [ana.reis@speakfounder.social ](mailto:ana.reis@speakfounder.social )
 attendance_information: 'Everyone welcome'
 ---
-Informal english conversation sessions at The Hive on Wednesday evenings.
+Come and practise your English in a relaxed and informal setting.
