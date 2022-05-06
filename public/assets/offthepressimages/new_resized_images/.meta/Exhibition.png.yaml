@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Exhibition art'
 size: 269802
 last_modified: 1648718295
 width: 1521
