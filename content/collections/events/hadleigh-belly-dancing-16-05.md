@@ -2,18 +2,18 @@
 id: 6be2450f-4639-4d96-ab51-dd1bc3f69977
 blueprint: events
 title: 'Belly Dancing Classes'
-start_date: '2022-05-09 19:00'
+start_date: '2022-05-16 19:00'
 free: false
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650985752
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1652084887
 event_categories:
   - movement
   - dance
 organisers:
   - mazazik-belly-dancing-troupe
 featured_image: Belly-Dancing-Classes.png
-end_date: '2022-05-09 20:00'
+end_date: '2022-05-16 20:00'
 cost_details: '£5 per class'
 attendance_information: 18+
 accessibility_information: |-
