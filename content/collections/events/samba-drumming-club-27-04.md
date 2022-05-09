@@ -2,16 +2,16 @@
 id: 57e514bc-b8a0-4195-a821-648d38119029
 blueprint: events
 title: 'Newmarket Samba Drumming Club'
-start_date: '2022-04-27 18:30'
+start_date: '2022-05-11 18:30'
 free: false
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1648480484
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1652085529
 organisers:
   - newsamba
   - newmarket-community-arts
 featured_image: miscellaneous/AC51083B-AD27-4807-B27C-E8E718AFD7B3.jpeg
-end_date: '2022-04-27 20:00'
+end_date: '2022-05-11 20:00'
 cost_details: £3/£6
 latitude: '52.24646566476873'
 longitude: '0.4096564712834654'
