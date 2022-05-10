@@ -6,7 +6,7 @@ start_date: '2022-05-17 10:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652169345
+updated_at: 1652169553
 event_categories:
   - art
   - nature
