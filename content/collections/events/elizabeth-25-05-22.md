@@ -99,6 +99,6 @@ cta: |-
 
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652177190
+updated_at: 1652178488
 ---
 Dance sessions that teaches you how to dance like an elizabethan.
