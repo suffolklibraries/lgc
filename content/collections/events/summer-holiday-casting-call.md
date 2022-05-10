@@ -8,7 +8,7 @@ start_date: '2022-06-12 12:00'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652172462
+updated_at: 1652172796
 event_categories:
   - drama
   - teen-and-young-adult
