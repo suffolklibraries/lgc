@@ -1,0 +1,133 @@
+---
+id: ea6cd130-bb02-4790-abf9-650989f14227
+published: false
+blueprint: events
+title: 'Jubilee - Timeline of a Queen'
+event_categories:
+  - art
+  - crafts
+organisers:
+  - rock-paper-scissors
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
+start_date: '2022-06-02 10:00'
+end_date: '2022-06-02 16:00'
+free: true
+virtual: false
+latitude: '52.060644383331415'
+longitude: '1.1584359633455215'
+address_line_1: 'Christchurch Mansion'
+address_line_2: 'Soane St'
+town: Ipswich
+postcode: 'IP4 2BE'
+content_area:
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Thursday 2nd of June -'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Alongside local artists and family art group Rock Paper Scissors, create a piece of work inspired by a personal memory or local history from one of the decades from the 1950s to now. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Bring copies of photographs that might inspire you, or come and speak to our historians, see inspiring pictures and collections from Ipswich Museum.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Saturday 4th June -'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Come and see your work transformed into a large scale Exhibition'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: 'showcasing the history of our community at The Hold, 11-2pm with our team, or visit it as long as The Hold is open.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Free Family Open Studio at 11 Dove Street, first floor, from 12-3. Come and join us for a cup of tea, get creative and see our fabulous new community art venue. Free art materials packs to give out for children on a first come, first served basis!'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get here'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Jubilee - Timeline of a Queen takes place at Christchurch Mansion,IP4 2BE.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is carparking just outside of Christchurch Park.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are bus routes that are a three to five minute walk from the venue.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book a place please visit this link '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.rockpaperscissors.org.uk/shop/jubilee-timeline-of-a-queen-artists-workshops'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: .
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1652174559
+---
+A free community art event based at Christchurch Mansion on Thursday 2nd June, from 10- 4pm.
