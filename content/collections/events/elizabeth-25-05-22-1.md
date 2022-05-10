@@ -2,14 +2,14 @@
 id: 34f8f2fd-8ff2-4a55-a8cb-ffd312494f73
 published: false
 blueprint: events
-title: 'Elizabeth! (Duplicated)'
+title: Elizabeth!
 event_categories:
   - dance
 organisers:
   - dance-east
 featured_image: offthepressimages/new_resized_images/Dance.png
-start_date: '2022-05-18 17:00'
-end_date: '2022-05-18 18:00'
+start_date: '2022-05-25 17:00'
+end_date: '2022-05-25 18:00'
 free: true
 virtual: false
 latitude: '52.05287122309902'
@@ -99,6 +99,6 @@ cta: |-
 
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652177137
+updated_at: 1652177190
 ---
 Dance sessions that teaches you how to dance like an elizabethan.
