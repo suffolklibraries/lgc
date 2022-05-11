@@ -103,8 +103,8 @@ cta: |-
   This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:
 
   [https://sypt.website](https://sypt.website)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1652262253
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1652262259
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
