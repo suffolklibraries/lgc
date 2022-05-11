@@ -1,20 +1,19 @@
 ---
 id: 345d0779-045c-4c1d-abdb-88fe97095c3c
-published: false
 blueprint: events
 title: '20 Years of Stoke by Skate Suffolk & HOAX'
-start_date: '2022-05-28 00:00'
+start_date: '2022-05-28 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651056161
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1652266267
 event_categories:
   - family-friendly
   - sports
 featured_image: offthepressimages/new_resized_images/Teen.png
 organisers:
   - art-eat-events
-end_date: '2022-05-28 23:59'
+end_date: '2022-05-28 18:00'
 attendance_information: 'Outdoor Venue'
 latitude: '52.05193864252695'
 longitude: '1.152613173005641'
@@ -42,13 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be prizes, music, cake and celebrations. This exciting event will take place on'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Saturday 28th May, after the St Peter’s Dock mural launch. Art Eat is working with skatepark users and Skate Suffolk to develop a series of activities for all ages throughout the day.'
+        text: 'There will be prizes, music, cake and celebrations. This exciting event will take place on Saturday 28th May, after the St Peter’s Dock mural launch. Art Eat is working with skatepark users and Skate Suffolk to develop a series of activities for all ages throughout the day.'
   -
     type: heading
     attrs:
