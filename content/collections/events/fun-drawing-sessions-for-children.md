@@ -2,7 +2,7 @@
 id: 40651dbc-f1c6-40bf-95a9-3218b71035c1
 published: false
 blueprint: events
-title: 'Fun Drawing sessions for children'
+title: 'Fun drawing sessions for children'
 event_categories:
   - art
   - primary-school-age
@@ -48,7 +48,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Additional session on Wednesday the 15th of may.'
+        text: 'Additional session on Wednesday the 15th of May'
   -
     type: heading
     attrs:
@@ -62,13 +62,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Book of Hours Creative session takes place at Saxmundham Library,IP17 1AL.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus routes that are a five to ten minute walk from the venue.'
+        text: 'Book of Hours Creative session takes place at Saxmundham Library, IP17 1AL. Bus routes operating nearby to this venue. '
   -
     type: heading
     attrs:
@@ -104,7 +98,7 @@ cta: |-
   [info@theartstation.uk](mailto:info@theartstation.uk)
 
   [07927 770421](tel:07927770421)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652171524
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1652267544
 ---
 Free and creative drawing sessions for children ages 4-14.
