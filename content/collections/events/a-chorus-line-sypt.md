@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - suffolk-young-peoples-theatre
 featured_image: miscellaneous/young-theatre.jpg
-start_date: '2022-05-01 10:00'
-end_date: '2022-05-01 17:00'
+start_date: '2022-05-16 10:00'
+end_date: '2022-05-16 17:00'
 free: true
 virtual: false
 content_area:
@@ -104,7 +104,7 @@ cta: |-
 
   [https://sypt.website](https://sypt.website)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1650895444
+updated_at: 1652262253
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
