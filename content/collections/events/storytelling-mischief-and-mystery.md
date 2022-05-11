@@ -8,6 +8,7 @@ event_categories:
   - primary-school-age
 organisers:
   - the-hold
+  - suffolk-libraries
 featured_image: Moomin.png
 start_date: '2022-08-11 11:00'
 end_date: '2022-08-11 12:00'
@@ -41,34 +42,50 @@ content_area:
         type: text
         text: 'Beautiful interactive puppetry for younger audiences. Presented in conjunction with Suffolk Libraries.'
   -
-    type: paragraph
+    type: bullet_list
     content:
       -
-        type: text
-        text: 'Suitable for ages 4+'
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Suitable for ages 4+'
       -
-        type: hard_break
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'All children must be accompanied by a responsible adult at all times'
       -
-        type: text
-        text: 'All children must be accompanied by a responsible adult at all times.'
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Free Admission, advanced booking required'
       -
-        type: hard_break
-      -
-        type: text
-        text: 'Free Admission, advanced booking required.'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'Performance lasts for 60 minutes with no interval.'
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Performance lasts for 60 minutes with no interval'
   -
     type: paragraph
     content:
       -
         type: text
         text: 'Dates for the events have multiple time slots through out the day. '
-      -
-        type: hard_break
   -
     type: heading
     attrs:
@@ -125,10 +142,10 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/storytelling-mischief-and-mystery-in-moomin-valley/2022-08-11/d-myobbofalwrvz'
 cta: |-
-  This event is run by the hold, for more information please get in touch via:
+  This event is run by The Hold, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651588483
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1652266923
 ---
-Famliy friendly story telling with Mischief and Mystery in Moomin Valley, in partnership with Suffolk libraries.
+Famliy-friendly story telling with Mischief and Mystery in Moomin Valley, in partnership with Suffolk libraries.
