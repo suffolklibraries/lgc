@@ -2,17 +2,17 @@
 id: 515095cb-4443-4b2c-9add-67b8bd074c34
 blueprint: events
 title: 'SPEAK Ipswich - English Conversational class'
-start_date: '2022-05-11 18:00'
+start_date: '2022-05-18 18:00'
 free: true
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651847538
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1652256368
 event_categories:
   - languages
 organisers:
   - the-hive
 featured_image: SPEAK-Ipswich-LG-Post-(2).png
-end_date: '2022-05-11 19:30'
+end_date: '2022-05-18 19:30'
 latitude: '52.06134059473968'
 longitude: '1.1444118965713421'
 address_line_1: 'The Hive Ipswich CIC'
