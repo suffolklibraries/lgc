@@ -1,6 +1,5 @@
 ---
 id: 956bb3e4-8ea0-4c82-ad67-37b545fb8a38
-published: false
 blueprint: events
 title: 'Book of Hours Creative session'
 organisers:
@@ -21,8 +20,8 @@ cta: |-
   [info@theartstation.uk](mailto:info@theartstation.uk)
 
   [07927 770421](tel:07927770421)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652112539
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1652267369
 event_categories:
   - art
   - crafts
@@ -50,7 +49,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Exploring the original Book of Hours by Helen Gilbart, and joining a creative drawing session based around the works.'
+        text: 'Explore the original Book of Hours by Helen Gilbart, and join a creative drawing session based around the works.'
   -
     type: heading
     attrs:
@@ -64,13 +63,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Book of Hours Creative session takes place at Saxmundham Library,IP17 1AL.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus routes that are a five to ten minute walk from the venue.'
+        text: 'Book of Hours Creative session takes place at Saxmundham Library, IP17 1AL. '
   -
     type: heading
     attrs:
@@ -101,4 +94,4 @@ content_area:
         text: .
 booking_link: 'https://theartstation.uk/product/book-of-hours-creative-sessions/'
 ---
-Creative art and drawing sessions based around the Book of Hours by Helen Gilbart.
+Creative art and drawing sessions for adults, based around the Book of Hours by Helen Gilbart.
