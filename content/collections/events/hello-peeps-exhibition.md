@@ -15,5 +15,9 @@ address_line_2: '102 High Street'
 town: Lowestoft
 postcode: 'NR32 X1W'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652273985
+updated_at: 1652274269
+event_categories:
+  - art
+  - exhibition
 ---
+An art exhibition by artist Matt Jones.
