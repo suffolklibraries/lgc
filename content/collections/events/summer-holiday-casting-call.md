@@ -1,14 +1,13 @@
 ---
 id: 6d4c805b-9092-453e-bd37-f914271e2e32
-published: false
 blueprint: events
 title: 'Summer Holiday: Casting call'
 featured_image: Sheringham-thumbnail.jpg
 start_date: '2022-06-12 12:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652172796
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1652267785
 event_categories:
   - drama
   - teen-and-young-adult
@@ -18,8 +17,8 @@ end_date: '2022-06-12 23:59'
 attendance_information: 16+
 latitude: '52.60535980242166'
 longitude: '1.7292416117707654'
-address_line_1: 'St Georges Theatre'
-address_line_2: 'King St'
+address_line_1: 'St George''s Theatre'
+address_line_2: 'King Street'
 town: 'Great Yarmouth'
 postcode: 'NR30 2PG'
 content_area:
@@ -56,19 +55,41 @@ content_area:
     content:
       -
         type: text
-        text: 'Summer Holiday: Casting call takes place at St Georges Theatre, NR30 2PG on the 12th of June.'
+        text: 'Summer Holiday: Casting call takes place at St George''s Theatre, NR30 2PG on the 12th of June.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is carparking that is between a three to five minute walk from the venue.'
+        text: 'For more information about accessibility needs please visit the St. George''s website '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.stgeorgestheatre.com/your-visit/accessibility/'
+              rel: null
+              target: _blank
+              title: null
+        text: here
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are bus routes that are less then a minute walk from the venue.'
+        text: 'Nearby car parking and bus routes operating. For more information please visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.stgeorgestheatre.com/your-visit/parking/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'parking page on the St. George''s website'
   -
     type: heading
     attrs:
