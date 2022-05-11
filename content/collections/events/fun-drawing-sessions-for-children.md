@@ -48,7 +48,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Additional session on Wednesday the 15th of May'
+        text: 'Additional session on Wednesday the 25th of May'
   -
     type: heading
     attrs:
@@ -98,7 +98,7 @@ cta: |-
   [info@theartstation.uk](mailto:info@theartstation.uk)
 
   [07927 770421](tel:07927770421)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1652267544
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1652267894
 ---
 Free and creative drawing sessions for children ages 4-14.
