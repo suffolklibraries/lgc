@@ -33,12 +33,6 @@ content_area:
     content:
       -
         type: text
-        text: 'Thursday 2nd of June -'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Alongside local artists and family art group Rock Paper Scissors, create a piece of work inspired by a personal memory or local history from one of the decades from the 1950s to now. '
   -
     type: paragraph
@@ -46,33 +40,6 @@ content_area:
       -
         type: text
         text: 'Bring copies of photographs that might inspire you, or come and speak to our historians, see inspiring pictures and collections from Ipswich Museum.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Saturday 4th June -'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Come and see your work transformed into a large scale Exhibition'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'showcasing the history of our community at The Hold, 11-2pm with our team, or visit it as long as The Hold is open.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Free Family Open Studio at 11 Dove Street, first floor, from 12-3. Come and join us for a cup of tea, get creative and see our fabulous new community art venue. Free art materials packs to give out for children on a first come, first served basis!'
   -
     type: heading
     attrs:
@@ -128,6 +95,10 @@ content_area:
         type: text
         text: .
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652174559
+updated_at: 1652275459
+cta: |-
+  This event is run by Rock Paper Scissors, for more information please get in touch via:
+
+  [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 ---
 A free community art event based at Christchurch Mansion on Thursday 2nd June, from 10- 4pm.
