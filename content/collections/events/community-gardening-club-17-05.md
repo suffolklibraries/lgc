@@ -5,8 +5,8 @@ title: 'Community Gardening Club'
 start_date: '2022-05-17 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652169553
+updated_by: 87f603de-9e7e-4063-9310-cad1dde625ef
+updated_at: 1652616851
 event_categories:
   - art
   - nature
@@ -18,7 +18,7 @@ end_date: '2022-05-17 12:00'
 latitude: '52.06356401835797'
 longitude: '1.1373199705972623'
 address_line_1: 'Eastern Angles Centre'
-address_line_2: 'Getacre Road'
+address_line_2: 'Gatacre Road'
 town: Ipswich
 postcode: 'IP1 2LQ'
 content_area:
