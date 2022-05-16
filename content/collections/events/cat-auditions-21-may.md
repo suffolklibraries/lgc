@@ -1,5 +1,6 @@
 ---
 id: 62a52cb1-41fb-43ad-94f1-b59e8d2cb79f
+published: false
 blueprint: events
 title: 'Centre for Advanced Training Auditions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
