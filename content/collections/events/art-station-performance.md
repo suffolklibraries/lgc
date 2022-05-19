@@ -1,14 +1,14 @@
 ---
 id: 6079754b-d770-4725-8e73-5c8917d24850
 blueprint: events
-title: 'A Performance'
+title: 'Alexander Costello: A Priori'
 organisers:
   - the-art-station
 start_date: '2022-05-20 19:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1652973975
+updated_at: 1652974049
 event_categories:
   - art
   - performance
@@ -76,7 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please book tickets '
+        text: 'The performance starts at 7:30pm. Tickets are free but please book tickets '
       -
         type: text
         marks:
