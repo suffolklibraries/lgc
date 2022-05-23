@@ -11,7 +11,7 @@ organisers:
 featured_image: Screenshot-2022-05-23-110239.png
 start_date: '2022-05-28 12:30'
 end_date: '2022-05-28 14:30'
-free: false
+free: true
 virtual: false
 latitude: '52.05877094427635'
 longitude: '1.1479062468844778'
@@ -163,6 +163,6 @@ cta: |-
 
   [https://www.wolseytheatre.co.uk/shows/the-big-picnic/](https://www.wolseytheatre.co.uk/shows/the-big-picnic/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653300894
+updated_at: 1653301238
 ---
 Street theatre and glorious spreads of food combine in this summer’s great Big Picnic! With free performances and activities for all the family outside in Theatre Square.
