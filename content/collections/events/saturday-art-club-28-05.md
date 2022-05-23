@@ -8,7 +8,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: miscellaneous/saturday-art-club.jfif
-start_date: '2022-05-14 10:00'
+start_date: '2022-05-28 10:00'
 free: false
 virtual: false
 latitude: '52.05306962490606'
@@ -115,8 +115,8 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652084699
-end_date: '2022-05-14 11:30'
+updated_at: 1653296829
+end_date: '2022-05-28 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
 ---
