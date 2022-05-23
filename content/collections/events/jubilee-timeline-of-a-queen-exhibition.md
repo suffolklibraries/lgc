@@ -1,6 +1,5 @@
 ---
 id: 50441cce-9346-4f4d-b30b-f971170e9152
-published: false
 blueprint: events
 title: 'Jubilee - Timeline of a Queen Exhibition'
 event_categories:
@@ -8,7 +7,7 @@ event_categories:
   - exhibition
 organisers:
   - rock-paper-scissors
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+featured_image: rockpaperscissorsimages/Jubilee-Graphic_crop.jpg
 start_date: '2022-06-04 11:00'
 end_date: '2022-06-04 14:00'
 free: true
@@ -33,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and see your work transformed into a large scale Exhibition'
+        text: 'If you joined Rock Paper Scissors for the community art event on the 2nd June then behold! Come and see your work transformed into a large scale exhibition,'
       -
         type: text
         marks:
@@ -44,11 +43,12 @@ content_area:
         type: text
         text: 'showcasing the history of our community at The Hold, 11-2pm with our team, or visit it as long as The Hold is open.'
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Free Family Open Studio at 11 Dove Street, first floor, from 12-3. Come and join us for a cup of tea, get creative and see our fabulous new community art venue. Free art materials packs to give out for children on a first come, first served basis!'
+    type: set
+    attrs:
+      values:
+        type: event
+        events:
+          - ea6cd130-bb02-4790-abf9-650989f14227
   -
     type: heading
     attrs:
@@ -87,7 +87,7 @@ cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652275742
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1653336955
 ---
-An exhibition made from the participants art drawings of the queen and the jubilee from the Jubilee - Timeline of a Queen art sessions.
+An exhibition made from the art drawings of the Queen and the Jubilee from The Jubilee - Timeline of a Queen art sessions.
