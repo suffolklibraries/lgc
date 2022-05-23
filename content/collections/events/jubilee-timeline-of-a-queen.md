@@ -59,6 +59,12 @@ content_area:
     content:
       -
         type: text
+        text: 'There are multiple entrances to Christchurch park, there are entrances on Park Road, Henley Road, Fonnereau Road, Soane Street and also Bolton Lane and Westerfield Road.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'There is carparking just outside of Christchurch Park.'
   -
     type: paragraph
@@ -66,6 +72,12 @@ content_area:
       -
         type: text
         text: 'There are bus routes that are a three to five minute walk from the venue.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The closest bus stop to the venue is the bus stop on Bolton Lane, with the bus station being a five minute walk from Christchurch mansion.'
   -
     type: heading
     attrs:
@@ -94,8 +106,8 @@ content_area:
       -
         type: text
         text: .
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1653319950
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1653320691
 cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
