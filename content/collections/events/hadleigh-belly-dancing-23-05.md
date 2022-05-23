@@ -6,7 +6,7 @@ start_date: '2022-05-23 19:00'
 free: false
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653293293
+updated_at: 1653293342
 event_categories:
   - movement
   - dance
