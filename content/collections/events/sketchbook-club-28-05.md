@@ -2,11 +2,11 @@
 id: ce0a41e6-c4f7-477b-8142-d2966f451cc3
 blueprint: events
 title: 'High Schoolers Saturday Sketchbook Club'
-start_date: '2022-04-16 12:00'
+start_date: '2022-05-28 12:00'
 free: false
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1649689684
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1653296468
 event_categories:
   - art
   - teen-and-young-adult
@@ -14,7 +14,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: weekly-sketchbook-club.jfif
-end_date: '2022-04-16 13:30'
+end_date: '2022-05-28 13:30'
 cost_details: '£5 per session'
 latitude: '52.0530234424015'
 longitude: '1.163542469424476'
