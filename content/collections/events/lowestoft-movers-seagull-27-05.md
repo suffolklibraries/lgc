@@ -4,9 +4,9 @@ blueprint: events
 title: 'Lowestoft Movers - Seagull Theatre'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652084302
-start_date: '2022-05-20 10:00'
-end_date: '2022-05-20 11:30'
+updated_at: 1653294080
+start_date: '2022-05-27 10:00'
+end_date: '2022-05-27 11:30'
 event_categories:
   - dance
   - later-life
