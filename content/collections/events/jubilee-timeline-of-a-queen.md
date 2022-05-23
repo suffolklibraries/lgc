@@ -53,7 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Jubilee - Timeline of a Queen takes place at Christchurch Mansion,IP4 2BE.'
+        text: 'Jubilee - Timeline of a Queen takes place at Christchurch Mansion, IP4 2BE.'
   -
     type: paragraph
     content:
@@ -94,8 +94,8 @@ content_area:
       -
         type: text
         text: .
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652275459
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1653319950
 cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
