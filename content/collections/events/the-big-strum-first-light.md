@@ -2,14 +2,14 @@
 id: 8614893a-a154-4310-816a-3f91517842ab
 published: false
 blueprint: events
-title: 'First Light Festival - Storytelling with Marina Theatre (Duplicated)'
+title: 'First Light Festival - The Big Strum'
 event_categories:
   - festival
   - family-friendly
   - art
 organisers:
   - first-light-festival
-start_date: '2022-06-19 09:00'
+start_date: '2022-06-18 12:00'
 free: true
 virtual: false
 content_area:
@@ -26,7 +26,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Marina Theatre for a series of drop in storytelling workshops with their amazing tale weaving experts!'
+        text: "Following the success of the Ukulele ‘Strum Along’ at First Light 2019, we’re delighted that Brian Lever will be joining us once again to lead this popular activity in the Gardens.\_ Brian, of Rumpus Ukuleles in Beccles, is well known as an accomplished and enthusiastic leader of various local ukulele groups and has created a songbook for you to download and practice at home before joining him for the Strum Along on the day."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Everyone is welcome, so bring along your ukulele and enjoy this fun session with other local players in the sunshine.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Download the Big Strum Songbook here and get practicing ahead of the big June singalong.'
   -
     type: paragraph
     content:
@@ -34,48 +46,15 @@ content_area:
         type: text
         marks:
           -
-            type: bold
-        text: 'Story Time Session (15 minutes)'
-      -
-        type: hard_break
-        marks:
+            type: link
+            attrs:
+              href: 'https://firstlightlowestoft.com/wp-content/uploads/2022/05/First-Light-Songbook.pdf'
+              rel: null
+              target: null
+              title: null
           -
             type: bold
-      -
-        type: text
-        text: 'A selection of magical stories on the theme of the Sun, brought to life by storytellers, for children of any age.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Story Adventure Session (30 minutes)'
-      -
-        type: hard_break
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        text: 'Forge your own adventure story and bring it to life to uncover buried treasure. With arts, craft and acting elements, this is perfect for children aged 3 – 7.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Story Spells Session (30 minutes)'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Use found natural objects to tell a story, stringing together themes and materials to make your story come alive in your hands. A brilliant storytelling session with a beautiful keepsake you can take away after. For children aged 7+'
+        text: 'Click here to download the Big Strum Songbook'
   -
     type: heading
     attrs:
@@ -89,7 +68,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Storytelling with Marina Theatre takes place at the First Light Festival, NR33 0DG.'
+        text: 'The Big Strum takes place at the First Light Festival, NR33 0DG.'
   -
     type: paragraph
     content:
@@ -123,9 +102,9 @@ content_area:
         type: text
         text: 'This a free drop in event so no booking is required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653394847
-featured_image: offthepressimages/new_resized_images/Literature.png
-end_date: '2022-06-19 12:00'
+updated_at: 1653398052
+featured_image: offthepressimages/new_resized_images/Music_singing.png
+end_date: '2022-06-18 12:30'
 latitude: '52.460313651797826'
 longitude: '1.742307195931074'
 address_line_2: 'Kensington Rd'
@@ -136,4 +115,4 @@ cta: |-
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 ---
-Join Marina Theatre for a series of drop in storytelling workshops with their amazing tale weaving experts!
+Following the success of the Ukulele ‘Strum Along’ at First Light 2019, we’re delighted that Brian Lever will be joining us once again to lead this popular activity in the Gardens.
