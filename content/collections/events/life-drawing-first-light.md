@@ -2,13 +2,13 @@
 id: 0a281092-b4f2-453b-8113-55165b9bc8e7
 published: false
 blueprint: events
-title: 'Life Drawing with Will Teather'
+title: 'Life Drawing with Will Teather - First Light Festival'
 event_categories:
   - art
 organisers:
   - first-light-festival
-start_date: '2022-05-24 10:11'
-free: false
+start_date: '2022-06-18 12:00'
+free: true
 virtual: false
 content_area:
   -
@@ -101,6 +101,17 @@ content_area:
         type: text
         text: 'This a free drop in event so no booking is required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653387317
+updated_at: 1653387708
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
+end_date: '2022-06-18 21:00'
+latitude: '52.460313651797826'
+longitude: '1.742307195931074'
+address_line_2: 'Kensington Rd'
+town: Lowestoft
+postcode: 'NR33 0DG'
+cta: |-
+  This event is run by First light Festival, for more information please get in touch via:
+
+  [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 ---
 Will Teather, Artist-in-residence for Norwich Arts Centre and NUA lecturer, hosts a range of life drawing and observational drawing activities.
