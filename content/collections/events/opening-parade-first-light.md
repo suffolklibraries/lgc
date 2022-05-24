@@ -85,7 +85,7 @@ content_area:
         type: text
         text: 'This a free drop in event so no booking is required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653388683
+updated_at: 1653388957
 featured_image: offthepressimages/new_resized_images/Dance.png
 end_date: '2022-06-18 13:00'
 latitude: '52.460313651797826'
