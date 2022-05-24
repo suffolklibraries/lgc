@@ -2,13 +2,14 @@
 id: 103ce643-dcf0-4234-8100-53449f4e9c95
 published: false
 blueprint: events
-title: 'First Light Festival - Opening Parade: Winds of Change (Duplicated)'
+title: 'First Light Festival - Storytelling with Marina Theatre'
 event_categories:
   - festival
   - family-friendly
+  - art
 organisers:
   - first-light-festival
-start_date: '2022-06-18 11:00'
+start_date: '2022-06-19 09:00'
 free: true
 virtual: false
 content_area:
@@ -25,19 +26,56 @@ content_area:
     content:
       -
         type: text
-        text: 'This year’s Festival kicks off with a colourful procession along the promenade, and we’d love for you to be a part of it. We’re inviting you to march, dance, stomp and skip together with local schools and community groups. We’ll parade with our banners, wind torches and whirligigs along the Upper Esplanade towards Cliff Road, then we will drop down onto the beach and continue along the sand to the Sunlight Stage. There, we’ll all open this year’s Festival with a performance of John Ward’s The Light Returns, our festival anthem.'
+        text: 'Join Marina Theatre for a series of drop in storytelling workshops with their amazing tale weaving experts!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The parade theme, Winds of Change, takes inspiration from weather patterns around the world, and will see banners, giant recycled whirligigs and wind torches that have been made by local communities in the run up to the Festival.'
+        marks:
+          -
+            type: bold
+        text: 'Story Time Session (15 minutes)'
+      -
+        type: hard_break
+        marks:
+          -
+            type: bold
+      -
+        type: text
+        text: 'A selection of magical stories on the theme of the Sun, brought to life by storytellers, for children of any age.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'If you’re joining us from the start, we’ll meet in the Wellington Esplanade Gardens opposite Claremont Pier, setting off at 11.00am. Make sure to dress in colourful clothing (face painting encouraged!), and bring something to bang, blow or make noise with.'
+        marks:
+          -
+            type: bold
+        text: 'Story Adventure Session (30 minutes)'
+      -
+        type: hard_break
+        marks:
+          -
+            type: bold
+      -
+        type: text
+        text: 'Forge your own adventure story and bring it to life to uncover buried treasure. With arts, craft and acting elements, this is perfect for children aged 3 – 7.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Story Spells Session (30 minutes)'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Use found natural objects to tell a story, stringing together themes and materials to make your story come alive in your hands. A brilliant storytelling session with a beautiful keepsake you can take away after. For children aged 7+'
   -
     type: heading
     attrs:
@@ -51,7 +89,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Opening Parade: Winds of Change takes place at the First Light Festival, NR33 0DG.'
+        text: 'Storytelling with Marina Theatre takes place at the First Light Festival, NR33 0DG.'
   -
     type: paragraph
     content:
@@ -85,9 +123,9 @@ content_area:
         type: text
         text: 'This a free drop in event so no booking is required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653388957
-featured_image: offthepressimages/new_resized_images/Dance.png
-end_date: '2022-06-18 13:00'
+updated_at: 1653394847
+featured_image: offthepressimages/new_resized_images/Literature.png
+end_date: '2022-06-19 12:00'
 latitude: '52.460313651797826'
 longitude: '1.742307195931074'
 address_line_2: 'Kensington Rd'
@@ -98,4 +136,4 @@ cta: |-
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 ---
-This year’s Festival kicks off with a colourful procession along the promenade, and would welcome for you to be a part of it.
+Join Marina Theatre for a series of drop in storytelling workshops with their amazing tale weaving experts!
