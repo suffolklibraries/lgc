@@ -2,12 +2,13 @@
 id: 5663dc7b-8061-48ae-a1f4-d9576535bb88
 published: false
 blueprint: events
-title: 'First Light Festival - Life Drawing with Will Teather (Duplicated)'
+title: 'First Light Festival - Opening Parade: Winds of Change'
 event_categories:
-  - art
+  - festival
+  - family-friendly
 organisers:
   - first-light-festival
-start_date: '2022-06-18 12:00'
+start_date: '2022-06-18 11:00'
 free: true
 virtual: false
 content_area:
@@ -24,36 +25,19 @@ content_area:
     content:
       -
         type: text
-        text: "Will Teather, Artist-in-residence for Norwich Arts Centre and NUA lecturer, hosts a range of life drawing and observational drawing activities. \_Sessions are drop-in throughout the day from 12:00 – 21:00."
+        text: 'This year’s Festival kicks off with a colourful procession along the promenade, and we’d love for you to be a part of it. We’re inviting you to march, dance, stomp and skip together with local schools and community groups. We’ll parade with our banners, wind torches and whirligigs along the Upper Esplanade towards Cliff Road, then we will drop down onto the beach and continue along the sand to the Sunlight Stage. There, we’ll all open this year’s Festival with a performance of John Ward’s The Light Returns, our festival anthem.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Sessions begin on the hour and last roughly 45 mins.'
+        text: 'The parade theme, Winds of Change, takes inspiration from weather patterns around the world, and will see banners, giant recycled whirligigs and wind torches that have been made by local communities in the run up to the Festival.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'No experience needed- just come along and have a go.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'About Will Teather'
-      -
-        type: hard_break
-      -
-        type: text
-        text: 'British artist Will Teather is known for creating contemporary images that reveal an adventurous imagination combined with a mastery of traditional skills.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The artist’s figurative paintings and drawings often depict curious characters caught up in uncanny situations. Influenced by magical-realism and lifting motifs from diverse sources such as Flemish still life, baroque art and Weimar painters, the artist enters into conversation with the history of painting with the aim of bringing a present-day sensibility to the table.'
+        text: 'If you’re joining us from the start, we’ll meet in the Wellington Esplanade Gardens opposite Claremont Pier, setting off at 11.00am. Make sure to dress in colourful clothing (face painting encouraged!), and bring something to bang, blow or make noise with.'
   -
     type: heading
     attrs:
@@ -67,7 +51,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Life Drawing with Will Teather takes place at the First Light Festival, NR33 0DG.'
+        text: 'Opening Parade: Winds of Change takes place at the First Light Festival, NR33 0DG.'
   -
     type: paragraph
     content:
@@ -101,9 +85,9 @@ content_area:
         type: text
         text: 'This a free drop in event so no booking is required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653387778
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
-end_date: '2022-06-18 21:00'
+updated_at: 1653388683
+featured_image: offthepressimages/new_resized_images/Dance.png
+end_date: '2022-06-18 13:00'
 latitude: '52.460313651797826'
 longitude: '1.742307195931074'
 address_line_2: 'Kensington Rd'
@@ -114,4 +98,4 @@ cta: |-
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 ---
-Will Teather, Artist-in-residence for Norwich Arts Centre and NUA lecturer, hosts a range of life drawing and observational drawing activities.
+This year’s Festival kicks off with a colourful procession along the promenade, and would welcome for you to be a part of it.
