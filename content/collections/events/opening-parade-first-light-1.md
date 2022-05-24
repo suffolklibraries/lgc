@@ -1,5 +1,6 @@
 ---
 id: 103ce643-dcf0-4234-8100-53449f4e9c95
+published: false
 blueprint: events
 title: 'First Light Festival - Opening Parade: Winds of Change (Duplicated)'
 event_categories:
