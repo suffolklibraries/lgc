@@ -2,7 +2,7 @@
 id: 0a281092-b4f2-453b-8113-55165b9bc8e7
 published: false
 blueprint: events
-title: 'Life Drawing with Will Teather - First Light Festival'
+title: 'First Light Festival - Life Drawing with Will Teather'
 event_categories:
   - art
 organisers:
@@ -101,7 +101,7 @@ content_area:
         type: text
         text: 'This a free drop in event so no booking is required.'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653387708
+updated_at: 1653387778
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 end_date: '2022-06-18 21:00'
 latitude: '52.460313651797826'
