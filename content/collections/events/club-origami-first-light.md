@@ -5,7 +5,7 @@ blueprint: events
 title: 'Club Origami - First Light Festival'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653386805
+updated_at: 1653387009
 latitude: '52.46029404020665'
 longitude: '1.742435941964034'
 start_date: '2022-06-10 10:00'
