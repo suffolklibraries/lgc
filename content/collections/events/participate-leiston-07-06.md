@@ -4,10 +4,10 @@ blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
-start_date: '2022-05-31 14:30'
-end_date: '2022-05-31 16:30'
+start_date: '2022-06-07 14:30'
+end_date: '2022-06-07 16:30'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653466301
+updated_at: 1653466531
 free: true
 virtual: false
 organisers:
@@ -159,8 +159,8 @@ address_line_2: 'Waterloo Avenue'
 town: Leiston
 postcode: 'IP16 4HE'
 accessibility_information: |-
-  -  Dementia friendly
-  -  Autism friendly 
+  - Dementia friendly
+  - Autism friendly 
   - Indoor seated venue
   - Wheelchair access
   - Covid-19 preventative measures in place
