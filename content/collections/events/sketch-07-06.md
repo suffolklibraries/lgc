@@ -2,17 +2,17 @@
 id: fa98428b-6330-41a6-b033-4a6ec89639e5
 blueprint: events
 title: Sketch
-start_date: '2022-05-24 19:30'
+start_date: '2022-06-07 19:30'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653296902
+updated_at: 1653466135
 event_categories:
   - art
 organisers:
   - led-creatives
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-end_date: '2022-05-24 22:00'
+end_date: '2022-06-07 22:00'
 latitude: '52.05363164877224'
 longitude: '1.1608876675719249'
 address_line_1: 'Lord Nelson'
