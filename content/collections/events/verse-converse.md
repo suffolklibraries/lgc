@@ -125,6 +125,6 @@ cta: |-
 
   [https://firstlightlowestoft.com/whats-on/laboratory-media-education-verse-converse/](https://firstlightlowestoft.com/whats-on/laboratory-media-education-verse-converse/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653900012
+updated_at: 1653900395
 ---
 Verse Converse is a unique, immersive, sound and light, kinetic installation that generates music from body heat.
