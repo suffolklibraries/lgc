@@ -1,11 +1,10 @@
 ---
 id: f1848215-0d11-4fec-ae2f-4bb7de9be749
-published: false
 blueprint: events
 title: 'The Big Picnic'
 event_categories:
   - food
-  - open-to-all
+  - family-friendly
 organisers:
   - new-wolsey-theatre
 featured_image: Screenshot-2022-05-23-110239.png
@@ -42,7 +41,7 @@ content_area:
         text: 'Suffolk Refugee Support'
       -
         type: text
-        text: ", There combining street theatre and glorious spreads of food to create a glorious afternoon in the sun,\_celebrating the communities of Ipswich and tipping our hats to the Platinum Jubilee! "
+        text: ", combining street theatre and glorious spreads of food to create a glorious afternoon in the sun,\_celebrating the communities of Ipswich and tipping our hats to the Platinum Jubilee! "
       -
         type: text
         marks:
@@ -131,19 +130,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Big Picnic takes place at The New Wolsey Theatre,IP1 2AS.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are carparks less than a minutes walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus routes that are less than a minutes walk from the venue.'
+        text: 'The Big Picnic takes place at The New Wolsey Theatre, IP1 2AS.'
   -
     type: heading
     attrs:
@@ -162,7 +149,9 @@ cta: |-
   This event is run by the New Wolsey Theatre, for more information please get in touch via:
 
   [https://www.wolseytheatre.co.uk/shows/the-big-picnic/](https://www.wolseytheatre.co.uk/shows/the-big-picnic/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653301238
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1653915806
+attendance_information: 'Open to all'
+booking_link: 'https://www.wolseytheatre.co.uk/shows/the-big-picnic/'
 ---
-Street theatre and glorious spreads of food combine in this summer’s great Big Picnic! With free performances and activities for all the family outside in Theatre Square.
+Street theatre and glorious spreads of food combine in this summer's great Big Picnic! With free performances and activities for all the family outside in Theatre Square.
