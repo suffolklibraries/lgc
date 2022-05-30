@@ -8,7 +8,7 @@ event_categories:
   - primary-school-age
 organisers:
   - suffolk-archives
-start_date: '2022-05-14 10:30'
+start_date: '2022-06-11 10:30'
 free: true
 virtual: false
 content_area:
@@ -139,10 +139,10 @@ cta: |-
   This event is run by Suffolk Archives, for more information please get in touch via:
 
   [https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx](https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651155584
+updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
+updated_at: 1653905399
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-end_date: '2022-05-14 12:30'
+end_date: '2022-06-11 12:30'
 latitude: '52.476991717574975'
 longitude: '1.7502699257820735'
 address_line_1: 'Lowestoft Archives'
