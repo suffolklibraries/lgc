@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - cohere-arts
 featured_image: TONIC-BACKGROUND.jpg
-start_date: '2022-05-13 10:30'
-end_date: '2022-05-13 12:00'
+start_date: '2022-06-03 10:30'
+end_date: '2022-06-03 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -91,6 +91,6 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652169762
+updated_at: 1653898352
 ---
 A seated singing group for people living with chronic pain and/or long term health conditions.
