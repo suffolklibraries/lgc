@@ -1,11 +1,10 @@
 ---
 id: 5273f338-87c7-4bb4-b003-18f686d5d861
-published: false
 blueprint: events
 title: 'First Light Festival - Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653387901
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654460491
 latitude: '52.46029404020665'
 longitude: '1.742435941964034'
 start_date: '2022-06-19 10:00'
@@ -24,7 +23,6 @@ organisers:
 address_line_2: 'Kensington Rd'
 town: Lowestoft
 postcode: 'NR33 0DG'
-attendance_information: 'Indoor Venue'
 content_area:
   -
     type: heading
@@ -59,7 +57,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Club Origami will be shown at First Light Festival, NR33 0DG.'
+        text: 'Club Origami will be shown at the First Light Festival in Lowestoft.'
   -
     type: paragraph
     content:
@@ -77,7 +75,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Carparking is just a three to four minute walk to the event site.'
+        text: 'For more information about travelling to the festival, nearby car parks or access concerns please visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'http://firstlightlowestoft.com/your-visit/?_gl=1*lh6832*_ga*MTEyMjQ5MzkwMi4xNjU0NDU5ODYw*_ga_VNZBZ7KK2L*MTY1NDQ1OTg1OS4xLjEuMTY1NDQ1OTg5My4w&_ga=2.168758113.114446753.1654459861-1122493902.1654459860'
+              rel: null
+              target: _blank
+              title: null
+        text: 'First Light Festival website'
+      -
+        type: text
+        text: '. '
   -
     type: heading
     attrs:
@@ -102,11 +114,6 @@ cta: |-
   This event is organised by First Light Festival, for more information please get in touch via:
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
-accessibility_information: |-
-  - Hearing loops
-  - Wheelchair access
-  - Social distancing in place 
-  - Covid-19 preventative measures in place
 featured_image: danceeastimages/CLUBORIGAMI_SEDANCE2021_SUMMERDEAN_SELECTS-26.jpg
 ---
 Rip, fold and scrumple! Shall we see what we can make with a single square of paper? As you scrunch the paper, see how your imagination begins to dance...Dive into the magical world of Club Origami.
