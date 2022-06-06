@@ -2,7 +2,7 @@
 id: 60e9bda5-db93-4b80-8a3a-20736c995f76
 published: false
 blueprint: events
-title: 'Pride in the libraries - Queer Craftivism (Duplicated) (2)'
+title: 'Pride in the libraries - Queer Craftivism - Haverhill'
 event_categories:
   - crafts
 organisers:
@@ -13,12 +13,12 @@ end_date: '2022-06-10 14:30'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
-latitude: '52.05888302273206'
-longitude: '1.1563992273587602'
-address_line_1: 'Ipswich Library'
-address_line_2: 'Northgate Street'
-town: Ipswich
-postcode: 'IP1 3DE'
+latitude: '52.08289091071305'
+longitude: '0.4361590154584293'
+address_line_1: 'Haverhill Library'
+address_line_2: 'Camps Road'
+town: Haverhill
+postcode: 'CB9 8HB'
 content_area:
   -
     type: heading
@@ -47,19 +47,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Pride in the libraries - Queer Craftivism takes place at Ipswich County Library, IP1 3DE.'
+        text: 'Pride in the libraries - Queer Craftivism takes place at Haverhill Library, CB9 8HB.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is a bus stop a minutes walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is also carparking that is a five minute walk from the venue.'
+        text: 'There is a bus stop that is a two to three minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -79,6 +73,6 @@ cta: |-
 
   [01473 927260](tel:01473927260)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654521656
+updated_at: 1654524649
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
