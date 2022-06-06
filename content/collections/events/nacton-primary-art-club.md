@@ -106,6 +106,6 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/shop/nacton-primary-after-school-art-club-summer-term](https://www.rockpaperscissors.org.uk/shop/nacton-primary-after-school-art-club-summer-term)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654510537
+updated_at: 1654510577
 ---
 For pupils of Nacton Primary School only, a weekly after school art session with the Rock Paper Scissors Team.
