@@ -2,7 +2,7 @@
 id: 96800925-93ee-4958-8e74-0ac9c6f099f6
 published: false
 blueprint: events
-title: 'Pride in the libraries - Queer Craftivism (Duplicated)'
+title: 'Pride in the libraries - Queer Craftivism - Hadleigh'
 event_categories:
   - crafts
 organisers:
@@ -13,12 +13,12 @@ end_date: '2022-06-10 14:30'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
-latitude: '52.05888302273206'
-longitude: '1.1563992273587602'
-address_line_1: 'Ipswich Library'
-address_line_2: 'Northgate Street'
-town: Ipswich
-postcode: 'IP1 3DE'
+latitude: '52.04266505211084'
+longitude: '0.954724228948842'
+address_line_1: 'Hadleigh Library'
+address_line_2: '29 High Street'
+town: Hadleigh
+postcode: 'IP7 5AG'
 content_area:
   -
     type: heading
@@ -47,19 +47,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Pride in the libraries - Queer Craftivism takes place at Ipswich County Library, IP1 3DE.'
+        text: 'Pride in the libraries takes place at Hadleigh Library, IP7 5AG.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is a bus stop a minutes walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is also carparking that is a five minute walk from the venue.'
+        text: 'There is carparking that is a one to three minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -77,8 +71,8 @@ content_area:
 cta: |-
   This event is run by suffolk libraries, for more informatation please get in touvh via:
 
-  [01473 927260](tel:01473927260)
+  [01473 823778](tel:01473823778)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654521656
+updated_at: 1654523627
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
