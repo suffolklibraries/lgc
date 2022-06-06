@@ -1,5 +1,6 @@
 ---
 id: cb378fe4-634c-41f5-9fd8-7808de80c03a
+published: false
 blueprint: events
 title: 'NACTON PRIMARY AFTER SCHOOL ART CLUB - SUMMER TERM (Duplicated)'
 event_categories:
