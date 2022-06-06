@@ -1,5 +1,6 @@
 ---
 id: 60e9bda5-db93-4b80-8a3a-20736c995f76
+published: false
 blueprint: events
 title: 'Pride in the libraries - Queer Craftivism (Duplicated) (2)'
 event_categories:
