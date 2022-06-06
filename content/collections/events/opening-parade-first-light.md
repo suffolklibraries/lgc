@@ -25,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This year’s Festival kicks off with a colourful procession along the promenade, and we’d love for you to be a part of it. We’re inviting you to march, dance, stomp and skip together with local schools and community groups. We’ll parade with our banners, wind torches and whirligigs along the Upper Esplanade towards Cliff Road, then we will drop down onto the beach and continue along the sand to the Sunlight Stage. There, we’ll all open this year’s Festival with a performance of John Ward’s The Light Returns, our festival anthem.'
+        text: 'This year’s festival kicks off with a colourful procession along the promenade, and we’d love for you to be a part of it. We’re inviting you to march, dance, stomp and skip together with local schools and community groups. We’ll parade with our banners, wind torches and whirligigs along the Upper Esplanade towards Cliff Road, then we will drop down onto the beach and continue along the sand to the Sunlight Stage. There, we’ll all open this year’s Festival with a performance of John Ward’s The Light Returns, our festival anthem.'
   -
     type: paragraph
     content:
@@ -84,8 +84,8 @@ content_area:
       -
         type: text
         text: 'This a free drop in event so no booking is required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653388957
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654511884
 featured_image: offthepressimages/new_resized_images/Dance.png
 end_date: '2022-06-18 13:00'
 latitude: '52.460313651797826'
@@ -97,5 +97,6 @@ cta: |-
   This event is run by First light Festival, for more information please get in touch via:
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
+attendance_information: 'Open to all'
 ---
-This year’s Festival kicks off with a colourful procession along the promenade, and would welcome for you to be a part of it.
+This year’s festival kicks off with a colourful procession along the promenade and you're welcome to be part of it!
