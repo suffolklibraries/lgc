@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2022-06-10 10:30'
-end_date: '2022-06-10 14:30'
+start_date: '2022-06-10 17:00'
+end_date: '2022-06-10 19:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
@@ -33,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Get ready for Suffolk Pride with this fun craft event for all. Get involved with making banners, posters and flags to show off at the Suffolk Pride Parade. Drop in any time between 10:30 and 14:30. All materials will be provided.'
+        text: 'Get ready for Suffolk Pride with this fun craft event for all. Get involved with making banners, posters and flags to show off at the Suffolk Pride Parade. Drop in any time between 17:00 and 19:00. All materials will be provided.'
   -
     type: heading
     attrs:
@@ -79,6 +79,6 @@ cta: |-
 
   [01473 927260](tel:01473927260)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654523728
+updated_at: 1654524065
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
