@@ -2,7 +2,7 @@
 id: f6a405da-efad-462c-b6cd-e9c6653ea99e
 published: false
 blueprint: events
-title: 'Pride in the libraries - Queer Craftivism'
+title: 'Pride in the libraries - Queer Craftivism-Ipswich'
 event_categories:
   - crafts
 organisers:
@@ -79,6 +79,6 @@ cta: |-
 
   [01473 927260](tel:01473927260)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654521656
+updated_at: 1654523728
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
