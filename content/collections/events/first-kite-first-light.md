@@ -1,6 +1,5 @@
 ---
 id: 99fd3065-b92e-4c79-80f7-39d2b4bfef7b
-published: false
 blueprint: events
 title: 'First Light Festival - First Kite'
 event_categories:
@@ -52,13 +51,13 @@ content_area:
     content:
       -
         type: text
-        text: 'First Kite takes place at the First Light Festival, NR33 0DG.'
+        text: 'First Kite takes place at the First Light Festival in Lowestoft. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Lowestoft central bus station is a 30-minute walk to the event site. For local services the X1, Coastal Clipper 99 and 103 stop at Kensington Road.'
+        text: 'Lowestoft central bus station is a 30 minute walk to the event site. For local services the X1, Coastal Clipper 99 and 103 stop at Kensington Road.'
   -
     type: paragraph
     content:
@@ -70,7 +69,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Carparking is just a three to four minute walk to the event site.'
+        text: 'For more information about travelling to the festival, nearby car parks or access concerns please visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'http://firstlightlowestoft.com/your-visit/?_gl=1*lh6832*_ga*MTEyMjQ5MzkwMi4xNjU0NDU5ODYw*_ga_VNZBZ7KK2L*MTY1NDQ1OTg1OS4xLjEuMTY1NDQ1OTg5My4w&_ga=2.168758113.114446753.1654459861-1122493902.1654459860'
+              rel: null
+              target: _blank
+              title: null
+        text: 'First Light Festival website'
+      -
+        type: text
+        text: '. '
   -
     type: heading
     attrs:
@@ -85,8 +98,8 @@ content_area:
       -
         type: text
         text: 'This a free drop in event so no booking is required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653393881
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654513529
 featured_image: offthepressimages/new_resized_images/Outside.png
 end_date: '2022-06-19 11:00'
 latitude: '52.460313651797826'
@@ -95,7 +108,7 @@ address_line_2: 'Kensington Rd'
 town: Lowestoft
 postcode: 'NR33 0DG'
 cta: |-
-  This event is run by First light Festival, for more information please get in touch via:
+  This event is run by First Light Festival, for more information please get in touch via:
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 ---
