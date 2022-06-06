@@ -1,12 +1,13 @@
 ---
 id: 8614893a-a154-4310-816a-3f91517842ab
-published: false
 blueprint: events
 title: 'First Light Festival - The Big Strum'
 event_categories:
   - festival
   - family-friendly
   - art
+  - music
+  - singing
 organisers:
   - first-light-festival
 start_date: '2022-06-18 12:00'
@@ -68,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Big Strum takes place at the First Light Festival, NR33 0DG.'
+        text: 'The Big Strum takes place at the First Light Festival.'
   -
     type: paragraph
     content:
@@ -86,7 +87,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Carparking is just a three to four minute walk to the event site.'
+        text: 'For more information about travelling to the festival, nearby car parks or access concerns please visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'http://firstlightlowestoft.com/your-visit/?_gl=1*lh6832*_ga*MTEyMjQ5MzkwMi4xNjU0NDU5ODYw*_ga_VNZBZ7KK2L*MTY1NDQ1OTg1OS4xLjEuMTY1NDQ1OTg5My4w&_ga=2.168758113.114446753.1654459861-1122493902.1654459860'
+              rel: null
+              target: _blank
+              title: null
+        text: 'First Light Festival website'
+      -
+        type: text
+        text: '. '
   -
     type: heading
     attrs:
@@ -101,8 +116,8 @@ content_area:
       -
         type: text
         text: 'This a free drop in event so no booking is required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653398052
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654514798
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 end_date: '2022-06-18 12:30'
 latitude: '52.460313651797826'
@@ -111,8 +126,8 @@ address_line_2: 'Kensington Rd'
 town: Lowestoft
 postcode: 'NR33 0DG'
 cta: |-
-  This event is run by First light Festival, for more information please get in touch via:
+  This event is run by First Light Festival, for more information please get in touch via:
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 ---
-Following the success of the Ukulele ‘Strum Along’ at First Light 2019, we’re delighted that Brian Lever will be joining us once again to lead this popular activity in the Gardens.
+Brian Lever will be joining First Light Festival once again to lead this popular ukelele activity in the Gardens.
