@@ -1,13 +1,12 @@
 ---
 id: 96800925-93ee-4958-8e74-0ac9c6f099f6
-published: false
 blueprint: events
-title: 'Pride in the libraries - Queer Craftivism - Hadleigh'
+title: 'Queer Craftivism - Hadleigh Library'
 event_categories:
   - crafts
 organisers:
   - suffolk-libraries
-featured_image: offthepressimages/new_resized_images/VisualArts.png
+featured_image: Queer-Craftivism---INSTAGRAM-1654616921.png
 start_date: '2022-06-10 10:30'
 end_date: '2022-06-10 14:30'
 free: true
@@ -49,12 +48,6 @@ content_area:
         type: text
         text: 'Pride in the libraries takes place at Hadleigh Library, IP7 5AG.'
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking that is a one to three minute walk from the venue.'
-  -
     type: heading
     attrs:
       level: 2
@@ -68,11 +61,7 @@ content_area:
       -
         type: text
         text: 'This is a drop in event so no booking is required.'
-cta: |-
-  This event is run by suffolk libraries, for more informatation please get in touvh via:
-
-  [01473 823778](tel:01473823778)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654523627
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654616985
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
