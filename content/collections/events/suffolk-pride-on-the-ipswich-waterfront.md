@@ -28,13 +28,31 @@ content_area:
     content:
       -
         type: text
-        text: "Celebrating 50 years of Pride in the UK, the Waterfront in Ipswich hosts Suffolk Pride. Platforming a wide range of artists from Suffolk and other close-to-home locations which will include Drag, live music, panels and more. \_Main Stage – the Suffolk Pride march travels from Dance East at 12:30pm to the Main Stage performances from 13:00 to 20:00. "
+        text: "Celebrating 50 years of Pride in the UK, the Waterfront in Ipswich hosts Suffolk Pride. Platforming a wide range of artists from Suffolk and other close-to-home locations which will include Drag, live music, panels and more. \_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Youth Stage at The Hold from 13:30 to 18:30 Cost – totally free – created for and co-produced by local young people. Arts Stage at the University of Suffolk foyer from 13:30 to 18:30 – Free – spoken word, poetry, panel discussions and live art. The Suffolk Pride After Party at Boom Battle Bar from 21:00 to 1:30 am – it’s the Pride Weekend’s Hottest Ticket – more details coming soon.'
+        text: 'Main Stage – the Suffolk Pride march travels from Dance East at 12:30pm to the Main Stage performances from 13:00 to 20:00. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Youth Stage at The Hold from 13:30 to 18:30, which is totally free, is created for and co-produced by local young people.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Arts Stage at the University of Suffolk foyer from 13:30 to 18:30 – Free spoken word, poetry, panel discussions and live art. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Suffolk Pride After Party at Boom Battle Bar from 21:00 to 1:30 am – it’s the Pride Weekend’s Hottest Ticket – more details coming soon.'
   -
     type: heading
     attrs:
@@ -69,7 +87,7 @@ content_area:
       -
         type: text
         text: 'This is a drop in event so no booking is required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654522344
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654594453
 ---
 Celebrating 50 years of Pride in the UK, the Waterfront in Ipswich hosts Suffolk Pride.
