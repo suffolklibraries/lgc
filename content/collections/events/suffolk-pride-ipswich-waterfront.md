@@ -1,9 +1,8 @@
 ---
 id: 12c98a26-2c48-4098-8702-357c10833d22
-published: false
 blueprint: events
 title: 'Suffolk Pride on the Ipswich Waterfront'
-featured_image: offthepressimages/new_resized_images/Outside.png
+featured_image: lgbti-flag-artwork-CMYK-print.png
 start_date: '2022-06-18 12:00'
 end_date: '2022-06-18 21:00'
 free: true
@@ -34,25 +33,49 @@ content_area:
     content:
       -
         type: text
-        text: 'Main Stage – the Suffolk Pride march travels from Dance East at 12:30pm to the Main Stage performances from 13:00 to 20:00. '
+        marks:
+          -
+            type: bold
+        text: 'Main Stage'
+      -
+        type: text
+        text: ' – the Suffolk Pride march travels from Dance East at 12:30pm to the Main Stage performances from 13:00 to 20:00. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Youth Stage at The Hold from 13:30 to 18:30, which is totally free, is created for and co-produced by local young people.'
+        marks:
+          -
+            type: bold
+        text: 'Youth Stage at The Hold'
+      -
+        type: text
+        text: ' from 13:30 to 18:30, which is totally free, is created for and co-produced by local young people.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Arts Stage at the University of Suffolk foyer from 13:30 to 18:30 – Free spoken word, poetry, panel discussions and live art. '
+        marks:
+          -
+            type: bold
+        text: 'Arts Stage at the University of Suffolk'
+      -
+        type: text
+        text: ' foyer from 13:30 to 18:30 – Free spoken word, poetry, panel discussions and live art. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Suffolk Pride After Party at Boom Battle Bar from 21:00 to 1:30 am – it’s the Pride Weekend’s Hottest Ticket – more details coming soon.'
+        marks:
+          -
+            type: bold
+        text: 'The Suffolk Pride After Party at Boom Battle Bar from 21:00 to 1:30 am'
+      -
+        type: text
+        text: ' – it’s the Pride Weekend’s Hottest Ticket – more details coming soon.'
   -
     type: heading
     attrs:
@@ -66,13 +89,9 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Pride Is holding their event at Ipswich Waterfront, IP4 1QJ.'
+        text: 'Suffolk Pride is holding their event at Ipswich Waterfront, IP4 1QJ.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is carparking that is a one to four minute walk from the event.'
   -
     type: heading
     attrs:
@@ -88,6 +107,6 @@ content_area:
         type: text
         text: 'This is a drop in event so no booking is required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654616039
+updated_at: 1654619056
 ---
 Celebrating 50 years of Pride in the UK, the Waterfront in Ipswich hosts Suffolk Pride.
