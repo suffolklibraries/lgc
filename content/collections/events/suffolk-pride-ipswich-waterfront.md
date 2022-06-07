@@ -88,6 +88,6 @@ content_area:
         type: text
         text: 'This is a drop in event so no booking is required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654594453
+updated_at: 1654616039
 ---
 Celebrating 50 years of Pride in the UK, the Waterfront in Ipswich hosts Suffolk Pride.
