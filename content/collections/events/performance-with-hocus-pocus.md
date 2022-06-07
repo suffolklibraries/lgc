@@ -2,17 +2,17 @@
 id: baecfc25-c2dc-49e0-ab61-ae2e66772b3f
 published: false
 blueprint: events
-title: 'Performance Workshops with Hocus Pocus Theatre (Duplicated)'
+title: 'Performance Workshops with Hocus Pocus Theatre - Performance'
 event_categories:
   - drama
   - theatre
+  - workshop
 organisers:
   - hocus-pocus-theatre
 featured_image: Circus-Workshops-With-Hocus-Pocus-Theatre-(1).png
-start_date: '2022-06-13 16:30'
-end_date: '2022-06-13 18:30'
-free: false
-cost_details: '£10 for full course'
+start_date: '2022-07-17 09:00'
+end_date: '2022-07-17 18:00'
+free: true
 virtual: false
 latitude: '52.37769276702079'
 longitude: '1.10714316943529'
@@ -42,48 +42,6 @@ content_area:
         type: text
         text: 'Led by Artistic Director of Hocus Pocus Theatre Lucy Enskat, the sessions will incorporate games, clown techniques, improvisation exercises and collaborative performance. Weaving a magical narrative together the group will co-create the show from scratch and be supported with elements of costume design, sound and production too!'
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Additional dates: '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Monday 20th June'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Monday 27th June'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Monday 4th July'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Monday 11th July'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Rehearsal: Saturday 16th July, 10am-12pm'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Rehearsal & Performance: Sunday 17th July (All day)'
-  -
     type: heading
     attrs:
       level: 2
@@ -96,7 +54,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Performance Workshops with Hocus Pocus Theatre takes place at The Corn Hall.'
+        text: 'Performance Workshops with Hocus Pocus Theatre - performace takes place at The Corn Hall.'
   -
     type: paragraph
     content:
@@ -143,6 +101,6 @@ cta: |-
 
   [https://www.hocuspocustheatre.co.uk/](https://www.hocuspocustheatre.co.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654609585
+updated_at: 1654613015
 ---
 Roll up! Roll up! and run away with a circus themed theatre project this summer culminating in a celebration performance at Fair Green in July.
