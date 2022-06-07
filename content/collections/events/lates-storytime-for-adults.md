@@ -1,6 +1,5 @@
 ---
 id: f77544ab-434b-4e06-a131-d7b71b23d932
-published: false
 blueprint: events
 title: 'Lates: Storytime for Adults'
 event_categories:
@@ -12,7 +11,7 @@ start_date: '2022-07-28 19:00'
 end_date: '2022-07-28 22:00'
 free: true
 virtual: false
-attendance_information: 18+
+attendance_information: 'Adults only (18+)'
 latitude: '52.05306962490606'
 longitude: '1.163499554080156'
 address_line_1: 'The Hold'
@@ -34,13 +33,6 @@ content_area:
       -
         type: text
         text: "Storytime shouldn't just be for kids! Grab a cocktail and settle in for a evening of adults only story time presented by Suffolk Archives and Suffolk Libraries.\_"
-      -
-        type: hard_break
-      -
-        type: hard_break
-      -
-        type: text
-        text: '18+ event'
   -
     type: heading
     attrs:
@@ -100,7 +92,7 @@ cta: |-
   This event is run by Suffolk Archives, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653903029
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654614909
 ---
 Storytime shouldn't just be for kids! Grab a cocktail and settle in for a evening of adults only story time.
