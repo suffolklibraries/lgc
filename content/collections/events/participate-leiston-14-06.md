@@ -4,10 +4,10 @@ blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
-start_date: '2022-06-07 14:30'
-end_date: '2022-06-07 16:30'
+start_date: '2022-06-14 14:30'
+end_date: '2022-06-14 16:30'
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653466531
+updated_at: 1654589402
 free: true
 virtual: false
 organisers:
