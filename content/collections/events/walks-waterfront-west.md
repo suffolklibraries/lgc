@@ -17,7 +17,7 @@ cost_details: £5
 virtual: false
 accessibility_information: |-
   - Wheelchair friendly
-  - Assistnace dogs are welcome
+  - Assistance dogs are welcome
 latitude: '52.05305642990964'
 longitude: '1.163531740588396'
 address_line_1: 'The Hold'
@@ -162,7 +162,8 @@ cta: |-
   This event is run by The Hold and the Ipswich Tourist Guide Association. for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653905325
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654614969
+attendance_information: 'Everyone welcome'
 ---
 Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell .
