@@ -1,6 +1,5 @@
 ---
 id: 91efc03b-46c5-4d0d-83bc-7567a3e240aa
-published: false
 blueprint: events
 title: 'Online author event with Lucy Holland'
 event_categories:
@@ -75,7 +74,7 @@ cta: |-
   This event is run by Suffolk Libraries, For more information please get in touch via:
 
   [www.suffolklibraries.co.uk](www.suffolklibraries.co.uk)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654519260
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654619293
 ---
 Author Lucy Holland will be joining us for a special online author event to celebrate Pride Month.
