@@ -1,6 +1,5 @@
 ---
 id: 7740d385-5591-4f69-a40f-55093e6dcd71
-published: false
 blueprint: events
 title: 'Verse Converse'
 event_categories:
@@ -84,13 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a carpark outside of the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are bus stops that are a five to ten minute walk from the venue.'
+        text: 'There is a carpark outside of the venue and there are bus stops that are a five to ten minute walk from the venue.'
   -
     type: heading
     attrs:
@@ -124,7 +117,8 @@ cta: |-
   This event is run by the First Light Festival, for more information please get in touch via:
 
   [https://firstlightlowestoft.com/whats-on/laboratory-media-education-verse-converse/](https://firstlightlowestoft.com/whats-on/laboratory-media-education-verse-converse/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653900395
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654614823
+attendance_information: '- Everyone welcome'
 ---
 Verse Converse is a unique, immersive, sound and light, kinetic installation that generates music from body heat.
