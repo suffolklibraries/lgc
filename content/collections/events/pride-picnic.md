@@ -1,11 +1,10 @@
 ---
 id: b5270fb9-3415-417f-99ae-da9363fb609e
-published: false
 blueprint: events
 title: 'Pride Picnic'
 event_categories:
   - food
-featured_image: offthepressimages/new_resized_images/Outside.png
+featured_image: lgbti-flag-artwork-CMYK-print.png
 start_date: '2022-06-12 14:00'
 end_date: '2022-06-12 15:00'
 free: true
@@ -54,7 +53,7 @@ content_area:
       -
         type: text
         text: 'To book a ticket please visit this link here.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654520346
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654618660
 ---
 Bring your favourite picnic food and join us for our Bury St Edmunds Pride Picnic.
