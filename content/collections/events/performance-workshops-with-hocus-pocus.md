@@ -143,6 +143,6 @@ cta: |-
 
   [https://www.hocuspocustheatre.co.uk/](https://www.hocuspocustheatre.co.uk/)
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654609585
+updated_at: 1654613470
 ---
 Roll up! Roll up! and run away with a circus themed theatre project this summer culminating in a celebration performance at Fair Green in July.
