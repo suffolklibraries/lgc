@@ -1,6 +1,5 @@
 ---
 id: f6a405da-efad-462c-b6cd-e9c6653ea99e
-published: false
 blueprint: events
 title: 'Queer Craftivism - Ipswich Library'
 event_categories:
@@ -46,19 +45,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Pride in the libraries - Queer Craftivism takes place at Ipswich County Library, IP1 3DE.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is a bus stop a minutes walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is also carparking that is a five minute walk from the venue.'
+        text: 'Pride in the libraries - Queer Craftivism takes place at Ipswich County Library, IP1 3DE, which is walking distance from Ipswich town centre. '
   -
     type: heading
     attrs:
@@ -74,6 +61,7 @@ content_area:
         type: text
         text: 'This is a drop in event so no booking is required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654616683
+updated_at: 1654616883
+featured_image: Queer-Craftivism---INSTAGRAM-1654616830.png
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
