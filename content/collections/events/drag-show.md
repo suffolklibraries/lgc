@@ -1,6 +1,5 @@
 ---
 id: ce70cb5c-20fe-438f-942f-5cefa037e2f4
-published: false
 blueprint: events
 title: 'Drag Show'
 event_categories:
@@ -51,7 +50,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a small amount of carparking out side of the venue. There are also carparks either at the student halls or at the St peters dock carpark.'
+        text: 'There is a small amount of car parking outside of the venue. There are also car parks either at the student halls or at the St Peters Dock car park.'
   -
     type: heading
     attrs:
@@ -70,7 +69,8 @@ cta: |-
   This event is run by the Wiff Waff Bar, for more infromation please get in touch via:
 
   [https://wiffwaffplay.co.uk/event/drag-show-suffolk-pride-sunday/](https://wiffwaffplay.co.uk/event/drag-show-suffolk-pride-sunday/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654526739
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654615474
+featured_image: DRAG-SHOW-1086x1536-(2).png
 ---
-What better way to celebrate Suffolk Pride than showcasing three incredibly talented and local stars.
+Celebrate Suffolk Pride with a drag show on the 19 June at The Wiff Waff bar in Ipswich.
