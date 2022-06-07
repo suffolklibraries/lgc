@@ -1,13 +1,12 @@
 ---
 id: 60e9bda5-db93-4b80-8a3a-20736c995f76
-published: false
 blueprint: events
-title: 'Pride in the libraries - Queer Craftivism - Haverhill'
+title: 'Queer Craftivism - Haverhill Library'
 event_categories:
   - crafts
 organisers:
   - suffolk-libraries
-featured_image: offthepressimages/new_resized_images/VisualArts.png
+featured_image: Queer-Craftivism---INSTAGRAM-1654617137.png
 start_date: '2022-06-10 10:30'
 end_date: '2022-06-10 14:30'
 free: true
@@ -68,11 +67,7 @@ content_area:
       -
         type: text
         text: 'This is a drop in event so no booking is required.'
-cta: |-
-  This event is run by suffolk libraries, for more informatation please get in touvh via:
-
-  [01473 927260](tel:01473927260)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654524649
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654617816
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
