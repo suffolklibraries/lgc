@@ -6,7 +6,7 @@ start_date: '2022-06-14 19:30'
 free: true
 virtual: false
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654589347
+updated_at: 1654589466
 event_categories:
   - art
 organisers:
