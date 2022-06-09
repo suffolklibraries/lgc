@@ -6,6 +6,7 @@ event_categories:
   - festival
   - family-friendly
   - music
+  - first-light
 organisers:
   - first-light-festival
 featured_image: offthepressimages/new_resized_images/Music_Drum.png
@@ -118,7 +119,7 @@ cta: |-
 
   [https://firstlightlowestoft.com/whats-on/laboratory-media-education-verse-converse/](https://firstlightlowestoft.com/whats-on/laboratory-media-education-verse-converse/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654614823
+updated_at: 1654769264
 attendance_information: '- Everyone welcome'
 ---
 Verse Converse is a unique, immersive, sound and light, kinetic installation that generates music from body heat.
