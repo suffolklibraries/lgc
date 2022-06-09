@@ -7,6 +7,7 @@ event_categories:
   - festival
   - visual-arts
   - workshop
+  - first-light
 organisers:
   - first-light-festival
 start_date: '2022-06-18 12:00'
@@ -124,8 +125,8 @@ content_area:
       -
         type: text
         text: 'This a free drop in event so no booking is required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654517409
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654769283
 featured_image: Will-Teather-Drawing-Workshops-tile-(2)-1654517386.png
 end_date: '2022-06-18 21:00'
 latitude: '52.460313651797826'
