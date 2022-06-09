@@ -6,6 +6,7 @@ event_categories:
   - festival
   - family-friendly
   - art
+  - first-light
 organisers:
   - first-light-festival
 start_date: '2022-06-19 08:30'
@@ -98,8 +99,8 @@ content_area:
       -
         type: text
         text: 'This a free drop in event so no booking is required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654517471
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1654769292
 featured_image: First-kite-for-web-1654517451.jpg
 end_date: '2022-06-19 11:00'
 latitude: '52.460313651797826'
