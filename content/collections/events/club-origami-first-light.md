@@ -4,7 +4,7 @@ blueprint: events
 title: 'First Light Festival - Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654460491
+updated_at: 1654769301
 latitude: '52.46029404020665'
 longitude: '1.742435941964034'
 start_date: '2022-06-19 10:00'
@@ -15,6 +15,7 @@ event_categories:
   - dance
   - primary-school-age
   - performance
+  - first-light
 free: true
 virtual: false
 organisers:
