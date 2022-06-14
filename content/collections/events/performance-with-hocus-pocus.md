@@ -100,7 +100,7 @@ cta: |-
   This event is run by Hovus Pocus Theatre, for more information please get in touch via:
 
   [https://www.hocuspocustheatre.co.uk/](https://www.hocuspocustheatre.co.uk/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654613015
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1655214441
 ---
-Roll up! Roll up! and run away with a circus themed theatre project this summer culminating in a celebration performance at Fair Green in July.
+Roll up! Roll up! Run away with a circus themed theatre project this summer culminating in a celebration performance at Fair Green in July.
