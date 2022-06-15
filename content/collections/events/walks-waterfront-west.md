@@ -9,7 +9,6 @@ event_categories:
 organisers:
   - the-hold
   - ipswich-tourist-guide-association
-featured_image: offthepressimages/new_resized_images/Teen.png
 start_date: '2022-06-16 14:00'
 end_date: '2022-06-16 15:30'
 free: false
@@ -163,7 +162,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654614969
+updated_at: 1655301149
 attendance_information: 'Everyone welcome'
 ---
-Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell .
+Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell.
