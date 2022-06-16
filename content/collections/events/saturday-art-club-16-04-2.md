@@ -1,15 +1,14 @@
 ---
 id: da04357e-f230-4873-b3cb-cf1c5b0d8ae4
-published: false
 blueprint: events
-title: 'Saturday Art Club (Duplicated) (2)'
+title: 'Saturday Art Club'
 event_categories:
   - art
   - primary-school-age
 organisers:
   - rock-paper-scissors
 featured_image: miscellaneous/saturday-art-club.jfif
-start_date: '2022-04-16 10:00'
+start_date: '2022-06-18 10:00'
 free: false
 virtual: false
 latitude: '52.05306962490606'
@@ -38,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Based at the Suffolk Archives building The Hold, this is a weekly art club for 5-10 year olds, having creative fun and exploring process art.'
+        text: 'Based at the Suffolk Archives building, The Hold, this is a weekly art club for 5-10 year olds, having creative fun and exploring process art.'
   -
     type: paragraph
     content:
@@ -115,9 +114,9 @@ cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1649771277
-end_date: '2022-04-16 11:30'
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655366855
+end_date: '2022-06-18 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
 ---
