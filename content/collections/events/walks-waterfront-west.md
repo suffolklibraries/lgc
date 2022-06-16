@@ -1,6 +1,5 @@
 ---
 id: 5e3e13e6-f120-4aa9-ad35-6777d0f82c7c
-published: false
 blueprint: events
 title: 'Walks: Waterfront West'
 event_categories:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: "Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell . We'll also visit \_The Jerwood Dance house, and a redundant medieval church restored with the help of a multi- million pound Heritage Lottery Grant."
+        text: 'Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell. The walk will also visit The Jerwood Dance house and a redundant medieval church restored with the help of a multi- million pound Heritage Lottery Grant.'
       -
         type: hard_break
       -
@@ -99,7 +98,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Up to 5 complementary tickets per walk are available, at the discretion of ITGA or , and can include children under the age of 12.'
+        text: 'Up to 5 complementary tickets per walk are available, at the discretion of ITGA and can include children under the age of 12.'
       -
         type: hard_break
   -
@@ -161,8 +160,8 @@ cta: |-
   This event is run by The Hold and the Ipswich Tourist Guide Association. for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655301149
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655366441
 attendance_information: 'Everyone welcome'
 ---
 Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell.
