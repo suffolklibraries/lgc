@@ -85,14 +85,25 @@ content_area:
     content:
       -
         type: text
-        text: "\_"
+        text: 'It is possible to walk up a footpath to Two Sisters Arts Centre for speaker events.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'It is possible to walk up a footpath to Two Sisters Arts Centre for speaker events.'
+        text: 'For the full Felixstowe Book Festival programme visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://felixstowebookfestival.co.uk/about'
+              rel: null
+              target: null
+              title: null
+        text: felixstowebookfestival.co.uk
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655392429
+updated_at: 1655393678
 ---
 Historic Yachts at the harbour, Levington
