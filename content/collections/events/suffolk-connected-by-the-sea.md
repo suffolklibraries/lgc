@@ -41,7 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Claudia and Myatt and Jane Russell develop an idea of the sea as a means of connection, offering people opportunities for artistic and intellectual exchange, for exploration and trade as well as invasions and warfare.'
+        text: 'Claudia Myatt and Jane Russell develop an idea of the sea as a means of connection, offering people opportunities for artistic and intellectual exchange, for exploration and trade as well as invasions and warfare.'
   -
     type: paragraph
     content:
@@ -54,11 +54,28 @@ content_area:
       -
         type: text
         text: 'Jane is a cruising sailor with 30 years of experience including a 5-year circumnavigation.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For full programme information visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://felixstowebookfestival.co.uk/about'
+              rel: null
+              target: _blank
+              title: null
+        text: felixstowebookfestival.co.uk
 booking_link: 'https://www.felixstowebookfestival.com/booking/ChooseSeats?event=319128'
 cta: |-
   Book tickets via link
   [https://www.felixstowebookfestival.com/booking/ChooseSeats?event=319128 ](https://www.felixstowebookfestival.com/booking/ChooseSeats?event=319128 )
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655392037
+updated_at: 1655393595
 ---
 Suffolk Connected by the Sea is part of the Suffolk and the Sea programme of events within the Felixstowe Book Festival.
