@@ -100,10 +100,10 @@ content_area:
             attrs:
               href: 'https://felixstowebookfestival.co.uk/about'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: felixstowebookfestival.co.uk
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655393678
+updated_at: 1655393783
 ---
 Historic Yachts at the harbour, Levington
