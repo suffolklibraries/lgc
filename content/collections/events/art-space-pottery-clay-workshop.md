@@ -8,7 +8,7 @@ event_categories:
   - art
 organisers:
   - suffolk-libraries
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 start_date: '2022-03-26 12:00'
 end_date: '2022-03-26 14:00'
 free: true
@@ -184,7 +184,7 @@ cta: |-
   This event is run by Suffolk Libraries, for more informations please get in touch via:
 
   [https://www.suffolklibraries.co.uk/whats-on/art-space-pottery-and-clay-workshop](https://www.suffolklibraries.co.uk/whats-on/art-space-pottery-and-clay-workshop)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1647949017
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1655373683
 ---
 Free art workshops for young people aged 12-16
