@@ -1,6 +1,5 @@
 ---
 id: 63a6d319-ea39-46b3-82ac-849f215d2bd8
-published: false
 blueprint: events
 title: 'My Pen is the Wing of a Bird'
 event_categories:
@@ -53,12 +52,52 @@ content_area:
               title: null
         text: felixstowebookfestival.co.uk
   -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get here '
+  -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'This is a free and virtual online event.'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The event is free but please do book in advance selecting the ''Book your place'' button or searching '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/two-sisters-arts-centre/my-pen-is-the-wing-of-a-bird/e-kxdkxa'
+              rel: null
+              target: _blank
+              title: null
+        text: Ticketsource
+      -
+        type: text
+        text: '. '
 booking_link: 'https://www.ticketsource.co.uk/two-sisters-arts-centre/my-pen-is-the-wing-of-a-bird/e-kxdkxa'
 cta: |-
   Book tickets via ticket source
   [https://www.ticketsource.co.uk/two-sisters-arts-centre/my-pen-is-the-wing-of-a-bird/e-kxdkxa ](https://www.ticketsource.co.uk/two-sisters-arts-centre/my-pen-is-the-wing-of-a-bird/e-kxdkxa )
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655393756
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1655395851
 ---
 A special digital Felixstowe event celebrating the first anthology of short fiction in translation by Afghan women: My Pen is the Wing of a Bird.
