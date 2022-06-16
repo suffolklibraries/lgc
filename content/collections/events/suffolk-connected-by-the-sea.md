@@ -1,6 +1,5 @@
 ---
 id: 3dc3d7aa-fc52-4dcd-bee4-833c64a33f10
-published: false
 blueprint: events
 title: 'Suffolk Connected by the Sea'
 event_categories:
@@ -74,8 +73,11 @@ content_area:
 booking_link: 'https://www.felixstowebookfestival.com/booking/ChooseSeats?event=319128'
 cta: |-
   Book tickets via link
-  [https://www.felixstowebookfestival.com/booking/ChooseSeats?event=319128 ](https://www.felixstowebookfestival.com/booking/ChooseSeats?event=319128 )
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655393595
+  [www.felixstowebookfestival.com/booking/ChooseSeats?event=319128 ](https://www.felixstowebookfestival.com/booking/ChooseSeats?event=319128 )
+
+  Call for enquiries 
+  [01473295900](tel:01473295900)
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1655395691
 ---
 Suffolk Connected by the Sea is part of the Suffolk and the Sea programme of events within the Felixstowe Book Festival.
