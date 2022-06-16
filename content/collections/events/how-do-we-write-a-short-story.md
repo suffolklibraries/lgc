@@ -1,6 +1,5 @@
 ---
 id: 82c11a95-7bba-4a73-a066-f58d2dfad511
-published: false
 blueprint: events
 title: 'How do we write a short story'
 event_categories:
@@ -66,9 +65,12 @@ content_area:
 booking_link: 'https://www.felixstowebookfestival.com/booking/ChooseSeats?event=320528'
 cta: |-
   Book tickets via link
-  [https://www.felixstowebookfestival.com/booking/ChooseSeats?event=320528 ](https://www.felixstowebookfestival.com/booking/ChooseSeats?event=320528 )
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655393862
+  [www.felixstowebookfestival.com/booking/ChooseSeats?event=320528 ](https://www.felixstowebookfestival.com/booking/ChooseSeats?event=320528)
+
+  Call for enquiries 
+  [01473295900](tel:01473295900)
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1655395966
 organisers:
   - felixstowe-book-festival
 ---
