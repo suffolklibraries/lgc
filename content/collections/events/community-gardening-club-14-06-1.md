@@ -2,12 +2,12 @@
 id: 54ca3693-f918-4649-ac10-3a9a045fcf00
 published: false
 blueprint: events
-title: 'Community Gardening Club (Duplicated)'
+title: 'Community Gardening Club'
 start_date: '2022-06-14 10:00'
 free: true
 virtual: false
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654589253
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655368364
 event_categories:
   - art
   - nature
@@ -15,7 +15,7 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-end_date: '2022-06-14 12:00'
+end_date: '2022-06-21 12:00'
 latitude: '52.06356401835797'
 longitude: '1.1373199705972623'
 address_line_1: 'Eastern Angles Centre'
@@ -36,13 +36,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Plant, grow, chat. Eastern Angles'' gardening club is more than just about the plants, it’s about growing new friendships too. Whether green fingered or not, there''s a place for you in the community garden.'
+        text: 'Plant, grow, chat: Eastern Angles'' gardening club is more than just about the plants, it’s about growing new friendships too. Whether green fingered or not, there''s a place for you in the community garden.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'With a courtyard in the centre of the Eastern Angles Centre, there are plants growing in soil and in pots. You can get involved with planting new bulbs, tending fruit, pruning trees and get the entire garden looking lovely for the summer.'
+        text: 'With a courtyard in the middle of the Eastern Angles Centre, there are plants growing in soil and in pots. You can get involved with planting new bulbs, tending fruit, pruning trees and get the entire garden looking lovely for the summer.'
   -
     type: paragraph
     content:
@@ -68,13 +68,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at the Eastern Angles Centre, 10am-12pm every Tuesday and help us grow a green community in the heart of West Ipswich.'
+        text: 'Join in at the Eastern Angles Centre, 10am-12pm every Tuesday and help to grow a green community in the heart of West Ipswich.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: ' For information about all the car parks in Ipswich town centre visit '
+        text: 'For information about car parks in Ipswich town centre, visit '
       -
         type: text
         marks:
@@ -155,5 +155,6 @@ cta: |-
   [jon@easternangles.co.uk](mailto:jon@easternangles.co.uk)
 
   [ 01473 211498](tel:01473211498)
+attendance_information: 'Everyone welcome'
 ---
-Love the outdoors and want to meet new people? Then why not join Eastern Angles new community gardening club?
+Do you love the outdoors and want to meet new people? Then why not join the Eastern Angles community gardening club?
