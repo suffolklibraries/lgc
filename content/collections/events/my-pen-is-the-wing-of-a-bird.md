@@ -37,11 +37,28 @@ content_area:
         text: 'Contributors of the book join novelist and Royal Literary Fellow Ruth Dugdall who will discuss these vital, unexpected short stories that are both unique and universal – stories of family, work, childhood, friendship, war, gender identity and cultural traditions and how this anthology was developed.'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'For the full Felixstowe Book Festival programme visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://felixstowebookfestival.co.uk/about'
+              rel: null
+              target: _blank
+              title: null
+        text: felixstowebookfestival.co.uk
+  -
+    type: paragraph
 booking_link: 'https://www.ticketsource.co.uk/two-sisters-arts-centre/my-pen-is-the-wing-of-a-bird/e-kxdkxa'
 cta: |-
   Book tickets via ticket source
   [https://www.ticketsource.co.uk/two-sisters-arts-centre/my-pen-is-the-wing-of-a-bird/e-kxdkxa ](https://www.ticketsource.co.uk/two-sisters-arts-centre/my-pen-is-the-wing-of-a-bird/e-kxdkxa )
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655391365
+updated_at: 1655393756
 ---
 A special digital Felixstowe event celebrating the first anthology of short fiction in translation by Afghan women: My Pen is the Wing of a Bird.
