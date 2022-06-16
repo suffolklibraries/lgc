@@ -36,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Pitter Patter Play, at the Kirkley Family Hub, is a chance for you and your little one to enjoy sensory fun and messy play with Healthy Child Practitioner, Lucy, and Katie as well as to meet other parents and guardians for support. There is also a reading corner with books and activities to promote reading at an early age with your little one.'
+        text: 'Pitter Patter Play, at the Kirkley Family Hub, is a chance for you and your little one to enjoy sensory fun and messy play with Healthy Child Practitioner, Lucy, and Katie, as well as to meet other parents and guardians for support. There is also a reading corner with books and activities to promote reading at an early age with your little one.'
   -
     type: paragraph
     content:
@@ -74,10 +74,10 @@ content_area:
 cta: |-
   This event is organised by The Kirkley Family Hub
 
-  [01473 260358](01473 260358)
+  [01473260358](01473260358)
 
   [https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0](https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655377601
+updated_at: 1655377720
 ---
 Sensory and messy play for under ones and a chance to meet other parents.
