@@ -78,6 +78,6 @@ cta: |-
   Call for enquiries 
   [01473295900](tel:01473295900)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655395691
+updated_at: 1655395865
 ---
 Suffolk Connected by the Sea is part of the Suffolk and the Sea programme of events within the Felixstowe Book Festival.
