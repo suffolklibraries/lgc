@@ -1,13 +1,12 @@
 ---
 id: bc908ea9-52fe-41bb-9a0d-966ac4abe75f
-published: false
 blueprint: events
 title: 'Father’s Day Model Railway Show'
 event_categories:
   - exhibition
   - history
 start_date: '2022-06-19 10:00'
-end_date: '2022-06-19 15:00'
+end_date: '2022-06-19 16:00'
 free: false
 virtual: false
 content_area:
@@ -24,7 +23,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The Long Shop Museum is putting on a big engineering show on Sunday 19 June. There’ll be model railways, live steam engines and models, and a museum chock full of engineering heritage!'
+        text: 'The Long Shop Museum is putting on a big engineering show on Sunday 19 June. There’ll be model railways, live steam engines and models, and a museum full of engineering heritage!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Adults £8, children (4-16) £4, under 4s FREE, concessions £6. FREE entry for dads accompanied by a child under 16.'
   -
     type: heading
     attrs:
@@ -38,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Father’s Day Model Railway Show takes place at The Long Shop Museum, IP16 4ES.'
+        text: 'The Father’s Day Model Railway Show takes place at The Long Shop Museum, IP16 4ES.'
   -
     type: paragraph
     content:
@@ -59,8 +64,8 @@ content_area:
       -
         type: text
         text: 'This is a drop in event so no booking is required.'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653319967
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655367570
 organisers:
   - association-for-suffolk-museums
 featured_image: offthepressimages/new_resized_images/Museum_craft.png
@@ -76,4 +81,4 @@ cta: |-
 
   [https://suffolkmuseums.org/events/fathers-day-model-railway-show-2/](https://suffolkmuseums.org/events/fathers-day-model-railway-show-2/)
 ---
-A big enginering show at The Long Shop Museum Filled with Modal trains, big steam engines and a day full enginering heritage.
+The Long Shop Museum are hosting a big enginering show filled with modal trains, big steam engines and a day full of enginering heritage.
