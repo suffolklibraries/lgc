@@ -46,11 +46,30 @@ content_area:
       -
         type: text
         text: 'This workshop is part of a programme of writing workshops at the Felixstowe Book Festival. Be sure to check out the full programme for all workshop details.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For the full Felixstowe Book Festival Programme of events visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://felixstowebookfestival.co.uk/about'
+              rel: null
+              target: _blank
+              title: null
+        text: felixstowebookfestival.co.uk
 booking_link: 'https://www.felixstowebookfestival.com/booking/ChooseSeats?event=320528'
 cta: |-
   Book tickets via link
   [https://www.felixstowebookfestival.com/booking/ChooseSeats?event=320528 ](https://www.felixstowebookfestival.com/booking/ChooseSeats?event=320528 )
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655391761
+updated_at: 1655393862
+organisers:
+  - felixstowe-book-festival
 ---
 A workshop, led by Amanda Hodgkinson showing the ways to enjoy the challenges of short form fiction and improve your writing skills.
