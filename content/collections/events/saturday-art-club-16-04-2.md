@@ -1,5 +1,6 @@
 ---
 id: da04357e-f230-4873-b3cb-cf1c5b0d8ae4
+published: false
 blueprint: events
 title: 'Saturday Art Club (Duplicated) (2)'
 event_categories:
