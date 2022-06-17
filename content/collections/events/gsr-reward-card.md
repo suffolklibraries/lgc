@@ -172,7 +172,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To be an eligible event or activity provider, your activity must offer a literacy aspect, be affordable and be suitable for young children.'
+        text: 'To be an eligible event or activity provider, your activity must offer a literacy aspect, be affordable and be suitable for children.'
   -
     type: paragraph
     content:
@@ -200,7 +200,7 @@ cta: |-
 
   [https://literacytrust.org.uk/](https://literacytrust.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655475888
+updated_at: 1655478602
 attendance_information: 'For children & young families'
 booking_link: 'https://literacytrust.org.uk/'
 ---
