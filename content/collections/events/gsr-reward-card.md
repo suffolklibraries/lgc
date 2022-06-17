@@ -12,8 +12,8 @@ event_categories:
 organisers:
   - national-literacy-trust
 featured_image: offthepressimages/new_resized_images/Literature.png
-start_date: '2022-06-18 08:00'
-end_date: '2022-07-01 12:30'
+start_date: '2022-07-01 08:00'
+end_date: '2022-07-01 18:30'
 free: true
 virtual: false
 latitude: '52.476975835471734'
@@ -200,7 +200,7 @@ cta: |-
 
   [https://literacytrust.org.uk/](https://literacytrust.org.uk/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655475226
+updated_at: 1655475888
 attendance_information: 'For children & young families'
 booking_link: 'https://literacytrust.org.uk/'
 ---
