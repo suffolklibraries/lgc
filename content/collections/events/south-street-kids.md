@@ -74,6 +74,6 @@ cta: |-
 
   or e-mail [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655810981
+updated_at: 1655811236
 ---
 South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people.
