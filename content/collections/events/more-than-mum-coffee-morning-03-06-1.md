@@ -1,5 +1,6 @@
 ---
 id: 39106bf1-9d3d-4535-a19d-51e273191c1e
+published: false
 blueprint: events
 title: 'More Than Mum Coffee Morning! (Duplicated)'
 event_categories:
