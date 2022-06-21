@@ -1,6 +1,5 @@
 ---
 id: 621939d0-66ed-4eae-ad6c-ab083491670f
-published: false
 blueprint: events
 title: 'Boats at Suffolk Yacht Harbour'
 event_categories:
@@ -116,6 +115,6 @@ content_area:
               title: null
         text: felixstowebookfestival.co.uk
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655396033
+updated_at: 1655802125
 ---
 Historic Yachts at the harbour, Levington
