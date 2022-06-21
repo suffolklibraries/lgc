@@ -2,7 +2,7 @@
 id: 39106bf1-9d3d-4535-a19d-51e273191c1e
 published: false
 blueprint: events
-title: 'More Than Mum Coffee Morning! (Duplicated)'
+title: 'Making Me Priority test'
 event_categories:
   - food
 organisers:
@@ -83,8 +83,8 @@ cta: |-
   This event is run by the future female Society, For more information please get in touch via:
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653296739
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655825793
 attendance_information: Mums!
 ---
 Come and join for the new More Than Mums Coffee Mornings in Ipswich!
