@@ -8,7 +8,7 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - out-loud-music
-featured_image: 1.jpg
+featured_image: offthepressimages/Music_clear.png
 start_date: '2022-06-23 17:00'
 end_date: '2022-06-23 19:00'
 free: true
@@ -102,6 +102,6 @@ cta: |-
 
   or email [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655810915
+updated_at: 1655811007
 ---
 An opportunity for young people to explore and develop new skills in music.
