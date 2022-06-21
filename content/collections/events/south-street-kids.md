@@ -1,6 +1,5 @@
 ---
 id: 433d91bf-c2f9-4e85-9905-1b85bdd37849
-published: false
 blueprint: events
 title: 'South Street Kids'
 event_categories:
@@ -39,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people to gain skills, confidence and to develop a strong voice in the communities that surround Westgate Ward and Ipswich.'
+        text: 'South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people to gain skills and confidence and to develop a strong voice in the communities that surround Westgate Ward and Ipswich.'
   -
     type: paragraph
     content:
@@ -74,6 +73,6 @@ cta: |-
 
   or e-mail [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655811236
+updated_at: 1655827334
 ---
 South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people.
