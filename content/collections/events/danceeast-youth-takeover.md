@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Designed for and by young people, the Youth Takeover is putting young people from the local community at its heart, with space to express their identity and creativity and bring the Jerwood DanceHouse to life with an exciting programme of events and activities curated by our very own Youth Planning Team.'
+        text: 'Designed for and by young people, the Youth Takeover is putting young people from the local community at its heart, with space to express their identity and creativity and bring the Jerwood DanceHouse to life with an exciting programme of events and activities curated by their very own Youth Planning Team.'
   -
     type: paragraph
     content:
@@ -60,7 +60,9 @@ content_area:
         type: text
         text: 'The event is part of Hullabaloo22, celebrating activity happening in Ipswich through which children and young people can express themselves, develop skills and have a voice through creative and cultural participation.'
   -
-    type: paragraph
+    type: heading
+    attrs:
+      level: 3
     content:
       -
         type: text
@@ -77,11 +79,10 @@ content_area:
       -
         type: text
         text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
-booking_link: www.danceeast.co.uk
 cta: |-
   For more information visit 
-  []()
+  [https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/ ](https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655823434
+updated_at: 1655824514
 ---
 Youth Takover with creative arts, crafts, workshops, exhibitions and performances and more!
