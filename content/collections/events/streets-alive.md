@@ -10,8 +10,8 @@ event_categories:
   - theatre
 organisers:
   - eastern-angles
-start_date: '2022-07-09 10:00'
-end_date: '2022-07-09 16:00'
+start_date: '2022-07-09 11:00'
+end_date: '2022-07-24 15:00'
 free: true
 virtual: false
 attendance_information: 'Everyone welcome'
@@ -55,6 +55,75 @@ content_area:
         type: text
         text: "Free to watch in nine different market towns across Suffolk from the 9th\_to 24th\_July, Streets Alive is sure to be a magical experience that will enchant the whole family for free this summer!"
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Tour schedule July'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Saturday 9 Stowmarket Town Centre 11:00 – 12:00, 14:00 – 15:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Sunday 10\_Ipswich Cornhill 11:00 – 12:00, 14:00 – 15:00"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Friday 15 Felixstowe Triangle 11:00 – 12:00, 14:00 – 15:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Saturday 16 Framlingham Town Centre 11:00 – 12:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sunday 17 Sudbury Market Hill 11:00 – 12:00, 14:00 – 15:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Friday 22 Lowestoft Market Triangle 11:00 – 12:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Friday 22 Halesworth Thoroughfare 14:00 – 15:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Saturday 23 Brandon Market Hill 11:00 – 12:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Saturday 23 Newmarket Square Car Park 14:00 – 15:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sunday 24 Ipswich Cornhill 11:00 – 12:00, 14:00 – 15:00'
+  -
     type: heading
     attrs:
       level: 3
@@ -87,6 +156,7 @@ cta: |-
 
   Or call 01473211498
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655976180
+updated_at: 1655976968
+featured_image: slumped-down-in-stilts.JPG
 ---
 Eastern Angles take free theatre to the streets of Suffolk this Summer!
