@@ -71,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage is situated in Christchurch Park, near the War Memorial, Fonnereau Road entrance'
+        text: 'The Martin Burley Peppery Stage is situated Just north of the Round Pond, near Christchurch Mansion.'
   -
     type: paragraph
     content:
@@ -128,6 +128,6 @@ content_area:
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655996225
+updated_at: 1655997139
 ---
 A full line-up of fantastic world music as part of the Global Rhythm and Ipswich Jazz Festival.
