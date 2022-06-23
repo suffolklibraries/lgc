@@ -2,16 +2,16 @@
 id: 7f79a570-0f5b-48bd-a5d1-b6c73a1e88f4
 published: false
 blueprint: events
-title: 'Ipswich Jazz Festival Stage (Duplicated)'
+title: 'Ipswich Jazz and Blues Club Stage'
 event_categories:
   - community
   - festival
   - music
 organisers:
   - global-rhythms
-featured_image: Screenshot-2022-06-23-at-14.38.57.png
+featured_image: Screenshot-2022-06-23-at-15.47.08.png
 start_date: '2022-07-02 13:00'
-end_date: '2022-07-02 18:00'
+end_date: '2022-07-02 19:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage has a full line-up of amazing talent including a Mercury nominated, British jazz super-group, Dinosaur, playing the compositions of multi-award winning composer Laura Jurd. Andrea Vicari’s Jazz Ambassadors will be bringing a celebration of women in jazz with music from an all-female group featuring some of the outstanding players on the UK jazz scene. '
+        text: 'The Ipswich Jazz and Blues Stage is being hosted by Stephen Foster and will be featuring local talent alongside amazing groups from further afield. American, fold, roots, spoken-word. Social commentary and more, will bring the flavour of the stage.'
   -
     type: paragraph
     content:
@@ -57,7 +57,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be a programme of events running from 13:00 – 18:00 focusing on the exciting world of jazz music'
+        text: 'There will be a programme of events running from 13:00 – 19:00 focusing on some great local music.'
   -
     type: heading
     attrs:
@@ -71,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage is situated in Christchurch Park, near the War Memorial, Fonnereau Road entrance'
+        text: 'The Ipswich Jazz and Blues Club Stage is situated halfway up the park, near the children’s play area'
   -
     type: paragraph
     content:
@@ -128,6 +128,6 @@ content_area:
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655995590
+updated_at: 1655995966
 ---
-A full line-up of amazing talent in jazz as part of the Global Rhythm and Ipswich Jazz Festival.
+A full line-up of fantastic local jazz and blues music as part of the Global Rhythm and Ipswich Jazz Festival.
