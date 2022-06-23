@@ -1,6 +1,5 @@
 ---
 id: de56aa90-7da9-47c4-aafb-aea4d3a51e36
-published: false
 blueprint: events
 title: Flags
 event_categories:
@@ -44,12 +43,6 @@ content_area:
     content:
       -
         type: text
-        text: 'Indoor venue'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: "Open: Thursday, Friday, Saturday (12:00 – 17:00) and by appointment at all other times. For further information contact\_"
       -
         type: text
@@ -66,7 +59,9 @@ content_area:
         type: text
         text: 'or call 07927770421'
   -
-    type: paragraph
+    type: heading
+    attrs:
+      level: 3
     content:
       -
         type: text
@@ -92,6 +87,7 @@ content_area:
               title: null
         text: 'Greater Anglia'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655979554
+updated_at: 1655990814
+cta: 'For more information visit [https://theartstation.uk/whats-on/ ](https://theartstation.uk/whats-on/)'
 ---
 An exhibition launch by The Art Station
