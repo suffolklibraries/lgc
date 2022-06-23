@@ -2,16 +2,16 @@
 id: 09284932-120e-447b-a01a-1405ce8d0d2b
 published: false
 blueprint: events
-title: 'Ipswich Jazz Festival Stage (Duplicated)'
+title: 'Missile Sound Caribbean Stage'
 event_categories:
   - community
   - festival
   - music
 organisers:
   - global-rhythms
-featured_image: Screenshot-2022-06-23-at-14.38.57.png
+featured_image: Screenshot-2022-06-23-at-16.03.39.png
 start_date: '2022-07-02 13:00'
-end_date: '2022-07-02 18:00'
+end_date: '2022-07-02 18:30'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage has a full line-up of amazing talent including a Mercury nominated, British jazz super-group, Dinosaur, playing the compositions of multi-award winning composer Laura Jurd. Andrea Vicari’s Jazz Ambassadors will be bringing a celebration of women in jazz with music from an all-female group featuring some of the outstanding players on the UK jazz scene. '
+        text: 'The Missile Sound Caribbean Stage will be hosted by Bubble, an international radio presenter with over 20 years of experience and hundreds of events under her belt. Bubble is committed to ensuring that her audiences are educated as well as being entertained. Acts on the Missile and Sound Caribbean stage will include Confidence, a strong and fierce female dance troup, Dj Simz and his brother, One-Seven and three-time award nominated singer DeeVine among others. '
   -
     type: paragraph
     content:
@@ -57,7 +57,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be a programme of events running from 13:00 – 18:00 focusing on the exciting world of jazz music'
+        text: 'There will be a programme of events running from 13:00 – 18:30 hosted by international radio presenter - Bubble.'
   -
     type: heading
     attrs:
@@ -71,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage is situated in Christchurch Park, near the War Memorial, Fonnereau Road entrance'
+        text: 'The Missile Sound Caribbean Stage is situated in the bowl, north of the park near the Arboretum entrance.'
   -
     type: paragraph
     content:
@@ -128,6 +128,6 @@ content_area:
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655995590
+updated_at: 1655996758
 ---
-A full line-up of amazing talent in jazz as part of the Global Rhythm and Ipswich Jazz Festival.
+A full line-up of fantastic music hosted by international radio presenter - Bubble,  as part of the Global Rhythm and Ipswich Jazz Festival.
