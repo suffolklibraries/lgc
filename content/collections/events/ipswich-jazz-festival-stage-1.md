@@ -1,5 +1,6 @@
 ---
 id: 09284932-120e-447b-a01a-1405ce8d0d2b
+published: false
 blueprint: events
 title: 'Ipswich Jazz Festival Stage (Duplicated)'
 event_categories:
