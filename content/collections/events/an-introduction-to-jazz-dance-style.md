@@ -1,6 +1,5 @@
 ---
 id: e4f78914-165b-43ad-99cf-bf45dda335f1
-published: false
 blueprint: events
 title: 'An introduction to jazz dance style'
 event_categories:
@@ -79,6 +78,6 @@ cta: |-
 
   Or call 01502589726
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655819349
+updated_at: 1655984989
 ---
 Discover jazz dance techniques and learn from a professional dancer.
