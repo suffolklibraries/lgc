@@ -2,16 +2,18 @@
 id: d8fcce12-e0b2-406f-a782-fa8c7c558ba3
 published: false
 blueprint: events
-title: 'Ipswich Jazz Festival Stage (Duplicated)'
+title: 'Global Rhythm Workshops'
 event_categories:
   - community
   - festival
   - music
+  - family-friendly
+  - workshop
 organisers:
   - global-rhythms
-featured_image: Screenshot-2022-06-23-at-14.38.57.png
+featured_image: Screenshot-2022-06-23-at-16.08.16.png
 start_date: '2022-07-02 13:00'
-end_date: '2022-07-02 18:00'
+end_date: '2022-07-02 19:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -34,13 +36,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage has a full line-up of amazing talent including a Mercury nominated, British jazz super-group, Dinosaur, playing the compositions of multi-award winning composer Laura Jurd. Andrea Vicari’s Jazz Ambassadors will be bringing a celebration of women in jazz with music from an all-female group featuring some of the outstanding players on the UK jazz scene. '
+        text: 'The Global Rhythm Workshops offer a chance for everyone to have a go at new and exciting ways to move and create sound. Abass Dodoo will run a workshop using Boomwackers where participants will be taught how to play them with this master percussionist. Circle dancing will be taught by Stefan, there will be carnival workshops with the Isatu Randle Brazilian Samba group and there will be Chinese drumming with the Chinese Cultural Exchange workshop among many other activities to take part in. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Take a look at the line up for the full schedule of events, '
+        text: 'Take a look at the full schedule of events, '
       -
         type: text
         marks:
@@ -57,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be a programme of events running from 13:00 – 18:00 focusing on the exciting world of jazz music'
+        text: 'There will be a programme of events running from 13:00 – 19:00 with plenty of fun activities to try.'
   -
     type: heading
     attrs:
@@ -71,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage is situated in Christchurch Park, near the War Memorial, Fonnereau Road entrance'
+        text: 'The Indian Marquee is situated Indian Marquee on the lawn in front of Christchurch Mansion'
   -
     type: paragraph
     content:
@@ -128,6 +130,6 @@ content_area:
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655995590
+updated_at: 1655997066
 ---
-A full line-up of amazing talent in jazz as part of the Global Rhythm and Ipswich Jazz Festival.
+Have a go at new and exciting ways to move and to create sound as part of the Global Rhythm and Ipswich Jazz Festival.
