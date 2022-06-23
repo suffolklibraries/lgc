@@ -1,6 +1,5 @@
 ---
 id: 8d801472-a9ce-42b4-ba15-db8edb133b11
-published: false
 blueprint: events
 title: 'DanceEast Youth Takeover'
 event_categories:
@@ -83,6 +82,6 @@ cta: |-
   For more information visit 
   [https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/ ](https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655824514
+updated_at: 1655985414
 ---
 Youth Takover with creative arts, crafts, workshops, exhibitions and performances and more!
