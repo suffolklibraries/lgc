@@ -1,6 +1,5 @@
 ---
 id: fa68cba0-53b9-47af-a921-ff61757a1a6d
-published: false
 blueprint: events
 title: 'Streets Alive!'
 event_categories:
@@ -156,7 +155,7 @@ cta: |-
 
   Or call 01473211498
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655976968
+updated_at: 1655985659
 featured_image: slumped-down-in-stilts.JPG
 ---
 Eastern Angles take free theatre to the streets of Suffolk this Summer!
