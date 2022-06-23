@@ -2,16 +2,16 @@
 id: 22452f58-92ab-472d-a092-ae709a0142ff
 published: false
 blueprint: events
-title: 'Ipswich Jazz Festival Stage (Duplicated)'
+title: 'Global Village Stage'
 event_categories:
   - community
   - festival
   - music
 organisers:
   - global-rhythms
-featured_image: Screenshot-2022-06-23-at-14.38.57.png
+featured_image: Screenshot-2022-06-23-at-15.58.26.png
 start_date: '2022-07-02 13:00'
-end_date: '2022-07-02 18:00'
+end_date: '2022-07-02 19:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich Jazz Festival Stage has a full line-up of amazing talent including a Mercury nominated, British jazz super-group, Dinosaur, playing the compositions of multi-award winning composer Laura Jurd. Andrea Vicari’s Jazz Ambassadors will be bringing a celebration of women in jazz with music from an all-female group featuring some of the outstanding players on the UK jazz scene. '
+        text: 'The Global Village Stage will be hosting a fantastic line-up of local talent from the Ipswich Reggae Choir to Khushi, a young emerging artist in Ipswich who performs a fusion of western and traditional Indian dance forms. The Roma Youth Choir will showcase a celebration of culture and community in the Roma tradition with faith based music that encourages young people to nurture their heritage and musical tradition.'
   -
     type: paragraph
     content:
@@ -57,7 +57,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be a programme of events running from 13:00 – 18:00 focusing on the exciting world of jazz music'
+        text: 'There will be a programme of events running from 13:00 – 18:30 focusing on the exciting world music from local artists.'
   -
     type: heading
     attrs:
@@ -128,6 +128,6 @@ content_area:
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655995590
+updated_at: 1655996502
 ---
-A full line-up of amazing talent in jazz as part of the Global Rhythm and Ipswich Jazz Festival.
+A full line-up of fantastic world music from local artists as part of the Global Rhythm and Ipswich Jazz Festival.
