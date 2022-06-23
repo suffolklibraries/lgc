@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - the-hold
 featured_image: offthepressimages/new_resized_images/Theatre.png
-start_date: '2022-06-30 19:00'
-end_date: '2022-06-30 22:00'
+start_date: '2022-11-24 19:00'
+end_date: '2022-11-24 22:00'
 free: false
 cost_details: £5
 virtual: false
@@ -40,12 +40,12 @@ content_area:
     content:
       -
         type: text
-        text: 'Ticket includes welcome drink on arrivals.'
+        text: 'Ticket includes a welcome drink on arrivals.'
       -
         type: hard_break
       -
         type: text
-        text: 'Individuals, couple, groups all welcome.'
+        text: 'Individuals, couples, groups all welcome.'
       -
         type: hard_break
       -
@@ -110,7 +110,8 @@ cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653310192
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655982543
+accessibility_information: '-Wheelchair accessible'
 ---
 Put your super sleuthing skills to the test as a murder is announced at The Hold.
