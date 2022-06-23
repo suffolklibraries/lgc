@@ -1,5 +1,6 @@
 ---
 id: ba59c405-2ffb-4968-aa1f-377e89b5da38
+published: false
 blueprint: events
 title: 'More Than Mum Workshops (Duplicated)'
 event_categories:
