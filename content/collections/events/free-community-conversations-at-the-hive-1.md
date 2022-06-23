@@ -1,11 +1,10 @@
 ---
 id: f3dce648-0b82-41df-ad58-24db324e2f11
-published: false
 blueprint: events
-title: 'Free Community Conversations at The Hive (Duplicated)'
+title: 'Community Conversations at The Hive'
 featured_image: Screenshot-2022-05-23-113050-new-new.png
-start_date: '2022-05-25 10:00'
-end_date: '2022-05-25 13:00'
+start_date: '2022-06-29 10:00'
+end_date: '2022-06-29 13:00'
 free: true
 virtual: false
 latitude: '52.06104109088131'
@@ -28,7 +27,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Free weekly drop in, chat and connect with your community. Find out new things in your neighbourhood and town.'
+        text: 'Every Wednesday, The Hive hosts a drop-in and chat social session where you can meet new people and learn what’s happening in the local area. So come along, have a tea or coffee and get to know your community.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Hive Ipswich CIC is a new grassroots-based organisation developing a multi-functional creative space in the heart of Ipswich with a leading focus on supporting the diverse community which is predominantly in and around Norwich Road.'
   -
     type: heading
     attrs:
@@ -48,13 +53,13 @@ content_area:
     content:
       -
         type: text
-        text: 'There is carparking that is between a three to five minute walk from the venue.'
+        text: 'The nearest Car Park is South Street Carpark, IP1 3NU'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are bus routes that are a three to four minute walk from the venue.'
+        text: 'The venue is on Norwich Road, one of the main roads into Ipswich, on which there are multiple bus stops.'
   -
     type: heading
     attrs:
@@ -75,7 +80,12 @@ cta: |-
   [Cad@usethehive.org.uk](mailto:Cad@usethehive.org.uk)
 
   [07494 219836](tel:07494219836)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653302726
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655983731
+event_categories:
+  - community
+organisers:
+  - the-hive
+attendance_information: 'All welcome'
 ---
 Come and meet the people of your community in weekly drop in sessions at The Hive.
