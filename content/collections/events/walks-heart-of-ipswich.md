@@ -1,6 +1,5 @@
 ---
 id: d0ffcd98-6acc-4f74-9013-0ce018c16fcc
-published: false
 blueprint: events
 title: 'Walks: Heart Of Ipswich'
 event_categories:
@@ -123,7 +122,7 @@ cta: |-
   This event is run by The Ipswich Tourist Guide Association, for more information please get in touch via:
 
   [https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654593032
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1655982073
 ---
-Take a walk towards the town centre to see some of the Ipswich's most interesting buildings, hear about the colourful characters and dramatic events which have shaped our heritage.
+Take a walk towards the town centre to see some of Ipswich's most interesting buildings, hear about the colourful characters and dramatic events which have shaped Ipswich's heritage.
