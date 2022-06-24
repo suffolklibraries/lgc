@@ -9,7 +9,7 @@ event_categories:
   - primary-school-age
 organisers:
   - out-loud-music
-featured_image: offthepressimages/Music_clear.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 start_date: '2022-06-25 11:00'
 end_date: '2022-06-25 12:30'
 free: true
@@ -72,7 +72,7 @@ cta: |-
   Book via [https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form ](https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form)
 
   or e-mail [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655827334
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656061126
 ---
 South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people.
