@@ -1,6 +1,5 @@
 ---
 id: 22452f58-92ab-472d-a092-ae709a0142ff
-published: false
 blueprint: events
 title: 'Global Village Stage'
 event_categories:
@@ -127,7 +126,7 @@ content_area:
               title: null
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655997108
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656319475
 ---
 A full line-up of fantastic world music from local artists as part of the Global Rhythm and Ipswich Jazz Festival.
