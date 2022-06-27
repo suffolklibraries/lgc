@@ -1,6 +1,5 @@
 ---
 id: 4e072a8a-7821-4904-92b1-53db8b8b0523
-published: false
 blueprint: events
 title: 'The Martin Burley Peppery Stage'
 event_categories:
@@ -127,7 +126,7 @@ content_area:
               title: null
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655997139
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656319438
 ---
 A full line-up of fantastic world music as part of the Global Rhythm and Ipswich Jazz Festival.
