@@ -1,6 +1,5 @@
 ---
 id: 09284932-120e-447b-a01a-1405ce8d0d2b
-published: false
 blueprint: events
 title: 'Missile Sound Caribbean Stage'
 event_categories:
@@ -127,7 +126,7 @@ content_area:
               title: null
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655996758
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656319545
 ---
 A full line-up of fantastic music hosted by international radio presenter - Bubble,  as part of the Global Rhythm and Ipswich Jazz Festival.
