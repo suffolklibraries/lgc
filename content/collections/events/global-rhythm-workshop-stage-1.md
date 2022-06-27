@@ -1,6 +1,5 @@
 ---
 id: d8fcce12-e0b2-406f-a782-fa8c7c558ba3
-published: false
 blueprint: events
 title: 'Global Rhythm Workshops'
 event_categories:
@@ -129,7 +128,7 @@ content_area:
               title: null
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655997066
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656319579
 ---
 Have a go at new and exciting ways to move and to create sound as part of the Global Rhythm and Ipswich Jazz Festival.
