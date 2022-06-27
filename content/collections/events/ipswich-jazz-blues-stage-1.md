@@ -1,6 +1,5 @@
 ---
 id: 7f79a570-0f5b-48bd-a5d1-b6c73a1e88f4
-published: false
 blueprint: events
 title: 'Ipswich Jazz and Blues Club Stage'
 event_categories:
@@ -127,7 +126,7 @@ content_area:
               title: null
         text: 'Ipswich Buses'
 cta: 'For more information about the Global Rhythm and Ipswich Jazz Festival visit [https://ipswichjazzfestival.org.uk/global/ ](https://ipswichjazzfestival.org.uk/global/)'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655995966
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656319262
 ---
 A full line-up of fantastic local jazz and blues music as part of the Global Rhythm and Ipswich Jazz Festival.
