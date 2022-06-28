@@ -1,7 +1,7 @@
 ---
 id: 63a9ab20-b903-414f-b9d2-1ffbba8d04be
 blueprint: events
-title: 'Little Objects and Stories'
+title: 'Objects and Stories'
 event_categories:
   - art
   - community
@@ -95,7 +95,7 @@ content_area:
         type: text
         text: 'The nearest bus stop is, New Astley Club Bus Stop, 3 minutes walk away'
 cta: 'For more information, visit [https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/ ](https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/)'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1656426266
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656427064
 ---
 An exhibition of objects with stories belonging to Newmarket residents, by artist Michelle Brace
