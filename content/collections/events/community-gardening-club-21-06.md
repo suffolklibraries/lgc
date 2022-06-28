@@ -6,7 +6,7 @@ start_date: '2022-06-21 10:00'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655373211
+updated_at: 1656432831
 event_categories:
   - art
   - nature
@@ -144,6 +144,16 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: image
+        attrs:
+          src: 'asset::assets::cropped-Pride-Logo-for-Circles-1536x1438.png'
+          alt: null
+  -
+    type: paragraph
   -
     type: paragraph
 cta: |-
