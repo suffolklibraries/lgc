@@ -1,6 +1,5 @@
 ---
 id: cee93f95-b9a9-4144-b230-8927ad563dd0
-published: false
 blueprint: events
 title: 'The Suffolk Holiday Activity Programme'
 event_categories:
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Summer Holiday activities at the National Horse Racing Museum, have been designed to allow children to learn more about horseracing and the history of the noble sport; to find out more about some of the science behind the breeding of thoroughbred racehorses, and the importance of physical activity. There will also be games and lots of activities to keep younger minds engaged.'
+        text: 'The Summer Holiday activities at the National Horse Racing Museum have been designed to allow children to learn more about horseracing and the history of the noble sport; to find out more about some of the science behind the breeding of thoroughbred racehorses, and the importance of physical activity. There will also be games and lots of activities to keep younger minds engaged.'
   -
     type: paragraph
     content:
@@ -188,13 +187,13 @@ content_area:
               title: null
         text: here
 cta: |-
-  To book your place, please complete the booking form found here [https://www.nhrm.co.uk/event/the-holiday-activity-food-fund-programme/ ](https://www.nhrm.co.uk/event/the-holiday-activity-food-fund-programme/)
+  To book your place, please complete the booking form found here [www.nhrm.co.uk/event/the-holiday-activity-food-fund-programme/ ](https://www.nhrm.co.uk/event/the-holiday-activity-food-fund-programme/)
 
-  Email your completed form to [events@nhrm.co.uk](events@nhrm.co.uk ) 
+  Email your completed form to [events@nhrm.co.uk](mailto:events@nhrm.co.uk ) 
 
-  For more information call 01638667314
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1656595091
+  For more information call [01638667314](tel:01638667314)
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656602491
 featured_image: HAF-Banner-1440x700-1-700x340.jpg
 accessibility_information: |-
   -Wheelchair accessible
