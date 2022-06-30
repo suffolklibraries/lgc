@@ -1,6 +1,5 @@
 ---
 id: cee93f95-b9a9-4144-b230-8927ad563dd0
-published: false
 blueprint: events
 title: 'The Suffolk Holiday Activity Programme'
 event_categories:
@@ -190,11 +189,11 @@ content_area:
 cta: |-
   To book your place, please complete the booking form found here [https://www.nhrm.co.uk/event/the-holiday-activity-food-fund-programme/ ](https://www.nhrm.co.uk/event/the-holiday-activity-food-fund-programme/)
 
-  Email your completed form to [events@nhrm.co.uk](events@nhrm.co.uk)
+  Email your completed form to [events@nhrm.co.uk](events@nhrm.co.uk ) 
 
   For more information call 01638667314
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1656594972
+updated_at: 1656595091
 featured_image: HAF-Banner-1440x700-1-700x340.jpg
 accessibility_information: |-
   -Wheelchair accessible
