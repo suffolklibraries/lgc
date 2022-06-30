@@ -1,15 +1,14 @@
 ---
 id: c238c58c-da3c-4c0c-83d1-2a76716a986a
-published: false
 blueprint: events
-title: 'More Than Mum Workshops (Duplicated) (2)'
+title: 'More Than Mum Workshops'
 event_categories:
   - workshop
 organisers:
   - future-female-society
 featured_image: offthepressimages/otpillustrations/CRAFTS.png
-start_date: '2022-06-22 12:00'
-end_date: '2022-06-22 14:30'
+start_date: '2022-07-06 12:00'
+end_date: '2022-07-06 14:30'
 free: true
 virtual: false
 latitude: '52.05306302740833'
@@ -116,8 +115,8 @@ cta: |-
   This event is run by the Future Female Society, for more information please get in touch via:
 
   [https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654614715
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1656585791
 attendance_information: '- For mums'
 ---
 Join Future Female Society for a series of workshops to help mums feel a bit more like themselves again.
