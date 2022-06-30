@@ -1,5 +1,6 @@
 ---
 id: e732a72f-f95a-41af-bb53-93e05e68beef
+published: false
 blueprint: events
 title: 'Art at the Archives (Duplicated)'
 event_categories:
