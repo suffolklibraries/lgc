@@ -1,14 +1,13 @@
 ---
 id: 171eb4b9-c69d-455c-9554-949516558a16
-published: false
 blueprint: events
-title: 'Hadleigh Movers (Duplicated)'
+title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1656432461
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1656599938
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
-start_date: '2022-06-28 11:00'
+start_date: '2022-07-05 11:00'
 event_categories:
   - later-life
   - movement
@@ -141,6 +140,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £5.50
-end_date: '2022-06-28 12:30'
+end_date: '2022-07-05 12:30'
 ---
 A weekly dance class for everyone over 55. Hadleigh Movers classes are designed to benefit you both mentally and physically.
