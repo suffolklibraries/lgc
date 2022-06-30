@@ -1,5 +1,6 @@
 ---
 id: a77cac2d-8c2a-4381-bcdc-7249ff3954ba
+published: false
 blueprint: events
 title: 'Community Gardening Club (Duplicated)'
 start_date: '2022-06-28 10:00'
