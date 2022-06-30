@@ -1,5 +1,6 @@
 ---
 id: cee93f95-b9a9-4144-b230-8927ad563dd0
+published: false
 blueprint: events
 title: 'The Suffolk Holiday Activity Programme'
 event_categories:
@@ -193,7 +194,7 @@ cta: |-
 
   For more information call 01638667314
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1656594639
+updated_at: 1656594972
 featured_image: HAF-Banner-1440x700-1-700x340.jpg
 accessibility_information: |-
   -Wheelchair accessible
