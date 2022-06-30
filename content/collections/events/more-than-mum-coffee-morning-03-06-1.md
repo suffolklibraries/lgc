@@ -1,15 +1,14 @@
 ---
 id: 9ef37799-94be-4ec5-8d3b-732971ad8014
-published: false
 blueprint: events
-title: 'More Than Mum Coffee Morning! (Duplicated)'
+title: 'More Than Mum Coffee Morning!'
 event_categories:
   - food
 organisers:
   - future-female-society
 featured_image: miscellaneous/image_2022-04-11_151825497.png
-start_date: '2022-06-03 10:00'
-end_date: '2022-06-03 12:00'
+start_date: '2022-07-01 10:00'
+end_date: '2022-07-01 12:00'
 free: true
 virtual: false
 latitude: '52.05059482822547'
@@ -83,8 +82,8 @@ cta: |-
   This event is run by the future female Society, For more information please get in touch via:
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1653296739
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1656584729
 attendance_information: Mums!
 ---
 Come and join for the new More Than Mums Coffee Mornings in Ipswich!
