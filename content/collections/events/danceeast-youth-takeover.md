@@ -45,7 +45,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The exciting line-up for the day includes; creative arts and crafts workshops, exhibitions, drag runway, pop-up performances, glitter station, DJ, breakdancing and vogueing workshops, music/art/movement jam, chill out zone and a chance to explore the green screen studio.'
+        text: 'The exciting line-up for the day includes; creative arts and crafts workshops, exhibitions, drag runway, pop-up performances, glitter station, DJ, breakdancing and soca dance workshops, music/art/movement jam, chill out zone and a chance to explore the green screen studio.'
   -
     type: paragraph
     content:
@@ -81,7 +81,7 @@ content_area:
 cta: |-
   For more information visit 
   [https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/ ](https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/)
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655985414
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1656671144
 ---
 Youth Takover with creative arts, crafts, workshops, exhibitions and performances and more!
