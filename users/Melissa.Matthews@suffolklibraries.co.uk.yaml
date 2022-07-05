@@ -2,3 +2,7 @@ name: 'Melissa Matthews'
 super: true
 id: 87f603de-9e7e-4063-9310-cad1dde625ef
 password_hash: $2y$10$XW4t/Iryf89/PwiS0fCXoO5cSX6rWuxwl4YFoprIug8uWH6LuUFKm
+preferences:
+  collections:
+    events:
+      per_page: 500
