@@ -1,5 +1,6 @@
 ---
 id: b7529f28-c752-4054-a2ff-ea98e3285fce
+published: false
 blueprint: events
 title: 'Walks: Waterfront West (Duplicated)'
 event_categories:
