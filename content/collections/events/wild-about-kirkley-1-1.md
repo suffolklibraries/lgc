@@ -74,7 +74,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Tuesday 26 July 13:30 – 15:00 at Kirkley Pantry'
+                text: 'Tuesday 26 July 13:30 – 15:30 at Kirkley Pantry'
   -
     type: paragraph
     content:
@@ -140,6 +140,6 @@ cta: |-
 
   tel [07704 068327](tel:07704068327)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657024253
+updated_at: 1657024336
 ---
 Get Creative Workshops!
