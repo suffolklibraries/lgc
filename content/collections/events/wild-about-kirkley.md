@@ -1,6 +1,5 @@
 ---
 id: 3232b58b-57c7-409d-a19f-ecb12eefe6ff
-published: false
 blueprint: events
 title: 'Wild About Kirkley'
 event_categories:
@@ -139,8 +138,8 @@ cta: |-
 
   email [kasia@suffolkartlink.org](mailto:kasia@suffolkartlink.org)
 
-  tel [07704 068327](tel:07704 068327)
+  tel [07704 068327](tel:07704068327)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657015561
+updated_at: 1657015672
 ---
 Get Creative Workshops!
