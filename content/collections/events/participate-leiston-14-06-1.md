@@ -2,13 +2,13 @@
 id: 330746d7-1da5-4bce-a39b-170788c1b642
 published: false
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
+title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
-start_date: '2022-06-14 14:00'
-end_date: '2022-06-14 16:00'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655196759
+start_date: '2022-07-12 14:00'
+end_date: '2022-07-12 16:00'
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1657027955
 free: true
 virtual: false
 organisers:
@@ -75,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Participate takes place 2:30pm to 4:30pm every Tuesday afternoon at The Waterloo Centre in Leiston. '
+        text: 'Participate takes place 2:00pm to 4:00pm every Tuesday afternoon at The Waterloo Centre in Leiston. '
   -
     type: paragraph
     content:
