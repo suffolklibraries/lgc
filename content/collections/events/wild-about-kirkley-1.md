@@ -1,8 +1,7 @@
 ---
 id: 004a7913-9a2e-446f-9881-8ab1ad5b1845
-published: false
 blueprint: events
-title: 'Wild About Kirkley (Duplicated)'
+title: 'Wild About Kirkley'
 event_categories:
   - art
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-art-link
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2022-07-12 13:30'
-end_date: '2022-07-12 15:00'
+start_date: '2022-07-19 13:30'
+end_date: '2022-07-19 15:00'
 free: true
 virtual: false
 attendance_information: 'Everyone welcome!'
@@ -141,6 +140,6 @@ cta: |-
 
   tel [07704 068327](tel:07704068327)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657015672
+updated_at: 1657015950
 ---
 Get Creative Workshops!
