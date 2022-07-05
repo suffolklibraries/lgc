@@ -11,7 +11,7 @@ event_categories:
 organisers:
   - suffolk-art-link
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2022-07-12 13:00'
+start_date: '2022-07-12 13:30'
 end_date: '2022-07-12 15:00'
 free: true
 virtual: false
@@ -137,10 +137,10 @@ content_area:
 cta: |-
   To book your place, contact Kasia on:
 
-  email
+  email [kasia@suffolkartlink.org](mailto:kasia@suffolkartlink.org)
 
-  tel
+  tel [07704 068327](tel:07704 068327)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657015298
+updated_at: 1657015561
 ---
 Get Creative Workshops!
