@@ -1,5 +1,6 @@
 ---
 id: 637fe35c-5c15-4ba4-93b5-63b0dd89c80b
+published: false
 blueprint: events
 title: 'Lowestoft Movers - St. Margaret''s Church (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
