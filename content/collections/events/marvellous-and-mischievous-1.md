@@ -1,9 +1,8 @@
 ---
 id: 46ef569d-d787-4a3e-9de8-e57fc5ebaf47
-published: false
 blueprint: events
-title: 'Let''s Get Crafty: Marvellous and Mischievous (Duplicated)'
-start_date: '2022-07-26 10:30'
+title: 'Let''s Get Crafty: Marvellous and Mischievous'
+start_date: '2022-07-27 10:30'
 free: false
 virtual: false
 content_area:
@@ -153,7 +152,7 @@ content_area:
         type: text
         text: '. '
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657192201
+updated_at: 1657192310
 event_categories:
   - art
   - crafts
@@ -161,7 +160,7 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-end_date: '2022-07-26 12:00'
+end_date: '2022-07-27 12:00'
 latitude: '52.05305327650036'
 longitude: '1.1635487570229357'
 address_line_1: 'The Hold'
@@ -174,7 +173,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 cost_details: £4
-attendance_information: '4-11 years'
+attendance_information: '8-13 years'
 accessibility_information: '-Wheelchair accessible'
 ---
 Crafts and activties inspired by The Lion, The Witch and The Wardrobe and the exhibition Marvellous and Mischievous.
