@@ -209,8 +209,8 @@ content_area:
         text: 'There are limited car parking spaces at the venue, including one dedicated wheelchair accessible space. Other car parks nearby include South Street Car Park and St Matthews Street Car Park. The nearest bus stop is the Riverside Road Bus Stop.'
   -
     type: paragraph
-cta: 'For full booking details please visit the Eastern Angles website [https://easternangles.co.uk/news/holiday-club-2022 ](mailto:https://easternangles.co.uk/news/holiday-club-2022)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657205333
+updated_at: 1657205458
+booking_link: 'https://easternangles.co.uk/news/holiday-club-2022'
 ---
 A three-week programme of activities for young people, with Eastern Angles
