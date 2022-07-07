@@ -163,7 +163,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For full details of each theme, visit '
+        text: 'For more information on each theme and for all booking details, visit '
       -
         type: text
         marks:
@@ -210,7 +210,7 @@ content_area:
   -
     type: paragraph
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657205458
+updated_at: 1657205629
 booking_link: 'https://easternangles.co.uk/news/holiday-club-2022'
 ---
 A three-week programme of activities for young people, with Eastern Angles
