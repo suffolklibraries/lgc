@@ -1,6 +1,5 @@
 ---
 id: 0f1778b7-104f-4a44-916e-b472be68ed2a
-published: false
 blueprint: events
 title: 'Let''s Get Crafty: Marvellous and Mischievous'
 start_date: '2022-07-26 10:30'
@@ -20,7 +19,42 @@ content_area:
     content:
       -
         type: text
-        text: "Join them for a range of family crafts and activities inspired by 'The Lion, the Witch and the Wardrobe' and our exhibition 'Marvellous and Mischievous'.\_"
+        text: "Join in with a range of family crafts and activities inspired by 'The Lion, the Witch and the Wardrobe' and the exhibition 'Marvellous and Mischievous'.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are two sessions on the day:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '10:30 - 12:00'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '14:00 - 15:30'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You can also save time and money by pre-booking children’s lunch boxes in advance. Sandwich lunch box add-ons can be ordered when booking your children’s event place. Visit the website for full details, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkarchives.co.uk/whats-on/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Archives'
   -
     type: heading
     attrs:
@@ -34,19 +68,61 @@ content_area:
     content:
       -
         type: text
-        text: 'Let''s Get Crafty - Marvellous and Mischievous meets at the The Hold, Ipswich,IP4 1LN.'
+        text: 'Ipswich is serviced by two bus services and a train station. Please click on the below for timetables'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are bus routes between five and ten minute walk from the venue.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswichbuses.co.uk/timetables/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Ipswich Buses'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The building has ramps and double automatic doors for those with accessibilities needs.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.firstbus.co.uk'
+              rel: null
+              target: _blank
+              title: null
+        text: 'First Buses'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/?gclid=CjwKCAjwiJqWBhBdEiwAtESPaCOQqKQkv7EDiwAjVygNkf9laAWMHomf-8DRWkq8ZlGn_ayQsurvqxoCMS0QAvD_BwE'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Greater Anglia'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car parks are located on Fore Street and by the University of Suffolk.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Hold has ramps and double automatic doors for those with accessibilities needs.'
   -
     type: heading
     attrs:
@@ -75,8 +151,8 @@ content_area:
       -
         type: text
         text: '. '
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651585201
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1657192201
 event_categories:
   - art
   - crafts
@@ -97,5 +173,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 cost_details: £4
+attendance_information: '4-11 years'
+accessibility_information: '-Wheelchair accessible'
 ---
-Arts and crafts sessions bassed around The Lion, The Witch and The Wardrobe and the exhibition Marvellous and Mischievous.
+Crafts and activties inspired by The Lion, The Witch and The Wardrobe and the exhibition Marvellous and Mischievous.
