@@ -1,6 +1,5 @@
 ---
 id: 3a0c5810-9569-4323-80d4-a0a0d31d464d
-published: false
 blueprint: events
 title: 'Dancing in the Parks'
 event_categories:
@@ -73,7 +72,7 @@ cta: |-
   For more information visit 
   [https://www.danceeast.co.uk/workshops/dancing-in-the-parks/](https://www.danceeast.co.uk/workshops/dancing-in-the-parks/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1657552070
+updated_at: 1657552379
 accessibility_information: 'Outdoor Venue'
 ---
 Dancing in the Parks is back for 2022 with workshops and performances for you to enjoy.
