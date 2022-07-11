@@ -1,7 +1,8 @@
 ---
 id: 87b84de6-5a7d-485d-b473-bd09aa6caed0
+published: false
 blueprint: events
-title: 'Dancing in the Parks (Duplicated)'
+title: 'Dancing in the Parks'
 event_categories:
   - activity
   - dance
@@ -13,9 +14,9 @@ event_categories:
   - early-years
 organisers:
   - danceeast
-featured_image: TIME-MACHINE-DISCO-JMA-PHOTOGRAPHY-17-copy.jpg
-start_date: '2022-08-05 11:00'
-end_date: '2022-08-05 16:00'
+featured_image: _CQ18873-1657552173.jpg
+start_date: '2022-08-13 11:00'
+end_date: '2022-08-13 16:00'
 free: true
 virtual: false
 attendance_information: 'Family Friendly'
@@ -45,13 +46,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Glass House Dance join us at Chantry Park on Friday 5 August.'
+        text: 'Kickstart Company will be joining us at Chantry Park on Saturday 13 August.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Two time-travelling-rockin’-renegades, The Sister of Stylus, have crash landed in your city and need your help! Their time machine is powered by a new, renewable, sustainable bio-energy source; DANCE. They are on the hunt for all foot-tappers, dad dancers, disco divas, jumping jivers, old school ravers and shake-your-money-makers to thrust, power and pulse them back to the future! Glass House Dance was set up by Sarah Lewis and Laura McGill to take contemporary dance into the heart of the community. They have made their mark on the outdoor arts scene, touring nationally for 8 years'
+        text: '‘I live on borrowed time, therefore I see no reason why my heart grows not dark.’'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Unfamiliar Winds sees two humans embark on a similar, supported journey. Inspired by the oddities in nature and poetry by Derek Jarman, this duet searches for acceptance and the right to be silly in the world around us. Exploring interactions between humans and their greater landscape, through the joys of movement, sculpture and song. The performance invites you to listen, sing and dance in a world where depth and humour are combined, and where the middle of the tornado never looked more inviting.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Everywhere it blows you’ll not want to miss it.'
   -
     type: heading
     attrs:
@@ -72,7 +85,7 @@ cta: |-
   For more information visit 
   [https://www.danceeast.co.uk/workshops/dancing-in-the-parks/](https://www.danceeast.co.uk/workshops/dancing-in-the-parks/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1657552070
+updated_at: 1657552189
 accessibility_information: 'Outdoor Venue'
 ---
 Dancing in the Parks is back for 2022 with workshops and performances for you to enjoy.
