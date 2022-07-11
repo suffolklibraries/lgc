@@ -1,7 +1,8 @@
 ---
 id: 3a0c5810-9569-4323-80d4-a0a0d31d464d
+published: false
 blueprint: events
-title: 'Dancing in the Parks (Duplicated)'
+title: 'Dancing in the Parks'
 event_categories:
   - activity
   - dance
@@ -14,17 +15,17 @@ event_categories:
 organisers:
   - danceeast
 featured_image: TIME-MACHINE-DISCO-JMA-PHOTOGRAPHY-17-copy.jpg
-start_date: '2022-07-29 11:00'
-end_date: '2022-07-29 16:00'
+start_date: '2022-08-05 11:00'
+end_date: '2022-08-05 16:00'
 free: true
 virtual: false
 attendance_information: 'Family Friendly'
-latitude: '52.06404158105996'
-longitude: '1.1568502137240118'
-address_line_1: 'Christchurch Park'
-address_line_2: 'Bolton Lane'
+latitude: '52.05345274675101'
+longitude: '1.1203820531007385'
+address_line_1: 'Chantry Park'
+address_line_2: 'Hadleigh Road'
 town: Ipswich
-postcode: 'IP4 2BX'
+postcode: 'IP2 0BS'
 content_area:
   -
     type: heading
@@ -72,7 +73,7 @@ cta: |-
   For more information visit 
   [https://www.danceeast.co.uk/workshops/dancing-in-the-parks/](https://www.danceeast.co.uk/workshops/dancing-in-the-parks/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1657551646
+updated_at: 1657551869
 accessibility_information: 'Outdoor Venue'
 ---
 Dancing in the Parks is back for 2022 with workshops and performances for you to enjoy.
