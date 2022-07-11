@@ -14,7 +14,7 @@ event_categories:
   - early-years
 organisers:
   - danceeast
-featured_image: 9J1A0010B.jpg
+featured_image: _CQ18873-1657551695.jpg
 start_date: '2022-07-30 11:00'
 end_date: '2022-07-30 16:00'
 free: true
@@ -73,7 +73,7 @@ cta: |-
   For more information visit 
   [https://www.danceeast.co.uk/workshops/dancing-in-the-parks/](https://www.danceeast.co.uk/workshops/dancing-in-the-parks/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1657550871
+updated_at: 1657551719
 accessibility_information: 'Outdoor Venue'
 ---
 Dancing in the Parks is back for 2022 with workshops and performances for you to enjoy.
