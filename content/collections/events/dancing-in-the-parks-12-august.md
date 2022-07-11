@@ -1,7 +1,8 @@
 ---
 id: 1fd2ec82-1622-4cb1-b8d6-7fa959c05612
+published: false
 blueprint: events
-title: 'Dancing in the Parks (Duplicated)'
+title: 'Dancing in the Parks'
 event_categories:
   - activity
   - dance
@@ -13,9 +14,9 @@ event_categories:
   - early-years
 organisers:
   - danceeast
-featured_image: TIME-MACHINE-DISCO-JMA-PHOTOGRAPHY-17-copy.jpg
-start_date: '2022-07-29 11:00'
-end_date: '2022-07-29 16:00'
+featured_image: _CQ18873-1657551991.jpg
+start_date: '2022-08-12 11:00'
+end_date: '2022-08-12 16:00'
 free: true
 virtual: false
 attendance_information: 'Family Friendly'
@@ -45,13 +46,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Glass House Dance will be joining us at Christchurch Park on Friday 29 July.'
+        text: 'Old Kent Road are joining us a Christchurch Park on Friday 12 August.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Two time-travelling-rockin’-renegades, The Sister of Stylus, have crash landed in your city and need your help! Their time machine is powered by a new, renewable, sustainable bio-energy source; DANCE. They are on the hunt for all foot-tappers, dad dancers, disco divas, jumping jivers, old school ravers and shake-your-money-makers to thrust, power and pulse them back to the future! Glass House Dance was set up by Sarah Lewis and Laura McGill to take contemporary dance into the heart of the community. They have made their mark on the outdoor arts scene, touring nationally for 8 years.'
+        text: 'Old Kent Road is a passionate group of tap dancers who are raising the bar in the UK tap dance scene. Bringing their expertise to the British public and sharing the wonder of the art form, they work together to develop distinctive choreography and pay homage to history and jazz culture along the way. This edgy and high energy performance will leave you feeling fantastic! The company will take you through traditional choreography repertoire and expose new concepts within tap dance. Listen out for a range of music from Jazz by Tommy Dorsey where they will perform Harold Cromers legendary piece ‘Opus 1’ to feel good music from Jurassic 5. This set is sure to put a spring in your step.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Dancers: Avalon Rathgeb, Ryan Campbell Birch, Adele Joel'
   -
     type: heading
     attrs:
@@ -72,7 +79,7 @@ cta: |-
   For more information visit 
   [https://www.danceeast.co.uk/workshops/dancing-in-the-parks/](https://www.danceeast.co.uk/workshops/dancing-in-the-parks/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1657551646
+updated_at: 1657552009
 accessibility_information: 'Outdoor Venue'
 ---
 Dancing in the Parks is back for 2022 with workshops and performances for you to enjoy.
