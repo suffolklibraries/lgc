@@ -1,5 +1,6 @@
 ---
 id: 2bfa563e-2faf-4047-8b98-deaa45119749
+published: false
 blueprint: events
 title: 'Lowestoft Movers - Seagull Theatre (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
