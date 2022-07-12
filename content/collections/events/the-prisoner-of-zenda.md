@@ -1,6 +1,5 @@
 ---
 id: 519e8085-8459-4669-b250-7a5e854620b1
-published: false
 blueprint: events
 title: 'The Prisoner of Zenda'
 event_categories:
@@ -94,7 +93,7 @@ cta: |-
   This event is run by Quill & Inkling Theatre Company, for more information please get in touch via:
     
   [https://www.quillandinkling.com/](https://www.quillandinkling.com/)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654607445
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1657622465
 ---
 Wastrel, gadabout and man about town, Rudolf Rassendyll, decides to have one last hurrah before (shudder) taking a proper job.
