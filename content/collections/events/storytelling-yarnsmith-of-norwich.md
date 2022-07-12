@@ -1,6 +1,5 @@
 ---
 id: e6c66318-ec5c-46cc-8852-511d1d7eab39
-published: false
 blueprint: events
 title: 'Storytelling: Yarnsmith of Norwich'
 event_categories:
@@ -34,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join professional storyteller Dave Tong,\_The Yarnsmith of Norwich\_for immersive historically themed stories for all the family.\_"
+        text: "Join professional storyteller Dave Tong,\_The Yarnsmith of Norwich,\_for immersive historically themed stories for all the family.\_"
       -
         type: hard_break
       -
@@ -51,7 +50,7 @@ content_area:
         type: hard_break
       -
         type: text
-        text: 'Free Admission, advanced booking required.'
+        text: 'Free admission, advanced booking required.'
       -
         type: hard_break
       -
@@ -62,7 +61,18 @@ content_area:
     content:
       -
         type: text
-        text: 'There are multiple sessions that run through out the morning, so there are multiple of time slots to chose from.'
+        text: 'There are multiple sessions that run through out the morning, so there are multiple of time slots to chose from, for more information, click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkarchives.co.uk/whats-on/'
+              rel: null
+              target: _blank
+              title: null
+        text: here
   -
     type: heading
     attrs:
@@ -118,7 +128,8 @@ content_area:
         type: text
         text: .
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/storytelling-yarnsmith-of-norwich/2022-07-28/d-ykgqkxckovyla'
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1651586858
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1657623800
+attendance_information: 'Suitable for ages 4+'
 ---
-Famliy friendly historical themed stories. Sutible for ages 4+
+Famliy friendly historical themed storytelling.
