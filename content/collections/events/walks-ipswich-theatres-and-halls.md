@@ -1,6 +1,5 @@
 ---
 id: d094e33d-2354-488b-8dc9-eff2f1a3113c
-published: false
 blueprint: events
 title: 'Walks: Ipswich Theatres and Halls'
 event_categories:
@@ -48,7 +47,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Accessibility: All walks are designed for step free access. Assistance dogs are welcome. Other dogs cannot be accommodated.'
+        text: 'All walks are designed for step free access. Assistance dogs are welcome. Other dogs cannot be accommodated.'
       -
         type: hard_break
       -
@@ -77,7 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Walks: Ipswich Theatres and Halls meets at The Hold, 131 Fore Street, Ipswich.'
+        text: 'Walks: Ipswich Theatres and Halls meets at The Hold, 131 Fore Street, Ipswich, IP4 1LN'
   -
     type: paragraph
     content:
@@ -123,7 +122,13 @@ cta: |-
   This event is run by The Ipswich Tourist Guide Association, for more information please get in touch via:
 
   [https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-ipswich-theatres-and-halls/2022-07-26/14:00/t-gnndzr](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-ipswich-theatres-and-halls/2022-07-26/14:00/t-gnndzr)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1654596095
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1657622804
+latitude: '52.05318443328049'
+longitude: '1.1636549694270681'
+address_line_1: 'The Hold'
+address_line_2: '131 Fore Street'
+town: Ipswich
+postcode: 'IP4 1LN'
 ---
 This walk will take you from the 15th century to the present. Hear about venues and some of the characters and personalities and the entertainment enjoyed by the people. A nostalgic look back for some.
