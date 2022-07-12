@@ -12,7 +12,7 @@ organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Theatre.png
 start_date: '2022-08-01 09:30'
-end_date: '2022-08-19 14:23'
+end_date: '2022-08-19 14:25'
 free: false
 cost_details: 'Free for those eligible for free school meals'
 virtual: false
@@ -210,7 +210,7 @@ content_area:
   -
     type: paragraph
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657205629
+updated_at: 1657615016
 booking_link: 'https://easternangles.co.uk/news/holiday-club-2022'
 ---
 A three-week programme of activities for young people, with Eastern Angles
