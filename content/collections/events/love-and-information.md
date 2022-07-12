@@ -1,6 +1,5 @@
 ---
 id: 007e4ba4-7ca3-43cb-a4a9-35febf8fbd44
-published: false
 blueprint: events
 title: 'Love and Information'
 event_categories:
@@ -99,6 +98,7 @@ content_area:
         type: text
         text: 'The closest car parks to the venue are Milton Road and Ipswich Street car parks.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657614985
+updated_at: 1657615089
+booking_link: 'https://www.ticketsource.co.uk/the-erd-connection'
 ---
 A performance of 'Love and Information' a play by Caryl Churchill
