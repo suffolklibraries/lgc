@@ -1,6 +1,5 @@
 ---
 id: baecfc25-c2dc-49e0-ab61-ae2e66772b3f
-published: false
 blueprint: events
 title: 'Performance Workshops with Hocus Pocus Theatre - Performance'
 event_categories:
@@ -100,7 +99,7 @@ cta: |-
   This event is run by Hovus Pocus Theatre, for more information please get in touch via:
 
   [https://www.hocuspocustheatre.co.uk/](https://www.hocuspocustheatre.co.uk/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655214441
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1657622314
 ---
 Roll up! Roll up! Run away with a circus themed theatre project this summer culminating in a celebration performance at Fair Green in July.
