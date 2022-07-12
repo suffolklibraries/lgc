@@ -1,13 +1,12 @@
 ---
 id: daf4851c-de65-4d46-a7ed-a0bc54024ab0
-published: false
 blueprint: events
-title: 'Pitter Patter Play (Duplicated)'
+title: 'Pitter Patter Play'
 event_categories:
   - early-years
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2022-07-12 13:30'
-end_date: '2022-07-12 14:30'
+start_date: '2022-07-19 13:30'
+end_date: '2022-07-19 14:30'
 free: true
 virtual: false
 attendance_information: 'Guardians with under ones'
@@ -46,6 +45,12 @@ content_area:
         text: 'There is no need to book as the sessions are free to drop in, however, due to space it will be on a one in, one out basis.'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Pitter Patter Play runs in term-time only.'
+  -
+    type: paragraph
   -
     type: heading
     attrs:
@@ -81,6 +86,6 @@ cta: |-
 
   [https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0](https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657209096
+updated_at: 1657618145
 ---
 Sensory and messy play for under ones and a chance to meet other parents.
