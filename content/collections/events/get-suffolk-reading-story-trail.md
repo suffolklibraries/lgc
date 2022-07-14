@@ -1,7 +1,7 @@
 ---
 id: c3960c5a-b87c-4822-85f4-1557b3f61b26
 blueprint: events
-title: 'Get Suffolk Reading - Story Trail'
+title: 'Get Suffolk Reading - Story Trail, Lowestoft'
 event_categories:
   - community
   - get-suffolk-reading
@@ -66,6 +66,6 @@ content_area:
         type: text
         text: 'There is both a bus and train service that are a short distance to the starting venue. The nearest car park is Clapham Road Car Park.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657792439
+updated_at: 1657792701
 ---
 Weave your way on a storytelling trail with Get Suffolk Reading!
