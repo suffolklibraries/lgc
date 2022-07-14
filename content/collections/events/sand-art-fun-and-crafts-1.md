@@ -1,7 +1,7 @@
 ---
 id: 8e1a2687-a713-468f-ac7d-65e1b53228e2
 blueprint: events
-title: 'Sand Art, Fun and Crafts (Duplicated)'
+title: 'Sand Art, Schools Out Club'
 event_categories:
   - art
   - early-years
@@ -9,12 +9,12 @@ event_categories:
 organisers:
   - funny-farm
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2022-07-20 11:00'
-end_date: '2022-07-20 12:00'
+start_date: '2022-07-15 15:30'
+end_date: '2022-07-15 16:30'
 free: false
-cost_details: £2.50
+cost_details: £3.00
 virtual: false
-attendance_information: 'Under 5s'
+attendance_information: 3+
 latitude: '52.47919060875801'
 longitude: '1.7548187963124016'
 address_line_1: 'Funny Farm Soft Play Cafe'
@@ -35,19 +35,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Sand art, fun and crafts is a weekly session for under 5’s held every Wednesday morning. Each week there will be a different theme and amazing pictures will be made using sand.'
+        text: 'Each week, after school, there will a different craft from Sand Art to Sand Bottles, Pebble Pets / Trolls!.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This activity helps children to learn colours, as well as increase their fine motor skills and hand-eye co-ordination.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you would like to take part in soft play too, then if you book both Sand Art and Soft Play sessions together it is only £5!'
+        text: 'If you would like to take part in soft play too, then if you book both Sand Art Schools Out and Soft Play sessions together it is only £5!'
   -
     type: paragraph
     content:
@@ -75,6 +69,6 @@ content_area:
         type: text
         text: 'The nearest car park is Whapload Road Car Park.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657797982
+updated_at: 1657798343
 ---
-0-5s Sand Art Sessions
+3+ years
