@@ -1,23 +1,23 @@
 ---
 id: 4067da62-8392-477c-8e60-84e0f9c7ada2
 blueprint: events
-title: 'Get Suffolk Reading - Story Trail, Lowestoft (Duplicated)'
+title: 'Get Suffolk Reading - Story Trail, Kessingland'
 event_categories:
   - community
   - get-suffolk-reading
   - story
 featured_image: offthepressimages/new_resized_images/Literature.png
-start_date: '2022-07-22 12:00'
-end_date: '2022-07-22 14:00'
+start_date: '2022-07-23 10:30'
+end_date: '2022-07-23 12:30'
 free: true
 virtual: false
 attendance_information: Children
-latitude: '52.477018128511666'
-longitude: '1.7504124404905836'
-address_line_1: 'Lowestoft Library'
-address_line_2: 'Clapham Road South'
-town: Lowestoft
-postcode: 'NR32 1DR'
+latitude: '52.41938471255676'
+longitude: '1.7204652846668824'
+address_line_1: 'Kessingland Library'
+address_line_2: 'Marram Green, Hall Road'
+town: Kessingland
+postcode: 'NR33 7AH'
 content_area:
   -
     type: heading
@@ -46,12 +46,6 @@ content_area:
         type: text
         text: 'Collect a map from your local library and weave your way round a storytelling trail and listen to some wonderful tales. Finish your journey back at the library, and sign up for the Summer Reading Challenge and collect a free book!'
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Why not stop and see the street entertainment – Streets are Alive, in the Historic High Street (11:00 – 12:00) before hand.'
-  -
     type: heading
     attrs:
       level: 3
@@ -64,8 +58,10 @@ content_area:
     content:
       -
         type: text
-        text: 'There is both a bus and train service that are a short distance to the starting venue. The nearest car park is Clapham Road Car Park.'
+        text: 'The nearest bus stop is on Fisherman''s Way and is served by the Coastal 99 Clipper.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657792701
+updated_at: 1657793147
+organisers:
+  - national-literacy-trust
 ---
 Weave your way on a storytelling trail with Get Suffolk Reading!
