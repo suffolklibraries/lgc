@@ -6,6 +6,7 @@ event_categories:
   - community
   - family-friendly
   - food
+  - get-suffolk-reading
 organisers:
   - fish-lowestoft
 featured_image: Screenshot-2022-07-12-at-16.49.44.png
@@ -62,6 +63,6 @@ content_area:
         type: text
         text: 'Or call 01502537527'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657641508
+updated_at: 1657794348
 ---
 Feeding Families in School Holidays, activities and support in Lowestoft.
