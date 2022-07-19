@@ -6,6 +6,7 @@ title: Switch
 event_categories:
   - activity
   - workshop
+  - haf
 organisers:
   - access-community-trust
 featured_image: offthepressimages/new_resized_images/Teen.png
@@ -96,6 +97,6 @@ content_area:
         type: text
         text: 'Switch is being held at Ormiston Denes Academy, Lowestoft, NR32 4AH. The nearest bus stop is at Denes High School stop and is serviced by the Coastal Clipper, Coastal Reds and Coast Link buses. Lowestoft has a train station which is a 25 minute walk from the venue.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658225493
+updated_at: 1658225596
 ---
 Free Holiday Activities
