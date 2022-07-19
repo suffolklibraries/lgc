@@ -1,8 +1,8 @@
 ---
 id: 616daee6-6ba3-4e4b-b8e9-b4ec26c4e42e
 blueprint: events
-title: 'Let''s Get Crafty: Marvellous and Mischievous (Duplicated) (2)'
-start_date: '2022-07-26 10:30'
+title: 'Let''s Get Crafty: Marvellous and Mischievous'
+start_date: '2022-08-02 10:30'
 free: false
 virtual: false
 content_area:
@@ -19,7 +19,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join in with a range of family crafts and activities inspired by 'The Lion, the Witch and the Wardrobe' and the exhibition 'Marvellous and Mischievous'.\_"
+        text: "Join in with a range of family crafts and activities inspired by 'The Cat in the Hat' and the exhibition 'Marvellous and Mischievous'.\_"
   -
     type: paragraph
     content:
@@ -152,7 +152,7 @@ content_area:
         type: text
         text: '. '
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657192201
+updated_at: 1658228824
 event_categories:
   - art
   - crafts
@@ -160,7 +160,7 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-end_date: '2022-07-26 12:00'
+end_date: '2022-08-02 12:00'
 latitude: '52.05305327650036'
 longitude: '1.1635487570229357'
 address_line_1: 'The Hold'
@@ -176,4 +176,4 @@ cost_details: £4
 attendance_information: '4-11 years'
 accessibility_information: '-Wheelchair accessible'
 ---
-Crafts and activties inspired by The Lion, The Witch and The Wardrobe and the exhibition Marvellous and Mischievous.
+Crafts and activties inspired by 'The Cat in the Hat' and the exhibition Marvellous and Mischievous.
