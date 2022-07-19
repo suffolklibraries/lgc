@@ -1,10 +1,10 @@
 ---
 id: 36c96b8e-bf73-43a4-92f2-9dda56cefe36
 blueprint: events
-title: 'Community Conversations at The Hive (Duplicated)'
+title: 'Community Conversations at The Hive'
 featured_image: Screenshot-2022-05-23-113050-new-new.png
-start_date: '2022-07-20 10:00'
-end_date: '2022-07-20 13:00'
+start_date: '2022-07-27 10:00'
+end_date: '2022-07-27 13:00'
 free: true
 virtual: false
 latitude: '52.06104109088131'
@@ -81,7 +81,7 @@ cta: |-
 
   [07494 219836](tel:07494219836)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657619262
+updated_at: 1658228103
 event_categories:
   - community
 organisers:
