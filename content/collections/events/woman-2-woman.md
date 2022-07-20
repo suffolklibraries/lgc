@@ -1,0 +1,101 @@
+---
+id: ccd674f8-fc4e-405c-ae0d-2288aa242cbe
+published: false
+blueprint: events
+title: 'Woman 2 Woman'
+event_categories:
+  - community
+  - languages
+  - workshop
+organisers:
+  - future-female-society
+featured_image: Screenshot-2022-07-20-at-10.30.54.png
+start_date: '2022-09-01 11:00'
+end_date: '2022-09-01 12:00'
+free: true
+virtual: false
+attendance_information: 'Migrant, refugee and asylum-seeking women'
+latitude: '52.06103514537215'
+longitude: '1.1447969943168634'
+address_line_1: 'The Hive'
+address_line_2: '27-29 Norwich Road'
+town: Ipswich
+postcode: 'IP1 2ET'
+content_area:
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Woman 2 Woman is a radio project for migrant, refugee and asylum-seeking women, using radio to boost confidence and teach new skills.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Over the course of the programme, the women build confidence and learn new skills in radio, and work towards creating their own radio shows on No Borders radio.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "For more details\_visit the "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.futurefemalesociety.org/contact'
+              rel: null
+              target: _blank
+              title: null
+        text: website
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Or call 01473 852552'
+  -
+    type: paragraph
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: Travel
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Hive is Situated on Norwich Road, one of the main roads in to Ipswich along which there are several bus stops. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ipswich has a rail station a 16-minute walk away. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are many public car parks nearby, use postcode IP1 2ET to search.'
+  -
+    type: paragraph
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1658317266
+---
+Building confidence with radio skills
