@@ -7,6 +7,7 @@ event_categories:
   - movement
   - museums
   - sports
+  - haf
 organisers:
   - the-national-horse-racing-museum
 start_date: '2022-07-27 10:00'
@@ -192,8 +193,8 @@ cta: |-
   Email your completed form to [events@nhrm.co.uk](mailto:events@nhrm.co.uk ) 
 
   For more information call [01638667314](tel:01638667314)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1656602491
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1658399461
 featured_image: HAF-Banner-1440x700-1-700x340.jpg
 accessibility_information: |-
   -Wheelchair accessible
