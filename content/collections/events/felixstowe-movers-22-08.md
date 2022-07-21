@@ -1,13 +1,14 @@
 ---
 id: c1861343-d96c-4b85-a797-ba026d557647
+published: false
 blueprint: events
-title: 'Felixstowe Movers - Taster Session (Duplicated)'
+title: 'Felixstowe Movers - Taster Session'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1658398727
+updated_at: 1658398786
 latitude: '51.972777592608615'
 longitude: '1.338663408982477'
-start_date: '2022-08-15 13:00'
+start_date: '2022-08-22 13:00'
 event_categories:
   - dance
   - later-life
@@ -42,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is one of three FREE taster sessions over August so come along and see if this is the class for you.'
+        text: 'This is one of three FREE taster sessions over August so come along and see if this is the class for you. Classes begin weekly in September. '
   -
     type: paragraph
     content:
@@ -112,6 +113,6 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-end_date: '2022-08-15 14:30'
+end_date: '2022-08-22 14:30'
 ---
 A weekly dance class for everyone over 55. Felixstowe Movers classes are designed to benefit you both mentally and physically.
