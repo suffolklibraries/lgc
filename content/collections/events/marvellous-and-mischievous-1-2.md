@@ -1,7 +1,7 @@
 ---
 id: 477c9f86-28f2-4f0a-80f7-6e4e6a36d1a4
 blueprint: events
-title: 'Let''s Get Crafty: Marvellous and Mischievous (Duplicated) (2)'
+title: 'Let''s Get Crafty: Marvellous and Mischievous'
 start_date: '2022-07-27 10:30'
 free: false
 virtual: false
@@ -152,7 +152,7 @@ content_area:
         type: text
         text: '. '
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657192310
+updated_at: 1658392990
 event_categories:
   - art
   - crafts
