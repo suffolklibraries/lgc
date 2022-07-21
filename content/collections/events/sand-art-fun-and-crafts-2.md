@@ -6,7 +6,7 @@ event_categories:
   - art
   - early-years
 organisers:
-  - funny-farm
+  - sand-art-fun-and-crafts
 featured_image: offthepressimages/new_resized_images/Early-Years.png
 start_date: '2022-07-27 11:00'
 end_date: '2022-07-27 12:00'
@@ -74,6 +74,6 @@ content_area:
         type: text
         text: 'The nearest car park is Whapload Road Car Park.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658228167
+updated_at: 1658400849
 ---
 0-5s Sand Art Sessions
