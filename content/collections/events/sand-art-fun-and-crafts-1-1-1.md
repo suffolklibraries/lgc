@@ -1,15 +1,15 @@
 ---
 id: 062864f6-0f15-4afc-bade-d0846e4a36fc
 blueprint: events
-title: 'Sand Art, Schools Out Club (Duplicated)'
+title: 'Sand Art, Schools Out Club'
 event_categories:
   - art
   - early-years
 organisers:
   - sand-art-fun-and-crafts
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2022-07-22 15:30'
-end_date: '2022-07-22 16:30'
+start_date: '2022-07-29 15:30'
+end_date: '2022-07-29 16:30'
 free: false
 cost_details: £3.00
 virtual: false
@@ -68,6 +68,6 @@ content_area:
         type: text
         text: 'The nearest car park is Whapload Road Car Park.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658400822
+updated_at: 1658832915
 ---
 3+ years
