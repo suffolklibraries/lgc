@@ -1,6 +1,5 @@
 ---
 id: 9e20607b-b50a-47d0-9549-5c02e229d565
-published: false
 blueprint: events
 title: 'Storytelling: Mischief and Mystery in Moomin Valley'
 event_categories:
@@ -145,7 +144,7 @@ cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1652266923
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1658833821
 ---
 Famliy-friendly story telling with Mischief and Mystery in Moomin Valley, in partnership with Suffolk libraries.
