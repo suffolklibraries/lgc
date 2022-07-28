@@ -4,9 +4,9 @@ blueprint: events
 title: 'Thyme on your Hands'
 event_categories:
   - activity
-  - crafts
   - haf
   - nature
+  - art
 organisers:
   - long-shop-museum
 featured_image: Screenshot-2022-07-21-at-12.39.42-1658409584.png
@@ -110,6 +110,6 @@ content_area:
         text: 'click here'
 cta: 'To book your tickets email [info@longshopmuseum.co.uk](info@longshopmuseum.co.uk)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658409967
+updated_at: 1659014452
 ---
 Crafts and activties, learning about wildlife
