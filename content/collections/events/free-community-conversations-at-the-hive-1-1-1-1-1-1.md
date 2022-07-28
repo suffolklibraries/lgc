@@ -81,9 +81,10 @@ cta: |-
 
   [07494 219836](tel:07494219836)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658823990
+updated_at: 1659015281
 event_categories:
   - community
+  - languages
 organisers:
   - the-hive
 attendance_information: 'All welcome'
