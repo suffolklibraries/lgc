@@ -7,7 +7,7 @@ longitude: '1.496796100174832'
 start_date: '2022-07-21 10:30'
 end_date: '2022-07-21 12:00'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657618955
+updated_at: 1659015204
 free: true
 virtual: false
 organisers:
@@ -187,7 +187,6 @@ cta: |-
 event_categories:
   - later-life
   - music
-  - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/skylarks'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
