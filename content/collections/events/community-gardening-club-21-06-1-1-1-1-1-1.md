@@ -6,11 +6,12 @@ start_date: '2022-08-02 10:00'
 free: true
 virtual: false
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658823940
+updated_at: 1659015252
 event_categories:
   - art
   - nature
   - later-life
+  - community
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
