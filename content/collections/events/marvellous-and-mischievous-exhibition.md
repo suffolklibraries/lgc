@@ -141,7 +141,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657026363
+updated_at: 1659014109
 latitude: '52.05325315427362'
 longitude: '1.1634924849275452'
 address_line_1: 'The Hold'
