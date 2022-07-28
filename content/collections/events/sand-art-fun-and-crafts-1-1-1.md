@@ -5,6 +5,7 @@ title: 'Sand Art, Schools Out Club'
 event_categories:
   - art
   - early-years
+  - activity
 organisers:
   - sand-art-fun-and-crafts
 featured_image: offthepressimages/new_resized_images/Early-Years.png
@@ -68,6 +69,6 @@ content_area:
         type: text
         text: 'The nearest car park is Whapload Road Car Park.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658832915
+updated_at: 1659015562
 ---
 3+ years
