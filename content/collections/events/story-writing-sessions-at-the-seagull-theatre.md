@@ -83,6 +83,6 @@ content_area:
         text: 'There is a bus stop a one-minute walk from the venue which is serviced by the Coastal Clipper and Coastlink Buses. There are three public car parks nearby.'
 booking_link: 'https://www.ticketsource.co.uk/seagulltheatre/summer-holiday-writing-and-drama-activity/e-lpoqoy'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658846008
+updated_at: 1659014967
 ---
 Create a story book with a local author!
