@@ -3,9 +3,10 @@ id: e6c66318-ec5c-46cc-8852-511d1d7eab39
 blueprint: events
 title: 'Storytelling: Yarnsmith of Norwich'
 event_categories:
-  - history
   - primary-school-age
   - performance
+  - museums
+  - literature
 organisers:
   - the-hold
 featured_image: suffolkarchives/Yarnsmith-of-Norwich-1651585699.png
@@ -129,7 +130,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/storytelling-yarnsmith-of-norwich/2022-07-28/d-ykgqkxckovyla'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657623800
+updated_at: 1659014548
 attendance_information: 'Suitable for ages 4+'
 ---
 Famliy friendly historical themed storytelling.
