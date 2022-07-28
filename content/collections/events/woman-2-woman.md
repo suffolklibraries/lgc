@@ -6,7 +6,8 @@ title: 'Woman 2 Woman'
 event_categories:
   - community
   - languages
-  - workshop
+  - activity
+  - computing
 organisers:
   - future-female-society
 featured_image: Screenshot-2022-07-20-at-10.30.54.png
@@ -96,6 +97,6 @@ content_area:
   -
     type: paragraph
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658317266
+updated_at: 1659015624
 ---
 Building confidence with radio skills
