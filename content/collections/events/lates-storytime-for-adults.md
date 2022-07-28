@@ -3,7 +3,7 @@ id: f77544ab-434b-4e06-a131-d7b71b23d932
 blueprint: events
 title: 'Lates: Storytime for Adults'
 event_categories:
-  - story
+  - literature
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/Literature.png
@@ -92,7 +92,7 @@ cta: |-
   This event is run by Suffolk Archives, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1654614909
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1659014590
 ---
 Storytime shouldn't just be for kids! Grab a cocktail and settle in for a evening of adults only story time.
