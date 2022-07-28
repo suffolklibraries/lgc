@@ -152,11 +152,11 @@ content_area:
         type: text
         text: '. '
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658233369
+updated_at: 1659015778
 event_categories:
   - art
-  - crafts
-  - family-friendly
+  - literature
+  - primary-school-age
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png
