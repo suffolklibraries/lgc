@@ -3,7 +3,8 @@ id: 1fc67e31-1abf-4259-a83b-c1e8f06c1525
 blueprint: events
 title: 'More Than Mum Coffee Morning!'
 event_categories:
-  - food
+  - community
+  - languages
 organisers:
   - future-female-society
 featured_image: miscellaneous/image_2022-04-11_151825497.png
@@ -83,7 +84,7 @@ cta: |-
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658824118
+updated_at: 1659015454
 attendance_information: Mums!
 ---
 Come and join for the new More Than Mums Coffee Mornings in Ipswich!
