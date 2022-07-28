@@ -7,6 +7,7 @@ event_categories:
   - family-friendly
   - get-suffolk-reading
   - primary-school-age
+  - literature
 organisers:
   - friends-of-oulton-broad-library
 featured_image: offthepressimages/new_resized_images/Literature.png
@@ -133,6 +134,6 @@ content_area:
         type: text
         text: 'There is some parking available at the Library. The nearest public car park to Oulton Broad Library is on Bridge Road and there is a close by train stop on Oulton Road North.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658398535
+updated_at: 1659014207
 ---
 Find all 15 books on holiday to win a prize!
