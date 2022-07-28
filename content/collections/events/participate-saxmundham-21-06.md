@@ -6,8 +6,8 @@ latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
 start_date: '2022-06-21 10:30'
 end_date: '2022-06-21 12:00'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655194103
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1659015028
 free: true
 virtual: false
 organisers:
@@ -176,7 +176,6 @@ cta: |-
 event_categories:
   - later-life
   - music
-  - singing
 booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
