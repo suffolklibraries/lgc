@@ -5,9 +5,8 @@ title: 'Holiday Club'
 event_categories:
   - activity
   - community
-  - theatre
   - primary-school-age
-  - workshop
+  - performance
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Theatre.png
@@ -210,7 +209,7 @@ content_area:
   -
     type: paragraph
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657615016
+updated_at: 1659014694
 booking_link: 'https://easternangles.co.uk/news/holiday-club-2022'
 ---
 A three-week programme of activities for young people, with Eastern Angles
