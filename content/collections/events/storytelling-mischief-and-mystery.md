@@ -5,6 +5,7 @@ title: 'Storytelling: Mischief and Mystery in Moomin Valley'
 event_categories:
   - performance
   - primary-school-age
+  - literature
 organisers:
   - the-hold
   - suffolk-libraries
@@ -145,6 +146,6 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658833821
+updated_at: 1659014888
 ---
 Famliy-friendly story telling with Mischief and Mystery in Moomin Valley, in partnership with Suffolk libraries.
