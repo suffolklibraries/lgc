@@ -4,9 +4,9 @@ blueprint: events
 title: 'Fairy and gnome door painting'
 event_categories:
   - activity
-  - crafts
   - get-suffolk-reading
   - primary-school-age
+  - art
 organisers:
   - friends-of-fen-park
 featured_image: Screenshot-2022-07-26-at-16.26.00.png
@@ -83,6 +83,6 @@ content_area:
         type: text
         text: 'Fen Park is located in South Lowestoft, tucked away within the heart of Kirkley. Use NR33 0LX for Sat Navs.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658850424
+updated_at: 1659014941
 ---
 Fairy and gnome themed activties and storytelling
