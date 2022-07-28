@@ -5,7 +5,7 @@ title: 'Recreating Constable'
 event_categories:
   - art
   - exhibition
-  - history
+  - museums
 organisers:
   - ipswich-entertains
 featured_image: Screenshot-2022-07-26-at-14.40.34.png
@@ -99,6 +99,6 @@ content_area:
               title: null
         text: here
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658843227
+updated_at: 1659014080
 ---
 A revisited exhibition of John Constable's work with contemporary artists
