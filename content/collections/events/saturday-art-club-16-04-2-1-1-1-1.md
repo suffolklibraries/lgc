@@ -109,7 +109,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657619049
+updated_at: 1659015222
 end_date: '2022-07-16 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
