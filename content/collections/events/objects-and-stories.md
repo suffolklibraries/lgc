@@ -6,7 +6,6 @@ event_categories:
   - art
   - community
   - exhibition
-  - visual-arts
 organisers:
   - marketplace
 start_date: '2022-06-29 09:00'
@@ -94,8 +93,8 @@ content_area:
         type: text
         text: 'The nearest bus stop is, New Astley Club Bus Stop, 3 minutes walk away'
 cta: 'For more information, visit [https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/ ](https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/)'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1657272544
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1659014048
 featured_image: Newmarkets-community-of-objects-stories-1-986x660-(1).jpg
 ---
 An exhibition of objects with stories belonging to Newmarket residents, by artist Michelle Brace
