@@ -6,6 +6,7 @@ event_categories:
   - activity
   - community
   - get-suffolk-reading
+  - languages
 organisers:
   - disability-advice
 featured_image: offthepressimages/new_resized_images/VisualArts.png
@@ -75,6 +76,6 @@ content_area:
         type: text
         text: 'Eastern Edge is situated at the beach front in Lowestoft. Lowestoft beach front is serviced by the bus routes: 99 Coastal Clipper, X2 Coastlink, X21 Coastlink. There is also a train station in Lowestoft which is a 26-minute walk from the beach huts. The nearest car park is Pakefield Road Car Park, a 4-minute walk from the beach huts.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658997382
+updated_at: 1659014818
 ---
 Fun and games to help raise money for Diability Advice
