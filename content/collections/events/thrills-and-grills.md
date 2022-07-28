@@ -6,6 +6,8 @@ event_categories:
   - activity
   - food
   - haf
+  - languages
+  - museums
 organisers:
   - the-food-museum
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
@@ -105,6 +107,6 @@ cta: |-
 
   Or call 01449612229
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658234419
+updated_at: 1659014735
 ---
 Summer activties for Kids: Thrills and Grills - cooking outdoors.
