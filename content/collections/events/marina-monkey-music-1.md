@@ -4,6 +4,8 @@ blueprint: events
 title: 'Marina Monkey Music'
 event_categories:
   - early-years
+  - music
+  - literature
 organisers:
   - marina-theatre
 featured_image: 278576907_163124276094747_2933283951480655461_n.jpg
@@ -109,7 +111,7 @@ cta: |-
   To book your place, e-mail Donna [music@marinatheatre.co.uk](music@marinatheatre.co.uk)
 
   Or call the Marina Theatre Box Office on 01502533200
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1657872575
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1659015393
 ---
 An exploration of sound, music, stories and sensory play for little ones.
