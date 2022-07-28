@@ -131,6 +131,6 @@ content_area:
         text: 'click here'
 booking_link: 'http://brittenpearsarts.org/events/summer-activities-for-children'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658409365
+updated_at: 1659014911
 ---
 Music and art activties celebrating musical masterpieces
