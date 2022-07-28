@@ -6,6 +6,7 @@ event_categories:
   - activity
   - get-suffolk-reading
   - community
+  - languages
 organisers:
   - get-suffolk-reading
 featured_image: offthepressimages/new_resized_images/Literature.png
@@ -49,6 +50,6 @@ content_area:
         type: text
         text: 'The nearest car park is the Old Market Plain Carpark, 1-minute from the venue. The nearest bus stop is Adrian Road Bus Stop, a 6-minute walk away.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658999228
+updated_at: 1659014857
 ---
 Activites and health advice
