@@ -6,7 +6,6 @@ title: 'Girls, where you at?'
 event_categories:
   - activity
   - community
-  - workshop
 organisers:
   - future-female-society
 featured_image: offthepressimages/new_resized_images/Film_resized.png
@@ -93,6 +92,6 @@ content_area:
         type: text
         text: 'There is pay and display car park next to the venue and many others near by.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1658317715
+updated_at: 1659015599
 ---
 A programme of building confidence in girls, with exciting media workshops.
