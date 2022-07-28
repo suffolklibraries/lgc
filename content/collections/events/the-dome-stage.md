@@ -112,6 +112,6 @@ content_area:
         text: here
 cta: 'Book your tickets [https://brittenpearsarts.org/landing-pages/dome-stage](https://brittenpearsarts.org/landing-pages/dome-stage )'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657807227
+updated_at: 1659014788
 ---
 A month of free music and sound at the Dome Stage, Snape
