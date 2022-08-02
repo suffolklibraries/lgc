@@ -1,6 +1,5 @@
 ---
 id: c1861343-d96c-4b85-a797-ba026d557647
-published: false
 blueprint: events
 title: 'Felixstowe Movers - Taster Session'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
