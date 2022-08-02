@@ -1,17 +1,17 @@
 ---
 id: 5a15928e-74e0-49a2-b62a-a7f507608dfb
 blueprint: events
-title: 'Walks: Waterfront West (Duplicated) (Duplicated)'
+title: 'Walks: Westside Story'
 event_categories:
-  - guided-tour
-  - movement
+  - history
+  - dance
 organisers:
   - the-hold
   - ipswich-tourist-guide-association
-start_date: '2022-07-14 14:00'
-end_date: '2022-07-14 15:30'
+start_date: '2022-08-04 14:00'
+end_date: '2022-08-04 15:30'
 free: false
-cost_details: £5
+cost_details: '£5, under 12''s FREE'
 virtual: false
 accessibility_information: |-
   - Wheelchair friendly
@@ -36,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell. The walk will also visit The Jerwood Dance house and a redundant medieval church restored with the help of a multi- million pound Heritage Lottery Grant.'
+        text: "A Walk to the end of the Waterfront and to the Western part of the town, where you will see Cardinal Wolsey's Gateway and his College Chapel, hear about \_the visit of Henry VIII to Ipswich and view some fine modern sculpture."
       -
         type: hard_break
       -
@@ -114,7 +114,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Walks: Waterfront West meets at The Hold, 131 Fore Street, Ipswich.'
+        text: 'Walks: Westside Story meets at The Hold, 131 Fore Street, Ipswich.'
   -
     type: paragraph
     content:
@@ -140,28 +140,26 @@ content_area:
     content:
       -
         type: text
-        text: 'To book a ticket please visit this link'
+        text: 'To book a ticket please visit this link '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-waterfront-west/2022-06-16/14:00/t-zeekyp'
+              href: 'https://www.ticketsource.co.uk/booking/category/LcJEHMomXbvT'
               rel: null
               target: _blank
               title: null
-        text: ' here'
-      -
-        type: text
-        text: .
-booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-waterfront-west/2022-06-16/14:00/t-zeekyp'
+        text: here
+booking_link: 'https://www.ticketsource.co.uk/booking/category/LcJEHMomXbvT'
 cta: |-
   This event is run by The Hold and the Ipswich Tourist Guide Association. for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657025337
+updated_at: 1659442135
 attendance_information: 'Everyone welcome'
+featured_image: Screenshot-2022-08-02-at-13.05.07.png
 ---
-Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell.
+A Walk to the end of the Waterfront and to the Western part of the town.
