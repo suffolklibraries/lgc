@@ -12,7 +12,7 @@ featured_image: Farrier-comp-2021.jpg
 start_date: '2022-08-06 11:00'
 end_date: '2022-08-06 17:00'
 free: false
-cost_details: '£15 adults, under 18''s FREE'
+cost_details: '£15 adults, under 16''s FREE'
 virtual: false
 attendance_information: 'All welcome'
 accessibility_information: |-
@@ -57,7 +57,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Watching the competition is included in the general price of admission, under 18’s go free, for full price listings click '
+        text: 'Watching the competition is included in the general price of admission, under 16’s go free, for full price listings click '
       -
         type: text
         marks:
@@ -111,6 +111,6 @@ content_area:
         text: here
 booking_link: 'https://www.nhrm.co.uk/events/annual-farrier-competition/'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659433394
+updated_at: 1659437547
 ---
 Watch the sparks fly at the National Horse Racing Museum’s annual farrier competition!
