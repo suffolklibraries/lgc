@@ -1,7 +1,7 @@
 ---
 id: f88daa3e-ea62-4775-a1ec-e56a5364f6ac
 blueprint: events
-title: 'Storytelling: Yarnsmith of Norwich (Duplicated)'
+title: 'Storytelling: Mama G'
 event_categories:
   - primary-school-age
   - performance
@@ -9,9 +9,9 @@ event_categories:
   - literature
 organisers:
   - the-hold
-featured_image: suffolkarchives/Yarnsmith-of-Norwich-1651585699.png
-start_date: '2022-07-28 10:00'
-end_date: '2022-07-28 10:30'
+featured_image: Screenshot-2022-08-02-at-12.52.43.png
+start_date: '2022-08-04 11:00'
+end_date: '2022-08-04 15:00'
 free: true
 virtual: false
 latitude: '52.05308797693051'
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join professional storyteller Dave Tong,\_The Yarnsmith of Norwich,\_for immersive historically themed stories for all the family.\_"
+        text: "Join\_Mama G for a storytime session for the whole family all about being who you want and loving who you are.\_"
       -
         type: hard_break
       -
@@ -69,7 +69,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkarchives.co.uk/whats-on/'
+              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-yvyjal&target='
               rel: null
               target: _blank
               title: null
@@ -87,7 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Storytelling: Yarnsmith of Norwich meets at The Hold, 131 Fore Street, Ipswich.'
+        text: 'Storytelling: Mama G meets at The Hold, 131 Fore Street, Ipswich.'
   -
     type: paragraph
     content:
@@ -120,17 +120,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/storytelling-yarnsmith-of-norwich/2022-07-28/d-ykgqkxckovyla'
+              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-yvyjal&target='
               rel: null
               target: _blank
               title: null
         text: here
-      -
-        type: text
-        text: .
-booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/storytelling-yarnsmith-of-norwich/2022-07-28/d-ykgqkxckovyla'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-yvyjal&target='
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659014548
+updated_at: 1659441490
 attendance_information: 'Suitable for ages 4+'
 ---
-Famliy friendly historical themed storytelling.
+Join Mama G for a storytime session for the whole family, all about being who you want and loving who you are.
