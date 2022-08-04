@@ -114,8 +114,8 @@ content_area:
       -
         type: text
         text: "\_"
-cta: 'For more information or to sign up, e-mail [mailto:community@brittenpearsarts.org](community@brittenpearsarts.org )'
+cta: 'For more information or to sign up, e-mail [mailto:community@brittenpearsarts.org](mailto:community@brittenpearsarts.org )'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659618609
+updated_at: 1659621877
 ---
 Take part in workshops, rehearsals and performance for Aldeburgh Carnival
