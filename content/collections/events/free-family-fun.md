@@ -71,18 +71,13 @@ content_area:
     content:
       -
         type: text
-        text: 'These free drop-in sessions run from 11:00 – 15:00. If any of the children attending are eligible for free school meals, a picnic bag lunch can be provided for free. To book a free packed lunch, e-mail the '
+        text: 'These free drop-in sessions run from 11:00 – 15:00. If any of the children attending are eligible for free school meals, a picnic bag lunch can be provided for free. To book a free packed lunch, e-mail '
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: info@nhrm.co.uk
-              rel: null
-              target: _blank
-              title: null
-        text: NHRM
+            type: bold
+        text: info@nhrm.co.uk
   -
     type: paragraph
     content:
@@ -115,6 +110,7 @@ content_area:
               title: null
         text: here
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659605574
+updated_at: 1659609278
+cta: 'To book a free packed lunch e-mail [info@nhrm.co.uk](info@nhrm.co.uk)'
 ---
 Free family fun in the Palace House Gardens
