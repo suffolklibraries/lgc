@@ -57,7 +57,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Dates:'
+        text: 'Dates for 11+'
   -
     type: bullet_list
     content:
@@ -88,6 +88,47 @@ content_area:
               -
                 type: text
                 text: 'Thursday 1 September'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Dates for Primary Age'
+  -
+    type: bullet_list
+    content:
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Tuesday 16 August'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Tuesday 23 August'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Tuesday 30 August'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -126,6 +167,6 @@ content_area:
         type: text
         text: 'There is some parking available at the venue. The nearest bus stop is on Gannet Road a 1-minute walk away.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659601869
+updated_at: 1659609009
 ---
 Free creative workshops at Chantry Library and a chance to achieve an Arts Award!
