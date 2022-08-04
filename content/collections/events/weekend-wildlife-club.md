@@ -1,6 +1,5 @@
 ---
 id: 29182b76-3185-4ede-9071-839685d84ccb
-published: false
 blueprint: events
 title: 'Weekend Wildlife Club'
 event_categories:
@@ -125,6 +124,6 @@ content_area:
         text: "\_and click on the icons for driving, walking, cycling or bus to find your best route."
 booking_link: 'https://www.eventbrite.co.uk/e/weekend-wildlife-club-at-knettishall-heath-p6p-2817-tickets-265308694447?aff=ebdssbdestsearch'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659623800
+updated_at: 1659623820
 ---
 Wildlife-based games, exploration and learning on the Heath
