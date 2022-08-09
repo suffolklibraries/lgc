@@ -1,13 +1,12 @@
 ---
 id: ec74aff8-6cf0-4a30-81be-30f4a00f9610
-published: false
 blueprint: events
 title: 'Community Gardening Club'
 start_date: '2022-08-16 10:00'
 free: true
 virtual: false
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660047301
+updated_at: 1660047321
 event_categories:
   - art
   - nature
