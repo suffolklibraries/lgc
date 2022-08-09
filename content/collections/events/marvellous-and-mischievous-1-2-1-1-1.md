@@ -1,8 +1,8 @@
 ---
 id: 979b3fb8-5482-44dd-95b2-44932ef610fb
 blueprint: events
-title: 'Let''s Get Crafty: Marvellous and Mischievous (Duplicated)'
-start_date: '2022-08-17 10:30'
+title: 'Let''s Get Crafty: Marvellous and Mischievous'
+start_date: '2022-08-24 10:30'
 free: false
 virtual: false
 content_area:
@@ -19,7 +19,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join in with a range of family crafts and activities inspired by 'Peter Pan' and the exhibition 'Marvellous and Mischievous'.\_"
+        text: "Join in with a range of family crafts and activities inspired by 'Journey to the West' and the exhibition 'Marvellous and Mischievous'.\_"
   -
     type: paragraph
     content:
@@ -152,7 +152,7 @@ content_area:
         type: text
         text: '. '
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659436798
+updated_at: 1660048073
 event_categories:
   - art
   - primary-school-age
@@ -160,7 +160,7 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-end_date: '2022-08-17 12:00'
+end_date: '2022-08-24 12:00'
 latitude: '52.05305327650036'
 longitude: '1.1635487570229357'
 address_line_1: 'The Hold'
@@ -176,4 +176,4 @@ cost_details: £4
 attendance_information: '8-13 years'
 accessibility_information: '-Wheelchair accessible'
 ---
-Crafts and activties inspired by 'Peter Pan' and the exhibition Marvellous and Mischievous.
+Crafts and activties inspired by 'Journey to the West' and the exhibition Marvellous and Mischievous.
