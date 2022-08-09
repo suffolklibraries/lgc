@@ -1,15 +1,15 @@
 ---
 id: eabd2257-48ee-4fbc-950e-64645df19185
 blueprint: events
-title: 'Wildlife Discovery Day (Duplicated)'
+title: 'Wildlife Discovery Day'
 event_categories:
   - family-friendly
   - languages
   - nature
   - primary-school-age
 featured_image: Screenshot-2022-08-09-at-17.00.03.png
-start_date: '2022-08-10 10:00'
-end_date: '2022-08-10 15:00'
+start_date: '2022-08-24 10:00'
+end_date: '2022-08-24 15:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -83,6 +83,6 @@ content_area:
         type: text
         text: 'The event is being held next to the Manor Terrace car park, IP11 2EL'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660061575
+updated_at: 1660061614
 ---
 Discover more about Landguard's flora and fauna
