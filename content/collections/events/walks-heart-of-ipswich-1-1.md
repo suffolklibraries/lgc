@@ -1,15 +1,15 @@
 ---
 id: bbe18276-9387-4961-b8bb-82ab94b6b139
 blueprint: events
-title: 'Walks: Heart Of Ipswich (Duplicated)'
+title: 'Walks: Heart Of Ipswich'
 event_categories:
   - guided-tour
   - history
 organisers:
   - ipswich-tourist-guide-association
 featured_image: offthepressimages/new_resized_images/Teen.png
-start_date: '2022-07-07 14:00'
-end_date: '2022-07-07 15:30'
+start_date: '2022-08-18 14:00'
+end_date: '2022-08-18 15:30'
 free: false
 cost_details: £5
 virtual: false
@@ -123,6 +123,7 @@ cta: |-
 
   [https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1656586065
+updated_at: 1660206331
+attendance_information: 'All welcome'
 ---
 Take a walk towards the town centre to see some of Ipswich's most interesting buildings, hear about the colourful characters and dramatic events which have shaped Ipswich's heritage.
