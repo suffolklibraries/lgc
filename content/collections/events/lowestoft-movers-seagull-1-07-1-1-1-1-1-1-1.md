@@ -1,10 +1,11 @@
 ---
 id: d28c96ca-cf0e-4bc7-9356-6501e9aba9e8
+published: false
 blueprint: events
 title: 'Lowestoft Movers - Seagull Theatre'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660047244
+updated_at: 1660210533
 start_date: '2022-08-18 10:00'
 end_date: '2022-08-18 11:30'
 event_categories:
