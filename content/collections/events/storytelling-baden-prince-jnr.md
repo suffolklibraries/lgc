@@ -1,7 +1,7 @@
 ---
 id: 3c8986a5-8f03-4d5d-a26c-2870014d26df
 blueprint: events
-title: 'Storytelling: Yarnsmith of Norwich (Duplicated)'
+title: 'Storytelling: Baden Prince Jnr'
 event_categories:
   - primary-school-age
   - performance
@@ -9,9 +9,9 @@ event_categories:
   - literature
 organisers:
   - the-hold
-featured_image: suffolkarchives/Yarnsmith-of-Norwich-1651585699.png
-start_date: '2022-07-28 10:00'
-end_date: '2022-07-28 10:30'
+featured_image: Screenshot-2022-08-11-at-09.54.06.png
+start_date: '2022-08-18 10:00'
+end_date: '2022-08-18 11:00'
 free: true
 virtual: false
 latitude: '52.05308797693051'
@@ -34,14 +34,14 @@ content_area:
     content:
       -
         type: text
-        text: "Join professional storyteller Dave Tong,\_The Yarnsmith of Norwich,\_for immersive historically themed stories for all the family.\_"
+        text: "Join professional storyteller Baden Prince Jnr from the World Storytelling Cafe,\_for a morning of stories for all the family.\_"
       -
         type: hard_break
       -
         type: hard_break
       -
         type: text
-        text: 'Suitable for ages 4+'
+        text: 'Suitable for ages 5+'
       -
         type: hard_break
       -
@@ -56,13 +56,13 @@ content_area:
         type: hard_break
       -
         type: text
-        text: 'Sessions last approximately 30 minutes.'
+        text: 'Sessions last approximately 60 minutes.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are multiple sessions that run through out the morning, so there are multiple of time slots to chose from, for more information, click '
+        text: 'There are multiple sessions that run throughout the morning, for more information, click '
       -
         type: text
         marks:
@@ -87,7 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Storytelling: Yarnsmith of Norwich meets at The Hold, 131 Fore Street, Ipswich.'
+        text: 'Storytelling: with Baden Prince Jnr, meets at The Hold, 131 Fore Street, Ipswich.'
   -
     type: paragraph
     content:
@@ -120,17 +120,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/storytelling-yarnsmith-of-norwich/2022-07-28/d-ykgqkxckovyla'
+              href: 'https://www.suffolkarchives.co.uk/whats-on/'
               rel: null
               target: _blank
               title: null
         text: here
-      -
-        type: text
-        text: .
-booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/storytelling-yarnsmith-of-norwich/2022-07-28/d-ykgqkxckovyla'
+booking_link: 'https://www.ticketsource.co.uk/booking/select/EGxUemIqjYBu'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659014548
-attendance_information: 'Suitable for ages 4+'
+updated_at: 1660208388
+attendance_information: 'Suitable for ages 5+'
 ---
-Famliy friendly historical themed storytelling.
+Famliy friendly storytelling.
