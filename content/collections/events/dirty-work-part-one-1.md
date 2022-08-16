@@ -1,24 +1,24 @@
 ---
 id: 776af33b-7601-407b-9c75-173bc8ff98d3
 blueprint: events
-title: 'Dirty Work: Part One (Duplicated)'
+title: 'Dirty Work: Part Two'
 event_categories:
   - exhibition
 organisers:
   - the-art-station
 featured_image: DIRTYWORK_title_square.jpg
-start_date: '2022-08-25 11:17'
-end_date: '2022-10-09 12:17'
+start_date: '2022-09-03 12:00'
+end_date: '2022-09-18 17:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
 accessibility_information: '-Covid-19 preventative measures in place'
-latitude: '52.215372506197674'
-longitude: '1.492756558325356'
-address_line_1: 'The Art Station'
-address_line_2: '148 High Street'
-town: Saxmundham
-postcode: 'IP17 1AB'
+latitude: '52.222560593892105'
+longitude: '1.3455912808312753'
+address_line_1: 'The Old Theatre'
+address_line_2: '10 Church Street'
+town: Framlingham
+postcode: 'IP13 9BH'
 content_area:
   -
     type: heading
@@ -105,7 +105,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The venue for part one sits on the High Street in Saxmundham. The closet '
+        text: 'The venue for part two is at The Old Theatre, Framlingham. The closet '
       -
         type: text
         marks:
@@ -114,7 +114,7 @@ content_area:
         text: 'bus stop'
       -
         type: text
-        text: ' is Street Farm Road, only a couple off minutes walk away.'
+        text: ' is Castle, only a couple of minutes walk away.'
   -
     type: paragraph
     content:
@@ -129,29 +129,9 @@ content_area:
         text: 'car park'
       -
         type: text
-        text: ' is Saxmundham Market place, only a couple of minutes walk from the venue.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Saxmundham has a train station, for full time tables visit '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/?gclid=Cj0KCQjwgO2XBhCaARIsANrW2X3rpHh8wGu5O9jmE0pzhCMjCvUKT9aYXblWqS4pgRDJZ2W37oHPnfAaAj-9EALw_wcB'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia'
-      -
-        type: text
-        text: ' '
+        text: ' is at Framlingham Castle, only a couple of minutes walk from the venue.'
 booking_link: 'https://theartstation.uk/exhibition/dirty-work/'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660649224
+updated_at: 1660649567
 ---
 An exhibition of contemporary ceramic practice in two parts
