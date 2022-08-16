@@ -114,7 +114,7 @@ content_area:
         text: 'bus stop'
       -
         type: text
-        text: ' is Street Farm Road, only a couple off minutes walk away.'
+        text: ' is Street Farm Road, only a couple of minutes walk away.'
   -
     type: paragraph
     content:
@@ -152,6 +152,6 @@ content_area:
         text: ' '
 booking_link: 'https://theartstation.uk/exhibition/dirty-work/'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660649224
+updated_at: 1660649585
 ---
 An exhibition of contemporary ceramic practice in two parts
