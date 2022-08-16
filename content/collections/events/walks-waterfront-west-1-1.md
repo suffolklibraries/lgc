@@ -1,15 +1,15 @@
 ---
 id: e38011bd-c1d2-4753-9c76-4ea9b56ca21c
 blueprint: events
-title: 'Walks: Waterfront West (Duplicated) (Duplicated)'
+title: 'Walks: Waterfront West'
 event_categories:
   - guided-tour
   - movement
 organisers:
   - the-hold
   - ipswich-tourist-guide-association
-start_date: '2022-07-14 14:00'
-end_date: '2022-07-14 15:30'
+start_date: '2022-08-25 14:00'
+end_date: '2022-08-25 15:30'
 free: false
 cost_details: £5
 virtual: false
@@ -161,7 +161,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657025337
+updated_at: 1660645576
 attendance_information: 'Everyone welcome'
 ---
 Walk along the Waterfront past the ancient Saxon crossing place to the modern Stoke Bridge, where the Gipping becomes the Orwell.
