@@ -1,12 +1,12 @@
 ---
 id: 5d3f6f95-bf14-4ede-a0ed-94c3523dd43d
 blueprint: events
-title: 'Community Gardening Club (Duplicated)'
-start_date: '2022-08-23 10:00'
+title: 'Community Gardening Club'
+start_date: '2022-08-30 10:00'
 free: true
 virtual: false
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660644357
+updated_at: 1660814574
 event_categories:
   - art
   - nature
@@ -15,7 +15,7 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-end_date: '2022-08-23 12:00'
+end_date: '2022-08-30 12:00'
 latitude: '52.06356401835797'
 longitude: '1.1373199705972623'
 address_line_1: 'Eastern Angles Centre'
