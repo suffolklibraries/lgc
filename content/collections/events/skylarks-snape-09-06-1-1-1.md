@@ -1,13 +1,13 @@
 ---
 id: 57fd71ea-35ac-40f2-ba8a-e96d9302d7ab
 blueprint: events
-title: 'East Suffolk Skylarks - Snape (Duplicated)'
+title: 'East Suffolk Skylarks - Snape'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2022-07-21 10:30'
-end_date: '2022-07-21 12:00'
+start_date: '2022-09-01 10:30'
+end_date: '2022-09-01 12:00'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659015204
+updated_at: 1660814467
 free: true
 virtual: false
 organisers:
@@ -170,8 +170,8 @@ address_line_2: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1AB'
 accessibility_information: |-
-  -  Dementia friendly
-  -  Parkinson's friendly
+  - Dementia friendly
+  - Parkinson's friendly
   - Indoor seated venue
   - Wheelchair access
   - Covid-19 preventative measures in place
