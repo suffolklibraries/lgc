@@ -5,7 +5,7 @@ blueprint: events
 title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1660906165
+updated_at: 1660907046
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
 start_date: '2022-09-20 09:15'
