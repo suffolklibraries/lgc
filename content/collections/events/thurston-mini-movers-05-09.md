@@ -2,13 +2,13 @@
 id: 329e3c1c-27f1-43b1-948b-dec5729d3867
 published: false
 blueprint: events
-title: 'Hadleigh Mini Movers (Duplicated)'
+title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1660905508
-latitude: '52.04263865596861'
-longitude: '0.9547349579000611'
-start_date: '2022-09-20 09:15'
+updated_at: 1660906124
+latitude: '52.254247380478446'
+longitude: '0.8108022965405455'
+start_date: '2022-09-05 13:30'
 event_categories:
   - movement
   - dance
@@ -19,10 +19,10 @@ virtual: false
 organisers:
   - danceeast
   - suffolk-libraries
-address_line_1: 'Hadleigh Library'
-address_line_2: '29 High Street'
-town: Hadleigh
-postcode: 'IP7 5AG'
+address_line_1: 'Thurston Library'
+address_line_2: 'Norton Road'
+town: Thurston
+postcode: 'IP31 3PB'
 featured_image: 9J1A0101.jpg
 attendance_information: 'Early Years'
 content_area:
@@ -39,13 +39,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Mini Movers is the perfect way to nurture your little ones natural love of movement in a structured yet relaxed environment. Themes, music, props and games are used to develop balance, coordination and imagination, and grown-ups are encouraged to join in the fun too!'
+        text: 'Thurston Mini Movers is the perfect way to nurture your little ones natural love of movement in a structured yet relaxed environment. Themes, music, props and games are used to develop balance, coordination and imagination, and grown-ups are encouraged to join in the fun too!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This weekly class will run every Tuesday from 20 September, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.'
+        text: 'This weekly class will run every Tuesday from 5 September, 1.30pm – 3pm (changing to 10-11.30am from 31 October) at Thurston Library. The session includes half an hour at the end for refreshments and socialising.'
   -
     type: paragraph
     content:
@@ -74,13 +74,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Phone: 01473 295230'
+        text: 'Phone: 01473 295234'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Hadleigh Mini Movers is supported by Babergh District Council.'
+        text: 'Thurston Mini Movers is supported by Mid Suffolk District Council.'
   -
     type: heading
     attrs:
@@ -94,7 +94,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George Street in Hadleigh, IP7 5BE.'
+        text: 'Thurston Movers meets at Thurston Library on Norton Road in Thurston, IP31 3PB.'
   -
     type: heading
     attrs:
@@ -136,6 +136,6 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-end_date: '2022-09-20 10:45'
+end_date: '2022-09-05 15:00'
 ---
 Early Years movement classes, ideal for toddlers and their grown-ups!
