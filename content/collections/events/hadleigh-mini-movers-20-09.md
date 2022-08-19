@@ -1,0 +1,141 @@
+---
+id: 171eb4b9-c69d-455c-9554-949516558a16
+published: false
+blueprint: events
+title: 'Hadleigh Mini Movers'
+author: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
+updated_at: 1660905508
+latitude: '52.04263865596861'
+longitude: '0.9547349579000611'
+start_date: '2022-09-20 09:15'
+event_categories:
+  - movement
+  - dance
+  - early-years
+  - family-friendly
+free: true
+virtual: false
+organisers:
+  - danceeast
+  - suffolk-libraries
+address_line_1: 'Hadleigh Library'
+address_line_2: '29 High Street'
+town: Hadleigh
+postcode: 'IP7 5AG'
+featured_image: 9J1A0101.jpg
+attendance_information: 'Early Years'
+content_area:
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hadleigh Mini Movers is the perfect way to nurture your little ones natural love of movement in a structured yet relaxed environment. Themes, music, props and games are used to develop balance, coordination and imagination, and grown-ups are encouraged to join in the fun too!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This weekly class will run every Tuesday from 20 September, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For further information and to book please contact Zoe Ablitt.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Email:\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:zoe.ablitt@danceeast.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: "zoe.ablitt@danceeast.co.uk\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Phone: 01473 295230'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hadleigh Mini Movers is supported by Babergh District Council.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get here'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George Street in Hadleigh, IP7 5BE.'
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book you can email Zoe at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:zoe.ablitt@danceeast.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: "zoe.ablitt@danceeast.co.uk\_"
+      -
+        type: text
+        text: ' or call on 01473 295230'
+cta: |-
+  This event is organised by Dance East. Please contact Zoe Ablitt:
+
+  [Zoe.Ablitt@danceeast.co.uk](mailto:zoe.ablitt@danceeast.co.uk )
+
+  [01473 295230](tel:01473295230) 
+
+  [https://www.danceeast.co.uk/workshops/hadleigh-mini-movers/](https://www.danceeast.co.uk/workshops/hadleigh-mini-movers/)
+booking_link: 'mailto:https://karenlouisedance.com'
+accessibility_information: |-
+  - Autism friendly
+  - Wheelchair access
+  - Indoor venue
+end_date: '2022-09-20 10:45'
+---
+Early Years movement classes, ideal for toddlers and their grown-ups!
