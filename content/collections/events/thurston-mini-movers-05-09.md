@@ -5,7 +5,7 @@ blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1660906124
+updated_at: 1660907143
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
 start_date: '2022-09-05 13:30'
@@ -130,7 +130,7 @@ cta: |-
 
   [01473 295230](tel:01473295230) 
 
-  [https://www.danceeast.co.uk/workshops/hadleigh-mini-movers/](https://www.danceeast.co.uk/workshops/hadleigh-mini-movers/)
+  [DanceEast Website](https://www.danceeast.co.uk/whats-on/)
 booking_link: 'mailto:https://karenlouisedance.com'
 accessibility_information: |-
   - Autism friendly
