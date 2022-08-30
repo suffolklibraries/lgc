@@ -1,7 +1,7 @@
 ---
 id: 5584afc2-184e-4503-b78a-20e946b66706
 blueprint: events
-title: 'Sand Art, Fun and Crafts (Duplicated)'
+title: 'Sand Art, Fun and Crafts'
 event_categories:
   - art
   - early-years
@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - sand-art-fun-and-crafts
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2022-08-31 11:00'
-end_date: '2022-08-31 12:00'
+start_date: '2022-09-07 11:00'
+end_date: '2022-09-07 12:00'
 free: false
 cost_details: £2.50
 virtual: false
@@ -75,6 +75,6 @@ content_area:
         type: text
         text: 'The nearest car park is Whapload Road Car Park.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660814838
+updated_at: 1661868640
 ---
 0-5s Sand Art Sessions
