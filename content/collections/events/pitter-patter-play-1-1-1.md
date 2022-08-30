@@ -1,13 +1,13 @@
 ---
 id: 2e580c14-0044-4004-ac4e-e0fe82f2640d
 blueprint: events
-title: 'Pitter Patter Play (Duplicated)'
+title: 'Pitter Patter Play'
 event_categories:
   - early-years
   - get-suffolk-reading
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2022-07-19 13:30'
-end_date: '2022-07-19 14:30'
+start_date: '2022-09-06 13:30'
+end_date: '2022-09-06 14:30'
 free: true
 virtual: false
 attendance_information: 'Guardians with under ones'
@@ -87,6 +87,6 @@ cta: |-
 
   [https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0](https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659015478
+updated_at: 1661864832
 ---
 Sensory and messy play for under ones and a chance to meet other parents.
