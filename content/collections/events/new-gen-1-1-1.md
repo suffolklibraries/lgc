@@ -1,15 +1,15 @@
 ---
 id: 1caf008a-a25b-4c8f-95e3-b517ba64b3d2
 blueprint: events
-title: 'New Gen (Duplicated)'
+title: 'New Gen'
 event_categories:
   - music
   - teen-and-young-adult
 organisers:
   - out-loud-music
 featured_image: offthepressimages/Music_clear.png
-start_date: '2022-09-01 17:00'
-end_date: '2022-09-01 19:00'
+start_date: '2022-09-08 17:00'
+end_date: '2022-09-08 19:00'
 free: true
 virtual: false
 attendance_information: 'For ages 13-19'
@@ -111,6 +111,6 @@ cta: |-
 
   or email [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660814681
+updated_at: 1661863551
 ---
 An opportunity for young people to explore and develop new skills in music.
