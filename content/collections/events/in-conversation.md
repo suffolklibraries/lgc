@@ -28,6 +28,14 @@ town: Framlingham
 postcode: 'IP13 9BH'
 content_area:
   -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'What to expect'
+  -
     type: paragraph
     content:
       -
@@ -43,6 +51,6 @@ cta: |-
 
   [www.theartstation.uk/event/in-convesation-dirty-work/](www.theartstation.uk/event/in-convesation-dirty-work/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1661943382
+updated_at: 1661952357
 ---
 An insightful discussion between artist and DIRTY WORK part ONE curator William Cobbing and DIRTY WORK part TWO  artist Clare Twomey.
