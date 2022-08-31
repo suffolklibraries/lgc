@@ -44,7 +44,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -54,15 +54,20 @@ content_area:
     content:
       -
         type: text
-        text: 'The Art Station is just a short walk away from Saxmundham train station or, if you''re travelling by car, there is parking at the front of the building.'
+        text: 'The Old Theatre is a 2-minute walk from the Framlingham Castle. It can also be accessed by bus from the Old Cattle Market (Ipswich) using the 118 bus. '
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'How to book'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
@@ -92,7 +97,7 @@ cta: |-
   [07927770421](tel:07927770421)
 
   [www.theartstation.uk/event/in-convesation-dirty-work/](www.theartstation.uk/event/in-convesation-dirty-work/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1661954970
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1661955958
 ---
 An insightful discussion between artist and DIRTY WORK part ONE curator William Cobbing and DIRTY WORK part TWO  artist Clare Twomey.
