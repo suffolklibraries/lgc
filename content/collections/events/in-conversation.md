@@ -41,8 +41,8 @@ cta: |-
 
   [07927770421](tel:07927770421)
 
-  [www.theartstation.uk/event/in-convesation-dirty-work/]
+  https://theartstation.uk/event/in-convesation-dirty-work/
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1661942372
+updated_at: 1661943047
 ---
 An insightful discussion between artist and DIRTY WORK part ONE curator William Cobbing and DIRTY WORK part TWO  artist Clare Twomey.
