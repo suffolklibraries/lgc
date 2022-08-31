@@ -131,7 +131,7 @@ content_area:
         type: text
         text: ' is at Framlingham Castle, only a couple of minutes walk from the venue.'
 booking_link: 'https://theartstation.uk/exhibition/dirty-work/'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660649567
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1661954616
 ---
 An exhibition of contemporary ceramic practice in two parts
