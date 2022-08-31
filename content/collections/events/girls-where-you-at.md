@@ -1,5 +1,6 @@
 ---
 id: c3a263e0-6875-43de-8335-4d6ce9453556
+published: false
 blueprint: events
 title: 'Girls, where you at?'
 event_categories:
@@ -91,6 +92,6 @@ content_area:
         type: text
         text: 'There is pay and display car park next to the venue and many others near by.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1661954356
+updated_at: 1661954475
 ---
 A programme of building confidence in girls, with exciting media workshops.
