@@ -54,7 +54,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Old Theatre is a 2-minute walk from the Framlingham Castle. It can also be accessed by bus from the Old Cattle Market (Ipswich) using the 118 bus. '
+        text: 'The Old Theatre is a 2-minute walk from the Framlingham Castle. It can also be easily accessed by bus from the Old Cattle Market (Ipswich) using the 118 line. '
   -
     type: heading
     attrs:
@@ -68,26 +68,24 @@ content_area:
         text: 'How to book'
   -
     type: paragraph
-  -
-    type: paragraph
     content:
       -
         type: text
-        text: 'The performance starts at 7:30pm. Tickets are free but please book tickets '
+        text: 'The event starts at 14.30 and can be booked '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theartstation.uk/product/alexander-costello-a-priori-tickets/'
+              href: 'https://theartstation.uk/event/in-conversation-dirty-work/'
               rel: null
-              target: _blank
+              target: null
               title: null
         text: here
       -
         type: text
-        text: ' '
+        text: .
 booking_link: 'https://theartstation.uk/event/in-conversation-dirty-work/'
 cta: |-
   This event is organised by The Art Station. 
@@ -96,8 +94,8 @@ cta: |-
 
   [07927770421](tel:07927770421)
 
-  [www.theartstation.uk/event/in-convesation-dirty-work/](www.theartstation.uk/event/in-convesation-dirty-work/)
+  [https://theartstation.uk/exhibition/dirty-work/](https://theartstation.uk/exhibition/dirty-work/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1661955958
+updated_at: 1661956657
 ---
 An insightful discussion between artist and DIRTY WORK part ONE curator William Cobbing and DIRTY WORK part TWO  artist Clare Twomey.
