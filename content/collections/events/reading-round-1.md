@@ -1,5 +1,6 @@
 ---
 id: ccd5fa61-aa8a-4e45-a7ea-6dccfb258791
+published: false
 blueprint: events
 title: 'Reading Round (Duplicated)'
 event_categories:
