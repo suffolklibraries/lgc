@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'What to expect'
+        text: About
   -
     type: paragraph
     content:
@@ -158,6 +158,6 @@ content_area:
         text: here
 booking_link: 'https://woodbridge-tide-mill-museum.arttickets.org.uk'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1662039739
+updated_at: 1662042723
 ---
 Woodbridge Tide Mill Museum – a fascinating living example of our industrial and cultural heritage
