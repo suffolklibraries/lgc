@@ -4,9 +4,9 @@ published: false
 blueprint: events
 title: 'Suffolk Horses on Display'
 featured_image: Suffolk-Punches-Thumbnail-800x700-1-aspect-ratio-800-700.jpg
-start_date: '2022-10-02 14:34'
-end_date: '2022-10-02 15:35'
-free: false
+start_date: '2022-10-02 11:00'
+end_date: '2022-10-02 12:30'
+free: true
 virtual: false
 content_area:
   -
@@ -23,6 +23,12 @@ content_area:
       -
         type: text
         text: 'NHRM is delighted to welcome the Suffolk Horse Society on Sunday 2nd October. This rare breed of workhorse is a sight to behold, and one not to be missed. You will be able to meet these beautiful horses and find out more about Suffolk Punches, so save the date for what is sure to be a fantastic day! Entrance is included in the cost of general admission which gives you access to all areas including the National Horseracing Museum, Palace House and the Rothschild Yard, where you can meet retired racehorses!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This event runs from 10.00 to 12.30 and 14.30 to 16.00.'
   -
     type: heading
     attrs:
@@ -74,6 +80,26 @@ content_area:
               title: null
         text: here
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662043769
+updated_at: 1662044566
+event_categories:
+  - museums
+organisers:
+  - national-horse-racing-museum
+cost_details: 'Free with a general admission ticket'
+attendance_information: '- Everyone'
+latitude: '52.2438502010271'
+longitude: '0.4074003844941362'
+address_line_1: 'Palace St'
+town: Newmarket
+postcode: 'CB8 8EP'
+booking_link: 'https://accessvam.accessacloud.com/NHRMBookings/'
+cta: |-
+  This event is carried out by the National Horse Racing Museum.
+
+  [Email: info@nhrm.co.uk](Email: info@nhrm.co.uk)
+
+  [01638667314](tel:01638667314)
+
+  [https://www.nhrm.co.uk/](https://www.nhrm.co.uk/)
 ---
 We’re excited to be welcoming the Suffolk Horse Society to NHRM on Sunday, 2nd October!
