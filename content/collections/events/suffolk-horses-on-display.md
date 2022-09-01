@@ -80,7 +80,7 @@ content_area:
               title: null
         text: here
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662044566
+updated_at: 1662046476
 event_categories:
   - museums
 organisers:
@@ -96,7 +96,7 @@ booking_link: 'https://accessvam.accessacloud.com/NHRMBookings/'
 cta: |-
   This event is carried out by the National Horse Racing Museum.
 
-  [Email: info@nhrm.co.uk](Email: info@nhrm.co.uk)
+  [info@nhrm.co.uk](Mailto:info@nhrm.co.uk)
 
   [01638667314](tel:01638667314)
 
