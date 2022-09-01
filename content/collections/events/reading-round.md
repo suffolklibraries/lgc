@@ -107,7 +107,7 @@ content_area:
         marks:
           -
             type: bold
-        text: Louise.millar@rfleducation.org.uk
+        text: louise.millar@rlfeducation.org.uk
   -
     type: paragraph
     content:
@@ -240,6 +240,6 @@ content_area:
         text: " near the venue, the closest is\_at Tower Ramparts, use IP1 3DH for Sat Navs."
 cta: 'To book a place, e-mail Louise on e-mail [mailto:louise.millar@rlfeducation.org.uk ](mailto:louise.millar@rlfeducation.org.uk )'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660225770
+updated_at: 1662024238
 ---
 A reading group with a difference!
