@@ -1,6 +1,5 @@
 ---
 id: 3ccfb1c0-ef61-4099-88e4-1704da5f27d3
-published: false
 blueprint: events
 title: 'Walking: Coast and Heaths AONB'
 event_categories:
@@ -89,6 +88,6 @@ content_area:
               title: null
         text: here
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1662042846
+updated_at: 1662042997
 ---
 Walk and explore the beauty of Coast and Heaths Area of Outstanding Natural Beauty
