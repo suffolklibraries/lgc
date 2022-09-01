@@ -1,6 +1,5 @@
 ---
 id: 203d6ea5-140d-46eb-9e6c-f7d24b6a6c89
-published: false
 blueprint: events
 title: 'Suffolk Wildlife Trust: 50 Nature Reserves'
 event_categories:
@@ -118,6 +117,6 @@ content_area:
         type: text
         text: ' for details on all sites and how to get there.'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1662042640
+updated_at: 1662042962
 ---
 50 beautiful nature reserves to visit in Suffolk!
