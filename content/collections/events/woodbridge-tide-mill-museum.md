@@ -1,6 +1,5 @@
 ---
 id: 6847f708-70d4-4701-a9f0-414d967c34d5
-published: false
 blueprint: events
 title: 'Woodbridge Tide Mill Museum'
 event_categories:
@@ -158,6 +157,6 @@ content_area:
         text: here
 booking_link: 'https://woodbridge-tide-mill-museum.arttickets.org.uk'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1662042723
+updated_at: 1662043013
 ---
 Woodbridge Tide Mill Museum – a fascinating living example of our industrial and cultural heritage
