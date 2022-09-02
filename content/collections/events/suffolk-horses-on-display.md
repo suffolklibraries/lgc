@@ -1,12 +1,11 @@
 ---
 id: ac00bfc5-0ecf-489b-a70c-075f37eae55d
-published: false
 blueprint: events
 title: 'Suffolk Horses on Display'
 featured_image: Suffolk-Punches-Thumbnail-800x700-1-aspect-ratio-800-700.jpg
 start_date: '2022-10-02 11:00'
 end_date: '2022-10-02 12:30'
-free: true
+free: false
 virtual: false
 content_area:
   -
@@ -22,7 +21,7 @@ content_area:
     content:
       -
         type: text
-        text: 'NHRM is delighted to welcome the Suffolk Horse Society on Sunday 2nd October. This rare breed of workhorse is a sight to behold, and one not to be missed. You will be able to meet these beautiful horses and find out more about Suffolk Punches, so save the date for what is sure to be a fantastic day! Entrance is included in the cost of general admission which gives you access to all areas including the National Horseracing Museum, Palace House and the Rothschild Yard, where you can meet retired racehorses!'
+        text: 'The National Horse Racing Museum is delighted to welcome the Suffolk Horse Society on Sunday 2 October. This rare breed of workhorse is a sight to behold, and one not to be missed. You will be able to meet these beautiful horses and find out more about Suffolk Punches, so save the date for what is sure to be a fantastic day! Entrance is included in the cost of general admission which gives you access to all areas including the National Horseracing Museum, Palace House and the Rothschild Yard, where you can meet retired racehorses!'
   -
     type: paragraph
     content:
@@ -79,8 +78,8 @@ content_area:
               target: null
               title: null
         text: here
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662046476
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1662133890
 event_categories:
   - museums
 organisers:
@@ -89,7 +88,7 @@ cost_details: 'Free with a general admission ticket'
 attendance_information: '- Everyone'
 latitude: '52.2438502010271'
 longitude: '0.4074003844941362'
-address_line_1: 'Palace St'
+address_line_1: 'National Horseracing Museum'
 town: Newmarket
 postcode: 'CB8 8EP'
 booking_link: 'https://accessvam.accessacloud.com/NHRMBookings/'
@@ -101,5 +100,6 @@ cta: |-
   [01638667314](tel:01638667314)
 
   [https://www.nhrm.co.uk/](https://www.nhrm.co.uk/)
+address_line_2: 'Palace St'
 ---
-We’re excited to be welcoming the Suffolk Horse Society to NHRM on Sunday, 2nd October!
+The National Horse Racing Musuem is excited to be welcoming the Suffolk Horse Society on Sunday 2 October!
