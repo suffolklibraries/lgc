@@ -7,7 +7,7 @@ event_categories:
   - exhibition
   - museums
 organisers:
-  - ipswich-entertains
+  - ipswich-museum
 featured_image: Screenshot-2022-07-26-at-14.40.34.png
 start_date: '2022-07-07 10:00'
 end_date: '2022-09-25 17:00'
@@ -98,7 +98,7 @@ content_area:
               target: _blank
               title: null
         text: here
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659014080
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662124233
 ---
 A revisited exhibition of John Constable's work with contemporary artists
