@@ -1,7 +1,8 @@
 ---
 id: a44926de-b376-4d30-99d8-69c85ff4f0d4
+published: false
 blueprint: events
-title: 'Reading Round (Duplicated) (2)'
+title: 'Reading Round'
 event_categories:
   - languages
   - literature
@@ -9,8 +10,8 @@ organisers:
   - reading-round
   - suffolk-libraries
 featured_image: Screenshot-2022-08-11-at-14.24.18.png
-start_date: '2022-09-09 13:45'
-end_date: '2022-09-09 15:15'
+start_date: '2022-09-16 13:45'
+end_date: '2022-09-16 15:15'
 free: true
 virtual: false
 latitude: '52.058781626316694'
@@ -239,7 +240,7 @@ content_area:
         type: text
         text: " near the venue, the closest is\_at Tower Ramparts, use IP1 3DH for Sat Navs."
 cta: 'To book a place, e-mail Louise on e-mail [mailto:louise.millar@rlfeducation.org.uk ](mailto:louise.millar@rlfeducation.org.uk )'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1662024238
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662375461
 ---
 A reading group with a difference!
