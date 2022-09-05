@@ -1,5 +1,6 @@
 ---
 id: 79b604e9-dede-4eaf-ada6-be8d88c0e6e6
+published: false
 blueprint: events
 title: 'Aldeburgh Carnival with Group A'
 event_categories:
@@ -115,7 +116,7 @@ content_area:
         type: text
         text: "\_"
 cta: 'For more information or to sign up, e-mail [mailto:community@brittenpearsarts.org](mailto:community@brittenpearsarts.org )'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659621877
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390428
 ---
 Take part in workshops, rehearsals and performance for Aldeburgh Carnival
