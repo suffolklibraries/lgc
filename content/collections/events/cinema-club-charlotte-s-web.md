@@ -1,5 +1,6 @@
 ---
 id: ede970d1-3614-4c1e-8387-c49f1419fd2a
+published: false
 blueprint: events
 title: 'Cinema Club: Charlotte''s Web'
 event_categories:
@@ -75,7 +76,7 @@ content_area:
         type: text
         text: "\_"
 booking_link: 'https://www.ticketsource.co.uk/booking/select/avgMzRXdneQE'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660211665
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390941
 ---
 Come and take part in an adventure with Charlotte in ‘Charlotte’s Web.’
