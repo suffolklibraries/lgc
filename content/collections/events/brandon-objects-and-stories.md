@@ -125,7 +125,7 @@ cta: |-
 
   [https://www.cppmarketplace.co.uk](https://www.cppmarketplace.co.uk)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662390816
+updated_at: 1662391301
 attendance_information: 'Open to all'
 booking_link: 'https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/'
 ---
