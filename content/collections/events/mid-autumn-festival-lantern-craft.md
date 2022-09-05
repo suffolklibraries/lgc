@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Mid-Autumn Festival is a traditional festival widely celebrated in Asian countries such as Taiwan, Hong Kong, Singapore, Vietnam and China. Celebrate the festival through lantern craft and solving lantern riddles and learn its history and traditions through our mini display on Ipswich waterfront.'
+        text: 'The Mid-autumn Festival is a traditional festival widely celebrated in Asian countries such as Taiwan, Hong Kong, Singapore, Vietnam and China. Celebrate the festival through lantern craft and solving lantern riddles and learn its history and traditions through our mini display on Ipswich waterfront.'
       -
         type: hard_break
       -
@@ -79,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich train station is a 20 minute walk from the building and if you''re travelling by bus then find out which bus routes you can take to get you to The Hold '
+        text: 'The Ipswich train station is a 20 minute walk from the building and if you''re travelling by bus then find out which bus routes you can take to The Hold '
       -
         type: text
         marks:
@@ -123,7 +123,7 @@ content_area:
         type: text
         text: ' or on the door.'
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662391366
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1662391492
 cta: '[https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj](https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj)'
 ---
