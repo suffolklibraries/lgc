@@ -1,5 +1,6 @@
 ---
 id: 43840c11-3383-47c8-8f9d-0157d4b9c382
+published: false
 blueprint: events
 title: 'Saturday Art Club'
 event_categories:
@@ -8,7 +9,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: miscellaneous/saturday-art-club.jfif
-start_date: '2022-09-03 10:00'
+start_date: '2022-09-17 10:00'
 free: false
 virtual: false
 latitude: '52.05306962490606'
@@ -108,9 +109,9 @@ cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1660814520
-end_date: '2022-09-03 11:30'
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662383837
+end_date: '2022-09-17 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
 ---
