@@ -1,5 +1,6 @@
 ---
 id: 3e48e433-5b71-4a5f-b0b9-9692b4a25f57
+published: false
 blueprint: events
 title: 'Book Themed Activities'
 event_categories:
@@ -82,7 +83,7 @@ content_area:
       -
         type: text
         text: 'The venue is located close to the bus station which is serviced by the Coastal Clipper, Coastal Reds and Coastlink services. Lowestoft also has a train station a four-minute walk away. The closest public car park is the Britten Centre multi-story car park.'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659014156
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390753
 ---
 Fun book-themed activties over the school holidays at Waterstones
