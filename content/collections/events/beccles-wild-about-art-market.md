@@ -1,5 +1,6 @@
 ---
 id: 96210e23-61c8-4adc-8ea5-b5ed1aa9ac8d
+published: false
 blueprint: events
 title: 'Beccles Wild About Art Market'
 start_date: '2022-03-05 09:00'
@@ -61,8 +62,8 @@ content_area:
       -
         type: text
         text: 'This event is free to attend and booking is not required. '
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1646238043
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390675
 event_categories:
   - art
   - family-friendly
