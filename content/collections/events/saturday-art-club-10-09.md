@@ -108,8 +108,8 @@ cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1661862249
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662383789
 end_date: '2022-09-10 11:30'
 cost_details: £5
 attendance_information: '5 - 10 years'
