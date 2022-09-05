@@ -1,6 +1,5 @@
 ---
 id: dfe68fc2-0470-473a-aaf5-1ed95a9de2c9
-published: false
 blueprint: events
 title: 'Books on Holiday Trail - Oulton Broad'
 event_categories:
@@ -135,6 +134,6 @@ content_area:
         type: text
         text: 'There is some parking available at the Library. The nearest public car park to Oulton Broad Library is on Bridge Road and there is a close by train stop on Oulton Road North.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662390764
+updated_at: 1662390779
 ---
 Find all 15 books on holiday to win a prize!
