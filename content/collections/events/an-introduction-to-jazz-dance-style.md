@@ -1,5 +1,6 @@
 ---
 id: e4f78914-165b-43ad-99cf-bf45dda335f1
+published: false
 blueprint: events
 title: 'An introduction to jazz dance style'
 event_categories:
@@ -77,7 +78,7 @@ cta: |-
   Book your ticket by e-mailing [community@theseagull.co.uk](community@theseagull.co.uk)
 
   Or call 01502589726
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655984989
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390458
 ---
 Discover jazz dance techniques and learn from a professional dancer.
