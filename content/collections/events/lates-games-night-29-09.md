@@ -5,7 +5,7 @@ blueprint: events
 title: 'Lates: Games Night'
 organisers:
   - suffolk-archives
-featured_image: Games-night.JPG
+featured_image: Games-night..JPG
 start_date: '2022-09-29 19:00'
 end_date: '2022-09-29 22:00'
 free: true
@@ -90,5 +90,5 @@ content_area:
         text: '. '
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/lates-games-night/e-mzaqzd'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662389331
+updated_at: 1662389377
 ---
