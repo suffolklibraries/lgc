@@ -1,5 +1,6 @@
 ---
 id: 139c2bfe-0c47-4189-8d6d-580361a492e7
+published: false
 blueprint: events
 title: 'Brandon Objects & Stories: Drop In Story Collection'
 event_categories:
@@ -123,8 +124,8 @@ cta: |-
   This event is run by Marketplace, for more information please visit:
 
   [https://www.cppmarketplace.co.uk](https://www.cppmarketplace.co.uk)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647431188
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390816
 attendance_information: 'Open to all'
 booking_link: 'https://www.cppmarketplace.co.uk/objects-and-stories-with-digital-artist-michelle-brace/'
 ---
