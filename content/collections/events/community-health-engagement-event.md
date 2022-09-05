@@ -1,5 +1,6 @@
 ---
 id: 198e8a51-0234-4b8d-b161-d7813974e2c8
+published: false
 blueprint: events
 title: 'Community Health Engagement Event'
 event_categories:
@@ -49,7 +50,7 @@ content_area:
       -
         type: text
         text: 'The nearest car park is the Old Market Plain Carpark, 1-minute from the venue. The nearest bus stop is Adrian Road Bus Stop, a 6-minute walk away.'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659014857
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662391407
 ---
 Activites and health advice
