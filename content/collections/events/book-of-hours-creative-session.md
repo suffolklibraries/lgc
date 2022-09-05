@@ -1,5 +1,6 @@
 ---
 id: 956bb3e4-8ea0-4c82-ad67-37b545fb8a38
+published: false
 blueprint: events
 title: 'Book of Hours Creative session'
 organisers:
@@ -20,8 +21,8 @@ cta: |-
   [info@theartstation.uk](mailto:info@theartstation.uk)
 
   [07927 770421](tel:07927770421)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1652267369
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390738
 event_categories:
   - art
   - crafts
