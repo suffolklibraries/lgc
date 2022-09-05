@@ -111,7 +111,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662389951
+updated_at: 1662389997
 accessibility_information: '-Wheelchair accessible'
 ---
 Put your super sleuthing skills to the test as a murder is announced at The Hold.
