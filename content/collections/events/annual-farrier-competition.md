@@ -1,5 +1,6 @@
 ---
 id: 0b524811-ba25-4ddc-a811-f0085b92a7a0
+published: false
 blueprint: events
 title: 'Annual Farrier Competition'
 event_categories:
@@ -110,7 +111,7 @@ content_area:
               title: null
         text: here
 booking_link: 'https://www.nhrm.co.uk/events/annual-farrier-competition/'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659437547
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390471
 ---
 Watch the sparks fly at the National Horse Racing Museum’s annual farrier competition!
