@@ -1,10 +1,11 @@
 ---
 id: 2b663624-37be-4d90-bde3-5b8951d4b200
+published: false
 blueprint: events
-title: 'Hadleigh Mini Movers (Duplicated)'
+title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662374996
+updated_at: 1662375034
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
 start_date: '2022-09-27 09:15'
