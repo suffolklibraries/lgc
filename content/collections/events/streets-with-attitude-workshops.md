@@ -1,5 +1,6 @@
 ---
 id: 1470de1b-fc6c-4cf0-ab1a-f1e90da9d02c
+published: false
 blueprint: events
 title: '''Streets with Attitude'' workshops on wheels with Dulce Duca'
 start_date: '2022-05-30 16:00'
@@ -107,8 +108,8 @@ content_area:
               target: _blank
               title: null
         text: '07523243654'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1651235112
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390361
 event_categories:
   - teen-and-young-adult
   - workshop
