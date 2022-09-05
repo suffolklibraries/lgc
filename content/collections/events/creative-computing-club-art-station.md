@@ -1,5 +1,6 @@
 ---
 id: e998783b-e642-4067-9ae9-4d09b11dac28
+published: false
 blueprint: events
 title: 'Coding and Technology Skills with Creative Computing Club'
 event_categories:
@@ -136,8 +137,8 @@ cta: |-
   [https://theartstation.uk/](https://theartstation.uk/)
 
   [07927770421](tel:07927770421)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1647430169
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390899
 attendance_information: '8 - 16 years'
 ---
 Fun sessions for young people looking to learn more about computers and coding.
