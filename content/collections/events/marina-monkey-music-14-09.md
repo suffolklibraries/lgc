@@ -1,5 +1,6 @@
 ---
 id: 98537613-81b2-48a6-bf0c-60c89f7fc7d0
+published: false
 blueprint: events
 title: 'Marina Monkey Music (Duplicated)'
 event_categories:
@@ -9,8 +10,8 @@ event_categories:
 organisers:
   - marina-theatre
 featured_image: 278576907_163124276094747_2933283951480655461_n.jpg
-start_date: '2022-07-20 13:30'
-end_date: '2022-07-20 14:30'
+start_date: '2022-09-14 13:30'
+end_date: '2022-09-14 14:30'
 free: false
 cost_details: £5
 virtual: false
@@ -111,7 +112,7 @@ cta: |-
   To book your place, e-mail Donna [music@marinatheatre.co.uk](music@marinatheatre.co.uk)
 
   Or call the Marina Theatre Box Office on 01502533200
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659015393
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662385712
 ---
 An exploration of sound, music, stories and sensory play for little ones.
