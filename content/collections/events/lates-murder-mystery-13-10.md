@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: Murder-mystery.JPG
-start_date: '2022-11-24 19:00'
-end_date: '2022-11-24 22:00'
+start_date: '2022-10-13 19:00'
+end_date: '2022-10-13 22:00'
 free: false
 cost_details: £5
 virtual: false
@@ -111,7 +111,7 @@ cta: |-
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662389997
+updated_at: 1662390095
 accessibility_information: '-Wheelchair accessible'
 ---
 Put your super sleuthing skills to the test as a murder is announced at The Hold.
