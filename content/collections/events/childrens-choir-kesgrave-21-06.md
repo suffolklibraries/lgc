@@ -1,5 +1,6 @@
 ---
 id: 63e4ab01-1b44-47a1-bf52-5fc4b83f0590
+published: false
 blueprint: events
 title: 'Children’s Choir - Kesgrave'
 event_categories:
@@ -89,8 +90,8 @@ content_area:
       -
         type: text
         text: 'The first session of the children''s choir is free to attend and, if your child enjoys the session, from then on is £5 per session.'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1655197307
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390911
 end_date: '2022-06-21 18:30'
 attendance_information: '5-11 years'
 latitude: '52.0617115716603'
