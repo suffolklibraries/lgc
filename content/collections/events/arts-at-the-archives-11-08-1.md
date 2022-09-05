@@ -1,5 +1,6 @@
 ---
 id: e732a72f-f95a-41af-bb53-93e05e68beef
+published: false
 blueprint: events
 title: 'Art at the Archives'
 event_categories:
@@ -139,8 +140,8 @@ cta: |-
   This event is run by Suffolk Archives, for more information please get in touch via:
 
   [https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx](https://www.ticketsource.co.uk/whats-on/lowestoft/lowestoft-archives/arts-at-the-archives/2022-05-14/10:30/t-nokkjdx)
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1656586690
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390635
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 end_date: '2022-07-09 12:30'
 latitude: '52.476991717574975'
