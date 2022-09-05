@@ -5,10 +5,10 @@ blueprint: events
 title: 'Participate - Saxmundham'
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
-start_date: '2022-02-22 10:30'
-end_date: '2022-02-22 12:00'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1645522309
+start_date: '2022-09-20 10:30'
+end_date: '2022-09-20 12:30'
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662380197
 free: true
 virtual: false
 organisers:
@@ -76,12 +76,6 @@ content_area:
       -
         type: text
         text: 'Participate takes place 10:30am to 12:30pm every Tuesday morning at the Market Hall in Saxmundham.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Please note there will not be a session on Tuesday 15th February. '
   -
     type: paragraph
     content:
