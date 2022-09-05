@@ -72,7 +72,7 @@ cta: |-
   Book via [https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form ](https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form)
 
   or e-mail [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1661863964
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662385528
 ---
 South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people.
