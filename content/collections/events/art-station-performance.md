@@ -1,5 +1,6 @@
 ---
 id: 6079754b-d770-4725-8e73-5c8917d24850
+published: false
 blueprint: events
 title: 'Alexander Costello: A Priori'
 organisers:
@@ -7,8 +8,8 @@ organisers:
 start_date: '2022-05-20 19:00'
 free: true
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1652974049
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390443
 event_categories:
   - art
   - performance
