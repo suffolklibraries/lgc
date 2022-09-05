@@ -1,5 +1,6 @@
 ---
 id: 5e47dba1-0f53-4776-a1de-9a87f62921cc
+published: false
 blueprint: events
 title: 'A Chorus Line  - SYPT - Audition'
 event_categories:
@@ -103,8 +104,8 @@ cta: |-
   This event is run by Suffolk Young People’s Theatre, for more information please get in touch via:
 
   [https://sypt.website](https://sypt.website)
-updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
-updated_at: 1652262259
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390403
 latitude: '52.239341265589545'
 longitude: '0.7162382582598522'
 address_line_1: 'Greene King Social Club'
