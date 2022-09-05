@@ -1,5 +1,6 @@
 ---
 id: ccd5fa61-aa8a-4e45-a7ea-6dccfb258791
+published: false
 blueprint: events
 title: 'Reading Round: make new friends, find great new reads'
 event_categories:
@@ -239,7 +240,7 @@ content_area:
         type: text
         text: " near the venue, the closest is\_at Tower Ramparts, use IP1 3DH for Sat Navs."
 cta: 'To book a place, e-mail Louise on e-mail [mailto:louise.millar@rlfeducation.org.uk ](mailto:louise.millar@rlfeducation.org.uk )'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1662042979
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662375320
 ---
 A reading group with a difference!
