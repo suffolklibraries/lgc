@@ -2,7 +2,7 @@
 id: 98537613-81b2-48a6-bf0c-60c89f7fc7d0
 published: false
 blueprint: events
-title: 'Marina Monkey Music (Duplicated)'
+title: 'Marina Monkey Music'
 event_categories:
   - early-years
   - music
@@ -113,6 +113,6 @@ cta: |-
 
   Or call the Marina Theatre Box Office on 01502533200
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662385712
+updated_at: 1662385766
 ---
 An exploration of sound, music, stories and sensory play for little ones.
