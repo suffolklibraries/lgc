@@ -1,12 +1,13 @@
 ---
 id: 6be2450f-4639-4d96-ab51-dd1bc3f69977
+published: false
 blueprint: events
 title: 'Belly Dancing Classes'
 start_date: '2022-07-04 19:00'
 free: false
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1656432558
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662390702
 event_categories:
   - movement
   - dance
