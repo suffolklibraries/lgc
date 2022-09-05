@@ -10,7 +10,7 @@ start_date: '2022-09-29 19:00'
 end_date: '2022-09-29 22:00'
 free: true
 virtual: false
-attendance_information: '- +18'
+attendance_information: '- 18+'
 latitude: '52.053403991340154'
 longitude: '1.163848821835618'
 address_line_1: 'The Hold'
@@ -90,7 +90,7 @@ content_area:
         text: '. '
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/lates-games-night/e-mzaqzd'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662389907
+updated_at: 1662390150
 cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
