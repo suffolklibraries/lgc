@@ -14,7 +14,7 @@ end_date: '2022-09-09 16:30'
 free: false
 cost_details: £3.00
 virtual: false
-attendance_information: 3+
+attendance_information: '- 3+'
 latitude: '52.47919060875801'
 longitude: '1.7548187963124016'
 address_line_1: 'Funny Farm Soft Play Cafe'
@@ -69,6 +69,6 @@ content_area:
         type: text
         text: 'The nearest car park is Whapload Road Car Park.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662386533
+updated_at: 1662455802
 ---
 3+ years
