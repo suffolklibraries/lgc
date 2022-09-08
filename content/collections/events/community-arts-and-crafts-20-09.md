@@ -1,5 +1,6 @@
 ---
 id: 43243b2e-3851-43f8-aa15-847f2f3de465
+published: false
 blueprint: events
 title: 'Community Arts and Crafts (Duplicated) (2)'
 event_categories:
@@ -8,8 +9,8 @@ event_categories:
 organisers:
   - castle-hill-art-society
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2022-09-13 13:30'
-end_date: '2022-09-13 15:30'
+start_date: '2022-09-20 13:30'
+end_date: '2022-09-20 15:30'
 free: false
 cost_details: £2
 virtual: false
@@ -95,6 +96,6 @@ content_area:
         type: text
         text: ' '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662627534
+updated_at: 1662630762
 ---
 Community art and craft group
