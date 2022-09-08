@@ -1,6 +1,5 @@
 ---
 id: 706fc9c8-a7e8-47bc-8e59-ee691ef15e61
-published: false
 blueprint: events
 title: 'Mid-Autumn Festival: Lantern Craft'
 event_categories:
@@ -123,8 +122,8 @@ content_area:
         type: text
         text: ' or on the door.'
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1662623779
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662624195
 cta: '[https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj](https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj)'
 accessibility_information: '- Wheelchair accessibility'
 ---
