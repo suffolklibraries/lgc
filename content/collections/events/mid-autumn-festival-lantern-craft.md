@@ -124,7 +124,7 @@ content_area:
         text: ' or on the door.'
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662391900
+updated_at: 1662623569
 cta: '[https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj](https://www.ticketsource.co.uk/suffolk-archives/mid-autumn-festival-lantern-craft/e-yvvqpj)'
 accessibility_information: '- Wheelchair accessibility'
 ---
