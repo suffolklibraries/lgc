@@ -1,6 +1,5 @@
 ---
 id: 157ed3ea-01e5-456c-8d9d-b06027535c19
-published: false
 blueprint: events
 title: 'Community Conversations at The Hive'
 featured_image: Screenshot-2022-05-23-113050-new-new.png
