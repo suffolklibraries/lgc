@@ -13,8 +13,8 @@ end_date: '2022-09-13 15:30'
 free: false
 cost_details: £2
 virtual: false
-attendance_information: 'All welcome'
-accessibility_information: '-Wheelchair accessible'
+attendance_information: '- All welcome'
+accessibility_information: '- Wheelchair accessible'
 latitude: '52.07564056809239'
 longitude: '1.130352209918673'
 address_line_1: 'Castle Hill Community Centre'
@@ -94,7 +94,7 @@ content_area:
       -
         type: text
         text: ' '
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1662472023
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1662627534
 ---
 Community art and craft group
