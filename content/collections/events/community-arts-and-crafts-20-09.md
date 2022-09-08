@@ -2,7 +2,7 @@
 id: 43243b2e-3851-43f8-aa15-847f2f3de465
 published: false
 blueprint: events
-title: 'Community Arts and Crafts (Duplicated) (2)'
+title: 'Community Arts and Crafts'
 event_categories:
   - art
   - community
@@ -96,6 +96,6 @@ content_area:
         type: text
         text: ' '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662630762
+updated_at: 1662634366
 ---
 Community art and craft group
