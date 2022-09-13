@@ -1,14 +1,15 @@
 ---
 id: 26f4fe5f-2e3d-4ea9-aae6-13e51e247979
+published: false
 blueprint: events
-title: 'Get Suffolk Reading - Heritage Story Trail (Duplicated)'
+title: 'Digital Story Trial'
 event_categories:
   - community
   - get-suffolk-reading
   - literature
-featured_image: offthepressimages/new_resized_images/Literature.png
-start_date: '2022-09-17 10:00'
-end_date: '2022-09-17 12:00'
+featured_image: Suffolk_banner4.2e16d0ba.fill-850x365.png
+start_date: '2022-09-13 00:00'
+end_date: '2022-10-13 00:00'
 free: true
 virtual: false
 attendance_information: Children
@@ -48,7 +49,7 @@ content_area:
         type: text
         text: 'There is both a bus and train service that are a short distance to the venue. The nearest car park is Clapham Road Car Park. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663063196
+updated_at: 1663063487
 organisers:
   - get-suffolk-reading
 ---
