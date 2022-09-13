@@ -1,6 +1,5 @@
 ---
 id: 26f4fe5f-2e3d-4ea9-aae6-13e51e247979
-published: false
 blueprint: events
 title: 'Get Suffolk Reading - Digital Story Trail'
 event_categories:
@@ -8,8 +7,8 @@ event_categories:
   - get-suffolk-reading
   - literature
 featured_image: Picture1.jpg
-start_date: '2022-09-13 00:00'
-end_date: '2022-10-13 00:00'
+start_date: '2022-09-13 09:00'
+end_date: '2022-10-13 09:00'
 free: true
 virtual: false
 attendance_information: Children
@@ -33,7 +32,13 @@ content_area:
     content:
       -
         type: text
-        text: "You can enjoy a story and a walk anytime!\_ Using QR codes you can enjoy a story together starting at Vera Gs Café and ending up at Lowestoft Library.\_ We will be changing the story behind the QR codes so do revisit to enjoy more stories.\_ You can pick up a map at the library or Vera Gs or download it\_"
+        text: "You can enjoy a story and a walk anytime!\_ Using QR codes you and your family can enjoy a story together starting at Vera Gs Café and ending up at Lowestoft Library.\_ The stories behind the QR codes will keep changing so do revisit to enjoy more stories.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "You can pick up a map at Lowestoft Library or Vera Gs or download it\_"
       -
         type: text
         marks:
@@ -47,7 +52,7 @@ content_area:
         text: here
       -
         type: text
-        text: '. Pop into the library to tell them something about the story you enjoyed to get a stamp on your Get Suffolk Reading reward card!'
+        text: '. Pop into Lowestoft Library to tell them something about the story you enjoyed to get a stamp on your Get Suffolk Reading reward card!'
   -
     type: heading
     attrs:
@@ -61,16 +66,31 @@ content_area:
     content:
       -
         type: text
-        text: 'There are both bus and train services that are a short walking distance to Library. The nearest car park is Clapham Road Car Park. '
+        text: 'There are both bus and train services that are a short walking distance to Lowestoft Library. The nearest car park is Clapham Road Car Park. '
   -
     type: paragraph
     content:
       -
         type: text
         text: 'Vera Gs Café address: St Margarets Rd, Lowestoft NR32 4HW'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663069588
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'No need to book but click on the link above to find out more about the trial or download a map. '
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1663082756
 organisers:
   - get-suffolk-reading
+booking_link: 'https://literacytrust.org.uk/communities/suffolk/'
 ---
 Join in the Digital Story Trail and collect stamps on your reward card!
