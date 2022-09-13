@@ -61,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is both a bus and train service that are a short walking distance to Library. The nearest car park is Clapham Road Car Park. '
+        text: 'There are both bus and train services that are a short walking distance to Library. The nearest car park is Clapham Road Car Park. '
   -
     type: paragraph
     content:
@@ -69,7 +69,7 @@ content_area:
         type: text
         text: 'Vera Gs Café address: St Margarets Rd, Lowestoft NR32 4HW'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663064656
+updated_at: 1663069588
 organisers:
   - get-suffolk-reading
 ---
