@@ -1,11 +1,11 @@
 ---
 id: 4067da62-8392-477c-8e60-84e0f9c7ada2
+published: false
 blueprint: events
 title: 'Get Suffolk Reading - Story Trail, Kessingland'
 event_categories:
   - community
   - get-suffolk-reading
-  - story
 featured_image: offthepressimages/new_resized_images/Literature.png
 start_date: '2022-07-23 10:30'
 end_date: '2022-07-23 12:30'
@@ -59,8 +59,8 @@ content_area:
       -
         type: text
         text: 'The nearest bus stop is on Fisherman''s Way and is served by the Coastal 99 Clipper.'
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1657793147
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1663063174
 organisers:
   - national-literacy-trust
 ---
