@@ -49,7 +49,7 @@ content_area:
         type: text
         text: 'There is both a bus and train service that are a short distance to the venue. The nearest car park is Clapham Road Car Park. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663062475
+updated_at: 1663063196
 organisers:
   - get-suffolk-reading
 ---
