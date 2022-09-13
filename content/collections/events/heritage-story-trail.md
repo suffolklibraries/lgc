@@ -1,8 +1,7 @@
 ---
 id: c3960c5a-b87c-4822-85f4-1557b3f61b26
-published: false
 blueprint: events
-title: 'Get Suffolk Reading - Heritage Story Trail'
+title: 'Heritage Story Trail'
 event_categories:
   - community
   - get-suffolk-reading
@@ -12,7 +11,7 @@ start_date: '2022-09-17 10:00'
 end_date: '2022-09-17 12:00'
 free: true
 virtual: false
-attendance_information: Children
+attendance_information: 'Young children and families'
 latitude: '52.477018128511666'
 longitude: '1.7504124404905836'
 address_line_1: 'Lowestoft Library'
@@ -48,9 +47,23 @@ content_area:
       -
         type: text
         text: 'There is both a bus and train service that are a short walking distance to Library. The nearest car park is Clapham Road Car Park. '
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663064399
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There''s no need to book just come along to the library and pick up a map!'
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1663082532
 organisers:
   - get-suffolk-reading
 ---
-Come and enjoy the exciting story trail through the town down to the train station.
+Come and enjoy an exciting story trail through Lowestoft down to the train station!
