@@ -63,8 +63,8 @@ content_area:
     content:
       -
         type: text
-        text: 'Located a short walk away from the Suffolk Coastline and the Lowestoft Lighthouse. '
+        text: 'Located a short walk away from the Suffolk Coastline and the Lowestoft Lighthouse. The closest parking is the Whapload Rd car park which is only a minute walk to the Sparrows Nest Gardens. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663066698
+updated_at: 1663074150
 ---
 Come and find Get Suffolk Reading and enjoy our Eco trail at the Big Green Weekender at Sparrows Nest in Lowestoft
