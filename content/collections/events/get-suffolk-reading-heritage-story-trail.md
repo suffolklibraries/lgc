@@ -6,7 +6,7 @@ title: 'Get Suffolk Reading - Heritage Story Trail'
 event_categories:
   - community
   - get-suffolk-reading
-  - story
+  - literature
 featured_image: offthepressimages/new_resized_images/Literature.png
 start_date: '2022-09-17 10:00'
 end_date: '2022-09-17 12:00'
@@ -49,7 +49,7 @@ content_area:
         type: text
         text: 'There is both a bus and train service that are a short distance to the venue. The nearest car park is Clapham Road Car Park. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663059652
+updated_at: 1663062475
 organisers:
   - get-suffolk-reading
 ---
