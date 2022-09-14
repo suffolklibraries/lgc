@@ -7,10 +7,8 @@ start_date: '2021-12-22 15:30'
 end_date: '2021-12-22 16:30'
 free: false
 virtual: true
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1633092728
-event_categories:
-  - combined-arts
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1663139335
 organisers:
   - suffolk-art-link
 featured_image: suffolkartlinkimages/around-the-table.jpg
