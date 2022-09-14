@@ -37,19 +37,19 @@ content_area:
     content:
       -
         type: text
-        text: "Lowestoft Town Council welcome you to this Great Big Green event. Join us in Sparrows Nest Gardens on Saturday 24th September 2022 for this\_collaborative event with our partners from across our Town that want to champion the issues that we are all facing in regards to Climate and Sustainability."
+        text: "Lowestoft Town Council welcome you to this Great Big Green event. Join in at the Sparrows Nest Gardens on Saturday 24th September 2022 for this\_collaborative event with partners from across Lowestoft town that want to champion the issues that we are all facing in regards to Climate and Sustainability."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We will have input from the Met Office, Waveney Beekeepers, Suffolk Wildlife Trust, Get Suffolk Reading, Groundworks East, plant based and vegetarian food vendors and also performances by local groups/singers and so much more for everyone to enjoy!'
+        text: 'There will be input from the Met Office, Waveney Beekeepers, Suffolk Wildlife Trust, Get Suffolk Reading, Groundworks East, plant based and vegetarian food vendors and also performances by local groups/singers and so much more for everyone to enjoy!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please join us in what should be a great green event!'
+        text: 'Please join the Lowestoft town council in what should be a great green event!'
   -
     type: heading
     attrs:
@@ -64,7 +64,26 @@ content_area:
       -
         type: text
         text: 'Located a short walk away from the Suffolk Coastline and the Lowestoft Lighthouse. The closest parking is the Whapload Rd car park which is only a minute walk to the Sparrows Nest Gardens. '
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1663083076
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This event does not require booking. '
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1663139738
+booking_link: 'https://www.lowestofttowncouncil.gov.uk/events/the-great-big-green-weekender/?date=2022-09-24'
+cta: |-
+  This event is run by Lowestoft town council, for more information please visit: 
+
+  [https://www.lowestofttowncouncil.gov.uk/events/the-great-big-green-weekender/?date=2022-09-24](https://www.lowestofttowncouncil.gov.uk/events/the-great-big-green-weekender/?date=2022-09-24)
 ---
 Come and find Get Suffolk Reading and enjoy our Eco trail at the Big Green Weekender at Sparrows Nest in Lowestoft
