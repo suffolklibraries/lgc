@@ -1,6 +1,5 @@
 ---
 id: 5584afc2-184e-4503-b78a-20e946b66706
-published: false
 blueprint: events
 title: 'Sand Art, Fun and Crafts'
 event_categories:
@@ -76,6 +75,6 @@ content_area:
         type: text
         text: 'The nearest car park is Whapload Road Car Park.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662626834
+updated_at: 1663150481
 ---
 0-5s Sand Art Sessions
