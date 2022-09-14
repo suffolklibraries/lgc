@@ -10,7 +10,7 @@ event_categories:
   - exhibition
 organisers:
   - mid-suffolk-district-council
-featured_image: 301014971_387829006798730_2647291147590701559_n.jpg
+featured_image: 'What''s-next-for-Stowmarket-2.JPG'
 start_date: '2022-09-22 17:00'
 end_date: '2022-09-22 19:00'
 free: true
@@ -183,6 +183,6 @@ content_area:
         type: text
         text: 'Booking is not required. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663148991
+updated_at: 1663149362
 ---
 Join the What's Next for Stowmarket Exhibition and find out the projects and proposals that will shape the future of the town.
