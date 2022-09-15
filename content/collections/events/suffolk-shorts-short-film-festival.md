@@ -1,6 +1,5 @@
 ---
 id: 8e5d3bdb-60fd-4d5e-8c2f-563a66391778
-published: false
 blueprint: events
 title: 'Suffolk Shorts - Short Film Festival'
 event_categories:
@@ -36,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the Short Film Festival at The Riverside on Saturday 8 October for a celebration of independent short films from around the world, and a special programme showcasing the best new shorts from East Anglian filmmakers! Short films are the future!  '
+        text: 'Join the Short Film Festival at The Riverside, Woodbridge on Saturday 8 October for a celebration of independent short films from around the world. There will also be a special programme showcasing the best new shorts from East Anglian filmmakers! Short films are the future!  '
   -
     type: paragraph
     content:
@@ -137,7 +136,7 @@ cta: |-
   [https://www.theriverside.co.uk/cinema/](https://www.theriverside.co.uk/cinema/)
 
   [01394382174](tel.01394382174)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663146006
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1663258601
 ---
-Join The Riverside for the amazing Short Film Festival!
+Discover a variety of fantastic short films with this short film festival.
