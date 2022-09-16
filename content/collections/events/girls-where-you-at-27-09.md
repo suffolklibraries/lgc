@@ -1,7 +1,8 @@
 ---
 id: 36d53398-cf66-4fd5-a3a1-eb7c54e43834
+published: false
 blueprint: events
-title: 'Girls, where you at? (Duplicated)'
+title: 'Girls, where you at?'
 event_categories:
   - activity
   - community
@@ -10,8 +11,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2022-09-20 17:00'
-end_date: '2022-09-20 19:00'
+start_date: '2022-09-27 17:00'
+end_date: '2022-09-27 19:00'
 free: true
 virtual: false
 attendance_information: '- 12-19 year old girls'
@@ -107,7 +108,7 @@ content_area:
         type: text
         text: 'Booking is not required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663323472
+updated_at: 1663323534
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 A programme of building confidence in girls, with exciting media workshops.
