@@ -108,7 +108,7 @@ content_area:
         type: text
         text: 'Booking is not required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663323472
+updated_at: 1663323556
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 A programme of building confidence in girls, with exciting media workshops.
