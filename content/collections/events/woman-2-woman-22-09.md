@@ -11,8 +11,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: Screenshot-2022-07-20-at-10.30.54.png
-start_date: '2022-09-01 11:00'
-end_date: '2022-09-01 12:00'
+start_date: '2022-09-22 12:30'
+end_date: '2022-09-22 13:30'
 free: true
 virtual: false
 attendance_information: 'Migrant, refugee and asylum-seeking women'
@@ -96,7 +96,8 @@ content_area:
         text: 'There are many public car parks nearby, use postcode IP1 2ET to search.'
   -
     type: paragraph
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1659015624
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1663324348
+cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 Building confidence with radio skills
