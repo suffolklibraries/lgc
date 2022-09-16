@@ -6,15 +6,17 @@ title: 'Girls, where you at?'
 event_categories:
   - activity
   - community
+  - computing
+  - teen-and-young-adult
 organisers:
   - future-female-society
 featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2022-09-06 17:00'
-end_date: '2022-09-06 19:00'
+start_date: '2022-09-20 17:00'
+end_date: '2022-09-20 19:00'
 free: true
 virtual: false
-attendance_information: '12-19 year old girls'
-accessibility_information: '-Wheelchair accessible'
+attendance_information: '- 12-19 year old girls'
+accessibility_information: '- Wheelchair accessible'
 latitude: '52.06162417710359'
 longitude: '1.144523488754503'
 address_line_1: 'The Smokehouse, South Street Studios'
@@ -91,7 +93,22 @@ content_area:
       -
         type: text
         text: 'There is pay and display car park next to the venue and many others near by.'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Booking is not required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1661954475
+updated_at: 1663323472
+cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 A programme of building confidence in girls, with exciting media workshops.
