@@ -1,6 +1,5 @@
 ---
 id: 64fa490f-8236-4616-86ed-b6f00ace1211
-published: false
 blueprint: events
 title: 'Sand Art, Schools Out Club'
 event_categories:
