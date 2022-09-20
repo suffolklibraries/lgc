@@ -4,7 +4,7 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662469402
+updated_at: 1663662682
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2022-09-26 13:00'
@@ -20,7 +20,7 @@ address_line_2: '274 High Street'
 town: 'Walton, Felixstowe'
 postcode: 'IP11 9DS'
 featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
-attendance_information: '- Age 55+'
+attendance_information: 'For adults aged 55+'
 content_area:
   -
     type: heading
