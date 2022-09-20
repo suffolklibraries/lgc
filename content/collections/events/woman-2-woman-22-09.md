@@ -12,10 +12,10 @@ organisers:
   - future-female-society
 featured_image: Screenshot-2022-07-20-at-10.30.54.png
 start_date: '2022-09-22 12:30'
-end_date: '2022-09-22 13:30'
+end_date: '2022-09-22 14:00'
 free: true
 virtual: false
-attendance_information: 'Migrant, refugee and asylum-seeking women'
+attendance_information: '- Migrant, refugee and asylum-seeking women'
 latitude: '52.06103514537215'
 longitude: '1.1447969943168634'
 address_line_1: 'The Hive'
@@ -97,7 +97,7 @@ content_area:
   -
     type: paragraph
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663324348
+updated_at: 1663661483
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 Building confidence with radio skills
