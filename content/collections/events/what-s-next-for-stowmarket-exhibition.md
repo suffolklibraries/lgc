@@ -183,6 +183,10 @@ content_area:
         type: text
         text: 'Booking is not required. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663149362
+updated_at: 1663686081
+cta: |-
+  This event is organised by the Mid Suffolk Council. 
+
+  [https://www.midsuffolk.gov.uk/news/find-out-whats-next-for-stowmarket-at-public-exhibition/](https://www.midsuffolk.gov.uk/news/find-out-whats-next-for-stowmarket-at-public-exhibition/)
 ---
 Join the What's Next for Stowmarket Exhibition and find out the projects and proposals that will shape the future of the town.
