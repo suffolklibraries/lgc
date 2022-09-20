@@ -4,7 +4,7 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663062101
+updated_at: 1663676585
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2022-09-26 10:00'
@@ -91,18 +91,18 @@ content_area:
     content:
       -
         type: text
-        text: "To book you can call Alysha Hudson on\_"
+        text: "To book, you can call Laura on\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07984 756499'
-              rel: null
+              href: 'tel:07375024115'
+              rel: 'noopener noreferrer'
               target: _blank
               title: null
-        text: '07984 756499'
+        text: '07375024115'
       -
         type: text
         text: "\_or email at\_"
@@ -112,20 +112,20 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:alysha1990@hotmail.com'
-              rel: null
+              href: 'mailto:community-dance@hotmail.com'
+              rel: 'noopener noreferrer'
               target: _blank
               title: null
-        text: alysha1990@hotmail.com
+        text: community-dance@hotmail.com
       -
         type: text
         text: .
 cta: |-
   This event is organised by Dance East. Contact details below:
 
-  [https://www.alyshahudson.co.uk](https://www.alyshahudson.co.uk)
+  [https://www.danceeast.co.uk/workshops/debenham-movers/](https://www.danceeast.co.uk/workshops/debenham-movers/)
 
-  [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
+  [community-dance@hotmail.com](mailto:community-dance@hotmail.com)
 booking_link: 'https://www.danceeast.co.uk/workshops/debenham-movers/'
 accessibility_information: |-
   - Autism friendly
