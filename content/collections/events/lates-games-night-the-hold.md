@@ -89,7 +89,7 @@ content_area:
         text: '. '
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/lates-games-night/e-mzaqzd'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1663838857
+updated_at: 1663838877
 cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
