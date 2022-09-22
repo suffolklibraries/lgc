@@ -89,10 +89,12 @@ content_area:
         text: '. '
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/lates-games-night/e-mzaqzd'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1663838877
+updated_at: 1663838930
 cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
+event_categories:
+  - activity
 ---
 Enjoy a drink with friends at The Hold at this adults-only games evening at The Hold.
