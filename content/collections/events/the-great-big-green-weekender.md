@@ -1,6 +1,5 @@
 ---
 id: 5161af59-a316-4581-9a00-ae0ee0a73a47
-published: false
 blueprint: events
 title: 'The Great Big Green Weekender'
 event_categories:
@@ -78,8 +77,8 @@ content_area:
       -
         type: text
         text: 'This event does not require booking. '
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663139738
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1663839304
 booking_link: 'https://www.lowestofttowncouncil.gov.uk/events/the-great-big-green-weekender/?date=2022-09-24'
 cta: |-
   This event is run by Lowestoft town council, for more information please visit: 
