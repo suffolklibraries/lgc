@@ -1,6 +1,5 @@
 ---
 id: 8648be88-f971-4385-b7c2-5b18add3253e
-published: false
 blueprint: events
 title: 'Lates: Games Night'
 organisers:
@@ -89,11 +88,11 @@ content_area:
         type: text
         text: '. '
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/lates-games-night/e-mzaqzd'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663686486
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1663838857
 cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
 ---
-Join the adults only games evening and enjoy a drink with friends at The Hold on the 29 September!
+Enjoy a drink with friends at The Hold at this adults-only games evening at The Hold.
