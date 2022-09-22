@@ -1,6 +1,5 @@
 ---
 id: 62477c2e-caa0-4f88-b66d-208fc35db262
-published: false
 blueprint: events
 title: 'Lates: Murder Mystery at The Hold'
 event_categories:
@@ -110,8 +109,8 @@ cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662390095
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1663839270
 accessibility_information: '-Wheelchair accessible'
 ---
 Put your super sleuthing skills to the test as a murder is announced at The Hold.
