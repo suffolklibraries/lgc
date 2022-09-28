@@ -1,6 +1,5 @@
 ---
 id: 5d3f6f95-bf14-4ede-a0ed-94c3523dd43d
-published: false
 blueprint: events
 title: 'Community Gardening Club'
 start_date: '2022-10-04 10:00'
