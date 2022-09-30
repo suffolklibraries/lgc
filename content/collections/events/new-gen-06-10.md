@@ -1,6 +1,5 @@
 ---
 id: 45704334-22f3-46b1-82b8-c75d3763494d
-published: false
 blueprint: events
 title: 'New Gen'
 event_categories:
@@ -97,6 +96,6 @@ cta: |-
 
   or email [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1663663485
+updated_at: 1664524764
 ---
 An opportunity for young people to explore and develop new skills in music.
