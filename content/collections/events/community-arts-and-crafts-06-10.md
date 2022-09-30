@@ -1,6 +1,5 @@
 ---
 id: 98b9a91f-a506-4a14-9e6e-00397d2cef86
-published: false
 blueprint: events
 title: 'Community Arts and Crafts'
 event_categories:
@@ -96,6 +95,6 @@ content_area:
         type: text
         text: ' '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1664355499
+updated_at: 1664528520
 ---
 Community art and craft group
