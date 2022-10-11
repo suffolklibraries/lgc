@@ -1,12 +1,13 @@
 ---
 id: 02cc2b84-32ee-45f9-87bf-164a38514855
+published: false
 blueprint: events
 title: 'Lowestoft Movers - St. Margaret''s Church'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1664524591
-start_date: '2022-10-06 12:20'
-end_date: '2022-10-06 13:40'
+updated_at: 1665473952
+start_date: '2022-10-20 12:20'
+end_date: '2022-10-20 13:40'
 event_categories:
   - dance
   - later-life
