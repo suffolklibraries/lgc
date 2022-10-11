@@ -1,10 +1,11 @@
 ---
 id: a3266c24-7f3f-46c2-98ba-b66a1570ede7
+published: false
 blueprint: events
 title: 'Community Conversations at The Hive'
 featured_image: Screenshot-2022-05-23-113050-new-new.png
-start_date: '2022-09-28 10:00'
-end_date: '2022-09-28 13:00'
+start_date: '2022-10-26 10:00'
+end_date: '2022-10-26 13:00'
 free: true
 virtual: false
 latitude: '52.06104109088131'
@@ -81,7 +82,7 @@ cta: |-
 
   [07494 219836](tel:07494219836)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1662626645
+updated_at: 1665474819
 event_categories:
   - community
   - languages
