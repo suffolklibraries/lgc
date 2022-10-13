@@ -68,7 +68,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Manor Ballroom is situated just off the Margaret''s Green road. The Regent car park and the Cobden Place bus stop is just a 2-minute walk away from the venue. '
+        text: 'The Manor Ballroom is situated just off the Margaret''s Green road. The Regent car park and the Cobden Place bus stop are just a 2-minute walk away from the venue. '
   -
     type: heading
     attrs:
@@ -85,6 +85,6 @@ content_area:
         text: 'No booking required'
 cta: '[https://www.facebook.com/events/987072898824794/](https://www.facebook.com/events/987072898824794/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665052810
+updated_at: 1665666405
 ---
 Come and join the Black history month Celebration on the 15 October!
