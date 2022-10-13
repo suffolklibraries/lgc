@@ -1,6 +1,5 @@
 ---
 id: 6185b1b5-600b-43af-8aad-1c25e9aa35bb
-published: false
 blueprint: events
 title: 'Virtual Black History Month Lecture 2022'
 event_categories:
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The audience will be invited to challenge their beliefs as well-known phenomena are explored through the fresh lens of unacknowledged and hidden forms of sexism and racism. The lecture will uncover the true extent of the impact of discrimination on the well-being of Black people in a range of contexts. It will also consider how Black people can deploy strategies to combat racism. '
+        text: 'The audience will be invited to challenge their beliefs as well-known phenomena are explored through the fresh lens of unacknowledged and hidden forms of sexism and racism. The lecture will uncover the true extent of the impact of discrimination on the wellbeing of Black people in a range of contexts. It will also consider how Black people can deploy strategies to combat racism. '
   -
     type: heading
     attrs:
@@ -66,7 +65,7 @@ content_area:
         text: ' to book your place.'
 booking_link: 'https://www.eventbrite.co.uk/e/virtual-black-history-month-lecture-2022-tickets-408606371657?aff=ebdssbonlinesearch'
 cta: '[https://www.eventbrite.co.uk/e/virtual-black-history-month-lecture-2022-tickets-408606371657?aff=ebdssbonlinesearch](https://www.eventbrite.co.uk/e/virtual-black-history-month-lecture-2022-tickets-408606371657?aff=ebdssbonlinesearch)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665666608
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1665669629
 ---
 Join this interactive lecture, iniciating a critical conversation on sophisticated and everyday racism.
