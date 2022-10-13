@@ -94,7 +94,13 @@ content_area:
         type: text
         text: 'No booking required'
 cta: '[https://brittenpearsarts.org/autumn-exhibition-the-power-of-stories](https://brittenpearsarts.org/autumn-exhibition-the-power-of-stories)'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1665668971
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1665673259
+accessibility_information: |-
+  - Wheelchair access
+  - Lift access to all levels
+  - Disabled parking
+  - Support for deaf/hard hearing individuals
+  - Guide dogs welcome
 ---
 Feast your eyes on three original costumes from Marvel’s blockbuster film, Black Panther!
