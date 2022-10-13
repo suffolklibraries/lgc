@@ -1,6 +1,5 @@
 ---
 id: 30da612d-690e-4066-9b04-95534f7119a0
-published: false
 blueprint: events
 title: 'Big Tings A Gwaan - Black History Celebration'
 event_categories:
@@ -84,7 +83,7 @@ content_area:
         type: text
         text: 'No booking required'
 cta: '[https://www.facebook.com/events/987072898824794/](https://www.facebook.com/events/987072898824794/)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665666917
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1665669568
 ---
 Come and join the Black history month Celebration on the 15 October!
