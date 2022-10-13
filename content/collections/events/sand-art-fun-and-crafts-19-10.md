@@ -1,6 +1,5 @@
 ---
 id: 5584afc2-184e-4503-b78a-20e946b66706
-published: false
 blueprint: events
 title: 'Sand Art, Fun and Crafts'
 event_categories:
