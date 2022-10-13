@@ -1,8 +1,7 @@
 ---
 id: 99a6239a-32e8-4361-99c0-a65e0626fb65
-published: false
 blueprint: events
-title: 'Power of Stories'
+title: 'Power of Stories Exhibition at Snape Maltings'
 event_categories:
   - exhibition
   - family-friendly
@@ -65,47 +64,20 @@ content_area:
     content:
       -
         type: text
-        text: "The closest station is Saxmundham (4 miles) which is on the East Suffolk Ipswich - Lowestoft train line. There is on-demand electric taxi bus service called Katch, which operates between Framlingham, Snape and Wickham Market Railway Station.\_"
+        text: 'The closest station is Saxmundham (4 miles) which is on the East Suffolk Ipswich - Lowestoft train line. For more information visit the Britten Pears Arts '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.katchalift.com/'
-              rel: 'noreferrer noopener'
+              href: 'https://brittenpearsarts.org/visit-us/snape-maltings/getting-here'
+              rel: null
               target: _blank
               title: null
-          -
-            type: bold
-        text: 'Download the app'
+        text: 'Getting Here page'
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: ','
-      -
-        type: text
-        text: "\_book your journey and Katch a lift!\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.katchalift.com/'
-              rel: 'noreferrer noopener'
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'Find out more here'
-      -
-        type: text
-        marks:
-          -
-            type: bold
         text: .
   -
     type: heading
@@ -122,7 +94,7 @@ content_area:
         type: text
         text: 'No booking required'
 cta: '[https://brittenpearsarts.org/autumn-exhibition-the-power-of-stories](https://brittenpearsarts.org/autumn-exhibition-the-power-of-stories)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665666324
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1665668971
 ---
-Set your eyes on three original costumes from Marvel’s blockbuster film, Black Panther!
+Feast your eyes on three original costumes from Marvel’s blockbuster film, Black Panther!
