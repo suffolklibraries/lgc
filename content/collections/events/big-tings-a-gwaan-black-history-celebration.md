@@ -85,6 +85,6 @@ content_area:
         text: 'No booking required'
 cta: '[https://www.facebook.com/events/987072898824794/](https://www.facebook.com/events/987072898824794/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665666405
+updated_at: 1665666917
 ---
 Come and join the Black history month Celebration on the 15 October!
