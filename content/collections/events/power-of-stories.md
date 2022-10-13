@@ -45,7 +45,7 @@ content_area:
         text: free
       -
         type: text
-        text: "\_exhibition also gathers stories from Benjamin Britten and Peter Pears’ archive, local histories, and contributions from our local community, in collaboration with\_Aspire Black Suffolk\_and curator\_Devi Singh. "
+        text: "\_exhibition also gathers stories from Benjamin Britten and Peter Pears’ archive, local histories, and contributions from the local community, in collaboration with\_Aspire Black Suffolk\_and curator\_Devi Singh. "
   -
     type: heading
     attrs:
@@ -65,13 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The closest station is Saxmundham (4 miles) which is on the East Suffolk Ipswich - Lowestoft train line.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "We have an on-demand electric taxi bus service called Katch, which operates between Framlingham, Snape and Wickham Market Railway Station.\_"
+        text: "The closest station is Saxmundham (4 miles) which is on the East Suffolk Ipswich - Lowestoft train line. There is on-demand electric taxi bus service called Katch, which operates between Framlingham, Snape and Wickham Market Railway Station.\_"
       -
         type: text
         marks:
@@ -129,6 +123,6 @@ content_area:
         text: 'No booking required'
 cta: '[https://brittenpearsarts.org/autumn-exhibition-the-power-of-stories](https://brittenpearsarts.org/autumn-exhibition-the-power-of-stories)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665062704
+updated_at: 1665666324
 ---
 Set your eyes on three original costumes from Marvel’s blockbuster film, Black Panther!
