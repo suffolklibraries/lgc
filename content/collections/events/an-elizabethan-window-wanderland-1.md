@@ -1,7 +1,8 @@
 ---
 id: 52a1e4c2-3492-4137-b830-13e136270042
+published: false
 blueprint: events
-title: 'An Elizabethan Window Wanderland (Duplicated)'
+title: 'Putting on a Progress 1578:  An Immersive VR Experience'
 event_categories:
   - art
   - family-friendly
@@ -10,8 +11,8 @@ event_categories:
 organisers:
   - curious-spark
 featured_image: Capture-1665754257.PNG
-start_date: '2022-10-22 10:00'
-end_date: '2022-10-22 11:30'
+start_date: '2022-10-25 10:00'
+end_date: '2022-10-25 13:00'
 free: true
 virtual: false
 attendance_information: '- Ages 4+'
@@ -36,30 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Take you children to Long Melford Library to explore the tutor period and create vibrant window displays, celebrating the joy of exploration, curiosity, and Elizabeth I’s visit to Suffolk. This project will include designing silhouettes inspired by the Elizabethan Progress in 1578 and local birds as a symbol of freedom.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'These designs will be used in upscaled larger window artwork to be displayed at night. Your designs will shine through windows across the 6 areas of Norfolk between mid-January and mid-February 2023.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'More information about this project can be found '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.curiousspark.com/elizabethan-window-wanderland/'
-              rel: null
-              target: null
-              title: null
-        text: here
+        text: 'Using Virtual Reality headsets library visitors will be transported to 1578 when Queen Elizabeth I visited Suffolk.'
   -
     type: heading
     attrs:
@@ -89,6 +67,6 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665755653
+updated_at: 1665755878
 ---
-Join the craft activity and make vibrant, Elizabethan-inspired windows!
+Immersive yourself in year 1578 with a virtual reality experience!
