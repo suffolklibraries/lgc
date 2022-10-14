@@ -1,5 +1,6 @@
 ---
 id: 51db1730-e280-495b-8627-3f04b812f9b3
+published: false
 blueprint: events
 title: 'Putting on a Progress 1578:  An Immersive VR Experience (Duplicated)'
 event_categories:
@@ -84,6 +85,6 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665759053
+updated_at: 1665759195
 ---
 Immersive yourself in year 1578 with a virtual reality experience!
