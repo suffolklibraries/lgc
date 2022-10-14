@@ -4,18 +4,19 @@ published: false
 blueprint: events
 title: 'Putting on a Progress 1578:  An Immersive VR Experience'
 event_categories:
-  - art
   - family-friendly
   - museums
   - activity
+  - teen-and-young-adult
+  - computing
 organisers:
   - curious-spark
-featured_image: Capture-1665754257.PNG
+featured_image: Curious-spark.PNG
 start_date: '2022-10-25 10:00'
 end_date: '2022-10-25 13:00'
 free: true
 virtual: false
-attendance_information: '- Ages 4+'
+attendance_information: '- All welcome'
 accessibility_information: '- Ramp/slope access'
 latitude: '52.07690593545871'
 longitude: '0.7193158830274102'
@@ -37,7 +38,24 @@ content_area:
     content:
       -
         type: text
-        text: 'Using Virtual Reality headsets library visitors will be transported to 1578 when Queen Elizabeth I visited Suffolk.'
+        text: 'Using Virtual Reality headsets library visitors will be transported to 1578 when Queen Elizabeth I visited Suffolk. Audiences will enter an Elizabethan world where they will bear witness to privy council conversations and royal entertainment; enlightening, emboldening and enhancing understanding of this fascinating age. You will be challenged to find several ‘hot spots’ to access links to delve deeper into the fascinating history of 1578. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'More information on this project can be found '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.curiousspark.com/puttingonaprogress/'
+              rel: null
+              target: null
+              title: null
+        text: here
   -
     type: heading
     attrs:
@@ -67,6 +85,6 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665755878
+updated_at: 1665759053
 ---
 Immersive yourself in year 1578 with a virtual reality experience!
