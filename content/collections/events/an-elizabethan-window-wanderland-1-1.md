@@ -2,18 +2,17 @@
 id: 51db1730-e280-495b-8627-3f04b812f9b3
 published: false
 blueprint: events
-title: 'Putting on a Progress 1578:  An Immersive VR Experience (Duplicated)'
+title: 'Dance Like It''s 1578!'
 event_categories:
   - family-friendly
   - museums
   - activity
   - teen-and-young-adult
-  - computing
+  - dance
 organisers:
   - curious-spark
-featured_image: Curious-spark.PNG
-start_date: '2022-10-25 10:00'
-end_date: '2022-10-25 13:00'
+start_date: '2022-10-28 10:30'
+end_date: '2022-10-28 11:30'
 free: true
 virtual: false
 attendance_information: '- All welcome'
@@ -38,24 +37,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Using Virtual Reality headsets library visitors will be transported to 1578 when Queen Elizabeth I visited Suffolk. Audiences will enter an Elizabethan world where they will bear witness to privy council conversations and royal entertainment; enlightening, emboldening and enhancing understanding of this fascinating age. You will be challenged to find several ‘hot spots’ to access links to delve deeper into the fascinating history of 1578. '
+        text: 'Are you interested in the Tudor period? Or maybe, have you ever wondered what dance used to look like over 400 years ago? To find out, visit the Long Melford Library, learn about 16th century dance and even try it yourself, if you feel brave!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'More information on this project can be found '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.curiousspark.com/puttingonaprogress/'
-              rel: null
-              target: null
-              title: null
-        text: here
+        text: 'This activity also runs at 13.00 - 15.00 in the Melford Hall. '
   -
     type: heading
     attrs:
@@ -85,6 +73,6 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665759195
+updated_at: 1665766374
 ---
-Immersive yourself in year 1578 with a virtual reality experience!
+Come along to the Norfolk Historical Dance display and tuition.
