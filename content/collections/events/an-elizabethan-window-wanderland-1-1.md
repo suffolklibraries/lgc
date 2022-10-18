@@ -43,6 +43,9 @@ content_area:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'This activity also runs at 13.00 - 15.00 in the Melford Hall. '
   -
     type: heading
@@ -73,6 +76,6 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665766374
+updated_at: 1666081648
 ---
 Come along to the Norfolk Historical Dance display and tuition.
