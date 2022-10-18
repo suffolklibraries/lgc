@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - castle-hill-art-society
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2022-10-13 13:30'
-end_date: '2022-10-13 15:30'
+start_date: '2022-10-20 13:30'
+end_date: '2022-10-20 15:30'
 free: false
 cost_details: £2
 virtual: false
@@ -95,6 +95,6 @@ content_area:
         type: text
         text: ' '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665475883
+updated_at: 1666079345
 ---
 Community art and craft group
