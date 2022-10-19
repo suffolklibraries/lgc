@@ -1,6 +1,5 @@
 ---
 id: 51db1730-e280-495b-8627-3f04b812f9b3
-published: false
 blueprint: events
 title: 'Dance Like It''s 1578!'
 event_categories:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Are you interested in the Tudor period? Or maybe, have you ever wondered what dance used to look like over 400 years ago? To find out, visit the Long Melford Library, learn about 16th century dance and even try it yourself, if you feel brave!'
+        text: 'Are you interested in the Tudor period? Or maybe, have you ever wondered what dance used to look like over 400 years ago? To find out, visit the Long Melford Library, learn about 16th century dance and even try it yourself - if you feel brave enough!'
   -
     type: paragraph
     content:
@@ -60,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The library is situated within the centre of the village with Sudbury being the closest train station and bus stop being only 150m from the library.'
+        text: 'The library is situated within the centre of the village, with Sudbury being the closest train station and a bus stop being only 150m from the library.'
   -
     type: heading
     attrs:
@@ -75,7 +74,8 @@ content_area:
       -
         type: text
         text: 'No booking required.'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1666081648
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1666196593
+featured_image: offthepressimages/new_resized_images/Dance.png
 ---
-Come along to the Norfolk Historical Dance display and tuition.
+Learn to dance the way the Tudors did in this immersive performance/workshop!
