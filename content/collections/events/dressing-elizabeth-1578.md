@@ -7,6 +7,7 @@ event_categories:
   - family-friendly
   - languages
   - teen-and-young-adult
+  - museums
 organisers:
   - curious-spark
 featured_image: Queen-Elizabeth-I.PNG
@@ -75,6 +76,6 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1666196650
+updated_at: 1666196707
 ---
 Meet Queen Elizabeth I and her Lady who will demonstrate how and why she wore her magnificent clothes!
