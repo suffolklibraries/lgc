@@ -1,5 +1,6 @@
 ---
 id: 30da612d-690e-4066-9b04-95534f7119a0
+published: false
 blueprint: events
 title: 'Big Tings A Gwaan - Black History Celebration'
 event_categories:
