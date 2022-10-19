@@ -1,6 +1,5 @@
 ---
 id: 15cd9ff4-7ec4-4056-8b26-ec14ed0c0915
-published: false
 blueprint: events
 title: 'Dressing Elizabeth 1578'
 event_categories:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the Long Melford Library and find out more about fashion in 1578! Meet Queen Elizabeth I and her Lady who will demonstrate how and why she wore her magnificent clothes.'
+        text: 'Visit Long Melford Library and find out more about fashion in 1578! Meet Queen Elizabeth I and her Lady who will demonstrate how and why she wore her magnificent clothes.'
   -
     type: paragraph
     content:
@@ -60,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The library is situated within the centre of the village with Sudbury being the closest train station and bus stop being only 150m from the library.'
+        text: 'The library is situated within the centre of Long Melford village, with Sudbury being the closest train station and bus stop being only 150m from the library.'
   -
     type: heading
     attrs:
@@ -75,7 +74,7 @@ content_area:
       -
         type: text
         text: 'No booking required.'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1666081722
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1666196650
 ---
 Meet Queen Elizabeth I and her Lady who will demonstrate how and why she wore her magnificent clothes!
