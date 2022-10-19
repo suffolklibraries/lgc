@@ -1,6 +1,5 @@
 ---
 id: 58e2185c-5dc7-40af-ad86-937823f6de3e
-published: false
 blueprint: events
 title: 'An Elizabethan Window Wanderland'
 event_categories:
@@ -10,7 +9,7 @@ event_categories:
   - activity
 organisers:
   - curious-spark
-featured_image: Capture-1665754257.PNG
+featured_image: Heritage-Snapper-WW2.JPG
 start_date: '2022-10-22 10:00'
 end_date: '2022-10-22 11:30'
 free: true
@@ -37,13 +36,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Take you children to Long Melford Library to explore the tutor period and create vibrant window displays, celebrating the joy of exploration, curiosity, and Elizabeth I’s visit to Suffolk. This project will include designing silhouettes inspired by the Elizabethan Progress in 1578 and local birds as a symbol of freedom.'
+        text: 'Enjoy a fun activity for all the family at Long Melford Library, where you can explore the Tudor period and create vibrant window displays, celebrating the joy of exploration, curiosity, and Elizabeth I’s visit to Suffolk. This project will include designing silhouettes inspired by the Elizabethan Progress in 1578 to decorate the windows.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'These designs will be used in upscaled larger window artwork to be displayed at night. Your designs will shine through windows across the 6 areas of Norfolk between mid-January and mid-February 2023.'
+        text: 'These designs will then be used in larger window artwork to be displayed at night. '
   -
     type: heading
     attrs:
@@ -57,7 +56,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The library is situated within the centre of the village with Sudbury being the closest train station and bus stop being only 150m from the library.'
+        text: 'The library is situated in the centre of Long Melford village, with Sudbury being the closest train station and bus stop being only 150m from the library.'
   -
     type: heading
     attrs:
@@ -72,8 +71,8 @@ content_area:
       -
         type: text
         text: 'No booking required.'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1666187572
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1666196181
 cta: '[https://www.curiousspark.com/elizabethan-window-wanderland/](https://www.curiousspark.com/elizabethan-window-wanderland/)'
 ---
 Join the craft activity and make vibrant, Elizabethan-inspired windows!
