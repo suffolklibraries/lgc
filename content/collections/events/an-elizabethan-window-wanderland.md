@@ -45,23 +45,6 @@ content_area:
         type: text
         text: 'These designs will be used in upscaled larger window artwork to be displayed at night. Your designs will shine through windows across the 6 areas of Norfolk between mid-January and mid-February 2023.'
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'More information about this project can be found '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.curiousspark.com/elizabethan-window-wanderland/'
-              rel: null
-              target: null
-              title: null
-        text: here
-  -
     type: heading
     attrs:
       level: 3
@@ -90,6 +73,7 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665755653
+updated_at: 1666187572
+cta: '[https://www.curiousspark.com/elizabethan-window-wanderland/](https://www.curiousspark.com/elizabethan-window-wanderland/)'
 ---
 Join the craft activity and make vibrant, Elizabethan-inspired windows!
