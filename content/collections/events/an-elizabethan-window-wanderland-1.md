@@ -40,23 +40,6 @@ content_area:
         type: text
         text: 'Using Virtual Reality headsets library visitors will be transported to 1578 when Queen Elizabeth I visited Suffolk. Audiences will enter an Elizabethan world where they will bear witness to privy council conversations and royal entertainment; enlightening, emboldening and enhancing understanding of this fascinating age. You will be challenged to find several ‘hot spots’ to access links to delve deeper into the fascinating history of 1578. '
   -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'More information on this project can be found '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.curiousspark.com/puttingonaprogress/'
-              rel: null
-              target: null
-              title: null
-        text: here
-  -
     type: heading
     attrs:
       level: 3
@@ -85,6 +68,7 @@ content_area:
         type: text
         text: 'No booking required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665759053
+updated_at: 1666187636
+cta: '[https://www.curiousspark.com/puttingonaprogress/](https://www.curiousspark.com/puttingonaprogress/)'
 ---
 Immersive yourself in year 1578 with a virtual reality experience!
