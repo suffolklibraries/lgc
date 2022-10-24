@@ -1,7 +1,8 @@
 ---
 id: 5bd0491c-4497-4fa7-b8fc-842a8bdfff33
+published: false
 blueprint: events
-title: 'Homework Club (Duplicated)'
+title: 'Homework Club'
 event_categories:
   - languages
   - primary-school-age
@@ -9,8 +10,8 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: thumbnail_group-table-and-background-desks-(2)-min.jpg
-start_date: '2022-10-31 15:00'
-end_date: '2022-10-31 17:00'
+start_date: '2022-11-01 15:00'
+end_date: '2022-11-01 17:00'
 free: true
 virtual: false
 attendance_information: '- Ages 3+'
@@ -113,6 +114,6 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1666620617
+updated_at: 1666620666
 ---
 A safe space to do your homework and develop your education!
