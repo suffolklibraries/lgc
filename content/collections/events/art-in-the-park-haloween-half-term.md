@@ -137,6 +137,6 @@ content_area:
 booking_link: 'https://www.rockpaperscissors.org.uk/shop/art-in-the-park-october-half-term?mc_cid=cc211f7705&mc_eid=ca0a6866ce'
 cta: '[https://www.rockpaperscissors.org.uk/shop/art-in-the-park-october-half-term?mc_cid=cc211f7705&mc_eid=ca0a6866ce](https://www.rockpaperscissors.org.uk/shop/art-in-the-park-october-half-term?mc_cid=cc211f7705&mc_eid=ca0a6866ce)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1666189820
+updated_at: 1666598387
 ---
-Visit the Christchurch Park in Ipswich and have fun creating Haloween theamed crafts!
+Visit the Christchurch Park in Ipswich and have fun creating Halloween theamed crafts!
