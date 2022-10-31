@@ -51,7 +51,55 @@ content_area:
     content:
       -
         type: text
-        text: 'At Lockford Lakes there '
+        text: 'There is a selection of confectionaries and hot drinks at Lackford Lakes café (gluten-free options available), which can be enjoyed before or after walks around the reserve. '
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please book your place '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkwildlifetrust.org/events/2022-11-12-discover-suffolk-wildlife-trust'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: '. This event is free but donations are welcome on the day. '
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Reserve is about ten minutes from Bury St Edmunds on the A1101, Bury to Mildenhall road. Parking is available at the Lackford Lakes.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667229855
+updated_at: 1667232294
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2022-11-12-discover-suffolk-wildlife-trust'
+cta: |-
+  [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
+
+  [01473890089](tel.01473890089)
 ---
+A free event designed to provide you with those first steps to discover Suffolk’s amazing wildlife.
