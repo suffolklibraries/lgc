@@ -1,0 +1,57 @@
+---
+id: 4edfb2f2-2024-4480-9994-fbaf169b6f73
+published: false
+blueprint: events
+title: 'Discover Suffolk Wildlife Trust'
+event_categories:
+  - community
+  - family-friendly
+  - nature
+organisers:
+  - suffolk-wildlife-trust
+featured_image: Suffol-wild-trust.PNG
+start_date: '2022-11-12 10:00'
+end_date: '2022-11-12 12:00'
+free: true
+virtual: false
+attendance_information: 'All welcome'
+accessibility_information: |-
+  - Wheelchair access
+  - Accessible toilet
+  - Disabled parking
+latitude: '52.30420712445187'
+longitude: '0.6389876874804447'
+address_line_1: 'Suffolk Wildlife Trust'
+address_line_2: 'Lackford Lakes Centre'
+town: 'Bury Saint Edmunds'
+postcode: 'IP28 6HX'
+content_area:
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Visit the Lackford Lakes to explore and learn more about the local wildlife! There will be volunteer wildlife guides who will try and help you see some spectacular creatures, including one of many Kingfishers often spotted in that area. The visitors will also have the chance to borrow binoculars and get a free wildlife activity sheet, for all the family to enjoy. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There will be an exclusive binocular and bird care offer, along with expert advice and guidance on binoculars and telescopes for all attendees.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'At Lockford Lakes there '
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1667229855
+---
