@@ -1,6 +1,5 @@
 ---
 id: 4edfb2f2-2024-4480-9994-fbaf169b6f73
-published: false
 blueprint: events
 title: 'Discover Suffolk Wildlife Trust'
 event_categories:
@@ -94,12 +93,12 @@ content_area:
       -
         type: text
         text: 'Reserve is about ten minutes from Bury St Edmunds on the A1101, Bury to Mildenhall road. Parking is available at the Lackford Lakes.'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667388752
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1667390397
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2022-11-12-discover-suffolk-wildlife-trust'
 cta: |-
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 
   [01473890089](tel.01473890089)
 ---
-A free event designed to provide you with those first steps to discover Suffolk’s amazing wildlife.
+Take those first steps to discover Suffolk’s amazing wildlife at this free event.
