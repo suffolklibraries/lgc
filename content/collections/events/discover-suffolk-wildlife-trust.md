@@ -39,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the Lackford Lakes to explore and learn more about the local wildlife! There will be volunteer wildlife guides who will try and help you see some spectacular creatures, including one of many Kingfishers often spotted in that area. The visitors will also have the chance to borrow binoculars and get a free wildlife activity sheet, for all the family to enjoy. '
+        text: 'Visit the Lackford Lakes to explore and learn more about the local wildlife! There will be volunteer wildlife guides who will try to help you see some spectacular creatures, including one of many Kingfishers often spotted in that area. The visitors will also have the chance to borrow binoculars and get a free wildlife activity sheet, for the whole family to enjoy. '
   -
     type: paragraph
     content:
@@ -95,7 +95,7 @@ content_area:
         type: text
         text: 'Reserve is about ten minutes from Bury St Edmunds on the A1101, Bury to Mildenhall road. Parking is available at the Lackford Lakes.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667232294
+updated_at: 1667388752
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2022-11-12-discover-suffolk-wildlife-trust'
 cta: |-
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
