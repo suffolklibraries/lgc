@@ -50,7 +50,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Suffolk Wildlife Trust to discover amazing wildlife on your doorstep and be inspired to take action to give nature a helping hand. Keep a record of your eco-actions and earn awards!'
+        text: 'Join Suffolk Wildlife Trust to discover amazing wildlife on your doorstep and be inspired to take action to give nature a helping hand. Also, keep a record of your eco-actions and earn awards!'
   -
     type: paragraph
     content:
@@ -140,6 +140,6 @@ cta: |-
 
   [01502359480](tel:01502359480)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667293188
+updated_at: 1667388858
 ---
 Join the Eco-Action Club with your family to learn about wildlife and the environment!
