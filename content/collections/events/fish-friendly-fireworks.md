@@ -1,6 +1,5 @@
 ---
 id: 35330d82-7ec7-4a7b-a6d9-b41647df6b5b
-published: false
 blueprint: events
 title: 'Fish Friendly Fireworks'
 event_categories:
@@ -47,7 +46,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The event will be followed by all ages after party at 8pm with DJs Ben Osborne and Chris Coco playing in the Long Shed in Whisstocks Square. Tickets for the afterparty can be attained online. '
+        text: 'The event will be followed by all ages after party at 8pm with DJs Ben Osborne and Chris Coco playing in the Long Shed in Whisstocks Square. Tickets for the after party can be attained online. '
   -
     type: heading
     attrs:
@@ -95,7 +94,7 @@ cta: |-
   [https://www.woodbridgefestival.com/](https://www.woodbridgefestival.com/)
 
   [woodbridgefestivalsuffolk@gmail.com](mailto:woodbridgefestivalsuffolk@gmail.com)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667469395
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1667471356
 ---
-Visit the Tide Mill in Woodbridge, for a magical firework display featuring an eco-friendly lightshow!
+Visit the Tide Mill in Woodbridge for a magical firework display featuring an eco-friendly lightshow!
