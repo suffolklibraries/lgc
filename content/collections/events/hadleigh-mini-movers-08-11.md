@@ -4,12 +4,11 @@ blueprint: events
 title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1665647896
+updated_at: 1667574460
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
-start_date: '2022-10-25 09:15'
+start_date: '2022-11-08 09:15'
 event_categories:
-  - movement
   - dance
   - early-years
   - family-friendly
@@ -135,6 +134,6 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-end_date: '2022-10-25 10:45'
+end_date: '2022-11-08 10:45'
 ---
 Early Years movement classes, ideal for toddlers and their grown-ups!
