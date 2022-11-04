@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: '‘Our Day Out’ is an award-winning programme of free, inclusive, high-quality creative workshops for older people that take place in nine locations across Norfolk, Thetford being one of them.'
+        text: '‘Our Day Out'' is an award-winning programme of free, inclusive, high-quality creative workshops for older people that take place in nine locations across Norfolk, Thetford being one of them.'
   -
     type: paragraph
     content:
@@ -66,7 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Contact Lauren on 01953713390/07359099940 or email lauren@creativeartseast.co.uk for more information or to book a place!'
+        text: 'Contact Lauren on 01953713390/07359099950 or email lauren@creativeartseast.co.uk for more information or to book a place! '
   -
     type: heading
     attrs:
@@ -77,7 +77,39 @@ content_area:
         text: 'How to get there'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Thetford/@52.4190296,0.7433181,17z/data=!3m1!4b1!4m5!3m4!1s0x47d834ed8bf4d6df:0x655fbb89d6a1b149!8m2!3d52.419009!4d0.7455028'
+              rel: null
+              target: null
+              title: null
+        text: 'Thetford train station'
+      -
+        type: text
+        text: ' is a 10-minute walk away from the church. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Bus+Interchange,+Minstergate,+Thetford/@52.4159182,0.7410516,17z/data=!3m1!4b1!4m5!3m4!1s0x47d835384aac837b:0xb2b147592ba9aa9!8m2!3d52.4159122!4d0.7455545'
+              rel: null
+              target: null
+              title: null
+        text: 'Bus Interchange'
+      -
+        type: text
+        text: ' on Water Lane is the closest bus stop, which is only a 5-minute walk. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667489064
+updated_at: 1667571180
 ---
 Join the inclusive and relaxed sessions of creative activities for older people!
