@@ -146,6 +146,6 @@ content_area:
         text: '. '
 cta: '[https://www.communitylightorchestra.co.uk/](https://www.communitylightorchestra.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667571935
+updated_at: 1667572125
 ---
 Visit the Ipswich School to experience a classical orchestra performance!
