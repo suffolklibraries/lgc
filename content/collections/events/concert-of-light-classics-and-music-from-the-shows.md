@@ -12,7 +12,7 @@ organisers:
   - community-light-orchestra
 featured_image: Community-orchestra.PNG
 start_date: '2022-11-20 14:30'
-end_date: '2022-11-20 12:04'
+end_date: '2022-11-20 00:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -146,6 +146,6 @@ content_area:
         text: '. '
 cta: '[https://www.communitylightorchestra.co.uk/](https://www.communitylightorchestra.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667478939
+updated_at: 1667571935
 ---
 Visit the Ipswich School to experience a classical orchestra performance!
