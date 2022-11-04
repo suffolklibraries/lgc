@@ -92,9 +92,9 @@ content_area:
     content:
       -
         type: text
-        text: 'A 3-minute walk from medieval Orford Castle, this casual pub is 9 miles from Wickham Market train station and 2 miles from the 18th-century Orfordness Lighthouse within the Orford Ness National Nature Reserve. Free parking is available. '
+        text: 'A 3-minute walk from medieval Orford Castle, this pub is 9 miles from Wickham Market train station and 2 miles from the 18th-century Orfordness Lighthouse within the Orford Ness National Nature Reserve. Free parking is available at the pub. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667551249
+updated_at: 1667553214
 cta: |-
   [https://www.thekingsheadorford.co.uk/](https://www.thekingsheadorford.co.uk/)
 
