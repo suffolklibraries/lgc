@@ -15,7 +15,7 @@ start_date: '2022-11-11 10:30'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667817987
+updated_at: 1667818079
 attendance_information: |-
   - All welcome
   - Older people
@@ -55,9 +55,6 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
         text: 'These classes will also run online on Mondays from 13:00 to 14:00. Please email coherearts@gmail.com for a Zoom link. '
   -
     type: heading
