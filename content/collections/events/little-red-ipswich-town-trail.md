@@ -147,6 +147,6 @@ content_area:
         text: 'All eight locations are within a walking distance from one another.'
 cta: '[https://easternangles.co.uk/little-red-ipswich-town-trail](https://easternangles.co.uk/little-red-ipswich-town-trail)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667572619
+updated_at: 1667814791
 ---
 Join Eastern Angles for an unforgettable fairytale journey across Ipswich!
