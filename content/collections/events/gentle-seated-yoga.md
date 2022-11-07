@@ -1,8 +1,7 @@
 ---
 id: 0e941192-9ad6-493e-a158-5f66603e7368
-published: false
 blueprint: events
-title: 'Gentle - Seated Yoga to Music'
+title: 'Gentle Seated Yoga to Music'
 event_categories:
   - later-life
   - activity
@@ -15,7 +14,7 @@ start_date: '2022-11-11 10:30'
 free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1667832980
+updated_at: 1667832996
 attendance_information: |-
   - All welcome
   - Older people
