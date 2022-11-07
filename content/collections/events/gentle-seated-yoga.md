@@ -14,8 +14,8 @@ featured_image: Seated-yoga---Gentle.PNG
 start_date: '2022-11-11 10:30'
 free: true
 virtual: false
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667818079
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1667832980
 attendance_information: |-
   - All welcome
   - Older people
@@ -83,12 +83,6 @@ content_area:
     content:
       -
         type: text
-        text: 'Woodbridge is a historic market town in Suffolk, England, approximately 8 miles up the River Deben from the sea. It lies 7 miles NE of central Ipswich as part of the wider Ipswich built-up area. The town is close to some major archaeological sites of the Anglo-Saxon period, including the Sutton Hoo burial ship. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'The Woodbridge train station is located only 3 minutes on foot and there is also a '
       -
         type: text
@@ -103,11 +97,11 @@ content_area:
         text: 'Notcutts bus stop'
       -
         type: text
-        text: ' only a 5-minute walk away. On-site parking is available at the community centre. '
+        text: ' only a 5 minute walk away. On-site parking is available at the community centre. '
 cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 end_date: '2022-11-11 11:30'
 ---
-Join Imogen Hayward and get involved in some seated yoga enabling you to get active, creative and connected!
+Join Imogen Hayward and get involved in some seated yoga to get active, creative and connected!
