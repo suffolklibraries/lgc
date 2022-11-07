@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: '‘Our Day Out'' is an award-winning programme of free, inclusive, high-quality creative workshops for older people that take place in nine locations across Norfolk, Thetford being one of them.'
+        text: '‘Our Day Out'' is an award-winning programme of free, inclusive, high-quality creative workshops for older people that take place in a few locations, Thetford being one of them.'
   -
     type: paragraph
     content:
@@ -110,6 +110,12 @@ content_area:
         type: text
         text: ' on Water Lane is the closest bus stop, which is only a 5-minute walk. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667571180
+updated_at: 1667814085
+cta: |-
+  [https://www.creativeartseast.co.uk/](https://www.creativeartseast.co.uk/)
+
+  [lauren@creativeartseast.co.uk](mailto:lauren@creativeartseast.co.uk)
+
+  [07359099950](tel:07359099950)
 ---
 Join the inclusive and relaxed sessions of creative activities for older people!
