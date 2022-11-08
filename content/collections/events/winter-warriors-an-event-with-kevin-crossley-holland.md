@@ -15,7 +15,7 @@ end_date: '2022-12-03 15:00'
 free: false
 cost_details: £3
 virtual: false
-attendance_information: 'Primary aged schildren'
+attendance_information: 'Primary school aged children'
 latitude: '52.05873187071222'
 longitude: '1.1567387339501785'
 address_line_1: 'Ipswich County Library'
@@ -93,8 +93,139 @@ content_area:
         text: 'How to get there'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ipswich County Library sits in the heart of Ipswich.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For local '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'bus services'
+      -
+        type: text
+        text: ' click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.firstbus.co.uk'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: ' for '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'First Buses'
+      -
+        type: text
+        text: ' or click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswichbuses.co.uk'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: ' or'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' Ipswich Buses'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'train services'
+      -
+        type: text
+        text: ', click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/?gclid=Cj0KCQjw39uYBhCLARIsAD_SzMRL4SwgUKU1PCe-tjXx3VwHoPRn--Yn991vvZL8gGkB9nlKfq8nsXwaArQQEALw_wcB'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: ' for '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Greater Anglia'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For details on the nearest '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'car parks'
+      -
+        type: text
+        text: ', click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/carparks'
+              rel: null
+              target: _blank
+              title: null
+        text: here
   -
     type: paragraph
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667909463
+updated_at: 1667913729
+accessibility_information: |-
+  - Ramped/slope access
+  - Accessible toilet
+  - Assistive listening
+  - Baby changing facility
+booking_link: 'https://www.eventbrite.co.uk/e/winter-warriors-an-event-with-kevin-crossley-holland-tickets-463506248667?aff=ebdshpsearchautocomplete'
+cta: '[https://en-gb.facebook.com/IpswichCBG/](https://en-gb.facebook.com/IpswichCBG/)'
 ---
+Join author Kevin Crossley-Holland for an afternoon of myth, magic, great deeds and wonder!
