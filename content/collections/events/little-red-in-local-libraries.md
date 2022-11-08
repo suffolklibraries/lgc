@@ -130,6 +130,6 @@ content_area:
         text: .
 cta: '[https://easternangles.co.uk/](https://easternangles.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667902359
+updated_at: 1667904761
 ---
-Visit Gainsborough community library, Country library or Chantry library for a magical experience in style of _Little Red_!
+Come to one of the three libraries in Suffolk and enjoy the magical setting inspired by the Little Red!
