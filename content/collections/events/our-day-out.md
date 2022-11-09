@@ -110,7 +110,7 @@ content_area:
         type: text
         text: ' on Water Lane is the closest bus stop, which is only a 5-minute walk. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667814168
+updated_at: 1667984888
 cta: |-
   [https://www.creativeartseast.co.uk/](https://www.creativeartseast.co.uk/)
 
