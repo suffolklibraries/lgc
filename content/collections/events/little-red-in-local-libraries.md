@@ -41,7 +41,16 @@ content_area:
         text: "Little Red\_"
       -
         type: text
-        text: "woodlands\_in three\_libraries.\_County (Ipswich) Library,\_Gainsborough Community Library, and Chantry Library\_have each seen part of their\_spaces transformed into a\_magical woodland\_where people can escape into the fairytale world of\_"
+        text: "woodlands\_in three\_libraries.\_"
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "County (Ipswich) Library,\_Gainsborough Community Library, and Chantry Library"
+      -
+        type: text
+        text: "\_have each seen part of their\_spaces transformed into a\_magical woodland\_where people can escape into the fairytale world of\_"
       -
         type: text
         marks:
@@ -130,6 +139,6 @@ content_area:
         text: .
 cta: '[https://easternangles.co.uk/](https://easternangles.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667904761
+updated_at: 1667984732
 ---
 Come to one of the three libraries in Suffolk and enjoy the magical setting inspired by the Little Red!
