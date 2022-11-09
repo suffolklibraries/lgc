@@ -79,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please note that there will be a 2-week break over Christmas, with no classes on the weeks commencing 19th and 26th December. In the new year, the second course will focus on Printmaking.'
+        text: 'Please note that there will be a 2-week break over Christmas, with no classes on the weeks commencing 19 and 26 December. In the new year, the second course will focus on Printmaking.'
   -
     type: paragraph
     content:
@@ -173,6 +173,6 @@ cta: |-
 
   [07795833460](tel:07795833460)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667920637
+updated_at: 1667983132
 ---
 Join a 6-week free creative course and enjoy arts and crafts in a relaxed environment to aid your wellbeing!
