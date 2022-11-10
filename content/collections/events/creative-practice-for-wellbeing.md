@@ -171,7 +171,7 @@ cta: |-
   [chloe@rockpaperscissors.org.uk](mailto:chloe@rockpaperscissors.org.uk)
 
   [07795833460](tel:07795833460)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1668075598
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1668077173
 ---
 A 6-week free creative course where arts and crafts can be enjoyed in a relaxed environment to aid wellbeing.
