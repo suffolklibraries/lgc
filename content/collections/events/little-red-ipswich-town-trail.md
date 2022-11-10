@@ -1,6 +1,5 @@
 ---
 id: 18537ff1-e27e-497e-9fee-072fb846b4d1
-published: false
 blueprint: events
 title: 'Little Red Ipswich Town Trail'
 event_categories:
@@ -8,6 +7,7 @@ event_categories:
   - literature
   - activity
   - primary-school-age
+  - art
 organisers:
   - eastern-angles
 featured_image: Little-Red.PNG
@@ -30,7 +30,13 @@ content_area:
     content:
       -
         type: text
-        text: "Scattered around Ipswich Town Centre are seven leaves, left in the footsteps\_of Little Red's journey through the big, dark wood and Ipswich Town Centre on her way to the Sir John Mills Theatre. Eastern Angles have teamed up with 7 local friends to create this sticker trail, each with a QR code\_unique to the place you're at and what Little Red found when she was there. Try some special punch, listen to some exclusive songs from\_Little Red,\_and read some of Suffolk's very own local fairy tales - there's lots\_to explore in our\_"
+        text: "Scattered around Ipswich Town Centre are seven leaves, left in the footsteps\_of Little Red's journey through the big, dark wood and Ipswich Town Centre on her way to the Sir John Mills Theatre. Eastern Angles have teamed up with seven local friends to create this sticker trail, each with a QR code\_unique to the place you're at and what Little Red found when she was there. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Try some special punch, listen to some exclusive songs from\_Little Red,\_and read some of Suffolk's very own local fairy tales - there's lots\_to explore in our\_"
       -
         type: text
         marks:
@@ -146,7 +152,7 @@ content_area:
         type: text
         text: 'All eight locations are within a walking distance from one another.'
 cta: '[https://easternangles.co.uk/little-red-ipswich-town-trail](https://easternangles.co.uk/little-red-ipswich-town-trail)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667984615
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1668075128
 ---
 Join Eastern Angles for an unforgettable fairytale journey across Ipswich!
