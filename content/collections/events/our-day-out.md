@@ -151,7 +151,7 @@ content_area:
         type: text
         text: ' on Water Lane is the closest bus stop, which is only a 5-minute walk. '
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1668075460
+updated_at: 1668075506
 cta: |-
   [https://www.creativeartseast.co.uk/](https://www.creativeartseast.co.uk/)
 
@@ -159,4 +159,4 @@ cta: |-
 
   [07359099950](tel:07359099950)
 ---
-Join the inclusive and relaxed sessions of creative activities for older people!
+Inclusive and relaxing creative activities for older people.
