@@ -1,6 +1,5 @@
 ---
 id: b964ffe9-975d-4b83-b9d7-aefeae3074d0
-published: false
 blueprint: events
 title: 'Winter Warriors: An Event with Kevin Crossley-Holland'
 event_categories:
@@ -218,8 +217,8 @@ content_area:
         text: here
   -
     type: paragraph
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667983279
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1668075747
 accessibility_information: |-
   - Ramped/slope access
   - Accessible toilet
@@ -228,4 +227,4 @@ accessibility_information: |-
 booking_link: 'https://www.eventbrite.co.uk/e/winter-warriors-an-event-with-kevin-crossley-holland-tickets-463506248667?aff=ebdshpsearchautocomplete'
 cta: '[https://en-gb.facebook.com/IpswichCBG/](https://en-gb.facebook.com/IpswichCBG/)'
 ---
-Join author Kevin Crossley-Holland for an afternoon of myth, magic, great deeds and wonder!
+Join critically acclaimed author Kevin Crossley-Holland for an afternoon of myth, magic, great deeds and wonder!
