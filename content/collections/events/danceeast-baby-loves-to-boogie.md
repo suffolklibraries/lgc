@@ -5,12 +5,9 @@ title: 'Baby Loves to Boogie'
 event_categories:
   - activity
   - art
-  - crafts
   - dance
-  - workshop
   - early-years
   - family-friendly
-  - movement
   - parent-and-baby
 organisers:
   - danceeast
@@ -90,8 +87,8 @@ content_area:
 cta: |-
   For more information visit 
   [DanceEast Baby Loves to Boogie](https://www.danceeast.co.uk/workshops/baby-loves-to-boogie/)
-updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1664890434
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1668087026
 cost_details: £4
 accessibility_information: 'Wheelchair accessible'
 ---
