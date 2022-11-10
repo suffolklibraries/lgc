@@ -138,7 +138,7 @@ content_area:
         type: text
         text: .
 cta: '[https://easternangles.co.uk/](https://easternangles.co.uk/)'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1668075269
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1668077328
 ---
 Visit one of three libraries in Suffolk and enjoy the magical setting inspired by the fairytale of Little Red!
