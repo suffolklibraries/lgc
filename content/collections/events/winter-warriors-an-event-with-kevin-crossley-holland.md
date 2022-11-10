@@ -1,6 +1,5 @@
 ---
 id: b964ffe9-975d-4b83-b9d7-aefeae3074d0
-published: false
 blueprint: events
 title: 'Winter Warriors: An Event with Kevin Crossley-Holland'
 event_categories:
@@ -219,7 +218,7 @@ content_area:
   -
     type: paragraph
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668077015
+updated_at: 1668077038
 accessibility_information: |-
   - Ramped/slope access
   - Accessible toilet
