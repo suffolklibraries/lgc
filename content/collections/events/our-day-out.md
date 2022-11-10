@@ -1,6 +1,5 @@
 ---
 id: d5cdeb93-2a34-4e5d-8aed-9f3272b53f41
-published: false
 blueprint: events
 title: 'Our Day Out - Sessions for Seniors'
 event_categories:
@@ -52,7 +51,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Those sessions will be running every second and fourth Friday of the month unless otherwise stated.'
+        text: 'These sessions will be running every second and fourth Friday of the month, unless otherwise stated.'
   -
     type: heading
     attrs:
@@ -66,7 +65,49 @@ content_area:
     content:
       -
         type: text
-        text: 'Contact Lauren on 01953713390/07359099950 or email lauren@creativeartseast.co.uk for more information or to book a place! '
+        text: 'Contact Lauren on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01953713390'
+              rel: null
+              target: null
+              title: null
+        text: '01953 713390'
+      -
+        type: text
+        text: ' or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07359099950'
+              rel: null
+              target: null
+              title: null
+        text: '07359099950 '
+      -
+        type: text
+        text: 'or email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:lauren@creativeartseast.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: lauren@creativeartseast.co.uk
+      -
+        type: text
+        text: ' for more information or to book a place! '
   -
     type: heading
     attrs:
@@ -109,8 +150,8 @@ content_area:
       -
         type: text
         text: ' on Water Lane is the closest bus stop, which is only a 5-minute walk. '
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667984888
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1668075460
 cta: |-
   [https://www.creativeartseast.co.uk/](https://www.creativeartseast.co.uk/)
 
