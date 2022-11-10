@@ -45,7 +45,21 @@ content_area:
     content:
       -
         type: text
-        text: 'All participants involved will be invited to join a Winter Parade with their lanterns as part of First Light’s Winter Fayre on the 2 December. The parade will journey from Kirkley Pantry Community Garden along the seafront promenade to Lowestoft Pavilion. '
+        text: 'All participants involved will be invited to join a Winter Parade with their lanterns as part of First Light’s Winter Fayre on the 2 December. The parade will journey from Kirkley Pantry Community Garden along the seafront promenade to Lowestoft Pavilion. Go '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkartlink.org.uk/sessions/winter-lantern-parade/'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: ' to for more information on the Winter Parade.'
   -
     type: paragraph
     content:
@@ -132,6 +146,6 @@ cta: |-
 
   [07704068327](tel:07704068327)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668099753
+updated_at: 1668100548
 ---
 Make your own sculptural lantern and join the Winter Parade, showcasing your work!
