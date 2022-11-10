@@ -1,12 +1,12 @@
 ---
 id: acfc5579-4796-4d0a-804d-259f115ae6b6
-published: false
 blueprint: events
 title: 'Little Red in Local Libraries'
 event_categories:
   - family-friendly
   - literature
   - primary-school-age
+  - early-years
 organisers:
   - eastern-angles
 featured_image: Little-Red-1667898613.PNG
@@ -14,7 +14,7 @@ start_date: '2022-11-08 09:00'
 end_date: '2022-12-03 17:00'
 free: true
 virtual: false
-attendance_information: Children
+attendance_information: 'Young families and children'
 accessibility_information: |-
   - Ramped/sloped access
   - Baby changing facility
@@ -41,7 +41,7 @@ content_area:
         text: "Little Red\_"
       -
         type: text
-        text: "woodlands\_in three\_libraries.\_"
+        text: "woodlands\_in three\_libraries in Ipswich.\_"
       -
         type: text
         marks:
@@ -65,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: "Take a seat amongst the trees\_and\_go\_on a scavenger hunt around library bookshelves, take a fun quiz to find out which\_"
+        text: "Take a seat amongst the trees\_and\_go\_on a scavenger hunt around library bookshelves or complete a fun quiz to find out which\_"
       -
         type: text
         marks:
@@ -74,7 +74,7 @@ content_area:
         text: "Little Red\_"
       -
         type: text
-        text: "character you would be,\_and play some fun fairytale games.\_"
+        text: "character you would be and play some fun fairytale games.\_"
   -
     type: paragraph
     content:
@@ -138,7 +138,7 @@ content_area:
         type: text
         text: .
 cta: '[https://easternangles.co.uk/](https://easternangles.co.uk/)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667984732
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1668075269
 ---
-Come to one of the three libraries in Suffolk and enjoy the magical setting inspired by the Little Red!
+Visit one of three libraries in Suffolk and enjoy the magical setting inspired by the fairytale of Little Red!
