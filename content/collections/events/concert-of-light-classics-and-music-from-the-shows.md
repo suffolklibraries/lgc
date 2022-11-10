@@ -1,8 +1,7 @@
 ---
 id: 021c1f78-e7d8-4098-b989-2c3527e0fefb
-published: false
 blueprint: events
-title: 'Concert of Light Classics and Music From the Shows'
+title: 'Concert of Light Classics and Music from the Shows'
 event_categories:
   - community
   - music
@@ -145,7 +144,7 @@ content_area:
         type: text
         text: '. '
 cta: '[https://www.communitylightorchestra.co.uk/](https://www.communitylightorchestra.co.uk/)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667984110
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1668075667
 ---
-Visit the Ipswich School to experience a classical orchestra performance!
+Visit the Ipswich School to experience a classical orchestral performance.
