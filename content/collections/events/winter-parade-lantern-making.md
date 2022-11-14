@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: pexels-min-an-1313817.jpg
-start_date: '2022-11-11 10:30'
-end_date: '2022-11-11 14:00'
+start_date: '2022-11-25 10:00'
+end_date: '2022-11-25 14:30'
 free: true
 virtual: false
 attendance_information: '- All welcome'
@@ -59,16 +59,7 @@ content_area:
         text: here
       -
         type: text
-        text: ' to for more information on the Winter Parade.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'The lantern-making session will also run on 25 November from 10:00 until 14:30'
+        text: ' for more information on the Winter Parade.'
   -
     type: heading
     attrs:
@@ -82,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: "Booking is required. To book contact Kasia Posen on either\_"
+        text: "Booking is required. To book, contact Kasia Posen at either\_"
       -
         type: text
         marks:
@@ -146,6 +137,6 @@ cta: |-
 
   [07704068327](tel:07704068327)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668100548
+updated_at: 1668420728
 ---
 Make your own sculptural lantern and join the Winter Parade, showcasing your work!
