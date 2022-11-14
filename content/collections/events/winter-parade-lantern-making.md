@@ -1,12 +1,13 @@
 ---
 id: 5e13541a-9280-4b13-bc2f-87cd69fba46e
-published: false
 blueprint: events
 title: 'Winter Parade Lantern Making'
 event_categories:
   - art
   - teen-and-young-adult
   - activity
+  - family-friendly
+  - later-life
 organisers:
   - suffolk-artlink
 featured_image: pexels-min-an-1313817.jpg
@@ -39,13 +40,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and make lanterns for the forthcoming Winter Parade in Lowestoft! Join Willow Phoenix who will be sharing skills to make your own sculptural lantern to celebrate the Community Garden.'
+        text: 'Come and make lanterns for the upcoming Winter Parade in Lowestoft! Join Willow Phoenix who will be sharing skills so you can make your own sculptural lantern to celebrate the Community Garden.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'All participants involved will be invited to join a Winter Parade with their lanterns as part of First Light’s Winter Fayre on the 2 December. The parade will journey from Kirkley Pantry Community Garden along the seafront promenade to Lowestoft Pavilion. Go '
+        text: 'All participants involved will be invited to join a Winter Parade with their lanterns as part of First Light’s Winter Fayre on the 2 December. The parade will journey from Kirkley Pantry Community Garden along the seafront promenade to Lowestoft Pavilion. Visit '
       -
         type: text
         marks:
@@ -136,7 +137,7 @@ cta: |-
   [kasia@suffolkartlink.org.uk](mailto:kasia@suffolkartlink.org.uk)
 
   [07704068327](tel:07704068327)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668423550
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1668426091
 ---
 Make your own sculptural lantern and join the Winter Parade, showcasing your work!
