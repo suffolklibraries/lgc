@@ -1,6 +1,5 @@
 ---
 id: 2f422a56-d41e-40cd-a02a-9075eedffab0
-published: false
 blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
