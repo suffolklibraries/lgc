@@ -11,7 +11,7 @@ event_categories:
 organisers:
   - the-national-horse-racing-museum
 featured_image: NHRM-Pre-light-switch-on-session.PNG
-start_date: '2022-11-16 15:04'
+start_date: '2022-11-18 15:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -47,7 +47,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Museum shop will be open for all your Christmas gift needs and The Bakery in King''s Yard. '
+        text: 'The Museum shop will be open for all your Christmas gift needs and The Bakery located in the King''s Yard will also be open, selling refreshments. '
   -
     type: heading
     attrs:
@@ -69,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'w to book How to get there'
+        text: 'How to get there'
   -
     type: paragraph
     content:
@@ -92,6 +92,7 @@ content_area:
         text: ' to find out more on how to get to the NHRM.'
 cta: '[https://www.nhrm.co.uk/](https://www.nhrm.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668616669
+updated_at: 1668678310
+end_date: '2022-11-18 17:00'
 ---
 Visit the National Horse Racing Museum before the Newmarket Christmas light switch-on, to have some festive family fun!
