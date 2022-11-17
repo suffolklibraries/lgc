@@ -95,6 +95,6 @@ cta: |-
 
   or email [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668698075
+updated_at: 1668698089
 ---
 An opportunity for young people to explore and develop new skills in music.
