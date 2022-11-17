@@ -48,7 +48,7 @@ content_area:
         text: 'Newmarket Christmas Light Switch-On'
       -
         type: text
-        text: '? Come along to the National Horse Racing Museum from 15:500 to 17:00 for some family fun before of the big event! The museum will be staying open for an extra hour ahead of the Christmas Light Switch-On.'
+        text: '? Come along to the National Horse Racing Museum from 15:00 to 17:00 for some family fun before of the big event! The museum will be staying open for an extra hour ahead of the Christmas Light Switch-On.'
   -
     type: paragraph
     content:
@@ -105,7 +105,7 @@ content_area:
         text: ' to find out more on how to get to the NHRM.'
 cta: '[https://www.nhrm.co.uk/](https://www.nhrm.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668679391
+updated_at: 1668680645
 end_date: '2022-11-18 17:00'
 ---
 Visit the National Horse Racing Museum before the Newmarket Christmas light switch-on, to have some festive family fun!
