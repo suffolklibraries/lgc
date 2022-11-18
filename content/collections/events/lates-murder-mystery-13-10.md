@@ -1,5 +1,6 @@
 ---
 id: 62477c2e-caa0-4f88-b66d-208fc35db262
+published: false
 blueprint: events
 title: 'Lates: Murder Mystery at The Hold'
 event_categories:
