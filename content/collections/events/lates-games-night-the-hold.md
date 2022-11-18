@@ -1,5 +1,6 @@
 ---
 id: 8648be88-f971-4385-b7c2-5b18add3253e
+published: false
 blueprint: events
 title: 'Lates: Games Night'
 organisers:
