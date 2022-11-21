@@ -16,10 +16,10 @@ cost_details: £5
 virtual: false
 attendance_information: 'Parent and baby'
 accessibility_information: |-
-  -Dementia friendly
-  -Autism friendly
-  -Baby changing facilities
-  -Covid-19 preventative measures in place
+  - Dementia friendly
+  - Autism friendly
+  - Baby changing facilities
+  - Covid-19 preventative measures in place
 latitude: '52.47634871563557'
 longitude: '1.753469769599293'
 address_line_1: 'Marina Theatre'
@@ -112,6 +112,6 @@ cta: |-
 
   Or call the Marina Theatre Box Office on 01502533200
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667575410
+updated_at: 1669033521
 ---
 An exploration of sound, music, stories and sensory play for little ones.
