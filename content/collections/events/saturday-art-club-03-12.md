@@ -2,7 +2,7 @@
 id: dc4372b4-8df0-4f56-bc67-ed0de0355d81
 published: false
 blueprint: events
-title: 'Saturday Art Club (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - art
   - primary-school-age
@@ -118,7 +118,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669022890
+updated_at: 1669022969
 end_date: '2022-11-26 11:30'
 cost_details: £6
 attendance_information: '5 - 10 years'
