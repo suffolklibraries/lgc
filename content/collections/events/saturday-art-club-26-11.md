@@ -12,17 +12,17 @@ featured_image: miscellaneous/saturday-art-club.jfif
 start_date: '2022-11-26 10:00'
 free: false
 virtual: false
-latitude: '52.05306962490606'
-longitude: '1.1634888252440703'
-address_line_1: 'The Hold'
-address_line_2: '131 Fore Street'
+latitude: '52.05631725971396'
+longitude: '1.1647311421019406'
+address_line_1: 'Rock Paper Scissors Arts'
+address_line_2: '11 Dove St'
 town: Ipswich
-postcode: 'IP4 1LN'
+postcode: 'IP4 1NG'
 content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Based at the Suffolk Archives building, The Hold, this is a weekly art club for 5-10 year olds, having creative fun and exploring process art.'
+        text: 'Based in the studio on Dove Street, this is a weekly art club for 5-10-year olds, having creative fun and exploring process art.'
   -
     type: paragraph
     content:
@@ -59,7 +59,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -69,17 +69,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Saturday Art Club meets at The Hold, 131 Fore Street, Ipswich.'
-  -
-    type: paragraph
-    content:
+        text: 'The Dove studio is located near Suffolk New College. The closest '
       -
         type: text
-        text: 'For those travelling by car, there is a car park a short walk from the venue next to the student halls.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Dove+Street/@52.0564079,1.1642675,19.92z/data=!4m12!1m6!3m5!1s0x47d99f35294949e1:0x9c13a67991806071!2sRock+Paper+Scissors+Arts!8m2!3d52.0562172!4d1.1647077!3m4!1s0x47d99f804eaffb61:0x713cff901aa263c9!8m2!3d52.056492!4d1.164362'
+              rel: null
+              target: null
+              title: null
+        text: 'bus stop'
+      -
+        type: text
+        text: ' is only a minute walk away and the closest parking is the College Car Park which is free after 18:00 on weekdays. '
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -110,9 +118,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668597663
+updated_at: 1669022890
 end_date: '2022-11-26 11:30'
-cost_details: £5
+cost_details: £6
 attendance_information: '5 - 10 years'
 ---
 A weekly art club for 5-10 year olds - have creative fun and explore process art.
