@@ -221,5 +221,6 @@ cta: |-
 
   [info@spillfestival.com](mailto:info@spillfestival.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669132920
+updated_at: 1669133033
 ---
+Join the SPILL Think Tank for an amazing Christmas Fair to find some Christmas gifts, mulled wine, treats and more!
