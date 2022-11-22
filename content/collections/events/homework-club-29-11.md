@@ -77,7 +77,7 @@ content_area:
     content:
       -
         type: text
-        text: ' For information about all the car parks in Ipswich town centre visit '
+        text: 'For information about all the car parks in Ipswich town centre visit '
       -
         type: text
         marks:
@@ -114,6 +114,6 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668598876
+updated_at: 1669114530
 ---
 A safe space to do your homework and develop your education!
