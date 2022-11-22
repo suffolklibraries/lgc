@@ -10,7 +10,7 @@ event_categories:
   - activity
 organisers:
   - eastern-angles
-featured_image: eayc-square-just-title-(2)-1669112846.jpg
+featured_image: eayc-just-title-square-(1).png
 start_date: '2022-12-19 09:30'
 end_date: '2022-12-23 14:30'
 free: true
@@ -158,6 +158,6 @@ cta: |-
 
   [01473218202](tel:01473218202)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669116175
+updated_at: 1669121740
 ---
 Get involved in the exciting one-week creative and theatre-based programme for young people aged 7-12!
