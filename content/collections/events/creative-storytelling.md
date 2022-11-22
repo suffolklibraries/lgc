@@ -18,7 +18,10 @@ virtual: false
 attendance_information: |-
   - Children aged 7-12
   - Children elegible for free school meals
-accessibility_information: '- Disabled parking'
+accessibility_information: |-
+  - Disabled parking
+  - Disabled toilet
+  - Ramp access
 latitude: '52.06326090765108'
 longitude: '1.1372878120884198'
 address_line_1: 'Eastern Angles Centre'
@@ -155,6 +158,6 @@ cta: |-
 
   [01473218202](tel:01473218202)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669115756
+updated_at: 1669116175
 ---
-Get involved in the exciting one-week free creative and theatre-based programme for young people aged 7-12!
+Get involved in the exciting one-week creative and theatre-based programme for young people aged 7-12!
