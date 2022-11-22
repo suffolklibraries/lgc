@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - creative-arts-east
 featured_image: Our-day-out---Creative-arts-east.PNG
-start_date: '2022-11-11 14:00'
-end_date: '2022-11-11 16:00'
+start_date: '2022-11-25 14:00'
+end_date: '2022-11-25 16:00'
 free: true
 virtual: false
 attendance_information: '- Older people'
@@ -150,8 +150,8 @@ content_area:
       -
         type: text
         text: ' on Water Lane is the closest bus stop, which is only a 5-minute walk. '
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1668075506
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1669106894
 cta: |-
   [https://www.creativeartseast.co.uk/](https://www.creativeartseast.co.uk/)
 
