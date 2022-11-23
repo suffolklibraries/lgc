@@ -1,6 +1,5 @@
 ---
 id: 746516b1-5b8f-4c3b-8466-39114d5fde8d
-published: false
 blueprint: events
 title: 'Creative Storytelling Programme'
 event_categories:
@@ -157,7 +156,7 @@ cta: |-
   [admin@easternangles.co.uk](mailto:admin@easternangles.co.uk )
 
   [01473218202](tel:01473218202)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669192070
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1669229069
 ---
 Get involved in the exciting one-week creative and theatre-based programme for young people aged 7-12!
