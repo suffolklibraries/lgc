@@ -31,6 +31,16 @@ content_area:
         text: 'What to expect '
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Inside Out Community is a thriving community of artists, volunteers and members who use art and creativity as a way of maintaining their mental health and emotional wellbeing. The Young Creatives sessions will include free arts and movement-based workshops led by artists for the youth every Friday. These sessions will be running from the 13 January to the 31 January (excluding 17 February, half term). '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In addition, there will be monthly online social meetups, to chat and enable connections. '
 cta: |-
   [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/)
 
@@ -38,7 +48,11 @@ cta: |-
 
   [01473563900](tel:01473563900)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669195324
+updated_at: 1669204764
 featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
+accessibility_information: |-
+  - Ramped/Sloped access
+  - Baby changing facility
+  - Accessbible toilet
 ---
-A engaging session of arts and movement based workshops!
+An engaging session of arts and movement based workshops!
