@@ -48,6 +48,12 @@ content_area:
     content:
       -
         type: text
+        text: 'This free programme is for young people aged 7-12 who are eligible for free school meals. If you''re interested in taking part but are not eligible for free school meals, please do still get in touch with Eastern Angles.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: "Eastern Angles will be working with Chapter 82\_on this programme -\_"
       -
         type: text
@@ -60,12 +66,6 @@ content_area:
               target: null
               title: null
         text: 'click here to find out more about Chapter 82.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This free programme is for young people aged 7-12 who are eligible for free school meals. If you''re interested in taking part but are not eligible for free school meals, please do still get in touch with Eastern Angles.'
   -
     type: heading
     attrs:
@@ -158,6 +158,6 @@ cta: |-
 
   [01473218202](tel:01473218202)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669121740
+updated_at: 1669192070
 ---
 Get involved in the exciting one-week creative and theatre-based programme for young people aged 7-12!
