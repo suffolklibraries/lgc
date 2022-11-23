@@ -5,7 +5,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669106327
+updated_at: 1669207885
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2022-11-30 10:00'
@@ -108,7 +108,7 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £4
+cost_details: £6
 end_date: '2022-11-30 11:30'
 ---
 A weekly dance class for everyone over 55. Sudbury Movers classes are designed to benefit you both mentally and physically.
