@@ -84,7 +84,7 @@ cta: |-
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669212510
+updated_at: 1669212542
 attendance_information: Mums!
 ---
 Come and join for the new More Than Mums Coffee Mornings in Ipswich!
