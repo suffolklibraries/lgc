@@ -9,8 +9,8 @@ event_categories:
   - dance
 organisers:
   - inside-out-community
-start_date: '2022-11-25 16:00'
-end_date: '2022-11-25 18:00'
+start_date: '2023-01-13 16:00'
+end_date: '2023-01-13 18:00'
 free: true
 virtual: false
 attendance_information: '18-25 year olds'
@@ -38,6 +38,7 @@ cta: |-
 
   [01473563900](tel:01473563900)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669194303
+updated_at: 1669195324
+featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
 ---
 A engaging session of arts and movement based workshops!
