@@ -1,6 +1,5 @@
 ---
 id: 6be77255-da29-41f3-9247-9acaf7e74a92
-published: false
 blueprint: events
 title: 'Lates: Christmas Crafts'
 event_categories:
@@ -15,8 +14,8 @@ start_date: '2022-12-15 19:00'
 end_date: '2022-12-15 22:00'
 free: false
 virtual: false
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668780211
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1669227811
 cost_details: £5
 attendance_information: '- Teens and adults'
 latitude: '52.053403991340154'
@@ -39,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Grab a glass of something mulled and get yourself all ready for the festive season with the Christmas crafts, including making your own wreath out of local greenery, custom-printed wrapping paper, and more.'
+        text: 'Grab a glass of something mulled and get yourself ready for the festive season with Christmas crafts, including making your own wreath out of local greenery, custom-printed wrapping paper, and more.'
   -
     type: paragraph
     content:
@@ -119,4 +118,4 @@ content_area:
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/suffolk-archives-at-the-hold/lates-christmas-crafts/2022-12-15/19:00/t-pqqyqdj'
 cta: '[https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)'
 ---
-Get creative by making some Christmas crafts at The Hold and share the festive atmosphere with others!
+Get creative by making some Christmas crafts at The Hold and share in the festive atmosphere!
