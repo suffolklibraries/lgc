@@ -1,6 +1,5 @@
 ---
 id: f20d1ceb-59de-4017-b20b-f24147cffb50
-published: false
 blueprint: events
 title: 'Stowmarket Christmas Fayre'
 event_categories:
@@ -46,13 +45,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The At the John Peel Centre there will be a line-up of festive music including classical pianists, Stow Chorale and Ipswich Reggae Choir, alongside seasonal drinks and a record fair. '
+        text: 'Then at the John Peel Centre there will be a line-up of festive music including classical pianists, Stow Chorale and Ipswich Reggae Choir, alongside seasonal drinks and a record fair. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'If that wasn’t enough families can enjoy the free toy-building workshops in St Peter’s Church Hall, Christmas crafts at Stowmarket Library, charity fair at Red Gables and festivities at the Lions Club on Tavern Street. '
+        text: 'If that wasn’t enough, families can enjoy the free toy-building workshops in St Peter’s Church Hall, Christmas crafts at Stowmarket Library, charity fair at Red Gables and festivities at the Lions Club on Tavern Street. '
   -
     type: heading
     attrs:
@@ -80,9 +79,9 @@ content_area:
     content:
       -
         type: text
-        text: 'This event will be happening across multiple indoor and outdoor spaces in Stowmarket including; the town centre, Food Museum, John Peel Centre, St Peter''s Hall, St Peter and St Mary''s Church, Stowmarket Library, The Regal, The Mix, and Red Gables. All these locations are a walkable distance from each other. '
+        text: 'This event will be happening across multiple indoor and outdoor spaces in Stowmarket including the town centre, Food Museum, John Peel Centre, St Peter''s Hall, St Peter and St Mary''s Church, Stowmarket Library, The Regal, The Mix, and Red Gables. All these locations are a walkable distance from each other. '
 cta: '[https://www.facebook.com/events/380540834202843/?active_tab=about](https://www.facebook.com/events/380540834202843/?active_tab=about)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669123610
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1669227724
 ---
 Come along to the Stowmarket Christmas Fayre where there is entertainment for the whole family with free fun fair rides, live music, and street performers.
