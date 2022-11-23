@@ -1,8 +1,7 @@
 ---
 id: d94f4bd9-6dd6-4d5a-92bd-0b28e2d4eb6a
-published: false
 blueprint: events
-title: 'Christmas Films at The Regal Stowmarket'
+title: 'Christmas Films at The Regal, Stowmarket'
 event_categories:
   - computing
   - family-friendly
@@ -190,7 +189,7 @@ content_area:
         type: text
         text: "\_(outside B&M). "
 cta: '[https://regalstowmarket.co.uk/RegalStowmarket.dll/Home](https://regalstowmarket.co.uk/RegalStowmarket.dll/Home)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668767910
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1669227871
 ---
-Visit The Regal Stowmarket cinema with your little ones and watch some classic Christmas movies this autumn!
+Visit The Regal Stowmarket cinema with your little ones and watch some classic Christmas movies this winter!
