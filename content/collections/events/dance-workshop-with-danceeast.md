@@ -1,6 +1,5 @@
 ---
 id: b35d6076-f7fb-4d2f-aeee-1d5b7b5a0ed2
-published: false
 blueprint: events
 title: 'Dance Workshop for Older and Younger Dancers'
 event_categories:
@@ -25,8 +24,8 @@ address_line_1: 'DanceEast, Jerwood DanceHouse'
 address_line_2: 'Foundry Lane'
 town: Ipswich
 postcode: 'IP4 1DW'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669216322
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1669224047
 content_area:
   -
     type: heading
@@ -163,4 +162,4 @@ cta: |-
 
   [01473295230](tel:01473295230)
 ---
-Join dance artist Annie Kelleher at DanceEast for a free dance workshop and explore collaboration between younger and older dancers.
+Join dance artist Annie Kelleher at Jerwood DanceHouse in Ipswich for a free dance workshop!
