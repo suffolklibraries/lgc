@@ -83,7 +83,7 @@ content_area:
         text: 'bus services'
       -
         type: text
-        text: ' both of which have stops only a couple of minutes-walk from the venue:'
+        text: ' both of which have stops only a couple of minutes walk from the venue:'
   -
     type: paragraph
     content:
@@ -143,7 +143,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiO8N3i9b75AhVK7O0KHZiPB4cYABAAGgJkZw&ae=2&ohost=www.google.com&cid=CAESauD2nHrJiEa5SYCy9SQd0UI8YZ8VDyCC12MTDhByjOzoibMzdZLQqLjMUvsZ9M4bTPZm3JugmeLpa7C2z_16ntILhU1DhC50NZqg0JxJOdud38nXbTi3a2qB6TorWxbuXJZo0dRFdMtIuRk&sig=AOD64_0ZNncVFsLKSZX4cGdzF-seYXAsKg&q&adurl&ved=2ahUKEwiN_9Xi9b75AhUKgFwKHb8wBNwQ0Qx6BAgDEAE&nis=8&dct=1'
+              href: 'https://www.greateranglia.co.uk/timetables'
               rel: null
               target: _blank
               title: null
@@ -167,7 +167,7 @@ content_area:
         text: 'car parks'
       -
         type: text
-        text: " near the venue, the closest is\_at Tower Ramparts, use IP1 3DH for Sat Navs."
+        text: " near the venue, the closest is\_the NCP at Tower Ramparts, use IP1 3DH for Sat Navs."
 cta: |-
   [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/)
 
@@ -175,7 +175,7 @@ cta: |-
 
   [01473563900](tel:01473563900)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669204961
+updated_at: 1669207407
 featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
 accessibility_information: |-
   - Ramped/Sloped access
