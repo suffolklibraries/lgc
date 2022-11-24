@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Inside Out Community is a thriving community of artists, volunteers and members who use art and creativity as a way of maintaining their mental health and emotional wellbeing. The Young Creatives sessions will include free arts and movement-based workshops led by artists for the youth every Friday. These sessions will be running from the 13 January to the 31 January (excluding 17 February, half term). '
+        text: 'Inside Out Community is a thriving community of artists, volunteers and members who use art and creativity as a way of maintaining their mental health and emotional wellbeing. The Young Creatives sessions will include free arts and movement-based workshops led by artists for the youth every Friday. These sessions will be running from the 13 January to the 31 March (excluding 17 February, half term). '
   -
     type: paragraph
     content:
@@ -54,7 +54,35 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking is required. Please email hello@insideoutcommunity.com or phone 01473563900 to book a place. '
+        text: 'Booking is required. Please email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:hello@insideoutcommunity.com'
+              rel: null
+              target: _blank
+              title: null
+        text: hello@insideoutcommunity.com
+      -
+        type: text
+        text: ' or phone '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473563900'
+              rel: null
+              target: null
+              title: null
+        text: '01473 563900'
+      -
+        type: text
+        text: ' to book a place. '
   -
     type: heading
     attrs:
@@ -174,8 +202,8 @@ cta: |-
   [hello@insideoutcommunity.com](mailto:hello@insideoutcommunity.com)
 
   [01473563900](tel:01473563900)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669207407
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1669284506
 featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
 accessibility_information: |-
   - Ramped/Sloped access
