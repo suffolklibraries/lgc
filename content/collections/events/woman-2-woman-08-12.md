@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: Screenshot-2022-07-20-at-10.30.54.png
-start_date: '2022-11-24 12:30'
-end_date: '2022-11-24 14:00'
+start_date: '2022-12-08 12:30'
+end_date: '2022-12-08 14:00'
 free: true
 virtual: false
 attendance_information: '- Migrant, refugee and asylum-seeking women'
@@ -96,7 +96,7 @@ content_area:
   -
     type: paragraph
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668598670
+updated_at: 1669800033
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 Building confidence with radio skills
