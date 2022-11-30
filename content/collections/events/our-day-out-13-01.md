@@ -1,6 +1,5 @@
 ---
 id: d5cdeb93-2a34-4e5d-8aed-9f3272b53f41
-published: false
 blueprint: events
 title: 'Our Day Out - Sessions for Seniors'
 event_categories:
