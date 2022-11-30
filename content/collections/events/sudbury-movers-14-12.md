@@ -1,10 +1,11 @@
 ---
 id: 2c13b0bc-bf87-49c8-b17b-9e79b59b5926
+published: false
 blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669207885
+updated_at: 1669799636
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2022-11-30 10:00'
