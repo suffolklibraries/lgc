@@ -1,5 +1,6 @@
 ---
 id: eaebbc35-d16f-4e8a-9fb3-f99f0377d426
+published: false
 blueprint: events
 title: '366 Days of Kindness - Bernadette Russell'
 event_categories:
