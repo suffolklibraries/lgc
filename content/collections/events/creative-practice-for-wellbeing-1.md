@@ -1,5 +1,6 @@
 ---
 id: 85a0d3fd-620d-4b26-9c1f-f972620c163d
+published: false
 blueprint: events
 title: 'Creative Practice for Wellbeing (Duplicated)'
 event_categories:
