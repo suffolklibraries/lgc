@@ -47,13 +47,10 @@ content_area:
     content:
       -
         type: text
-        text: "We have HAF-funded spaces available,\_"
-      -
-        type: text
         marks:
           -
             type: bold
-        text: 'please only select the HAF option if you have a HAF code and put this in at checkout. These are for children whose families are in receipt of free school meals, and lunch is included.'
+        text: "There are HAF-funded spaces available,\_please only select the HAF option if you have a HAF code and put this in at checkout. These are for children whose families are in receipt of free school meals, and lunch is included."
   -
     type: paragraph
     content:
@@ -93,7 +90,12 @@ content_area:
               rel: null
               target: null
               title: null
+          -
+            type: bold
         text: here
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -130,7 +132,7 @@ cta: |-
 
   [07795833460](tel:07795833460)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669889383
+updated_at: 1669980863
 cost_details: £25
 ---
 Join the Dove Street Studio for festive creative art days this Christmas Holiday!
