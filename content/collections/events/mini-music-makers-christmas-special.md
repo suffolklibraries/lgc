@@ -106,11 +106,13 @@ content_area:
         type: text
         text: .
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669990729
+updated_at: 1669998350
 booking_link: 'mailto:community@brittenpearsarts.org'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
+
+  [01728687110](tel:01728687110)
 ---
 Visit the Snape Maltings for some festive child and carer singing!
