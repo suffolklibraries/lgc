@@ -1,6 +1,5 @@
 ---
 id: 85a0d3fd-620d-4b26-9c1f-f972620c163d
-published: false
 blueprint: events
 title: 'Christmas Hideouts!'
 event_categories:
@@ -14,7 +13,7 @@ start_date: '2022-12-28 10:00'
 end_date: '2022-12-29 15:00'
 free: false
 virtual: false
-attendance_information: '- Children aged 5-11'
+attendance_information: 'Children aged 5-11'
 latitude: '52.05628165317634'
 longitude: '1.1647007528290807'
 address_line_1: 'Dove Studio'
@@ -131,8 +130,8 @@ cta: |-
   [team@rockpaperscissors.org.uk](mailto:team@rockpaperscissors.org.uk)
 
   [07795833460](tel:07795833460)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669980863
-cost_details: £25
+updated_by: 2bb387ea-d1df-4185-8cc8-51df5011c3f2
+updated_at: 1669988931
+cost_details: '£0 - £25'
 ---
 Join the Dove Street Studio for festive creative art days this Christmas Holiday!
