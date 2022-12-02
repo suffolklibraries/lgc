@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the modern Avenue Theatre for a fantastic Christmas show for the whole family! The Wind in the Willows is an original tale by Kenneth Grahame becoming a classic of children''s English Literature. The tale relates the adventures of several animal friends and neighbours in the English countryside, primarily Mole, Rat, Toad, and Badger, whilst also exploring themes of friendship, honesty, and the importance of home and neighbours. This story has been adapted by Johanna Carrick into a fun performance that you cannot miss! '
+        text: 'Visit the Avenue Theatre for a fantastic Christmas show for the whole family! The Wind in the Willows is an original tale by Kenneth Grahame becoming a classic of children''s English Literature. The tale relates the adventures of several animal friends and neighbours in the English countryside, primarily Mole, Rat, Toad, and Badger, whilst also exploring themes of friendship, honesty, and the importance of home and neighbours. This story has been adapted by Johanna Carrick into a fun performance that you cannot miss! '
   -
     type: paragraph
     content:
@@ -187,6 +187,6 @@ cta: |-
 
   [01473603388](tel:01473603388)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669976429
+updated_at: 1669981212
 ---
 Join Ratty, Moley, Toad and Badger for the brand new Christmas show, THE WIND IN THE WILLOWS, adapted by Joanna Carrick!
