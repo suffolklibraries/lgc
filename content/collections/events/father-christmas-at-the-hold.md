@@ -1,6 +1,5 @@
 ---
 id: 54093d93-3557-4dca-a8da-60e6ff756dea
-published: false
 blueprint: events
 title: 'Father Christmas at The Hold'
 event_categories:
@@ -36,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: "You will visit Santa individually as per your booked group. If there are groups ahead of you there may be a short wait once you arrive, colouring and other activities will be available. Your visit with Father Christmas will last around 10 minutes, after your visit you are free to explore the rest of The Hold.\_There is a variety of time slots to book from 10:00 to 16:00. Suitable for ages 4-11 with a parent present at all times. Every child will receive a gift suitable for all. "
+        text: "Come visit Father Christmas! Each booked group will visit Santa individually. If there are groups ahead of you there may be a short wait once you arrive, colouring and other activities will be available. Your visit with Father Christmas will last around 10 minutes, after your visit you are free to explore the rest of The Hold.\_There is a variety of time slots to book from 10:00 to 16:00. Suitable for ages 4-11 with a parent present at all times. Every child will receive a gift suitable for all. "
   -
     type: heading
     attrs:
@@ -92,7 +91,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/father-christmas-at-the-hold/e-geamyz'
 cta: '[https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/father-christmas-at-the-hold/e-geamyz](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/father-christmas-at-the-hold/e-geamyz)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669981058
+updated_by: 2bb387ea-d1df-4185-8cc8-51df5011c3f2
+updated_at: 1669982687
 ---
 Father Christmas and his elves will be stopping by The Hold this December so kick off your festive celebrations with a visit to Santa in his pop-up grotto!
