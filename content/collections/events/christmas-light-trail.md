@@ -1,6 +1,5 @@
 ---
 id: a4f32a7b-c7b0-4e88-8ae6-be45084b6aaf
-published: false
 blueprint: events
 title: 'Christmas Light Trail'
 event_categories:
@@ -141,7 +140,7 @@ cta: |-
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638667314](tel:01638667314)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669984975
+updated_by: 2bb387ea-d1df-4185-8cc8-51df5011c3f2
+updated_at: 1669989761
 ---
 The National Horseracing Museum is pleased to announce their first Christmas Light Trail! Taking place mid-December over two days, this event is the perfect way to get into the Christmas spirit!
