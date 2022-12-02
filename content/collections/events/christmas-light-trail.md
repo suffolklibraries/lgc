@@ -142,6 +142,6 @@ cta: |-
 
   [01638667314](tel:01638667314)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669984913
+updated_at: 1669984975
 ---
 The National Horseracing Museum is pleased to announce their first Christmas Light Trail! Taking place mid-December over two days, this event is the perfect way to get into the Christmas spirit!
