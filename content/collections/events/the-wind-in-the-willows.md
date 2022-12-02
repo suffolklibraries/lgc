@@ -2,7 +2,7 @@
 id: 23933bd0-34d6-4d4c-99d3-047c7df07a5c
 published: false
 blueprint: events
-title: 'The Wind in the Willows'
+title: 'The Wind in the Willows Show'
 event_categories:
   - community
   - family-friendly
@@ -187,6 +187,6 @@ cta: |-
 
   [01473603388](tel:01473603388)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669981212
+updated_at: 1669981233
 ---
 Join Ratty, Moley, Toad and Badger for the brand new Christmas show, THE WIND IN THE WILLOWS, adapted by Joanna Carrick!
