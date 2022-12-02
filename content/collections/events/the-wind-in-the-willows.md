@@ -150,7 +150,7 @@ content_area:
         text: ' '
       -
         type: text
-        text: 'to find out how you can get your '
+        text: 'to get your '
       -
         type: text
         marks:
@@ -187,6 +187,6 @@ cta: |-
 
   [01473603388](tel:01473603388)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669981233
+updated_at: 1669981369
 ---
 Join Ratty, Moley, Toad and Badger for the brand new Christmas show, THE WIND IN THE WILLOWS, adapted by Joanna Carrick!
