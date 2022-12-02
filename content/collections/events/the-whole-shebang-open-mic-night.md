@@ -1,6 +1,5 @@
 ---
 id: 8cfc6d12-9988-4d2b-8f78-c8dbd5c0928e
-published: false
 blueprint: events
 title: 'The Whole Shebang Open Mic Night'
 event_categories:
@@ -109,7 +108,7 @@ cta: |-
   [https://www.johnpeelcentre.com/](https://www.johnpeelcentre.com/)
 
   [01449774678](tel:01449774678)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669909513
+updated_by: 2bb387ea-d1df-4185-8cc8-51df5011c3f2
+updated_at: 1669989376
 ---
-The Whole Shebang Open Mic Night returns with another evening of Whimsical, Homegrown, Organic Live Entertainment.
+The Whole Shebang Open Mic Night returns with another evening of whimsical, homegrown, organic live entertainment.
