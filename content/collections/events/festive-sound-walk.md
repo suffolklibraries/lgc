@@ -93,7 +93,12 @@ content_area:
         type: text
         text: .
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669991566
-cta: '[https://brittenpearsarts.org/](https://brittenpearsarts.org/)'
+updated_at: 1669997660
+cta: |-
+  [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
+
+  [boxoffice@brittenpearsarts.org](mailto:boxoffice@brittenpearsarts.org)
+
+  [01728687110](tel:01728687110)
 ---
 Join the Festive Sound Walk and solve Christmas riddles around Snape Maltings!
