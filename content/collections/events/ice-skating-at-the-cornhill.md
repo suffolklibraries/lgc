@@ -1,6 +1,5 @@
 ---
 id: 025d0026-bc52-49ca-8d2f-f77ed402f0c1
-published: false
 blueprint: events
 title: 'Ice Skating at The Cornhill'
 event_categories:
@@ -61,6 +60,12 @@ content_area:
         type: text
         text: "\_evenings."
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Under 12s must be accompanied by an adult.'
+  -
     type: heading
     attrs:
       level: 3
@@ -73,7 +78,21 @@ content_area:
     content:
       -
         type: text
-        text: 'A booking system will be in place to help manage numbers. Booking is opening soon!'
+        text: 'Booking is required. Please book your slot '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswichtheatres.co.uk/whats-on/ice-rink-on-the-cornhill/'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: '. '
   -
     type: heading
     attrs:
@@ -160,6 +179,7 @@ content_area:
         text: '. '
 cta: '[https://allaboutipswich.com/whats-on/events/icerink](https://allaboutipswich.com/whats-on/events/icerink)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1670325667
+updated_at: 1670326015
+booking_link: 'https://ipswichtheatres.co.uk/whats-on/ice-rink-on-the-cornhill/'
 ---
 Visit Ipswich for a FREE session of ice skating surrounded by the beautiful Christmas decorations!
