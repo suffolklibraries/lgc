@@ -140,7 +140,7 @@ cta: |-
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638667314](tel:01638667314)
-updated_by: 2bb387ea-d1df-4185-8cc8-51df5011c3f2
-updated_at: 1669989761
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1670317482
 ---
 The National Horseracing Museum is pleased to announce their first Christmas Light Trail! Taking place mid-December over two days, this event is the perfect way to get into the Christmas spirit!
