@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: 'Rock,-paper,-scissors-December-family-sessions].PNG'
-start_date: '2022-12-28 10:00'
+start_date: '2022-12-21 10:00'
 end_date: '2022-12-29 15:00'
 free: true
 virtual: false
@@ -58,7 +58,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Please note that the session on 21, 22, and 29 December have SOLD OUT.'
+        text: 'Please note that the sessions on the 21, 22, and 29 December have SOLD OUT.'
   -
     type: paragraph
     content:
@@ -131,6 +131,6 @@ cta: |-
 
   [07795833460](tel:07795833460)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1670402083
+updated_at: 1670402214
 ---
 Join the Dove Street Studio for festive creative art days this Christmas Holiday!
