@@ -58,7 +58,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Please note that the session on 21 and 22 December have SOLD OUT.'
+        text: 'Please note that the session on 21, 22, and 29 December have SOLD OUT.'
   -
     type: paragraph
     content:
@@ -131,6 +131,6 @@ cta: |-
 
   [07795833460](tel:07795833460)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669993396
+updated_at: 1670402083
 ---
 Join the Dove Street Studio for festive creative art days this Christmas Holiday!
