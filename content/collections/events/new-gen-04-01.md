@@ -49,7 +49,7 @@ content_area:
     content:
       -
         type: text
-        text: 'New Gen takes place every Thursday in term-time and pizza is provided every week!'
+        text: 'New Gen takes place every Wednesday in term-time and pizza is provided every week!'
   -
     type: paragraph
     content:
@@ -97,6 +97,6 @@ cta: |-
 
   or email [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1670846036
+updated_at: 1670919381
 ---
 An opportunity for young people to explore and develop new skills in music.
