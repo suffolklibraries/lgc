@@ -44,7 +44,21 @@ content_area:
     content:
       -
         type: text
-        text: 'NHRM is part of the Suffolk Holiday Activity Programme and if families are eligible for Free School Meals from our local area, picnic bag lunches from The Bakery in King’s Yard for children and young people aged 5 – 16 are available to book in advance by sending an email to Sarah at info@nhrm.co.uk or on the day with the HAF Code.'
+        text: 'NHRM is part of the Suffolk Holiday Activity Programme allowing young people aged 5 - 16 who are eligible for Free School Meals to get a picnic bag lunch from The Bakery in King''s Yard, during this event. If you are eligible please email Sarah at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:info@nhrm.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: info@nhrm.co.uk
+      -
+        type: text
+        text: ' with the HAF Code. '
   -
     type: heading
     attrs:
@@ -58,7 +72,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking is required. '
+        text: 'This event is free and no booking is required but if you are eligible for a free lunch, get in contact with Sarah at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:info@nhrm.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: info@nhrm.co.uk
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -84,8 +112,11 @@ content_area:
               target: _blank
               title: null
         text: 'Getting Here | NHRM : NHR'
-cta: '[https://www.nhrm.co.uk/](https://www.nhrm.co.uk/)'
+cta: |-
+  [https://www.nhrm.co.uk/](https://www.nhrm.co.uk/)
+
+  [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1670500045
+updated_at: 1670925531
 ---
 Get festive and creative with our artist-led workshop suitable for everyone!
