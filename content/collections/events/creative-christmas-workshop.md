@@ -1,6 +1,5 @@
 ---
 id: ee9fd3c7-9caa-4f7a-8604-34e54b8163c5
-published: false
 blueprint: events
 title: 'Creative Christmas Workshop'
 event_categories:
@@ -38,13 +37,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Take part in our FREE family drop-in creative workshop with artist Ali Atkins inspired by our collection at Christmas time and make festive decorations together using a variety of sculpture materials to take home. Suitable for all ages. '
+        text: 'Take part in the National Horse Racing Museum''s FREE family drop-in creative workshop with artist Ali Atkins inspired by our collection at Christmas time and make festive decorations together using a variety of sculpture materials to take home. Suitable for all ages. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'NHRM is part of the Suffolk Holiday Activity Programme allowing young people aged 5 - 16 who are eligible for Free School Meals to get a picnic bag lunch from The Bakery in King''s Yard, during this event. If you are eligible please email Sarah at '
+        text: 'NHRM is part of the Suffolk Holiday Activity Programme allowing young people aged 5 - 16 who are eligible for Free School Meals to get a picnic bag lunch from The Bakery in King''s Yard during this event. If you are eligible, please email Sarah at '
       -
         type: text
         marks:
@@ -72,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is free and no booking is required but if you are eligible for a free lunch, get in contact with Sarah at '
+        text: 'This event is free and no booking is required but if you are eligible for a free lunch, please contact Sarah at '
       -
         type: text
         marks:
@@ -100,7 +99,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For more information on how to get to the National Horse Racing Museum, where to park or how to access  the museum by public transport please visit: '
+        text: 'For more information on how to get to the National Horse Racing Museum, where to park or how to access the museum by public transport please visit: '
       -
         type: text
         marks:
@@ -116,7 +115,7 @@ cta: |-
   [https://www.nhrm.co.uk/](https://www.nhrm.co.uk/)
 
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1670925531
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1670947812
 ---
-Get festive and creative with our artist-led workshop suitable for everyone!
+Get festive and creative with the National Horse Racing Museum's  artist-led workshop suitable for everyone!
