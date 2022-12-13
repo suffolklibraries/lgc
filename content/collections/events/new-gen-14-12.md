@@ -36,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'New Gen is a project of Out Loud Music in collaboration with Ipswich Community Media, offering the opportunity to explore and develop skills in music production, performance, song writing and more by bringing together like-minded young people to develop their talents outside their comfort zone. '
+        text: 'New Gen is a project of Out Loud Music in collaboration with Ipswich Community Media, offering the opportunity to explore and develop skills in music production, performance, songwriting and more by bringing together like-minded young people to develop their talents outside their comfort zone. '
   -
     type: paragraph
     content:
@@ -48,7 +48,7 @@ content_area:
     content:
       -
         type: text
-        text: 'New Gen takes place every Thursday in term-time and pizza is provided every week!'
+        text: 'New Gen takes place every Wednesday in term-time and pizza is provided every week!'
   -
     type: paragraph
     content:
@@ -94,6 +94,6 @@ cta: |-
 
   or email [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669799806
+updated_at: 1670919356
 ---
 An opportunity for young people to explore and develop new skills in music.
