@@ -5,7 +5,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1671438831
+updated_at: 1671438964
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2023-01-25 10:00'
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Movers is a gentle movement class for over 55s. Held every Wednesday at 10-11.30am at All Saints Church Hall. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
+        text: 'Sudbury Movers is a gentle movement class for over 55s. Held every Wednesday at 10-11.00 am at All Saints Church Hall. The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
