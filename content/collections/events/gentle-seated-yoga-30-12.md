@@ -11,11 +11,11 @@ event_categories:
 organisers:
   - cohere-arts
 featured_image: Seated-yoga---Gentle.PNG
-start_date: '2022-12-16 10:30'
+start_date: '2022-12-30 10:30'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1670847576
+updated_at: 1671440724
 attendance_information: |-
   - All welcome
   - Older people
@@ -102,6 +102,6 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2022-12-16 11:30'
+end_date: '2022-12-30 11:30'
 ---
 Join Imogen Hayward and get involved in some seated yoga to get active, creative and connected!
