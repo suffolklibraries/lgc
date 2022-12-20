@@ -97,6 +97,6 @@ content_area:
         text: 'The church is on the main Ipswich road, only a 3-minute walk to The Food Museum. '
 cta: '[07810456512](tel:07810456512)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1671547802
+updated_at: 1671549907
 ---
 Stowmarket United Reform Church is hosting Christmas day lunch to combat loneliness!
