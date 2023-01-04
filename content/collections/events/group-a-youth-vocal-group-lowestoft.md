@@ -215,35 +215,35 @@ content_area:
     content:
       -
         type: text
-        text: 'All Hallows Church is situated South of Ipswich, close to the Landseer Park. The nearest '
+        text: 'The Seagull Theatre is only a 6-minute walk from the Pakefield Beach. The closest car park is the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/All+Hallows/@52.036179,1.1793688,19z/data=!3m1!4b1!4m23!1m17!4m16!1m6!1m2!1s0x47d9a02c9c0f031b:0xd7722792c8ce2872!2sButtermarket+Centre,+Ipswich!2m2!1d1.1536102!2d52.0570759!1m6!1m2!1s0x47d99fecaeefc1df:0xf76d090de806eabb!2sAll+Hallows+Church,+320+Landseer+Rd,+Ipswich+IP3+0EN!2m2!1d1.1787453!2d52.0363505!3e3!5i1!3m4!1s0x47d99feb500a8bcf:0x8f707b1c4c06ed13!8m2!3d52.036179!4d1.179916'
+              href: 'https://www.google.com/maps/place/Pakefield+St+Car+Park/@52.4560141,1.7354724,17.48z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47da1a4994894eb3:0x507aba8852d97178!2sThe+Seagull+Theatre,+Morton+Road,+Pakefield,+Lowestoft!2m2!1d1.7356036!2d52.4566928!1m6!1m2!1s0x47da1ba41ffd73eb:0x8049b55fc9adcc3e!2sPakefield+Beach,+Lowestoft+NR33+0JS!2m2!1d1.7388899!2d52.4548775!3e3!3m4!1s0x47da1b5e1c31d843:0x69c464699df856ce!8m2!3d52.4557954!4d1.7376769'
               rel: null
               target: null
               title: null
-        text: 'bus stop'
+        text: 'Parkfield St car park '
       -
         type: text
-        text: ' is only 1-minute away and there is also a small car park on the grounds of the church. Alternatively, you can park at the '
+        text: ' and the closest '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Orwell+Country+Park/@52.0333149,1.174428,20z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d99fecaeefc1df:0xf76d090de806eabb!2sAll+Hallows+Church,+Landseer+Road,+Ipswich!2m2!1d1.1787453!2d52.0363505!1m6!1m2!1s0x47d99fed96a18193:0x609f44a7e167513!2sOrwell+Country+Park,+Gainsborough+Ln,+Ipswich+IP3+0ER!2m2!1d1.1742251!2d52.0332711!3e3!3m4!1s0x47d99fed96a18193:0x609f44a7e167513!8m2!3d52.0332711!4d1.1742251'
+              href: 'https://www.google.com/maps/place/The+Avenue/@52.4565925,1.7337201,19.6z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47da1a4994894eb3:0x507aba8852d97178!2sThe+Seagull+Theatre,+Morton+Road,+Pakefield,+Lowestoft!2m2!1d1.7356036!2d52.4566928!1m6!1m2!1s0x47da1a4a2262851f:0x2500518a894b4ed7!2sThe+Avenue,+Lowestoft+NR33+0LF!2m2!1d1.733767!2d52.456573!3e3!3m4!1s0x47da1a4a2262851f:0x2500518a894b4ed7!8m2!3d52.456573!4d1.733767'
               rel: null
               target: null
               title: null
-        text: 'Orwell Country Park'
+        text: 'bus stop '
       -
         type: text
-        text: ', which is only a 6-minute walk from the church. '
+        text: 'is situated only 2-minute walk away from the theatre.'
 booking_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=ZwbVcF29fUWihMBpJmH1vDiyLdXvLXlIt9ctjhxLUWFUQVlBUU5JNTk0Rlo2NkdMU1QyMlMyUjZOMSQlQCN0PWcu'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
@@ -252,7 +252,10 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1672847202
+updated_at: 1672848200
 end_date: '2023-03-11 17:45'
+accessibility_information: |-
+  - Toilet and changing facilities
+  - Wheelchair accessibility
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Lowestoft!
