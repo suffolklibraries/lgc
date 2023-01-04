@@ -2,7 +2,7 @@
 id: dbba37ce-7c21-4af6-97f9-9a8a5abab074
 published: false
 blueprint: events
-title: 'Group A - Youth Vocal Group (Duplicated)'
+title: 'Group A - Youth Vocal Group'
 event_categories:
   - languages
   - music
@@ -17,12 +17,12 @@ start_date: '2023-01-12 16:15'
 free: true
 virtual: false
 attendance_information: 'Children aged 8 - 14'
-latitude: '52.036515478565654'
-longitude: '1.1787452980627975'
-address_line_1: 'All Hallows Church'
-address_line_2: '320 Landseer Rd'
-town: Ipswich
-postcode: 'IP3 0EN'
+latitude: '52.45683627385599'
+longitude: '1.7355633097207566'
+address_line_1: 'The Seagull'
+address_line_2: '19-75 Morton Rd, Pakefield'
+town: Lowestoft
+postcode: 'NR33 0JH'
 content_area:
   -
     type: heading
@@ -64,7 +64,7 @@ content_area:
         marks:
           -
             type: bold
-        text: Ipswich
+        text: Lowestoft
       -
         type: text
         text: ':'
@@ -73,12 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: '16.15 – 17.30pm – All Group A members (aged 8-18)'
-      -
-        type: hard_break
-      -
-        type: text
-        text: '17.30 – 18.15pm – Senior Group A members only (age 14+)'
+        text: '16.15-17.45 - All Group A members (aged 8-18)'
   -
     type: bullet_list
     content:
@@ -90,7 +85,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 19 January'
+                text: 'Thursday 12 January'
       -
         type: list_item
         content:
@@ -99,7 +94,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 2 February'
+                text: 'Thursday 26 January'
       -
         type: list_item
         content:
@@ -108,7 +103,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 23 February'
+                text: 'Thursday 9 February'
       -
         type: list_item
         content:
@@ -117,7 +112,16 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 9 March'
+                text: 'Thursday 16 February (half-term session - venue to be confirmed)'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Thursday 2 March'
       -
         type: list_item
         content:
@@ -248,7 +252,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1672846960
+updated_at: 1672847202
 end_date: '2023-03-11 17:45'
 ---
-Join Group A, a vocal performance initiative for young people (aged 8 -18) in Suffolk!
+Join Group A, a vocal performance initiative for young people (aged 8 -18) in Lowestoft!
