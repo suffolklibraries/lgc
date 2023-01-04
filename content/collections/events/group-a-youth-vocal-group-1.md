@@ -13,7 +13,7 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: Capture-1672842722.PNG
-start_date: '2023-01-19 16:15'
+start_date: '2023-01-12 16:15'
 free: true
 virtual: false
 attendance_information: 'Children aged 8 - 14'
@@ -248,6 +248,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1672846894
+updated_at: 1672846960
+end_date: '2023-03-11 17:45'
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Suffolk!
