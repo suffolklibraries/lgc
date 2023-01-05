@@ -1,7 +1,8 @@
 ---
 id: f2748405-ea4b-42e6-814c-56d3e9dd309b
+published: false
 blueprint: events
-title: 'Group A - Youth Vocal Group (Duplicated)'
+title: 'Group A - Youth Vocal Group'
 event_categories:
   - languages
   - music
@@ -12,16 +13,16 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: Capture-1672842722.PNG
-start_date: '2023-01-19 16:15'
+start_date: '2023-01-10 15:10'
 free: true
 virtual: false
 attendance_information: 'Children aged 8 - 14'
-latitude: '52.036515478565654'
-longitude: '1.1787452980627975'
-address_line_1: 'All Hallows Church'
-address_line_2: '320 Landseer Rd'
-town: Ipswich
-postcode: 'IP3 0EN'
+latitude: '52.20355253667589'
+longitude: '1.5855197982054938'
+address_line_1: 'Alde Valley Academy'
+address_line_2: 'Seaward Ave'
+town: Leiston
+postcode: 'IP16 4BG'
 content_area:
   -
     type: heading
@@ -63,7 +64,7 @@ content_area:
         marks:
           -
             type: bold
-        text: Ipswich
+        text: Leiston
       -
         type: text
         text: ':'
@@ -72,12 +73,12 @@ content_area:
     content:
       -
         type: text
-        text: '16.15 – 17.30pm – All Group A members (aged 8-18)'
+        text: '3.10 - 4.10pm - Alde Valley Academy pupils (aged 11+)'
       -
         type: hard_break
       -
         type: text
-        text: '17.30 – 18.15pm – Senior Group A members only (age 14+)'
+        text: '4.30 - 5.30pm - Group A Junior members (8-11)'
   -
     type: bullet_list
     content:
@@ -89,7 +90,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 19 January'
+                text: 'Tuesday 10 January'
       -
         type: list_item
         content:
@@ -98,7 +99,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 2 February'
+                text: 'Tuesday 24 January'
       -
         type: list_item
         content:
@@ -107,7 +108,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 23 February'
+                text: 'Tuesday 7 February'
       -
         type: list_item
         content:
@@ -116,7 +117,16 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 9 March'
+                text: 'Tuesday 21 February'
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Tuesday 7 March'
       -
         type: list_item
         content:
@@ -210,35 +220,21 @@ content_area:
     content:
       -
         type: text
-        text: 'All Hallows Church is situated South of Ipswich, close to the Landseer Park. The nearest '
+        text: 'Alde Valley Academy is located in Leiston only a 8-minute walk from the nearest '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/All+Hallows/@52.036179,1.1793688,19z/data=!3m1!4b1!4m23!1m17!4m16!1m6!1m2!1s0x47d9a02c9c0f031b:0xd7722792c8ce2872!2sButtermarket+Centre,+Ipswich!2m2!1d1.1536102!2d52.0570759!1m6!1m2!1s0x47d99fecaeefc1df:0xf76d090de806eabb!2sAll+Hallows+Church,+320+Landseer+Rd,+Ipswich+IP3+0EN!2m2!1d1.1787453!2d52.0363505!3e3!5i1!3m4!1s0x47d99feb500a8bcf:0x8f707b1c4c06ed13!8m2!3d52.036179!4d1.179916'
+              href: 'https://www.google.com/maps/place/Minden+Drive/@52.202442,1.5790054,18.71z/data=!4m5!3m4!1s0x47da2792d7d6a617:0x3b284498691d527b!8m2!3d52.202457!4d1.578723'
               rel: null
               target: null
               title: null
         text: 'bus stop'
       -
         type: text
-        text: ' is only 1-minute away and there is also a small car park on the grounds of the church. Alternatively, you can park at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/place/Orwell+Country+Park/@52.0333149,1.174428,20z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d99fecaeefc1df:0xf76d090de806eabb!2sAll+Hallows+Church,+Landseer+Road,+Ipswich!2m2!1d1.1787453!2d52.0363505!1m6!1m2!1s0x47d99fed96a18193:0x609f44a7e167513!2sOrwell+Country+Park,+Gainsborough+Ln,+Ipswich+IP3+0ER!2m2!1d1.1742251!2d52.0332711!3e3!3m4!1s0x47d99fed96a18193:0x609f44a7e167513!8m2!3d52.0332711!4d1.1742251'
-              rel: null
-              target: null
-              title: null
-        text: 'Orwell Country Park'
-      -
-        type: text
-        text: ', which is only a 6-minute walk from the church. '
+        text: ' and there is a is also a carpark on the school grounds. Disabled parking also available. '
 booking_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=ZwbVcF29fUWihMBpJmH1vDiyLdXvLXlIt9ctjhxLUWFUQVlBUU5JNTk0Rlo2NkdMU1QyMlMyUjZOMSQlQCN0PWcu'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
@@ -247,7 +243,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1672847785
-end_date: '2023-03-11 18:15'
+updated_at: 1672912650
+end_date: '2023-03-11 17:30'
 ---
-Join Group A, a vocal performance initiative for young people (aged 8 -18) in Ipswich!
+Join Group A, a vocal performance initiative for young people (aged 8 -18) in Leiston!
