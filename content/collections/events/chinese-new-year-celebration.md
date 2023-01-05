@@ -90,7 +90,16 @@ content_area:
         text: online
       -
         type: text
-        text: '. Tickets include refreshments. '
+        text: '. '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Tickets include refreshments'
+      -
+        type: text
+        text: '. '
   -
     type: heading
     attrs:
@@ -212,6 +221,6 @@ cta: |-
 
   [077867614349](tel:077867614349)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1672926843
+updated_at: 1672931978
 ---
 Suffolk Libraries has partnered with ACCE (Anglo Chinese Cultural Exchange) to present this exciting Chinese New Year celebration event at Ipswich Library!
