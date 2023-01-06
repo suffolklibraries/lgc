@@ -2,7 +2,7 @@
 id: 7924c1dd-f7df-4d85-bab8-9fa5585f73c1
 published: false
 blueprint: events
-title: 'Group A - Youth Vocal Group'
+title: 'Group A - Youth Vocal Group in Ipswich'
 event_categories:
   - languages
   - music
@@ -248,7 +248,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1672847785
+updated_at: 1673007243
 end_date: '2023-03-11 18:15'
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Ipswich!
