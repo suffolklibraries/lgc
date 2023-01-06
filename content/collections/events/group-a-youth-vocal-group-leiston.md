@@ -249,7 +249,7 @@ content_area:
       -
         type: text
         text: ' which is close by to the academy.'
-booking_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=ZwbVcF29fUWihMBpJmH1vDiyLdXvLXlIt9ctjhxLUWFUQVlBUU5JNTk0Rlo2NkdMU1QyMlMyUjZOMSQlQCN0PWcu'
+booking_link: 'https://brittenpearsarts.org/take-part/families-young-people/group-a'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
 
@@ -257,7 +257,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673007893
+updated_at: 1673011640
 end_date: '2023-03-11 17:30'
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Leiston!
