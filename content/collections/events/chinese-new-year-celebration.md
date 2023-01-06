@@ -1,6 +1,5 @@
 ---
 id: 135c55e8-fe35-4648-a2c3-5460f53d6232
-published: false
 blueprint: events
 title: 'Chinese New Year Celebration'
 event_categories:
@@ -237,8 +236,8 @@ cta: |-
   [accesuffolk@gmail.com](mailto:accesuffolk@gmail.com)
 
   [077867614349](tel:077867614349)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673014524
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1673022755
 accessibility_information: |-
   - Ramped/ Sloped access
   - Accessible toilet
