@@ -49,7 +49,16 @@ content_area:
         marks:
           -
             type: bold
-        text: ' Ipswich, Lowestoft and Leiston '
+        text: ' Ipswich, Lowestoft '
+      -
+        type: text
+        text: 'and '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Leiston '
       -
         type: text
         text: '. There will be 4 - 5 sessions for each location, followed up with a Celebration performance at Snape Maltings Concert Hall on Saturday 11 March.'
@@ -247,13 +256,8 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 
   [01728687152](tel:01728687152)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673008627
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1673008968
 end_date: '2023-03-11 18:15'
-accessibility_information: |-
-  - Ramped/ Sloped access
-  - Accessible toilet
-  - Baby changing facility
-  - Assistive Listening
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Ipswich!
