@@ -39,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The ACCE Chinese New Year Show is back for the year of Rabbit in 2023! Our line up this year is as diverse and distinctive as ever, featuring a plethora of oriental performances for you to enjoy, such as performances from Hong Kong Chinese Orchestra, Lion Dance, Wing Chun Kung Fu, Tai Chi sword, Chinese Drumming and Chinese National Dance, singing and much more with our local talent.'
+        text: 'The ACCE Chinese New Year Show is back for the year of Rabbit in 2023! Our line-up this year is as diverse and distinctive as ever, featuring a plethora of oriental performances for you to enjoy, such as performances from Hong Kong Chinese Orchestra, Lion Dance, Wing Chun Kung Fu, Tai Chi sword, Chinese Drumming and Chinese National Dance, singing and much more with our local talent.'
   -
     type: paragraph
     content:
@@ -238,7 +238,7 @@ cta: |-
 
   [077867614349](tel:077867614349)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673008466
+updated_at: 1673014524
 accessibility_information: |-
   - Ramped/ Sloped access
   - Accessible toilet
