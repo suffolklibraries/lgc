@@ -226,12 +226,12 @@ cta: |-
   [hello@insideoutcommunity.com](mailto:hello@insideoutcommunity.com)
 
   [01473563900](tel:01473563900)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1669285625
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1672996753
 featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
 accessibility_information: |-
   - Ramped/Sloped access
   - Baby changing facility
   - Accessbible toilet
 ---
-An engaging session of arts and movement based workshops!
+An engaging session of arts and movement based workshops for those aged 18-25!
