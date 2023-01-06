@@ -220,7 +220,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Alde Valley Academy is located in Leiston only a 8-minute walk from the nearest '
+        text: 'Alde Valley Academy is located in Leiston only an eight-minute walk from the nearest '
       -
         type: text
         marks:
@@ -234,7 +234,21 @@ content_area:
         text: 'bus stop'
       -
         type: text
-        text: ' and there is a is also a carpark on the school grounds. Disabled parking also available. '
+        text: ' and there is a is also a carpark on the school grounds. Disabled parking is also available. Alternatively, you can park at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/High+Street+Car+Park/@52.2049693,1.5785352,19.15z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47da279253c8a65b:0xf8b42b783536f8b!2sHigh+Street+Car+Park,+123+High+St,+Leiston+IP16+4BX!2m2!1d1.5785802!2d52.2050523!1m6!1m2!1s0x47da27951bd8a27b:0xd7ed049d966ee27f!2sAlde+Valley+Academy,+Seaward+Ave,+Leiston+IP16+4BG!2m2!1d1.5855198!2d52.2033816!3e2!3m4!1s0x47da279253c8a65b:0xf8b42b783536f8b!8m2!3d52.2050523!4d1.5785802'
+              rel: null
+              target: null
+              title: null
+        text: 'High Street car park'
+      -
+        type: text
+        text: ' which is close by to the academy.'
 booking_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=ZwbVcF29fUWihMBpJmH1vDiyLdXvLXlIt9ctjhxLUWFUQVlBUU5JNTk0Rlo2NkdMU1QyMlMyUjZOMSQlQCN0PWcu'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
@@ -243,7 +257,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673007343
+updated_at: 1673007893
 end_date: '2023-03-11 17:30'
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Leiston!
