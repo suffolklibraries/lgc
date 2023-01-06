@@ -16,8 +16,8 @@ end_date: '2023-01-19 12:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1673019916
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1673022415
 featured_image: MicrosoftTeams-image-(3).png
 accessibility_information: |-
   - Ramped/ Sloped access
@@ -98,120 +98,49 @@ content_area:
     content:
       -
         type: text
-        text: 'Ipswich Library is situated in the centre of Ipswich.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Ipswich is served by two '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'bus services'
-      -
-        type: text
-        text: ' both of which have stops only a couple of minutes-walk from the venue:'
-  -
-    type: paragraph
-    content:
+        text: 'Located in the city centre of Bury St. Edmunds, the library has easy access to many transport links. The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.firstbus.co.uk'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'First buses'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: "\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ipswichbuses.co.uk'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'Ipswich Buses'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Ipswich also has a '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: train
-      -
-        type: text
-        text: ' station, for full times tables, visit '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiO8N3i9b75AhVK7O0KHZiPB4cYABAAGgJkZw&ae=2&ohost=www.google.com&cid=CAESauD2nHrJiEa5SYCy9SQd0UI8YZ8VDyCC12MTDhByjOzoibMzdZLQqLjMUvsZ9M4bTPZm3JugmeLpa7C2z_16ntILhU1DhC50NZqg0JxJOdud38nXbTi3a2qB6TorWxbuXJZo0dRFdMtIuRk&sig=AOD64_0ZNncVFsLKSZX4cGdzF-seYXAsKg&q&adurl&ved=2ahUKEwiN_9Xi9b75AhUKgFwKHb8wBNwQ0Qx6BAgDEAE&nis=8&dct=1'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'Greater Anglia'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are a number of pay and display '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'car parks'
-      -
-        type: text
-        text: " near the venue, the closest is\_at "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/place/NCP/@52.0593149,1.1501844,17z/data=!3m1!4b1!4m5!3m4!1s0x47d9a1c9a95912e5:0x2ed13c9dfb6c3e83!8m2!3d52.0593149!4d1.1523731'
+              href: 'https://www.google.co.uk/maps/place/Bury+St+Edmunds/@52.2530528,0.7120045,17.56z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d84c68312f8e31:0x2689f9fc66112960!2sBury+St+Edmunds,+Bury+Saint+Edmunds!2m2!1d0.7124833!2d52.2535507!1m6!1m2!1s0x47d84c438eb4972d:0x7f9734215b8d6125!2sBury+St+Edmunds+Library,+2B+St+Andrew''s+St+N,+Bury+Saint+Edmunds+IP33+1TZ!2m2!1d0.7114645!2d52.2480445!3e3!3m4!1s0x47d84c68312f8e31:0x2689f9fc66112960!8m2!3d52.2535507!4d0.7124833'
               rel: null
               target: null
               title: null
-        text: 'Tower Ramparts'
+        text: 'train station'
       -
         type: text
-        text: ', use IP1 3DH for Sat Navs.'
+        text: ' is only a ten-minute walk away from the library, find timetable information '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: '. The bus station is opposite the library and the closest car park is the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Cornhill+Car+Park/@52.2461317,0.7117458,18.56z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d84c445fd5da97:0x98af94846df0696c!2sCornhill+Car+Park,+Buttermarket,+Cornhill,+Bury+Saint+Edmunds+IP33+1DY!2m2!1d0.7124119!2d52.2461779!1m6!1m2!1s0x47d84c438eb4972d:0x7f9734215b8d6125!2sBury+St+Edmunds+Library,+2B+St+Andrew''s+St+N,+Bury+Saint+Edmunds+IP33+1TZ!2m2!1d0.7114645!2d52.2480445!3e3!3m4!1s0x47d84c445fd5da97:0x98af94846df0696c!8m2!3d52.2461779!4d0.7124119'
+              rel: null
+              target: null
+              title: null
+        text: 'Cornhill car park'
+      -
+        type: text
+        text: .
 cta: |-
   [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/)
 
