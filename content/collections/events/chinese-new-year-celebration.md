@@ -6,6 +6,9 @@ title: 'Chinese New Year Celebration'
 event_categories:
   - community
   - family-friendly
+  - languages
+  - dance
+  - performance
 organisers:
   - anglo-chinese-cultural-exchange
   - suffolk-libraries
@@ -212,7 +215,21 @@ content_area:
         text: 'car parks'
       -
         type: text
-        text: " near the venue, the closest is\_at Tower Ramparts, use IP1 3DH for Sat Navs."
+        text: " near the venue, the closest is\_at "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/NCP/@52.0593149,1.1501844,17z/data=!3m1!4b1!4m5!3m4!1s0x47d9a1c9a95912e5:0x2ed13c9dfb6c3e83!8m2!3d52.0593149!4d1.1523731'
+              rel: null
+              target: null
+              title: null
+        text: 'Tower Ramparts'
+      -
+        type: text
+        text: ', use IP1 3DH for Sat Navs.'
 booking_link: 'https://www.eventbrite.co.uk/e/chinese-new-year-celebration-tickets-474020276407'
 cta: |-
   [http://www.accesuffolk.org.uk/](http://www.accesuffolk.org.uk/)
@@ -221,6 +238,11 @@ cta: |-
 
   [077867614349](tel:077867614349)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1672931978
+updated_at: 1673008466
+accessibility_information: |-
+  - Ramped/ Sloped access
+  - Accessible toilet
+  - Baby changing facility
+  - Assistive Listening
 ---
 Suffolk Libraries has partnered with ACCE (Anglo Chinese Cultural Exchange) to present this exciting Chinese New Year celebration event at Ipswich Library!
