@@ -1,6 +1,5 @@
 ---
 id: 65d86ba3-d1f6-4dad-80c2-269ad9705d56
-published: false
 blueprint: events
 title: 'Computers For Beginners - Free evening course'
 event_categories:
