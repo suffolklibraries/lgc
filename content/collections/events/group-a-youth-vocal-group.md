@@ -249,15 +249,15 @@ content_area:
       -
         type: text
         text: ', which is only a six-minute walk from the church. '
-booking_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=ZwbVcF29fUWihMBpJmH1vDiyLdXvLXlIt9ctjhxLUWFUQVlBUU5JNTk0Rlo2NkdMU1QyMlMyUjZOMSQlQCN0PWcu'
+booking_link: 'https://brittenpearsarts.org/take-part/families-young-people/group-a'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 
   [01728687152](tel:01728687152)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1673008968
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1673009388
 end_date: '2023-03-11 18:15'
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Ipswich!
