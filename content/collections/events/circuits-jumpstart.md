@@ -15,8 +15,8 @@ end_date: '2023-01-19 12:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1673022701
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1673022851
 featured_image: MicrosoftTeams-image-(3).png
 accessibility_information: |-
   - Ramped/ Sloped access
@@ -97,7 +97,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Located in the town centre of Bury St. Edmunds, the library has easy access to many transport links. The '
+        text: 'Located in the city centre of Bury St. Edmunds, the library has easy access to many transport links. The '
       -
         type: text
         marks:
