@@ -2,7 +2,7 @@
 id: 4f3684fd-4107-44b0-8e32-f7230f190fc3
 published: false
 blueprint: events
-title: 'Circuits - Jumpstart'
+title: Circuits
 event_categories:
   - dance
   - teen-and-young-adult
@@ -16,8 +16,8 @@ end_date: '2023-01-19 12:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673018144
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1673019916
 featured_image: MicrosoftTeams-image-(3).png
 accessibility_information: |-
   - Ramped/ Sloped access
@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Circuit training is a fantastic workout that’s great for everyone, regardless of fitness level. It incorporates a variety of exercises, taking on each exercise at your own pace.'
+        text: 'Take part in a fun circuits session in your local library, all for free. Circuit training is a fantastic workout that’s great for everyone, regardless of fitness level. It incorporates a variety of exercises, taking on each exercise at your own pace.'
   -
     type: paragraph
     content:
@@ -84,7 +84,7 @@ content_area:
         text: '01284 338830'
       -
         type: text
-        text: ' or speak to a member of staff to book your place. '
+        text: ' or speak to a member of staff in Bury St Edmunds Library to book your place. '
   -
     type: heading
     attrs:
@@ -219,4 +219,4 @@ cta: |-
 
   [01473351249](tel:01473351249)
 ---
-Come along to Bury St Edmunds Library for a free Circuits session for all abilities with Nardyne! This event is part of Jumsptart, our health and wellbeing campaign.
+Come along to Bury St Edmunds Library for a free Circuits session for all abilities!
