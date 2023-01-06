@@ -17,19 +17,19 @@ free: true
 virtual: false
 attendance_information: 'All welcome'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673013552
+updated_at: 1673015750
 featured_image: MicrosoftTeams-image-(3).png
 accessibility_information: |-
   - Ramped/ Sloped access
   - Accessible toilet
   - Baby changing facility
   - Assistive Listening
-latitude: '52.058720928795196'
-longitude: '1.1564167673755956'
-address_line_1: 'Ipswich County Library'
-address_line_2: 'County Library, Northgate St'
-town: Ipswich
-postcode: 'IP1 3DE'
+latitude: '52.24827055592986'
+longitude: '0.711452419653161'
+address_line_1: 'Bury St Edmunds Library'
+address_line_2: '2B St Andrew''s St N'
+town: 'Bury Saint Edmunds'
+postcode: 'IP33 1TZ'
 content_area:
   -
     type: heading
