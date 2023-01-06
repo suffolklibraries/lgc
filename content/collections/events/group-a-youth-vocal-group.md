@@ -1,6 +1,5 @@
 ---
 id: 7924c1dd-f7df-4d85-bab8-9fa5585f73c1
-published: false
 blueprint: events
 title: 'Group A - Youth Vocal Group in Ipswich'
 event_categories:
