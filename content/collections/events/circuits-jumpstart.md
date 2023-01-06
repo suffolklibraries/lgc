@@ -17,7 +17,7 @@ free: true
 virtual: false
 attendance_information: 'All welcome'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673018114
+updated_at: 1673018144
 featured_image: MicrosoftTeams-image-(3).png
 accessibility_information: |-
   - Ramped/ Sloped access
@@ -219,4 +219,4 @@ cta: |-
 
   [01473351249](tel:01473351249)
 ---
-Come along to Bury St Edmunds Library for this free Circuits session for all abilities with Nardyne! This event is part of Jumsptart, our health and wellbeing campaign.
+Come along to Bury St Edmunds Library for a free Circuits session for all abilities with Nardyne! This event is part of Jumsptart, our health and wellbeing campaign.
