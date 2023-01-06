@@ -225,7 +225,7 @@ content_area:
         text: 'bus stop'
       -
         type: text
-        text: ' is only 1-minute away and there is also a small car park on the grounds of the church. Alternatively, you can park at the '
+        text: ' is only one-minute away and there is also a small car park on the grounds of the church. Alternatively, you can park at the '
       -
         type: text
         marks:
@@ -239,7 +239,7 @@ content_area:
         text: 'Orwell Country Park'
       -
         type: text
-        text: ', which is only a 6-minute walk from the church. '
+        text: ', which is only a six-minute walk from the church. '
 booking_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=ZwbVcF29fUWihMBpJmH1vDiyLdXvLXlIt9ctjhxLUWFUQVlBUU5JNTk0Rlo2NkdMU1QyMlMyUjZOMSQlQCN0PWcu'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
@@ -248,7 +248,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673007243
+updated_at: 1673007557
 end_date: '2023-03-11 18:15'
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Ipswich!
