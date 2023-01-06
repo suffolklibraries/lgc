@@ -215,7 +215,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Seagull Theatre is only a 6-minute walk from the Pakefield Beach, which is to the west of Lowestoft. The closest car park is the '
+        text: 'The Seagull Theatre is only a six-minute walk from the Pakefield Beach, which is to the west of Lowestoft. The closest car park is the '
       -
         type: text
         marks:
@@ -243,7 +243,7 @@ content_area:
         text: 'bus stop '
       -
         type: text
-        text: 'is situated only 2-minute walk away from the theatre. '
+        text: 'is situated only two-minute walk away from the theatre. '
 booking_link: 'https://forms.office.com/Pages/ResponsePage.aspx?id=ZwbVcF29fUWihMBpJmH1vDiyLdXvLXlIt9ctjhxLUWFUQVlBUU5JNTk0Rlo2NkdMU1QyMlMyUjZOMSQlQCN0PWcu'
 cta: |-
   [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
@@ -252,7 +252,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673007270
+updated_at: 1673007612
 end_date: '2023-03-11 17:45'
 accessibility_information: |-
   - Toilet and changing facilities
