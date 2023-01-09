@@ -1,6 +1,5 @@
 ---
 id: 87b8f9f9-af20-40f8-b2ab-8f43c15ae7d5
-published: false
 blueprint: events
 title: 'South Street Kids'
 event_categories:
