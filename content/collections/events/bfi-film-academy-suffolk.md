@@ -8,7 +8,7 @@ end_date: '2022-02-17 17:00'
 free: false
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673453273
+updated_at: 1673453340
 event_categories:
   - computing
   - activity
