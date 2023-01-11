@@ -8,7 +8,7 @@ end_date: '2022-02-17 17:00'
 free: false
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673449031
+updated_at: 1673453273
 event_categories:
   - computing
   - activity
@@ -63,7 +63,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You will get the opportunity to meet and work alongside industry professionals from across disciplines, including writing and directing through to production, sound design, editing, and camera operation. Additionally, you will get the chance to network with other young film fans from across the region. Above all, participants can get their Bronze Arts Award and become part of the Film Academy alumni, which provides access to exclusive opportunities!'
+        text: 'You will get the opportunity to meet and work alongside industry professionals from across disciplines, including writing and directing through to production, sound design, editing, and camera operation. Additionally, you will get the chance to network with other young film fans from across the region. Above all, you can get your Bronze Arts Award and become part of the Film Academy alumni, which provides access to exclusive opportunities!'
   -
     type: paragraph
     content:
@@ -226,9 +226,6 @@ content_area:
               target: null
               title: null
         text: here
-      -
-        type: text
-        text: '. '
 featured_image: bfifilmacademyimages/BFI-image.jpg
 ---
 Film Academy is for young people with an interest or experience in film. **Applications close midnight 20th January**
