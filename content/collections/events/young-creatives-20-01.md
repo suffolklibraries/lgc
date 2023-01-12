@@ -1,6 +1,5 @@
 ---
 id: 08597dcd-9109-4283-90ae-e227177872a4
-published: false
 blueprint: events
 title: 'Young Creatives'
 event_categories:
