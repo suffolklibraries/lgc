@@ -8,7 +8,7 @@ end_date: '2022-02-17 17:00'
 free: false
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673453340
+updated_at: 1673512164
 event_categories:
   - computing
   - activity
@@ -228,4 +228,4 @@ content_area:
         text: here
 featured_image: bfifilmacademyimages/BFI-image.jpg
 ---
-Film Academy is for young people with an interest or experience in film. **Applications close midnight 20th January**
+Film Academy is for young people with an interest or experience in film. **Applications close at midnight on 20th January**
