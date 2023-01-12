@@ -1,5 +1,6 @@
 ---
 id: dc4372b4-8df0-4f56-bc67-ed0de0355d81
+published: false
 blueprint: events
 title: 'Saturday Art Club'
 event_categories:
@@ -8,7 +9,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: miscellaneous/saturday-art-club.jfif
-start_date: '2023-01-07 10:00'
+start_date: '2023-01-28 10:00'
 free: false
 virtual: false
 latitude: '52.05631725971396'
@@ -117,8 +118,8 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1670845872
-end_date: '2023-01-07 11:30'
+updated_at: 1673516685
+end_date: '2023-01-28 11:30'
 cost_details: £6
 attendance_information: '5 - 10 years'
 ---
