@@ -1,6 +1,5 @@
 ---
 id: ccd674f8-fc4e-405c-ae0d-2288aa242cbe
-published: false
 blueprint: events
 title: 'Woman 2 Woman'
 event_categories:
