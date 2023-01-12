@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Florence Rees has a growing list of wise, funny, and heart-breaking fiction and nonfiction authors, including Jaspreet Kaur, BROWN GIRL LIKE ME; Rachel Thompson, ROUGH; and Philip Ellis, LOVE & OTHER SCAMS. Florence started her career as an assistant at A.M. Heath: she is now one of the Bookseller’s 2022 Rising Stars. Read more about '
+        text: 'Florence Rees represents a growing list of wise, funny, and heart-breaking fiction and nonfiction authors, including Jaspreet Kaur, BROWN GIRL LIKE ME; Rachel Thompson, ROUGH; and Philip Ellis, LOVE & OTHER SCAMS. Florence started her career as an assistant at A.M. Heath and she is now one of the Bookseller’s 2022 Rising Stars. Find out more about '
       -
         type: text
         marks:
@@ -55,10 +55,10 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Florence and her achievements'
+        text: 'Florence Rees'
       -
         type: text
-        text: .
+        text: ' and what are her favorite reads. '
   -
     type: paragraph
     content:
@@ -139,7 +139,7 @@ content_area:
         type: text
         text: ', only a four-minute walk from The Hold. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673522599
+updated_at: 1673530668
 cta: |-
   [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
 
