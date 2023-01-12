@@ -8,7 +8,7 @@ end_date: '2022-02-17 17:00'
 free: false
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673512164
+updated_at: 1673520998
 event_categories:
   - computing
   - activity
@@ -138,6 +138,31 @@ content_area:
     content:
       -
         type: text
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Book online '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.creative-nation.co.uk/filmacademy/'
+              rel: null
+              target: null
+              title: null
+        text: here
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
         text: 'How to get here'
   -
     type: paragraph
@@ -201,31 +226,6 @@ content_area:
       -
         type: text
         text: ' to find out more.  '
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Book online '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.creative-nation.co.uk/filmacademy/'
-              rel: null
-              target: null
-              title: null
-        text: here
 featured_image: bfifilmacademyimages/BFI-image.jpg
 ---
 Film Academy is for young people with an interest or experience in film. **Applications close at midnight on 20th January**
