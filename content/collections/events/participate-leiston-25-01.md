@@ -1,13 +1,14 @@
 ---
 id: 83e2458a-d78f-4a6c-9909-6e1e4c2a2d2a
+published: false
 blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
-start_date: '2023-01-11 14:00'
-end_date: '2023-01-11 16:00'
+start_date: '2023-01-25 14:00'
+end_date: '2023-01-25 16:00'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1669799377
+updated_at: 1673515701
 free: true
 virtual: false
 organisers:
