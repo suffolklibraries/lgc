@@ -38,18 +38,111 @@ content_area:
     content:
       -
         type: text
-        text: 'Join The Hold for a conversation with Florence Rees and find out more about who literary agents are, what they do and how important is their role in the publishing of books.'
+        text: 'Join The Hold for a conversation with Florence Rees and learn more about who literary agents are, what they do, and their role in publishing books.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Florence Rees has a growing list of wise, funny, and heart-breaking fiction and nonfiction authors, including Jaspreet Kaur, BROWN GIRL LIKE ME; Rachel Thompson, ROUGH; and Philip Ellis, LOVE & OTHER SCAMS. Florence started her career as an assistant at A.M. Heath: she is now one of the Bookseller’s 2022 Rising Stars. Read more about Florence \_"
+        text: 'Florence Rees has a growing list of wise, funny, and heart-breaking fiction and nonfiction authors, including Jaspreet Kaur, BROWN GIRL LIKE ME; Rachel Thompson, ROUGH; and Philip Ellis, LOVE & OTHER SCAMS. Florence started her career as an assistant at A.M. Heath: she is now one of the Bookseller’s 2022 Rising Stars. Read more about '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://amheath.com/agents/florence-rees/'
+              rel: null
+              target: null
+              title: null
+        text: 'Florence and her achievements'
+      -
+        type: text
+        text: .
   -
     type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'This event is FREE for the University of Suffolk students, staff and alumni, as well as, for creative writers in Suffolk.'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book '
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book a place please email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:k.ward3@uos.ac.uk'
+              rel: null
+              target: null
+              title: null
+        text: k.ward3@uos.ac.uk
+      -
+        type: text
+        text: '. Places are strictly limited.'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Ipswich train station is a 20-minute walk from The Hold and if you''re traveling by bus, check out the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswichbuses.co.uk/days-out/the-hold/'
+              rel: null
+              target: null
+              title: null
+        text: 'bus routes '
+      -
+        type: text
+        text: 'you can take. The closest car park is the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Duke+Orwell+Quay+car+park/@52.0509309,1.1620521,17z/data=!3m1!4b1!4m5!3m4!1s0x47d99f871a4b3a97:0x39cb00398149fbd3!8m2!3d52.0509309!4d1.1641632'
+              rel: null
+              target: null
+              title: null
+        text: 'Duke Orwell Quay car park'
+      -
+        type: text
+        text: ', only a four-minute walk from The Hold. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673453124
+updated_at: 1673522599
+cta: |-
+  [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
+
+  [k.ward3@uos.ac.uk](mailto:k.ward3@uos.ac.uk)
 ---
-Visit The Hold for an interesting conversation with Florence Rees about what do literary agents do?, Why are agents inmportant? And what makes one manuscript stand out from the rest?
+Visit The Hold for an interesting conversation with Florence Rees about what do literary agents do, why are they important and what makes one manuscript stand out from the rest.
