@@ -8,7 +8,7 @@ event_categories:
   - languages
   - literature
 organisers:
-  - suffolk-archives
+  - university-of-suffolk
 featured_image: Talking-shop---meet-the-agent.PNG
 start_date: '2023-01-30 12:00'
 end_date: '2023-01-30 13:00'
@@ -138,7 +138,7 @@ content_area:
         type: text
         text: ', only a four-minute walk from The Hold. '
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1673881102
+updated_at: 1673892671
 cta: |-
   [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
 
