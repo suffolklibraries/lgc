@@ -1,5 +1,6 @@
 ---
 id: b2266371-3f8b-405d-a0f6-b821a3fa58a6
+published: false
 blueprint: events
 title: 'One Big Multicultural Festival'
 event_categories:
