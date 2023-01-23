@@ -1,5 +1,6 @@
 ---
 id: 776af33b-7601-407b-9c75-173bc8ff98d3
+published: false
 blueprint: events
 title: 'Dirty Work: Part Two'
 event_categories:
