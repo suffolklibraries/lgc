@@ -1,5 +1,6 @@
 ---
 id: 1aa099c9-4112-4570-9b37-24810e35e342
+published: false
 blueprint: events
 title: 'Community Picnic'
 event_categories:
