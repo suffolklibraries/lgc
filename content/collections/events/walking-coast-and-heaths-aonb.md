@@ -1,5 +1,6 @@
 ---
 id: 3ccfb1c0-ef61-4099-88e4-1704da5f27d3
+published: false
 blueprint: events
 title: 'Walking: Coast and Heaths AONB'
 event_categories:
