@@ -1,5 +1,6 @@
 ---
 id: 91efc03b-46c5-4d0d-83bc-7567a3e240aa
+published: false
 blueprint: events
 title: 'Online author event with Lucy Holland'
 event_categories:
