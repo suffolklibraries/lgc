@@ -1,5 +1,6 @@
 ---
 id: b5270fb9-3415-417f-99ae-da9363fb609e
+published: false
 blueprint: events
 title: 'Pride Picnic'
 event_categories:
