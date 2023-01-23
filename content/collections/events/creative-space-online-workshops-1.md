@@ -11,7 +11,7 @@ organisers:
   - cohere-arts
 featured_image: Cohere-arts---creative-space-2-1674479481.PNG
 start_date: '2023-01-10 13:30'
-end_date: '2023-04-05 14:30'
+end_date: '2023-04-06 14:30'
 free: true
 virtual: true
 attendance_information: 'People who are living with long covid'
@@ -149,6 +149,6 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674485005
+updated_at: 1674485192
 ---
 Artist-led online workshops for people living with long Covid. Experience the positive health impacts of engaging with the creative arts, whilst connecting with others facing the challenges of long covid.
