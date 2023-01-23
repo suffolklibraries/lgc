@@ -1,5 +1,6 @@
 ---
 id: e9fc9cf2-79d2-44cc-8ef6-a7c971c85447
+published: false
 blueprint: events
 title: 'Let''s Get Crafty: Children''s Stories'
 event_categories:
