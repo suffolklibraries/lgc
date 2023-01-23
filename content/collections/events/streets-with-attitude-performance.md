@@ -1,5 +1,6 @@
 ---
 id: d2bcbcb8-0624-4476-ac9c-2b2183aae337
+published: false
 blueprint: events
 title: 'Streets with Attitude - Final Performance'
 start_date: '2022-06-04 12:00'
