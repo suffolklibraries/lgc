@@ -1,5 +1,6 @@
 ---
 id: ce70cb5c-20fe-438f-942f-5cefa037e2f4
+published: false
 blueprint: events
 title: 'Drag Show'
 event_categories:
