@@ -1,5 +1,6 @@
 ---
 id: b7bef368-bc1f-4283-a889-3a41dafac033
+published: false
 blueprint: events
 title: 'Friends Around The Table - Picnic inspired printing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
