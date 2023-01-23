@@ -1,5 +1,6 @@
 ---
 id: 01a97bf1-5a63-4de2-81ab-345840a5c541
+published: false
 blueprint: events
 title: 'Welcome Back Ipswich - Open Mic Night'
 event_categories:
