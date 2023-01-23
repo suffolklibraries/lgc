@@ -1,5 +1,6 @@
 ---
 id: 82c11a95-7bba-4a73-a066-f58d2dfad511
+published: false
 blueprint: events
 title: 'How do we write a short story'
 event_categories:
