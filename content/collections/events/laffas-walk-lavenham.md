@@ -1,5 +1,6 @@
 ---
 id: 15d3750e-192c-47ff-895d-d56d821e4eac
+published: false
 blueprint: events
 title: 'Laffa''s Walk'
 start_date: '2022-03-26 12:00'
