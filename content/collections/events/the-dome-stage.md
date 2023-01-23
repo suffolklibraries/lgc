@@ -1,5 +1,6 @@
 ---
 id: 4698d559-93fc-439e-898d-c417c5d1b31c
+published: false
 blueprint: events
 title: 'The Dome Stage'
 event_categories:
