@@ -1,5 +1,6 @@
 ---
 id: 053d7b6c-cb59-44d6-b2a2-66ae6283dccb
+published: false
 blueprint: events
 title: 'Welcome Back Ipswich - Black Cowboys'
 start_date: '2022-03-11 19:30'
