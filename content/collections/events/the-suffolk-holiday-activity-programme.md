@@ -1,5 +1,6 @@
 ---
 id: cee93f95-b9a9-4144-b230-8927ad563dd0
+published: false
 blueprint: events
 title: 'The Suffolk Holiday Activity Programme'
 event_categories:
