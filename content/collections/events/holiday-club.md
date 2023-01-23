@@ -1,5 +1,6 @@
 ---
 id: 5fe0d3bc-3049-4ffb-a4ae-6ae7f239d94f
+published: false
 blueprint: events
 title: 'Holiday Club'
 event_categories:
