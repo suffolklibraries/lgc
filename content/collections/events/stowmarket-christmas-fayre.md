@@ -1,5 +1,6 @@
 ---
 id: f20d1ceb-59de-4017-b20b-f24147cffb50
+published: false
 blueprint: events
 title: 'Stowmarket Christmas Fayre'
 event_categories:
