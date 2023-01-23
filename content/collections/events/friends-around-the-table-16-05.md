@@ -1,5 +1,6 @@
 ---
 id: 2423bf05-532a-4d45-8d73-197c66365a32
+published: false
 blueprint: events
 title: 'Friends Around The Table - Portable feasts with friends'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
