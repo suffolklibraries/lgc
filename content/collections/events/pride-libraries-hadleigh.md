@@ -1,5 +1,6 @@
 ---
 id: 96800925-93ee-4958-8e74-0ac9c6f099f6
+published: false
 blueprint: events
 title: 'Queer Craftivism - Hadleigh Library'
 event_categories:
