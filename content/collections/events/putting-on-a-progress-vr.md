@@ -1,5 +1,6 @@
 ---
 id: 52a1e4c2-3492-4137-b830-13e136270042
+published: false
 blueprint: events
 title: 'Putting on a Progress 1578:  An Immersive VR Experience'
 event_categories:
