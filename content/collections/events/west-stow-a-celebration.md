@@ -1,5 +1,6 @@
 ---
 id: 0838c256-94e5-4620-b26c-4b74d65dc341
+published: false
 blueprint: events
 title: 'West Stow - A Celebration'
 event_categories:
