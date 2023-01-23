@@ -1,5 +1,6 @@
 ---
 id: 16df0b33-bee2-4bb4-830d-daadee2931d8
+published: false
 blueprint: events
 title: 'Christmas Lunch in Stowmarket'
 event_categories:
