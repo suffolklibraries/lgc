@@ -1,5 +1,6 @@
 ---
 id: 0a281092-b4f2-453b-8113-55165b9bc8e7
+published: false
 blueprint: events
 title: 'First Light Festival - Life Drawing with Will Teather'
 event_categories:
