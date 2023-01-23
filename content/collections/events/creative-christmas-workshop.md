@@ -1,5 +1,6 @@
 ---
 id: ee9fd3c7-9caa-4f7a-8604-34e54b8163c5
+published: false
 blueprint: events
 title: 'Creative Christmas Workshop'
 event_categories:
