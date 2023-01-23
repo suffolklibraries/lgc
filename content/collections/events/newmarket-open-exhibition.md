@@ -1,5 +1,6 @@
 ---
 id: 57226fde-acc6-4bb5-936d-6cea6aff526f
+published: false
 blueprint: events
 title: 'Newmarket Open Exhibition'
 start_date: '2022-02-12 10:00'
