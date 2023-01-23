@@ -1,5 +1,6 @@
 ---
 id: 3792846b-6a58-4ff0-a9ce-41ebad052a73
+published: false
 blueprint: events
 title: 'Woodland Lumiere 2022: A twinkling night walk in a garden of art & music'
 organisers:
