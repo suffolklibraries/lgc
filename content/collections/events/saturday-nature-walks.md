@@ -1,5 +1,6 @@
 ---
 id: 8508518b-5731-4d61-8850-fd6a14c272fa
+published: false
 blueprint: events
 title: 'Saturday Nature Walks'
 organisers:
