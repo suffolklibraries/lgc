@@ -1,5 +1,6 @@
 ---
 id: 63a9ab20-b903-414f-b9d2-1ffbba8d04be
+published: false
 blueprint: events
 title: 'Objects and Stories'
 event_categories:
