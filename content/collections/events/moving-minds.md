@@ -1,5 +1,6 @@
 ---
 id: 364d8bd5-2b56-4b68-9aff-fcf66e469d8c
+published: false
 blueprint: events
 title: 'Moving Minds'
 start_date: '2022-02-23 10:00'
