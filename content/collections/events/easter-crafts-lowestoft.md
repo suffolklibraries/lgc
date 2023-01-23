@@ -1,5 +1,6 @@
 ---
 id: 46b655d8-297a-43c0-aa4f-78e046d226a1
+published: false
 blueprint: events
 title: 'Let''s Get Crafty: Easter Fun at Suffolk Archives'
 organisers:
