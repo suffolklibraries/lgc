@@ -1,5 +1,6 @@
 ---
 id: 8e5d3bdb-60fd-4d5e-8c2f-563a66391778
+published: false
 blueprint: events
 title: 'Suffolk Shorts - Short Film Festival'
 event_categories:
