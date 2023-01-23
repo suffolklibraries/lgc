@@ -1,6 +1,5 @@
 ---
 id: 36d53398-cf66-4fd5-a3a1-eb7c54e43834
-published: false
 blueprint: events
 title: 'Girls, where you at?'
 event_categories:
