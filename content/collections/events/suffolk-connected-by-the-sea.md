@@ -1,5 +1,6 @@
 ---
 id: 3dc3d7aa-fc52-4dcd-bee4-833c64a33f10
+published: false
 blueprint: events
 title: 'Suffolk Connected by the Sea'
 event_categories:
