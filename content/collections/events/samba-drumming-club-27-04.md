@@ -1,5 +1,6 @@
 ---
 id: 57e514bc-b8a0-4195-a821-648d38119029
+published: false
 blueprint: events
 title: 'Newmarket Samba Drumming Club'
 start_date: '2022-05-11 18:30'
