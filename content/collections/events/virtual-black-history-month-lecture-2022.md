@@ -1,5 +1,6 @@
 ---
 id: 6185b1b5-600b-43af-8aad-1c25e9aa35bb
+published: false
 blueprint: events
 title: 'Virtual Black History Month Lecture 2022'
 event_categories:
