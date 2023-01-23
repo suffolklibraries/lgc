@@ -1,5 +1,6 @@
 ---
 id: 1f93fb32-4ef5-42bc-9d6c-865ea7293c4c
+published: false
 blueprint: events
 title: 'Fairy and gnome door painting'
 event_categories:
