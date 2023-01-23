@@ -174,8 +174,8 @@ booking_link: 'https://coherearts.org/home/projects/creativespace/'
 cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
-  [creativespace@coherearts.org](mailto:creativespace@coherearts.org)
+  [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674474486
+updated_at: 1674480731
 ---
 Artist-led workshops for young people aged 16-24, affected by long Covid. Join in to meet people with similar challenges, learn new creative skills, or just drop by for a chat.
