@@ -1,5 +1,6 @@
 ---
 id: 58e2185c-5dc7-40af-ad86-937823f6de3e
+published: false
 blueprint: events
 title: 'An Elizabethan Window Wanderland'
 event_categories:
