@@ -1,5 +1,6 @@
 ---
 id: 85bdb816-0ff0-4c1c-a3ea-952c4e2de89f
+published: false
 blueprint: events
 title: 'Free yoga in the Memorial Gardens'
 event_categories:
