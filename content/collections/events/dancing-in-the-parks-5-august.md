@@ -1,5 +1,6 @@
 ---
 id: 3a0c5810-9569-4323-80d4-a0a0d31d464d
+published: false
 blueprint: events
 title: 'Dancing in the Parks'
 event_categories:
