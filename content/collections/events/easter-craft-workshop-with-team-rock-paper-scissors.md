@@ -1,5 +1,6 @@
 ---
 id: 4ac83037-d080-467d-860e-a8f758e7f76d
+published: false
 blueprint: events
 title: 'Easter Craft Workshop'
 event_categories:
