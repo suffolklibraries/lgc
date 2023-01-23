@@ -1,5 +1,6 @@
 ---
 id: 926b9bac-6258-480b-b3ca-705a4b70575e
+published: false
 blueprint: events
 title: 'Welcome Back Ipswich - Brighten the Corners'
 event_categories:
