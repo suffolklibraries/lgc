@@ -1,5 +1,6 @@
 ---
 id: 094b0b80-b021-4ba7-a6c7-0dec55b9390f
+published: false
 blueprint: events
 title: 'Together Tuesday'
 event_categories:
