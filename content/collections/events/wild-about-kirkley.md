@@ -1,5 +1,6 @@
 ---
 id: 3232b58b-57c7-409d-a19f-ecb12eefe6ff
+published: false
 blueprint: events
 title: 'Wild About Kirkley'
 event_categories:
