@@ -1,5 +1,6 @@
 ---
 id: 15c05338-164f-4d2e-80df-263229f5e0ed
+published: false
 blueprint: events
 title: 'Story writing sessions at the Seagull Theatre'
 event_categories:
