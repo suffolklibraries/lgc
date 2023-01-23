@@ -1,5 +1,6 @@
 ---
 id: c3a263e0-6875-43de-8335-4d6ce9453556
+published: false
 blueprint: events
 title: 'Girls, where you at?'
 event_categories:
@@ -10,8 +11,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2023-01-17 17:00'
-end_date: '2023-01-17 19:00'
+start_date: '2023-01-31 17:00'
+end_date: '2023-01-31 19:00'
 free: true
 virtual: false
 attendance_information: '- 12-19 year old girls'
@@ -107,7 +108,7 @@ content_area:
         type: text
         text: 'Booking is not required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1671440182
+updated_at: 1674467517
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 A programme of building confidence in girls, with exciting media workshops.
