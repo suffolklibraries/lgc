@@ -1,5 +1,6 @@
 ---
 id: 5c99e417-f7e9-46ae-b730-464dbca77d8f
+published: false
 blueprint: events
 title: 'Easter Chick Chase Trail'
 event_categories:
