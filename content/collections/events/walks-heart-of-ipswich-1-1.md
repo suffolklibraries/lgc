@@ -1,5 +1,6 @@
 ---
 id: bbe18276-9387-4961-b8bb-82ab94b6b139
+published: false
 blueprint: events
 title: 'Walks: Heart Of Ipswich'
 event_categories:
