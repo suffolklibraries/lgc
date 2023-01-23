@@ -1,5 +1,6 @@
 ---
 id: 22452f58-92ab-472d-a092-ae709a0142ff
+published: false
 blueprint: events
 title: 'Global Village Stage'
 event_categories:
