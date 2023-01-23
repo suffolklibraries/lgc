@@ -1,5 +1,6 @@
 ---
 id: b46e403a-705f-4550-a992-238fd61588ee
+published: false
 blueprint: events
 title: 'Your Walking Companion'
 event_categories:
