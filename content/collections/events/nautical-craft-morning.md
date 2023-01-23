@@ -1,5 +1,6 @@
 ---
 id: 57ac9246-4ef7-4367-b8d4-f1dc8601e9ac
+published: false
 blueprint: events
 title: 'Nautical Craft Morning'
 event_categories:
