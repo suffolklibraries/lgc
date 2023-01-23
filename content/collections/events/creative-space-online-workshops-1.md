@@ -87,14 +87,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:creativespace@coherearts.org'
+              href: 'mailto:coherearts@gmail.com'
               rel: null
               target: null
               title: null
-        text: creativespace@coherearts.org
-      -
-        type: text
-        text: .
+        text: coherearts@gmail.com
   -
     type: heading
     attrs:
@@ -152,6 +149,6 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674480699
+updated_at: 1674481416
 ---
 Artist-led online workshops for people living with long Covid. Join in to meet people with similar challenges, learn new creative skills, or just drop by for a chat.
