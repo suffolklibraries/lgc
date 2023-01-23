@@ -1,5 +1,6 @@
 ---
 id: 5273f338-87c7-4bb4-b003-18f686d5d861
+published: false
 blueprint: events
 title: 'First Light Festival - Club Origami'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
