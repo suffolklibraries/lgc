@@ -1,5 +1,6 @@
 ---
 id: a4f32a7b-c7b0-4e88-8ae6-be45084b6aaf
+published: false
 blueprint: events
 title: 'Christmas Light Trail'
 event_categories:
