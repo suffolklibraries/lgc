@@ -1,5 +1,6 @@
 ---
 id: d78c7287-b961-46d5-86ce-adc3db962cf7
+published: false
 blueprint: events
 title: 'Walks: Mayhem, Murder and Mystery'
 event_categories:
