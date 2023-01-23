@@ -1,5 +1,6 @@
 ---
 id: dea64633-dbd0-4715-ab93-b21a61e7b1ad
+published: false
 blueprint: events
 title: 'Ipswich Jazz Festival Stage'
 event_categories:
