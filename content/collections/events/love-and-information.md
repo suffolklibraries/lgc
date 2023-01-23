@@ -1,5 +1,6 @@
 ---
 id: 007e4ba4-7ca3-43cb-a4a9-35febf8fbd44
+published: false
 blueprint: events
 title: 'Love and Information'
 event_categories:
