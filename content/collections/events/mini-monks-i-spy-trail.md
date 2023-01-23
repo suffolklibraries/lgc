@@ -1,5 +1,6 @@
 ---
 id: 98f5840d-8a4b-4aea-90a7-c11009d9822c
+published: false
 blueprint: events
 title: 'Mini Monks I-Spy Trail'
 event_categories:
