@@ -1,5 +1,6 @@
 ---
 id: f1848215-0d11-4fec-ae2f-4bb7de9be749
+published: false
 blueprint: events
 title: 'The Big Picnic'
 event_categories:
