@@ -1,5 +1,6 @@
 ---
 id: 625ed840-4730-4f60-8fc2-d7948bc12899
+published: false
 blueprint: events
 title: 'Community Arts and Crafts'
 event_categories:
