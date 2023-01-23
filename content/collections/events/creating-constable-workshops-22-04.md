@@ -1,5 +1,6 @@
 ---
 id: 8653fd17-fa30-415e-9c9e-7c32861294eb
+published: false
 blueprint: events
 title: 'Creating Constable Workshops'
 event_categories:
