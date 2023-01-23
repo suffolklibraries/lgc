@@ -1,5 +1,6 @@
 ---
 id: ac00bfc5-0ecf-489b-a70c-075f37eae55d
+published: false
 blueprint: events
 title: 'Suffolk Horses on Display'
 featured_image: Suffolk-Punches-Thumbnail-800x700-1-aspect-ratio-800-700.jpg
