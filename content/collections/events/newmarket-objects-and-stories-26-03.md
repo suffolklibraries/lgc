@@ -1,5 +1,6 @@
 ---
 id: a547831e-e672-4d55-8f16-b2a28ed7efca
+published: false
 blueprint: events
 title: 'Newmarket Objects And Stories: Drop In Story Collection'
 event_categories:
