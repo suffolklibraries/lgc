@@ -1,5 +1,6 @@
 ---
 id: 2b104e1b-d029-47bf-883c-432b63444912
+published: false
 blueprint: events
 title: 'Mural Paintings on Ipswich Waterfront'
 event_categories:
