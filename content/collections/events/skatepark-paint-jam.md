@@ -1,5 +1,6 @@
 ---
 id: 924e622d-ea22-411f-be6e-ebad7bd28564
+published: false
 blueprint: events
 title: 'Stoke Bridge Skatepark Paint Jam'
 event_categories:
