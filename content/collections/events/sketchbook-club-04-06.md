@@ -1,5 +1,6 @@
 ---
 id: ce0a41e6-c4f7-477b-8142-d2966f451cc3
+published: false
 blueprint: events
 title: 'High Schoolers Saturday Sketchbook Club'
 start_date: '2022-06-04 12:00'
