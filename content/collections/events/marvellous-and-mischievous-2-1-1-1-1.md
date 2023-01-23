@@ -1,5 +1,6 @@
 ---
 id: 4a5c9fd2-cbfd-4a07-98b9-294074ba423f
+published: false
 blueprint: events
 title: 'Let''s Get Crafty: Marvellous and Mischievous'
 start_date: '2022-08-30 10:30'
