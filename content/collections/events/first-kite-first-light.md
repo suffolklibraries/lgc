@@ -1,5 +1,6 @@
 ---
 id: 99fd3065-b92e-4c79-80f7-39d2b4bfef7b
+published: false
 blueprint: events
 title: 'First Light Festival - First Kite'
 event_categories:
