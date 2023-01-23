@@ -1,5 +1,6 @@
 ---
 id: fa68cba0-53b9-47af-a921-ff61757a1a6d
+published: false
 blueprint: events
 title: 'Streets Alive!'
 event_categories:
