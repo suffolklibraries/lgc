@@ -1,5 +1,6 @@
 ---
 id: f43777ff-a693-4395-bae4-307b90cf131e
+published: false
 blueprint: events
 title: 'Film Making Workshops for Young People across Suffolk'
 start_date: '2022-02-19 10:00'
