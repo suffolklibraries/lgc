@@ -2,7 +2,7 @@
 id: 6d2b0760-221a-4785-bde6-d379351f78e5
 published: false
 blueprint: events
-title: 'Creative Space'
+title: 'Creative Space for Young People'
 event_categories:
   - art
   - teen-and-young-adult
@@ -176,6 +176,6 @@ cta: |-
 
   [creativespace@coherearts.org](mailto:creativespace@coherearts.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674474353
+updated_at: 1674474486
 ---
 Artist-led workshops for young people aged 16-24, affected by long Covid. Join in to meet people with similar challenges, learn new creative skills, or just drop by for a chat.
