@@ -1,5 +1,6 @@
 ---
 id: 8614893a-a154-4310-816a-3f91517842ab
+published: false
 blueprint: events
 title: 'First Light Festival - The Big Strum'
 event_categories:
