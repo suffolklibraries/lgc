@@ -1,5 +1,6 @@
 ---
 id: 3f7ba3b6-8b55-4957-ba80-5fe7a7f6387f
+published: false
 blueprint: events
 title: 'Free Art Workshops with Verity Slade'
 event_categories:
