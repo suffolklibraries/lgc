@@ -1,5 +1,6 @@
 ---
 id: 329e3c1c-27f1-43b1-948b-dec5729d3867
+published: false
 blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
