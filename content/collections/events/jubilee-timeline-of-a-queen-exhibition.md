@@ -1,5 +1,6 @@
 ---
 id: 50441cce-9346-4f4d-b30b-f971170e9152
+published: false
 blueprint: events
 title: 'Jubilee - Timeline of a Queen Exhibition'
 event_categories:
