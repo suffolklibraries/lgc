@@ -1,5 +1,6 @@
 ---
 id: 7575d87b-634c-4fab-97ba-4e11baa6c666
+published: false
 blueprint: events
 title: 'Den Building in Bury St Edmunds'
 event_categories:
