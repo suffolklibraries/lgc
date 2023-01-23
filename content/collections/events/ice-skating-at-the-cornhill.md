@@ -1,5 +1,6 @@
 ---
 id: 025d0026-bc52-49ca-8d2f-f77ed402f0c1
+published: false
 blueprint: events
 title: 'Ice Skating at The Cornhill'
 event_categories:
