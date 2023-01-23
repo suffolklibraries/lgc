@@ -1,5 +1,6 @@
 ---
 id: 6847f708-70d4-4701-a9f0-414d967c34d5
+published: false
 blueprint: events
 title: 'Woodbridge Tide Mill Museum'
 event_categories:
