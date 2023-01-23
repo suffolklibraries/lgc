@@ -1,5 +1,6 @@
 ---
 id: 96950b86-3537-4c30-8546-353fa2f76a84
+published: false
 blueprint: events
 title: 'Eleesha Drennan Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
