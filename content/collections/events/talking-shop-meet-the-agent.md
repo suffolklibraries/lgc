@@ -1,5 +1,6 @@
 ---
 id: f7e3ed9a-466b-44d7-bdc4-ab3ccd30961f
+published: false
 blueprint: events
 title: 'Talking shop - Meet the agent'
 event_categories:
