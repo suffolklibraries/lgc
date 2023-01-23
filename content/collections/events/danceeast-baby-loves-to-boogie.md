@@ -1,5 +1,6 @@
 ---
 id: ebad9783-fa8a-42c4-b5d5-42d1fc8d123b
+published: false
 blueprint: events
 title: 'Baby Loves to Boogie'
 event_categories:
