@@ -1,5 +1,6 @@
 ---
 id: 8d801472-a9ce-42b4-ba15-db8edb133b11
+published: false
 blueprint: events
 title: 'DanceEast Youth Takeover'
 event_categories:
