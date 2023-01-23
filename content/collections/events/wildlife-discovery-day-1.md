@@ -1,5 +1,6 @@
 ---
 id: eabd2257-48ee-4fbc-950e-64645df19185
+published: false
 blueprint: events
 title: 'Wildlife Discovery Day'
 event_categories:
