@@ -1,5 +1,6 @@
 ---
 id: d94f4bd9-6dd6-4d5a-92bd-0b28e2d4eb6a
+published: false
 blueprint: events
 title: 'Christmas Films at The Regal, Stowmarket'
 event_categories:
