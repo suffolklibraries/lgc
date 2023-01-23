@@ -1,5 +1,6 @@
 ---
 id: 35d03e45-3502-44c5-a1fb-2013b68288dd
+published: false
 blueprint: events
 title: 'Festive Sound Walk'
 event_categories:
