@@ -1,5 +1,6 @@
 ---
 id: 70b9fa38-627a-414e-a28b-4bab5ed274b7
+published: false
 blueprint: events
 title: 'Disability Advice Beach party'
 event_categories:
