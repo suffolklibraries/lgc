@@ -1,5 +1,6 @@
 ---
 id: b91dfa7a-884d-4c52-87b9-a0ec90e20e18
+published: false
 blueprint: events
 title: 'Festival of New'
 event_categories:
