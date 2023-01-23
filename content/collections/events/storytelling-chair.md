@@ -1,5 +1,6 @@
 ---
 id: f59356b5-bf43-4f27-a774-2a0cdab399f0
+published: false
 blueprint: events
 title: 'Storytelling Chair'
 event_categories:
