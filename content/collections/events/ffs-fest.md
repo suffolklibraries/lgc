@@ -1,5 +1,6 @@
 ---
 id: 7e4f00b6-5379-4f22-834b-fc7207fb54a6
+published: false
 blueprint: events
 title: 'FFS Fest'
 event_categories:
