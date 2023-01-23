@@ -1,5 +1,6 @@
 ---
 id: d6cb4274-d644-487f-98d2-8e0a0b6f2323
+published: false
 blueprint: events
 title: 'Social Action Workshop'
 event_categories:
