@@ -1,5 +1,6 @@
 ---
 id: 063c9c87-884e-42d3-baf5-ade0a89d5aa0
+published: false
 blueprint: events
 title: 'Let''s Get Crafty: Seaside Fun'
 event_categories:
