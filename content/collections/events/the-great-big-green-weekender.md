@@ -1,5 +1,6 @@
 ---
 id: 5161af59-a316-4581-9a00-ae0ee0a73a47
+published: false
 blueprint: events
 title: 'The Great Big Green Weekender'
 event_categories:
