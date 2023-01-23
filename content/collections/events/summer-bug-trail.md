@@ -1,5 +1,6 @@
 ---
 id: 87b493c4-8f7d-415a-b4ab-038765d7cd62
+published: false
 blueprint: events
 title: 'Summer Bug Trail'
 event_categories:
