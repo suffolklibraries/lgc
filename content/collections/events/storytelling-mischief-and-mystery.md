@@ -1,5 +1,6 @@
 ---
 id: 9e20607b-b50a-47d0-9549-5c02e229d565
+published: false
 blueprint: events
 title: 'Storytelling: Mischief and Mystery in Moomin Valley'
 event_categories:
