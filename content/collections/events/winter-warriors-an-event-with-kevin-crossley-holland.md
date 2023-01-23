@@ -1,5 +1,6 @@
 ---
 id: b964ffe9-975d-4b83-b9d7-aefeae3074d0
+published: false
 blueprint: events
 title: 'Winter Warriors: An Event with Kevin Crossley-Holland'
 event_categories:
