@@ -1,5 +1,6 @@
 ---
 id: 29182b76-3185-4ede-9071-839685d84ccb
+published: false
 blueprint: events
 title: 'Weekend Wildlife Club'
 event_categories:
