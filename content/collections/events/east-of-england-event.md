@@ -1,5 +1,6 @@
 ---
 id: 09a9d0a7-f656-4bda-9b3c-dbd5a3f993ee
+published: false
 blueprint: events
 title: 'Migration Network - East of England Event'
 organisers:
