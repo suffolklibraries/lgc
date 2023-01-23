@@ -1,5 +1,6 @@
 ---
 id: 06ab3218-9b0b-432f-bd3d-56a701bd4cd6
+published: false
 blueprint: events
 title: 'Thrills and Grills'
 event_categories:
