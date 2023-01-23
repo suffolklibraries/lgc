@@ -1,5 +1,6 @@
 ---
 id: 021c1f78-e7d8-4098-b989-2c3527e0fefb
+published: false
 blueprint: events
 title: 'Concert of Light Classics and Music from the Shows'
 event_categories:
