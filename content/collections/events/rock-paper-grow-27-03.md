@@ -1,5 +1,6 @@
 ---
 id: 7684cfec-0824-4d15-ab13-f20b781054e2
+published: false
 blueprint: events
 title: 'Rock Paper Grow'
 start_date: '2022-03-27 12:00'
