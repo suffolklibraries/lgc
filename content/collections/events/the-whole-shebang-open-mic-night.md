@@ -1,5 +1,6 @@
 ---
 id: 8cfc6d12-9988-4d2b-8f78-c8dbd5c0928e
+published: false
 blueprint: events
 title: 'The Whole Shebang Open Mic Night'
 event_categories:
