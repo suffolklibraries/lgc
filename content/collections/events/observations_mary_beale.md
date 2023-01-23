@@ -1,5 +1,6 @@
 ---
 id: 813ce65c-1960-4dc8-b83c-dd7ce20e4b98
+published: false
 blueprint: events
 title: 'Observations: The Mary Beale Collection'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
