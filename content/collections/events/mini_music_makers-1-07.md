@@ -1,5 +1,6 @@
 ---
 id: dd7108dd-465c-4fd8-a816-211bceeb70af
+published: false
 blueprint: events
 title: 'Mini Music Makers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
