@@ -1,5 +1,6 @@
 ---
 id: 5b00c3d1-bd08-44be-af78-7ba944c8676b
+published: false
 blueprint: events
 title: 'It''s Not Over Yet. An Exhibition by Duncan McAfee.'
 event_categories:
