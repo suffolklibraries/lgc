@@ -1,5 +1,6 @@
 ---
 id: d094e33d-2354-488b-8dc9-eff2f1a3113c
+published: false
 blueprint: events
 title: 'Walks: Ipswich Theatres and Halls'
 event_categories:
