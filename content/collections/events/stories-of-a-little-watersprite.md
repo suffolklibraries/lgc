@@ -1,5 +1,6 @@
 ---
 id: e4c1f9d7-e5e5-4fc0-983e-78c52284ef4f
+published: false
 blueprint: events
 title: 'Stories of a Little Watersprite'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
