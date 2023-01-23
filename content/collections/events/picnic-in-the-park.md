@@ -1,5 +1,6 @@
 ---
 id: 40c38239-e88b-4d6b-a5c9-35e43b6fff59
+published: false
 blueprint: events
 title: 'Picnic in the Park - Abbey of St Edmunds 1000 Years'
 event_categories:
