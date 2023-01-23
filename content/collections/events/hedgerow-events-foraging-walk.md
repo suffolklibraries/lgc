@@ -1,5 +1,6 @@
 ---
 id: d89229c3-5b4a-4029-a915-a5e20c21d84e
+published: false
 blueprint: events
 title: 'Hedgerow Events - Foraging Walk'
 event_categories:
