@@ -1,5 +1,6 @@
 ---
 id: 7f79a570-0f5b-48bd-a5d1-b6c73a1e88f4
+published: false
 blueprint: events
 title: 'Ipswich Jazz and Blues Club Stage'
 event_categories:
