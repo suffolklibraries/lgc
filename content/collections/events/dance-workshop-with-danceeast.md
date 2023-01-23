@@ -1,5 +1,6 @@
 ---
 id: b35d6076-f7fb-4d2f-aeee-1d5b7b5a0ed2
+published: false
 blueprint: events
 title: 'Dance Workshop for Older and Younger Dancers'
 event_categories:
