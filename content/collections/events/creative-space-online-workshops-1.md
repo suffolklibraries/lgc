@@ -149,6 +149,6 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674482158
+updated_at: 1674485005
 ---
 Artist-led online workshops for people living with long Covid. Experience the positive health impacts of engaging with the creative arts, whilst connecting with others facing the challenges of long covid.
