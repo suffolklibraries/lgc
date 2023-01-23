@@ -1,5 +1,6 @@
 ---
 id: 09d59b42-bdc2-42b9-ac43-12062a69232e
+published: false
 blueprint: events
 title: 'Puppet Workshop for ages 10 - 14'
 event_categories:
