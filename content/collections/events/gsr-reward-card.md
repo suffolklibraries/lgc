@@ -1,5 +1,6 @@
 ---
 id: fdf2ad3c-be7b-44c8-b12e-67f7db729452
+published: false
 blueprint: events
 title: 'Coming soon: Get Suffolk Reading Reward Card Scheme'
 event_categories:
