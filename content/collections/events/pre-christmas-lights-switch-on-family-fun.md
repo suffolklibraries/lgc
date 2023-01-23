@@ -1,5 +1,6 @@
 ---
 id: 8584e17c-3e50-4545-b836-26b75f4d8974
+published: false
 blueprint: events
 title: 'Pre-Christmas Lights Switch-on Family Fun'
 event_categories:
