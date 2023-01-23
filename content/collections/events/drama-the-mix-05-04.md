@@ -1,5 +1,6 @@
 ---
 id: abffe914-9950-4f58-aa28-f64c8ff85af4
+published: false
 blueprint: events
 title: DRAMA@THEMIX
 latitude: '52.185306394956015'
