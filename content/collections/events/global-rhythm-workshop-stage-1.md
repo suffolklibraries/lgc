@@ -1,5 +1,6 @@
 ---
 id: d8fcce12-e0b2-406f-a782-fa8c7c558ba3
+published: false
 blueprint: events
 title: 'Global Rhythm Workshops'
 event_categories:
