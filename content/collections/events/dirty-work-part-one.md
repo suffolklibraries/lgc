@@ -1,5 +1,6 @@
 ---
 id: 5e8c6e96-86ab-4756-a10e-6a37d085b3da
+published: false
 blueprint: events
 title: 'Dirty Work: Part One'
 event_categories:
