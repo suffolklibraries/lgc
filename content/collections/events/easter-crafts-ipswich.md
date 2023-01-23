@@ -1,5 +1,6 @@
 ---
 id: 224f3c7c-9d47-451b-a20e-519c67018908
+published: false
 blueprint: events
 title: 'Let''s Get Crafty: Easter Crafts'
 organisers:
