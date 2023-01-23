@@ -1,5 +1,6 @@
 ---
 id: 5e13541a-9280-4b13-bc2f-87cd69fba46e
+published: false
 blueprint: events
 title: 'Winter Parade Lantern Making'
 event_categories:
