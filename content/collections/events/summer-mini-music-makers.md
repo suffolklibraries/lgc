@@ -1,5 +1,6 @@
 ---
 id: b2e8fcf9-e368-447b-a2e5-2ccb219c592c
+published: false
 blueprint: events
 title: 'Summer Mini Music Makers'
 event_categories:
