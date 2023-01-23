@@ -1,5 +1,6 @@
 ---
 id: f7d042bf-08c7-41af-aa33-bd0234ea2746
+published: false
 blueprint: events
 title: 'Musical Masterpieces'
 event_categories:
