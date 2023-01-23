@@ -1,5 +1,6 @@
 ---
 id: f531dee5-e533-4f1c-8673-dd62115dfa3c
+published: false
 blueprint: events
 title: 'iSounds + - Music Production Course'
 event_categories:
