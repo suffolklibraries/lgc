@@ -1,5 +1,6 @@
 ---
 id: 519e8085-8459-4669-b250-7a5e854620b1
+published: false
 blueprint: events
 title: 'The Prisoner of Zenda'
 event_categories:
