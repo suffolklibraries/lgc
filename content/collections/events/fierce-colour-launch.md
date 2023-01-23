@@ -1,5 +1,6 @@
 ---
 id: 4523544a-9643-4ac3-b11a-04b568f823d7
+published: false
 blueprint: events
 title: 'Fierce Colour Art Exhibition Launch'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
