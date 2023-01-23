@@ -1,19 +1,20 @@
 ---
 id: d11bdbae-a432-4111-9557-3f380a44e3ba
+published: false
 blueprint: events
-title: 'Creative Space for Young People (Duplicated)'
+title: 'Creative Space'
 event_categories:
-  - art
   - teen-and-young-adult
   - activity
+  - later-life
 organisers:
   - cohere-arts
-featured_image: cohere-arts---creative-space-3.png
-start_date: '2023-02-11 10:30'
-end_date: '2023-04-01 11:30'
+featured_image: Cohere-arts---creative-space-2-1674479481.PNG
+start_date: '2023-01-10 10:30'
+end_date: '2023-04-05 11:30'
 free: true
 virtual: true
-attendance_information: 'Young people aged 16-24 who are living with long covid'
+attendance_information: 'People who are living with long covid'
 content_area:
   -
     type: heading
@@ -28,28 +29,31 @@ content_area:
     content:
       -
         type: text
-        text: 'Creative Space is an 8-week workshop specifically aimed at young people aged 16-24, living with long covid. The aims of the programme are to connect people who are facing similar challenges and support mental health and wellbeing through engagement with creative activities.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The workshops will be run by local practitioners Emma Bernard (performer, writer, and director) and Rosy May (dancer, and content creator).'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Sessions will take place on '
+        text: 'Launched in January 2022, the series of online workshops offer valuable breathing space and peer support. In twice-weekly Zoom sessions, artist practitioners lead a range of optional activities that are '
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Zoom (online)'
+        text: free
       -
         type: text
-        text: ' on Saturday mornings from 10:30 to 11:30. This course will run from 11th Feb to 1st April 2023 and will include a mixture of:'
+        text: ' to take part in from the comfort of your own home.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Relax with a guided visual arts session, or learn breathing and singing exercises to help manage respiratory symptoms and lift your spirits.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'The twice-weekly sessions will run on:'
   -
     type: bullet_list
     content:
@@ -61,7 +65,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Content creation'
+                text: 'Tuesdays 13:30 - 14:30'
       -
         type: list_item
         content:
@@ -70,34 +74,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Visual arts & craft'
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Creative writing'
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Digital photography & film'
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Music & audio'
+                text: 'Thursdays 18:30 - 19:30'
   -
     type: paragraph
     content:
@@ -173,8 +150,8 @@ booking_link: 'https://coherearts.org/home/projects/creativespace/'
 cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
-  [creativespace@coherearts.org](mailto:creativespace@coherearts.org)
+  [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674474486
+updated_at: 1674480699
 ---
-Artist-led workshops for young people aged 16-24, affected by long Covid. Join in to meet people with similar challenges, learn new creative skills, or just drop by for a chat.
+Artist-led online workshops for people living with long Covid. Join in to meet people with similar challenges, learn new creative skills, or just drop by for a chat.
