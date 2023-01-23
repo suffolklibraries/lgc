@@ -1,5 +1,6 @@
 ---
 id: a3491237-2a9e-4b6f-b902-e73e80cfd4f1
+published: false
 blueprint: events
 title: 'Group A - Lowestoft'
 latitude: '52.456862524697534'
