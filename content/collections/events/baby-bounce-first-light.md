@@ -1,5 +1,6 @@
 ---
 id: 8be71362-2e02-4538-bf75-0a0d3ac27a82
+published: false
 blueprint: events
 title: 'First Light Festival - Baby Bounce on the Beach'
 event_categories:
