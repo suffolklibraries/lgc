@@ -1,5 +1,6 @@
 ---
 id: 7740d385-5591-4f69-a40f-55093e6dcd71
+published: false
 blueprint: events
 title: 'Verse Converse'
 event_categories:
