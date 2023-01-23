@@ -1,5 +1,6 @@
 ---
 id: 5de98e66-75c9-4fcd-91eb-bb63850f3086
+published: false
 blueprint: events
 title: 'Marvellous and Mischievous: Literature''s Young Rebels Exhibition'
 event_categories:
