@@ -1,5 +1,6 @@
 ---
 id: 3cb97740-3746-49d0-b674-729bf3b9a391
+published: false
 blueprint: events
 title: 'Friends Around The Table - Fast flavour for friends'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
