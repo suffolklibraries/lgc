@@ -1,5 +1,6 @@
 ---
 id: 18537ff1-e27e-497e-9fee-072fb846b4d1
+published: false
 blueprint: events
 title: 'Little Red Ipswich Town Trail'
 event_categories:
