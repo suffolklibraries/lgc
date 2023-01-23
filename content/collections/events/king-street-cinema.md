@@ -1,5 +1,6 @@
 ---
 id: 0717381b-77ff-459e-98a5-6046f7e7ec56
+published: false
 blueprint: events
 title: 'Welcome Back Ipswich - King Street Cinema'
 start_date: '2022-03-12 11:00'
