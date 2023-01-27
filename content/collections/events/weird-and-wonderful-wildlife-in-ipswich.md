@@ -41,6 +41,26 @@ content_area:
         type: text
         text: 'It is usual for us to think we have to venture into the countryside to see wildlife, but this is not necessarily so. In Ipswich’s magnificent parks, and even in some of its more urban areas it is possible to see an amazing variety of wildlife. Lucy will show some of the items she has found and hopefully encourage you to go and look too.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkwildlifetrust.org/events/2023-02-22-weird-and-wonderful-wildlife-ipswich'
+              rel: null
+              target: null
+              title: null
+        text: 'Suffolk Wildlife Trust website'
+      -
+        type: text
+        text: ' for more information about the event. '
+  -
     type: heading
     attrs:
       level: 3
@@ -103,6 +123,9 @@ cta: |-
 
   [01473259674](tel:01473259674)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674646824
+updated_at: 1674833583
+accessibility_information: |-
+  - Wheelchair access 
+  - Accessible toilets
 ---
 Join Lucy Shepard to find out more about the weird and wonderful wildlife that you can observe in Ipswich!
