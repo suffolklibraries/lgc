@@ -1,6 +1,5 @@
 ---
 id: f991a378-25cb-4c08-9f79-b5d89886356e
-published: false
 blueprint: events
 title: 'Lates: Pride in Suffolk''s Past'
 event_categories:
@@ -93,7 +92,7 @@ content_area:
         text: .
 booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
 cta: '[https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674833753
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1674839924
 ---
 Celebrate LGBT history month, by exploring the hidden histories of LGBTQ+ people in Suffolk's Past.
