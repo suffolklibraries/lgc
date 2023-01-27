@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Celebrate LGBTQ+ month in February and learn more about the hidden histories of LGBTQ+ people in Suffolk''s Past. The history of such communities is complicated yet interesting and revolutionary, so join The Hold to discover more and spend an evening with a group of friendly people. '
+        text: 'Celebrate LGBTQ+ month in February and learn more about the hidden histories of LGBTQ+ people in Suffolk''s Past. The history of such communities is complicated yet interesting and revolutionary, so join The Hold to discover more and spend an evening with a great group of people.'
   -
     type: heading
     attrs:
@@ -94,6 +94,6 @@ content_area:
 booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
 cta: '[https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674643975
+updated_at: 1674833753
 ---
 Celebrate LGBT history month, by exploring the hidden histories of LGBTQ+ people in Suffolk's Past.
