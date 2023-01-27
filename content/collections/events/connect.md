@@ -37,13 +37,13 @@ content_area:
     content:
       -
         type: text
-        text: "This event is designed for adults to attend alongside a support worker to be able to connect with nature through a variety of nature based activities and walks. Each session will run on the same routine of a walk followed by a sensory based nature activity. The sessions are very relaxed and all abilities are welcome as we use the blue\_accessible\_trail."
+        text: "This event is designed for adults to attend alongside a support worker to be able to connect with nature through a variety of nature based activities and walks. Each session will run on the same routine of a walk followed by a sensory based nature activity. The sessions are very relaxed and all abilities are welcome as the blue\_accessible\_trails are used."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Throughout the session we will take breaks where needed and at the end there will be a chance to sit and talk with a drink.'
+        text: 'Throughout the session, there will be breaks where needed and at the end, there will be a chance to sit and talk with a drink.'
   -
     type: paragraph
     content:
@@ -52,7 +52,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'The meeting point is at the Decking area'
+        text: 'The meeting point is at the Decking area.'
   -
     type: heading
     attrs:
@@ -116,7 +116,7 @@ cta: |-
 
   [01284728706](tel:01284728706)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674831087
+updated_at: 1674833306
 accessibility_information: |-
   - Wheelchair access 
   - Accessible toilet
