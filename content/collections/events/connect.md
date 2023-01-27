@@ -116,7 +116,7 @@ cta: |-
 
   [01284728706](tel:01284728706)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674829784
+updated_at: 1674831087
 accessibility_information: |-
   - Wheelchair access 
   - Accessible toilet
