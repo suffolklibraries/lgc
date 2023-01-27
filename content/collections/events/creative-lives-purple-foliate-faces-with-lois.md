@@ -91,6 +91,6 @@ cta: |-
 
   [01473563900](tel:01473563900)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674571836
+updated_at: 1674833864
 ---
 If your're over 60, visit Eastern Angles Centre for a creative session celebrating LGBTQ+ month!
