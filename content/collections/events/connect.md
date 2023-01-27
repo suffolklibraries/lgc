@@ -1,6 +1,5 @@
 ---
 id: 444691ee-8871-4fd4-a141-64704bde8cb0
-published: false
 blueprint: events
 title: CONNECT
 event_categories:
@@ -43,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Throughout the session, there will be breaks where needed and at the end, there will be a chance to sit and talk with a drink.'
+        text: 'Throughout the session, there will be breaks when necessary and at the end there will be a chance to sit and talk with a drink.'
   -
     type: paragraph
     content:
@@ -105,7 +104,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest station is Bury St Edmunds which is 6 miles away from the reserve. There are also two bus services which operate a service to Lackford village, number 16 and number 355. Both services can be picked up from the bus station (stand 3) or the railway station at Bury St Edmunds. There is a free cark park at the Lackford Lakes visitor centre but donations are welcome. '
+        text: 'The nearest station is Bury St Edmunds which is six miles away from the reserve. There are also two bus services which operate a service to Lackford village, number 16 and number 355. Both services can be picked up from the bus station (stand 3) or the railway station at Bury St Edmunds. There is a free cark park at the Lackford Lakes visitor centre but donations are welcome. '
   -
     type: paragraph
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2023-02-06-connect-6th-february'
@@ -115,8 +114,8 @@ cta: |-
   [lackford.learning@suffolkwildlifetrust.org](mailto:lackford.learning@suffolkwildlifetrust.org)
 
   [01284728706](tel:01284728706)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674833306
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1674839852
 accessibility_information: |-
   - Wheelchair access 
   - Accessible toilet
