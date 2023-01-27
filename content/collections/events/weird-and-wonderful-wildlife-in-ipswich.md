@@ -1,6 +1,5 @@
 ---
 id: e4094ec1-2fb5-47cd-9ab7-9c8d391f0d1a
-published: false
 blueprint: events
 title: 'Weird and wonderful wildlife in Ipswich'
 event_categories:
@@ -122,8 +121,8 @@ cta: |-
   [browncandw@gmail.com](mailto:browncandw@gmail.com)
 
   [01473259674](tel:01473259674)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674833583
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1674839888
 accessibility_information: |-
   - Wheelchair access 
   - Accessible toilets
