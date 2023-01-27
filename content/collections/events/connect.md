@@ -45,6 +45,15 @@ content_area:
         type: text
         text: 'Throughout the session we will take breaks where needed and at the end there will be a chance to sit and talk with a drink.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'The meeting point is at the Decking area'
+  -
     type: heading
     attrs:
       level: 3
@@ -93,6 +102,12 @@ content_area:
         text: 'How to get there'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest station is Bury St Edmunds which is 6 miles away from the reserve. There are also two bus services which operate a service to Lackford village, number 16 and number 355. Both services can be picked up from the bus station (stand 3) or the railway station at Bury St Edmunds. There is a free cark park at the Lackford Lakes visitor centre but donations are welcome. '
+  -
+    type: paragraph
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2023-02-06-connect-6th-february'
 cta: |-
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
@@ -101,5 +116,11 @@ cta: |-
 
   [01284728706](tel:01284728706)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674820348
+updated_at: 1674829784
+accessibility_information: |-
+  - Wheelchair access 
+  - Accessible toilet
+  - Baby changing facilities
+  - Disabled parking
 ---
+A bi-weekly group for adults with learning disabilities, exploring the local nature and wildlife!
