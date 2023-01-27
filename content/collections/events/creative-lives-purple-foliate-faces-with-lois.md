@@ -1,6 +1,5 @@
 ---
 id: e50bfd8b-1daf-4667-ac59-11d751bd4fae
-published: false
 blueprint: events
 title: 'Creative Lives: Purple Foliate Faces with Lois'
 event_categories:
@@ -90,7 +89,7 @@ cta: |-
   [hello@insideoutcommunity.com](mailto:hello@insideoutcommunity.com)
 
   [01473563900](tel:01473563900)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674833864
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1674839963
 ---
 If your're over 60, visit Eastern Angles Centre for a creative session celebrating LGBTQ+ month!
