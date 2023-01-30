@@ -1,5 +1,6 @@
 ---
 id: d713ab58-fea9-4169-9719-3329478cc58e
+published: false
 blueprint: events
 title: 'Woman 2 Woman'
 event_categories:
@@ -10,8 +11,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: Screenshot-2022-07-20-at-10.30.54.png
-start_date: '2023-01-26 12:30'
-end_date: '2023-01-26 14:00'
+start_date: '2023-02-09 12:30'
+end_date: '2023-02-09 14:00'
 free: true
 virtual: false
 attendance_information: '- Migrant, refugee and asylum-seeking women'
@@ -96,7 +97,7 @@ content_area:
   -
     type: paragraph
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674467694
+updated_at: 1675071177
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 Building confidence with radio skills
