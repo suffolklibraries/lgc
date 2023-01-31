@@ -83,6 +83,29 @@ content_area:
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
+        text: 'Limited copies available of the book '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: Manatomy
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' are available for loan at Ipswich Library or for Purchase from Dial Lane Books.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'James''s new collection '
       -
         type: text
@@ -93,15 +116,6 @@ content_area:
       -
         type: text
         text: ', exploring the nature of queerness, queerness of nature and queerness of "natural" masculinity, will be released by Nine Arches Press in June 2023.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Limited copies available of the book are available for loan at Ipswich Library or for Purchase from Dial Lane Books.'
   -
     type: heading
     attrs:
@@ -260,7 +274,7 @@ content_area:
 booking_link: 'https://www.eventbrite.co.uk/e/james-mcdermott-manatomy-tickets-524651636167'
 cta: '[https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1675164168
+updated_at: 1675178758
 accessibility_information: |-
   - Ramped/sloped access
   - Accessible toilet
