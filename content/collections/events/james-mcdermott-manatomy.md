@@ -50,13 +50,49 @@ content_area:
     content:
       -
         type: text
-        text: 'James is a widely published award winning poet and spoken word performer. His poetry books include ''Manatomy'' (Burning Eye Books), ''Erased'' (Polari Press) and ''Green Apple Red'' (Broken Sleep Books). '
+        text: 'James is a widely published award winning poet and spoken word performer. His poetry books include '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Manatomy
+      -
+        type: text
+        text: ' (Burning Eye Books), '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Erased
+      -
+        type: text
+        text: ' (Polari Press) and '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Green Apple Red'
+      -
+        type: text
+        text: ' (Broken Sleep Books). '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'James''s new collection ''Wild Life'', exploring the nature of queerness, queerness of nature and queerness of ''natural'' masculinity, will be released by Nine Arches Press in June 2023.'
+        text: 'James''s new collection '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Wild Life'
+      -
+        type: text
+        text: ', exploring the nature of queerness, queerness of nature and queerness of "natural" masculinity, will be released by Nine Arches Press in June 2023.'
   -
     type: paragraph
     content:
@@ -224,6 +260,6 @@ content_area:
 booking_link: 'https://www.eventbrite.co.uk/e/james-mcdermott-manatomy-tickets-524651636167'
 cta: '[https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1675163311
+updated_at: 1675163884
 ---
 A poetry film screening followed by a Q&A and reading of new poems from the artist.
