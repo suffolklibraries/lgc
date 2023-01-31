@@ -260,6 +260,17 @@ content_area:
 booking_link: 'https://www.eventbrite.co.uk/e/james-mcdermott-manatomy-tickets-524651636167'
 cta: '[https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1675163884
+updated_at: 1675164168
+accessibility_information: |-
+  - Ramped/sloped access
+  - Accessible toilet
+  - Baby changing facility
+  - Assistive listening
+latitude: '52.058720928795196'
+longitude: '1.1564167673755956'
+address_line_1: 'Ipswich County Library'
+address_line_2: 'Northgate St'
+town: Ipswich
+postcode: 'IP1 3DE'
 ---
 A poetry film screening followed by a Q&A and reading of new poems from the artist.
