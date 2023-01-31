@@ -21,7 +21,7 @@ attendance_information: 'All welcome'
 latitude: '52.058720928795196'
 longitude: '1.1564167673755956'
 address_line_1: 'Ipswich County Library'
-address_line_2: 'County Library, Northgate St'
+address_line_2: 'Northgate St'
 town: Ipswich
 postcode: 'IP1 3DE'
 content_area:
@@ -236,8 +236,8 @@ cta: |-
   [accesuffolk@gmail.com](mailto:accesuffolk@gmail.com)
 
   [077867614349](tel:077867614349)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1673022755
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1675164146
 accessibility_information: |-
   - Ramped/ Sloped access
   - Accessible toilet
