@@ -1,9 +1,0 @@
-name: 'Alex Holland'
-roles:
-  - editor
-id: 73585618-b2c6-4117-9078-fe4dcc123fca
-password_hash: $2y$10$f0VqFD6EsVeFODV2XN3IEOlgX5kNFyGYMHc1eRIE1PokwQxhMI4u6
-preferences:
-  collections:
-    events:
-      per_page: 500
