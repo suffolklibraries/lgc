@@ -14,7 +14,7 @@ start_date: '2023-02-10 10:30'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1675071407
+updated_at: 1675242717
 attendance_information: |-
   - All welcome
   - Older people
@@ -101,6 +101,6 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2023-03-10 11:30'
+end_date: '2023-02-10 11:30'
 ---
 Join Imogen Hayward and get involved in some seated yoga to get active, creative and connected!
