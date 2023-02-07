@@ -1,6 +1,5 @@
 ---
 id: 2ffb5bc8-84af-487a-bd2e-7d9572965fdd
-published: false
 blueprint: events
 title: 'James McDermott: Manatomy'
 event_categories:
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the Ipswich Library and celebrate LGBTQIA+ history month! The library will host an artist, James McDermott, which will showcase his poetry film '
+        text: 'Visit Ipswich County Library and celebrate LGBTQIA+ history month! The library will host an artist, James McDermott, which will showcase his poetry film '
       -
         type: text
         marks:
@@ -273,8 +272,8 @@ content_area:
         text: ', use IP1 3DH for Sat Navs.'
 booking_link: 'https://www.eventbrite.co.uk/e/james-mcdermott-manatomy-tickets-524651636167'
 cta: '[https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1675178758
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1675781525
 accessibility_information: |-
   - Ramped/sloped access
   - Accessible toilet
