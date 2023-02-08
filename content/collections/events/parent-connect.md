@@ -1,6 +1,5 @@
 ---
 id: 5a06b4f3-03c3-4e25-9bf3-ab6e537eb4fc
-published: false
 blueprint: events
 title: 'Parent Connect'
 event_categories:
@@ -13,9 +12,7 @@ start_date: '2023-02-11 11:00'
 end_date: '2023-02-11 12:00'
 free: true
 virtual: false
-attendance_information: |-
-  - Parents of children with additional needs and/or mental health challenges
-  - 18 +
+attendance_information: '- Parents of children with additional needs and/or mental health challenges'
 accessibility_information: |-
   - Covid-19 preventative measures in place
   - Seating available
@@ -118,7 +115,7 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [01502589726](tel:01502589726)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1675864890
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1675865580
 ---
 A friendly support group for parents of children with additional needs and/or mental health challenges.
