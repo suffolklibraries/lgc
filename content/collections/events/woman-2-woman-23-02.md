@@ -1,5 +1,6 @@
 ---
 id: ccd674f8-fc4e-405c-ae0d-2288aa242cbe
+published: false
 blueprint: events
 title: 'Woman 2 Woman'
 event_categories:
@@ -96,7 +97,7 @@ content_area:
   -
     type: paragraph
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676022207
+updated_at: 1676022452
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 Building confidence with radio skills
