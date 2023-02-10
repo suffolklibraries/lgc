@@ -4,10 +4,10 @@ blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
-start_date: '2023-02-01 14:00'
-end_date: '2023-02-01 16:00'
+start_date: '2023-02-22 14:00'
+end_date: '2023-02-22 16:00'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674463335
+updated_at: 1676020105
 free: true
 virtual: false
 organisers:
