@@ -1,13 +1,14 @@
 ---
 id: fad4cf6e-1af7-46eb-9d10-59b8e4db158a
+published: false
 blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674463069
+updated_at: 1676019898
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
-start_date: '2023-02-03 14:00'
+start_date: '2023-02-24 14:00'
 event_categories:
   - later-life
   - dance
@@ -137,6 +138,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £5.50
-end_date: '2023-02-03 15:30'
+end_date: '2023-02-24 15:30'
 ---
 A weekly dance class for everyone over 55, Stow Movers classes are designed to benefit you both mentally and physically.
