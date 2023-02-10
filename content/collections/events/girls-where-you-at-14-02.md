@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2023-02-21 17:00'
-end_date: '2023-02-21 19:00'
+start_date: '2023-02-14 17:00'
+end_date: '2023-02-14 19:00'
 free: true
 virtual: false
 attendance_information: '- 12-19 year old girls'
@@ -107,7 +107,7 @@ content_area:
         type: text
         text: 'Booking is not required.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676021448
+updated_at: 1676022362
 cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
 ---
 A programme of building confidence in girls, with exciting media workshops.
