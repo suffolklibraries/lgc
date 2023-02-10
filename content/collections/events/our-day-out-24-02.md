@@ -1,5 +1,6 @@
 ---
 id: d5cdeb93-2a34-4e5d-8aed-9f3272b53f41
+published: false
 blueprint: events
 title: 'Our Day Out - Sessions for Seniors'
 event_categories:
@@ -10,8 +11,8 @@ event_categories:
 organisers:
   - creative-arts-east
 featured_image: Our-day-out---Creative-arts-east.PNG
-start_date: '2023-01-27 14:00'
-end_date: '2023-01-27 16:00'
+start_date: '2023-02-24 14:00'
+end_date: '2023-02-24 16:00'
 free: true
 virtual: false
 attendance_information: '- Older people'
@@ -151,7 +152,7 @@ content_area:
         type: text
         text: ' on Water Lane is the closest bus stop, which is only a 5-minute walk. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674467979
+updated_at: 1676022737
 cta: |-
   [https://www.creativeartseast.co.uk/](https://www.creativeartseast.co.uk/)
 
