@@ -1,6 +1,5 @@
 ---
 id: 7ebd1ed4-99f3-42a6-a7af-2a41a3f387bb
-published: false
 blueprint: events
 title: 'Warm Wednesdays - After School Storytime'
 event_categories:
@@ -116,7 +115,7 @@ cta: |-
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638667314](tel:01638667314)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676282752
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1676286631
 ---
 Visit the National Horse Racing Museum, for a fun family session of crafts, snacks and stories, happening every Wednesday!
