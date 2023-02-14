@@ -41,7 +41,16 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the National Horse Racing Museum for stories, snacks, and creative activities, running every Wednesday afternoon, during term time. This is a great opportunity for families to spend time together and get creative!'
+        text: 'Join the National Horse Racing Museum for stories, snacks, and creative activities, running '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'every Wednesday afternoon, during term time.'
+      -
+        type: text
+        text: ' This is a great opportunity for families to spend time together and get creative!'
   -
     type: paragraph
     content:
@@ -82,7 +91,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Please note: Admission for ‘Warm Wednesdays’ does not include general access to the museum.'
+        text: 'Please note: Admission for ‘Warm Wednesdays’ does not include general access to the museum. '
   -
     type: heading
     attrs:
@@ -115,7 +124,7 @@ cta: |-
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638667314](tel:01638667314)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1676286631
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1676362601
 ---
 Visit the National Horse Racing Museum, for a fun family session of crafts, snacks and stories, happening every Wednesday!
