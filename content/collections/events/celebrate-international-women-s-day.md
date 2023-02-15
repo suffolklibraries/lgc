@@ -41,7 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The speakers are L﻿iliana Antunes, D﻿eborah Benson, C﻿raig Jones, J﻿enny Butler and E﻿lma Glasgow. To find out more about the speakers visit the event''s '
+        text: 'The speakers are L﻿iliana Antunes, D﻿eborah Benson, C﻿raig Jones, J﻿enny Butler and E﻿lma Glasgow. To find out more about the speakers visit this '
       -
         type: text
         marks:
@@ -78,7 +78,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book a space, visit the event''s '
+        text: 'To book a space, visit this '
       -
         type: text
         marks:
@@ -155,6 +155,6 @@ cta: |-
 
   [01473338000](tel:01473338000)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676302395
+updated_at: 1676467545
 ---
-Come along and experience inspiring keynote speakers  that will share their personal experiences and offer powerful advice on how to fulfil your potential as a woman in business.
+Come along and experience inspiring keynote speakers that will share their personal experiences and offer powerful advice on how to fulfil your potential as a woman in business.
