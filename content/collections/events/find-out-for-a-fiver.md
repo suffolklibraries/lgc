@@ -1,6 +1,5 @@
 ---
 id: 64530298-9690-4f8c-98e8-d85383ca5fe1
-published: false
 blueprint: events
 title: 'Find Out For a Fiver'
 event_categories:
