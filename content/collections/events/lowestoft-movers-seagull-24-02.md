@@ -4,9 +4,9 @@ blueprint: events
 title: 'Lowestoft Movers - Seagull Theatre'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667574917
-start_date: '2022-11-17 10:00'
-end_date: '2022-11-17 11:30'
+updated_at: 1676974484
+start_date: '2023-02-24 10:00'
+end_date: '2023-02-24 11:15'
 event_categories:
   - dance
   - later-life
@@ -31,13 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers is a gentle movement class for over 55s. Held every Thursday at 12:20pm - 13:40pm at St Margaret''s Hall and every Friday at 10am - 11:30am at The Seagull Theatre. '
+        text: 'Lowestoft Movers is a gentle movement class for over 55s, held every Friday at 10am - 11:15am at The Seagull Theatre. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The session is led by experienced dance artists, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and – most importantly – have fun! Tea and biscuits are also included! '
+        text: 'The session is led by an experienced dance artist, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and most importantly have fun! Tea and biscuits are also included! '
   -
     type: paragraph
     content:
@@ -99,13 +99,35 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft movers meets at St Margaret''s Hall and The Seagull Theatre in Lowestoft.'
-  -
-    type: paragraph
-    content:
+        text: 'Lowestoft movers meets at St Margaret''s Hall and The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest '
       -
         type: text
-        text: 'Both venues have double doors for those that have accessibility needs. '
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Kendal+Road/@52.4576983,1.7353206,19.01z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da1a4971b973c9:0x2c84b33fec5a721b!2sKendal+Road,+Lowestoft+NR33+0PD!2m2!1d1.7355958!2d52.4583896!1m6!1m2!1s0x47da1a4994894eb3:0x507aba8852d97178!2sThe+Seagull,+19-75+Morton+Rd,+Pakefield,+Lowestoft+NR33+0JH!2m2!1d1.7356033!2d52.4566925!3e2!3m5!1s0x47da1a497726cb69:0xa3de9b97c36f9552!8m2!3d52.458103!4d1.735413!16s%2Fg%2F1q67ckbl6'
+              rel: null
+              target: null
+              title: null
+        text: 'bus stop'
+      -
+        type: text
+        text: ' is only three minutes away; routes that stop there: 99 Coastal Clipper, X2 Coastlink, 902 and X21 Coastlink. The closest parking is '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Pakefield+St+Car+Park/@52.4572396,1.7325911,17.25z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da1a4971b973c9:0x2c84b33fec5a721b!2sKendal+Road,+Lowestoft+NR33+0PD!2m2!1d1.7355958!2d52.4583896!1m6!1m2!1s0x47da1a4994894eb3:0x507aba8852d97178!2sThe+Seagull,+19-75+Morton+Rd,+Pakefield,+Lowestoft+NR33+0JH!2m2!1d1.7356033!2d52.4566925!3e2!3m5!1s0x47da1b5e1c31d843:0x69c464699df856ce!8m2!3d52.4557954!4d1.7376769!16s%2Fg%2F11frs3mqjx'
+              rel: null
+              target: null
+              title: null
+        text: 'Pakefield St Car Park'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -160,7 +182,7 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £5
+cost_details: £4
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
