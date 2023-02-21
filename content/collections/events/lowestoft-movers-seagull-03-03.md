@@ -1,12 +1,13 @@
 ---
 id: 58019023-c375-4b65-a101-5d2d600af7e9
+published: false
 blueprint: events
-title: 'Lowestoft Movers - Seagull Theatre (Duplicated)'
+title: 'Lowestoft Movers - Seagull Theatre'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676974484
-start_date: '2023-02-24 10:00'
-end_date: '2023-02-24 11:15'
+updated_at: 1676974546
+start_date: '2023-03-03 10:00'
+end_date: '2023-03-03 11:15'
 event_categories:
   - dance
   - later-life
