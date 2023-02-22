@@ -1,5 +1,6 @@
 ---
 id: 07610d0b-868b-4cfe-95cc-033e683ea8ef
+published: false
 blueprint: events
 title: 'South Street Kids'
 event_categories:
@@ -10,8 +11,8 @@ event_categories:
 organisers:
   - out-loud-music
 featured_image: offthepressimages/new_resized_images/Music_singing.png
-start_date: '2023-03-18 11:00'
-end_date: '2023-02-18 12:30'
+start_date: '2023-03-11 11:00'
+end_date: '2023-02-11 12:30'
 free: true
 virtual: false
 attendance_information: '8-12 years'
@@ -73,6 +74,6 @@ cta: |-
 
   or e-mail [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676021061
+updated_at: 1677079019
 ---
 South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people.
