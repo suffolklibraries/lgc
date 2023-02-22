@@ -1,7 +1,7 @@
 ---
 id: 9e9b3ddd-adeb-45d3-b409-a0bc7f21fac6
 blueprint: events
-title: 'Woman 2 Woman (Duplicated)'
+title: 'Woman 2 Woman'
 event_categories:
   - community
   - languages
@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: Screenshot-2022-07-20-at-10.30.54.png
-start_date: '2023-03-02 12:30'
-end_date: '2023-03-02 14:00'
+start_date: '2023-02-23 12:30'
+end_date: '2023-02-23 14:00'
 free: true
 virtual: false
 attendance_information: '- Migrant, refugee and asylum-seeking women'
@@ -147,7 +147,7 @@ content_area:
         type: text
         text: ', which is one minute away from The Hive.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677058710
+updated_at: 1677058845
 cta: |-
   [https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)
 
