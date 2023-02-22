@@ -176,9 +176,37 @@ content_area:
         text: 'see the timetables on the Greater Anglia website'
       -
         type: text
-        text: '. '
+        text: '. If you are coming by car, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Whapload+Rd+Car+Park/@52.4779535,1.7557321,17.94z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47da1b02b812fae1:0xd26c7e521f9a19d!2sWhapload+Rd+Car+Park,+Lowestoft+NR32+1EQ!2m2!1d1.7559638!2d52.4777866!1m6!1m2!1s0x47da1bafb27065f5:0x80d844dfebe2923b!2sThe+Grit,+Lowestoft+Arts+and+Heritage+Centre,+Old+Nelson+St,+Lowestoft+NR32+1EQ!2m2!1d1.7556632!2d52.4783306!3e3!3m4!1s0x47da1b02b812fae1:0xd26c7e521f9a19d!8m2!3d52.4777866!4d1.7559638'
+              rel: null
+              target: null
+              title: null
+        text: 'Whapload Road car park'
+      -
+        type: text
+        text: ' is the closest parking to The Grit. Alternatively, there is a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Lowestoft/@52.4776198,1.7531312,17.17z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47da1bafb27065f5:0x80d844dfebe2923b!2sThe+Grit,+Lowestoft+Arts+and+Heritage+Centre,+Old+Nelson+Street,+Lowestoft!2m2!1d1.7556632!2d52.4783306!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3e3!3m4!1s0x47da1af56d372b2b:0x7065be204d63f941!8m2!3d52.4773506!4d1.7519173'
+              rel: null
+              target: null
+              title: null
+        text: 'bus and coach station'
+      -
+        type: text
+        text: ' five minutes away, with a large range of bus routes around Suffolk.  '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676993573
+updated_at: 1677062208
 event_categories:
   - community
   - activity
