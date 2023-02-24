@@ -147,7 +147,7 @@ content_area:
         type: text
         text: ', which is one minute away from The Hive.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677058871
+updated_at: 1677236843
 cta: |-
   [https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)
 
