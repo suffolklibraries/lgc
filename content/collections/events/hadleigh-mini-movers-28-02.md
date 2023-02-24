@@ -4,7 +4,7 @@ blueprint: events
 title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677079602
+updated_at: 1677235370
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
 start_date: '2023-02-28 09:15'
@@ -43,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This weekly class will run every Tuesday from 20 September, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.'
+        text: 'This weekly class will run every Tuesday, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.'
   -
     type: paragraph
     content:
