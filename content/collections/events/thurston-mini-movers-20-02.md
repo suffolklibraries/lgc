@@ -1,13 +1,14 @@
 ---
 id: def92f2f-973d-4220-8242-5adb102445a4
+published: false
 blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676019547
+updated_at: 1677235040
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
-start_date: '2023-02-20 13:30'
+start_date: '2023-03-06 10:00'
 event_categories:
   - dance
   - early-years
@@ -43,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This weekly class will run every Tuesday from 5 September, 1.30pm – 3pm (changing to 10-11.30am from 31 October) at Thurston Library. The session includes half an hour at the end for refreshments and socialising.'
+        text: 'This weekly class will run every Tuesday from 5 September from 10.00am to 11.30am at Thurston Library. The session includes half an hour at the end for refreshments and socialising.'
   -
     type: paragraph
     content:
@@ -134,6 +135,6 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-end_date: '2023-02-20 15:00'
+end_date: '2023-03-06 11:30'
 ---
 Early Years movement classes, ideal for toddlers and their grown-ups!
