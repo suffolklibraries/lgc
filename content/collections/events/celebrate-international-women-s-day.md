@@ -154,6 +154,6 @@ cta: |-
 
   [01473338000](tel:01473338000)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1676969535
+updated_at: 1677443577
 ---
 Come along and experience inspiring keynote speakers that will share their personal experiences and offer powerful advice on how to fulfil your potential as a woman in business.
