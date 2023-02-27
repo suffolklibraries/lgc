@@ -1,6 +1,5 @@
 ---
 id: 27e08868-2cbf-46d2-98de-93265309f567
-published: false
 blueprint: events
 title: 'We are here'
 start_date: '2023-03-02 18:00'
@@ -206,7 +205,7 @@ content_area:
         type: text
         text: ' five minutes away, with a large range of bus routes around Suffolk.  '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677062208
+updated_at: 1677509707
 event_categories:
   - community
   - activity
