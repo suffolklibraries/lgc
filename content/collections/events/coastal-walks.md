@@ -1,7 +1,7 @@
 ---
 id: 0ecc2e57-d1d2-4084-962f-52bd6a35ce50
 blueprint: events
-title: 'Family walks (Duplicated)'
+title: 'Community coastal walk'
 event_categories:
   - family-friendly
   - activity
@@ -9,9 +9,9 @@ event_categories:
   - dance
 organisers:
   - the-art-station
-featured_image: Walks---Saxmundham.PNG
+featured_image: Coastal-walks.PNG
 start_date: '2023-03-04 10:00'
-end_date: '2023-04-01 12:30'
+end_date: '2023-03-04 13:00'
 free: true
 cost_details: 'Donations welcome'
 virtual: false
@@ -36,61 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join artist Anna Ilsley on five gentle walks around the Saxmundham local area with a creative session at The Art Station afterward, materials provided. The walk starts at The Art Station building (yellow doors), please ensure that children are accompanied by adults/carers at all times. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The walking sessions will run of the following dates:'
-  -
-    type: bullet_list
-    content:
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '4th March'
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '11th March'
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '18th March'
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '25th March'
-      -
-        type: list_item
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: '1st April'
+        text: 'A gentle community coastal walk with an informative creative session led by artist Jevan Watkins Jones. Materials and free transport to the East Suffolk Coast will be provided. The meeting point is at The Art Station (yellow doors). '
   -
     type: heading
     attrs:
@@ -204,12 +150,16 @@ content_area:
         type: text
         text: '. '
 cta: |-
-  [www.theartstation.uk/event/family-walks/](www.theartstation.uk/event/family-walks/)
+  [https://theartstation.uk/event/community-coastal-walks-suffolk/](https://theartstation.uk/event/community-coastal-walks-suffolk/)
 
   [info@theartstation.uk](mailto:info@theartstation.uk)
 
   [07927770421](tel:07927770421)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677586667
+updated_at: 1677588471
+accessibility_information: |-
+  - Dementia friendly 
+  - Autism friendly 
+  - Outdoor venue
 ---
-Gentle walks around Saxmundham area with a creative session afterwards
+Free coastal walk led by artist Jevan Watkins Jones
