@@ -11,7 +11,7 @@ event_categories:
 organisers:
   - the-art-station
 featured_image: Walks---Saxmundham.PNG
-start_date: '2023-02-25 10:00'
+start_date: '2023-03-04 10:00'
 end_date: '2023-04-01 12:30'
 free: true
 cost_details: 'Donations welcome'
@@ -211,6 +211,6 @@ cta: |-
 
   [07927770421](tel:07927770421)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677586332
+updated_at: 1677586533
 ---
 Gentle walks around Saxmundham area with a creative session afterwards
