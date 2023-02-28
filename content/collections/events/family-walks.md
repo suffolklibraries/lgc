@@ -1,6 +1,5 @@
 ---
 id: 8ea3fd28-78db-4d2e-9c5b-cb903eab9687
-published: false
 blueprint: events
 title: 'Family walks'
 event_categories:
