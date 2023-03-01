@@ -1,6 +1,5 @@
 ---
 id: 5ea6ac3a-f520-4db7-a7ba-e51ce40a10be
-published: false
 blueprint: events
 title: 'Pre-loved clothing sale and fashion show'
 start_date: '2023-03-08 20:40'
