@@ -1,6 +1,5 @@
 ---
 id: 0fea650a-626f-4627-a283-d478c3059077
-published: false
 blueprint: events
 title: WAMFest
 event_categories:
