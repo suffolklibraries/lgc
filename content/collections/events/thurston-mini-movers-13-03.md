@@ -1,14 +1,13 @@
 ---
 id: def92f2f-973d-4220-8242-5adb102445a4
-published: false
 blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677235040
+updated_at: 1677677842
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
-start_date: '2023-03-06 10:00'
+start_date: '2023-03-13 10:00'
 event_categories:
   - dance
   - early-years
@@ -135,6 +134,6 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-end_date: '2023-03-06 11:30'
+end_date: '2023-03-13 11:30'
 ---
 Early Years movement classes, ideal for toddlers and their grown-ups!
