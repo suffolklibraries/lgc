@@ -13,8 +13,8 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: First-Light-Festival-credit-Mykola-Romanovsky-(1).JPG
-start_date: '2023-06-17 08:00'
-end_date: '2023-06-18 17:00'
+start_date: '2023-06-17 12:00'
+end_date: '2023-06-18 16:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
@@ -50,6 +50,15 @@ content_area:
       -
         type: text
         text: 'With plenty to do for all ages, First Light Festival is a welcoming community gathering that celebrates shared experiences under Suffolk’s midsummer sun.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'The festival will be running from 12:00-21:30 on Saturday and 10:00-16:00 on Sunday, with a dawn programme on the Sunday morning from 03:30-05:00.'
   -
     type: heading
     attrs:
@@ -122,6 +131,6 @@ content_area:
         text: ' which is only a three-minute walk from the beach. '
 cta: '[https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677579768
+updated_at: 1677840100
 ---
 Join the exciting free beach festival celebrating midsummer on Lowestoft’s South Beach!
