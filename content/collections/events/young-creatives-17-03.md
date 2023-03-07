@@ -8,8 +8,8 @@ event_categories:
   - dance
 organisers:
   - inside-out-community
-start_date: '2023-03-03 16:00'
-end_date: '2023-03-03 18:00'
+start_date: '2023-03-17 16:00'
+end_date: '2023-03-17 18:00'
 free: true
 virtual: false
 attendance_information: '18-25 year olds'
@@ -227,7 +227,7 @@ cta: |-
 
   [01473563900](tel:01473563900)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677139801
+updated_at: 1678182317
 featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
 accessibility_information: |-
   - Ramped/Sloped access
