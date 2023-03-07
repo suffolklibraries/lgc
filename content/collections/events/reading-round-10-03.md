@@ -39,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Reading Round is a free, weekly literary discussion group led by local author Louise Millar for the Royal Literary Fund. It takes place during the school term, on Friday afternoons in the Wolsey Room, from 1.45pm till 3.15pm.'
+        text: 'Reading Round is a free, weekly literary discussion group led by local author Louise Millar for the Royal Literary Fund. It takes place during the school term, on Friday afternoons in the Chaucer Room, from 1.45pm till 3.15pm.'
   -
     type: paragraph
     content:
@@ -90,12 +90,6 @@ content_area:
           -
             type: italic
         text: '‘It’s so enjoyable to be read to ­– to just sit back and listen to a story’.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Reading Round starts 9 September, 2022.'
   -
     type: paragraph
     content:
@@ -240,6 +234,6 @@ content_area:
         text: " near the venue, the closest is\_at Tower Ramparts, use IP1 3DH for Sat Navs."
 cta: 'To book a place, e-mail Louise on e-mail [mailto:louise.millar@rlfeducation.org.uk ](mailto:louise.millar@rlfeducation.org.uk )'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677687043
+updated_at: 1678203699
 ---
 A reading group with a difference!
