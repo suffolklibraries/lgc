@@ -1,6 +1,5 @@
 ---
 id: 7fcdad94-d2b6-4223-b2d2-101e00869803
-published: false
 blueprint: events
 title: 'New Gen'
 event_categories:
