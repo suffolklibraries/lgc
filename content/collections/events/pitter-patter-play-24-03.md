@@ -1,12 +1,13 @@
 ---
 id: 251bbfde-01d7-4af7-9186-2e5ce2f2849d
+published: false
 blueprint: events
 title: 'Pitter Patter Play'
 event_categories:
   - early-years
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2023-03-03 13:30'
-end_date: '2023-03-03 14:30'
+start_date: '2023-03-24 13:30'
+end_date: '2023-03-24 14:30'
 free: true
 virtual: false
 attendance_information: 'Guardians with under ones'
@@ -80,6 +81,6 @@ cta: |-
 
   [https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0](https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677140287
+updated_at: 1678182068
 ---
 Sensory and messy play for under ones and a chance to meet other parents.
