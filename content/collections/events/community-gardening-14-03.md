@@ -1,13 +1,12 @@
 ---
 id: 8835080e-35a1-4f5b-b569-ad57e90d00bf
-published: false
 blueprint: events
 title: 'Community Gardening Club'
-start_date: '2022-11-29 10:00'
+start_date: '2023-03-14 10:00'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1668597709
+updated_at: 1678369963
 event_categories:
   - art
   - nature
@@ -16,7 +15,7 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-end_date: '2022-11-29 12:00'
+end_date: '2023-03-14 12:00'
 latitude: '52.06356401835797'
 longitude: '1.1373199705972623'
 address_line_1: 'Eastern Angles Centre'
@@ -145,7 +144,7 @@ content_area:
         text: '01473 211498'
       -
         type: text
-        text: .
+        text: '. '
   -
     type: paragraph
 cta: |-
@@ -156,5 +155,6 @@ cta: |-
   [jon@easternangles.co.uk](mailto:jon@easternangles.co.uk)
 
   [ 01473 211498](tel:01473211498)
+attendance_information: 'All welcome'
 ---
 Love the outdoors and want to meet new people? Then why not join Eastern Angles and their community gardening club?
