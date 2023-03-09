@@ -7,7 +7,7 @@ event_categories:
   - primary-school-age
 organisers:
   - rock-paper-scissors
-featured_image: miscellaneous/saturday-art-club.jfif
+featured_image: RPS-Saturday-Art-Club.PNG
 start_date: '2023-03-11 10:00'
 free: false
 virtual: false
@@ -132,7 +132,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678351670
+updated_at: 1678352297
 end_date: '2023-03-11 11:30'
 cost_details: £6
 attendance_information: '5 - 10 years'
