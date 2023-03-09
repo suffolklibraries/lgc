@@ -8,7 +8,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: miscellaneous/saturday-art-club.jfif
-start_date: '2023-02-11 10:00'
+start_date: '2023-03-11 10:00'
 free: false
 virtual: false
 latitude: '52.05631725971396'
@@ -56,33 +56,20 @@ content_area:
               title: null
         text: team@rockpaperscissors.org.uk
   -
-    type: heading
-    attrs:
-      level: 3
+    type: paragraph
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'Chat to Lulu if you are interested in working towards an Arts Award qualification. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Dove studio is located near Suffolk New College. The closest '
-      -
-        type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/place/Dove+Street/@52.0564079,1.1642675,19.92z/data=!4m12!1m6!3m5!1s0x47d99f35294949e1:0x9c13a67991806071!2sRock+Paper+Scissors+Arts!8m2!3d52.0562172!4d1.1647077!3m4!1s0x47d99f804eaffb61:0x713cff901aa263c9!8m2!3d52.056492!4d1.164362'
-              rel: null
-              target: null
-              title: null
-        text: 'bus stop'
-      -
-        type: text
-        text: ' is only a minute walk away and the closest parking is the College Car Park which is free after 18:00 on weekdays. '
+            type: bold
+        text: 'There are also afternoon Saturday Art Club sessions running from 2pm until 3.30pm.'
   -
     type: heading
     attrs:
@@ -111,15 +98,44 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get here'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Dove studio is located near Suffolk New College. The closest '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Dove+Street/@52.0564079,1.1642675,19.92z/data=!4m12!1m6!3m5!1s0x47d99f35294949e1:0x9c13a67991806071!2sRock+Paper+Scissors+Arts!8m2!3d52.0562172!4d1.1647077!3m4!1s0x47d99f804eaffb61:0x713cff901aa263c9!8m2!3d52.056492!4d1.164362'
+              rel: null
+              target: null
+              title: null
+        text: 'bus stop'
+      -
+        type: text
+        text: ' is only a minute walk away and the closest parking is the College Car Park which is free after 18:00 on weekdays. '
 booking_link: 'https://www.rockpaperscissors.org.uk/shop/sac'
 cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674464217
-end_date: '2023-02-11 11:30'
+updated_at: 1678351670
+end_date: '2023-03-11 11:30'
 cost_details: £6
 attendance_information: '5 - 10 years'
+accessibility_information: 'No wheelchair access'
 ---
 A weekly art club for 5-10 year olds - have creative fun and explore process art.
