@@ -4,10 +4,10 @@ blueprint: events
 title: 'Participate - Saxmundham'
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
-start_date: '2023-03-08 10:30'
-end_date: '2023-03-08 12:30'
+start_date: '2023-03-22 10:30'
+end_date: '2023-03-22 12:30'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677687200
+updated_at: 1678701718
 free: true
 virtual: false
 organisers:
