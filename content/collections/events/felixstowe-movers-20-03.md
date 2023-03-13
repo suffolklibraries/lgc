@@ -1,6 +1,5 @@
 ---
 id: fe52ce95-ae7f-4d4f-ba7c-2065430582db
-published: false
 blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
