@@ -10,7 +10,7 @@ start_date: '2023-03-26 13:00'
 free: false
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678800182
+updated_at: 1678802676
 organisers:
   - encoreeast
 featured_image: Dance-workshop-Dance-East.PNG
@@ -121,4 +121,4 @@ cta: |-
 
   [info@encoreeastdance.co.uk](mailto:info@encoreeastdance.co.uk)
 ---
-Visit the Jerwood Dance House for a fantastic 3-hour workshop with a proffesional dance artist, Ollie Robertston.
+Visit the Jerwood Dance House for a fantastic 3-hour workshop with a professional dance artist, Ollie Robertston.
