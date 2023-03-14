@@ -37,6 +37,6 @@ content_area:
         type: text
         text: 'Join the amazing drumming workshops run by the talented George Fothergill '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678809119
+updated_at: 1678810087
 ---
 If you aged 18-25, try the drumming workshop run by a professional drummer, George Fortergill.
