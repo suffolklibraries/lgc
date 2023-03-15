@@ -65,13 +65,22 @@ content_area:
     content:
       -
         type: text
-        text: "EAYC is a free programme for young people aged 13-17\_who are eligible for free school\_meals.\_If you're interested in taking part but are not eligible for free school meals, please do still get in touch with us."
+        marks:
+          -
+            type: bold
+        text: "This course will run from Monday 3 - Friday 14 April\_(weekdays only)\_from\_9.30am-2.30pm.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "We are able to offer financial support for transport and other expenses that may come up as a result of attending this programme. Please\_"
+        text: "EAYC is a free programme for young people aged 13-17\_who are eligible for free school\_meals.\_If you're interested in taking part but are not eligible for free school meals, please do still get in touch with Eastern Angles."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "There is a potential offer of additional financial support for transport and other expenses that may come up as a result of attending this programme. Please\_"
       -
         type: text
         marks:
@@ -96,7 +105,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: '01473 218202'
+        text: '01473218202'
       -
         type: text
         text: " to have a conversation about this available support.\_"
@@ -206,6 +215,6 @@ cta: |-
 
   [01473218202](tel:01473218202)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678875708
+updated_at: 1678876996
 ---
-Eastern Angles Young Creatives (EAYC) is a series of free creative and theatre-based programme for young people, this Spring they're delighted to launch their 13-17 strand which focusses on the themes of touring and performing!
+Eastern Angles Young Creatives (EAYC) is a series of free creative and theatre-based programme for young people, this Spring's programe is aimed at 13-17 year olds on the themes of touring and performing! **Book you space before the 20 March!**
