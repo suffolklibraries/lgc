@@ -133,7 +133,7 @@ content_area:
         type: text
         text: ' is the closest parking, only one minute away from the venue. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678890492
+updated_at: 1678890654
 cta: |-
   [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/)
 
@@ -141,4 +141,4 @@ cta: |-
 
   [01473563900](tel:01473563900)
 ---
-If you aged 18-25, come along and try the drumming workshop taster session run by a professional drummer, George Fortergill.
+If you aged 18-25, come along to a taster session, trying drumming with a proffesional, George Fortergill.
