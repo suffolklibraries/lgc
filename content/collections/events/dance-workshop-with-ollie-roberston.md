@@ -10,14 +10,14 @@ start_date: '2023-03-26 13:00'
 free: false
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678877308
+updated_at: 1678877406
 organisers:
   - encoreeast
 featured_image: Dance-workshop-Dance-East.PNG
 end_date: '2023-03-26 16:00'
 cost_details: 'Donations welcome'
 attendance_information: Adults
-accessibility_information: 'Wheelchair access'
+accessibility_information: '- Wheelchair access'
 latitude: '52.05279797624786'
 longitude: '1.155513054787186'
 address_line_1: 'Jerwood DanceHouse'
