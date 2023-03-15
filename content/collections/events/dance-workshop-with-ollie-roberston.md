@@ -10,7 +10,7 @@ start_date: '2023-03-26 13:00'
 free: false
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678802676
+updated_at: 1678877308
 organisers:
   - encoreeast
 featured_image: Dance-workshop-Dance-East.PNG
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Ollie Roberston for an exciting 3-hour open workshop, finding more about dance and trying out some fun moves yourself!'
+        text: 'Join Ollie Robertston for an exciting 3-hour open workshop, finding more about dance and trying out some fun moves yourself!'
   -
     type: paragraph
     content:
@@ -72,7 +72,7 @@ content_area:
         text: 'this Eventbrite listing'
       -
         type: text
-        text: '. Pay what you can but a donation is £15 is suggested for those that are able to support. '
+        text: '. Pay what you can but a donation of £15 is suggested for those that are able to support. '
   -
     type: heading
     attrs:
