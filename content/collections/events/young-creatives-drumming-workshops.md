@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the amazing drumming workshop taster session on the 1 April, run by the talented George Fothergill. You will learn new music skills, meet like-minded people and have a lot of fun exploring drumming techniques. If you enjoy the taster session, why not come along to the other drumming workshops running on:'
+        text: 'Join this amazing drumming workshop taster session on the 1 April, run by the professional drummer George Fothergill. You will learn new music skills, meet like-minded people and have a lot of fun exploring drumming techniques. If you enjoy the taster session, why not come along to the other drumming workshops running on:'
   -
     type: bullet_list
     content:
@@ -133,7 +133,7 @@ content_area:
         type: text
         text: ' is the closest parking, only one minute away from the venue. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678890654
+updated_at: 1678895334
 cta: |-
   [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/)
 
@@ -141,4 +141,4 @@ cta: |-
 
   [01473563900](tel:01473563900)
 ---
-If you aged 18-25, come along to a taster session, trying drumming with a proffesional, George Fortergill.
+If you are aged 18-25, come along to a taster session, trying drumming with a professional, George Fothergill.
