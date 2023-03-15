@@ -1,6 +1,5 @@
 ---
 id: d75d8d3c-cd2d-41ed-b58b-48762c2d518b
-published: false
 blueprint: events
 title: 'Sea Spirit Making Workshop'
 event_categories:
@@ -60,6 +59,9 @@ content_area:
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: bold
                 text: '31 May 2023 from 10:30 to 12:30. '
   -
     type: heading
@@ -137,6 +139,6 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678873207
+updated_at: 1678878001
 ---
 Join in these free workshops and create sea spirit props to shake, wave and swirl at First Light’s Opening Parade in June.
