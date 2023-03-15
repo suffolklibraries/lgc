@@ -1,7 +1,7 @@
 ---
 id: ba2e3973-0ebc-4ca4-ad2c-ac224504de78
 blueprint: events
-title: 'Young Creatives - Drumming workshops taster session'
+title: 'Young Creatives - Drumming workshops'
 event_categories:
   - music
   - teen-and-young-adult
@@ -34,7 +34,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the amazing drumming workshops run by the talented George Fothergill. You will learn new music skills, meet like-minded people and have a lot of fun exploring drumming techniques. '
+        text: 'Join the amazing drumming workshop taster session on the 1 April, run by the talented George Fothergill. You will learn new music skills, meet like-minded people and have a lot of fun exploring drumming techniques. If you enjoy the taster session, why not come along to the other drumming workshops running on:'
+  -
+    type: bullet_list
+    content:
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Friday 12 May at 4:30 pm - 6:30 pm '
+      -
+        type: list_item
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Friday 7 July at 4:30 pm - 6:30 pm'
   -
     type: heading
     attrs:
@@ -112,7 +133,7 @@ content_area:
         type: text
         text: ' is the closest parking, only one minute away from the venue. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678889837
+updated_at: 1678890434
 cta: |-
   [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/)
 
