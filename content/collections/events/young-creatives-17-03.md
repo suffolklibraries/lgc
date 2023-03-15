@@ -33,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Start the year in a creative way with Young Creatives! These sessions for young people will include free arts and movement-based workshops led by artists every Friday, running from 13 January to 31 March (excluding 17 February, half term). In addition, there will be monthly online social meetups, to chat and enable connections. '
+        text: 'Start the year in a creative way with Young Creatives! These sessions for young people will include free arts and movement-based workshops led by artists every Friday, during term-time. In addition, there will be monthly online social meetups, to chat and enable connections. '
   -
     type: paragraph
     content:
@@ -227,7 +227,7 @@ cta: |-
 
   [01473563900](tel:01473563900)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678182317
+updated_at: 1678887309
 featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
 accessibility_information: |-
   - Ramped/Sloped access
