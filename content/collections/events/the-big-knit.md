@@ -1,6 +1,5 @@
 ---
 id: a24798f1-ef46-4d79-9370-830a1a2552f2
-published: false
 blueprint: events
 title: 'The Big Knit'
 event_categories:
@@ -138,6 +137,6 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678872299
+updated_at: 1678877784
 ---
 Gather your needles for a community knit-along as we create green and blue bunting to dress First Light Festival’s Opening Parade route.
