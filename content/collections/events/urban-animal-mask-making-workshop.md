@@ -1,6 +1,5 @@
 ---
 id: b4cd61f7-4630-45b8-bf95-b535a551a085
-published: false
 blueprint: events
 title: 'Urban Animal Mask Making Workshop'
 event_categories:
@@ -120,6 +119,6 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678873903
+updated_at: 1678878208
 ---
 Create your own urban animal mask to wear on the parade route and help welcome a very exciting visitor to Lowestoft.
