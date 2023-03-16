@@ -8,7 +8,7 @@ event_categories:
   - activity
 organisers:
   - inside-out-community
-featured_image: pexels-jadson-thomas-542553.jpg
+featured_image: eayc-performing-tour-flags-photo.JPG
 start_date: '2023-04-01 13:00'
 end_date: '2023-04-01 15:00'
 free: true
@@ -133,7 +133,7 @@ content_area:
         type: text
         text: ' is the closest parking, only one minute away from the venue. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678895334
+updated_at: 1678954612
 cta: |-
   [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/)
 
