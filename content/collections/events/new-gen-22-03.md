@@ -12,7 +12,7 @@ start_date: '2023-03-22 17:00'
 end_date: '2023-03-22 19:00'
 free: true
 virtual: false
-attendance_information: 'For ages 13-19'
+attendance_information: '- For ages 13-19'
 accessibility_information: |-
   -Wheelchair accessible
   -Autism friendly
@@ -42,19 +42,59 @@ content_area:
     content:
       -
         type: text
-        text: 'New Gen is for ages 13-19'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'New Gen takes place every Wednesday in term-time and pizza is provided every week!'
+        text: 'New Gen is for ages 13-19, taking place every Wednesday in term time and pizza is provided every week!'
   -
     type: paragraph
     content:
       -
         type: text
         text: 'It is held in an indoor venue: currently based in Punch Studios within the computer complex; head through the archway and head to the door immediately opposite. '
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to book '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please fill in this quick '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'Registration Form'
+      -
+        type: text
+        text: ' or email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:enquiries@outloudmusic.org'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: enquiries@outloudmusic.org
+      -
+        type: text
+        text: ' to book a place.'
   -
     type: heading
     attrs:
@@ -69,33 +109,12 @@ content_area:
       -
         type: text
         text: 'South Street Studios are located just off Norwich Road, the main road into Ipswich along which there are several nearby bus stops. '
-  -
-    type: table
-    content:
-      -
-        type: table_row
-        content:
-          -
-            type: table_cell
-            attrs:
-              colspan: 1
-              rowspan: 1
-              colwidth:
-                - 25
-              background: null
-            content:
-              -
-                type: heading
-                attrs:
-                  level: 3
 booking_link: 'https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form'
 cta: |-
-  To book you place
+  [https://www.outloudmusic.org/](https://www.outloudmusic.org/)
 
-  Book via [https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form](https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form)
-
-  or email [enquiries@outloudmusic.org](enquiries@outloudmusic.org)
+  [enquiries@outloudmusic.org](mailto:enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678181559
+updated_at: 1679303690
 ---
 An opportunity for young people to explore and develop new skills in music.
