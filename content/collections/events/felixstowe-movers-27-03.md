@@ -4,10 +4,10 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677687101
+updated_at: 1679300806
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
-start_date: '2023-03-13 13:00'
+start_date: '2023-03-27 13:00'
 event_categories:
   - later-life
   - dance
@@ -90,6 +90,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £5.00
-end_date: '2023-03-13 14:30'
+end_date: '2023-03-27 14:30'
 ---
 A weekly dance class for everyone over 55. Felixstowe Movers classes are designed to benefit you both mentally and physically.
