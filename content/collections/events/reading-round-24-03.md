@@ -9,8 +9,8 @@ organisers:
   - reading-round
   - suffolk-libraries
 featured_image: Screenshot-2022-08-11-at-14.24.18.png
-start_date: '2023-03-17 13:45'
-end_date: '2023-03-17 15:15'
+start_date: '2023-03-24 13:45'
+end_date: '2023-03-24 15:15'
 free: true
 virtual: false
 latitude: '52.058781626316694'
@@ -234,6 +234,6 @@ content_area:
         text: " near the venue, the closest is\_at Tower Ramparts, use IP1 3DH for Sat Navs."
 cta: 'To book a place, e-mail Louise on e-mail [mailto:louise.millar@rlfeducation.org.uk ](mailto:louise.millar@rlfeducation.org.uk )'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678203729
+updated_at: 1679300695
 ---
 A reading group with a difference!
