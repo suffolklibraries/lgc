@@ -2,11 +2,11 @@
 id: 8835080e-35a1-4f5b-b569-ad57e90d00bf
 blueprint: events
 title: 'Community Gardening Club'
-start_date: '2023-03-14 10:00'
+start_date: '2023-03-28 10:00'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678369963
+updated_at: 1679301907
 event_categories:
   - art
   - nature
@@ -15,7 +15,7 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-end_date: '2023-03-14 12:00'
+end_date: '2023-03-28 12:00'
 latitude: '52.06356401835797'
 longitude: '1.1373199705972623'
 address_line_1: 'Eastern Angles Centre'
@@ -48,7 +48,16 @@ content_area:
     content:
       -
         type: text
-        text: 'With tea and coffee provided, rest assured there will be plenty of chances to soak up the beautiful rewards of your work (and hopefully enjoy some of the homegrown fruits too!). '
+        text: 'With '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'tea and coffee provided'
+      -
+        type: text
+        text: ', rest assured there will be plenty of chances to soak up the beautiful rewards of your work (and hopefully enjoy some of the homegrown fruits too!). '
   -
     type: paragraph
     content:
@@ -56,53 +65,20 @@ content_area:
         type: text
         text: 'Eastern Angles are also on the look out for unwanted garden furniture, equipment and ideally, a shed!'
   -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
     type: paragraph
     content:
       -
         type: text
-        text: 'Join us at the Eastern Angles Centre, 10am-12pm every Tuesday and help us grow a green community in the heart of West Ipswich.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: ' For information about all the car parks in Ipswich town centre visit '
+        text: 'Join the Eastern Angles Centre from '
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://allaboutipswich.com/visiting/getting-to-ipswich-by-car'
-              rel: null
-              target: _blank
-              title: null
-        text: 'All About Ipswich'
+            type: bold
+        text: '10am-12pm every Tuesday'
       -
         type: text
-        text: ' and for the latest bus timetables visit '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk on Board'
-      -
-        type: text
-        text: .
+        text: ' and help grow a green community in the heart of West Ipswich.'
   -
     type: heading
     attrs:
@@ -146,7 +122,47 @@ content_area:
         type: text
         text: '. '
   -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'How to get here'
+  -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'For information about all the car parks in Ipswich town centre visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://allaboutipswich.com/visiting/getting-to-ipswich-by-car'
+              rel: null
+              target: _blank
+              title: null
+        text: 'All About Ipswich'
+      -
+        type: text
+        text: ' and for the latest bus timetables visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk on Board'
+      -
+        type: text
+        text: .
 cta: |-
   This event is run by Eastern Angles, for more information or to register interest please see below: 
 
@@ -155,6 +171,6 @@ cta: |-
   [jon@easternangles.co.uk](mailto:jon@easternangles.co.uk)
 
   [ 01473 211498](tel:01473211498)
-attendance_information: 'All welcome'
+attendance_information: '- All welcome'
 ---
 Love the outdoors and want to meet new people? Then why not join Eastern Angles and their community gardening club?
