@@ -1,13 +1,12 @@
 ---
 id: 5d3f6f95-bf14-4ede-a0ed-94c3523dd43d
-published: false
 blueprint: events
 title: 'Community Gardening Club'
 start_date: '2023-03-21 10:00'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679301759
+updated_at: 1679301948
 event_categories:
   - art
   - nature
@@ -70,7 +69,16 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the Eastern Angles Centre from 10am-12 pm every Tuesday and help us grow a green community in the heart of West Ipswich.'
+        text: 'Join the Eastern Angles Centre from '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '10am-12 pm every Tuesday'
+      -
+        type: text
+        text: ' and help grow a green community in the heart of West Ipswich.'
   -
     type: heading
     attrs:
