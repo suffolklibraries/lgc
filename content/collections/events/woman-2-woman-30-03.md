@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: Screenshot-2022-07-20-at-10.30.54.png
-start_date: '2023-03-16 12:30'
-end_date: '2023-03-16 14:00'
+start_date: '2023-03-30 12:30'
+end_date: '2023-03-30 14:00'
 free: true
 virtual: false
 attendance_information: '- Migrant, refugee and asylum-seeking women'
@@ -147,7 +147,7 @@ content_area:
         type: text
         text: ', which is one minute away from The Hive.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678784199
+updated_at: 1679325226
 cta: |-
   [https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)
 
