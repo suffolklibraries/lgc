@@ -64,7 +64,7 @@ content_area:
     content:
       -
         type: text
-        text: "All lunch boxes include a sandwich (veggie and vegan options are available), juice, fruit and crisps. \_Skip the queue and collect your lunch box from our café upon arrival. "
+        text: 'All lunch boxes include a sandwich (veggie and vegan options are available), juice, fruit and crisps. Skip the queue and collect your lunch box from our café upon arrival. '
   -
     type: paragraph
     content:
@@ -133,6 +133,6 @@ content_area:
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qzpaax&target=_BLANK'
 cta: '[https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679494492
+updated_at: 1679494668
 ---
 Join a fun and easter-themed crafts and arts session at The Hold!
