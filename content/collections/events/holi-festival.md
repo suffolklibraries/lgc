@@ -1,6 +1,5 @@
 ---
 id: e695fcfb-01c2-4ba5-86a5-70cb9a18952a
-published: false
 blueprint: events
 title: 'Holi Festival'
 organisers:
@@ -141,6 +140,6 @@ content_area:
         text: ' which travels between Ipswich city centre and the park via the 5 Foxhall Five bus route. '
 cta: '[https://www.ipswichentertains.co.uk/holi-festival/](https://www.ipswichentertains.co.uk/holi-festival/)'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679489436
+updated_at: 1679491176
 ---
 Join the community in Ipswich to celebrate Holi, the Hindu festival of colour!
