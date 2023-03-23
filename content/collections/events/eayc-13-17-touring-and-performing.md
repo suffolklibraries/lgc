@@ -214,6 +214,6 @@ cta: |-
 
   [01473218202](tel:01473218202)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678892755
+updated_at: 1679574218
 ---
-Eastern Angles Young Creatives (EAYC) is a series of free creative and theatre-based programme for young people, this Spring's programe is aimed at 13-17 year olds on the themes of touring and performing! **Book you space before the 20 March!**
+Eastern Angles Young Creatives (EAYC) is a series of free creative and theatre-based programme for young people, this Spring's programe is aimed at 13-17 year olds on the themes of touring and performing! **Book you space before the 29 March!**
