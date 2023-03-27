@@ -52,7 +52,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Also, if you decide to stay at the Cock Horse for some food, children eat FREE all Easter holidays!'
+        text: 'If you decide to stay at the Cock Horse for some food, children eat FREE all Easter holidays!'
   -
     type: heading
     attrs:
@@ -128,6 +128,6 @@ cta: |-
 
   [01787827330](tel:01787827330)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679910427
+updated_at: 1679910503
 ---
 Come along and hunt around the garden for some hidden pictures to claim your free easter egg at the end.
