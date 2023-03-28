@@ -114,13 +114,15 @@ content_area:
         type: text
         text: ' website.'
 cta: |-
-  This event is organised by The Kirkley Family Hub
+  This event is organised by The Kirkley Family Hub:
 
-  [01473260358](01473260358)
+  [Infolink Suffolk](https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0)
 
-  [https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0](https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0)
+  [kirkley@suffolk.gov.uk](mailto:kirkley@suffolk.gov.uk)
+
+  [01502532740](tel:01502532740)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680012571
+updated_at: 1680013104
 organisers:
   - suffolk-county-council
 ---
