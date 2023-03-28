@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - out-loud-music
 featured_image: offthepressimages/Music_clear.png
-start_date: '2023-03-22 17:00'
-end_date: '2023-03-22 19:00'
+start_date: '2023-04-19 17:00'
+end_date: '2023-04-19 19:00'
 free: true
 virtual: false
 attendance_information: '- For ages 13-19'
@@ -115,6 +115,6 @@ cta: |-
 
   [enquiries@outloudmusic.org](mailto:enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679303690
+updated_at: 1679998952
 ---
 An opportunity for young people to explore and develop new skills in music.
