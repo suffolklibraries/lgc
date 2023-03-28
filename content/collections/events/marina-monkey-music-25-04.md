@@ -1,5 +1,6 @@
 ---
 id: e75bd90e-e76a-41e6-acb9-4262f5fa8486
+published: false
 blueprint: events
 title: 'Marina Monkey Music'
 event_categories:
@@ -9,8 +10,8 @@ event_categories:
 organisers:
   - marina-theatre
 featured_image: 278576907_163124276094747_2933283951480655461_n.jpg
-start_date: '2023-03-21 13:30'
-end_date: '2023-03-21 14:30'
+start_date: '2023-04-25 13:30'
+end_date: '2023-04-25 14:30'
 free: false
 cost_details: £5
 virtual: false
@@ -112,6 +113,6 @@ cta: |-
 
   Or call the Marina Theatre Box Office on 01502533200
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678181849
+updated_at: 1679999783
 ---
 An exploration of sound, music, stories and sensory play for little ones.
