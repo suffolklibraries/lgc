@@ -1,15 +1,16 @@
 ---
 id: 51d2f5da-3ce5-40a4-abab-ab14e956c247
+published: false
 blueprint: events
-title: 'Pitter Patter Play (Duplicated)'
+title: 'Pitter Patter Play'
 event_categories:
   - early-years
   - family-friendly
   - languages
   - parent-and-baby
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2023-03-31 13:30'
-end_date: '2023-03-31 14:30'
+start_date: '2023-04-07 13:30'
+end_date: '2023-04-07 14:30'
 free: true
 virtual: false
 attendance_information: '- Guardians with under ones'
@@ -120,7 +121,7 @@ cta: |-
 
   [https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0](https://infolink.suffolk.gov.uk/kb5/suffolk/infolink/service.page?id=j3FbQ-738P0)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680012571
+updated_at: 1680012653
 organisers:
   - suffolk-county-council
 ---
