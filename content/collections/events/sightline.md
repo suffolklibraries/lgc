@@ -1,6 +1,5 @@
 ---
 id: 12039fe5-9de5-4614-a1ac-a0470b3cc646
-published: false
 blueprint: events
 title: Sightline
 event_categories:
@@ -174,7 +173,9 @@ cta: |-
   [https://theartstation.uk/](https://theartstation.uk/)
 
   [info@theartstation.uk](mailto:info@theartstation.uk)
+
+  [07927770421](tel:07927770421)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680078162
+updated_at: 1680078289
 ---
 An exhibition of new work by recent graduates Melisa Novotna and Patrisiya Banova at The Art Station.
