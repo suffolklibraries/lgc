@@ -111,10 +111,12 @@ content_area:
         text: 'South Street Studios are located just off Norwich Road, the main road into Ipswich along which there are several nearby bus stops. '
 booking_link: 'https://sites.google.com/southstreetstudios.org/intranet/forms-and-questionnaires/south-street-studios-registration-form'
 cta: |-
+  This event is organised by Out Loud Music:
+
   [https://www.outloudmusic.org/](https://www.outloudmusic.org/)
 
   [enquiries@outloudmusic.org](mailto:enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680099539
+updated_at: 1680100184
 ---
 An opportunity for young people to explore and develop new skills in music.
