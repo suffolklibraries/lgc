@@ -76,21 +76,21 @@ content_area:
     content:
       -
         type: text
-        text: 'For information about all the car parks in Ipswich town centre visit '
+        text: 'There is a free car park on-site, which you can enter using the large blue gates located on the right-hand side of Gatacre Road. Other car parks nearby which are pay and display include: South Street Car Park (10 min walk to theatre), Portman Road Car Park (16 min walk to theatre). The closest '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://allaboutipswich.com/visiting/getting-to-ipswich-by-car'
+              href: 'https://www.google.co.uk/maps/place/Sir+John+Mills+Theatre/@52.0631843,1.1376062,19.75z/data=!4m12!1m6!3m5!1s0x47d9a1b5f34a8ddd:0xe05bc781d84ef4dd!2sEastern+Angles+Centre!8m2!3d52.0631422!4d1.13732!3m4!1s0x47d9a1b5f9a67d49:0x8856208cee78829a!8m2!3d52.063236!4d1.137275'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'All About Ipswich'
+        text: 'bus stop'
       -
         type: text
-        text: ' and for the latest bus timetables visit '
+        text: ' is one minute away, see the latest bus timetables '
       -
         type: text
         marks:
@@ -99,9 +99,9 @@ content_area:
             attrs:
               href: 'https://www.suffolkonboard.com/buses/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Suffolk on Board'
+        text: here
       -
         type: text
         text: .
@@ -115,6 +115,6 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680101039
+updated_at: 1680101415
 ---
 A safe space to do your homework and develop your education!
