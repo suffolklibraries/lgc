@@ -6,9 +6,8 @@ start_date: '2023-03-28 10:00'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679301907
+updated_at: 1680100623
 event_categories:
-  - art
   - nature
   - later-life
   - community
@@ -128,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to get there'
   -
     type: paragraph
     content:
