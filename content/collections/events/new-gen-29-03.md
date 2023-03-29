@@ -14,8 +14,8 @@ free: true
 virtual: false
 attendance_information: '- For ages 13-19'
 accessibility_information: |-
-  -Wheelchair accessible
-  -Autism friendly
+  - Wheelchair accessible
+  - Autism friendly
 latitude: '52.06165056203162'
 longitude: '1.1445342173331228'
 address_line_1: 'South Street Studios'
@@ -102,7 +102,7 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to get there'
   -
     type: paragraph
     content:
@@ -115,6 +115,6 @@ cta: |-
 
   [enquiries@outloudmusic.org](mailto:enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679303764
+updated_at: 1680099539
 ---
 An opportunity for young people to explore and develop new skills in music.
