@@ -107,12 +107,14 @@ content_area:
         text: .
 booking_link: 'https://easternangles.co.uk/event/homework-club#tab-0=dates-and-times'
 cta: |-
+  This event is organised by Eastern Angles:
+
   [https://easternangles.co.uk/event/homework-club](https://easternangles.co.uk/event/homework-club) 
 
   [homeworkclub@easternangles.co.uk](mailto:homeworkclub@easternangles.co.uk)
 
   [01473 211498](tel:01473211498)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679325313
+updated_at: 1680100962
 ---
 A safe space to do your homework and develop your education!
