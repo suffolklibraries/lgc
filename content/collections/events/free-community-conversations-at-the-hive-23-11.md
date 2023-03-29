@@ -18,7 +18,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -38,33 +38,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Free Community Conversations takes place at The Hive, IP1 2ET.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest Car Park is South Street Carpark, IP1 3NU'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The venue is on Norwich Road, one of the main roads into Ipswich, on which there are multiple bus stops.'
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -75,6 +49,34 @@ content_area:
       -
         type: text
         text: 'This is a drop in event so no booking is required.'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Community Conversations takes place at The Hive, IP1 2ET. The nearest Car Park is '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/South+Street+Car+Park/@52.0614782,1.1449496,15z/data=!4m6!3m5!1s0x47d9a1cc651fb90f:0x30a88646622494df!8m2!3d52.0614062!4d1.1448101!16s%2Fg%2F11c4580y6z'
+              rel: null
+              target: null
+              title: null
+        text: 'South Street Carpark'
+      -
+        type: text
+        text: ', IP1 3NU. The venue is on Norwich Road, one of the main roads into Ipswich, on which there are multiple bus stops.'
 cta: |-
   This event is run by The Hive, for more information please get in touch via:
 
@@ -82,7 +84,7 @@ cta: |-
 
   [07494 219836](tel:07494219836)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667575231
+updated_at: 1680101741
 event_categories:
   - community
   - languages
