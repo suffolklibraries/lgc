@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'South Street Kids'
 event_categories:
-  - art
   - music
   - activity
   - primary-school-age
@@ -108,7 +107,7 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to get there'
   -
     type: paragraph
     content:
@@ -121,6 +120,6 @@ cta: |-
 
   [enquiries@outloudmusic.org](mailto:enquiries@outloudmusic.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679999634
+updated_at: 1680099859
 ---
 South Street Kids is a free creative media, music, radio and art project providing weekly sessions for young people.
