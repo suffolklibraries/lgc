@@ -105,7 +105,7 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to get there'
   -
     type: paragraph
     content:
@@ -131,11 +131,15 @@ cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
+
+  [team@rockpaperscissors.org.uk](mailto:team@rockpaperscissors.org.uk)
+
+  [07759978149](tel:07759978149)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679301342
+updated_at: 1680169451
 end_date: '2023-04-01 11:30'
 cost_details: £6
 attendance_information: '5 - 10 years'
-accessibility_information: 'No wheelchair access'
+accessibility_information: '- No wheelchair access'
 ---
 A weekly art club for 5-10 year olds - have creative fun and explore process art.
