@@ -137,7 +137,7 @@ cta: |-
 
   [07759978149](tel:07759978149)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680170188
+updated_at: 1680175737
 end_date: '2023-07-15 11:30'
 cost_details: '£6 per session'
 attendance_information: '5 - 10 years'
