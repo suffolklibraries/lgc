@@ -8,7 +8,7 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: RPS-Saturday-Art-Club.PNG
-start_date: '2023-03-25 10:00'
+start_date: '2023-04-22 10:00'
 free: false
 virtual: false
 latitude: '52.05631725971396'
@@ -69,7 +69,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'There are also afternoon Saturday Art Club sessions running from 2pm until 3.30pm.'
+        text: 'There are also afternoon Saturday Art Club sessions running from 2pm until 3.30pm. '
   -
     type: heading
     attrs:
@@ -83,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book a place please visit this link '
+        text: 'To book the six-week class pass, please visit this link '
       -
         type: text
         marks:
@@ -131,11 +131,15 @@ cta: |-
   This event is run by Rock Paper Scissors, for more information please get in touch via:
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
+
+  [team@rockpaperscissors.org.uk](mailto:team@rockpaperscissors.org.uk)
+
+  [07759978149](tel:07759978149)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678702535
-end_date: '2023-03-25 11:30'
-cost_details: £6
+updated_at: 1680169392
+end_date: '2023-05-27 11:30'
+cost_details: '£6 per session'
 attendance_information: '5 - 10 years'
-accessibility_information: 'No wheelchair access'
+accessibility_information: '- No wheelchair access'
 ---
 A weekly art club for 5-10 year olds - have creative fun and explore process art.
