@@ -16,10 +16,10 @@ cost_details: £5
 virtual: false
 attendance_information: 'Parent and baby'
 accessibility_information: |-
-  -Dementia friendly
-  -Autism friendly
-  -Baby changing facilities
-  -Covid-19 preventative measures in place
+  - Dementia friendly
+  - Autism friendly
+  - Baby changing facilities
+  - Covid-19 preventative measures in place
 latitude: '52.47634871563557'
 longitude: '1.753469769599293'
 address_line_1: 'Marina Theatre'
@@ -65,7 +65,35 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book a place, please email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:music@marinatheatre.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: music@marinatheatre.co.uk
+      -
+        type: text
+        text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
   -
     type: paragraph
     content:
@@ -108,10 +136,14 @@ content_area:
         text: 'First Buses'
 booking_link: 'https://www.marinatheatre.co.uk/take-part/community/marina-monkey-music/'
 cta: |-
-  To book your place, e-mail Donna [music@marinatheatre.co.uk](music@marinatheatre.co.uk)
+  This event is organised by Marina Theatre:
 
-  Or call the Marina Theatre Box Office on 01502533200
+  [https://www.marinatheatre.co.uk/](https://www.marinatheatre.co.uk/)
+
+  [music@marinatheatre.co.uk](mailto:music@marinatheatre.co.uk)
+
+  [01502533200](tel:01502533200)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678892518
+updated_at: 1680163229
 ---
 An exploration of sound, music, stories and sensory play for little ones.
