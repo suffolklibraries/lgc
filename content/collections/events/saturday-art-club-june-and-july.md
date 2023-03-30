@@ -1,14 +1,15 @@
 ---
 id: c8f70152-d39e-49de-b912-149674cb1b57
+published: false
 blueprint: events
-title: 'Saturday Art Club (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - art
   - primary-school-age
 organisers:
   - rock-paper-scissors
 featured_image: RPS-Saturday-Art-Club.PNG
-start_date: '2023-04-22 10:00'
+start_date: '2023-06-10 10:00'
 free: false
 virtual: false
 latitude: '52.05631725971396'
@@ -136,8 +137,8 @@ cta: |-
 
   [07759978149](tel:07759978149)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680169392
-end_date: '2023-05-27 11:30'
+updated_at: 1680170188
+end_date: '2023-07-15 11:30'
 cost_details: '£6 per session'
 attendance_information: '5 - 10 years'
 accessibility_information: '- No wheelchair access'
