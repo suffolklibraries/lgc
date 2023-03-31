@@ -1,13 +1,14 @@
 ---
 id: a0aceb5a-eaa1-4fab-8fe9-213b578b50e3
+published: false
 blueprint: events
-title: 'Participate - Saxmundham (Duplicated)'
+title: 'Participate - Saxmundham'
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
-start_date: '2023-04-26 10:00'
-end_date: '2023-04-26 12:00'
+start_date: '2023-05-03 10:00'
+end_date: '2023-05-03 12:00'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680261303
+updated_at: 1680261385
 free: true
 virtual: false
 organisers:
