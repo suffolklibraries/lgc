@@ -1,5 +1,6 @@
 ---
 id: c063601a-1d7c-4eb4-8119-1b0f6d0d4f65
+published: false
 blueprint: events
 title: 'Eco-Action Club'
 event_categories:
