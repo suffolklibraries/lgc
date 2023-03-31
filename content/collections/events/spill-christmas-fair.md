@@ -1,5 +1,6 @@
 ---
 id: e9720921-b09e-470b-a5ef-46891c7b4968
+published: false
 blueprint: events
 title: 'SPILL Christmas Fair'
 event_categories:
@@ -219,7 +220,7 @@ cta: |-
   [https://www.spillfestival.com/](https://www.spillfestival.com/)
 
   [info@spillfestival.com](mailto:info@spillfestival.com)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1669135159
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1680277613
 ---
 Join the SPILL Think Tank for an amazing Christmas Fair to find some Christmas gifts, mulled wine, treats and more!
