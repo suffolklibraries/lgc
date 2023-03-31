@@ -1,5 +1,6 @@
 ---
 id: 3f4b86a6-534c-44c8-b51a-e32444563277
+published: false
 blueprint: events
 title: 'Voicenotes To My Child Self - Creative Writing Workshop'
 event_categories:
@@ -225,7 +226,7 @@ content_area:
     type: paragraph
 booking_link: 'https://www.eventbrite.co.uk/e/voicenotes-to-my-child-self-creative-writing-workshop-tickets-532139622937'
 cta: '[https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/)'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1675781467
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1680277882
 ---
 Join poet and writer Ellena Woolf in this creative writing workshop exploring identity and the childhood self.
