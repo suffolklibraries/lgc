@@ -1,5 +1,6 @@
 ---
 id: f7e3ed9a-466b-44d7-bdc4-ab3ccd30961f
+published: false
 blueprint: events
 title: 'Talking shop - Meet the agent'
 event_categories:
@@ -138,7 +139,7 @@ content_area:
         type: text
         text: ', only a four-minute walk from The Hold. '
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1674487637
+updated_at: 1680277675
 cta: |-
   [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
 
