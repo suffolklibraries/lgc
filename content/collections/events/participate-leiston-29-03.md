@@ -4,10 +4,10 @@ blueprint: events
 title: 'Participate - Leiston'
 latitude: '52.2072538466367'
 longitude: '1.5721966542855077'
-start_date: '2023-03-29 14:00'
-end_date: '2023-03-29 16:00'
+start_date: '2023-04-26 14:00'
+end_date: '2023-04-26 16:00'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679301085
+updated_at: 1680263433
 free: true
 virtual: false
 organisers:
@@ -16,7 +16,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -32,21 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call Britten Pears Arts on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01728687152'
-              rel: null
-              target: null
-              title: null
-        text: '01728 687152'
-      -
-        type: text
-        text: ' or email '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns by emailing '
       -
         type: text
         marks:
@@ -64,55 +50,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Participate takes place 2:30pm to 4:30pm every Tuesday afternoon at The Waterloo Centre in Leiston. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you require transport to or form the event, please contact Lucy-Eve on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01728687152'
-              rel: null
-              target: null
-              title: null
-        text: '01728 687152'
-      -
-        type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:community@brittenpearsarts.org'
-              rel: null
-              target: null
-              title: null
-        text: community@brittenpearsarts.org
-      -
-        type: text
-        text: .
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -122,21 +60,41 @@ content_area:
     content:
       -
         type: text
-        text: 'For more information, you can call Britten Pears Arts on '
+        text: 'Booking is required. Please book a place '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01728687152'
+              href: 'https://brittenpearsarts.org/events/participate-2023-leiston'
               rel: null
               target: null
               title: null
-        text: '01728 687152'
+        text: here
       -
         type: text
-        text: ' or email '
+        text: '. '
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Waterloo Centre is only '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you require transport to or form the event, please contact Lucy-Eve on '
       -
         type: text
         marks:
@@ -165,19 +123,16 @@ accessibility_information: |-
   - Wheelchair access
   - Covid-19 preventative measures in place
 cta: |-
-  This event is organised by Britten Pears Arts.
-  Contact details below.
+  This event is organised by Britten Pears Arts:
+
+  [https://brittenpearsarts.org/](https://brittenpearsarts.org)
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
-
-  [01728 687152](tel:01728687152)
-
-  [https://brittenpearsarts.org/](https://brittenpearsarts.org/)
 event_categories:
   - later-life
   - music
   - singing
-booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
+booking_link: 'https://brittenpearsarts.org/events/participate-2023-leiston'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
 Relaxed and fun music and heritage workshops for adults in Leiston
