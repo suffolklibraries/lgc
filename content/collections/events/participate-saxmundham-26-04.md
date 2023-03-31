@@ -4,10 +4,10 @@ blueprint: events
 title: 'Participate - Saxmundham'
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
-start_date: '2023-03-22 10:30'
-end_date: '2023-03-22 12:30'
+start_date: '2023-04-26 10:00'
+end_date: '2023-04-26 12:00'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678701718
+updated_at: 1680261303
 free: true
 virtual: false
 organisers:
@@ -16,7 +16,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -32,21 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can call Britten Pears Arts on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01728687152'
-              rel: null
-              target: null
-              title: null
-        text: '01728 687152'
-      -
-        type: text
-        text: ' or email '
+        text: 'Please don’t hesitate to get in touch with your questions or concerns by emailing '
       -
         type: text
         marks:
@@ -64,17 +50,73 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to book'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Participate takes place 10:30am to 12:30pm every Tuesday morning at the Market Hall in Saxmundham.'
+        text: 'Booking is required. Please book a place '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://brittenpearsarts.org/events/participate-2023-saxmundham'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: '. '
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Market Hall is only a two-minute walk away from the Saxmundham train station. If you are taking a bus, the closest '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Waitrose/@52.2135626,1.4922321,19.25z/data=!4m6!3m5!1s0x47d988e8810b7691:0x7377cb1e2437179b!8m2!3d52.213493!4d1.492838!16s%2Fg%2F1q67m87yp'
+              rel: null
+              target: null
+              title: null
+        text: 'bus stop'
+      -
+        type: text
+        text: ' is only two-minutes away. Alternatively, park at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Saxmundham+Station/@52.2148508,1.4912939,18.33z/data=!4m6!3m5!1s0x47d988e793a3d45b:0x2af9111fcd8fe6eb!8m2!3d52.2152199!4d1.4906056!16s%2Fg%2F11tjbv_rgp'
+              rel: null
+              target: null
+              title: null
+        text: 'Saxmundham Station Car Park'
+      -
+        type: text
+        text: ', nearby. '
   -
     type: paragraph
     content:
@@ -87,20 +129,6 @@ content_area:
           -
             type: link
             attrs:
-              href: 'tel:01728687152'
-              rel: null
-              target: null
-              title: null
-        text: '01728 687152'
-      -
-        type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
               href: 'mailto:community@brittenpearsarts.org'
               rel: null
               target: null
@@ -109,50 +137,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'For more information, you can call Britten Pears Arts on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01728687152'
-              rel: null
-              target: null
-              title: null
-        text: '01728 687152'
-      -
-        type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:community@brittenpearsarts.org'
-              rel: null
-              target: null
-              title: null
-        text: community@brittenpearsarts.org
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
 attendance_information: Adults
 address_line_1: 'The Market Hall'
 address_line_2: 'High Street'
@@ -165,19 +149,15 @@ accessibility_information: |-
   - Wheelchair access
   - Covid-19 preventative measures in place
 cta: |-
-  This event is organised by Britten Pears Arts.
-  Contact details below.
-
-  [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
-
-  [01728 687152](tel:01728687152)
+  This event is organised by Britten Pears Arts:
 
   [https://brittenpearsarts.org/](https://brittenpearsarts.org)
+
+  [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 event_categories:
   - later-life
   - music
-  - singing
-booking_link: 'https://brittenpearsarts.org/take-part/adults/participate'
+booking_link: 'https://brittenpearsarts.org/events/participate-2023-saxmundham'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
 Relaxed and fun music and heritage workshops for adults in Saxmundham
