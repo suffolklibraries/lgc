@@ -1,13 +1,14 @@
 ---
 id: e1f03054-53e6-4dca-a1f3-3a8816f99370
+published: false
 blueprint: events
-title: 'East Suffolk Skylarks - Snape (Duplicated)'
+title: 'East Suffolk Skylarks - Snape'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2023-04-27 10:30'
-end_date: '2023-04-27 12:00'
+start_date: '2023-05-11 10:30'
+end_date: '2023-05-11 12:00'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680271719
+updated_at: 1680271766
 free: true
 virtual: false
 organisers:
