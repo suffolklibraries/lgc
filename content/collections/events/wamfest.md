@@ -1,5 +1,6 @@
 ---
 id: 0fea650a-626f-4627-a283-d478c3059077
+published: false
 blueprint: events
 title: WAMFest
 event_categories:
@@ -184,7 +185,7 @@ content_area:
   -
     type: paragraph
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677683075
+updated_at: 1680277932
 booking_link: 'https://www.ticketsource.co.uk/felixstowefestivalevents'
 cta: '[https://www.wamfestfelixstowe.art/](https://www.wamfestfelixstowe.art/)'
 ---
