@@ -7,7 +7,7 @@ longitude: '1.5721966542855077'
 start_date: '2023-04-26 14:00'
 end_date: '2023-04-26 16:00'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680263433
+updated_at: 1680269870
 free: true
 virtual: false
 organisers:
@@ -88,7 +88,35 @@ content_area:
     content:
       -
         type: text
-        text: 'The Waterloo Centre is only '
+        text: 'The Waterloo Centre is only one minute away from a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Alde+Valley+Sixth+Form/@52.2074901,1.5721544,19.33z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da273bffdf3ca7:0x637e40a19c51e4aa!2sWaterloo+Centre,+Waterloo+Ave,+Leiston+IP16+4HE!2m2!1d1.572243!2d52.2070679!1m6!1m2!1s0x47da278e8324ea63:0x4fac248eaf39a1eb!2sAlde+Valley+Sixth+Form,+Leiston+IP16+4HF!2m2!1d1.572119!2d52.207539!3e2!3m5!1s0x47da278e9f25fd1f:0x2104e4277e959524!8m2!3d52.207634!4d1.571452!16s%2Fg%2F1q67b3psh'
+              rel: null
+              target: null
+              title: null
+        text: 'bus stop'
+      -
+        type: text
+        text: ', and eight minutes walk from a pay-and-display '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/High+Street+Car+Park/@52.2054471,1.5776241,18.5z/data=!4m6!3m5!1s0x47da279253c8a65b:0xf8b42b783536f8b!8m2!3d52.2050523!4d1.5785802!16s%2Fg%2F11tjbw6g22'
+              rel: null
+              target: null
+              title: null
+        text: 'High Street Car Park'
+      -
+        type: text
+        text: '. '
   -
     type: paragraph
     content:
@@ -109,8 +137,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: paragraph
 attendance_information: Adults
 address_line_1: 'Waterloo Centre'
 address_line_2: 'Waterloo Avenue'
