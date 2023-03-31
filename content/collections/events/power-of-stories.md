@@ -1,5 +1,6 @@
 ---
 id: 99a6239a-32e8-4361-99c0-a65e0626fb65
+published: false
 blueprint: events
 title: 'Power of Stories Exhibition at Snape Maltings'
 event_categories:
