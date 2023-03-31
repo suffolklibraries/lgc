@@ -1,6 +1,5 @@
 ---
 id: 724eca8f-b662-47e4-9930-91064580eb01
-published: false
 blueprint: events
 title: 'Let''s Get Crafty: Easter'
 event_categories:
