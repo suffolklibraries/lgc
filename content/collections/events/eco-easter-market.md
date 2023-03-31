@@ -1,6 +1,5 @@
 ---
 id: 8e2eab7d-50a2-47cc-bda5-2647cccde87b
-published: false
 blueprint: events
 title: 'Eco Easter Market'
 event_categories:
