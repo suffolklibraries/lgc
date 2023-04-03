@@ -1,5 +1,6 @@
 ---
 id: 0ecc2e57-d1d2-4084-962f-52bd6a35ce50
+published: false
 blueprint: events
 title: 'Community coastal walk'
 event_categories:
