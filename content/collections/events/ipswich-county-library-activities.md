@@ -1,5 +1,6 @@
 ---
 id: 2c49df60-3872-4ca2-88da-d95afa54ef01
+published: false
 blueprint: events
 title: 'Ipswich County Library Activities'
 event_categories:
