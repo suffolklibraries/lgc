@@ -1,5 +1,6 @@
 ---
 id: acfc5579-4796-4d0a-804d-259f115ae6b6
+published: false
 blueprint: events
 title: 'Little Red in Local Libraries'
 event_categories:
