@@ -1,5 +1,6 @@
 ---
 id: dbba37ce-7c21-4af6-97f9-9a8a5abab074
+published: false
 blueprint: events
 title: 'Group A - Youth Vocal Group in Lowestoft'
 event_categories:
@@ -251,7 +252,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673009423
+updated_at: 1680535446
 end_date: '2023-03-11 17:45'
 accessibility_information: |-
   - Toilet and changing facilities
