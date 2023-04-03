@@ -1,5 +1,6 @@
 ---
 id: f67ceaf0-8a05-42c7-a621-7e990138139d
+published: false
 blueprint: events
 title: 'Africa Alive Lazy Lion Afternoon'
 event_categories:
