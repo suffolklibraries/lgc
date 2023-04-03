@@ -1,5 +1,6 @@
 ---
 id: 27e08868-2cbf-46d2-98de-93265309f567
+published: false
 blueprint: events
 title: 'We are here'
 start_date: '2023-03-02 18:00'
