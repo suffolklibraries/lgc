@@ -1,5 +1,6 @@
 ---
 id: 1b3b2527-534f-4680-a78d-8b7d57501fde
+published: false
 blueprint: events
 title: 'Free Creative Workshops'
 event_categories:
