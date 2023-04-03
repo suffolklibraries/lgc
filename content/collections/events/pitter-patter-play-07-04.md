@@ -1,6 +1,5 @@
 ---
 id: 51d2f5da-3ce5-40a4-abab-ab14e956c247
-published: false
 blueprint: events
 title: 'Pitter Patter Play'
 event_categories:
