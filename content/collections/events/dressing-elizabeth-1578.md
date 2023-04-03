@@ -1,5 +1,6 @@
 ---
 id: 15cd9ff4-7ec4-4056-8b26-ec14ed0c0915
+published: false
 blueprint: events
 title: 'Dressing Elizabeth 1578'
 event_categories:
