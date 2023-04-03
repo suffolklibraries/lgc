@@ -1,5 +1,6 @@
 ---
 id: f2748405-ea4b-42e6-814c-56d3e9dd309b
+published: false
 blueprint: events
 title: 'Group A - Youth Vocal Group in Leiston'
 event_categories:
@@ -256,7 +257,7 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1673011640
+updated_at: 1680535391
 end_date: '2023-03-11 17:30'
 ---
 Join Group A, a vocal performance initiative for young people (aged 8 -18) in Leiston!
