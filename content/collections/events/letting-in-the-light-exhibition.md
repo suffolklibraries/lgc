@@ -1,5 +1,6 @@
 ---
 id: 953a355a-a818-42b7-9d44-a1306f4cfbdb
+published: false
 blueprint: events
 title: 'Letting in the Light Exhibition'
 event_categories:
