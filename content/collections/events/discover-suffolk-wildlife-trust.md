@@ -1,5 +1,6 @@
 ---
 id: 4edfb2f2-2024-4480-9994-fbaf169b6f73
+published: false
 blueprint: events
 title: 'Discover Suffolk Wildlife Trust'
 event_categories:
