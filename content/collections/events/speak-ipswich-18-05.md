@@ -1,5 +1,6 @@
 ---
 id: 515095cb-4443-4b2c-9add-67b8bd074c34
+published: false
 blueprint: events
 title: 'SPEAK Ipswich - English Conversational class'
 start_date: '2022-05-18 18:00'
