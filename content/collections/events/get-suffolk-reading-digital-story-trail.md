@@ -1,5 +1,6 @@
 ---
 id: 26f4fe5f-2e3d-4ea9-aae6-13e51e247979
+published: false
 blueprint: events
 title: 'Get Suffolk Reading - Digital Story Trail'
 event_categories:
