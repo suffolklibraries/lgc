@@ -1,13 +1,14 @@
 ---
 id: db8fd80f-726b-442c-b048-4d13f9c34307
+published: false
 blueprint: events
 title: 'BFI Film Academy Suffolk'
 start_date: '2022-02-11 10:00'
 end_date: '2022-02-17 17:00'
 free: false
 virtual: false
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1673881029
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1680536649
 event_categories:
   - computing
   - activity
