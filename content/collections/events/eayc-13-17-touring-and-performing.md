@@ -1,5 +1,6 @@
 ---
 id: 29df14fb-bfeb-4985-80bd-bb6fab00dae7
+published: false
 blueprint: events
 title: 'EAYC (13-17): Touring & Performing'
 event_categories:
@@ -214,6 +215,6 @@ cta: |-
 
   [01473218202](tel:01473218202)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679574264
+updated_at: 1680534750
 ---
 Eastern Angles Young Creatives (EAYC) is a series of free creative and theatre-based programme for young people, this Spring's programe is aimed at 13-17 year olds on the themes of touring and performing! **Book you space before the 29 March!**
