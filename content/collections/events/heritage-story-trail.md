@@ -1,5 +1,6 @@
 ---
 id: c3960c5a-b87c-4822-85f4-1557b3f61b26
+published: false
 blueprint: events
 title: 'Heritage Story Trail'
 event_categories:
@@ -61,8 +62,8 @@ content_area:
       -
         type: text
         text: 'There''s no need to book just come along to the library and pick up a map!'
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1663082532
+updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
+updated_at: 1680535484
 organisers:
   - get-suffolk-reading
 ---
