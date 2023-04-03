@@ -1,5 +1,6 @@
 ---
 id: 46cdf025-33be-4678-a013-a8daa3039b29
+published: false
 blueprint: events
 title: 'Party at the Palace'
 event_categories:
