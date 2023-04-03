@@ -1,5 +1,6 @@
 ---
 id: 2ffb5bc8-84af-487a-bd2e-7d9572965fdd
+published: false
 blueprint: events
 title: 'James McDermott: Manatomy'
 event_categories:
