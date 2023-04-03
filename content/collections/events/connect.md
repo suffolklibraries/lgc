@@ -1,5 +1,6 @@
 ---
 id: 444691ee-8871-4fd4-a141-64704bde8cb0
+published: false
 blueprint: events
 title: CONNECT
 event_categories:
