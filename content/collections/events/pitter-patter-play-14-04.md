@@ -1,6 +1,5 @@
 ---
 id: 251bbfde-01d7-4af7-9186-2e5ce2f2849d
-published: false
 blueprint: events
 title: 'Pitter Patter Play'
 event_categories:
@@ -9,8 +8,8 @@ event_categories:
   - languages
   - parent-and-baby
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2023-03-31 13:30'
-end_date: '2023-03-31 14:30'
+start_date: '2023-04-14 13:30'
+end_date: '2023-04-14 14:30'
 free: true
 virtual: false
 attendance_information: '- Guardians with under ones'
@@ -123,7 +122,7 @@ cta: |-
 
   [01502532740](tel:01502532740)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680013104
+updated_at: 1680537394
 organisers:
   - suffolk-county-council
 ---
