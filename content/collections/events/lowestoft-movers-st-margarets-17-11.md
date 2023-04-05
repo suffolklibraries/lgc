@@ -5,9 +5,9 @@ blueprint: events
 title: 'Lowestoft Movers - St. Margaret''s Church'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1667574944
-start_date: '2022-11-17 12:20'
-end_date: '2022-11-17 13:40'
+updated_at: 1680716574
+start_date: '2022-11-17 11:00'
+end_date: '2022-11-17 12:00'
 event_categories:
   - dance
   - later-life
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers is a gentle movement class for over 55s. Held every Thursday at 12:20pm - 13:40pm at St Margaret''s Hall and every Friday at 10am - 11:30am at The Seagull Theatre. '
+        text: 'Lowestoft Movers is a gentle movement class for over 55s. Held every Thursday at 11:00am - 12:00pm at St Margaret''s Hall.'
   -
     type: paragraph
     content:
@@ -90,27 +90,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Lowestoft movers meets at St Margaret''s Hall and The Seagull Theatre in Lowestoft.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Both venues have double doors for those that have accessibility needs. '
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -149,14 +129,28 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Lowestoft movers meets at St Margaret''s Hall and The Seagull Theatre in Lowestoft. Both venues have double doors for those that have accessibility needs. '
 cta: |-
   This event is organised by Dance East. Please contact Alysha Hudson:
+
+  [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
 
   [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
 
   [07984 756499](tel:07984756499)
-
-  [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
