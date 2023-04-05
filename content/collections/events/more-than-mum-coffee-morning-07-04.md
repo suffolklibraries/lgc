@@ -78,8 +78,10 @@ cta: |-
   This event is run by the future female Society, For more information please get in touch via:
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
+
+  [01473852552](tel:0147852552)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680704585
+updated_at: 1680704786
 attendance_information: Mums!
 ---
 Come and join for the new More Than Mums Coffee Mornings in Ipswich!
