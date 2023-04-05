@@ -1,13 +1,14 @@
 ---
 id: 317349bf-60ba-464d-bf77-89cc02a6d1b8
+published: false
 blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1671438218
+updated_at: 1680705475
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
-start_date: '2023-01-23 10:30'
+start_date: '2023-01-23 10:00'
 event_categories:
   - later-life
   - dance
@@ -27,7 +28,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -43,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions about DanceEast''s Movers classes via our Facebook page: '
+        text: 'Please don’t hesitate to get in touch with your questions about DanceEast''s Movers classes via the '
       -
         type: text
         marks:
@@ -52,36 +53,16 @@ content_area:
             attrs:
               href: 'https://www.facebook.com/danceeast'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Dance East via Facebook'
+        text: 'Dance East''s Facebook page'
       -
         type: text
         text: .
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Debenham Movers meets at Debenham Sports and Leisure on Gracechurch Street in Debenham, IP14 6BL.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is an entrance at the front of the building via the carpark, this entrance uses sliding doors for those that have accessibility needs. '
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -120,12 +101,28 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Debenham Movers meets at Debenham Sports and Leisure on Gracechurch Street in Debenham, IP14 6BL. There is an entrance at the front of the building via the carpark, this entrance uses sliding doors for those that have accessibility needs. '
 cta: |-
   This event is organised by Dance East. Contact details below:
 
   [https://www.danceeast.co.uk/workshops/debenham-movers/](https://www.danceeast.co.uk/workshops/debenham-movers/)
 
   [community-dance@hotmail.com](mailto:community-dance@hotmail.com)
+
+  [07375024115](tel:07375024115)
 booking_link: 'https://www.danceeast.co.uk/workshops/debenham-movers/'
 accessibility_information: |-
   - Autism friendly
