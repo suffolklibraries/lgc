@@ -73,7 +73,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: '01473 852552'
+        text: '01473852552'
       -
         type: text
         text: .
@@ -148,8 +148,10 @@ content_area:
         type: text
         text: ', which is one minute away from The Hive.'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679325141
+updated_at: 1680705095
 cta: |-
+  This event is run by the Future Female Society:
+
   [https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)
 
   [01473852552](tel:01473852552)
