@@ -5,7 +5,7 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679301144
+updated_at: 1680705894
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2023-03-28 11:00'
@@ -15,7 +15,7 @@ event_categories:
 free: false
 virtual: false
 organisers:
-  - karenlouisedance
+  - dance-east
 address_line_1: 'Hadleigh Baptist Church'
 address_line_2: 'George Street'
 town: Hadleigh
@@ -28,7 +28,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -73,21 +73,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George Street in Hadleigh, IP7 5BE.'
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -126,6 +112,20 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hadleigh Movers meets at Hadleigh Baptist Church on George Street in Hadleigh, IP7 5BE.'
 cta: |-
   This event is organised by Dance East. Please contact Karen Pratt:
 
@@ -139,7 +139,7 @@ accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £4
+cost_details: £5
 end_date: '2023-03-28 12:30'
 ---
 A weekly dance class for everyone over 55. Hadleigh Movers classes are designed to benefit you both mentally and physically.
