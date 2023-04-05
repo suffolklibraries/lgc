@@ -61,38 +61,9 @@ content_area:
               target: _blank
               title: null
         text: here
-  -
-    type: paragraph
-    content:
       -
         type: text
-        text: 'Or call 01473 852552'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: Travel
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "The Smokehouse is situated just off Norwich Road, one of the main roads into Ipswich and has several bus stops close by.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Ipswich has a train station which is an 18-minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is pay and display car park next to the venue and many others near by.'
+        text: .
   -
     type: heading
     attrs:
@@ -106,9 +77,57 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking is not required.'
+        text: 'Booking is not required. To sign up please visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.futurefemalesociety.org/contact'
+              rel: null
+              target: null
+              title: null
+        text: 'Future Female Society website'
+      -
+        type: text
+        text: ' or call '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473852552'
+              rel: null
+              target: null
+              title: null
+        text: '01473852552'
+      -
+        type: text
+        text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "The Smokehouse is situated just off Norwich Road, one of the main roads into Ipswich and has several bus stops close by.\_Ipswich has a train station which is an 18-minute walk away. There is pay and display car park next to the venue and many others near by."
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1678784053
-cta: '[https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)'
+updated_at: 1680704284
+cta: |-
+  This event is organised by the Future Female Society:
+
+  [https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)
+
+  [01473852552](tel:01473852552)
+booking_link: 'https://www.futurefemalesociety.org/contact'
 ---
 A programme of building confidence in girls, with exciting media workshops.
