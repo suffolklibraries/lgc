@@ -23,7 +23,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -49,27 +49,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Coffee Morning takes place at The Cult Café, IP3 0FS.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'On the Waterfront in Ipswich, car parks and transport links are nearby. '
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -79,13 +59,27 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a drop-in event so no booking is required'
+        text: 'This is a drop-in event so no booking is required.'
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Coffee Morning takes place at The Cult Café, IP3 0FS. On the Waterfront in Ipswich, car parks and transport links are nearby. '
 cta: |-
   This event is run by the future female Society, For more information please get in touch via:
 
   [https://www.futurefemalesociety.org](https://www.futurefemalesociety.org)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679999852
+updated_at: 1680704688
 attendance_information: Mums!
 ---
 Come and join for the new More Than Mums Coffee Mornings in Ipswich!
