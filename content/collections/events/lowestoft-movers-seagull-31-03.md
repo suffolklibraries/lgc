@@ -5,9 +5,9 @@ blueprint: events
 title: 'Lowestoft Movers - Seagull Theatre'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679301264
+updated_at: 1680713737
 start_date: '2023-03-31 10:00'
-end_date: '2023-03-31 11:15'
+end_date: '2023-03-31 11:30'
 event_categories:
   - dance
   - later-life
@@ -22,7 +22,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers is a gentle movement class for over 55s, held every Friday at 10am - 11:15am at The Seagull Theatre. '
+        text: 'Lowestoft Movers is a gentle movement class for over 55s, held every Friday at 10am - 11:30am at The Seagull Theatre. '
   -
     type: paragraph
     content:
@@ -90,7 +90,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -132,11 +132,11 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to get there'
   -
     type: paragraph
     content:
@@ -174,11 +174,11 @@ content_area:
 cta: |-
   This event is organised by Dance East. Please contact Alysha Hudson:
 
+  [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
+
   [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
 
   [07984 756499](tel:07984756499)
-
-  [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
