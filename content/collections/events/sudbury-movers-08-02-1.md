@@ -1,13 +1,14 @@
 ---
 id: 17593a68-e739-43f1-af08-278a3e81b6ec
+published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated)'
+title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680712998
+updated_at: 1680713057
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
-start_date: '2023-02-08 10:00'
+start_date: '2023-02-15 10:00'
 event_categories:
   - dance
   - later-life
@@ -142,6 +143,6 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: £6
-end_date: '2023-02-02 11:30'
+end_date: '2023-02-15 11:30'
 ---
 A weekly dance class for everyone over 55. Sudbury Movers classes are designed to benefit you both mentally and physically.
