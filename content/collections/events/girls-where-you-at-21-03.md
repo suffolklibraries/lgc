@@ -1,7 +1,8 @@
 ---
 id: d5f68348-0d44-489a-ad10-94e5ecebb7d3
+published: false
 blueprint: events
-title: 'Girls, where you at? (Duplicated)'
+title: 'Girls, where you at?'
 event_categories:
   - activity
   - community
@@ -10,8 +11,8 @@ event_categories:
 organisers:
   - future-female-society
 featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2023-03-14 17:00'
-end_date: '2023-03-14 19:00'
+start_date: '2023-03-21 17:00'
+end_date: '2023-03-21 19:00'
 free: true
 virtual: false
 attendance_information: '- 12-19 year old girls'
@@ -120,7 +121,7 @@ content_area:
         type: text
         text: "The Smokehouse is situated just off Norwich Road, one of the main roads into Ipswich and has several bus stops close by.\_Ipswich has a train station which is an 18-minute walk away. There is pay and display car park next to the venue and many others near by."
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680704284
+updated_at: 1680704341
 cta: |-
   This event is organised by the Future Female Society:
 
