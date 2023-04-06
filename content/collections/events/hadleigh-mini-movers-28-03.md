@@ -5,7 +5,7 @@ blueprint: events
 title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679300552
+updated_at: 1680767611
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
 start_date: '2023-03-28 09:15'
@@ -28,7 +28,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -50,54 +50,11 @@ content_area:
     content:
       -
         type: text
-        text: 'For further information and to book please contact Zoe Ablitt.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Email:\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:zoe.ablitt@danceeast.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: "zoe.ablitt@danceeast.co.uk\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Phone: 01473 295230'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Hadleigh Mini Movers is supported by Babergh District Council.'
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Hadleigh Movers meets at Hadleigh Library on the High Street in Hadleigh, IP7 5AG.'
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -107,7 +64,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can email Zoe at '
+        text: 'For further information and to book a place, please email Zoe at '
       -
         type: text
         marks:
@@ -121,16 +78,44 @@ content_area:
         text: "zoe.ablitt@danceeast.co.uk\_"
       -
         type: text
-        text: ' or call on 01473 295230'
+        text: ' or call on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473295245'
+              rel: null
+              target: null
+              title: null
+        text: '01473 295245'
+      -
+        type: text
+        text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hadleigh Movers meets at Hadleigh Library on the High Street in Hadleigh, IP7 5AG.'
 cta: |-
   This event is organised by Dance East. Please contact Zoe Ablitt:
 
-  [Zoe.Ablitt@danceeast.co.uk](mailto:zoe.ablitt@danceeast.co.uk )
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
 
-  [01473 295230](tel:01473295230) 
+  [Zoe.Ablitt@danceeast.co.uk](mailto:zoe.ablitt@danceeast.co.uk)
 
-  [DanceEast Website](https://www.danceeast.co.uk/workshops/hadleigh-mini-movers/)
-booking_link: 'mailto:https://karenlouisedance.com'
+  [01473 295230](tel:01473295230)
+booking_link: 'mailto:zoe.ablitt@danceeast.co.uk'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
