@@ -4,7 +4,7 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680766593
+updated_at: 1680766622
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2023-04-17 13:00'
