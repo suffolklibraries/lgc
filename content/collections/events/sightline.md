@@ -1,5 +1,6 @@
 ---
 id: 12039fe5-9de5-4614-a1ac-a0470b3cc646
+published: false
 blueprint: events
 title: Sightline
 event_categories:
