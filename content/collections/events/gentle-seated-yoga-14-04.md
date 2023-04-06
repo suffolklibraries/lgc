@@ -15,7 +15,7 @@ start_date: '2023-04-14 10:30'
 free: true
 virtual: false
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680000108
+updated_at: 1680770144
 attendance_information: |-
   - All welcome
   - Older people
@@ -55,7 +55,21 @@ content_area:
     content:
       -
         type: text
-        text: 'These classes will also run online on Mondays from 13:00 to 14:00. Please email coherearts@gmail.com for a Zoom link. '
+        text: 'These classes will also run online on Mondays from 13:00 to 14:00. Please email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:coherearts@gmail.com'
+              rel: null
+              target: null
+              title: null
+        text: coherearts@gmail.com
+      -
+        type: text
+        text: ' for a Zoom link. '
   -
     type: heading
     attrs:
@@ -99,6 +113,8 @@ content_area:
         type: text
         text: ' only a 5 minute walk away. On-site parking is available at the community centre. '
 cta: |-
+  This event is run by Cohere Arts:
+
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
