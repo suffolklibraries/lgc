@@ -5,7 +5,7 @@ blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680765607
+updated_at: 1680766424
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
 start_date: '2023-03-31 14:00'
@@ -130,10 +130,10 @@ cta: |-
 
   [https://karenlouisedance.com](https://karenlouisedance.com)
 
-  [karenlouisedance@gmail.com ](mailto:karenlouisedance@gmail.com )
+  [karenlouisedance@gmail.com](mailto:karenlouisedance@gmail.com)
 
   [07751 891319](tel:07751891319)
-booking_link: 'mailto:https://karenlouisedance.com'
+booking_link: 'mailto:karenlouisedance@gmail.com'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
