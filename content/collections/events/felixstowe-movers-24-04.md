@@ -5,7 +5,7 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679998258
+updated_at: 1680766505
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2023-04-24 13:00'
@@ -16,6 +16,7 @@ free: false
 virtual: false
 organisers:
   - danceeast
+  - karen-louise-dance
 address_line_1: 'Walton Community Hall'
 address_line_2: '274 High Street'
 town: 'Walton, Felixstowe'
@@ -26,7 +27,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -52,21 +53,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Felixstowe Movers meets at Walton Community Hall, 274 High Street, Walton, Felixstowe, IP11 9DS. Parking is available on the surrounding residential streets. '
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -76,16 +63,58 @@ content_area:
     content:
       -
         type: text
-        text: 'For further information and to book please contact Zoe Ablitt on 01473 295245 or email at Zoe.Ablitt@danceeast.co.uk.'
+        text: 'For further information or to book a space, please email Karen on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:karenlouisedance@gmail.com'
+              rel: null
+              target: null
+              title: null
+        text: karenlouisedance@gmail.com
+      -
+        type: text
+        text: ' or call '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07751891319'
+              rel: null
+              target: null
+              title: null
+        text: '07751 891319'
+      -
+        type: text
+        text: '. '
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Felixstowe Movers meets at Walton Community Hall, 274 High Street, Walton, Felixstowe, IP11 9DS. Parking is available on the surrounding residential streets. '
 cta: |-
-  This event is organised by Dance East. Please contact Zoe Ablitt:
+  This event is organised by Karen Louise Dance. Please contact Karen Pratt:
 
-  [Zoe.Ablitt@danceeast.co.uk ](mailto:Zoe.Ablitt@danceeast.co.uk )
+  [https://karenlouisedance.com](https://karenlouisedance.com)
 
-  [01473 295245](tel:01473295245)
+  [karenlouisedance@gmail.com](mailto:karenlouisedance@gmail.com)
 
-  [https://www.danceeast.co.uk/workshops/felixstowe-movers/](https://www.danceeast.co.uk/workshops/felixstowe-movers/)
-booking_link: 'mailto:https://karenlouisedance.com'
+  [07751 891319](tel:07751891319)
+booking_link: 'mailto:karenlouisedance@gmail.com'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
