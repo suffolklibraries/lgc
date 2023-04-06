@@ -1,7 +1,7 @@
 ---
 id: d717bcf6-a2c6-427e-ad6f-a61bacb4badf
 blueprint: events
-title: 'Reading Round (Duplicated)'
+title: 'Reading Round'
 event_categories:
   - languages
   - literature
@@ -9,8 +9,8 @@ organisers:
   - reading-round
   - suffolk-libraries
 featured_image: Screenshot-2022-08-11-at-14.24.18.png
-start_date: '2023-03-31 13:45'
-end_date: '2023-03-31 15:15'
+start_date: '2023-04-21 13:45'
+end_date: '2023-04-21 15:15'
 free: true
 virtual: false
 latitude: '52.058781626316694'
@@ -220,7 +220,7 @@ cta: |-
 
   [louise.millar@rlfeducation.org.uk](mailto:louise.millar@rlfeducation.org.uk)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680769372
+updated_at: 1680769455
 attendance_information: 'All welcome'
 accessibility_information: |-
   - Wheelchair access
