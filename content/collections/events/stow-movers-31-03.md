@@ -5,7 +5,7 @@ blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1679300875
+updated_at: 1680765607
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
 start_date: '2023-03-31 14:00'
@@ -15,7 +15,8 @@ event_categories:
 free: false
 virtual: false
 organisers:
-  - karenlouisedance
+  - dance-east
+  - karen-louise-dance
 address_line_1: 'John Peel Centre'
 address_line_2: 'Church Walk'
 town: Stowmarket
@@ -26,7 +27,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -71,21 +72,7 @@ content_area:
   -
     type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Stow Movers meets at the John Peel Centre, Church Walk in Stowmarket, IP14 1ET.'
-  -
-    type: heading
-    attrs:
-      level: 2
+      level: 3
     content:
       -
         type: text
@@ -124,20 +111,34 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: heading
+    attrs:
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to get there'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Stow Movers meets at the John Peel Centre, Church Walk in Stowmarket, IP14 1ET. '
 cta: |-
   This event is organised by Karen Louise Dance. Please contact Karen Pratt:
+
+  [https://karenlouisedance.com](https://karenlouisedance.com)
 
   [karenlouisedance@gmail.com ](mailto:karenlouisedance@gmail.com )
 
   [07751 891319](tel:07751891319)
-
-  [https://karenlouisedance.com](https://karenlouisedance.com)
 booking_link: 'mailto:https://karenlouisedance.com'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £5.50
+cost_details: £5.00
 end_date: '2023-03-31 15:30'
 ---
 A weekly dance class for everyone over 55, Stow Movers classes are designed to benefit you both mentally and physically.
