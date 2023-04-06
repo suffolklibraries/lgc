@@ -8,6 +8,7 @@ event_categories:
   - dance
 organisers:
   - inside-out-community
+  - suffolk-libraries
 start_date: '2023-04-21 16:00'
 end_date: '2023-04-21 18:00'
 free: true
@@ -120,22 +121,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Ipswich Library is situated in the centre of Ipswich.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Ipswich is served by two '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'bus services'
-      -
-        type: text
-        text: ' both of which have stops only a couple of minutes walk from the venue:'
+        text: 'Ipswich Library is situated in the centre of Ipswich. Ipswich is served by two bus services both of which have stops only a couple of minutes walk from the venue:'
   -
     type: paragraph
     content:
@@ -179,28 +165,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Ipswich also has a '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: train
-      -
-        type: text
-        text: ' station, for full times tables, visit '
+        text: 'Ipswich also has a train station, for full times tables, visit '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/timetables'
+              href: 'https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiO8N3i9b75AhVK7O0KHZiPB4cYABAAGgJkZw&ae=2&ohost=www.google.com&cid=CAESauD2nHrJiEa5SYCy9SQd0UI8YZ8VDyCC12MTDhByjOzoibMzdZLQqLjMUvsZ9M4bTPZm3JugmeLpa7C2z_16ntILhU1DhC50NZqg0JxJOdud38nXbTi3a2qB6TorWxbuXJZo0dRFdMtIuRk&sig=AOD64_0ZNncVFsLKSZX4cGdzF-seYXAsKg&q&adurl&ved=2ahUKEwiN_9Xi9b75AhUKgFwKHb8wBNwQ0Qx6BAgDEAE&nis=8&dct=1'
               rel: null
               target: _blank
               title: null
-          -
-            type: bold
         text: 'Greater Anglia'
       -
         type: text
@@ -210,24 +185,31 @@ content_area:
     content:
       -
         type: text
-        text: 'There are a number of pay and display '
+        text: "There are a number of pay and display car parks near the venue, the closest is\_a "
       -
         type: text
         marks:
           -
-            type: bold
-        text: 'car parks'
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/NCP/@52.0591648,1.1514557,17z/data=!4m15!1m8!3m7!1s0x47d9a1d33ba91a13:0x1eb62c52b78051d7!2sTower+Ramparts,+Ipswich!3b1!8m2!3d52.0591648!4d1.1536444!16s%2Fg%2F1vfn5y61!3m5!1s0x47d9a1c9a95912e5:0x2ed13c9dfb6c3e83!8m2!3d52.0593149!4d1.1523731!16s%2Fg%2F12qh60tc0'
+              rel: null
+              target: null
+              title: null
+        text: 'NCP car park'
       -
         type: text
-        text: " near the venue, the closest is\_the NCP at Tower Ramparts, use IP1 3DH for Sat Navs."
+        text: ' at Tower Ramparts, use IP1 3DH for Sat Navs. '
 cta: |-
+  This event is run by Inside Out Community:
+
   [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/)
 
   [hello@insideoutcommunity.com](mailto:hello@insideoutcommunity.com)
 
   [01473563900](tel:01473563900)
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680000168
+updated_at: 1680770406
 featured_image: 90867530_3918466988171119_8232883115891097600_n.jpg
 accessibility_information: |-
   - Ramped/Sloped access
