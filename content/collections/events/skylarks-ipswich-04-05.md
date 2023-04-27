@@ -1,14 +1,13 @@
 ---
 id: 6e3167e0-5deb-4080-9807-4ca46c6ebe94
-published: false
 blueprint: events
 title: 'East Suffolk Skylarks - Ipswich'
 latitude: '52.0662303017994'
 longitude: '1.1841183199144334'
 start_date: '2023-05-04 10:30'
 end_date: '2023-05-04 12:00'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680271046
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1682583594
 free: true
 virtual: false
 organisers:
