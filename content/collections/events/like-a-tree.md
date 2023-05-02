@@ -19,7 +19,7 @@ latitude: '52.47168321791655'
 longitude: '1.7490225568666355'
 address_line_1: 'East Point Pavilion'
 town: Lowestoft
-postcode: 'NR33 0QL'
+postcode: 'NR33 0AP'
 content_area:
   -
     type: heading
@@ -129,6 +129,7 @@ content_area:
         text: "\_only a four-minute walk away.\_"
 cta: 'For more information visit [https://firstlightlowestoft.com/events-2023/like-a-tree/ ](http:/https://firstlightlowestoft.com/events-2023/like-a-tree//)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683018805
+updated_at: 1683018896
+address_line_2: 'Royal Plain'
 ---
 A magical storytelling event for all ages by Hocus Pocus.
