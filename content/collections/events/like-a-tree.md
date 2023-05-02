@@ -1,6 +1,5 @@
 ---
 id: 67caa94d-c162-413c-a0e9-46f589c7257e
-published: false
 blueprint: events
 title: 'Like a Tree'
 event_categories:
@@ -129,7 +128,7 @@ content_area:
         text: "\_only a four-minute walk away.\_"
 cta: 'For more information visit [https://firstlightlowestoft.com/events-2023/like-a-tree/ ](http:/https://firstlightlowestoft.com/events-2023/like-a-tree//)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683018896
+updated_at: 1683021485
 address_line_2: 'Royal Plain'
 ---
-A magical storytelling event for all ages by Hocus Pocus.
+A magical storytelling event for all ages by Hocus Pocus at First Light Festival, 2023
