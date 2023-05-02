@@ -1,13 +1,13 @@
 ---
 id: d796c5da-cc26-4cd4-8602-a12f206c30cc
 blueprint: events
-title: 'Participate - Wickham Market (Duplicated)'
-latitude: '52.15191619206503'
-longitude: '1.3654004777355615'
-start_date: '2023-05-09 10:00'
-end_date: '2023-05-09 12:00'
+title: 'Participate - Woodbridge'
+latitude: '52.094356210893544'
+longitude: '1.3068466904244933'
+start_date: '2023-05-09 14:00'
+end_date: '2023-05-09 16:00'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683016533
+updated_at: 1683016854
 free: true
 virtual: false
 organisers:
@@ -88,7 +88,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest bus stop is on Market Square and is a four minute walk from the venue. It is serviced by the 63 and 64 Ipswich Reds bus service. '
+        text: 'The nearest bus stop is St Mary''s and is serviced by the 70 and 70A Village Buses. It is a 9 minute walk from the venue.'
   -
     type: paragraph
     content:
@@ -110,10 +110,10 @@ content_area:
         type: text
         text: .
 attendance_information: Adults
-address_line_1: 'Wickham House'
-address_line_2: 'Church Terrace'
-town: 'Wickham Market'
-postcode: 'IP13 0SG'
+address_line_1: 'The Chapel'
+address_line_2: 'Seckford Almshouses'
+town: Woodbridge
+postcode: 'IP12 4NB'
 accessibility_information: |-
   - Dementia friendly
   - Autism friendly 
@@ -133,4 +133,4 @@ event_categories:
 booking_link: 'https://brittenpearsarts.org/events/participate-2023-leiston'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 ---
-Relaxed and fun music and heritage workshops for adults in Wickham Market
+Relaxed and fun music and heritage workshops for adults in Woodbridge
