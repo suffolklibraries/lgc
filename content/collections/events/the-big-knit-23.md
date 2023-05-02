@@ -8,7 +8,7 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: First-Light-Big-Knit.png
-start_date: '2023-05-18 16:32'
+start_date: '2023-05-18 16:00'
 end_date: '2023-05-18 18:00'
 free: true
 virtual: false
@@ -113,6 +113,6 @@ content_area:
 booking_link: 'https://www.eventbrite.co.uk/e/the-big-knit-tickets-617048949017'
 cta: 'For more information [https://firstlightlowestoft.com/get-involved/big-knit/ ](http:/https://firstlightlowestoft.com/get-involved/big-knit//)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1682592533
+updated_at: 1683018682
 ---
 A big knit community get-together for First Light Festival
