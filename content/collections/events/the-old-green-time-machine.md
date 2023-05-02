@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: Screenshot-2023-04-27-at-12.12.16.png
-start_date: '2023-06-17 16:09'
+start_date: '2023-06-17 16:00'
 end_date: '2023-06-17 17:00'
 free: true
 virtual: false
@@ -108,6 +108,6 @@ content_area:
         text: "\_only a four-minute walk away.\_"
 cta: 'For more information, click here [https://firstlightlowestoft.com/events-2023/old-green-time-machine/ ](http:/https://firstlightlowestoft.com/events-2023/old-green-time-machine//)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1682594346
+updated_at: 1683018860
 ---
 A family-friendly show followed by stay-and-play
