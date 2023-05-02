@@ -1,10 +1,11 @@
 ---
 id: ca299fe5-dd84-4b58-adde-9b121e21f88b
-published: false
 blueprint: events
 title: 'The Big Knit'
 event_categories:
   - festival
+  - community
+  - crafts
 organisers:
   - first-light-festival
 featured_image: First-Light-Big-Knit.png
@@ -113,6 +114,6 @@ content_area:
 booking_link: 'https://www.eventbrite.co.uk/e/the-big-knit-tickets-617048949017'
 cta: 'For more information [https://firstlightlowestoft.com/get-involved/big-knit/ ](http:/https://firstlightlowestoft.com/get-involved/big-knit//)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683018682
+updated_at: 1683021400
 ---
-A big knit community get-together for First Light Festival
+A big knit community get-together for First Light Festival, 2023
