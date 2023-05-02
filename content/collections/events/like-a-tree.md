@@ -10,16 +10,16 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: Screenshot-2023-04-27-at-11.53.47.png
-start_date: '2023-06-18 11:51'
+start_date: '2023-06-18 11:00'
 end_date: '2023-06-18 12:00'
 free: true
 virtual: false
 attendance_information: 'All welcome'
-latitude: '52.463556518946895'
-longitude: '1.7440626660297174'
-address_line_1: 'First Light Festival Site'
+latitude: '52.47168321791655'
+longitude: '1.7490225568666355'
+address_line_1: 'East Point Pavilion'
 town: Lowestoft
-postcode: 'NR33 0HY'
+postcode: 'NR33 0QL'
 content_area:
   -
     type: heading
@@ -129,6 +129,6 @@ content_area:
         text: "\_only a four-minute walk away.\_"
 cta: 'For more information visit [https://firstlightlowestoft.com/events-2023/like-a-tree/ ](http:/https://firstlightlowestoft.com/events-2023/like-a-tree//)'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1682593766
+updated_at: 1683018805
 ---
 A magical storytelling event for all ages by Hocus Pocus.
