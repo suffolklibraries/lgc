@@ -1,10 +1,10 @@
 ---
 id: 045d874c-536d-4781-b388-fe08010cc24d
 blueprint: events
-title: 'Community Conversations at The Hive (Duplicated)'
-featured_image: Screenshot-2022-05-23-113050-new-new.png
-start_date: '2022-11-30 10:00'
-end_date: '2022-11-30 13:00'
+title: 'Repairing is Caring'
+featured_image: Screenshot-2023-05-02-at-11.48.34.png
+start_date: '2023-05-05 10:30'
+end_date: '2023-05-05 13:00'
 free: true
 virtual: false
 latitude: '52.06104109088131'
@@ -27,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Every Wednesday, The Hive hosts a drop-in and chat social session where you can meet new people and learn what’s happening in the local area. So come along, have a tea or coffee and get to know your community.'
+        text: 'Every Friday, The Hive hosts a free drop-in event where you can come to a friendly space to learn to sew, share your creative skills or do your own projects, whilst meeting lovely new people.'
   -
     type: paragraph
     content:
@@ -61,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Community Conversations takes place at The Hive, IP1 2ET. The nearest Car Park is '
+        text: 'Repairing is Caring takes place at The Hive, IP1 2ET. The nearest Car Park is '
       -
         type: text
         marks:
@@ -82,13 +82,15 @@ cta: |-
   [Cad@usethehive.org.uk](mailto:Cad@usethehive.org.uk)
 
   [07494 219836](tel:07494219836)
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680101817
+updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
+updated_at: 1683024543
 event_categories:
   - community
   - languages
+  - crafts
 organisers:
   - the-hive
 attendance_information: 'All welcome'
+cost_details: Free
 ---
-Come and meet the people of your community in weekly drop in sessions at The Hive.
+Hive sewing make and mend club
