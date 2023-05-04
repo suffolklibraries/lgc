@@ -1,14 +1,14 @@
 ---
 id: ad10884b-f131-4d78-8a3d-171dcb306279
 blueprint: events
-title: 'Home from Home (Duplicated)'
+title: 'Home from Home'
 event_categories:
   - dance
 organisers:
   - encoreeast
-featured_image: Screenshot-2023-05-04-at-11.25.08.png
-start_date: '2023-06-29 18:30'
-end_date: '2023-06-29 19:45'
+featured_image: offthepressimages/new_resized_images/Dance.png
+start_date: '2023-07-11 18:30'
+end_date: '2023-07-11 19:45'
 free: true
 cost_details: Free
 virtual: true
@@ -110,6 +110,6 @@ content_area:
         text: 'This is an online event'
 booking_link: 'https://www.eventbrite.com/e/home-from-home-open-zoom-dance-workshops-tickets-605022888747'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683195980
+updated_at: 1683196119
 ---
-Open Zoom adult dance workshops with Alethia Antonia
+Open Zoom adult dance workshops with Luca Silvestrini
