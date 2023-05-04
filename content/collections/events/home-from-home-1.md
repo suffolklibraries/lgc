@@ -1,14 +1,14 @@
 ---
 id: 45b6df6f-630e-4d4d-8f02-6e343d0e7261
 blueprint: events
-title: 'Home from Home (Duplicated)'
+title: 'Home from Home'
 event_categories:
   - dance
 organisers:
   - encoreeast
-featured_image: Screenshot-2023-05-04-at-11.19.32.png
-start_date: '2023-05-18 18:30'
-end_date: '2023-05-18 19:45'
+featured_image: Screenshot-2023-05-04-at-11.25.08.png
+start_date: '2023-06-29 18:30'
+end_date: '2023-06-29 19:45'
 free: true
 cost_details: Free
 virtual: true
@@ -110,6 +110,6 @@ content_area:
         text: 'This is an online event'
 booking_link: 'https://www.eventbrite.com/e/home-from-home-open-zoom-dance-workshops-tickets-605022888747'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683195673
+updated_at: 1683195980
 ---
-Open Zoom adult dance workshops with Molly Wright & Luke Birch
+Open Zoom adult dance workshops with Alethia Antonia
