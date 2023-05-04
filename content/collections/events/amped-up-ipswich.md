@@ -5,7 +5,7 @@ title: 'Amped Up Ipswich'
 event_categories:
   - community
   - music
-featured_image: Screenshot-2023-05-04-at-12.37.41.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 start_date: '2023-05-04 19:30'
 free: false
 cost_details: £3
@@ -138,7 +138,7 @@ content_area:
         text: 'There are multiple pay and display car parks in Ipswich including South Street Car Park next to the venue.'
 booking_link: 'https://www.eventbrite.com/e/amped-up-ipswich-tickets-624359304487?aff=ebdssbdestsearch&keep_tld=1'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683200555
+updated_at: 1683200641
 end_date: '2023-05-04 23:00'
 ---
 A multi-genre music night
