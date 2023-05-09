@@ -1,15 +1,15 @@
 ---
 id: fbb14072-a726-42ab-9d49-21f0da3aa720
 blueprint: events
-title: 'Walks: Heart Of Ipswich (Duplicated)'
+title: 'Walks: To Holywells Park'
 event_categories:
   - guided-tour
   - history
 organisers:
   - ipswich-tourist-guide-association
-featured_image: offthepressimages/new_resized_images/Teen.png
-start_date: '2022-06-28 14:00'
-end_date: '2022-06-28 15:30'
+featured_image: Screenshot-2023-05-09-at-09.36.54.png
+start_date: '2023-05-11 14:00'
+end_date: '2023-05-11 15:30'
 free: false
 cost_details: £5
 virtual: false
@@ -123,6 +123,6 @@ cta: |-
 
   [https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1655982073
+updated_at: 1683621557
 ---
-Take a walk towards the town centre to see some of Ipswich's most interesting buildings, hear about the colourful characters and dramatic events which have shaped Ipswich's heritage.
+Learn about life in 19th century industrial Ipswich, before heading to Holywells Park
