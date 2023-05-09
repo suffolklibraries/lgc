@@ -1,20 +1,21 @@
 ---
 id: b82034cd-ecf4-4be8-b1dc-5537b52cf6b9
 blueprint: events
-title: 'Dressing Queen Bess (Duplicated)'
+title: 'Let''s Get Crafty: Environment'
 event_categories:
   - history
-  - languages
-  - museums
+  - art
+  - family-friendly
+  - nature
 organisers:
   - suffolk-archives
-featured_image: Screenshot-2023-05-09-at-09.52.58.png
-start_date: '2023-05-17 10:30'
-end_date: '2023-05-17 11:30'
+featured_image: Screenshot-2023-05-09-at-10.18.12.png
+start_date: '2023-05-31 10:30'
+end_date: '2023-05-31 12:30'
 free: false
-cost_details: £6
+cost_details: £2
 virtual: false
-attendance_information: 12+
+attendance_information: 5-11
 latitude: '52.24216816851142'
 longitude: '0.719407292436398'
 address_line_1: 'Suffolk Archives'
@@ -35,20 +36,33 @@ content_area:
     content:
       -
         type: text
-        text: "Join historical live interpretation expert Rachel Duffield in character as Queen Elizabeth I as she dresses for her 1578 Royal Progress through East Anglia. Find out about the power of her magnificent wardrobe and discover the truth of her hair-raising beauty regime. Subjects may even ask about Dudley... if they dare!\_"
+        text: 'Join in with some fun crafts inspired by the natural world around us with Let''s Get Crafty at The Hold, Bury St Edmunds.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Book your ticket '
+        text: 'Children must be accompanied by an adult. You only need to book tickets for the children attending.'
+      -
+        type: hard_break
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Age range: 5 to 11 years.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Book your tickets '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/booking/select/pmgTXsDZzoEB'
+              href: 'https://www.ticketsource.co.uk/booking/select/odrXCaUlIMnG'
               rel: null
               target: _blank
               title: null
@@ -93,8 +107,8 @@ content_area:
               target: _blank
               title: null
         text: 'The Hold'
-booking_link: 'https://www.ticketsource.co.uk/booking/select/pmgTXsDZzoEB'
+booking_link: 'https://www.ticketsource.co.uk/booking/select/odrXCaUlIMnG'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683623421
+updated_at: 1683624142
 ---
-Join historical live interpretation expert Rachel Duffield in character as Queen Elizabeth I as she dresses for her 1578 Royal Progress through East Anglia.
+Join in with some fun crafts inspired by the natural world around us.
