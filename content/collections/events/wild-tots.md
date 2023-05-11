@@ -1,7 +1,7 @@
 ---
 id: 8f7cd0b9-ff94-4ab5-bddb-dcc42489d0ee
 blueprint: events
-title: 'Wild Tots'
+title: 'Wild Tots: Redgrave & Lopham Fen'
 event_categories:
   - family-friendly
   - nature
@@ -105,6 +105,6 @@ content_area:
         text: 'Meeting point: picnic area next to the Learning Centre'
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2023-05-12-wild-tots'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683799200
+updated_at: 1683799300
 ---
 Outdoor fun and wild play activities
