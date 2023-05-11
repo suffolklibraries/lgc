@@ -1,13 +1,13 @@
 ---
 id: 5d6c5142-29e2-4bf4-b26c-f9a23db45817
 blueprint: events
-title: 'Participate - Wickham Market (Duplicated) (2)'
+title: 'Participate - Wickham Market'
 latitude: '52.15191619206503'
 longitude: '1.3654004777355615'
-start_date: '2023-05-09 10:00'
-end_date: '2023-05-09 12:00'
+start_date: '2023-05-16 10:00'
+end_date: '2023-05-16 12:00'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683016533
+updated_at: 1683793962
 free: true
 virtual: false
 organisers:
