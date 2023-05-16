@@ -1,10 +1,10 @@
 ---
 id: 162f7c4f-f09c-41bb-bd42-9df100ddeb96
 blueprint: events
-title: 'Repairing is Caring (Duplicated)'
+title: 'Repairing is Caring'
 featured_image: Screenshot-2023-05-02-at-11.48.34.png
-start_date: '2023-05-12 10:30'
-end_date: '2023-05-12 13:00'
+start_date: '2023-05-19 10:30'
+end_date: '2023-05-19 13:00'
 free: true
 virtual: false
 latitude: '52.06104109088131'
@@ -83,7 +83,7 @@ cta: |-
 
   [07494 219836](tel:07494219836)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683620763
+updated_at: 1684228982
 event_categories:
   - community
   - languages
