@@ -1,15 +1,16 @@
 ---
 id: da9dd2f4-3443-4321-98cd-578773b96f3b
 blueprint: events
-title: 'Walks: Heart Of Ipswich (Duplicated)'
+title: 'Walks: Ipswich UK to Ipswich USA'
 event_categories:
   - guided-tour
   - history
+  - languages
 organisers:
   - ipswich-tourist-guide-association
-featured_image: offthepressimages/new_resized_images/Teen.png
-start_date: '2023-05-16 14:00'
-end_date: '2023-05-16 15:30'
+featured_image: Screenshot-2023-05-16-at-10.16.06.png
+start_date: '2023-05-18 14:00'
+end_date: '2023-05-18 15:30'
 free: false
 cost_details: £5
 virtual: false
@@ -117,12 +118,8 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe'
-cta: |-
-  This event is run by The Ipswich Tourist Guide Association, for more information please get in touch via:
-
-  [https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe)
+booking_link: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683795398
+updated_at: 1684228765
 ---
-Take a walk towards the town centre to see some of Ipswich's most interesting buildings, hear about the colourful characters and dramatic events which have shaped Ipswich's heritage.
+Learn about some of the brave men and women who went from Ipswich to the New World.
