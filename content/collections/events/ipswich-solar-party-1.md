@@ -1,19 +1,21 @@
 ---
 id: f44ebe7e-47da-41db-a52d-503dcb8be16b
 blueprint: events
-title: 'Ipswich Solar Party (Duplicated)'
+title: 'Mini Mansions'
 event_categories:
   - languages
   - museums
+  - art
+  - primary-school-age
 organisers:
   - ipswich-museums
-featured_image: Screenshot-2023-05-16-at-11.54.40.png
-start_date: '2023-06-03 10:00'
-end_date: '2023-06-03 16:00'
-free: true
-cost_details: Free
+featured_image: Screenshot-2023-05-16-at-12.17.28.png
+start_date: '2023-06-06 10:15'
+end_date: '2023-06-07 11:15'
+free: false
+cost_details: £3
 virtual: false
-attendance_information: 5+
+attendance_information: '2 1/2 - 4 years'
 accessibility_information: |-
   -Accessible toilet
   -Assistance dogs welcome
@@ -37,25 +39,45 @@ content_area:
     content:
       -
         type: text
-        text: 'During this event, you will be able to look through real telescopes and other equipment to explore our star – the Sun. You will be joined by experts from the Orwell Astronomical Society who will astound you with their knowledge and equipment.'
+        text: 'Join in with interactive sessions for young children aged 2 ½ - 4 and their parents, grandparents and carers. Explore the collections and galleries together through a mixture of play, stories, craft and science activities, all designed to encourage development, communication and curiosity about the world around us. The theme for June will be Animals in the Art Gallery.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: '(Please note that you will only be using specially-equipped telescopes to safely look at the Sun.)'
+        text: 'Sessions will be held on Tuesday 6 and Wednesday 7 June at: 10:15 – 11:15 and 13:15 – 14:15'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This event is for ages 5+'
+        text: 'Parents/carers must stay with their children at all times throughout the session.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Booking is not required, simply drop in.'
+        text: 'The main session will be on the ground floor and there is pushchair access. Part of the session may involve exploring the Mansion using the stairs.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The cost is £3 per child. To book your place, click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswichtheatres.co.uk/whats-on/mini-mansions/'
+              rel: null
+              target: _blank
+              title: null
+        text: here
+      -
+        type: text
+        text: "\_"
   -
     type: paragraph
     content:
@@ -68,11 +90,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://ipswich.cimuseums.org.uk/events/solarparty/'
+              href: 'https://ipswich.cimuseums.org.uk/events/minimansions-jun/'
               rel: null
               target: _blank
               title: null
-        text: "Ipswich Museums\_Solar Party"
+        text: 'Ipswich Museums Mini Mansions'
+      -
+        type: text
+        text: "\_"
   -
     type: heading
     attrs:
@@ -162,6 +187,7 @@ content_area:
         type: text
         text: "\_"
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684234991
+updated_at: 1684236179
+booking_link: 'https://ipswichtheatres.co.uk/whats-on/mini-mansions/'
 ---
-Explore the sun using real telescopes with the Orwell Astronomical Society
+Interactive sessions for young children exploring collections and galleries through a mix of play, stories, craft and science activities.
