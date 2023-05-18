@@ -1,7 +1,7 @@
 ---
 id: 5197eed6-9035-458d-9c6b-3371fca60477
 blueprint: events
-title: 'Walks: Ipswich UK to Ipswich USA (Duplicated)'
+title: 'Walks: Name Dropping'
 event_categories:
   - guided-tour
   - history
@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-tourist-guide-association
 featured_image: Screenshot-2023-05-16-at-10.16.06.png
-start_date: '2023-05-18 14:00'
-end_date: '2023-05-18 15:30'
+start_date: '2023-05-25 14:00'
+end_date: '2023-05-25 15:30'
 free: false
 cost_details: £5
 virtual: false
@@ -32,6 +32,12 @@ content_area:
       -
         type: text
         text: 'What to expect'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Take a look at some of the notable people connected to Ipswich - some who helped shape the town and left an indelible mark.'
   -
     type: paragraph
     content:
@@ -110,7 +116,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe'
+              href: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
               rel: null
               target: _blank
               title: null
@@ -120,6 +126,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684228765
+updated_at: 1684398504
+attendance_information: 12+
 ---
-Learn about some of the brave men and women who went from Ipswich to the New World.
+Take a look at some of the notable people connected to Ipswich - some who helped shape the town and left an indelible mark.
