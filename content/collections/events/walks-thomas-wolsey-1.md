@@ -1,7 +1,7 @@
 ---
 id: 9732f99d-d1e4-41cd-b700-38dffe8beb56
 blueprint: events
-title: 'Walks: Name Dropping (Duplicated)'
+title: 'Walks: Did Thomas Wolsey Drink Here?'
 event_categories:
   - guided-tour
   - history
@@ -37,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Take a look at some of the notable people connected to Ipswich - some who helped shape the town and left an indelible mark.'
+        text: "Ipswich has a long history of inns, taverns and breweries. \_This walk looks at some of oldest establishments and some of the stories attached to them."
   -
     type: paragraph
     content:
@@ -116,7 +116,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
+              href: 'https://www.ticketsource.co.uk/booking/select/daOyDxnAsrGV'
               rel: null
               target: _blank
               title: null
@@ -124,9 +124,9 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
+booking_link: 'https://www.ticketsource.co.uk/booking/select/daOyDxnAsrGV'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684398504
+updated_at: 1684398756
 attendance_information: 12+
 ---
-Take a look at some of the notable people connected to Ipswich - some who helped shape the town and left an indelible mark.
+Ipswich has a long history of inns, taverns and breweries.  This walk looks at some of oldest establishments and some of the stories attached to them.
