@@ -1,15 +1,15 @@
 ---
 id: bdf862a1-40db-4e0e-9d99-3cf2b22f136e
 blueprint: events
-title: 'Walks: Heart Of Ipswich (Duplicated) (2)'
+title: 'Walks: East of Ipswich'
 event_categories:
   - guided-tour
   - history
 organisers:
   - ipswich-tourist-guide-association
-featured_image: offthepressimages/new_resized_images/Teen.png
-start_date: '2023-05-16 14:00'
-end_date: '2023-05-16 15:30'
+featured_image: Screenshot-2023-05-23-at-09.41.43.png
+start_date: '2023-05-30 14:00'
+end_date: '2023-05-30 15:30'
 free: false
 cost_details: £5
 virtual: false
@@ -109,7 +109,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe'
+              href: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
               rel: null
               target: _blank
               title: null
@@ -117,12 +117,12 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe'
+booking_link: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
 cta: |-
   This event is run by The Ipswich Tourist Guide Association, for more information please get in touch via:
 
   [https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683795398
+updated_at: 1684831426
 ---
-Take a walk towards the town centre to see some of Ipswich's most interesting buildings, hear about the colourful characters and dramatic events which have shaped Ipswich's heritage.
+Discover the link between Cobbold and the Baylis families, hear about the potteries district of Ipswich and learn more about the Grimwade family.
