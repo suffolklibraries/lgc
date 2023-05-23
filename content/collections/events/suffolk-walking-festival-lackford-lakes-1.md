@@ -1,7 +1,7 @@
 ---
 id: fb2f6049-3bc4-4ad7-bfce-d4939396999c
 blueprint: events
-title: 'Suffolk Walking Festival: Lackford Lakes (Duplicated)'
+title: 'Suffolk Walking Festival: Breathe in the Brecks'
 event_categories:
   - guided-tour
   - nature
@@ -9,16 +9,16 @@ event_categories:
 organisers:
   - suffolk-walking-festival
 featured_image: Screenshot-2023-05-23-at-11.34.55.png
-start_date: '2023-05-25 10:45'
-end_date: '2023-05-25 12:45'
+start_date: '2023-05-26 10:00'
+end_date: '2023-05-26 12:00'
 free: true
 cost_details: FREE
 virtual: false
-latitude: '52.304423567293775'
-longitude: '0.6387903808049041'
-address_line_1: 'Suffolk Wildlife Trust, Lackford Lakes'
-town: 'Bury St Edmunds'
-postcode: 'IP28 6HX'
+latitude: '52.44914271524404'
+longitude: '0.6159657754360076'
+address_line_1: 'Brandon Lock Lake'
+town: Brandon
+postcode: 'IP27 0JB'
 content_area:
   -
     type: heading
@@ -48,19 +48,19 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Join walk 59: The Lackford Lakes Circuit:'
+        text: 'Join walk 61: Breathe in the Brecks: Exploring Brandon:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Distance: 3 miles'
+        text: 'Distance: 3.5 miles'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Duration: 1.75 hours'
+        text: 'Duration: 2 hours'
   -
     type: paragraph
     content:
@@ -79,14 +79,28 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
+              href: 'https://www.ticketsource.co.uk/booking/select/swyXIAtboujk'
               rel: null
               target: _blank
               title: null
         text: here
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: "\_"
+        text: 'For more details of the festival, visit '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkwalkingfestival.co.uk'
+              rel: null
+              target: _blank
+              title: null
+        text: "Suffolk Walking Festival\_"
   -
     type: heading
     attrs:
@@ -100,21 +114,11 @@ content_area:
     content:
       -
         type: text
-        text: 'OS map reference TL 801706'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The reserve is about ten minutes from Bury St Edmunds on the A1101, Bury to Mildenhall Road.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The centre is accessible by car and there is also bicycle parking available.'
-booking_link: 'https://www.ticketsource.co.uk/booking/select/RdiEJKhzXNnT'
+        text: 'Please park in the parking area adjacent to Brandon Lock Lake, Brandon Leisure Centre, Brandon, IP27 0JB'
+booking_link: 'https://www.ticketsource.co.uk/booking/select/swyXIAtboujk'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684838373
+updated_at: 1684839218
+attendance_information: 'All welcome'
+address_line_2: 'Church Road'
 ---
-A circuit walk at Lackford Lakes as part of the Suffolk Walking Festival
+Exploring Brandon as part of the Suffolk Walking Festival
