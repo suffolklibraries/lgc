@@ -1,7 +1,7 @@
 ---
 id: 2733a006-c45b-4ecf-a235-ee91ce748748
 blueprint: events
-title: 'Wild Tots: Foxburrow Nature Reserve (Duplicated)'
+title: 'Wild Tots: Foxburrow Nature Reserve'
 event_categories:
   - early-years
   - languages
@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: Screenshot-2023-05-09-at-12.18.02.png
-start_date: '2023-05-17 10:30'
-end_date: '2023-05-17 12:00'
+start_date: '2023-05-31 10:30'
+end_date: '2023-05-31 12:00'
 free: false
 cost_details: £5.50
 virtual: false
@@ -105,8 +105,8 @@ content_area:
       -
         type: text
         text: 'The meeting point is outside in the yard. The reserve is situated off the A12 Melton, Woodbridge.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2023-05-17-wild-tots-0'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2023-05-31-wild-tots'
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683631625
+updated_at: 1685010561
 ---
 Wild play activities for toddlers
