@@ -1,15 +1,15 @@
 ---
 id: 307fbd9f-cd0d-4aac-b717-1a6ee114cd6b
 blueprint: events
-title: 'Walks: East of Ipswich (Duplicated)'
+title: 'Walks: Waterfront Wander'
 event_categories:
   - guided-tour
   - history
 organisers:
   - ipswich-tourist-guide-association
 featured_image: Screenshot-2023-05-23-at-09.41.43.png
-start_date: '2023-05-30 14:00'
-end_date: '2023-05-30 15:30'
+start_date: '2023-06-06 14:00'
+end_date: '2023-06-06 15:30'
 free: false
 cost_details: £5
 virtual: false
@@ -123,6 +123,7 @@ cta: |-
 
   [https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe](https://www.ticketsource.co.uk/whats-on/ipswich/the-hold/walks-heart-of-ipswich/2022-06-28/14:00/t-mggqoe)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684831426
+updated_at: 1685004539
+attendance_information: 12+
 ---
-Discover the link between Cobbold and the Baylis families, hear about the potteries district of Ipswich and learn more about the Grimwade family.
+Discover Medieval Churches, the Victorian Dock, the unique survival of a Tudor Merchant's home and workplace, and the continuing development of Ipswich Waterfront.
