@@ -2,21 +2,22 @@
 id: 8c22450a-497c-49fd-8493-52f1d7f267c7
 published: false
 blueprint: events
-title: 'DanceEast Youth Takeover (Duplicated)'
+title: 'DanceEast Youth Festival'
 event_categories:
   - activity
   - art
   - crafts
   - dance
-  - drama
   - performance
   - teen-and-young-adult
   - workshop
+  - festival
+  - music
 organisers:
   - danceeast
-featured_image: 9J1A0010B.jpg
-start_date: '2022-07-09 10:00'
-end_date: '2022-07-09 16:00'
+featured_image: DANCEEAST-YOUTH-TAKEOVER-MALACHY-LUCKIE-28.jpg
+start_date: '2023-07-08 12:00'
+end_date: '2023-07-08 16:00'
 free: true
 virtual: false
 attendance_information: 'Young people, suggested age 12-19 but not limited to.'
@@ -40,13 +41,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Designed for and by young people, the Youth Takeover is putting young people from the local community at its heart, with space to express their identity and creativity and bring the Jerwood DanceHouse to life with an exciting programme of events and activities curated by their very own Youth Planning Team.'
+        text: 'Designed for and by young people, DanceEast Youth Festival is putting young people from the local community at its heart, with space to express their identity and creativity and bring the Jerwood DanceHouse to life with an exciting programme of events and activities curated by their very own Youth Planning Team.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The exciting line-up for the day includes; creative arts and crafts workshops, exhibitions, drag runway, pop-up performances, glitter station, DJ, breakdancing and soca dance workshops, music/art/movement jam, chill out zone and a chance to explore the green screen studio.'
+        text: 'The exciting line-up for the day includes; live music, dance workshops, creative arts and crafts workshops,  pop-up performances, exhibitions, film screenings and more! '
   -
     type: paragraph
     content:
@@ -58,7 +59,27 @@ content_area:
     content:
       -
         type: text
-        text: 'The event is part of Hullabaloo22, celebrating activity happening in Ipswich through which children and young people can express themselves, develop skills and have a voice through creative and cultural participation.'
+        text: 'Follow the DanceEast Youth Festival Team on Instagram ('
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.instagram.com/d.e_youthfestival/'
+              rel: null
+              target: null
+              title: null
+        text: '@d.e_youthfestival'
+      -
+        type: text
+        text: ') for more updates and act announcements coming soon.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We are delighted CHIp Community Hub is an event partner.'
   -
     type: heading
     attrs:
@@ -81,8 +102,8 @@ content_area:
         text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
 cta: |-
   For more information visit 
-  [https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/ ](https://www.danceeast.co.uk/workshops/youth-takeover-day-2022/)
-updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_at: 1656671144
+  [https://www.danceeast.co.uk/workshops/danceeast-youth-festival/](https://www.danceeast.co.uk/workshops/danceeast-youth-festival/)
+updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
+updated_at: 1685615114
 ---
-Youth Takover with creative arts, crafts, workshops, exhibitions and performances and more!
+Join us at DanceEst for our Youth Festival with performances, creative arts, workshops and more!
