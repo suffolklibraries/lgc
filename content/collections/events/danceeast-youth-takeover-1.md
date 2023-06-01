@@ -20,7 +20,7 @@ start_date: '2023-07-08 12:00'
 end_date: '2023-07-08 16:00'
 free: true
 virtual: false
-attendance_information: 'Young people, suggested age 12-19 but not limited to.'
+attendance_information: 'Young people, suggested age 12-25 but not limited to.'
 latitude: '52.05258683559646'
 longitude: '1.1554081269831118'
 address_line_1: 'Jerwood DanceHouse'
@@ -104,6 +104,6 @@ cta: |-
   For more information visit the
   [DanceEast website.](https://www.danceeast.co.uk/workshops/danceeast-youth-festival/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1685615252
+updated_at: 1685615368
 ---
 Join us at DanceEast for our Youth Festival with performances, creative arts, workshops and more!
