@@ -1,6 +1,5 @@
 ---
 id: 8c22450a-497c-49fd-8493-52f1d7f267c7
-published: false
 blueprint: events
 title: 'DanceEast Youth Festival'
 event_categories:
@@ -93,7 +92,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Ipswich train station is a 12-minute walk from DanceHouse.'
+        text: 'Ipswich train station is a 12-minute walk from the DanceHouse.'
   -
     type: paragraph
     content:
@@ -104,6 +103,6 @@ cta: |-
   For more information visit the
   [DanceEast website.](https://www.danceeast.co.uk/workshops/danceeast-youth-festival/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1685615368
+updated_at: 1685615473
 ---
 Join us at DanceEast for our Youth Festival with performances, creative arts, workshops and more!
