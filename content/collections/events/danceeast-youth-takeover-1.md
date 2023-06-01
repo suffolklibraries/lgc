@@ -101,9 +101,9 @@ content_area:
         type: text
         text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
 cta: |-
-  For more information visit 
-  [https://www.danceeast.co.uk/workshops/danceeast-youth-festival/](https://www.danceeast.co.uk/workshops/danceeast-youth-festival/)
+  For more information visit the
+  [DanceEast website.](https://www.danceeast.co.uk/workshops/danceeast-youth-festival/)
 updated_by: b1ed4beb-4f16-46bf-8918-46a0c99f4bef
-updated_at: 1685615114
+updated_at: 1685615252
 ---
-Join us at DanceEst for our Youth Festival with performances, creative arts, workshops and more!
+Join us at DanceEast for our Youth Festival with performances, creative arts, workshops and more!
