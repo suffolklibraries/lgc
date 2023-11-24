@@ -73,7 +73,6 @@ sections:
         field:
           mode: single
           time_enabled: true
-          time_required: true
           earliest_date: '1900-01-01'
           full_width: false
           inline: true
@@ -92,7 +91,6 @@ sections:
         field:
           mode: single
           time_enabled: true
-          time_required: true
           earliest_date: '1900-01-01'
           full_width: false
           inline: true
