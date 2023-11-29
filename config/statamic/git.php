@@ -95,7 +95,7 @@ return [
         base_path('users'),
         resource_path('blueprints'),
         resource_path('fieldsets'),
-        resource_path('forms'),
+        base_path('forms'), 
         resource_path('users'),
         resource_path('preferences.yaml'),
         storage_path('forms'),
