@@ -47,3 +47,4 @@ editor:
     - 'rename assets assets'
     - 'delete assets assets'
     - 'view users'
+    - 'access default site'
