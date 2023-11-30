@@ -1,8 +1,0 @@
-name: 'Jenny Patch'
-super: true
-id: d0ee360c-4db7-4ecf-9024-8e35603daaef
-password_hash: $2y$10$8h3MttGtHWpo4f3Z9lakXe6x3BnkuCJIgJ94lJdozi3KokpohcUeS
-preferences:
-  collections:
-    events:
-      per_page: 500
