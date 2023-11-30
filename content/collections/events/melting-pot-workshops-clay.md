@@ -2,28 +2,23 @@
 id: 2332806a-9bd3-4fc2-a560-79a3886a37aa
 published: false
 blueprint: events
-title: 'First Light Festival 2023 (Duplicated)'
+title: 'Melting Pot Workshops: Hands on with Clay'
 event_categories:
   - art
-  - family-friendly
-  - festival
-  - dance
-  - music
   - activity
-  - performance
 organisers:
   - first-light-festival
 featured_image: First-Light-Festival-credit-Mykola-Romanovsky-(1).JPG
-start_date: '2023-06-17 12:00'
-end_date: '2023-06-18 16:00'
+start_date: '2024-01-15 10:30'
+end_date: '2024-01-15 12:30'
 free: true
 virtual: false
 attendance_information: 'All welcome'
-latitude: '52.463794690387004'
-longitude: '1.7440571539658145'
-address_line_1: 'South Beach'
+latitude: '52.513031031232245'
+longitude: '1.7656002943613083'
+address_line_1: 'East Point Pavillion'
 town: Lowestoft
-postcode: 'NR33 0QG'
+postcode: 'NR33 0AP'
 content_area:
   -
     type: heading
@@ -38,19 +33,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Taking place in the UK’s most easterly town of Lowestoft, First Light Festival celebrates the first sunrise of midsummer with a free weekend of music, science, dance, art, theatre, wellbeing, activities and workshops.'
+        text: "Join Jamie and Max at East Point Pavilion for a six week of workshop playing with clay!\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can meet leading scientists and take part of hands-on science activities; hit the dancefloor and get down with dance workshops, and join in with storytelling, crafts and performance sessions.'
+        text: 'During these sessions you will learn how to model in clay, make a mould from your model, cast your model into plaster and paint them.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'With plenty to do for all ages, First Light Festival is a welcoming community gathering that celebrates shared experiences under Suffolk’s midsummer sun.'
+        text: 'Jamie and Max will be on hand for help and techniques. Materials provided and totally free!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You can book a space in advance, or just drop in on the day.'
   -
     type: paragraph
     content:
@@ -59,7 +60,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'The festival will be running from 12:00-21:30 on Saturday and 10:00-16:00 on Sunday, with a dawn programme on the Sunday morning from 03:30-05:00.'
+        text: 'Workshops will take place from 10:30-12:30 every Monday from 15 Jan - 19 Feb. You can stay for the whole session, or drop in when you can.'
   -
     type: heading
     attrs:
@@ -73,7 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: "\_It’s free and no booking is required."
+        text: 'It’s free and no booking is required.'
   -
     type: heading
     attrs:
@@ -131,8 +132,10 @@ content_area:
         type: text
         text: ' which is only a three-minute walk from the beach. '
 cta: '[https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1677840100
+updated_by: 87f603de-9e7e-4063-9310-cad1dde625ef
+updated_at: 1701344413
 duplicated_from: 22bfe7b4-6f14-4a6a-b055-724f242a8ab0
+accessibility_information: '- Wheelchair accessible'
+address_line_2: 'Royal Plain'
 ---
-Join the exciting free beach festival celebrating midsummer on Lowestoft’s South Beach!
+Free art sessions at East Point Pavilion in Lowestoft across Spring 2024
