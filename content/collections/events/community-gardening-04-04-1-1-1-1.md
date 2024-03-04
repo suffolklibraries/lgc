@@ -1,19 +1,16 @@
 ---
 id: 4f9187d8-1961-4e92-be12-51c34cd1a04f
+published: false
 blueprint: events
 title: 'Community Gardening Club'
 start_date: '2023-05-30 10:00'
 free: true
 virtual: false
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684831026
-event_categories:
-  - nature
-  - later-life
-  - community
+updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_at: 1709569997
 organisers:
   - eastern-angles
-featured_image: offthepressimages/new_resized_images/Food_Nature.png
+featured_image: offthepressimages/otpillustrations/FOOD_NATURE.png
 end_date: '2023-05-30 12:00'
 latitude: '52.06356401835797'
 longitude: '1.1373199705972623'
@@ -35,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Plant, grow, chat. Eastern Angles'' gardening club is more than just about the plants, it’s about growing new friendships too. Whether green fingered or not, there''s a place for you in the community garden.'
+        text: "Plant, grow, chat. Eastern Angles' gardening club is more than just about the plants, it’s about growing new friendships too. Whether green fingered or not, there's a place for you in the community garden."
   -
     type: paragraph
     content:
@@ -91,7 +88,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you''re interested in coming along, email Theatre & Volunteers Manager Jon on '
+        text: "If you're interested in coming along, email Theatre & Volunteers Manager Jon on "
       -
         type: text
         marks:
