@@ -10,28 +10,35 @@ data:
     - festival-bridge
   social_links:
     -
+      id: YUYeD17u
       link: 'https://www.facebook.com/SuffolkLibraries/'
       icon: facebook
     -
+      id: 7CwqZNJw
       link: 'https://twitter.com/BLOC_Arts'
       icon: twitter
     -
+      id: eRLZbFNc
       link: 'https://www.instagram.com/bloc_arts/'
       icon: instagram
     -
+      id: M7Wmbw0C
       link: 'https://www.youtube.com/user/SuffolkLibraries'
       icon: youtube
     -
+      id: oLCEFipO
       link: 'https://open.spotify.com/show/36qSnIxRfApjdCWOkmCIuy?si=TimTK26PREqiorXgYxQHsg&dl_branch=1'
       icon: spotify
   footer_links_title: 'Legal, privacy & cookies'
   footer_links:
     -
+      id: 0KNlpwA1
       text: 'Privacy and cookies'
       url: 'https://www.suffolklibraries.co.uk/about/legal-information/privacy-and-cookies'
       type: new_set
       enabled: true
     -
+      id: Dye9dxEu
       text: 'Terms & Conditions'
       url: 'https://getcreative.suffolklibraries.co.uk/terms'
       type: new_set
@@ -59,8 +66,8 @@ data:
   seo_image: suffolklibrariesimages/opengraph.png
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost activity in Suffolk then please let us know about it.'
-  listing_call_to_action: 'Get in touch with Georgie'
-  listing_image: suffolklibrariesimages/headshot-1634825971.jpg
+  listing_call_to_action: 'Get in touch with Eleanor'
+  listing_image: suffolklibrariesimages/2024-elle-root---bio-photo---low-res.jpg
   listing_email: Get.Creative@suffolklibraries.co.uk
   library_cta:
     -
