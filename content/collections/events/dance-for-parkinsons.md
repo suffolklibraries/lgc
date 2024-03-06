@@ -2,7 +2,7 @@
 id: 5f629834-f7df-42da-bb03-a1971642ca0e
 published: false
 blueprint: events
-title: 'Dance for Parkinson''s'
+title: "Dance for Parkinson's"
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1646644606
@@ -67,7 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Dance For Parkinson''s meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW.'
+        text: "Dance For Parkinson's meets at Dance East, Jerwood Dance House, Ipswich, IP4 1DW."
   -
     type: paragraph
     content:
@@ -141,6 +141,6 @@ accessibility_information: |-
   - Covid-19 preventative measures in place
 cost_details: £6
 end_date: '2022-03-16 15:30'
-attendance_information: 'Those with Parkinson''s'
+attendance_information: "Those with Parkinson's"
 ---
 Experience the joy of dancing to live music in these specially designed movement classes for those living with Parkinson's.
