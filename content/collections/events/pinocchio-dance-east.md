@@ -42,13 +42,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Based on the original book by Collodi and performed by Jasmin Vardimon''s multi-talented dancers, Pinocchio will bring to life the famous marionette as he embarks on a fantastic journey to become a human boy. '
+        text: "Based on the original book by Collodi and performed by Jasmin Vardimon's multi-talented dancers, Pinocchio will bring to life the famous marionette as he embarks on a fantastic journey to become a human boy. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Showcasing Vardimon''s uniquely theatrical choreographic and directorial style, Pinocchio will take audiences on a wonderful journey of discovery through this timeless and beloved fable.'
+        text: "Showcasing Vardimon's uniquely theatrical choreographic and directorial style, Pinocchio will take audiences on a wonderful journey of discovery through this timeless and beloved fable."
   -
     type: paragraph
     content:
