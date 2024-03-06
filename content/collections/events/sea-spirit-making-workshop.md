@@ -1,5 +1,6 @@
 ---
 id: d75d8d3c-cd2d-41ed-b58b-48762c2d518b
+published: false
 blueprint: events
 title: 'Sea Spirit Making Workshop'
 event_categories:
@@ -41,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the East Point Pavilion for an exciting session of arts and crafts, making sea spirit props to shake, wave and swirl at the First Light''s Opening Parade in June! The session is free with materials provided, and it''s open to all!'
+        text: "Visit the East Point Pavilion for an exciting session of arts and crafts, making sea spirit props to shake, wave and swirl at the First Light's Opening Parade in June! The session is free with materials provided, and it's open to all!"
   -
     type: paragraph
     content:
