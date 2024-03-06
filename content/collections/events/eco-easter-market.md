@@ -1,5 +1,6 @@
 ---
 id: 8e2eab7d-50a2-47cc-bda5-2647cccde87b
+published: false
 blueprint: events
 title: 'Eco Easter Market'
 event_categories:
@@ -77,7 +78,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich train station is a 20 minute walk from the building and if you''re travelling by bus then find out which bus routes you can take to get you to The Hold '
+        text: "The Ipswich train station is a 20 minute walk from the building and if you're travelling by bus then find out which bus routes you can take to get you to The Hold "
       -
         type: text
         marks:
