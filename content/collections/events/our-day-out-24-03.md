@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: '‘Our Day Out'' is an award-winning programme of free, inclusive, high-quality creative workshops for older people that take place in a few locations, Thetford being one of them.'
+        text: "‘Our Day Out' is an award-winning programme of free, inclusive, high-quality creative workshops for older people that take place in a few locations, Thetford being one of them."
   -
     type: paragraph
     content:
