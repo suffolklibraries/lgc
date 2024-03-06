@@ -1,5 +1,6 @@
 ---
 id: deb3424f-1a50-439c-b576-71136c0afc07
+published: false
 blueprint: events
 title: 'Dragon Boat Race'
 event_categories:
@@ -44,7 +45,7 @@ content_area:
     content:
       -
         type: text
-        text: 'It''s a popular, annual spectacle that''s not to be missed!'
+        text: "It's a popular, annual spectacle that's not to be missed!"
   -
     type: paragraph
     content:
