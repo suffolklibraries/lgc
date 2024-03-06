@@ -101,7 +101,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Art Station is just a short walk away from Saxmundham train station or, if you''re travelling by car, there is parking at the front of the building.'
+        text: "The Art Station is just a short walk away from Saxmundham train station or, if you're travelling by car, there is parking at the front of the building."
   -
     type: heading
     attrs:
