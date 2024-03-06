@@ -2,7 +2,7 @@
 id: 5de98e66-75c9-4fcd-91eb-bb63850f3086
 published: false
 blueprint: events
-title: 'Marvellous and Mischievous: Literature''s Young Rebels Exhibition'
+title: "Marvellous and Mischievous: Literature's Young Rebels Exhibition"
 event_categories:
   - exhibition
   - art
@@ -50,7 +50,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Marvellous and Mischievous: Literature''s Young Rebels Exhibition at The Hold, 131 Fore Street, Ipswich, IP4 1LR'
+        text: "Marvellous and Mischievous: Literature's Young Rebels Exhibition at The Hold, 131 Fore Street, Ipswich, IP4 1LR"
   -
     type: paragraph
     content:
