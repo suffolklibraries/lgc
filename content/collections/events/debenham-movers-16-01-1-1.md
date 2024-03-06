@@ -1,5 +1,6 @@
 ---
 id: 63b50c6b-377f-4af2-b4f2-7c8cbc2a5e91
+published: false
 blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
@@ -43,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions about DanceEast''s Movers classes via the '
+        text: "Please don’t hesitate to get in touch with your questions about DanceEast's Movers classes via the "
       -
         type: text
         marks:
@@ -54,7 +55,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Dance East''s Facebook page'
+        text: "Dance East's Facebook page"
       -
         type: text
         text: .
