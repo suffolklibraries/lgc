@@ -11,7 +11,7 @@ event_categories:
   - art
 organisers:
   - spill-festival
-featured_image: 'Spill''s-christmas-fair.PNG'
+featured_image: "Spill's-christmas-fair.PNG"
 start_date: '2022-11-26 10:00'
 end_date: '2022-11-26 16:00'
 free: true
