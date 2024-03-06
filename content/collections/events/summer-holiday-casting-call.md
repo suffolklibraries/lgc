@@ -18,7 +18,7 @@ end_date: '2022-06-12 23:59'
 attendance_information: 16+
 latitude: '52.60535980242166'
 longitude: '1.7292416117707654'
-address_line_1: 'St George''s Theatre'
+address_line_1: "St George's Theatre"
 address_line_2: 'King Street'
 town: 'Great Yarmouth'
 postcode: 'NR30 2PG'
@@ -56,13 +56,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Summer Holiday: Casting call takes place at St George''s Theatre, NR30 2PG on the 12th of June.'
+        text: "Summer Holiday: Casting call takes place at St George's Theatre, NR30 2PG on the 12th of June."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'For more information about accessibility needs please visit the St. George''s website '
+        text: "For more information about accessibility needs please visit the St. George's website "
       -
         type: text
         marks:
@@ -90,7 +90,7 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'parking page on the St. George''s website'
+        text: "parking page on the St. George's website"
   -
     type: heading
     attrs:
