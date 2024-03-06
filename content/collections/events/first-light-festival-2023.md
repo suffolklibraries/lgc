@@ -1,5 +1,6 @@
 ---
 id: 22bfe7b4-6f14-4a6a-b055-724f242a8ab0
+published: false
 blueprint: events
 title: 'First Light Festival 2023'
 event_categories:
@@ -100,7 +101,7 @@ content_area:
         text: 'see timetables here'
       -
         type: text
-        text: '. If you''re traveling by car, the nearest parking is the '
+        text: ". If you're traveling by car, the nearest parking is the "
       -
         type: text
         marks:
