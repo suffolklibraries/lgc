@@ -117,7 +117,7 @@ content_area:
     content:
       -
         type: text
-        text: 'St Peter''s Docks car park is a two minute walk away from the venue. '
+        text: "St Peter's Docks car park is a two minute walk away from the venue. "
   -
     type: paragraph
     content:
