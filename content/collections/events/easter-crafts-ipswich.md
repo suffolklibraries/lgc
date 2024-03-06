@@ -2,7 +2,7 @@
 id: 224f3c7c-9d47-451b-a20e-519c67018908
 published: false
 blueprint: events
-title: 'Let''s Get Crafty: Easter Crafts'
+title: "Let's Get Crafty: Easter Crafts"
 organisers:
   - suffolk-archives
 start_date: '2022-04-11 10:00'
@@ -49,7 +49,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Let''s Get Crafty: Easter Crafts meets at The Hold, 131 Fore Street, Ipswich.'
+        text: "Let's Get Crafty: Easter Crafts meets at The Hold, 131 Fore Street, Ipswich."
   -
     type: paragraph
     content:
@@ -80,7 +80,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'What''s On - Suffolk Archives'
+        text: "What's On - Suffolk Archives"
       -
         type: text
         text: '. '
