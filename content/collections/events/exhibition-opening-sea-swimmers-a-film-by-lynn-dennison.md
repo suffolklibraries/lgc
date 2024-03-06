@@ -33,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet at Hamilton MAS for the opening of Lynn Dennison''s film ''Sea Swimmers'' with an artist introduction and refreshments.'
+        text: "Meet at Hamilton MAS for the opening of Lynn Dennison's film 'Sea Swimmers' with an artist introduction and refreshments."
   -
     type: paragraph
     content:
