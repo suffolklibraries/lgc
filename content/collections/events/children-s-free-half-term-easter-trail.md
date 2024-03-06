@@ -1,7 +1,8 @@
 ---
 id: f02fe99a-b013-40b6-a6f7-0090d8306cbd
+published: false
 blueprint: events
-title: 'Children''s FREE Half Term Easter Trail'
+title: "Children's FREE Half Term Easter Trail"
 event_categories:
   - family-friendly
   - food
