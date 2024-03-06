@@ -1,5 +1,6 @@
 ---
 id: e695fcfb-01c2-4ba5-86a5-70cb9a18952a
+published: false
 blueprint: events
 title: 'Holi Festival'
 organisers:
