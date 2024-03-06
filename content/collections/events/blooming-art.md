@@ -1,6 +1,5 @@
 ---
 id: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
-published: false
 blueprint: events
 title: 'Blooming Art'
 event_categories:
@@ -114,7 +113,7 @@ cta: |-
 
   [01473 211498](tel:01473 211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709738172
+updated_at: 1709738388
 duplicated_from: ffdc2bc1-9d49-45d4-b721-0829ec68c3e0
 ---
 This spring we’re picking up the artist’s palette, paints and canvas to unearth the artistic legacy of Hadleigh in a new community heritage project.
