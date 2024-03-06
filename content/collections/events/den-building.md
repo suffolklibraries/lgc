@@ -118,7 +118,7 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'What''s On West Suffolk website.'
+        text: "What's On West Suffolk website."
       -
         type: text
         text: ' '
