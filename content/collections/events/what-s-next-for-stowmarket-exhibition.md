@@ -2,7 +2,7 @@
 id: 051dbde0-d4a2-408b-b359-c113ca2cb31d
 published: false
 blueprint: events
-title: 'What''s Next for Stowmarket Exhibition'
+title: "What's Next for Stowmarket Exhibition"
 event_categories:
   - community
   - teen-and-young-adult
@@ -10,7 +10,7 @@ event_categories:
   - exhibition
 organisers:
   - mid-suffolk-district-council
-featured_image: 'What''s-next-for-Stowmarket-2.JPG'
+featured_image: "What's-next-for-Stowmarket-2.JPG"
 start_date: '2022-09-22 17:00'
 end_date: '2022-09-22 19:00'
 free: true
