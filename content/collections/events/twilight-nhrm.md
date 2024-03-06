@@ -39,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and explore the Trainer''s House at the National Horse Racing Museum in darkness. '
+        text: "Come and explore the Trainer's House at the National Horse Racing Museum in darkness. "
   -
     type: paragraph
     content:
