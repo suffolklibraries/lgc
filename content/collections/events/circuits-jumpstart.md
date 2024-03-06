@@ -27,7 +27,7 @@ accessibility_information: |-
 latitude: '52.24827055592986'
 longitude: '0.711452419653161'
 address_line_1: 'Bury St Edmunds Library'
-address_line_2: '2B St Andrew''s St N'
+address_line_2: "2B St Andrew's St N"
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 1TZ'
 content_area:
@@ -105,7 +105,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/Bury+St+Edmunds/@52.2530528,0.7120045,17.56z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d84c68312f8e31:0x2689f9fc66112960!2sBury+St+Edmunds,+Bury+Saint+Edmunds!2m2!1d0.7124833!2d52.2535507!1m6!1m2!1s0x47d84c438eb4972d:0x7f9734215b8d6125!2sBury+St+Edmunds+Library,+2B+St+Andrew''s+St+N,+Bury+Saint+Edmunds+IP33+1TZ!2m2!1d0.7114645!2d52.2480445!3e3!3m4!1s0x47d84c68312f8e31:0x2689f9fc66112960!8m2!3d52.2535507!4d0.7124833'
+              href: "https://www.google.co.uk/maps/place/Bury+St+Edmunds/@52.2530528,0.7120045,17.56z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d84c68312f8e31:0x2689f9fc66112960!2sBury+St+Edmunds,+Bury+Saint+Edmunds!2m2!1d0.7124833!2d52.2535507!1m6!1m2!1s0x47d84c438eb4972d:0x7f9734215b8d6125!2sBury+St+Edmunds+Library,+2B+St+Andrew's+St+N,+Bury+Saint+Edmunds+IP33+1TZ!2m2!1d0.7114645!2d52.2480445!3e3!3m4!1s0x47d84c68312f8e31:0x2689f9fc66112960!8m2!3d52.2535507!4d0.7124833"
               rel: null
               target: null
               title: null
@@ -133,7 +133,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/Cornhill+Car+Park/@52.2461317,0.7117458,18.56z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d84c445fd5da97:0x98af94846df0696c!2sCornhill+Car+Park,+Buttermarket,+Cornhill,+Bury+Saint+Edmunds+IP33+1DY!2m2!1d0.7124119!2d52.2461779!1m6!1m2!1s0x47d84c438eb4972d:0x7f9734215b8d6125!2sBury+St+Edmunds+Library,+2B+St+Andrew''s+St+N,+Bury+Saint+Edmunds+IP33+1TZ!2m2!1d0.7114645!2d52.2480445!3e3!3m4!1s0x47d84c445fd5da97:0x98af94846df0696c!8m2!3d52.2461779!4d0.7124119'
+              href: "https://www.google.co.uk/maps/place/Cornhill+Car+Park/@52.2461317,0.7117458,18.56z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d84c445fd5da97:0x98af94846df0696c!2sCornhill+Car+Park,+Buttermarket,+Cornhill,+Bury+Saint+Edmunds+IP33+1DY!2m2!1d0.7124119!2d52.2461779!1m6!1m2!1s0x47d84c438eb4972d:0x7f9734215b8d6125!2sBury+St+Edmunds+Library,+2B+St+Andrew's+St+N,+Bury+Saint+Edmunds+IP33+1TZ!2m2!1d0.7114645!2d52.2480445!3e3!3m4!1s0x47d84c445fd5da97:0x98af94846df0696c!8m2!3d52.2461779!4d0.7124119"
               rel: null
               target: null
               title: null
