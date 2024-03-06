@@ -1,5 +1,6 @@
 ---
 id: 75f68ba7-5f8f-43d5-b941-19eb9bc873ba
+published: false
 blueprint: events
 title: 'Dressing Queen Bess'
 event_categories:
