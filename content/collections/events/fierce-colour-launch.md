@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For one evening only, experience the culmination of 23 female artists'' work and get the chance to meet them.'
+        text: "For one evening only, experience the culmination of 23 female artists' work and get the chance to meet them."
   -
     type: paragraph
     content:
