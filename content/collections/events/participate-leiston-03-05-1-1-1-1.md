@@ -1,5 +1,6 @@
 ---
 id: 4293b5f4-c802-4665-872b-daed0a46e999
+published: false
 blueprint: events
 title: 'Participate - Woodbridge'
 latitude: '52.094356210893544'
@@ -88,7 +89,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest bus stop is St Mary''s and is serviced by the 70 and 70A Village Buses. It is a 9 minute walk from the venue.'
+        text: "The nearest bus stop is St Mary's and is serviced by the 70 and 70A Village Buses. It is a 9 minute walk from the venue."
   -
     type: paragraph
     content:
