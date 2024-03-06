@@ -36,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Go beyond the displays of ''Women don''t do such things!'' exhibition at The Hold with a 30 minute family friendly tour from our exhibition team. Suffolk women past and present who have led change in their communities, careers and countries throughout history. Open a window on the world to hear more moving and poignant stories of women worldwide. Then take part in a fun and engaging craft workshop to create a unique suffragette rosette and medal for women in your family or community who have inspired you.'
+        text: "Go beyond the displays of 'Women don't do such things!' exhibition at The Hold with a 30 minute family friendly tour from our exhibition team. Suffolk women past and present who have led change in their communities, careers and countries throughout history. Open a window on the world to hear more moving and poignant stories of women worldwide. Then take part in a fun and engaging craft workshop to create a unique suffragette rosette and medal for women in your family or community who have inspired you."
   -
     type: heading
     attrs:
