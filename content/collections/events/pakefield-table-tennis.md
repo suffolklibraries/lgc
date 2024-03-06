@@ -15,7 +15,7 @@ cost_details: '£2 per session'
 virtual: false
 latitude: '52.45433222969411'
 longitude: '1.728592200002085'
-address_line_1: 'Men''s Shed Pakefield'
+address_line_1: "Men's Shed Pakefield"
 address_line_2: '28 Stradbroke Rd'
 town: Lowestoft
 postcode: 'NR33 7HN'
@@ -53,7 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Pakefield Table Tennis Club takes place at Men''s Shed Pakefield, NR33 7HN.'
+        text: "Pakefield Table Tennis Club takes place at Men's Shed Pakefield, NR33 7HN."
   -
     type: paragraph
     content:
