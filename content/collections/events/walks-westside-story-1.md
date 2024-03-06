@@ -12,7 +12,7 @@ organisers:
 start_date: '2022-08-04 14:00'
 end_date: '2022-08-04 15:30'
 free: false
-cost_details: '£5, under 12''s FREE'
+cost_details: "£5, under 12's FREE"
 virtual: false
 accessibility_information: |-
   - Wheelchair friendly
