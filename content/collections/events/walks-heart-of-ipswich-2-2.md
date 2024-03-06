@@ -1,5 +1,6 @@
 ---
 id: bdf862a1-40db-4e0e-9d99-3cf2b22f136e
+published: false
 blueprint: events
 title: 'Walks: East of Ipswich'
 event_categories:
