@@ -1,5 +1,6 @@
 ---
 id: a43c147d-f960-4f94-b41a-0b4b9899bd29
+published: false
 blueprint: events
 title: 'The Bungees: Live at The Smokehouse'
 event_categories:
