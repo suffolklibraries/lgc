@@ -1,5 +1,6 @@
 ---
 id: 839498ac-d8ec-4e33-80b4-6d1921e3653c
+published: false
 blueprint: events
 title: 'Beccles Food and Drink Festival'
 event_categories:
@@ -32,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: '60 artisan East Anglian food and drink stalls, world street food, cookery theatre, music, children''s entertainment, all set in the lovely centre of a vibrant market town.'
+        text: "60 artisan East Anglian food and drink stalls, world street food, cookery theatre, music, children's entertainment, all set in the lovely centre of a vibrant market town."
   -
     type: paragraph
     content:
