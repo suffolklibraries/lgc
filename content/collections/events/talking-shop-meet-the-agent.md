@@ -109,7 +109,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich train station is a 20-minute walk from The Hold and if you''re traveling by bus, check out the '
+        text: "The Ipswich train station is a 20-minute walk from The Hold and if you're traveling by bus, check out the "
       -
         type: text
         marks:
