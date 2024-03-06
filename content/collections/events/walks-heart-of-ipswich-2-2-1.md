@@ -1,5 +1,6 @@
 ---
 id: 307fbd9f-cd0d-4aac-b717-1a6ee114cd6b
+published: false
 blueprint: events
 title: 'Walks: Waterfront Wander'
 event_categories:
