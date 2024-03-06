@@ -106,7 +106,7 @@ content_area:
     content:
       -
         type: text
-        text: 'James''s new collection '
+        text: "James's new collection "
       -
         type: text
         marks:
