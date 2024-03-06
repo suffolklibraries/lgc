@@ -17,7 +17,7 @@ virtual: false
 attendance_information: 'Those aged 18-25'
 latitude: '52.05322306441427'
 longitude: '1.1541601941773403'
-address_line_1: 'St Peter''s by the Waterfront'
+address_line_1: "St Peter's by the Waterfront"
 address_line_2: 'College St'
 town: Ipswich
 postcode: 'IP4 1BF'
@@ -118,18 +118,18 @@ content_area:
     content:
       -
         type: text
-        text: 'St Peter''s by the Waterfront is located to the south of the town centre, about 10-15 minutes walk from the Tower Ramparts and Old Cattle Market Bus Stations and about 15 minutes from the Ipswich Rail Station. If you are travelling by car, '
+        text: "St Peter's by the Waterfront is located to the south of the town centre, about 10-15 minutes walk from the Tower Ramparts and Old Cattle Market Bus Stations and about 15 minutes from the Ipswich Rail Station. If you are travelling by car, "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/St+Peter''s+Dock+Car+Park/@52.0527621,1.1528438,18z/data=!4m6!3m5!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.0523796!4d1.1539305!16s%2Fg%2F11g9q64x5g'
+              href: "https://www.google.com/maps/place/St+Peter's+Dock+Car+Park/@52.0527621,1.1528438,18z/data=!4m6!3m5!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.0523796!4d1.1539305!16s%2Fg%2F11g9q64x5g"
               rel: null
               target: null
               title: null
-        text: 'St Peter''s Dock Car Park'
+        text: "St Peter's Dock Car Park"
       -
         type: text
         text: ' is the closest parking, only one minute away from the venue. '
