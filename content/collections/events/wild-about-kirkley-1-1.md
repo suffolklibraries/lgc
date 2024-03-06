@@ -22,7 +22,7 @@ accessibility_information: |-
 latitude: '52.46392274636533'
 longitude: '1.7380808653535558'
 address_line_1: 'Kirkley Church Hall'
-address_line_2: 'St Peter''s Road'
+address_line_2: "St Peter's Road"
 town: Lowestoft
 postcode: 'NR33 0LJ'
 content_area:
