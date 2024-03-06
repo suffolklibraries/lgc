@@ -16,7 +16,7 @@ featured_image: C907431F-5626-48F2-8AF8-2122D12F2747.jpg
 start_date: '2023-02-22 19:30'
 end_date: '2023-02-22 20:30'
 free: false
-cost_details: '£3 (under 25''s FREE)'
+cost_details: "£3 (under 25's FREE)"
 virtual: false
 attendance_information: 'All welcome'
 latitude: '52.05781512210741'
