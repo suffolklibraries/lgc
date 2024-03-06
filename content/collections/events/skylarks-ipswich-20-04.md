@@ -1,5 +1,6 @@
 ---
 id: 6af827e1-6e10-4a5e-94db-f08c58105ed4
+published: false
 blueprint: events
 title: 'East Suffolk Skylarks - Ipswich'
 latitude: '52.0662303017994'
@@ -88,7 +89,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Skylarks takes place at 10:30am to 12pm every other Thursday at Ransomes Sports Pavilion, Sidegate Avenue, Ipswich, IP4 4JJ. For more information on how to get to Ransomes Sports Pavillion please visit the venue''s website: '
+        text: "Skylarks takes place at 10:30am to 12pm every other Thursday at Ransomes Sports Pavilion, Sidegate Avenue, Ipswich, IP4 4JJ. For more information on how to get to Ransomes Sports Pavillion please visit the venue's website: "
       -
         type: text
         marks:
