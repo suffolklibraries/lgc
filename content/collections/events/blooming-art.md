@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: "We’ll be celebrating the work produced through the project in a community celebration event including\_a family-friendly arts workshop, exhibition of produced works and a light display on Deanery Tower.\_"
+        text: "We’ll be celebrating the work produced through the Blooming Art project in a community celebration event including\_a family-friendly arts workshop, exhibition of produced works and a light display on Deanery Tower.\_"
   -
     type: paragraph
     content:
@@ -113,7 +113,7 @@ cta: |-
 
   [01473 211498](tel:01473 211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709738388
+updated_at: 1709738486
 duplicated_from: ffdc2bc1-9d49-45d4-b721-0829ec68c3e0
 ---
 This spring we’re picking up the artist’s palette, paints and canvas to unearth the artistic legacy of Hadleigh in a new community heritage project.
