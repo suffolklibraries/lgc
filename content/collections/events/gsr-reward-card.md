@@ -43,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Attend six events held by Get Suffolk Reading, or one of its partners, for the chance to win prizes for the whole family. Find these events on the Let''s Get Creative website by selecting the ''Get Suffolk Reading'' category tag.'
+        text: "Attend six events held by Get Suffolk Reading, or one of its partners, for the chance to win prizes for the whole family. Find these events on the Let's Get Creative website by selecting the 'Get Suffolk Reading' category tag."
   -
     type: paragraph
     content:
