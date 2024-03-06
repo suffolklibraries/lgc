@@ -19,7 +19,7 @@ virtual: false
 attendance_information: '- All welcome'
 latitude: '52.48809089185485'
 longitude: '1.7575930288362416'
-address_line_1: 'Sparrow''s Nest'
+address_line_1: "Sparrow's Nest"
 address_line_2: 'Whapload Rd'
 town: Lowestoft
 postcode: 'NR32 1XG'
