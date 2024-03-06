@@ -118,7 +118,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Have a read through the project information for the location you''re interested in (Woodbridge, Lowestoft or Felixstowe).'
+        text: "Have a read through the project information for the location you're interested in (Woodbridge, Lowestoft or Felixstowe)."
   -
     type: paragraph
     content:
