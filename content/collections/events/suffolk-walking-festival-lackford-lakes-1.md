@@ -1,5 +1,6 @@
 ---
 id: fb2f6049-3bc4-4ad7-bfce-d4939396999c
+published: false
 blueprint: events
 title: 'Suffolk Walking Festival: Breathe in the Brecks'
 event_categories:
