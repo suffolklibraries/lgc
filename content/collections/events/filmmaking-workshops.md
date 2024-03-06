@@ -1,5 +1,6 @@
 ---
 id: dc431187-90ff-4089-a42a-8e8c113e227c
+published: false
 blueprint: events
 title: 'Filmmaking Workshops'
 event_categories:
