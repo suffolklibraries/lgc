@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Fierce Colour is an art exhibition bringing together 23 local female artists'' work. The temporary exhibition at Ronin Body Arts will be available to view from Tuesday 15th to Friday 18th March during the day. Please see below for the list of artists taking part.'
+        text: "Fierce Colour is an art exhibition bringing together 23 local female artists' work. The temporary exhibition at Ronin Body Arts will be available to view from Tuesday 15th to Friday 18th March during the day. Please see below for the list of artists taking part."
   -
     type: paragraph
     content:
