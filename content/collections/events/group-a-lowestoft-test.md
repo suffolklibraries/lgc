@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'As it''s a longer day than usual, you’ll need to bring: '
+        text: "As it's a longer day than usual, you’ll need to bring: "
   -
     type: bullet_list
     content:
