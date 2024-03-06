@@ -1,5 +1,6 @@
 ---
 id: 58470edd-de76-4547-8b38-6bb30979e809
+published: false
 blueprint: events
 title: 'Saxmundham Arts Festival'
 event_categories:
@@ -35,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along and join in with a new and exciting festival of art and music happening in Saxmundham. There will be artist-led workshops, music from young local bands and musicians, DJ''s, tasty food and drink and fun activities for all age groups - and the festival is FREE!'
+        text: "Come along and join in with a new and exciting festival of art and music happening in Saxmundham. There will be artist-led workshops, music from young local bands and musicians, DJ's, tasty food and drink and fun activities for all age groups - and the festival is FREE!"
   -
     type: paragraph
     content:
