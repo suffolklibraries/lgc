@@ -6,7 +6,7 @@ event_categories:
   - community
 organisers:
   - future-female-society
-featured_image: offthepressimages/otpillustrations/LATER.png
+featured_image: offthepressimages/new_resized_images/Later_Nature.png
 start_date: '2024-03-15 10:00'
 end_date: '2024-03-15 12:00'
 free: true
@@ -93,7 +93,7 @@ cta: |-
 
   [stacey@futurefemalesociety.org](mailto:stacey@futurefemalesociety.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709744760
+updated_at: 1709745028
 duplicated_from: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
 accessibility_information: '[Click here to visit the New Wolsey Theatre website for access information](https://www.wolseytheatre.co.uk/access/)'
 ---
