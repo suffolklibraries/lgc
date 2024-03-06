@@ -2,7 +2,7 @@
 id: 02cc2b84-32ee-45f9-87bf-164a38514855
 published: false
 blueprint: events
-title: 'Lowestoft Movers - St. Margaret''s Church'
+title: "Lowestoft Movers - St. Margaret's Church"
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
 updated_at: 1680716574
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers is a gentle movement class for over 55s. Held every Thursday at 11:00am - 12:00pm at St Margaret''s Hall.'
+        text: "Lowestoft Movers is a gentle movement class for over 55s. Held every Thursday at 11:00am - 12:00pm at St Margaret's Hall."
   -
     type: paragraph
     content:
@@ -142,7 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft movers meets at St Margaret''s Hall and The Seagull Theatre in Lowestoft. Both venues have double doors for those that have accessibility needs. '
+        text: "Lowestoft movers meets at St Margaret's Hall and The Seagull Theatre in Lowestoft. Both venues have double doors for those that have accessibility needs. "
 cta: |-
   This event is organised by Dance East. Please contact Alysha Hudson:
 
@@ -158,7 +158,7 @@ accessibility_information: |-
 cost_details: £5
 latitude: '52.48648327953463'
 longitude: '1.7417192424554064'
-address_line_1: 'St Margaret''s Church'
+address_line_1: "St Margaret's Church"
 address_line_2: '147 Hollingsworth Rd'
 postcode: 'NR32 4BW'
 ---
