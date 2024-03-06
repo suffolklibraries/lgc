@@ -19,7 +19,7 @@ attendance_information: 'Primary school age'
 latitude: '52.46679619590863'
 longitude: '1.7367172112738924'
 address_line_1: 'Fen Park'
-address_line_2: 'Martin''s Avenue'
+address_line_2: "Martin's Avenue"
 town: Lowestoft
 postcode: 'NR33 0LX'
 content_area:
