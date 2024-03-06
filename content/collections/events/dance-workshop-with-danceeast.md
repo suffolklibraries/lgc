@@ -146,13 +146,13 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/St+Peter''s+Dock+Car+Park/@52.0522246,1.154028,19z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d9a02eb2d6ee63:0x2bff9f702ff4b45e!2sJerwood+Dancehouse,+Ipswich!2m2!1d1.1553014!2d52.052411!1m6!1m2!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!2sSt+Peter''s+Dock+Car+Park,+Bridge+St,+Ipswich+IP1+1XH!2m2!1d1.1539305!2d52.0523796!3e3!3m4!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.0523796!4d1.1539305'
+              href: "https://www.google.co.uk/maps/place/St+Peter's+Dock+Car+Park/@52.0522246,1.154028,19z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d9a02eb2d6ee63:0x2bff9f702ff4b45e!2sJerwood+Dancehouse,+Ipswich!2m2!1d1.1553014!2d52.052411!1m6!1m2!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!2sSt+Peter's+Dock+Car+Park,+Bridge+St,+Ipswich+IP1+1XH!2m2!1d1.1539305!2d52.0523796!3e3!3m4!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.0523796!4d1.1539305"
               rel: null
               target: null
               title: null
           -
             type: bold
-        text: 'St Peter''s Dock Car Park'
+        text: "St Peter's Dock Car Park"
       -
         type: text
         text: .
