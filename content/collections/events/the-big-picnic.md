@@ -57,7 +57,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You''ll be able to watch '
+        text: "You'll be able to watch "
       -
         type: text
         marks:
@@ -102,7 +102,7 @@ content_area:
         text: 'roaming magician'
       -
         type: text
-        text: ' and their card tricks! There''s plenty of other free interactive activities for families to get involved with too, such as'
+        text: " and their card tricks! There's plenty of other free interactive activities for families to get involved with too, such as"
       -
         type: text
         marks:
