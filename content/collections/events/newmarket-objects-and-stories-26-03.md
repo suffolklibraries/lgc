@@ -35,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Residents in Newmarket are invited to visit their local library to take part in a project all about objects that hold a personal story. All you need to do is bring along an item which tells us something about you and who you are.  When you arrive you''ll be asked about why this object is special to you and what story does it tell about you. '
+        text: "Residents in Newmarket are invited to visit their local library to take part in a project all about objects that hold a personal story. All you need to do is bring along an item which tells us something about you and who you are.  When you arrive you'll be asked about why this object is special to you and what story does it tell about you. "
   -
     type: paragraph
     content:
@@ -47,7 +47,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you''d like to see examples of how the project will come together then please visit the '
+        text: "If you'd like to see examples of how the project will come together then please visit the "
       -
         type: text
         marks:
@@ -61,7 +61,7 @@ content_area:
         text: 'Instagram page'
       -
         type: text
-        text: ' or search ''Newmarket objects and stories'' on Instagram. '
+        text: " or search 'Newmarket objects and stories' on Instagram. "
   -
     type: paragraph
     content:
