@@ -67,7 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There''s no need to book but for more information contact Cad at '
+        text: "There's no need to book but for more information contact Cad at "
       -
         type: text
         marks:
