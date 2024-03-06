@@ -1,5 +1,6 @@
 ---
 id: 5197eed6-9035-458d-9c6b-3371fca60477
+published: false
 blueprint: events
 title: 'Walks: Name Dropping'
 event_categories:
