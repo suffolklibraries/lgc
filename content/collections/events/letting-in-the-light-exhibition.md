@@ -16,7 +16,7 @@ attendance_information: 'All welcome'
 latitude: '52.48039102199915'
 longitude: '1.755127450149586'
 address_line_1: 'Old Ladbrokes Building'
-address_line_2: '5-7 St Peter''s Street, Triangle Market'
+address_line_2: "5-7 St Peter's Street, Triangle Market"
 town: Lowestoft
 postcode: 'NR32 1 QA'
 content_area:
