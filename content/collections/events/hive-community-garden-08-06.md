@@ -35,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Community, culture and art come together at The Hive and now gardening too! This new informal and relaxed gardening project will be taking place on Wednesdays between 10am and 12pm in the green space at the back of The Hive. If you''re interested in coming along or looking for more information then please call Cad on '
+        text: "Community, culture and art come together at The Hive and now gardening too! This new informal and relaxed gardening project will be taking place on Wednesdays between 10am and 12pm in the green space at the back of The Hive. If you're interested in coming along or looking for more information then please call Cad on "
       -
         type: text
         marks:
@@ -125,7 +125,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is an informal, drop in event so there''s no need to book, however if you''re interested in coming along, or looking for more information, then please call Cad on '
+        text: "This is an informal, drop in event so there's no need to book, however if you're interested in coming along, or looking for more information, then please call Cad on "
       -
         type: text
         marks:
