@@ -2,7 +2,7 @@
 id: 2330181d-5285-4834-b6b1-4b335d44ca5a
 published: false
 blueprint: events
-title: 'Verbatim theatre workshops “Now''t As Queer As Folk”'
+title: "Verbatim theatre workshops “Now't As Queer As Folk”"
 start_date: '2022-03-01 19:00'
 free: false
 virtual: false
@@ -157,7 +157,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Adult Theatre Workshop - There''s Nowt So Queer As Folk - Theatre Royal'
+        text: "Adult Theatre Workshop - There's Nowt So Queer As Folk - Theatre Royal"
       -
         type: text
         text: ' to book place directly.'
