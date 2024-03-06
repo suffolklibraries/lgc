@@ -1,5 +1,6 @@
 ---
 id: 9732f99d-d1e4-41cd-b700-38dffe8beb56
+published: false
 blueprint: events
 title: 'Walks: Did Thomas Wolsey Drink Here?'
 event_categories:
