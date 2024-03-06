@@ -1,5 +1,6 @@
 ---
 id: 674116d9-26ae-44b6-84aa-59f1c4c113fc
+published: false
 blueprint: events
 title: 'Woodbridge Tide Mill Museum - Free Entry'
 event_categories:
