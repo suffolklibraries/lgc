@@ -2,7 +2,7 @@
 id: 46b655d8-297a-43c0-aa4f-78e046d226a1
 published: false
 blueprint: events
-title: 'Let''s Get Crafty: Easter Fun at Suffolk Archives'
+title: "Let's Get Crafty: Easter Fun at Suffolk Archives"
 organisers:
   - suffolk-archives
 start_date: '2022-04-13 10:00'
@@ -49,7 +49,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Let''s Get Crafty: Easter Crafts meets at Lowestoft Central Library, NR32 1DR.'
+        text: "Let's Get Crafty: Easter Crafts meets at Lowestoft Central Library, NR32 1DR."
   -
     type: paragraph
     content:
@@ -86,7 +86,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'What''s On - Suffolk Archives'
+        text: "What's On - Suffolk Archives"
       -
         type: text
         text: '. '
