@@ -13,7 +13,7 @@ featured_image: Farrier-comp-2021.jpg
 start_date: '2022-08-06 11:00'
 end_date: '2022-08-06 17:00'
 free: false
-cost_details: '£15 adults, under 16''s FREE'
+cost_details: "£15 adults, under 16's FREE"
 virtual: false
 attendance_information: 'All welcome'
 accessibility_information: |-
