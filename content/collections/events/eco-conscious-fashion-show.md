@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Celebrate International Women''s Day with us and help promote sustainable clothing by visiting our clothing sale and fashion show event!'
+        text: "Celebrate International Women's Day with us and help promote sustainable clothing by visiting our clothing sale and fashion show event!"
   -
     type: paragraph
     content:
@@ -56,7 +56,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A free buffet will be provided by Dyer''s Diner. This event is free to attend but donations are welcome.'
+        text: "A free buffet will be provided by Dyer's Diner. This event is free to attend but donations are welcome."
   -
     type: heading
     attrs:
