@@ -58,7 +58,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest bus stop is on Fisherman''s Way and is served by the Coastal 99 Clipper.'
+        text: "The nearest bus stop is on Fisherman's Way and is served by the Coastal 99 Clipper."
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
 updated_at: 1663063174
 organisers:
