@@ -28,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: '''Unseen & Unceasing'' is part of a creative heritage project that began last year when The Art Station opened areas of the old Saxmundham telephone exchange to the public for the first time to celebrate the historical significance of Saxmundham as a former hub for connectivity in Suffolk. Taking inspiration from this project, artist Henry Driver has created a new digital artwork which will be launched at The Art Station. ''Unseen and Unceasing'' is an awe-inspiring digital immersive experience, inviting the viewer to explore incredibly vivid and complex visual environments, and discover more about the nature of connectivity. Following the launch, the piece will also be hosted online to view via '
+        text: "'Unseen & Unceasing' is part of a creative heritage project that began last year when The Art Station opened areas of the old Saxmundham telephone exchange to the public for the first time to celebrate the historical significance of Saxmundham as a former hub for connectivity in Suffolk. Taking inspiration from this project, artist Henry Driver has created a new digital artwork which will be launched at The Art Station. 'Unseen and Unceasing' is an awe-inspiring digital immersive experience, inviting the viewer to explore incredibly vivid and complex visual environments, and discover more about the nature of connectivity. Following the launch, the piece will also be hosted online to view via "
       -
         type: text
         marks:
@@ -88,7 +88,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Art Station is just a short walk away from Saxmundham train station or, if you''re travelling by car, there is parking at the front of the building.'
+        text: "The Art Station is just a short walk away from Saxmundham train station or, if you're travelling by car, there is parking at the front of the building."
   -
     type: heading
     attrs:
