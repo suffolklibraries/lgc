@@ -178,7 +178,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Group A is free to attend, and there''s no application or audition process. New members are always welcome!'
+        text: "Group A is free to attend, and there's no application or audition process. New members are always welcome!"
   -
     type: heading
     attrs:
