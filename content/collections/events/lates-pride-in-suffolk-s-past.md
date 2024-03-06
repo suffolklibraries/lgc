@@ -2,7 +2,7 @@
 id: f991a378-25cb-4c08-9f79-b5d89886356e
 published: false
 blueprint: events
-title: 'Lates: Pride in Suffolk''s Past'
+title: "Lates: Pride in Suffolk's Past"
 event_categories:
   - museums
   - teen-and-young-adult
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Celebrate LGBTQ+ month in February and learn more about the hidden histories of LGBTQ+ people in Suffolk''s Past. The history of such communities is complicated yet interesting and revolutionary, so join The Hold to discover more and spend an evening with a great group of people.'
+        text: "Celebrate LGBTQ+ month in February and learn more about the hidden histories of LGBTQ+ people in Suffolk's Past. The history of such communities is complicated yet interesting and revolutionary, so join The Hold to discover more and spend an evening with a great group of people."
   -
     type: heading
     attrs:
@@ -76,7 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich train station is a 20-minute walk from the building and if you''re travelling by bus then find out which bus routes you can take to get you to The Hold '
+        text: "The Ipswich train station is a 20-minute walk from the building and if you're travelling by bus then find out which bus routes you can take to get you to The Hold "
       -
         type: text
         marks:
