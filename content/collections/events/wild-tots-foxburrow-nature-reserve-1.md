@@ -1,5 +1,6 @@
 ---
 id: 2733a006-c45b-4ecf-a235-ee91ce748748
+published: false
 blueprint: events
 title: 'Wild Tots: Foxburrow Nature Reserve'
 event_categories:

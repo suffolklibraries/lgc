@@ -54,7 +54,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich train station is a 20 minute walk from the building and if you''re travelling by bus then find out which bus routes you can take to get you to The Hold '
+        text: "The Ipswich train station is a 20 minute walk from the building and if you're travelling by bus then find out which bus routes you can take to get you to The Hold "
       -
         type: text
         marks:
