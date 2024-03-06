@@ -48,7 +48,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Every Wednesday evening during term time, from 6.30pm to 8pm at The Pavillion at Newmarket. It''s £6 per session for adults and £3 for young people aged 14- 18. Pay on the night.'
+        text: "Every Wednesday evening during term time, from 6.30pm to 8pm at The Pavillion at Newmarket. It's £6 per session for adults and £3 for young people aged 14- 18. Pay on the night."
   -
     type: heading
     attrs:
