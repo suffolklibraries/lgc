@@ -1,7 +1,8 @@
 ---
 id: b82034cd-ecf4-4be8-b1dc-5537b52cf6b9
+published: false
 blueprint: events
-title: 'Let''s Get Crafty: Environment'
+title: "Let's Get Crafty: Environment"
 event_categories:
   - history
   - art
@@ -36,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join in with some fun crafts inspired by the natural world around us with Let''s Get Crafty at The Hold, Bury St Edmunds.'
+        text: "Join in with some fun crafts inspired by the natural world around us with Let's Get Crafty at The Hold, Bury St Edmunds."
   -
     type: paragraph
     content:
