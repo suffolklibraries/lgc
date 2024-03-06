@@ -36,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A﻿ll are welcome to listen to Kevin Crossley-Holland speak about his book, Authur, The Always King. This beautiful book, illustrated by Chris RIddell has recently been shortlisted for the Mal Peet Children''s Award.'
+        text: "A﻿ll are welcome to listen to Kevin Crossley-Holland speak about his book, Authur, The Always King. This beautiful book, illustrated by Chris RIddell has recently been shortlisted for the Mal Peet Children's Award."
   -
     type: paragraph
     content:
