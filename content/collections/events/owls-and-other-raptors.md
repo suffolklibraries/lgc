@@ -1,5 +1,6 @@
 ---
 id: 20452f93-e3bb-4d06-b04d-98a21a2a9fb8
+published: false
 blueprint: events
 title: 'Owls and other raptors'
 event_categories:
