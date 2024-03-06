@@ -1,5 +1,6 @@
 ---
 id: 26720fc3-daef-4c73-8bab-03bcb390a407
+published: false
 blueprint: events
 title: 'Amped Up Ipswich'
 event_categories:
