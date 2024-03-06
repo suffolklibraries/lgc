@@ -1,5 +1,6 @@
 ---
 id: 0e941192-9ad6-493e-a158-5f66603e7368
+published: false
 blueprint: events
 title: 'Gentle Seated Yoga to Music'
 event_categories:
