@@ -69,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Young People''s Art Workshops have been taking place since February with artists Lily Hammond, Frederico Ramos, Verity Slade, Keith Hopewell and Nikki Goldup for young people from local organisations in Ipswich including Acycle (African and Caribbean Youth Creative Learning Experience), Karibu Supplementary School, The Kurdish Mosque Youth Group, as well as young people at The Hive and Eastern Angles Centre.'
+        text: "Young People's Art Workshops have been taking place since February with artists Lily Hammond, Frederico Ramos, Verity Slade, Keith Hopewell and Nikki Goldup for young people from local organisations in Ipswich including Acycle (African and Caribbean Youth Creative Learning Experience), Karibu Supplementary School, The Kurdish Mosque Youth Group, as well as young people at The Hive and Eastern Angles Centre."
   -
     type: paragraph
     content:
