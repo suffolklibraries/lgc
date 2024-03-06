@@ -1,5 +1,6 @@
 ---
 id: 7532c129-2324-46c3-861b-c78a49aa5483
+published: false
 blueprint: events
 title: 'Cockfield Art Show'
 event_categories:
