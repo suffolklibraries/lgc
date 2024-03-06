@@ -80,7 +80,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event will be happening across multiple indoor and outdoor spaces in Stowmarket including the town centre, Food Museum, John Peel Centre, St Peter''s Hall, St Peter and St Mary''s Church, Stowmarket Library, The Regal, The Mix, and Red Gables. All these locations are a walkable distance from each other. '
+        text: "This event will be happening across multiple indoor and outdoor spaces in Stowmarket including the town centre, Food Museum, John Peel Centre, St Peter's Hall, St Peter and St Mary's Church, Stowmarket Library, The Regal, The Mix, and Red Gables. All these locations are a walkable distance from each other. "
 cta: '[https://www.facebook.com/events/380540834202843/?active_tab=about](https://www.facebook.com/events/380540834202843/?active_tab=about)'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1669227724
