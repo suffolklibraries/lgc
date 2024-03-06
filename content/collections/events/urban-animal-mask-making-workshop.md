@@ -1,5 +1,6 @@
 ---
 id: b4cd61f7-4630-45b8-bf95-b535a551a085
+published: false
 blueprint: events
 title: 'Urban Animal Mask Making Workshop'
 event_categories:
@@ -42,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This year’s First Light Opening Parade will feature a whole host of Lowestoft’s native urban animals, so you''re invited to come down to East Point Pavilion to make your own masks and get in the parade spirit! Free and with materials supplied – all welcome!'
+        text: "This year’s First Light Opening Parade will feature a whole host of Lowestoft’s native urban animals, so you're invited to come down to East Point Pavilion to make your own masks and get in the parade spirit! Free and with materials supplied – all welcome!"
   -
     type: heading
     attrs:
