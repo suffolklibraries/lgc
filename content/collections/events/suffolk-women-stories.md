@@ -43,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along with your family and friends to make a record of your life to be included in this exciting interactive wall showcasing women''s stories in Suffolk today. These stories will then be added to the archives in order that people in the future understand what Suffolk women in 2022 believed in, valued and felt what still needed to be changed in society. No experience necessary.'
+        text: "Come along with your family and friends to make a record of your life to be included in this exciting interactive wall showcasing women's stories in Suffolk today. These stories will then be added to the archives in order that people in the future understand what Suffolk women in 2022 believed in, valued and felt what still needed to be changed in society. No experience necessary."
   -
     type: heading
     attrs:
