@@ -42,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: 'At Cult Café Bar on Ipswich Waterfront, the festival starts at 14:00 and will be running late into the night. There will be live music outside all day and DJs inside all night – and it''s an all-female line up!'
+        text: "At Cult Café Bar on Ipswich Waterfront, the festival starts at 14:00 and will be running late into the night. There will be live music outside all day and DJs inside all night – and it's an all-female line up!"
   -
     type: paragraph
     content:
