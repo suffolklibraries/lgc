@@ -1,6 +1,5 @@
 ---
 id: f03b2eea-ec23-4c72-8486-89e46c8f8293
-published: false
 blueprint: events
 title: 'New Angles'
 event_categories:
@@ -150,7 +149,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709741721
+updated_at: 1709741844
 duplicated_from: 7b10d62e-b7ae-4416-a13f-32661a329ccf
 accessibility_information: |-
   **Do you have disabled parking at the Eastern Angles Centre?**
