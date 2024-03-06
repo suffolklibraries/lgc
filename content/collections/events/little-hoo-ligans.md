@@ -1,5 +1,6 @@
 ---
 id: 9cbeb956-c8f4-43cc-92fc-4ed898ee23c5
+published: false
 blueprint: events
 title: 'Little Hoo-ligans'
 event_categories:
