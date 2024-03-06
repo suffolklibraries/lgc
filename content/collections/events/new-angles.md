@@ -9,7 +9,7 @@ event_categories:
   - activity
 organisers:
   - eastern-angles
-featured_image: easternangles_logo_lozenge_rgb.png
+featured_image: offthepressimages/Theatre.png
 start_date: '2024-04-22 09:00'
 end_date: '2024-04-22 17:00'
 free: true
@@ -149,7 +149,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709742070
+updated_at: 1709742748
 duplicated_from: 7b10d62e-b7ae-4416-a13f-32661a329ccf
 accessibility_information: '[Click here to visit the Eastern Angles website for access information](https://easternangles.co.uk/faqs#:~:text=The%20front%20door%20of%20the,steps%20to%20reach%20the%20theatre.)'
 ---
