@@ -1,7 +1,8 @@
 ---
 id: 724eca8f-b662-47e4-9930-91064580eb01
+published: false
 blueprint: events
-title: 'Let''s Get Crafty: Easter'
+title: "Let's Get Crafty: Easter"
 event_categories:
   - activity
   - art
@@ -46,7 +47,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Children''s Lunch Boxes £4.00'
+        text: "Children's Lunch Boxes £4.00"
       -
         type: hard_break
       -
@@ -72,7 +73,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'The Let''s Get Crafty sessions will also run at Bury St. Edmunds and Lowestoft. '
+        text: "The Let's Get Crafty sessions will also run at Bury St. Edmunds and Lowestoft. "
   -
     type: heading
     attrs:
@@ -114,7 +115,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Ipswich train station is a 20 minute walk from the building and if you''re travelling by bus then find out which bus routes you can take to get you to The Hold '
+        text: "The Ipswich train station is a 20 minute walk from the building and if you're travelling by bus then find out which bus routes you can take to get you to The Hold "
       -
         type: text
         marks:
