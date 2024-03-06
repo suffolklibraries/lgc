@@ -35,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Following the popular ''Creating Constable'' exhibition, many of the works from the Ipswich collection are remaining in the Wolsey Art Gallery until September, 2022.'
+        text: "Following the popular 'Creating Constable' exhibition, many of the works from the Ipswich collection are remaining in the Wolsey Art Gallery until September, 2022."
   -
     type: paragraph
     content:
