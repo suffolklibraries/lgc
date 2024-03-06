@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Ghost tours around the village of Lavenham by an 17th C Ghost carrying his head, meeting the village''s many other ghosts, legends, myths, witches, curses and patron saints, while learning abut the history of the village and seeing''s its old houses in a new light.'
+        text: "Ghost tours around the village of Lavenham by an 17th C Ghost carrying his head, meeting the village's many other ghosts, legends, myths, witches, curses and patron saints, while learning abut the history of the village and seeing's its old houses in a new light."
   -
     type: paragraph
     content:
