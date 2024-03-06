@@ -2,7 +2,7 @@
 id: ede970d1-3614-4c1e-8387-c49f1419fd2a
 published: false
 blueprint: events
-title: 'Cinema Club: Charlotte''s Web'
+title: "Cinema Club: Charlotte's Web"
 event_categories:
   - family-friendly
   - literature
