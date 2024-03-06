@@ -45,7 +45,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This course is designed to introduce movement and rhythm to your little ones, whilst using their imagination and having fun. We''ll also be using props such as scarves, balls and hoops to introduce co-ordination skills. This is a really fun, friendly and safe environment for you and your little one to explore movement together and hopefully make some memories too!'
+        text: "This course is designed to introduce movement and rhythm to your little ones, whilst using their imagination and having fun. We'll also be using props such as scarves, balls and hoops to introduce co-ordination skills. This is a really fun, friendly and safe environment for you and your little one to explore movement together and hopefully make some memories too!"
   -
     type: paragraph
     content:
