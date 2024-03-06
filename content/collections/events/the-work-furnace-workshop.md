@@ -1,5 +1,6 @@
 ---
 id: f568537d-4a94-4703-93ac-1bc253c789ad
+published: false
 blueprint: events
 title: 'The Work Furnace: Workshop'
 event_categories:
