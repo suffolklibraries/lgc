@@ -55,7 +55,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'to develop young people''s self-confidence'
+                text: "to develop young people's self-confidence"
       -
         type: list_item
         content:
