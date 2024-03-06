@@ -2,3 +2,7 @@ name: 'Eleanor Root'
 super: true
 id: c2a9acd7-26be-4f49-89cb-918d0960210a
 password_hash: $2y$10$VCnXNycUhj/PI2uQc8DOtOxrJ9ewSS834OrZXkriga8icIE.hVzL2
+preferences:
+  collections:
+    events:
+      per_page: 500
