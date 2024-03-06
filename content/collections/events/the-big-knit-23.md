@@ -1,5 +1,6 @@
 ---
 id: ca299fe5-dd84-4b58-adde-9b121e21f88b
+published: false
 blueprint: events
 title: 'The Big Knit'
 event_categories:
@@ -34,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Gather by Lowestoft''s glorious seafront for a community get-together to knit and crochet blue and green bunting for First Light Festival 2023''s Opening Parade. You can learn as you go with the help of resident experts, or lend a helping hand to someone else in a peer-led knit and natter. There will also be pompom making.'
+        text: "Gather by Lowestoft's glorious seafront for a community get-together to knit and crochet blue and green bunting for First Light Festival 2023's Opening Parade. You can learn as you go with the help of resident experts, or lend a helping hand to someone else in a peer-led knit and natter. There will also be pompom making."
   -
     type: paragraph
     content:
