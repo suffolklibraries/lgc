@@ -1,5 +1,6 @@
 ---
 id: 67caa94d-c162-413c-a0e9-46f589c7257e
+published: false
 blueprint: events
 title: 'Like a Tree'
 event_categories:
@@ -33,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along and immerse yourself in a magical story told with puppets. '''
+        text: "Come along and immerse yourself in a magical story told with puppets. '"
       -
         type: text
         marks:
@@ -42,7 +43,7 @@ content_area:
         text: 'Down in the woods a sapling grows, up through the ground and towards the sky. At the same time, a child is born and their lives entwine in a touching tale of life, love and everything after.'
       -
         type: text
-        text: ''''
+        text: "'"
   -
     type: paragraph
     content:
