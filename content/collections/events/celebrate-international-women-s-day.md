@@ -2,7 +2,7 @@
 id: af4ed94d-4bcd-4de2-8e6d-3d3496aca8b3
 published: false
 blueprint: events
-title: 'Celebrate International Women''s Day'
+title: "Celebrate International Women's Day"
 event_categories:
   - languages
   - literature
