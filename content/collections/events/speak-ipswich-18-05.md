@@ -113,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is an informal, drop in event so there''s no need to book, however if you''re interested in coming along, or looking for more information, then please email '
+        text: "This is an informal, drop in event so there's no need to book, however if you're interested in coming along, or looking for more information, then please email "
       -
         type: text
         marks:
