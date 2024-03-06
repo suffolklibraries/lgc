@@ -24,13 +24,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Connect with your creative side through nature with a ''Walking Companion''. '
+        text: "Connect with your creative side through nature with a 'Walking Companion'. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Explore Brandon Country Park with environmental artist, Genevieve Rudd and producer, David Johnson''s FREE audio trail, guiding you on a series of inspiring activities. '
+        text: "Explore Brandon Country Park with environmental artist, Genevieve Rudd and producer, David Johnson's FREE audio trail, guiding you on a series of inspiring activities. "
   -
     type: paragraph
     content:
@@ -42,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Don''t forget to share your creations with us on social media by tagging Brandon Country Park - we''d love to see what you make!'
+        text: "Don't forget to share your creations with us on social media by tagging Brandon Country Park - we'd love to see what you make!"
   -
     type: heading
     attrs:
@@ -56,7 +56,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The ''Walking Companion'' will guide you through Brandon Country Park, just outside Brandon. You will need to pay for parking if you need it. '
+        text: "The 'Walking Companion' will guide you through Brandon Country Park, just outside Brandon. You will need to pay for parking if you need it. "
   -
     type: heading
     attrs:
