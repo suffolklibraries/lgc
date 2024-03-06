@@ -1,5 +1,6 @@
 ---
 id: fb3bfbda-5958-4fe5-af87-6472b31d25ab
+published: false
 blueprint: events
 title: 'Art at the beach: Felixstowe'
 event_categories:
