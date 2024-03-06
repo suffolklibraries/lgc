@@ -14,14 +14,6 @@ start_date: '2024-04-22 09:00'
 end_date: '2024-04-22 17:00'
 free: true
 virtual: false
-attendance_information: |-
-  The programme will split into three groups, with sessions beginning the week commencing Monday 22nd April:  
-
-  Ages 9-11: every Wednesday, 5pm-7pm 
-
-  Ages 12-15: every Monday, 5pm-7pm 
-
-  Ages 16-18: every Monday, 5pm-7pm
 latitude: '52.06333346360425'
 longitude: '1.1373039051974707'
 address_line_1: 'The Eastern Angles Centre'
@@ -49,6 +41,31 @@ content_area:
       -
         type: text
         text: "In addition to weekly classes, there will be multiple chances to perform throughout the year.\_"
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'The programme will split into three groups, with sessions beginning the week commencing Monday 22nd April:  '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ages 9-11: every Wednesday, 5pm-7pm '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ages 12-15: every Monday, 5pm-7pm '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ages 16-18: every Monday, 5pm-7pm'
   -
     type: heading
     attrs:
@@ -149,7 +166,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709742748
+updated_at: 1709743766
 duplicated_from: 7b10d62e-b7ae-4416-a13f-32661a329ccf
 accessibility_information: '[Click here to visit the Eastern Angles website for access information](https://easternangles.co.uk/faqs#:~:text=The%20front%20door%20of%20the,steps%20to%20reach%20the%20theatre.)'
 ---
