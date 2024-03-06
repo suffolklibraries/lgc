@@ -45,7 +45,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Ollie trained with DanceEast''s CAT programme in Ipswich before going to Northern School of Contemporary Dance in Leeds and graduating with a First Class Honours degree and went on to complete an MA with Distinction. He has developed his own movement language of release inspired floor work and worked with Brighton-based dance company James Wilton Dance for the last couple of years. '
+        text: "Ollie trained with DanceEast's CAT programme in Ipswich before going to Northern School of Contemporary Dance in Leeds and graduating with a First Class Honours degree and went on to complete an MA with Distinction. He has developed his own movement language of release inspired floor work and worked with Brighton-based dance company James Wilton Dance for the last couple of years. "
   -
     type: heading
     attrs:
@@ -94,11 +94,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/St+Peter''s+Dock+Car+Park/@52.0527079,1.1546055,17.83z/data=!4m14!1m7!3m6!1s0x47d9a02eaf0e1c2d:0xb6bfac416cd7440a!2sDanceEast!8m2!3d52.0527195!4d1.1554997!16s%2Fg%2F1td17335!3m5!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.0523796!4d1.1539305!16s%2Fg%2F11g9q64x5g'
+              href: "https://www.google.com/maps/place/St+Peter's+Dock+Car+Park/@52.0527079,1.1546055,17.83z/data=!4m14!1m7!3m6!1s0x47d9a02eaf0e1c2d:0xb6bfac416cd7440a!2sDanceEast!8m2!3d52.0527195!4d1.1554997!16s%2Fg%2F1td17335!3m5!1s0x47d9a02ebd54c7a1:0xeb0a43216f8c400b!8m2!3d52.0523796!4d1.1539305!16s%2Fg%2F11g9q64x5g"
               rel: null
               target: null
               title: null
-        text: 'St. Peter''s Dock Car Park'
+        text: "St. Peter's Dock Car Park"
       -
         type: text
         text: ', only a two-minute walk away. Alternatively, walk six minutes to the '
