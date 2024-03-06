@@ -1,5 +1,6 @@
 ---
 id: da9dd2f4-3443-4321-98cd-578773b96f3b
+published: false
 blueprint: events
 title: 'Walks: Ipswich UK to Ipswich USA'
 event_categories:
