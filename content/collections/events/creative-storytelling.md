@@ -48,7 +48,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This free programme is for young people aged 7-12 who are eligible for free school meals. If you''re interested in taking part but are not eligible for free school meals, please do still get in touch with Eastern Angles.'
+        text: "This free programme is for young people aged 7-12 who are eligible for free school meals. If you're interested in taking part but are not eligible for free school meals, please do still get in touch with Eastern Angles."
   -
     type: paragraph
     content:
