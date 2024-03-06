@@ -1,5 +1,6 @@
 ---
 id: cedd1399-7a63-49ce-bbc9-75605810f4fa
+published: false
 blueprint: events
 title: 'Ipswich Solar Party'
 event_categories:
