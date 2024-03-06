@@ -142,7 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft movers meets at St Margaret''s Hall and The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest '
+        text: "Lowestoft movers meets at St Margaret's Hall and The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest "
       -
         type: text
         marks:
