@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you''re aged between 8-18 years, then come along to collaborate with other young people for a day of song writing and singing. '
+        text: "If you're aged between 8-18 years, then come along to collaborate with other young people for a day of song writing and singing. "
   -
     type: paragraph
     content:
@@ -127,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Group A meets at St Margret''s Church, 22 Bolton Ln, Ipswich IP4 2BT.'
+        text: "Group A meets at St Margret's Church, 22 Bolton Ln, Ipswich IP4 2BT."
   -
     type: paragraph
     content:
@@ -185,7 +185,7 @@ content_area:
   -
     type: paragraph
 attendance_information: 'Ages 8 - 18'
-address_line_1: 'St Margaret''s Church Centre'
+address_line_1: "St Margaret's Church Centre"
 address_line_2: 'Bolton Lane'
 town: Ipswich
 postcode: 'IP4 2BF'
