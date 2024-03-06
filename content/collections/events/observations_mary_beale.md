@@ -18,7 +18,7 @@ free: false
 virtual: false
 organisers:
   - moyses-hall-museum
-address_line_1: 'Moyse''s Hall Museum'
+address_line_1: "Moyse's Hall Museum"
 address_line_2: Cornhill
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 1DX'
@@ -69,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Moyse''s Hall is in Bury St Edmunds market square which is a five minute walk from the bus station.'
+        text: "Moyse's Hall is in Bury St Edmunds market square which is a five minute walk from the bus station."
   -
     type: paragraph
     content:
@@ -109,7 +109,7 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'What''s On West Suffolk website'
+        text: "What's On West Suffolk website"
       -
         type: text
         text: ' or call '
