@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions about DanceEast''s Movers classes via the '
+        text: "Please don’t hesitate to get in touch with your questions about DanceEast's Movers classes via the "
       -
         type: text
         marks:
@@ -55,7 +55,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Dance East''s Facebook page'
+        text: "Dance East's Facebook page"
       -
         type: text
         text: .
