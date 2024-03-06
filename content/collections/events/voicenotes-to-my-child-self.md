@@ -39,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This workshop is based on Ellena Woolf''s breakthrough audio piece ''Voicenotes To My Child Self''. At the end of the session, you will be invited to create your own voicenote that, with permission, will be added to a digital archive launching later in 2023.'
+        text: "This workshop is based on Ellena Woolf's breakthrough audio piece 'Voicenotes To My Child Self'. At the end of the session, you will be invited to create your own voicenote that, with permission, will be added to a digital archive launching later in 2023."
   -
     type: paragraph
     content:
