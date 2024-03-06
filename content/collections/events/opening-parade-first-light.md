@@ -26,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This year’s festival kicks off with a colourful procession along the promenade, and everyone is welcome to be a part of it. You''re invited to march, dance, stomp and skip together with local schools and community groups. Parade with banners, wind torches and whirligigs along the Upper Esplanade towards Cliff Road, then we will drop down onto the beach and continue along the sand to the Sunlight Stage. There, open this year’s Festival with a performance of John Ward’s The Light Returns, our festival anthem.'
+        text: "This year’s festival kicks off with a colourful procession along the promenade, and everyone is welcome to be a part of it. You're invited to march, dance, stomp and skip together with local schools and community groups. Parade with banners, wind torches and whirligigs along the Upper Esplanade towards Cliff Road, then we will drop down onto the beach and continue along the sand to the Sunlight Stage. There, open this year’s Festival with a performance of John Ward’s The Light Returns, our festival anthem."
   -
     type: paragraph
     content:
