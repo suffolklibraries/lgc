@@ -1,5 +1,6 @@
 ---
 id: a0aceb5a-eaa1-4fab-8fe9-213b578b50e3
+published: false
 blueprint: events
 title: 'Participate - Saxmundham'
 latitude: '52.2149703191624'
