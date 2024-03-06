@@ -79,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The event is free but please do book in advance selecting the ''Book your place'' button or searching '
+        text: "The event is free but please do book in advance selecting the 'Book your place' button or searching "
       -
         type: text
         marks:
