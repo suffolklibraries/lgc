@@ -1,5 +1,6 @@
 ---
 id: a24798f1-ef46-4d79-9370-830a1a2552f2
+published: false
 blueprint: events
 title: 'The Big Knit'
 event_categories:
