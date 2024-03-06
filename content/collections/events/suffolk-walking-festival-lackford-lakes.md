@@ -1,5 +1,6 @@
 ---
 id: 3fcfb5c3-f37c-4a6f-954a-b45a7859d37a
+published: false
 blueprint: events
 title: 'Suffolk Walking Festival: Lackford Lakes'
 event_categories:
