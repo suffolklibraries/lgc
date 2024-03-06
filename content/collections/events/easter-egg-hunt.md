@@ -1,5 +1,6 @@
 ---
 id: 21892d34-7522-4c57-8d3d-99f3c9fd720f
+published: false
 blueprint: events
 title: 'Easter Egg Hunt'
 event_categories:
@@ -143,7 +144,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you''re travelling by bus, the '
+        text: "If you're travelling by bus, the "
       -
         type: text
         marks:
