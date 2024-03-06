@@ -50,7 +50,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Adults tickets cost £6 and children''s cost £4 each. Please book via the DanceEast website '
+        text: "Adults tickets cost £6 and children's cost £4 each. Please book via the DanceEast website "
       -
         type: text
         marks:
