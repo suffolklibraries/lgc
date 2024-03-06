@@ -47,7 +47,7 @@ content_area:
         text: "The Work Furnace.\_"
       -
         type: text
-        text: 'This project aims to unearth the industrial heritage of Ipswich and celebrate the stories of the people who worked in the town''s factories in the late 20th century.'
+        text: "This project aims to unearth the industrial heritage of Ipswich and celebrate the stories of the people who worked in the town's factories in the late 20th century."
   -
     type: paragraph
     content:
