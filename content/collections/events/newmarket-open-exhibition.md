@@ -41,7 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The exhibition showcases the diversity and high quality of creative work being produced in the region and are available to purchase from £75 – we hope you''ll find a piece that you love! The artworks show a great variety of media and subject matter, and the selection panel made choices in the hope that the exhibition will delight and challenge visitors. '
+        text: "The exhibition showcases the diversity and high quality of creative work being produced in the region and are available to purchase from £75 – we hope you'll find a piece that you love! The artworks show a great variety of media and subject matter, and the selection panel made choices in the hope that the exhibition will delight and challenge visitors. "
   -
     type: paragraph
     content:
