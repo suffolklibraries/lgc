@@ -1,5 +1,6 @@
 ---
 id: 98537613-81b2-48a6-bf0c-60c89f7fc7d0
+published: false
 blueprint: events
 title: 'Marina Monkey Music'
 event_categories:
