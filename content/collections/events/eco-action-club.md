@@ -62,7 +62,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This month we''re searching for animal tracks and signs!'
+        text: "This month we're searching for animal tracks and signs!"
   -
     type: heading
     attrs:
