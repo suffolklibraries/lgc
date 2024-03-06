@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: thumbnail_group-table-and-background-desks-(2)-min.jpg
-start_date: '2023-03-07 15:30'
-end_date: '2023-03-07 17:00'
+start_date: '2024-03-12 15:30'
+end_date: '2024-03-12 17:00'
 free: true
 virtual: false
 attendance_information: '- Ages 3+'
@@ -167,6 +167,6 @@ cta: |-
 
   [01473 211498](tel:01473 211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709736225
+updated_at: 1709736413
 ---
 A safe space to do your homework and develop your education!
