@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'It''s a unique line up of excellence and you won''t see all these musicians play together anywhere else.'
+        text: "It's a unique line up of excellence and you won't see all these musicians play together anywhere else."
   -
     type: heading
     attrs:
