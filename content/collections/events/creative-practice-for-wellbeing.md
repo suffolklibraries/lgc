@@ -37,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Creative Practice for Wellbeing is a new programme to support adults'' mental wellbeing through art. No previous experience is necessary, this is a supportive environment to build confidence and feel relaxed. The team is warm, friendly, and experienced in teaching a wide range of skills, in the welcoming art studio. '
+        text: "Creative Practice for Wellbeing is a new programme to support adults' mental wellbeing through art. No previous experience is necessary, this is a supportive environment to build confidence and feel relaxed. The team is warm, friendly, and experienced in teaching a wide range of skills, in the welcoming art studio. "
   -
     type: paragraph
     content:
