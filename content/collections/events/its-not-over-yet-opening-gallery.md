@@ -2,7 +2,7 @@
 id: 3248322e-3039-4407-af55-50b9b3fb01de
 published: false
 blueprint: events
-title: 'It''s Not Over Yet. Exhibition opening by Duncan McAfee.'
+title: "It's Not Over Yet. Exhibition opening by Duncan McAfee."
 event_categories:
   - family-friendly
   - primary-school-age
