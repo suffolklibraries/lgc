@@ -1,5 +1,6 @@
 ---
 id: 2fdf7958-26aa-4d02-91c0-953665e790c5
+published: false
 blueprint: events
 title: 'Participate - Wickham Market'
 latitude: '52.15191619206503'
