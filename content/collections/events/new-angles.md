@@ -149,17 +149,8 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709741844
+updated_at: 1709742070
 duplicated_from: 7b10d62e-b7ae-4416-a13f-32661a329ccf
-accessibility_information: |-
-  **Do you have disabled parking at the Eastern Angles Centre?**
-
-  The car park does have one accessible car parking space (a wider bay which is clearly marked). This is situated towards the entrance of the Eastern Angles Centre (turn right when you first drive into the car park).  We advise those who cannot walk very far to park close to the entrance of the car park to reduce the distance to our front door.
-  **
-  Does the Eastern Angles Centre have disabled access?**
-
-  The front door of the Eastern Angles Centre is situated on the car park side of the building (rather than the blue door on Gatacre Road). This can be accessed via the car park or the blue gates on Bramford Road. Following the corridors through to the building you will not need to climb any steps to reach the theatre. 
-
-  The exit door nearest the theatre does have a step down to the main street outside. This is the blue door on Gatacre Road that used to be our main entrance. We have a ramp that can be put in place if needed. As a listed building we are unable to place a permanent ramp on the front of the building, however our removable ramp can be used at any time, simply ask the Front of House Manager or ring us prior to your visit to let us know. We also have a disabled access toilet at the theatre.
+accessibility_information: '[Click here to visit the Eastern Angles website for access information](https://easternangles.co.uk/faqs#:~:text=The%20front%20door%20of%20the,steps%20to%20reach%20the%20theatre.)'
 ---
 Brand new for 2024, we’re excited to launch New Angles Youth Theatres!
