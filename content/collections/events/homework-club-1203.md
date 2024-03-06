@@ -165,8 +165,8 @@ cta: |-
 
   [callum@easternangles.co.uk](mailto:callum@easternangles.co.uk)
 
-  [01473 211498](tel:01473 211498)
+  [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709736783
+updated_at: 1709738990
 ---
 A safe space to do your homework and develop your education!
