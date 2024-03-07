@@ -7,7 +7,6 @@ event_categories:
   - exhibition
 organisers:
   - easterly-artists
-featured_image: Screenshot-2022-09-06-at-14.00.33.png
 start_date: '2022-09-09 10:00'
 end_date: '2022-09-18 17:00'
 free: true
