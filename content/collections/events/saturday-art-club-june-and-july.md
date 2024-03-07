@@ -8,7 +8,6 @@ event_categories:
   - primary-school-age
 organisers:
   - rock-paper-scissors
-featured_image: RPS-Saturday-Art-Club.PNG
 start_date: '2023-06-10 10:00'
 free: false
 virtual: false
