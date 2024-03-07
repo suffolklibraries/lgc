@@ -10,7 +10,6 @@ event_categories:
   - later-life
 organisers:
   - abbeycroft-leisure
-featured_image: Screenshot-2022-09-08-at-12.26.01.png
 start_date: '2022-09-20 14:00'
 end_date: '2022-09-20 16:00'
 free: true
