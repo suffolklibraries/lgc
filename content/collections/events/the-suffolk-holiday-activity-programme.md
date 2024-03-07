@@ -196,7 +196,6 @@ cta: |-
   For more information call [01638667314](tel:01638667314)
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
 updated_at: 1659014388
-featured_image: HAF-Banner-1440x700-1-700x340.jpg
 accessibility_information: |-
   -Wheelchair accessible
   -Autism friendly
