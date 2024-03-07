@@ -11,7 +11,6 @@ event_categories:
   - activity
 organisers:
   - west-suffolk-college
-featured_image: freestocks-I_pOqP6kCOI-unsplash.jpg
 start_date: '2023-01-12 18:00'
 end_date: '2023-02-09 21:00'
 free: true
