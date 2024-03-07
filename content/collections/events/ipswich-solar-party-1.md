@@ -10,7 +10,6 @@ event_categories:
   - primary-school-age
 organisers:
   - ipswich-museums
-featured_image: Screenshot-2023-05-16-at-12.17.28.png
 start_date: '2023-06-06 10:15'
 end_date: '2023-06-07 11:15'
 free: false
