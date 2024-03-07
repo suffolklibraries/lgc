@@ -8,7 +8,6 @@ event_categories:
   - languages
 organisers:
   - woodbridge-tide-mill
-featured_image: Screenshot-2022-08-04-at-10.47.31.png
 start_date: '2022-09-01 11:00'
 end_date: '2022-09-30 17:00'
 free: false
