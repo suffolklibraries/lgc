@@ -3,7 +3,6 @@ id: ac00bfc5-0ecf-489b-a70c-075f37eae55d
 published: false
 blueprint: events
 title: 'Suffolk Horses on Display'
-featured_image: Suffolk-Punches-Thumbnail-800x700-1-aspect-ratio-800-700.jpg
 start_date: '2022-10-02 11:00'
 end_date: '2022-10-02 12:30'
 free: false
