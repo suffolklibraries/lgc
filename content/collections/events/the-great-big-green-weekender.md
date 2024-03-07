@@ -11,7 +11,6 @@ event_categories:
   - languages
 organisers:
   - lowestoft-town-council
-featured_image: ResizedImage600600-Green-Weekender-Insta-4.png
 start_date: '2022-09-24 10:00'
 end_date: '2022-09-24 16:00'
 free: true
