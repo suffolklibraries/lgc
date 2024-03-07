@@ -1,8 +1,7 @@
 ---
 id: ce7af3a9-683c-456f-9167-09f64dc83703
-published: false
 blueprint: events
-title: 'Mini Mansions (Duplicated)'
+title: 'Mini Mansions'
 event_categories:
   - museums
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2024-05-08 10:00'
-end_date: '2024-05-08 12:00'
+start_date: '2024-06-04 10:00'
+end_date: '2024-06-04 12:00'
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 2½  – 4'
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for May is ‘Animal Babies’.'
+        text: 'Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for June is ‘The Alphabet’.'
   -
     type: paragraph
     content:
@@ -128,18 +127,18 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-may/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/minimansions-jun/'
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/mini-mansions-may/](https://ipswich.cimuseums.org.uk/events/mini-mansions-may/) 
+  [https://ipswich.cimuseums.org.uk/events/minimansions-jun/](https://ipswich.cimuseums.org.uk/events/minimansions-jun/) 
 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709806642
+updated_at: 1709806735
 duplicated_from: 6e3ce772-66f2-40d9-9c27-5be126f37f0f
 cost_details: £3
 ---
