@@ -9,7 +9,6 @@ event_categories:
   - museums
 organisers:
   - national-horse-racing-museum
-featured_image: Musicians.jpg
 start_date: '2022-07-23 11:00'
 end_date: '2022-07-23 15:00'
 free: false
