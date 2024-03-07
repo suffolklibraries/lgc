@@ -11,7 +11,6 @@ event_categories:
   - computing
 organisers:
   - curious-spark
-featured_image: Heritage-Snapper-2-1666196391.JPG
 start_date: '2022-10-25 10:00'
 end_date: '2022-10-25 13:00'
 free: true
