@@ -3,7 +3,6 @@ id: 4439b890-5f86-42c3-9184-0ef54ec7aba2
 published: false
 blueprint: events
 title: 'Community Conversations at The Hive'
-featured_image: Screenshot-2022-05-23-113050-new-new.png
 start_date: '2022-11-23 10:00'
 end_date: '2022-11-23 13:00'
 free: true
