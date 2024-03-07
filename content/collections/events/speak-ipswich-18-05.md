@@ -12,7 +12,6 @@ event_categories:
   - languages
 organisers:
   - the-hive
-featured_image: SPEAK-Ipswich-LG-Post-(2).png
 end_date: '2022-05-18 19:30'
 latitude: '52.06134059473968'
 longitude: '1.1444118965713421'
