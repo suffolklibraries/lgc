@@ -9,7 +9,6 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - university-of-oxford-bme-staff-network
-featured_image: Screenshot-2022-10-11-at-11.45.38.png
 start_date: '2022-10-20 17:30'
 end_date: '2022-10-20 19:00'
 free: true
