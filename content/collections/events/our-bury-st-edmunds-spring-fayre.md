@@ -8,7 +8,6 @@ event_categories:
   - family-friendly
 organisers:
   - our-bury-st-edmunds
-featured_image: Screenshot-2023-05-16-at-13.21.10.png
 start_date: '2023-05-28 10:00'
 end_date: '2023-05-29 16:00'
 free: true
