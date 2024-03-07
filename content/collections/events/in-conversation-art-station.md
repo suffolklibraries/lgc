@@ -7,7 +7,6 @@ event_categories:
   - art
 organisers:
   - the-art-station
-featured_image: CT6-(1).jpg
 start_date: '2022-09-04 14:30'
 end_date: '2022-09-04 16:30'
 free: true
