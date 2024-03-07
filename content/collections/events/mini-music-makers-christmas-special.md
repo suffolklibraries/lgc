@@ -10,7 +10,6 @@ event_categories:
   - activity
 organisers:
   - britten-pears-arts
-featured_image: Britten-pears-arts---Mini-music-makers.PNG
 start_date: '2022-12-13 10:00'
 end_date: '2022-12-13 11:00'
 free: true
