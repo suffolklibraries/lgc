@@ -18,7 +18,6 @@ virtual: false
 attendance_information: 'All welcome'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
 updated_at: 1673022851
-featured_image: MicrosoftTeams-image-(3).png
 accessibility_information: |-
   - Ramped/ Sloped access
   - Accessible toilet
