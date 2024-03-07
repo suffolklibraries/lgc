@@ -11,7 +11,6 @@ event_categories:
   - workshop
 organisers:
   - global-rhythms
-featured_image: Screenshot-2022-06-23-at-16.08.16.png
 start_date: '2022-07-02 13:00'
 end_date: '2022-07-02 19:00'
 free: true
