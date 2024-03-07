@@ -8,7 +8,6 @@ event_categories:
   - exhibition
 organisers:
   - eastern-angles
-featured_image: final-thumbnail---credit-@nikkizine.png
 start_date: '2024-03-22 15:30'
 end_date: '2024-03-22 20:00'
 free: true
