@@ -11,7 +11,6 @@ event_categories:
   - activity
 organisers:
   - the-cock-horse-inn
-featured_image: Egg-trail-2023.PNG
 start_date: '2023-04-03 10:00'
 end_date: '2023-04-06 16:00'
 free: true
