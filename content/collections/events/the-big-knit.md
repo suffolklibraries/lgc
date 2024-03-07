@@ -12,7 +12,6 @@ event_categories:
   - later-life
 organisers:
   - first-light-festival
-featured_image: First-light-festival---the-big-knit.PNG
 start_date: '2023-04-12 10:00'
 end_date: '2023-04-12 14:00'
 free: true
