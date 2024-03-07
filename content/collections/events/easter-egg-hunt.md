@@ -9,7 +9,6 @@ event_categories:
   - primary-school-age
 organisers:
   - woodbridge-tide-mill
-featured_image: Egg-hunt-2023.PNG
 start_date: '2023-04-08 10:30'
 end_date: '2023-04-08 12:30'
 free: true
