@@ -10,7 +10,6 @@ event_categories:
   - literature
 organisers:
   - university-of-suffolk
-featured_image: Talking-shop---meet-the-agent.PNG
 start_date: '2023-01-30 12:00'
 end_date: '2023-01-30 13:00'
 free: true
