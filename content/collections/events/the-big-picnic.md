@@ -8,7 +8,6 @@ event_categories:
   - family-friendly
 organisers:
   - new-wolsey-theatre
-featured_image: Screenshot-2022-05-23-110239.png
 start_date: '2022-05-28 12:30'
 end_date: '2022-05-28 14:30'
 free: true
