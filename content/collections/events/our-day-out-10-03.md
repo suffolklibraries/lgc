@@ -10,7 +10,6 @@ event_categories:
   - community
 organisers:
   - creative-arts-east
-featured_image: Our-day-out---Creative-arts-east.PNG
 start_date: '2023-03-10 14:00'
 end_date: '2023-03-10 16:00'
 free: true
