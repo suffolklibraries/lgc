@@ -8,7 +8,6 @@ event_categories:
   - parent-and-baby
 organisers:
   - sutton-hoo
-featured_image: Screenshot-2023-05-09-at-11.24.03.png
 start_date: '2023-06-13 10:30'
 end_date: '2023-06-13 12:00'
 free: false
