@@ -12,7 +12,6 @@ event_categories:
 organisers:
   - cambridge-touring-productions
   - suffolk-libraries
-featured_image: Screenshot-2022-08-02-at-14.32.13.png
 start_date: '2022-08-12 11:00'
 end_date: '2022-08-30 12:00'
 free: true
