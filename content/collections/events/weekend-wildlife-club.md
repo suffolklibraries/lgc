@@ -9,7 +9,6 @@ event_categories:
   - primary-school-age
 organisers:
   - suffolk-wildlife-trust
-featured_image: Screenshot-2022-08-04-at-15.27.18.png
 start_date: '2022-08-07 10:00'
 end_date: '2022-08-07 12:00'
 free: false
