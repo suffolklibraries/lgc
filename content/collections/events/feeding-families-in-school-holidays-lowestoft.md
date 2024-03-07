@@ -10,7 +10,6 @@ event_categories:
   - get-suffolk-reading
 organisers:
   - fish-lowestoft
-featured_image: Screenshot-2022-07-12-at-16.49.44.png
 start_date: '2022-07-25 08:00'
 end_date: '2022-08-26 13:00'
 free: true
