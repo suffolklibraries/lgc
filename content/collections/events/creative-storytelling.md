@@ -10,7 +10,6 @@ event_categories:
   - activity
 organisers:
   - eastern-angles
-featured_image: eayc-just-title-square-(1).png
 start_date: '2022-12-19 09:30'
 end_date: '2022-12-23 14:30'
 free: true
