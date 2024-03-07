@@ -158,6 +158,5 @@ cta: |-
   Or call 01473211498
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
 updated_at: 1657793235
-featured_image: slumped-down-in-stilts.JPG
 ---
 Eastern Angles take free theatre to the streets of Suffolk this Summer!
