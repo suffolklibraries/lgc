@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This Easter, embrace your creativity at Christchurch Mansion with our special craft activity. Purchase your exclusive Easter Craft Bag from our gift shop and choose your crafting spot: either in the comfort of your own home or amidst the historic charm of our Mansion kitchen. Each Craft Bag is unique, filled with a delightful assortment of materials to help you design a splendid Easter crown. While the contents may vary, the promise of fun and creativity remains constant.'
+        text: 'Get crafty either in the comfort of your own home or amidst the historic charm of our Mansion kitchen. Each Craft Bag is unique, filled with a delightful assortment of materials to help you design a splendid Easter crown. While the contents may vary, the promise of fun and creativity remains constant.'
   -
     type: heading
     attrs:
@@ -91,6 +91,24 @@ content_area:
       -
         type: text
         text: .
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'For useful information, such as how to find us and what facilities Christchurch Mansion has, we recommend reading our Access information: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswich.cimuseums.org.uk/christchurchmansionaccess/'
+              rel: null
+              target: null
+              title: null
+        text: 'Access at Christchurch Mansion'
 booking_link: 'https://ipswich.cimuseums.org.uk/events/easter-crown-craft-bags/'
 cta: |-
   This event is organised by Ipswich Museums:
@@ -102,7 +120,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709803964
+updated_at: 1709804052
 duplicated_from: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
 cost_details: £1
 ---
