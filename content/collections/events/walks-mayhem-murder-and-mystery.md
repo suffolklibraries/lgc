@@ -9,7 +9,6 @@ event_categories:
   - languages
 organisers:
   - ipswich-tourist-guide-association
-featured_image: Screenshot-2022-07-28-at-16.46.42.png
 start_date: '2022-08-02 14:00'
 end_date: '2022-08-02 15:30'
 free: true
