@@ -10,7 +10,6 @@ event_categories:
   - early-years
 organisers:
   - eastern-angles
-featured_image: Little-Red-1667898613.PNG
 start_date: '2022-11-08 09:00'
 end_date: '2022-12-03 17:00'
 free: true
