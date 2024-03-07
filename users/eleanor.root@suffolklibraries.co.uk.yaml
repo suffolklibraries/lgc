@@ -11,3 +11,6 @@ preferences:
         - slug
         - status
         - end_date
+  assets:
+    assets:
+      per_page: 500
