@@ -12,7 +12,6 @@ event_categories:
   - later-life
 organisers:
   - national-horse-racing-museum
-featured_image: NHRM---light-trail.PNG
 start_date: '2022-12-15 16:00'
 end_date: '2022-12-16 18:30'
 free: false
