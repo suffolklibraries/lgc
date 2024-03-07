@@ -7,7 +7,6 @@ event_categories:
   - languages
   - nature
   - dance
-featured_image: Screenshot-2022-09-01-at-13.56.56-1662041038.png
 start_date: '2022-09-01 09:00'
 end_date: '2022-09-30 17:00'
 free: true
