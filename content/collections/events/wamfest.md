@@ -10,7 +10,6 @@ event_categories:
   - dance
   - music
   - activity
-featured_image: WAMFest-2-1677682309.PNG
 start_date: '2023-03-04 10:00'
 end_date: '2023-03-04 23:00'
 free: true
