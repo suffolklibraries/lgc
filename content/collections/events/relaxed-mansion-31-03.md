@@ -1,20 +1,19 @@
 ---
 id: 311b7ea8-a70b-4925-83fb-01d93dd6f309
-published: false
 blueprint: events
-title: "Woolly's Spring Trail (Duplicated)"
+title: 'Christchurch Mansion - Relaxed Visits'
 event_categories:
   - family-friendly
   - exhibition
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/online-spring-trail-image.png
-start_date: '2024-03-29 10:00'
-end_date: '2024-04-14 16:30'
-free: false
+featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg
+start_date: '2024-03-31 11:00'
+end_date: '2024-03-31 12:00'
+free: true
 virtual: false
-attendance_information: 'Suitable for ages 3+'
+attendance_information: 'Suitable for all ages'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -35,7 +34,30 @@ content_area:
     content:
       -
         type: text
-        text: 'From the vibrant blossoms in the park to the cheerful chorus of birdsong, there’s a world of wonder awaiting. Keep your eyes peeled for the bustling wildlife, from the industrious bees to the dainty ladybirds amongst the flowers. Be a part of this interactive exploration that brings the freshness of spring to life right in the heart of Ipswich.'
+        text: 'These sessions are suitable for visitors with ASD, providing an opportunity for them to explore the galleries at a quieter time. We aim to minimise sensory stimulation by turning off audio and visuals and hand driers, whilst providing a sensory space in the Ceramics and Glass gallery.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sensory maps, Hidden Disabilities lanyards and twiddlemuffs are available from the Mansion welcome desk free of charge.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'You can find out more about our autism friendly resources by visiting our '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswich.cimuseums.org.uk/christchurchmansionaccess/'
+              rel: null
+              target: null
+              title: null
+        text: 'Access page.'
   -
     type: heading
     attrs:
@@ -113,16 +135,14 @@ content_area:
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/](https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/) 
+  [https://ipswich.cimuseums.org.uk/events/relaxedvisits-mar/](https://ipswich.cimuseums.org.uk/events/relaxedvisits-mar/) 
 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709805069
+updated_at: 1709805993
 duplicated_from: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
-cost_details: '£5 including a gift'
-accessibility_information: 'Accessible groundfloor trail available'
 ---
-Join Woolly on a delightful Spring trail around the Mansion!
+Join us on the last Sunday of the month for a more relaxed time at Christchurch Mansion.
