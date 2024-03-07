@@ -10,7 +10,6 @@ event_categories:
   - primary-school-age
 organisers:
   - suffolk-archives
-featured_image: pexels-yan-krukau-8612992.jpg
 start_date: '2023-04-05 10:30'
 end_date: '2023-04-05 12:30'
 free: false
