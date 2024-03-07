@@ -10,7 +10,6 @@ event_categories:
   - primary-school-age
 organisers:
   - suffolk-wildlife-trust
-featured_image: Screenshot-2023-05-25-at-10.52.05.png
 start_date: '2023-05-30 10:30'
 end_date: '2023-05-30 12:00'
 free: false
