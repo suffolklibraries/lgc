@@ -9,7 +9,6 @@ event_categories:
   - history
 organisers:
   - eastern-angles
-featured_image: Screenshot-2023-05-02-at-12.50.00.png
 start_date: '2023-05-31 10:00'
 end_date: '2023-06-01 14:00'
 free: true
