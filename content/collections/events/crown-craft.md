@@ -1,6 +1,5 @@
 ---
 id: 1f2c645b-b5d6-4cb6-bdd0-a8510440bad4
-published: false
 blueprint: events
 title: 'Easter Crown Craft Bags'
 event_categories:
