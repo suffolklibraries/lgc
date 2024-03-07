@@ -13,7 +13,6 @@ event_categories:
   - early-years
 organisers:
   - danceeast
-featured_image: _CQ18873-1657552173.jpg
 start_date: '2022-08-13 11:00'
 end_date: '2022-08-13 16:00'
 free: true
