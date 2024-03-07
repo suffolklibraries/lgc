@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come to our More than Mum coffee morning to meet other mums and find out about events and support in Ipswich for mums like you. The coffee is free and so is the fun!'
+        text: 'Come to our More than Mum coffee morning to meet other mums and find out about events and support in Ipswich for mums like you!'
   -
     type: heading
     attrs:
@@ -93,8 +93,8 @@ cta: |-
 
   [stacey@futurefemalesociety.org](mailto:stacey@futurefemalesociety.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709745028
+updated_at: 1709804098
 duplicated_from: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
 accessibility_information: '[Click here to visit the New Wolsey Theatre website for access information](https://www.wolseytheatre.co.uk/access/)'
 ---
-Come to our More than Mum coffee morning to meet other mums and find out about events and support in Ipswich for mums like you!
+Meet mums like you in Ipswich - the coffee is free and so is the fun!
