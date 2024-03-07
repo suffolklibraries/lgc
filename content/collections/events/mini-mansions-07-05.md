@@ -1,20 +1,19 @@
 ---
 id: 14796705-3b4e-4f27-9f4b-99975c733dd8
-published: false
 blueprint: events
-title: 'Spring Into Spring Craft Workshop (Duplicated)'
+title: 'Mini Mansions'
 event_categories:
-  - family-friendly
   - museums
   - art
+  - early-years
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/craft-musuem-easter.png
-start_date: '2024-04-02 10:00'
-end_date: '2024-04-02 15:45'
+featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
+start_date: '2024-05-07 10:00'
+end_date: '2024-05-07 12:00'
 free: false
 virtual: false
-attendance_information: 'Suitable for ages 5+'
+attendance_information: 'Suitable for ages 2½  – 4'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -35,13 +34,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Perfect for children aged five and above, along with their parents and carers, these interactive workshops offer a chance to create your own wiggly caterpillar, leaping hare, or pop-up chick. Bring home your handmade treasures and cherish the memories of crafting together.'
+        text: 'Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for May is ‘Animal Babies’.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'These sessions will take place in the Great Hall, located on the ground floor of Christchurch Mansion.'
+        text: 'Parents/carers must stay with their children throughout the session.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The main session will be on the ground floor, with pushchair access to the Wolsey Art Gallery via the side garden entrance. Part of the session may involve exploring the Mansion using the stairs. Please let us know if you have any access requirements when you book, as there is no lift.'
   -
     type: heading
     attrs:
@@ -61,32 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Choose from a range of 45-minute sessions:'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '10:30 am – 11:15 am'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '11:30 am – 12:15 pm'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '1:00 pm – 1:45 pm'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '2:00 pm – 2:45 pm'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '3:00 pm – 3:45 pm'
+        text: 'Choose from a range of 45-minute sessions - 10am - 10.45am and 11.15am - midday'
   -
     type: heading
     attrs:
@@ -147,19 +127,19 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/spring-into-spring-craft-workshop/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-may/'
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/spring-into-spring-craft-workshop/](https://ipswich.cimuseums.org.uk/events/spring-into-spring-craft-workshop/) 
+  [https://ipswich.cimuseums.org.uk/events/mini-mansions-may/](https://ipswich.cimuseums.org.uk/events/mini-mansions-may/) 
 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804879
+updated_at: 1709806521
 duplicated_from: eb304eec-a2d2-403f-bf18-31fe4ca3b200
-cost_details: £5
+cost_details: £3
 ---
-Join us this April for a series of delightful, spring-themed craft sessions.
+Join our interactive sessions for children aged 2½  – 4 and their parents, grandparents and carers.
