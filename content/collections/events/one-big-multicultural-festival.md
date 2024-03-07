@@ -10,7 +10,6 @@ event_categories:
   - music
 organisers:
   - festival-of-suffolk
-featured_image: Screenshot-2022-08-30-at-11.09.31.png
 start_date: '2022-09-04 12:00'
 end_date: '2022-09-04 18:00'
 free: true
