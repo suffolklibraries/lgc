@@ -9,7 +9,6 @@ event_categories:
   - festival
 organisers:
   - the-art-station
-featured_image: Screenshot-2023-05-23-at-11.13.18.png
 start_date: '2023-06-10 11:00'
 end_date: '2023-06-10 17:00'
 free: true
