@@ -8,7 +8,6 @@ event_categories:
   - literature
 organisers:
   - suffolk-libraries
-featured_image: Eleena-Woolf---workshop.PNG
 start_date: '2023-02-18 13:00'
 end_date: '2023-02-18 15:30'
 free: true
