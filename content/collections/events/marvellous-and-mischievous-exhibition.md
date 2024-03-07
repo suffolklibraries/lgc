@@ -9,7 +9,6 @@ event_categories:
   - literature
 organisers:
   - the-hold
-featured_image: Screenshot-2022-06-07-131815.png
 start_date: '2022-07-22 10:00'
 end_date: '2022-09-25 17:00'
 free: false
