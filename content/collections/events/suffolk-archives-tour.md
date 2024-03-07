@@ -9,7 +9,6 @@ event_categories:
 organisers:
   - the-hold
   - suffolk-archives
-featured_image: Screenshot-2022-05-25-141942.png
 start_date: '2022-07-13 11:00'
 end_date: '2022-07-13 12:00'
 free: true
