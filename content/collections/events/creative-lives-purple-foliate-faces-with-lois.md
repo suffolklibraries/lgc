@@ -8,7 +8,6 @@ event_categories:
   - community
   - later-life
   - activity
-featured_image: LGBTQ-.PNG
 start_date: '2023-02-22 14:00'
 end_date: '2023-02-22 16:00'
 free: true
