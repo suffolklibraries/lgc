@@ -5,7 +5,6 @@ blueprint: events
 title: 'Picnic in the Park - Abbey of St Edmunds 1000 Years'
 event_categories:
   - food
-featured_image: 241f75c0-19f1-4e2c-9a4a-c83f8fdb4a65.jpg
 start_date: '2022-07-16 10:00'
 end_date: '2022-07-16 18:00'
 free: true
