@@ -7,7 +7,6 @@ event_categories:
   - exhibition
 organisers:
   - the-art-station
-featured_image: DIRTYWORK_title_square.jpg
 start_date: '2022-08-25 11:17'
 end_date: '2022-10-09 12:17'
 free: true
