@@ -12,7 +12,6 @@ event_categories:
   - performance
 organisers:
   - red-rose-chain-theatre-company
-featured_image: The-wind-in-the-willow--2.PNG
 start_date: '2022-12-09 19:00'
 end_date: '2022-12-11 16:30'
 free: true
