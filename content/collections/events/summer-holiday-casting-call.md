@@ -3,7 +3,6 @@ id: 6d4c805b-9092-453e-bd37-f914271e2e32
 published: false
 blueprint: events
 title: 'Summer Holiday: Casting call'
-featured_image: Sheringham-thumbnail.jpg
 start_date: '2022-06-12 12:00'
 free: true
 virtual: false
