@@ -8,7 +8,6 @@ event_categories:
   - history
 organisers:
   - ipswich-tourist-guide-association
-featured_image: Screenshot-2023-05-09-at-09.36.54.png
 start_date: '2023-05-11 14:00'
 end_date: '2023-05-11 15:30'
 free: false
