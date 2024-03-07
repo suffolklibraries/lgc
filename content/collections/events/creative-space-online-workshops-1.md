@@ -9,7 +9,6 @@ event_categories:
   - later-life
 organisers:
   - cohere-arts
-featured_image: Cohere-arts---creative-space-2-1674479481.PNG
 start_date: '2023-01-10 13:30'
 end_date: '2023-04-06 14:30'
 free: true
