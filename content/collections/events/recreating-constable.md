@@ -9,7 +9,6 @@ event_categories:
   - museums
 organisers:
   - ipswich-museum
-featured_image: Screenshot-2022-07-26-at-14.40.34.png
 start_date: '2022-07-07 10:00'
 end_date: '2022-09-25 17:00'
 free: true
