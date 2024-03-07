@@ -1,17 +1,16 @@
 ---
 id: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
-published: false
 blueprint: events
-title: 'Christchurch Mansion - Relaxed Visits (Duplicated)'
+title: 'Animals in the Art Gallery'
 event_categories:
   - family-friendly
   - exhibition
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg
-start_date: '2024-05-26 11:00'
-end_date: '2024-05-26 12:00'
+featured_image: ipswichmuseums/animals-in-the-art-gallery.jpg
+start_date: '2023-05-13 10:00'
+end_date: '2024-04-14 16:00'
 free: true
 virtual: false
 attendance_information: 'Suitable for all ages'
@@ -35,30 +34,19 @@ content_area:
     content:
       -
         type: text
-        text: 'These sessions are suitable for visitors with ASD, providing an opportunity for them to explore the galleries at a quieter time. We aim to minimise sensory stimulation by turning off audio and visuals and hand driers, whilst providing a sensory space in the Ceramics and Glass gallery.'
+        text: 'Visitors can see some familiar animals from Ipswich Museums Natural History collection, who are creating a new habitat in the Wolsey Art Gallery!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Sensory maps, Hidden Disabilities lanyards and twiddlemuffs are available from the Mansion welcome desk free of charge.'
+        text: 'Artists have always been interested in drawing, painting and sculpting the natural world and the creatures we share our planet with. Enjoy artworks that reflect different animal habitats from woodland to coastal, gardens to urban. Then find out how many different animals can be found in the pictures, sculpture and ceramics.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can find out more about our autism friendly resources by visiting our '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://ipswich.cimuseums.org.uk/christchurchmansionaccess/'
-              rel: null
-              target: null
-              title: null
-        text: 'Access page.'
+        text: 'A new creative studio will also be revealed in the Wolsey Art Gallery, where visitors are invited to make your own artistic animals. A space to play, draw and get creative with the Animals in the Art Gallery!'
   -
     type: heading
     attrs:
@@ -136,14 +124,14 @@ content_area:
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/relaxedvisits-mar/](https://ipswich.cimuseums.org.uk/events/relaxedvisits-mar/) 
+  [https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/](https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/) 
 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709806244
+updated_at: 1709824340
 duplicated_from: 77f18de6-1667-4a74-afb4-26851a886921
 ---
-Join us on the last Sunday of the month for a more relaxed time at Christchurch Mansion.
+Animals in the Art Gallery is a family friendly exhibition that explores British wildlife alongside artistic depictions of animals in all shapes and sizes, from the Middle Ages to the present day.
