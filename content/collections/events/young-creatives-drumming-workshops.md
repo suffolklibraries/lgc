@@ -9,7 +9,6 @@ event_categories:
   - activity
 organisers:
   - inside-out-community
-featured_image: eayc-performing-tour-flags-photo.JPG
 start_date: '2023-04-01 13:00'
 end_date: '2023-04-01 15:00'
 free: true
