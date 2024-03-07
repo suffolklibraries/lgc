@@ -10,7 +10,6 @@ event_categories:
   - museums
 organisers:
   - britten-pears-arts
-featured_image: Screenshot-2022-10-06-at-12.01.20.png
 start_date: '2022-10-22 10:00'
 end_date: '2023-02-19 17:00'
 free: true
