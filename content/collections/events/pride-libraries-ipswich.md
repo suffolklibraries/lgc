@@ -63,6 +63,5 @@ content_area:
         text: 'This is a drop in event so no booking is required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1654616883
-featured_image: Queer-Craftivism---INSTAGRAM-1654616830.png
 ---
 Get ready for Suffolk Pride with this fun craft event for all.
