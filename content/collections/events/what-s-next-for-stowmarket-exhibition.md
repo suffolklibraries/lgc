@@ -10,7 +10,6 @@ event_categories:
   - exhibition
 organisers:
   - mid-suffolk-district-council
-featured_image: "What's-next-for-Stowmarket-2.JPG"
 start_date: '2022-09-22 17:00'
 end_date: '2022-09-22 19:00'
 free: true
