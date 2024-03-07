@@ -9,7 +9,6 @@ event_categories:
   - museums
 organisers:
   - suffolk-archives
-featured_image: Screenshot-2023-05-09-at-09.52.58.png
 start_date: '2023-05-17 10:30'
 end_date: '2023-05-17 11:30'
 free: false
