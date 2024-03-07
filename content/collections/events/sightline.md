@@ -9,7 +9,6 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - the-art-station
-featured_image: Sightline.PNG
 start_date: '2023-04-01 12:00'
 end_date: '2023-04-22 16:00'
 free: true
