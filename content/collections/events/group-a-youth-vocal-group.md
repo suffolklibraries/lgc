@@ -12,7 +12,6 @@ event_categories:
   - performance
 organisers:
   - britten-pears-arts
-featured_image: Capture-1672842722.PNG
 start_date: '2023-01-19 16:15'
 free: true
 virtual: false
