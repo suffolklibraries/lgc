@@ -11,7 +11,6 @@ event_categories:
   - hullabaloo22
 organisers:
   - art-eat-events
-featured_image: Art-by-Lily-Hammond.jpg
 start_date: '2022-05-20 10:00'
 end_date: '2022-05-22 10:00'
 free: true
