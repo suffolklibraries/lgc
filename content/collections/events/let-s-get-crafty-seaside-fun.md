@@ -9,7 +9,6 @@ event_categories:
   - primary-school-age
 organisers:
   - suffolk-archives
-featured_image: Screenshot-2022-08-18-at-11.30.50.png
 start_date: '2022-08-26 10:30'
 end_date: '2022-08-26 12:30'
 free: true
