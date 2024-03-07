@@ -8,7 +8,6 @@ event_categories:
   - family-friendly
   - festival
   - food
-featured_image: Screenshot-2023-05-25-at-10.04.32.png
 start_date: '2023-05-27 10:00'
 end_date: '2023-05-27 16:00'
 free: true
