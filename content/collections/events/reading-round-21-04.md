@@ -9,7 +9,6 @@ event_categories:
 organisers:
   - reading-round
   - suffolk-libraries
-featured_image: Screenshot-2022-08-11-at-14.24.18.png
 start_date: '2023-04-21 13:45'
 end_date: '2023-04-21 15:15'
 free: true
