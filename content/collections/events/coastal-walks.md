@@ -10,7 +10,6 @@ event_categories:
   - dance
 organisers:
   - the-art-station
-featured_image: Coastal-walks.PNG
 start_date: '2023-03-04 10:00'
 end_date: '2023-03-04 13:00'
 free: true
