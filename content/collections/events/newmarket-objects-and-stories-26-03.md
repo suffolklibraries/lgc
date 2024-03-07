@@ -10,7 +10,6 @@ event_categories:
   - art
 organisers:
   - cpp-marketplace
-featured_image: Newmarkets-community-of-objects-stories-1-986x660-(1).jpg
 start_date: '2022-03-26 11:00'
 end_date: '2022-03-26 13:00'
 free: true
