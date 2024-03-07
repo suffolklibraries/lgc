@@ -10,7 +10,6 @@ event_categories:
   - art
 organisers:
   - long-shop-museum
-featured_image: Screenshot-2022-07-21-at-12.39.42-1658409584.png
 start_date: '2022-07-27 10:30'
 end_date: '2022-08-24 15:00'
 free: false
