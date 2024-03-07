@@ -8,7 +8,6 @@ event_categories:
   - primary-school-age
 organisers:
   - the-art-station
-featured_image: 1-(1).png
 start_date: '2022-05-18 15:30'
 end_date: '2022-05-18 17:15'
 free: true
