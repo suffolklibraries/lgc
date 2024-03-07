@@ -8,7 +8,6 @@ event_categories:
   - festival
 organisers:
   - raf-honington
-featured_image: 52afad66-4580-4642-912c-688b933b8175.jpg
 start_date: '2022-06-09 18:45'
 end_date: '2022-06-09 20:00'
 free: true
