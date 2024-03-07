@@ -8,7 +8,6 @@ event_categories:
   - languages
 organisers:
   - suffolk-wildlife-trust
-featured_image: Screenshot-2023-05-09-at-11.43.28.png
 start_date: '2023-05-17 19:30'
 end_date: '2023-05-17 20:30'
 free: false
