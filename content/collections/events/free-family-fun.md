@@ -10,7 +10,6 @@ event_categories:
   - activity
 organisers:
   - national-horse-racing-museum
-featured_image: Screenshot-2022-08-04-at-10.27.06.png
 start_date: '2022-07-27 11:00'
 end_date: '2022-08-25 15:00'
 free: true
