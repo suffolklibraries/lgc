@@ -85,7 +85,6 @@ content_area:
               target: _blank
               title: null
         text: "Click here to visit the New Wolsey Theatre's website for more travel information."
-booking_link: 'https://www.futurefemalesociety.org/more-than-mum'
 cta: |-
   This event is organised by Future Female Society:
 
@@ -93,7 +92,7 @@ cta: |-
 
   [stacey@futurefemalesociety.org](mailto:stacey@futurefemalesociety.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804098
+updated_at: 1709805058
 duplicated_from: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
 accessibility_information: '[Click here to visit the New Wolsey Theatre website for access information](https://www.wolseytheatre.co.uk/access/)'
 ---
