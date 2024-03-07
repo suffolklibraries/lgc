@@ -9,7 +9,6 @@ event_categories:
   - activity
 organisers:
   - the-hold
-featured_image: Christmas-at-the-Hold-2.PNG
 start_date: '2022-12-03 10:00'
 end_date: '2022-12-03 16:00'
 free: false
