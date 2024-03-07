@@ -11,7 +11,6 @@ event_categories:
   - music
 organisers:
   - britten-pears-arts
-featured_image: Britten-pears-arts---Festive-sound-walk.PNG
 start_date: '2022-12-12 10:00'
 end_date: '2022-12-31 17:30'
 free: true
