@@ -9,7 +9,6 @@ event_categories:
   - dance
 organisers:
   - suffolk-wildlife-trust
-featured_image: Bluebells.PNG
 start_date: '2023-04-26 10:00'
 end_date: '2023-04-26 14:00'
 free: false
