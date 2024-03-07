@@ -10,7 +10,6 @@ event_categories:
   - community
 organisers:
   - cohere-arts
-featured_image: Seated-yoga---Gentle.PNG
 start_date: '2023-04-07 10:30'
 free: true
 virtual: false
