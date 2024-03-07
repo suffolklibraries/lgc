@@ -12,7 +12,6 @@ event_categories:
   - activity
 organisers:
   - suffolk-libraries
-featured_image: People-sat-talking-in-a-circle.jpg
 start_date: '2022-09-04 09:00'
 end_date: '2022-12-31 17:00'
 free: true
