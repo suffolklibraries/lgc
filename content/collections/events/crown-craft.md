@@ -2,15 +2,15 @@
 id: 1f2c645b-b5d6-4cb6-bdd0-a8510440bad4
 published: false
 blueprint: events
-title: "Woolly's Spring Trail (Duplicated)"
+title: 'Easter Crown Craft Bags'
 event_categories:
   - family-friendly
-  - exhibition
   - museums
+  - art
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/online-spring-trail-image.png
-start_date: '2024-03-29 10:00'
+featured_image: ipswichmuseums/crown-craft-bags.png
+start_date: '2024-03-30 10:00'
 end_date: '2024-04-14 16:30'
 free: false
 virtual: false
@@ -35,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Woolly on a delightful Spring trail around the Mansion! From the vibrant blossoms in the park to the cheerful chorus of birdsong, there’s a world of wonder awaiting. Keep your eyes peeled for the bustling wildlife, from the industrious bees to the dainty ladybirds amongst the flowers. Be a part of this interactive exploration that brings the freshness of spring to life right in the heart of Ipswich.'
+        text: 'This Easter, embrace your creativity at Christchurch Mansion with our special craft activity. Purchase your exclusive Easter Craft Bag from our gift shop and choose your crafting spot: either in the comfort of your own home or amidst the historic charm of our Mansion kitchen. Each Craft Bag is unique, filled with a delightful assortment of materials to help you design a splendid Easter crown. While the contents may vary, the promise of fun and creativity remains constant.'
   -
     type: heading
     attrs:
@@ -92,20 +92,19 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/easter-crown-craft-bags/'
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/](https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/) 
+  [https://ipswich.cimuseums.org.uk/events/easter-crown-craft-bags/](https://ipswich.cimuseums.org.uk/events/easter-crown-craft-bags/) 
 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709802576
+updated_at: 1709803874
 duplicated_from: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
-cost_details: '£5 including a gift'
-accessibility_information: 'Accessible groundfloor trail available'
+cost_details: £1
 ---
-Join Woolly on a delightful Spring trail around the Mansion! From the vibrant blossoms in the park to the cheerful chorus of birdsong, there’s a world of wonder awaiting.
+This Easter, embrace your creativity at Christchurch Mansion with our special craft activity. Purchase your exclusive Easter Craft Bag from our gift shop and choose your crafting spot: either in the comfort of your own home or amidst the historic charm of our Mansion kitchen. Each Craft Bag is unique, filled with a delightful assortment of materials to help you design a splendid Easter crown. While the contents may vary, the promise of fun and creativity remains constant.
