@@ -7,7 +7,6 @@ event_categories:
   - community
   - exhibition
   - family-friendly
-featured_image: Screenshot-2023-05-23-at-12.51.21.png
 start_date: '2023-06-03 10:00'
 end_date: '2023-06-03 16:00'
 free: true
