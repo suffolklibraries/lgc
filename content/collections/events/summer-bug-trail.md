@@ -9,7 +9,6 @@ event_categories:
   - primary-school-age
 organisers:
   - britten-pears-arts
-featured_image: Screenshot-2022-08-04-at-14.40.36.png
 start_date: '2022-08-01 10:00'
 end_date: '2022-08-31 16:00'
 free: true
