@@ -9,7 +9,6 @@ event_categories:
   - nature
 organisers:
   - suffolk-wildlife-trust
-featured_image: Suffol-wild-trust.PNG
 start_date: '2022-11-12 10:00'
 end_date: '2022-11-12 12:00'
 free: true
