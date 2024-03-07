@@ -10,7 +10,6 @@ event_categories:
 organisers:
   - suffolk-county-council
   - bury-st-edmunds-beyond
-featured_image: Screenshot-2022-09-08-at-10.09.19.png
 start_date: '2022-09-08 09:00'
 end_date: '2022-11-30 18:00'
 free: true
