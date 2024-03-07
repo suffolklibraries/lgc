@@ -11,7 +11,6 @@ event_categories:
   - art
 organisers:
   - eastern-angles
-featured_image: Little-Red.PNG
 start_date: '2022-10-22 00:00'
 end_date: '2022-12-08 00:00'
 free: true
