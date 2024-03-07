@@ -8,7 +8,6 @@ event_categories:
   - music
 organisers:
   - britten-pears-arts
-featured_image: Screenshot-2022-09-06-at-13.00.13.png
 start_date: '2022-09-08 09:00'
 end_date: '2022-09-10 17:00'
 free: false
