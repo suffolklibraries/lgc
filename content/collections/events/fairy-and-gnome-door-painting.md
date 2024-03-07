@@ -10,7 +10,6 @@ event_categories:
   - art
 organisers:
   - friends-of-fen-park
-featured_image: Screenshot-2022-07-26-at-16.26.00.png
 start_date: '2022-08-28 13:00'
 end_date: '2022-08-28 16:00'
 free: true
