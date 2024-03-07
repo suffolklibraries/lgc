@@ -10,7 +10,6 @@ event_categories:
   - music
 organisers:
   - future-female-society
-featured_image: Screenshot-2022-07-12-at-09.51.56.png
 start_date: '2022-07-16 14:00'
 end_date: '2022-07-16 11:30'
 free: false
