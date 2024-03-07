@@ -11,7 +11,6 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - danceeast
-featured_image: DanceEast-dance-workshop.PNG
 start_date: '2022-12-04 10:00'
 end_date: '2022-12-04 15:30'
 free: true
