@@ -7,7 +7,6 @@ event_categories:
   - story
 organisers:
   - suffolk-libraries
-featured_image: Screenshot-2022-06-06-133550.png
 start_date: '2022-06-08 18:00'
 end_date: '2022-06-08 21:00'
 free: true
