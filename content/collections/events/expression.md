@@ -7,7 +7,6 @@ event_categories:
   - art
   - activity
   - teen-and-young-adult
-featured_image: Screenshot-2022-06-28-at-16.20.10.png
 start_date: '2022-08-10 13:00'
 end_date: '2022-08-24 16:00'
 free: true
