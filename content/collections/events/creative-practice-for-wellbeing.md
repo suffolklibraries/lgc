@@ -11,7 +11,6 @@ event_categories:
   - activity
 organisers:
   - rock-paper-scissors
-featured_image: 'Rock,-paper,-scissors-art-programme.PNG'
 start_date: '2022-12-06 10:30'
 end_date: '2023-01-24 12:00'
 free: true
