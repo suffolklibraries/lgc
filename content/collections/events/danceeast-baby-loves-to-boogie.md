@@ -12,7 +12,6 @@ event_categories:
   - parent-and-baby
 organisers:
   - danceeast
-featured_image: BLTB-Promo-Image.JPG
 start_date: '2022-11-06 10:30'
 end_date: '2022-11-06 13:30'
 free: false
