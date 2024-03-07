@@ -109,7 +109,6 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/easter-crown-craft-bags/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -120,7 +119,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804052
+updated_at: 1709805051
 duplicated_from: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
 cost_details: £1
 ---
