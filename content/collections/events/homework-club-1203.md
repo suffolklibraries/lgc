@@ -8,7 +8,6 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - eastern-angles
-featured_image: thumbnail_group-table-and-background-desks-(2)-min.jpg
 start_date: '2024-03-12 15:30'
 end_date: '2024-03-12 17:00'
 free: true
