@@ -161,6 +161,5 @@ cta: |-
 updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
 updated_at: 1659442135
 attendance_information: 'Everyone welcome'
-featured_image: Screenshot-2022-08-02-at-13.05.07.png
 ---
 A Walk to the end of the Waterfront and to the Western part of the town.
