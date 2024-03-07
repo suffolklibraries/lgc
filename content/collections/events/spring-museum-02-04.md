@@ -2,19 +2,19 @@
 id: eb304eec-a2d2-403f-bf18-31fe4ca3b200
 published: false
 blueprint: events
-title: "Woolly's Spring Trail (Duplicated)"
+title: 'Spring Into Spring Craft Workshop'
 event_categories:
   - family-friendly
-  - exhibition
   - museums
+  - art
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/online-spring-trail-image.png
-start_date: '2024-03-29 10:00'
-end_date: '2024-04-14 16:30'
+featured_image: ipswichmuseums/craft-musuem-easter.png
+start_date: '2024-04-02 10:00'
+end_date: '2024-04-02 15:45'
 free: false
 virtual: false
-attendance_information: 'Suitable for ages 3+'
+attendance_information: 'Suitable for ages 5+'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -35,7 +35,13 @@ content_area:
     content:
       -
         type: text
-        text: 'From the vibrant blossoms in the park to the cheerful chorus of birdsong, there’s a world of wonder awaiting. Keep your eyes peeled for the bustling wildlife, from the industrious bees to the dainty ladybirds amongst the flowers. Be a part of this interactive exploration that brings the freshness of spring to life right in the heart of Ipswich.'
+        text: 'Perfect for children aged five and above, along with their parents and carers, these interactive workshops offer a chance to create your own wiggly caterpillar, leaping hare, or pop-up chick. Bring home your handmade treasures and cherish the memories of crafting together.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'These sessions will take place in the Great Hall, located on the ground floor of Christchurch Mansion.'
   -
     type: heading
     attrs:
@@ -49,7 +55,15 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswichtheatres.co.uk/whats-on/spring-into-spring-craft-workshop/'
+              rel: null
+              target: null
+              title: null
+        text: 'Booking in advance recommended - click here to book'
   -
     type: heading
     attrs:
@@ -110,20 +124,19 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/spring-into-spring-craft-workshop/'
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/](https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/) 
+  [https://ipswich.cimuseums.org.uk/events/spring-into-spring-craft-workshop/](https://ipswich.cimuseums.org.uk/events/spring-into-spring-craft-workshop/) 
 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804150
+updated_at: 1709804520
 duplicated_from: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
-cost_details: '£5 including a gift'
-accessibility_information: 'Accessible groundfloor trail available'
+cost_details: £5
 ---
-Join Woolly on a delightful Spring trail around the Mansion!
+Join us this April for a series of delightful, spring-themed craft sessions.
