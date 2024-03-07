@@ -10,7 +10,6 @@ event_categories:
   - activity
 organisers:
   - eastern-angles
-featured_image: pexels-cottonbro-studio-6896221.jpg
 start_date: '2023-04-03 09:30'
 end_date: '2023-04-14 14:30'
 free: true
