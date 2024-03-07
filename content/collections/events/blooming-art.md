@@ -111,7 +111,8 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709805044
+updated_at: 1709833042
 duplicated_from: ffdc2bc1-9d49-45d4-b721-0829ec68c3e0
+featured_image: easternangles/final-thumbnail---credit-@nikkizine.png
 ---
 This spring we’re picking up the artist’s palette, paints and canvas to unearth the artistic legacy of Hadleigh in a new community heritage project.
