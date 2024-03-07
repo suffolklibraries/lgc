@@ -8,7 +8,6 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - suffolk-archives
-featured_image: Pride-2023.PNG
 start_date: '2023-02-23 19:00'
 end_date: '2023-02-23 22:00'
 free: true
