@@ -6,7 +6,6 @@ title: 'Holi Festival'
 organisers:
   - ipswich-suffolk-indian-association
   - ipswich-borough-council
-featured_image: Holi-Festival.PNG
 start_date: '2023-04-02 12:00'
 end_date: '2023-04-02 16:00'
 free: true
