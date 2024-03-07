@@ -9,7 +9,6 @@ event_categories:
   - family-friendly
 organisers:
   - first-light-festival
-featured_image: Screenshot-2023-04-27-at-11.53.47.png
 start_date: '2023-06-18 11:00'
 end_date: '2023-06-18 12:00'
 free: true
