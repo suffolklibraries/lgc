@@ -1,8 +1,7 @@
 ---
 id: c0bf94d9-febe-49d5-9a79-a009846aa4af
-published: false
 blueprint: events
-title: 'Mini Mansions (Duplicated)'
+title: 'Mini Mansions'
 event_categories:
   - museums
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2024-06-04 10:00'
-end_date: '2024-06-04 12:00'
+start_date: '2024-06-05 10:00'
+end_date: '2024-06-05 12:00'
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 2½  – 4'
@@ -139,7 +138,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709806735
+updated_at: 1709806832
 duplicated_from: ce7af3a9-683c-456f-9167-09f64dc83703
 cost_details: £3
 ---
