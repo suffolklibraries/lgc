@@ -7,7 +7,6 @@ event_categories:
   - sports
 organisers:
   - pakefield-table-tennis-club
-featured_image: Tabletennis1.jpg
 start_date: '2022-05-18 19:30'
 end_date: '2022-05-18 21:30'
 free: false
