@@ -9,7 +9,6 @@ event_categories:
   - family-friendly
 organisers:
   - ipswich-entertains
-featured_image: Screenshot-2022-07-26-at-14.12.24.png
 start_date: '2022-07-27 12:00'
 end_date: '2022-08-05 16:00'
 free: true
