@@ -10,7 +10,6 @@ event_categories:
   - parent-and-baby
 organisers:
   - suffolk-wildlife-trust
-featured_image: Screenshot-2023-05-11-at-11.33.06.png
 start_date: '2023-05-12 10:00'
 end_date: '2023-05-12 11:30'
 free: false
