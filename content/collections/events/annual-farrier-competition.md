@@ -9,7 +9,6 @@ event_categories:
   - museums
 organisers:
   - national-horse-racing-museum
-featured_image: Farrier-comp-2021.jpg
 start_date: '2022-08-06 11:00'
 end_date: '2022-08-06 17:00'
 free: false
