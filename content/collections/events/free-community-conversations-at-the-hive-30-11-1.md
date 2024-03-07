@@ -3,7 +3,6 @@ id: 045d874c-536d-4781-b388-fe08010cc24d
 published: false
 blueprint: events
 title: 'Repairing is Caring'
-featured_image: Screenshot-2023-05-02-at-11.48.34.png
 start_date: '2023-05-05 10:30'
 end_date: '2023-05-05 13:00'
 free: true
