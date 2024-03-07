@@ -11,7 +11,6 @@ event_categories:
   - museums
 organisers:
   - curious-spark
-featured_image: Queen-Elizabeth-I.PNG
 start_date: '2022-10-29 10:30'
 end_date: '2022-10-29 11:30'
 free: true
