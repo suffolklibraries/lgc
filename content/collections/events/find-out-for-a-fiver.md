@@ -106,7 +106,6 @@ content_area:
         text: 'Getting Here | NHRM : NHR'
 updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
 updated_at: 1680535133
-featured_image: NHRM-4.jpg
 latitude: '52.243907820734385'
 longitude: '0.4073757183784567'
 address_line_1: 'National Horse Racing Museum'
