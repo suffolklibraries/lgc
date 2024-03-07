@@ -10,7 +10,6 @@ event_categories:
   - activity
 organisers:
   - suffolk-wildlife-trust
-featured_image: CONNECT.PNG
 start_date: '2023-02-06 10:30'
 end_date: '2023-02-06 12:00'
 free: false
