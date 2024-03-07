@@ -8,7 +8,6 @@ event_categories:
   - languages
   - nature
   - primary-school-age
-featured_image: Screenshot-2022-08-09-at-17.00.03.png
 start_date: '2022-08-10 10:00'
 end_date: '2022-08-10 15:00'
 free: true
