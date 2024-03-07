@@ -8,7 +8,6 @@ event_categories:
   - museums
 organisers:
   - ipswich-museums
-featured_image: Screenshot-2023-05-16-at-11.54.40.png
 start_date: '2023-06-03 10:00'
 end_date: '2023-06-03 16:00'
 free: true
