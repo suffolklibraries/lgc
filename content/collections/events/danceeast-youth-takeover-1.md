@@ -15,7 +15,6 @@ event_categories:
   - music
 organisers:
   - danceeast
-featured_image: DANCEEAST-YOUTH-TAKEOVER-MALACHY-LUCKIE-28.jpg
 start_date: '2023-07-08 12:00'
 end_date: '2023-07-08 16:00'
 free: true
