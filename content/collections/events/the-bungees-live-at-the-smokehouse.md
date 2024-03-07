@@ -7,7 +7,6 @@ event_categories:
   - music
 organisers:
   - the-smokehouse
-featured_image: Screenshot-2023-05-23-at-13.20.03.png
 start_date: '2023-05-28 19:30'
 end_date: '2023-05-28 23:00'
 free: false
