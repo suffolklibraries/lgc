@@ -9,7 +9,6 @@ event_categories:
   - nature
 organisers:
   - suffolk-wildlife-trust
-featured_image: Screenshot-2023-05-23-at-12.37.30.png
 start_date: '2023-05-28 10:00'
 end_date: '2023-05-28 16:00'
 free: true
