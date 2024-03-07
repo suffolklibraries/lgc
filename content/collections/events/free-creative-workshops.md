@@ -11,7 +11,6 @@ event_categories:
 organisers:
   - suffolk-libraries
   - rock-paper-scissors
-featured_image: Screenshot-2022-08-04-at-09.16.28.png
 start_date: '2022-08-18 12:00'
 end_date: '2022-09-01 18:00'
 free: true
