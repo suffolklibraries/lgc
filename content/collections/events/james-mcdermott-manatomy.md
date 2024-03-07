@@ -9,7 +9,6 @@ event_categories:
   - literature
 organisers:
   - suffolk-libraries
-featured_image: Screenshot-2023-01-31-at-09.51.02-1675161356.png
 start_date: '2023-02-26 13:30'
 end_date: '2023-02-26 16:00'
 free: true
