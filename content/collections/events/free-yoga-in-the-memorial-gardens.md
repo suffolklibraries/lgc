@@ -9,7 +9,6 @@ event_categories:
   - nature
 organisers:
   - newmarket-town-council
-featured_image: Screenshot-2022-08-04-at-16.32.46.png
 start_date: '2022-08-11 18:00'
 end_date: '2022-08-25 19:00'
 free: true
