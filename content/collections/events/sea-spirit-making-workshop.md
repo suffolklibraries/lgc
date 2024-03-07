@@ -11,7 +11,6 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - first-light-festival
-featured_image: Spring-Rising-lantern-parade---East-Dulwich---Emergency-Exit-Arts-2018.jpg
 start_date: '2023-05-20 10:30'
 end_date: '2023-05-20 12:30'
 free: true
