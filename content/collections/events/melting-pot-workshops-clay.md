@@ -8,7 +8,6 @@ event_categories:
   - activity
 organisers:
   - first-light-festival
-featured_image: First-Light-Festival-credit-Mykola-Romanovsky-(1).JPG
 start_date: '2024-01-15 10:30'
 end_date: '2024-01-15 12:30'
 free: true

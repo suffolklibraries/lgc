@@ -13,7 +13,6 @@ event_categories:
   - performance
 organisers:
   - first-light-festival
-featured_image: First-Light-Festival-credit-Mykola-Romanovsky-(1).JPG
 start_date: '2023-06-17 12:00'
 end_date: '2023-06-18 16:00'
 free: true
