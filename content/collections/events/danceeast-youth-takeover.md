@@ -14,7 +14,6 @@ event_categories:
   - workshop
 organisers:
   - danceeast
-featured_image: 9J1A0010B.jpg
 start_date: '2022-07-09 10:00'
 end_date: '2022-07-09 16:00'
 free: true
