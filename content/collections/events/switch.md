@@ -8,7 +8,6 @@ event_categories:
   - haf
 organisers:
   - access-community-trust
-featured_image: Screenshot-2022-07-21-at-11.26.02.png
 start_date: '2022-07-26 10:00'
 end_date: '2022-08-26 14:30'
 free: true
