@@ -6,7 +6,6 @@ title: 'Dragon Boat Race'
 event_categories:
   - community
   - family-friendly
-featured_image: Screenshot-2023-05-25-at-12.24.34.png
 start_date: '2023-06-03 10:00'
 end_date: '2023-06-03 12:00'
 free: true
