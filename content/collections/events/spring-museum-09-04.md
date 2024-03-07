@@ -1,8 +1,7 @@
 ---
 id: 3f5cd607-a0aa-42ca-9c92-ac9af38271eb
-published: false
 blueprint: events
-title: 'Spring Into Spring Craft Workshop (Duplicated)'
+title: 'Spring Into Spring Craft Workshop'
 event_categories:
   - family-friendly
   - museums
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/craft-musuem-easter.png
-start_date: '2024-04-04 10:00'
-end_date: '2024-04-04 15:45'
+start_date: '2024-04-09 10:00'
+end_date: '2024-04-09 15:45'
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 5+'
@@ -166,7 +165,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804737
+updated_at: 1709804786
 duplicated_from: 8cfb98ac-9157-4c98-aa59-7f9665cc6fa5
 cost_details: £5
 ---
