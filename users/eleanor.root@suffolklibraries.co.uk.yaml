@@ -6,3 +6,8 @@ preferences:
   collections:
     events:
       per_page: 500
+      columns:
+        - title
+        - slug
+        - status
+        - end_date
