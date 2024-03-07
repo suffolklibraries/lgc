@@ -12,7 +12,6 @@ event_categories:
   - teen-and-young-adult
 organisers:
   - first-light-festival
-featured_image: Adam-Barnes-FLF-2019-(1).jpg
 start_date: '2023-06-01 13:00'
 end_date: '2023-06-01 15:00'
 free: true
