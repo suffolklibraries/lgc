@@ -9,7 +9,6 @@ event_categories:
   - workshop
 organisers:
   - hocus-pocus-theatre
-featured_image: Circus-Workshops-With-Hocus-Pocus-Theatre-(1).png
 start_date: '2022-07-17 09:00'
 end_date: '2022-07-17 18:00'
 free: true
