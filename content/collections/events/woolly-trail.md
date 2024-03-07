@@ -95,13 +95,14 @@ booking_link: 'https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/'
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/) 
+  [https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/](https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/) 
+
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709802374
+updated_at: 1709802576
 duplicated_from: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
 cost_details: '£5 including a gift'
 accessibility_information: 'Accessible groundfloor trail available'
