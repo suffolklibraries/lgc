@@ -7,7 +7,6 @@ event_categories:
   - open-to-all
 organisers:
   - national-horse-racing-museum
-featured_image: 278334828_10159389708792217_167171193404323365_n.jpg
 start_date: '2022-04-12 10:00'
 end_date: '2022-04-18 16:00'
 free: false
