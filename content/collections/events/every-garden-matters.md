@@ -8,7 +8,6 @@ event_categories:
   - art
 organisers:
   - the-food-museum
-featured_image: Every-Garden-Matters-780x424.jpg
 start_date: '2022-04-09 10:00'
 end_date: '2022-10-08 17:00'
 free: true
