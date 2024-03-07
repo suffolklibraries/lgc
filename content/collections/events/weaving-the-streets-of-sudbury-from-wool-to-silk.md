@@ -8,7 +8,6 @@ event_categories:
   - dance
 organisers:
   - sudbury-town-council
-featured_image: Screenshot-2022-09-06-at-16.10.53.png
 start_date: '2022-09-17 11:00'
 end_date: '2022-09-17 12:30'
 free: true
