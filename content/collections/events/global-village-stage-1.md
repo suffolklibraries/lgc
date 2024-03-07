@@ -9,7 +9,6 @@ event_categories:
   - music
 organisers:
   - global-rhythms
-featured_image: Screenshot-2022-06-23-at-15.58.26.png
 start_date: '2022-07-02 13:00'
 end_date: '2022-07-02 19:00'
 free: true
