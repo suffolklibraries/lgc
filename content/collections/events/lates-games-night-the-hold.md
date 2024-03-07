@@ -5,7 +5,6 @@ blueprint: events
 title: 'Lates: Games Night'
 organisers:
   - suffolk-archives
-featured_image: Games-night..JPG
 start_date: '2022-09-29 19:00'
 end_date: '2022-09-29 22:00'
 free: true
