@@ -10,7 +10,6 @@ event_categories:
   - literature
 organisers:
   - the-seagull-theatre
-featured_image: Screenshot-2022-07-26-at-15.23.29.png
 start_date: '2022-08-30 10:00'
 end_date: '2022-09-01 14:00'
 free: true
