@@ -22,7 +22,6 @@ address_line_1: 'Thurston Library'
 address_line_2: 'Norton Road'
 town: Thurston
 postcode: 'IP31 3PB'
-featured_image: 9J1A0101.jpg
 attendance_information: 'Early Years'
 content_area:
   -

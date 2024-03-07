@@ -22,7 +22,6 @@ address_line_1: 'Hadleigh Library'
 address_line_2: '29 High Street'
 town: Hadleigh
 postcode: 'IP7 5AG'
-featured_image: 9J1A0101.jpg
 attendance_information: 'Early Years'
 content_area:
   -
