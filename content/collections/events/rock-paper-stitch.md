@@ -8,7 +8,6 @@ event_categories:
   - community
 organisers:
   - rock-paper-scissors
-featured_image: Screenshot-2023-05-18-at-11.27.32.png
 start_date: '2023-06-09 19:00'
 end_date: '2023-06-09 21:00'
 free: false
