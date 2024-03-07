@@ -7,7 +7,6 @@ event_categories:
   - dance
 organisers:
   - encoreeast
-featured_image: Screenshot-2023-05-04-at-11.19.32.png
 start_date: '2023-05-18 18:30'
 end_date: '2023-05-18 19:45'
 free: true
