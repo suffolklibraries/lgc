@@ -9,7 +9,6 @@ event_categories:
   - activity
 organisers:
   - cohere-arts
-featured_image: cohere-arts---creative-space-3.png
 start_date: '2023-02-11 10:30'
 end_date: '2023-04-01 11:30'
 free: true
