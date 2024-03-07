@@ -10,7 +10,6 @@ event_categories:
   - computing
 organisers:
   - future-female-society
-featured_image: Screenshot-2022-07-20-at-10.30.54.png
 start_date: '2023-03-23 12:30'
 end_date: '2023-03-23 14:00'
 free: true
