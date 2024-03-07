@@ -9,7 +9,6 @@ event_categories:
   - dance
 organisers:
   - first-light-festival
-featured_image: Screenshot-2023-04-27-at-12.12.16.png
 start_date: '2023-06-17 16:00'
 end_date: '2023-06-17 17:00'
 free: true
