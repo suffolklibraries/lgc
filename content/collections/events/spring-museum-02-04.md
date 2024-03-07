@@ -1,6 +1,5 @@
 ---
 id: eb304eec-a2d2-403f-bf18-31fe4ca3b200
-published: false
 blueprint: events
 title: 'Spring Into Spring Craft Workshop'
 event_categories:
@@ -64,6 +63,37 @@ content_area:
               target: null
               title: null
         text: 'Booking in advance recommended - click here to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Choose from a range of 45-minute sessions:'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '10:30 am – 11:15 am'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '11:30 am – 12:15 pm'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '1:00 pm – 1:45 pm'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '2:00 pm – 2:45 pm'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '3:00 pm – 3:45 pm'
   -
     type: heading
     attrs:
@@ -135,7 +165,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804520
+updated_at: 1709804615
 duplicated_from: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
 cost_details: £5
 ---
