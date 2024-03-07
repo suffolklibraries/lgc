@@ -3,7 +3,6 @@ id: 12c98a26-2c48-4098-8702-357c10833d22
 published: false
 blueprint: events
 title: 'Suffolk Pride on the Ipswich Waterfront'
-featured_image: lgbti-flag-artwork-CMYK-print.png
 start_date: '2022-06-18 12:00'
 end_date: '2022-06-18 21:00'
 free: true

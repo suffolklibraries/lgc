@@ -5,7 +5,6 @@ blueprint: events
 title: 'Pride Picnic'
 event_categories:
   - food
-featured_image: lgbti-flag-artwork-CMYK-print.png
 start_date: '2022-06-12 14:00'
 end_date: '2022-06-12 15:00'
 free: true
