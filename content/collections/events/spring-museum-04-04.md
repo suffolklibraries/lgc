@@ -54,15 +54,7 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://ipswichtheatres.co.uk/whats-on/spring-into-spring-craft-workshop/'
-              rel: null
-              target: null
-              title: null
-        text: 'Booking in advance recommended - click here to book'
+        text: 'Booking in advance recommended.'
   -
     type: paragraph
     content:
@@ -165,7 +157,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804737
+updated_at: 1709804907
 duplicated_from: eb304eec-a2d2-403f-bf18-31fe4ca3b200
 cost_details: £5
 ---
