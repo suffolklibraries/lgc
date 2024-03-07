@@ -9,7 +9,6 @@ event_categories:
   - exhibition
 organisers:
   - cockfield-community-council
-featured_image: Screenshot-2023-05-25-at-11.56.03.png
 start_date: '2023-05-27 10:00'
 end_date: '2023-05-29 16:00'
 free: true
