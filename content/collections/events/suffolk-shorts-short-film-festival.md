@@ -9,7 +9,6 @@ event_categories:
   - performance
 organisers:
   - the-riverside
-featured_image: Suffolk-shorts.JPG
 start_date: '2022-10-08 14:00'
 end_date: '2022-10-08 17:00'
 free: false
