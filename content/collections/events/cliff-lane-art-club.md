@@ -8,7 +8,6 @@ event_categories:
   - crafts
 organisers:
   - rock-paper-scissors
-featured_image: Screenshot-2022-06-06-114942.png
 start_date: '2022-06-23 15:15'
 end_date: '2022-06-23 16:30'
 free: false
