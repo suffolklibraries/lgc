@@ -8,7 +8,6 @@ event_categories:
   - theatre
 organisers:
   - quill-inkling-theatre-company
-featured_image: Screenshot-2022-06-07-140317.png
 start_date: '2022-07-17 15:00'
 end_date: '2022-07-17 14:06'
 free: false
