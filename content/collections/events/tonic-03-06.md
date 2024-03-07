@@ -8,7 +8,6 @@ event_categories:
   - singing
 organisers:
   - cohere-arts
-featured_image: TONIC-BACKGROUND.jpg
 start_date: '2022-06-03 10:30'
 end_date: '2022-06-03 12:00'
 free: true
