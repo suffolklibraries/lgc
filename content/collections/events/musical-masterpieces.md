@@ -9,7 +9,6 @@ event_categories:
   - activity
 organisers:
   - britten-pears-arts
-featured_image: Screenshot-2022-07-21-at-12.39.42.png
 start_date: '2022-08-15 10:30'
 end_date: '2022-08-19 15:00'
 free: false
