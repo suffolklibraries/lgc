@@ -91,6 +91,24 @@ content_area:
       -
         type: text
         text: .
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'For useful information, such as how to find us and what facilities Christchurch Mansion has, we recommend reading our Access information: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswich.cimuseums.org.uk/christchurchmansionaccess/'
+              rel: null
+              target: null
+              title: null
+        text: 'Access at Christchurch Mansion'
 booking_link: 'https://ipswich.cimuseums.org.uk/events/woollys-spring-trail/'
 cta: |-
   This event is organised by Ipswich Museums:
@@ -102,7 +120,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709802576
+updated_at: 1709804125
 duplicated_from: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
 cost_details: '£5 including a gift'
 accessibility_information: 'Accessible groundfloor trail available'
