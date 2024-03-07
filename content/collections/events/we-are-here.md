@@ -214,7 +214,6 @@ event_categories:
   - later-life
 organisers:
   - art-eat-events
-featured_image: Art-Eat-Event---Lowestoft.PNG
 booking_link: 'https://www.eventbrite.co.uk/e/we-are-here-climate-discussion-session-mural-design-idea-workshops-tickets-548905369737'
 cta: |-
   [https://www.arteatevents.com/](https://www.arteatevents.com/)
