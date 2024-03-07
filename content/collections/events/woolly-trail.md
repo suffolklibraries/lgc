@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Woolly on a delightful Spring trail around the Mansion! From the vibrant blossoms in the park to the cheerful chorus of birdsong, there’s a world of wonder awaiting. Keep your eyes peeled for the bustling wildlife, from the industrious bees to the dainty ladybirds amongst the flowers. Be a part of this interactive exploration that brings the freshness of spring to life right in the heart of Ipswich.'
+        text: 'From the vibrant blossoms in the park to the cheerful chorus of birdsong, there’s a world of wonder awaiting. Keep your eyes peeled for the bustling wildlife, from the industrious bees to the dainty ladybirds amongst the flowers. Be a part of this interactive exploration that brings the freshness of spring to life right in the heart of Ipswich.'
   -
     type: heading
     attrs:
@@ -120,9 +120,9 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709804125
+updated_at: 1709804150
 duplicated_from: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
 cost_details: '£5 including a gift'
 accessibility_information: 'Accessible groundfloor trail available'
 ---
-Join Woolly on a delightful Spring trail around the Mansion! From the vibrant blossoms in the park to the cheerful chorus of birdsong, there’s a world of wonder awaiting.
+Join Woolly on a delightful Spring trail around the Mansion!
