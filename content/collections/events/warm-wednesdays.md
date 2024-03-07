@@ -12,7 +12,6 @@ event_categories:
   - activity
 organisers:
   - national-horse-racing-museum
-featured_image: NHRM-warm-wednesdays.PNG
 start_date: '2023-02-22 15:15'
 end_date: '2023-02-22 16:00'
 free: true
