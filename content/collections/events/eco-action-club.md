@@ -11,7 +11,6 @@ event_categories:
   - languages
 organisers:
   - suffolk-wildlife-trust
-featured_image: Eco--Action-club-1667291050.jpg
 start_date: '2022-11-26 13:30'
 end_date: '2022-11-26 15:30'
 free: false
