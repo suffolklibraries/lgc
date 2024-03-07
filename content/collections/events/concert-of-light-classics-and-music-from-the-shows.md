@@ -10,7 +10,6 @@ event_categories:
   - performance
 organisers:
   - community-light-orchestra
-featured_image: Community-orchestra.PNG
 start_date: '2022-11-20 14:30'
 end_date: '2022-11-20 16:30'
 free: true
