@@ -7,7 +7,6 @@ event_categories:
   - community
   - get-suffolk-reading
   - literature
-featured_image: Picture1.jpg
 start_date: '2022-09-13 09:00'
 end_date: '2022-10-13 09:00'
 free: true
