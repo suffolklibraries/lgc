@@ -10,7 +10,6 @@ event_categories:
   - later-life
 organisers:
   - suffolk-archives
-featured_image: vladimir-proskurovskiy-ZlPeHjYoAdU-unsplash.jpg
 start_date: '2023-04-01 10:00'
 end_date: '2023-04-02 16:00'
 free: true
