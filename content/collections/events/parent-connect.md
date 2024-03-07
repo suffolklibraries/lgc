@@ -8,7 +8,6 @@ event_categories:
   - languages
 organisers:
   - the-seagull-theatre
-featured_image: Parent-connect.PNG
 start_date: '2023-02-11 11:00'
 end_date: '2023-02-11 12:00'
 free: true
