@@ -9,7 +9,6 @@ event_categories:
   - literature
 organisers:
   - marina-theatre
-featured_image: 278576907_163124276094747_2933283951480655461_n.jpg
 start_date: '2023-03-28 13:30'
 end_date: '2023-03-28 14:30'
 free: false
