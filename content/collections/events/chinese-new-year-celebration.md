@@ -12,7 +12,6 @@ event_categories:
 organisers:
   - anglo-chinese-cultural-exchange
   - suffolk-libraries
-featured_image: thumbnail_CNY-insta-(600--400px).jpg
 start_date: '2023-01-21 19:00'
 end_date: '2023-01-21 21:00'
 free: false
