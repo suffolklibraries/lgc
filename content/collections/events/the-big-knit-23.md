@@ -9,7 +9,6 @@ event_categories:
   - crafts
 organisers:
   - first-light-festival
-featured_image: First-Light-Big-Knit.png
 start_date: '2023-05-18 16:00'
 end_date: '2023-05-18 18:00'
 free: true
