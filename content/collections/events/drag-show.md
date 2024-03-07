@@ -72,6 +72,5 @@ cta: |-
   [https://wiffwaffplay.co.uk/event/drag-show-suffolk-pride-sunday/](https://wiffwaffplay.co.uk/event/drag-show-suffolk-pride-sunday/)
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1654615474
-featured_image: DRAG-SHOW-1086x1536-(2).png
 ---
 Celebrate Suffolk Pride with a drag show on the 19 June at The Wiff Waff bar in Ipswich.
