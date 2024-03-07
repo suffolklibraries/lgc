@@ -9,7 +9,6 @@ event_categories:
   - nature
 organisers:
   - suffolk-rural
-featured_image: Screenshot-2023-05-04-at-12.05.52.png
 start_date: '2023-05-13 10:00'
 end_date: '2023-05-13 16:00'
 free: true
