@@ -9,7 +9,6 @@ event_categories:
   - dance
 organisers:
   - suffolk-walking-festival
-featured_image: Screenshot-2023-05-23-at-11.34.55.png
 start_date: '2023-05-25 10:45'
 end_date: '2023-05-25 12:45'
 free: true
