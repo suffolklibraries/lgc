@@ -16,7 +16,6 @@ event_categories:
   - food
 organisers:
   - suffolk-libraries
-featured_image: Fashion-show--Chantry.PNG
 attendance_information: 'All welcome'
 latitude: '52.04418925100138'
 longitude: '1.1204500877120784'
