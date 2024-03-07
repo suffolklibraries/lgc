@@ -9,7 +9,6 @@ event_categories:
   - performance
 organisers:
   - suffolk-archives
-featured_image: Screenshot-2022-08-11-at-10.51.13.png
 start_date: '2022-08-21 10:30'
 end_date: '2022-08-21 14:30'
 free: true
