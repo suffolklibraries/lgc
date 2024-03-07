@@ -10,7 +10,6 @@ event_categories:
   - activity
 organisers:
   - curious-spark
-featured_image: Heritage-Snapper-WW2.JPG
 start_date: '2022-10-22 10:00'
 end_date: '2022-10-22 11:30'
 free: true
