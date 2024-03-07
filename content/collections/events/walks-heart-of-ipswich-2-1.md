@@ -9,7 +9,6 @@ event_categories:
   - languages
 organisers:
   - ipswich-tourist-guide-association
-featured_image: Screenshot-2023-05-16-at-10.16.06.png
 start_date: '2023-05-18 14:00'
 end_date: '2023-05-18 15:30'
 free: false
