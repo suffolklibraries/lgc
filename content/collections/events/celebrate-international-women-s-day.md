@@ -8,7 +8,6 @@ event_categories:
   - literature
 organisers:
   - university-of-suffolk
-featured_image: IWD-Zoom-Background-women-2.jpg
 start_date: '2023-03-08 18:00'
 end_date: '2023-03-08 20:00'
 free: true
