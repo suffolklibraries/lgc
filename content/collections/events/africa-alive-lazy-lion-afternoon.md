@@ -9,7 +9,6 @@ event_categories:
   - languages
 organisers:
   - africa-alive
-featured_image: Screenshot-2022-08-09-at-15.53.35.png
 start_date: '2022-08-01 14:00'
 end_date: '2022-09-30 18:00'
 free: false
