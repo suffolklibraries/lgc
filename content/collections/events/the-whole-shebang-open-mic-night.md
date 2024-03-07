@@ -10,7 +10,6 @@ event_categories:
   - performance
 organisers:
   - john-peel-centre
-featured_image: John-peel-centre-open-mic.PNG
 start_date: '2022-12-16 19:30'
 end_date: '2022-12-16 23:00'
 free: true
