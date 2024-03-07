@@ -10,7 +10,6 @@ event_categories:
   - nature
 organisers:
   - suffolk-archives
-featured_image: Screenshot-2023-05-09-at-10.18.12.png
 start_date: '2023-05-31 10:30'
 end_date: '2023-05-31 12:30'
 free: false
