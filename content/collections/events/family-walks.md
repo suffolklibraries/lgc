@@ -10,7 +10,6 @@ event_categories:
   - dance
 organisers:
   - the-art-station
-featured_image: Walks---Saxmundham.PNG
 start_date: '2023-03-04 10:00'
 end_date: '2023-04-01 12:30'
 free: true
