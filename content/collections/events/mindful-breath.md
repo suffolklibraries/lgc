@@ -1,7 +1,7 @@
 ---
 id: a096dd8f-9f02-4fc3-a054-773cda39f2a1
 blueprint: events
-title: 'Mindfulness and Breathwork Session'
+title: 'Mindfulness and Breathwork Session for Stress Reduction'
 event_categories:
   - community
   - activity
@@ -62,6 +62,40 @@ content_area:
         type: text
         text: ' to book.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you cannot make it, but feel these sessions would be group for you or your community group, then please contact  '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07909516343'
+              rel: null
+              target: null
+              title: null
+        text: '07909 516343'
+      -
+        type: text
+        text: ' or email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:karibu_wsg@yahoo.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: 'karibu_wsg@yahoo.co.uk '
+      -
+        type: text
+        text: .
+  -
     type: heading
     attrs:
       level: 3
@@ -104,11 +138,11 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Imani Sorhaindo -
+  This event is organised by Karibu -
 
   [07909 516343](tel:07909516343)
+  [karibu_wsg@yahoo.co.uk](mailto:karibu_wsg@yahoo.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710255954
+updated_at: 1710256816
 duplicated_from: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 ---
-Mindfulness and Breathwork Session for Stress Reduction
