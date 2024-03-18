@@ -4,7 +4,7 @@ blueprint: events
 title: 'Cultural Careers Fair'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709823082
+updated_at: 1710778117
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2024-04-18 10:30'
@@ -138,6 +138,38 @@ content_area:
           -
             type: bold
         text: 'IP4 1DW.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ipswich train station is a 12 minute walk from the DanceHouse.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: 'See the latest bus timetables '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: null
+              title: null
+        text: here.
   -
     type: heading
     attrs:
