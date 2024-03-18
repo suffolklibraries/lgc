@@ -4,7 +4,7 @@ blueprint: events
 title: 'Mark Bruce Company - Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710774028
+updated_at: 1710778123
 latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2024-03-23 14:30'
@@ -45,6 +45,102 @@ content_area:
       -
         type: text
         text: 'How to get here'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Once you arrive, there are plenty of car parks around town but the closest ones to us are '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/st-peters-dock-car-park'
+              rel: null
+              target: null
+              title: null
+        text: 'St Peter’s Dock Car Park'
+      -
+        type: text
+        text: ', '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/cardinal_park/ip1/ipswich/?arriving=202403071500&leaving=202403071700'
+              rel: null
+              target: null
+              title: null
+        text: 'Cardinal Park'
+      -
+        type: text
+        text: ', and '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/duke_street-2/ip3/ipswich/?arriving=202403071500&leaving=202403071700'
+              rel: null
+              target: null
+              title: null
+        text: 'Duke Street Car Park'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For those that hold a blue badge permit, disabled parking is available on a first come first served basis in the lay-by at the front of the building, please contact our Box Office team for further information on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473295230'
+              rel: null
+              target: null
+              title: null
+        text: '01473 295230'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'For more parking options, visit: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: www.en.parkopedia.com
+      -
+        type: text
+        text: ' and enter the destination postcode as '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'IP4 1DW.'
   -
     type: paragraph
     content:
