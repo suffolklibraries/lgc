@@ -4,7 +4,7 @@ blueprint: events
 title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710773227
+updated_at: 1710773350
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
 start_date: '2024-03-26 09:15'
@@ -37,12 +37,6 @@ content_area:
       -
         type: text
         text: 'Hadleigh Mini Movers is the perfect way to nurture your little ones natural love of movement in a structured yet relaxed environment. Themes, music, props and games are used to develop balance, coordination and imagination, and grown-ups are encouraged to join in the fun too!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "The autumn weekly class will run every\_Tuesday from 9 January, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.\_"
   -
     type: paragraph
     content:
@@ -153,7 +147,7 @@ cta: |-
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
 
   [01473 295230](tel:01473295230)
-booking_link: 'mailto:zoe.ablitt@danceeast.co.uk'
+booking_link: 'https://www.danceeast.co.uk/classes/hadleigh-mini-movers-3/'
 accessibility_information: |-
   Autism friendly
   Wheelchair access
