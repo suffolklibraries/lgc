@@ -1,11 +1,10 @@
 ---
 id: 107b88a0-e833-4702-b35a-3558d041f5f2
-published: false
 blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710771883
+updated_at: 1710771896
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
 start_date: '2024-03-25 10:00'
