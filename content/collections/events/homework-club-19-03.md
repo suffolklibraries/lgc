@@ -1,19 +1,17 @@
 ---
 id: 0866831e-1435-4f57-ade2-6303c4f4a62a
-published: false
 blueprint: events
-title: 'Homework Club (Duplicated)'
+title: 'Homework Club'
 event_categories:
   - languages
   - primary-school-age
   - teen-and-young-adult
 organisers:
   - eastern-angles
-start_date: '2024-03-12 15:30'
-end_date: '2024-03-12 17:00'
+start_date: '2024-03-19 15:30'
+end_date: '2024-03-19 17:00'
 free: true
 virtual: false
-attendance_information: '- Ages 3+'
 latitude: '52.06333346360425'
 longitude: '1.1373039051974707'
 address_line_1: 'The Eastern Angles Centre'
@@ -167,7 +165,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709832943
+updated_at: 1710779346
 featured_image: offthepressimages/otpillustrations/Literature.png
 duplicated_from: 7b10d62e-b7ae-4416-a13f-32661a329ccf
 ---
