@@ -4,7 +4,7 @@ blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710771946
+updated_at: 1710773094
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
 start_date: '2024-03-25 10:00'
@@ -102,10 +102,10 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Thurston Librar'
+        text: 'Thurston Library'
       -
         type: text
-        text: 'y or '
+        text: ' or '
       -
         type: text
         marks:
@@ -116,10 +116,21 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'pay and display at Thurston Station'
+        text: 'pay and display car park'
       -
         type: text
-        text: ' a 10 minute walk away. '
+        text: ' at Thurston train station a 10 minute walk away. The nearest bus stop is a two minute walk away, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: null
+              title: null
+        text: 'see the latest bus timetables here.'
 cta: |-
   This event is organised by Dance East:
 
