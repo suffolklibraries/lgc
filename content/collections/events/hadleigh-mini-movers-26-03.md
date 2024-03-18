@@ -1,14 +1,13 @@
 ---
 id: c35a0f2b-cbed-453b-a065-c996dc2bb40e
-published: false
 blueprint: events
-title: 'Hadleigh Mini Movers (Duplicated)'
+title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1683190494
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1710772811
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
-start_date: '2023-05-09 09:15'
+start_date: '2024-03-26 09:15'
 event_categories:
   - dance
   - early-years
@@ -43,13 +42,13 @@ content_area:
     content:
       -
         type: text
-        text: 'This weekly class will run every Tuesday, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.'
+        text: "The autumn weekly class will run every\_Tuesday from 9 January, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Hadleigh Mini Movers is supported by Babergh District Council.'
+        text: "Please note\_there are no sessions during the spring break (Tuesday 16 and 23 April)."
   -
     type: heading
     attrs:
@@ -63,35 +62,35 @@ content_area:
     content:
       -
         type: text
-        text: 'For further information and to book a place, please email Zoe at '
+        text: "Our Mini Movers sessions are free to attend but spaces are limited so booking is essential.\_Only those who have booked in advance will be able to participate in the session."
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:zoe.ablitt@danceeast.co.uk'
+              href: 'https://www.danceeast.co.uk/classes/thurston-mini-movers-3/'
               rel: null
               target: null
               title: null
-        text: "zoe.ablitt@danceeast.co.uk\_"
+        text: 'Click here to book'
       -
         type: text
-        text: ' or call on '
+        text: ' or phone '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473295245'
+              href: 'tel:01473295230'
               rel: null
               target: null
               title: null
-        text: '01473 295245'
-      -
-        type: text
-        text: .
+        text: '01473 295230'
   -
     type: heading
     attrs:
@@ -105,7 +104,49 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Movers meets at Hadleigh Library on the High Street in Hadleigh, IP7 5AG.'
+        text: 'There is a small amount of parking at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolklibraries.co.uk/visit/locations-and-times/hadleigh-library'
+              rel: null
+              target: null
+              title: null
+        text: 'Hadleigh Library'
+      -
+        type: text
+        text: ' for blue badge holders or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.babergh.gov.uk/w/magdalen-road-short-stay-car-park'
+              rel: null
+              target: null
+              title: null
+        text: 'Magdalen Road short stay car park  '
+      -
+        type: text
+        text: ' a four minute walk away. Hadleigh train station is a six minute walk away. Hadleigh bus station is a four minute walk away, see the latest bus timetables '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by Dance East. Please contact Zoe Ablitt:
 
@@ -116,10 +157,11 @@ cta: |-
   [01473 295230](tel:01473295230)
 booking_link: 'mailto:zoe.ablitt@danceeast.co.uk'
 accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
-end_date: '2023-05-09 10:45'
+  Autism friendly
+  Wheelchair access
+  Indoor venue
+end_date: '2024-03-26 10:45'
 duplicated_from: 356c9a56-8f50-44f3-890d-0dfde46a7fc1
+featured_image: danceeastimages/hadleigh-mini-movers-resized.jpg
 ---
 Early Years movement classes, ideal for toddlers and their grown-ups!
