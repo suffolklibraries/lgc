@@ -1,25 +1,26 @@
 ---
 id: 192d1cdd-94a0-453b-a786-940c19edeb77
-published: false
 blueprint: events
-title: 'Cultural Careers Fair (Duplicated)'
+title: "Let's Dance! Holiday Club"
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709823082
+updated_at: 1710777485
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-04-18 10:30'
+start_date: '2024-04-03 09:00'
 event_categories:
-  - languages
+  - dance
+  - teen-and-young-adult
+  - activity
 free: true
 virtual: false
 organisers:
-  - ipswich-museums
+  - danceeast
 address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: offthepressimages/new_resized_images/VisualArts.png
+featured_image: "danceeastimages/let's-dance!-holiday-club-resized.jpg"
 content_area:
   -
     type: heading
@@ -34,7 +35,27 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a fun, interactive careers event and discover a variety of careers and organisations across Suffolk. From tech to marketing, and admin to artist. Come along and get inspired with this free event, for those aged 16 - 25.'
+        text: 'DanceEast will provide a nutritious hot lunch, healthy snack, and drink, as well as arts and crafts activities. It’s a great chance for young people to form new friendships, build confidence and develop fresh new skills.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“Everyone was so welcoming and friendly! Really positive experience! And so much fun was had! They couldn’t wait to go back again.”'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“This is one of the best holiday clubs I have found. Very happy.”'
+  -
+    type: paragraph
   -
     type: heading
     attrs:
@@ -140,6 +161,23 @@ content_area:
             type: bold
         text: 'IP4 1DW.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently. See the latest bus timetables '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: null
+              title: null
+        text: here.
+  -
     type: heading
     attrs:
       level: 2
@@ -152,15 +190,54 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop-in'
+        text: 'Free places are available to those on income/benefit related Free School Meals. Limited places are available for young people who identify as “being in need of provision” and indicators for this may include being on Universal Credit.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you have any questions, or would like to book over the phone, please contact Esther -'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:esther.alcock@danceeast.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: esther.alcock@danceeast.co.uk
+      -
+        type: text
+        text: ' or call our Box Office on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473295230'
+              rel: null
+              target: null
+              title: null
+        text: '01473 295230'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
   -
     type: paragraph
 cta: |-
-  This event is organised by Ipswich Museums. Please contact Jade:
+  This event is organised by DanceEast
 
-  [Jade-Marie.Anderson@colchester.gov.uk](mailto:Jade-Marie.Anderson@colchester.gov.uk)
-end_date: '2024-04-18 14:00'
-attendance_information: 'For people aged 16 - 25'
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [01473 295230](tel:01473295230)
+end_date: '2024-04-05 15:00'
+attendance_information: 'For people aged 4 - 11'
 duplicated_from: 5f629834-f7df-42da-bb03-a1971642ca0e
+booking_link: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club-4-11-years-2/'
 ---
-Do you want to find out what roles are in the cultural sector?
+Filled with creative dance sessions, Let’s Dance! Holiday Club is a fun, energetic and imaginative way for children and young people to learn and express themselves through movement.
