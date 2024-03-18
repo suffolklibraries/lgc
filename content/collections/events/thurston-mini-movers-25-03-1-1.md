@@ -4,7 +4,7 @@ blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710773099
+updated_at: 1710773445
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
 start_date: '2024-04-22 10:00'
@@ -137,7 +137,7 @@ cta: |-
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
 
   [01473 295230](tel:01473295230)
-booking_link: 'mailto:zoe.ablitt@danceeast.co.uk'
+booking_link: 'https://www.danceeast.co.uk/classes/thurston-mini-movers-3/'
 accessibility_information: |-
   Autism friendly
   Wheelchair access
