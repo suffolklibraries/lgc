@@ -1,18 +1,17 @@
 ---
 id: a047a012-21ef-491c-8c06-325105a3a560
-published: false
 blueprint: events
-title: 'Yuva Gati CAT Experience Workshop (Eastern Region) (Duplicated)'
+title: 'Chotto Desh Workshop'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710778504
+updated_at: 1710779032
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2024-04-27 11:00'
 event_categories:
   - dance
-  - teen-and-young-adult
   - activity
+  - family-friendly
 free: true
 virtual: false
 organisers:
@@ -21,7 +20,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: danceeastimages/yuva-gati-cat-experience-workshop.jpg
+featured_image: danceeastimages/chotto-desh-family-workshop-resized.jpg
 content_area:
   -
     type: heading
@@ -36,27 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Whatever your previous experience of dance, you can take part in this exciting workshop introducing you to the National '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://fabric.dance/yuva-gati/'
-              rel: null
-              target: null
-              title: null
-        text: 'Yuva Gati'
-      -
-        type: text
-        text: ' Centre for Advanced Training.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Work with a team of professional tutors and artists, and meet like-minded people who love to dance.'
+        text: 'This workshop is family friendly, for big people and little people to move together. No dance experience is required.'
   -
     type: heading
     attrs:
@@ -195,7 +174,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/yuva-gati-cat-experience-workshop-eastern-region/'
+              href: 'https://www.danceeast.co.uk/workshops/chotto-desh-workshop/'
               rel: null
               target: null
               title: null
@@ -228,8 +207,8 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 end_date: '2024-04-27 13:00'
-attendance_information: 'For people aged 11 - 16'
+attendance_information: 'Family Friendly'
 duplicated_from: 10c267ce-53da-49c0-a5a2-1d946e711b8b
-booking_link: 'https://www.danceeast.co.uk/workshops/yuva-gati-cat-experience-workshop-eastern-region/'
+booking_link: 'https://www.danceeast.co.uk/workshops/chotto-desh-workshop/'
 ---
-Calling all young dance enthusiasts aged 11-16 with an interest in South Asian dance styles.
+Join Amy Butler, rehearsal director for Akram Khan Company, to explore the stories and characters from the show, Chotto Desh.
