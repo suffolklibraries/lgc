@@ -1,14 +1,13 @@
 ---
 id: bc139b33-0b58-4ff2-898f-7d2de7bb68f6
-published: false
 blueprint: events
-title: 'Hadleigh Mini Movers (Duplicated)'
+title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710773358
+updated_at: 1710773415
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
-start_date: '2024-04-16 09:15'
+start_date: '2024-04-23 09:15'
 event_categories:
   - dance
   - early-years
@@ -152,7 +151,7 @@ accessibility_information: |-
   Autism friendly
   Wheelchair access
   Indoor venue
-end_date: '2024-04-16 10:45'
+end_date: '2024-04-23 10:45'
 duplicated_from: e60f5dc7-ac61-4f96-ba40-c64d79aa6743
 featured_image: danceeastimages/hadleigh-mini-movers-resized.jpg
 booking_link: 'https://www.danceeast.co.uk/classes/hadleigh-mini-movers-3/'
