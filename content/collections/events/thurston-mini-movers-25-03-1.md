@@ -1,14 +1,13 @@
 ---
 id: a5fd0ff9-7e3b-47c4-b1f2-a648944b0023
-published: false
 blueprint: events
-title: 'Thurston Mini Movers (Duplicated)'
+title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710771946
+updated_at: 1710772018
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
-start_date: '2024-03-25 10:00'
+start_date: '2024-04-15 10:00'
 event_categories:
   - dance
   - early-years
@@ -132,7 +131,7 @@ accessibility_information: |-
   Autism friendly
   Wheelchair access
   Indoor venue
-end_date: '2024-03-25 11:30'
+end_date: '2024-04-15 11:30'
 duplicated_from: 107b88a0-e833-4702-b35a-3558d041f5f2
 featured_image: danceeastimages/thurston-mini-movers---resized.jpg
 ---
