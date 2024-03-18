@@ -1,14 +1,13 @@
 ---
 id: e60f5dc7-ac61-4f96-ba40-c64d79aa6743
-published: false
 blueprint: events
-title: 'Hadleigh Mini Movers (Duplicated)'
+title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710773227
+updated_at: 1710773310
 latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
-start_date: '2024-03-26 09:15'
+start_date: '2024-04-16 09:15'
 event_categories:
   - dance
   - early-years
@@ -38,12 +37,6 @@ content_area:
       -
         type: text
         text: 'Hadleigh Mini Movers is the perfect way to nurture your little ones natural love of movement in a structured yet relaxed environment. Themes, music, props and games are used to develop balance, coordination and imagination, and grown-ups are encouraged to join in the fun too!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "The autumn weekly class will run every\_Tuesday from 9 January, 9.15-10.45am at Hadleigh Library. The session includes half an hour at the end for refreshments and socialising.\_"
   -
     type: paragraph
     content:
@@ -159,7 +152,7 @@ accessibility_information: |-
   Autism friendly
   Wheelchair access
   Indoor venue
-end_date: '2024-03-26 10:45'
+end_date: '2024-04-16 10:45'
 duplicated_from: c35a0f2b-cbed-453b-a065-c996dc2bb40e
 featured_image: danceeastimages/hadleigh-mini-movers-resized.jpg
 ---
