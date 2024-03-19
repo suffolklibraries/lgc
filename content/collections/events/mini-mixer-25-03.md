@@ -1,18 +1,18 @@
 ---
 id: 0cbeccbe-1e9e-4a24-ad8e-e977815d2205
-published: false
 blueprint: events
-title: 'Drop-In - year 9, 10 and 11 (Duplicated)'
+title: 'Mini Mixers'
 event_categories:
-  - teen-and-young-adult
+  - early-years
+  - parent-and-baby
 organisers:
   - the-mix
-featured_image: themix/drop-in-photo.jpg
-start_date: '2024-04-25 16:00'
-end_date: '2024-04-25 18:00'
+featured_image: offthepressimages/new_resized_images/Early-Years.png
+start_date: '2024-03-25 16:00'
+end_date: '2024-03-25 18:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 9, 10 and 11'
+attendance_information: 'Parents and toddlers'
 latitude: '52.18593337408477'
 longitude: '0.9993967685595039'
 address_line_1: '127 Ipswich Street'
@@ -32,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop In runs every week and are a great way of meeting new friends and finding new passions.'
+        text: 'A safe and welcoming space for families to meet and play with regular support and advice from specialists.'
   -
     type: heading
     attrs:
@@ -46,7 +46,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required'
+        text: 'No booking required, just drop in.'
   -
     type: heading
     attrs:
@@ -96,8 +96,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710838988
+updated_at: 1710841580
 duplicated_from: ce29e648-d887-48eb-a5a9-decbe359dccb
-booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnctb2p-1714057200'
 ---
-For anyone who isn’t sure what we are on about, our Drop Ins are a space for young people to come and hang out in a chill and comfortable space.
+A new parent and toddler group held once a month on a Monday in our youth hall.
