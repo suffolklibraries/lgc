@@ -95,7 +95,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710838844
+updated_at: 1710839069
 duplicated_from: 1c35cc18-c6c3-4aa0-b618-e691fba0b1bc
 booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-a4bdb91e-61fd-487d-9386-67711019cf32-1710777600-1711382400'
 ---
