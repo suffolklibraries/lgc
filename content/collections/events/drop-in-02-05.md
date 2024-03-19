@@ -1,15 +1,14 @@
 ---
 id: 2b4a4a14-608f-44e0-87a3-50b1759b7b82
-published: false
 blueprint: events
-title: 'Drop-In - year 9, 10 and 11 (Duplicated)'
+title: 'Drop-In - year 9, 10 and 11'
 event_categories:
   - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/drop-in-photo.jpg
-start_date: '2024-04-25 16:00'
-end_date: '2024-04-25 18:00'
+start_date: '2024-05-02 16:00'
+end_date: '2024-05-02 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 9, 10 and 11'
@@ -96,8 +95,8 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710838988
+updated_at: 1710839115
 duplicated_from: ce29e648-d887-48eb-a5a9-decbe359dccb
-booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnctb2p-1714057200'
+booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnctb2p-1714662000'
 ---
 For anyone who isn’t sure what we are on about, our Drop Ins are a space for young people to come and hang out in a chill and comfortable space.
