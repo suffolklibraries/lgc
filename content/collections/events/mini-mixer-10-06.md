@@ -1,16 +1,15 @@
 ---
 id: 495daceb-7c6c-4377-944c-48526059348e
-published: false
 blueprint: events
-title: 'Mini Mixers (Duplicated)'
+title: 'Mini Mixers'
 event_categories:
   - early-years
   - parent-and-baby
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2024-05-20 09:00'
-end_date: '2024-05-20 11:00'
+start_date: '2024-06-10 09:00'
+end_date: '2024-06-10 11:00'
 free: true
 virtual: false
 attendance_information: 'Parents and toddlers'
@@ -97,7 +96,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710841794
+updated_at: 1710841843
 duplicated_from: 6e080211-a92a-4ade-af9f-28c0d388781a
 ---
 A new parent and toddler group held once a month on a Monday in our youth hall.
