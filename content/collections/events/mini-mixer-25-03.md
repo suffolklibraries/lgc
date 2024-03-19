@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2024-03-25 16:00'
-end_date: '2024-03-25 18:00'
+start_date: '2024-03-25 09:00'
+end_date: '2024-03-25 11:00'
 free: true
 virtual: false
 attendance_information: 'Parents and toddlers'
@@ -96,7 +96,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710841580
+updated_at: 1710841660
 duplicated_from: ce29e648-d887-48eb-a5a9-decbe359dccb
 ---
 A new parent and toddler group held once a month on a Monday in our youth hall.
