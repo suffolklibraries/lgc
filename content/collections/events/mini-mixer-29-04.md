@@ -1,22 +1,21 @@
 ---
 id: abcbf13e-8000-41a4-be63-0337d9fc1efc
-published: false
 blueprint: events
-title: 'Mini Mixers (Duplicated)'
+title: 'Mini Mixers'
 event_categories:
   - early-years
   - parent-and-baby
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2024-03-25 09:00'
-end_date: '2024-03-25 11:00'
+start_date: '2024-04-29 09:00'
+end_date: '2024-04-29 11:00'
 free: true
 virtual: false
 attendance_information: 'Parents and toddlers'
 latitude: '52.18593337408477'
 longitude: '0.9993967685595039'
-address_line_1: '127 Ipswich Street'
+address_line_1: 'The Mix, 127 Ipswich Street'
 town: Stowmarket
 postcode: 'IP14 1BB'
 content_area:
@@ -97,7 +96,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710841660
+updated_at: 1710841740
 duplicated_from: 0cbeccbe-1e9e-4a24-ad8e-e977815d2205
 ---
 A new parent and toddler group held once a month on a Monday in our youth hall.
