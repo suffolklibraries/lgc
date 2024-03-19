@@ -1,5 +1,6 @@
 ---
 id: a096dd8f-9f02-4fc3-a054-773cda39f2a1
+published: false
 blueprint: events
 title: 'Mindfulness and Breathwork Session for Stress Reduction'
 event_categories:
