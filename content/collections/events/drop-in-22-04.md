@@ -1,15 +1,14 @@
 ---
 id: f9e97883-b5de-466c-a31c-6b78312b2e7a
-published: false
 blueprint: events
-title: 'Drop-In - year 7 and 8 (Duplicated)'
+title: 'Drop-In - year 7 and 8'
 event_categories:
   - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/drop-in-photo.jpg
-start_date: '2024-04-15 16:00'
-end_date: '2024-04-15 18:00'
+start_date: '2024-04-22 16:00'
+end_date: '2024-04-22 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 7 and 8'
@@ -93,8 +92,8 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710838320
+updated_at: 1710838396
 duplicated_from: fce3071c-cec7-47f6-9b94-0fc2b0a06833
-booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnckzq1'
+booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnckzq1-1713798000'
 ---
 For anyone who isn’t sure what we are on about, our Drop Ins are a space for young people to come and hang out in a chill and comfortable space.
