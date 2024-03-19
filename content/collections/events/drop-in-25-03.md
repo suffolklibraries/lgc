@@ -59,6 +59,9 @@ content_area:
     content:
       -
         type: text
+        text: 'Car parking is available a two minute walk away in '
+      -
+        type: text
         marks:
           -
             type: link
@@ -70,7 +73,7 @@ content_area:
         text: 'Ipswich Street car park'
       -
         type: text
-        text: ' is a two minute walk away. Stowmarket train station is a ten minute walk away. The nearest bus stop is one minute walk away, see the latest bus timetables '
+        text: '. Stowmarket train station is a ten minute walk away. The nearest bus stop is one minute walk away, see the latest bus timetables '
       -
         type: text
         marks:
@@ -92,7 +95,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710838540
+updated_at: 1710839026
 duplicated_from: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-a4bdb91e-61fd-487d-9386-67711019cf32-1710777600-1711382400'
 ---
