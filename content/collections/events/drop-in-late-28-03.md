@@ -1,18 +1,17 @@
 ---
 id: 8c2e5263-1bcc-4048-b288-cfb506949f44
-published: false
 blueprint: events
-title: 'Drop-In - year 9, 10 and 11 (Duplicated)'
+title: 'Drop-In Late'
 event_categories:
   - teen-and-young-adult
 organisers:
   - the-mix
-featured_image: themix/drop-in-photo.jpg
-start_date: '2024-05-02 16:00'
-end_date: '2024-05-02 18:00'
+featured_image: themix/drop-in-late.jpg
+start_date: '2024-03-28 19:00'
+end_date: '2024-03-28 21:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 9, 10 and 11'
+attendance_information: 'Young people'
 latitude: '52.18593337408477'
 longitude: '0.9993967685595039'
 address_line_1: '127 Ipswich Street'
@@ -96,8 +95,8 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710839115
+updated_at: 1710839320
 duplicated_from: 2b4a4a14-608f-44e0-87a3-50b1759b7b82
-booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnctb2p-1714662000'
+booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-le8pedvo-1710442800-1711652400'
 ---
 For anyone who isn’t sure what we are on about, our Drop Ins are a space for young people to come and hang out in a chill and comfortable space.
