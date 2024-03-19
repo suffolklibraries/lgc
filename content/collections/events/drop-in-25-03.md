@@ -86,13 +86,13 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Ipswich Museums:
+  This event is organised by The Mix
 
   [https://www.themixstowmarket.org/](https://www.themixstowmarket.org/) 
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710838213
+updated_at: 1710838540
 duplicated_from: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-a4bdb91e-61fd-487d-9386-67711019cf32-1710777600-1711382400'
 ---
