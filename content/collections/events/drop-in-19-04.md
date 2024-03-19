@@ -1,15 +1,14 @@
 ---
 id: feee07d2-26e6-4486-bde4-dc5f46bcb3ca
-published: false
 blueprint: events
-title: 'Drop-In - years 7 - 11 (Duplicated)'
+title: 'Drop-In - years 7 - 11'
 event_categories:
   - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/the-mix-hut.jpg
-start_date: '2024-03-29 17:00'
-end_date: '2024-03-29 19:00'
+start_date: '2024-04-19 17:00'
+end_date: '2024-04-19 19:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 7 to 11'
@@ -96,9 +95,9 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710839991
+updated_at: 1710840058
 duplicated_from: 4ceb10d0-f1ed-495d-801a-e5e36a904474
-booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-le8ph11b-1710522000-1711731600'
+booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnd6wck'
 address_line_2: 'Crowley Rd'
 ---
 For anyone who isn’t sure what we are on about, our Drop Ins are a space for young people to come and hang out in a chill and comfortable space.
