@@ -1,23 +1,22 @@
 ---
 id: 99a16c26-a3c3-413c-bf65-a9de5060e35c
-published: false
 blueprint: events
-title: 'Drop-In - year 7 and 8 (Duplicated)'
+title: 'Drop-In - years 7 - 11'
 event_categories:
   - teen-and-young-adult
 organisers:
   - the-mix
-featured_image: themix/drop-in-photo.jpg
-start_date: '2024-03-25 16:00'
-end_date: '2024-03-25 18:00'
+featured_image: themix/the-mix-hut.jpg
+start_date: '2024-03-22 16:00'
+end_date: '2024-03-22 18:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 7 and 8'
-latitude: '52.18593337408477'
-longitude: '0.9993967685595039'
-address_line_1: '127 Ipswich Street'
-town: Stowmarket
-postcode: 'IP14 1BB'
+attendance_information: 'For young people in years 7 to 11'
+latitude: '52.15366879125586'
+longitude: '1.0469979762348256'
+address_line_1: 'The Mix Hut (Needham)'
+town: 'Needham Market'
+postcode: 'IP6 8BJ'
 content_area:
   -
     type: heading
@@ -60,21 +59,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Car parking is available a two minute walk away in '
+        text: 'Car parking is available an eleven minute walk away in '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.babergh.gov.uk/web/mid-suffolk/w/ipswich-street-car-park-1'
+              href: 'https://www.babergh.gov.uk/web/mid-suffolk/w/station-yard-car-park'
               rel: null
               target: _blank
               title: null
-        text: 'Ipswich Street car park'
+        text: 'Station Yard car park'
       -
         type: text
-        text: '. Stowmarket train station is a ten minute walk away. The nearest bus stop is one minute walk away, see the latest bus timetables '
+        text: '. Needham Market train station is an eleven minute walk away. The nearest bus stop is one minute walk away, see the latest bus timetables '
       -
         type: text
         marks:
@@ -96,8 +95,9 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710839026
+updated_at: 1710839851
 duplicated_from: b1ef89c7-7d82-447c-9d53-d65b85e2f6e7
-booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-a4bdb91e-61fd-487d-9386-67711019cf32-1710777600-1711382400'
+booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-le8ph11b-1710522000-1711126800'
+address_line_2: 'Crowley Rd'
 ---
 For anyone who isn’t sure what we are on about, our Drop Ins are a space for young people to come and hang out in a chill and comfortable space.
