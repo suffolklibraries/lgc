@@ -1,18 +1,17 @@
 ---
 id: b4bec156-a169-45ea-8860-91413c6d8e48
-published: false
 blueprint: events
-title: 'Drop-In - year 7 and 8 (Duplicated)'
+title: 'Drop-In - year 9, 10 and 11'
 event_categories:
   - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/drop-in-photo.jpg
-start_date: '2024-05-06 16:00'
-end_date: '2024-05-06 18:00'
+start_date: '2024-03-28 16:00'
+end_date: '2024-03-28 18:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 7 and 8'
+attendance_information: 'For young people in years 9, 10 and 11'
 latitude: '52.18593337408477'
 longitude: '0.9993967685595039'
 address_line_1: '127 Ipswich Street'
@@ -60,6 +59,9 @@ content_area:
     content:
       -
         type: text
+        text: 'Car parking is available a two minute walk away in '
+      -
+        type: text
         marks:
           -
             type: link
@@ -71,7 +73,7 @@ content_area:
         text: 'Ipswich Street car park'
       -
         type: text
-        text: ' is a two minute walk away. Stowmarket train station is a ten minute walk away. The nearest bus stop is one minute walk away, see the latest bus timetables '
+        text: '. Stowmarket train station is a ten minute walk away. The nearest bus stop is one minute walk away, see the latest bus timetables '
       -
         type: text
         marks:
@@ -93,8 +95,8 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710838571
+updated_at: 1710838844
 duplicated_from: 1c35cc18-c6c3-4aa0-b618-e691fba0b1bc
-booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-lsnckzq1-1714402800'
+booking_link: 'https://www.themixstowmarket.org/#calendar-f0542395-72ea-4bf6-8c39-c82dfc414127-event-a4bdb91e-61fd-487d-9386-67711019cf32-1710777600-1711382400'
 ---
 For anyone who isn’t sure what we are on about, our Drop Ins are a space for young people to come and hang out in a chill and comfortable space.
