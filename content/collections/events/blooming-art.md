@@ -1,5 +1,6 @@
 ---
 id: 250e5f48-bedf-4f5d-97fd-c5e47d758ddd
+published: false
 blueprint: events
 title: 'Blooming Art'
 event_categories:
