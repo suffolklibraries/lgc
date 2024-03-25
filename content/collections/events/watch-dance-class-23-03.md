@@ -1,5 +1,6 @@
 ---
 id: 79c7fe78-2207-4c7c-a0af-5a979a192426
+published: false
 blueprint: events
 title: 'Mark Bruce Company - Watch Dance Class'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
