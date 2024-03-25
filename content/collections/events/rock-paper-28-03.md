@@ -1,6 +1,5 @@
 ---
 id: 98fa4b33-13bc-40e2-9b35-6b87018f105d
-published: false
 blueprint: events
 title: 'Rock Paper Grow'
 event_categories:
@@ -115,7 +114,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711385158
+updated_at: 1711385391
 featured_image: rockpaperscissorsimages/rps-art-school.jpg
 end_date: '2024-03-28 12:00'
 latitude: '52.09304366086146'
