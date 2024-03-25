@@ -2,15 +2,15 @@
 id: 98fa4b33-13bc-40e2-9b35-6b87018f105d
 published: false
 blueprint: events
-title: 'Art School (Duplicated)'
+title: 'Rock Paper Grow'
 event_categories:
   - art
   - crafts
   - primary-school-age
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-11 10:00'
-free: false
+start_date: '2024-03-28 10:30'
+free: true
 virtual: false
 content_area:
   -
@@ -26,7 +26,14 @@ content_area:
     content:
       -
         type: text
-        text: 'For young artists aged 11-16, join us the studio for a whole day of experimental approaches to drawing, painting and printmaking. Explore new techniques, push boundaries, and unleash your creativity in a supportive and inspiring environment supported by our team of incredible artists.'
+        text: 'Every Thursday morning we are meeting at 10.30 am at the stables in Holywells Park in Ipswich, for a short nature walk followed by an art activity in the open air.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'The emphasis is on supporting adults mental wellbeing through nature and creativity. We will cover lots of creative skills from printmaking to illustration and collage.'
       -
         type: hardBreak
   -
@@ -34,15 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please bring a packed lunch and drinks.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'All staff DBS checked and trained in safeguarding and paediatric first aid.'
+        text: 'We meet by the Stables Block in Holywells Park. '
   -
     type: heading
     attrs:
@@ -56,7 +55,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Buses that stop near us are 64, 66A, 77, 79. The nearest bus stop is one minute walk away, see the latest bus timetables '
+        text: 'Buses that stop near Holywells Park are 1, 2, 3, 3E, and 616. The nearest bus stop is six minute walk away, see the latest bus timetables '
       -
         type: text
         marks:
@@ -70,21 +69,24 @@ content_area:
         text: here
       -
         type: text
-        text: '. The nearest car parking is a seven minute walk away at '
+        text: '. The nearest car parking is a ten minute walk away at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/regent-car-park'
+              href: 'https://en.parkopedia.co.uk/parking/carpark/athena_hall/ip3/ipswich/?arriving=202403251700&leaving=202403251900'
               rel: null
               target: _blank
               title: null
-        text: 'the Regent Theatre.'
+        text: 'Athena Hall car park.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: ' '
+        text: 'Parking is available at the Cliff Lane entrance for Blue Badge and permit holders only.'
   -
     type: heading
     attrs:
@@ -113,18 +115,17 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711384217
+updated_at: 1711385158
 featured_image: rockpaperscissorsimages/rps-art-school.jpg
-end_date: '2024-04-11 15:00'
-latitude: '52.0563490706618'
-longitude: '1.164709702274864'
-address_line_1: 'Dove Street Studio'
-address_line_2: '11 Dove Street'
+end_date: '2024-03-28 12:00'
+latitude: '52.09304366086146'
+longitude: '1.1776158942056731'
+address_line_1: 'Holywells Park'
+address_line_2: 'Cliff Lane'
 town: Ipswich
-postcode: 'IP4 1NG'
-attendance_information: 'Ages 11 - 16'
+postcode: 'IP3 0PG'
+attendance_information: 'For 18+'
 duplicated_from: 4451fd28-30d2-47e1-928e-f921063efca3
-cost_details: £5
-accessibility_information: 'Studio accessed by flight of stairs'
+accessibility_information: 'Accessible to All'
 ---
-Experimental Approaches to Drawing, Painting and Printmaking with Rock Paper Scissors
+Outdoor Art in Holywells Park
