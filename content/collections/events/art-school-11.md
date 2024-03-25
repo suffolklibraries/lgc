@@ -1,15 +1,14 @@
 ---
 id: 4451fd28-30d2-47e1-928e-f921063efca3
-published: false
 blueprint: events
-title: 'Art School (Duplicated)'
+title: 'Art School'
 event_categories:
   - art
   - crafts
   - primary-school-age
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-04 10:00'
+start_date: '2024-04-11 10:00'
 free: false
 virtual: false
 content_area:
@@ -113,9 +112,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711384036
+updated_at: 1711384217
 featured_image: rockpaperscissorsimages/rps-art-school.jpg
-end_date: '2024-04-04 15:00'
+end_date: '2024-04-11 15:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
