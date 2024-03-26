@@ -1,14 +1,13 @@
 ---
 id: 9d98acfb-1ae1-4466-8a97-1db8c85b3e7e
-published: false
 blueprint: events
-title: 'Sketchbook Club (online) (Duplicated)'
+title: 'Sketchbook Club (online)'
 event_categories:
   - art
   - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-16 19:30'
+start_date: '2024-04-23 19:30'
 free: false
 virtual: true
 content_area:
@@ -56,9 +55,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711455010
+updated_at: 1711455124
 featured_image: rockpaperscissorsimages/sketchbook-club.jpg
-end_date: '2024-04-16 20:30'
+end_date: '2024-04-23 20:30'
 attendance_information: 'Suitable for all'
 duplicated_from: d4864a82-aab6-4a1a-bacb-b4e8278a7779
 cost_details: '£5 per household'
