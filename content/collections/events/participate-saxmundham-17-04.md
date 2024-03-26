@@ -7,7 +7,7 @@ longitude: '1.4923007463413769'
 start_date: '2024-04-17 10:00'
 end_date: '2024-04-17 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711456251
+updated_at: 1711456316
 free: true
 virtual: false
 organisers:
@@ -150,7 +150,7 @@ event_categories:
   - activity
   - museums
 booking_link: 'https://brittenpearsarts.org/events/participate-saxmundham-2'
-featured_image: offthepressimages/Music_drum.png
+featured_image: offthepressimages/new_resized_images/Music_Drum.png
 duplicated_from: 7f1f3b5f-b321-49cc-930f-bf929e753bd4
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians
