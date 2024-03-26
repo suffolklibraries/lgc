@@ -1,14 +1,13 @@
 ---
 id: bc827988-7cd7-4753-ad4a-0d877c3636b5
-published: false
 blueprint: events
-title: 'Participate - Woodbridge (Duplicated)'
+title: 'Participate - Woodbridge'
 latitude: '52.094356210893544'
 longitude: '1.3068466904244933'
-start_date: '2024-04-16 14:00'
-end_date: '2024-04-16 16:00'
+start_date: '2024-04-23 14:00'
+end_date: '2024-04-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711459935
+updated_at: 1711460187
 free: true
 virtual: false
 organisers:
