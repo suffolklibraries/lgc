@@ -1,14 +1,13 @@
 ---
 id: 21166270-d07f-48bf-a933-c39d5f2f6381
-published: false
 blueprint: events
-title: 'Participate - Kesgrave (Duplicated)'
+title: 'Participate - Kesgrave'
 latitude: '52.061411704878424'
 longitude: '1.2361554072814007'
-start_date: '2024-04-16 10:00'
-end_date: '2024-04-16 12:00'
+start_date: '2024-04-23 10:00'
+end_date: '2024-04-23 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711461950
+updated_at: 1711462795
 free: true
 virtual: false
 organisers:
