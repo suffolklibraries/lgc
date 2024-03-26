@@ -7,7 +7,7 @@ longitude: '1.5727273811032985'
 start_date: '2024-07-10 14:00'
 end_date: '2024-07-10 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711459361
+updated_at: 1711461675
 free: true
 virtual: false
 organisers:
@@ -52,7 +52,15 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required '
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://brittenpearsarts.org/events/participate-leiston-2#dates-and-times'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Click here to book your place'
   -
     type: heading
     attrs:
