@@ -1,15 +1,14 @@
 ---
 id: 0b047c65-5d43-428c-a5f0-5ab0d027cd21
-published: false
 blueprint: events
-title: 'Print Social (Duplicated)'
+title: 'Rock Paper Stitch'
 event_categories:
   - art
   - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-05-24 19:00'
-free: true
+start_date: '2024-04-12 19:00'
+free: false
 virtual: false
 content_area:
   -
@@ -25,14 +24,33 @@ content_area:
     content:
       -
         type: text
-        text: 'A relaxed and friendly monthly Print social for adults on the 4th Friday of the month.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'Share the love for knitting, sewing, crocheting and any other needle crafts with like minded makers - with tea and cake!'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: 'Sarah will set an alternative print project for you each month, where experimenting and going off on a tangent are encouraged!'
+        text: 'The group is hosted by Thaksala Haylock ('
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.instagram.com/inkyandthebears/?hl=en'
+              rel: null
+              target: _blank
+              title: null
+        text: '@inkyandthebears on Instagram'
+      -
+        type: text
+        text: )
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please be aware that this is not an instructional session.'
   -
     type: heading
     attrs:
@@ -103,9 +121,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711453578
-featured_image: rockpaperscissorsimages/print-social.jpg
-end_date: '2024-05-24 21:00'
+updated_at: 1711454025
+featured_image: rockpaperscissorsimages/rock-paper-stitch.jpg
+end_date: '2024-04-12 21:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
@@ -115,5 +133,6 @@ postcode: 'IP4 1NG'
 attendance_information: 18+
 duplicated_from: 2b346d8b-d5d3-4ba6-9b27-29e3104cd07d
 accessibility_information: 'Studio accessed by flight of stairs'
+cost_details: '£5 including tea and cake'
 ---
-Sarah Nkugwa of Pop Print Studio hosts a Print Social on the 4th Friday of the month in our Dove Street Studio
+A monthly community group for adult makers to bring their own projects to work on
