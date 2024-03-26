@@ -7,7 +7,7 @@ longitude: '1.496796100174832'
 start_date: '2024-06-20 10:30'
 end_date: '2024-06-20 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711470889
+updated_at: 1711471403
 free: true
 virtual: false
 organisers:
