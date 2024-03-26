@@ -1,16 +1,14 @@
 ---
 id: 559f8a69-d30b-4510-b7df-e91a7b3cc233
-published: false
 blueprint: events
-title: 'Art School (Duplicated)'
+title: 'Family Shine Workshop'
 event_categories:
   - art
-  - crafts
-  - primary-school-age
+  - family-friendly
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-04 10:00'
-free: false
+start_date: '2024-04-21 10:00'
+free: true
 virtual: false
 content_area:
   -
@@ -26,23 +24,14 @@ content_area:
     content:
       -
         type: text
-        text: 'For young artists aged 11-16, join us the studio for a whole day of experimental approaches to drawing, painting and printmaking. Explore new techniques, push boundaries, and unleash your creativity in a supportive and inspiring environment supported by our team of incredible artists.'
+        text: 'We will do lots of fun creative activities, you will get a free copy of our creative wellbeing journal, and spend time together making art as a family.'
       -
         type: hardBreak
-  -
-    type: paragraph
-    content:
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Please bring a packed lunch and drinks.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'All staff DBS checked and trained in safeguarding and paediatric first aid.'
+        text: 'Refreshments are included.'
   -
     type: heading
     attrs:
@@ -113,18 +102,17 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711384036
-featured_image: rockpaperscissorsimages/rps-art-school.jpg
-end_date: '2024-04-04 15:00'
+updated_at: 1711453062
+featured_image: rockpaperscissorsimages/family-shine.jpg
+end_date: '2024-04-21 12:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
 address_line_2: '11 Dove Street'
 town: Ipswich
 postcode: 'IP4 1NG'
-attendance_information: 'Ages 11 - 16'
+attendance_information: Families
 duplicated_from: fc475bd6-01d0-4419-ad43-58a174f218c0
-cost_details: £5
 accessibility_information: 'Studio accessed by flight of stairs'
 ---
-Experimental Approaches to Drawing, Painting and Printmaking with Rock Paper Scissors
+Workshops for families with children of all ages, where someone in the family age 16+ is struggling with their mental health.
