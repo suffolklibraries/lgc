@@ -7,7 +7,7 @@ longitude: '1.1841183199144334'
 start_date: '2024-04-18 10:30'
 end_date: '2024-04-18 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711471439
+updated_at: 1711471481
 free: true
 virtual: false
 organisers:
@@ -46,7 +46,7 @@ content_area:
         text: '01728 687127'
       -
         type: text
-        text: ', or '
+        text: ' or '
       -
         type: text
         marks:
