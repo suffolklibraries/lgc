@@ -1,14 +1,13 @@
 ---
 id: 17df6d62-2c9f-4c64-849d-b2b57a6f8d64
-published: false
 blueprint: events
-title: 'Family Shine Workshop (Duplicated)'
+title: 'Print Social'
 event_categories:
   - art
-  - family-friendly
+  - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-21 10:00'
+start_date: '2024-04-26 19:00'
 free: true
 virtual: false
 content_area:
@@ -25,14 +24,14 @@ content_area:
     content:
       -
         type: text
-        text: 'We will do lots of fun creative activities, you will get a free copy of our creative wellbeing journal, and spend time together making art as a family.'
+        text: 'A relaxed and friendly monthly Print social for adults on the 4th Friday of the month.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Refreshments are included.'
+        text: 'Sarah will set an alternative print project for you each month, where experimenting and going off on a tangent are encouraged!'
   -
     type: heading
     attrs:
@@ -103,17 +102,17 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711453062
-featured_image: rockpaperscissorsimages/family-shine.jpg
-end_date: '2024-04-21 12:00'
+updated_at: 1711453505
+featured_image: rockpaperscissorsimages/print-social.jpg
+end_date: '2024-04-26 21:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
 address_line_2: '11 Dove Street'
 town: Ipswich
 postcode: 'IP4 1NG'
-attendance_information: Families
+attendance_information: 18+
 duplicated_from: 559f8a69-d30b-4510-b7df-e91a7b3cc233
 accessibility_information: 'Studio accessed by flight of stairs'
 ---
-Workshops for families with children of all ages, where someone in the family age 16+ is struggling with their mental health.
+Sarah Nkugwa of Pop Print Studio hosts a Print Social on the 4th Friday of the month in our Dove Street Studio
