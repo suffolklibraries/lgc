@@ -1,14 +1,13 @@
 ---
 id: 6b7c2212-61e3-4d7f-8091-bef61dae609a
-published: false
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
+title: 'Participate - Leiston'
 latitude: '52.20591758071305'
 longitude: '1.5727273811032985'
-start_date: '2024-04-17 14:00'
-end_date: '2024-04-17 16:00'
+start_date: '2024-05-01 14:00'
+end_date: '2024-05-01 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711458775
+updated_at: 1711458863
 free: true
 virtual: false
 organisers:
