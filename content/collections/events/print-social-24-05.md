@@ -1,14 +1,13 @@
 ---
 id: 2b346d8b-d5d3-4ba6-9b27-29e3104cd07d
-published: false
 blueprint: events
-title: 'Print Social (Duplicated)'
+title: 'Print Social'
 event_categories:
   - art
   - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-26 19:00'
+start_date: '2024-05-24 19:00'
 free: true
 virtual: false
 content_area:
@@ -103,9 +102,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711453505
+updated_at: 1711453578
 featured_image: rockpaperscissorsimages/print-social.jpg
-end_date: '2024-04-26 21:00'
+end_date: '2024-05-24 21:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
