@@ -55,10 +55,10 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711455010
-featured_image: rockpaperscissorsimages/sketchbook-club.jpg
+updated_at: 1711455234
+featured_image: offthepressimages/new_resized_images/LGC-VA.png
 end_date: '2024-04-16 20:30'
-attendance_information: 'Suitable for all'
+attendance_information: Adults
 duplicated_from: 7f952b5b-5f6e-4881-8f11-c0eceff9a69e
 cost_details: '£5 per household'
 ---
