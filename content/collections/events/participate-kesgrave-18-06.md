@@ -1,14 +1,13 @@
 ---
 id: fc8e9ba2-ddc5-4d65-b5ec-0fd2f404ac18
-published: false
 blueprint: events
-title: 'Participate - Kesgrave (Duplicated)'
+title: 'Participate - Kesgrave'
 latitude: '52.061411704878424'
 longitude: '1.2361554072814007'
-start_date: '2024-06-11 10:00'
-end_date: '2024-06-11 12:00'
+start_date: '2024-06-18 10:00'
+end_date: '2024-06-18 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711463182
+updated_at: 1711463229
 free: true
 virtual: false
 organisers:
@@ -122,7 +121,7 @@ content_area:
         type: text
         text: .
 attendance_information: Adults
-address_line_1: 'Bowls Pavilion, Kesgrave War Memorial Community Centre'
+address_line_1: 'Conference Centre, Kesgrave War Memorial Community Centre'
 address_line_2: 'Twelve Acre Approach, Kesgrave'
 town: Ipswich
 postcode: 'IP5 1JF'
