@@ -1,14 +1,13 @@
 ---
 id: 3314f6a6-0b75-4de4-b437-d578603952c0
-published: false
 blueprint: events
-title: 'Participate - Woodbridge (Duplicated)'
-latitude: '52.094356210893544'
-longitude: '1.3068466904244933'
-start_date: '2024-07-09 14:00'
-end_date: '2024-07-09 16:00'
+title: 'Participate - Kesgrave'
+latitude: '52.061411704878424'
+longitude: '1.2361554072814007'
+start_date: '2024-04-16 10:00'
+end_date: '2024-04-16 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711460670
+updated_at: 1711461950
 free: true
 virtual: false
 organisers:
@@ -53,7 +52,15 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required '
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://brittenpearsarts.org/events/participate-kesgrave'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Click here to book'
   -
     type: heading
     attrs:
@@ -67,21 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: "The nearest bus stop is nine minute walk away at St Mary's and is serviced by the 70 and 70A Village Buses. It is a 9 minute walk from the venue. The nearest car park is the "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/theatre_street/ip12/woodbridge/?arriving=202403261400&leaving=202403261600'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Theatre Street Car Park '
-      -
-        type: text
-        text: 'an eight minute walk away. Plan your route using the '
+        text: 'The nearest bus stop is 4 minute walk away and is serviced by the 66 bus.  The venue has free car parking. Plan your route using the '
       -
         type: text
         marks:
@@ -128,10 +121,10 @@ content_area:
         type: text
         text: .
 attendance_information: Adults
-address_line_1: 'Seckford Care'
-address_line_2: 'Seckford Almshouses, Seckford Street'
-town: Woodbridge
-postcode: 'IP12 4NB'
+address_line_1: 'Bowls Pavilion, Kesgrave War Memorial Community Centre'
+address_line_2: 'Twelve Acre Approach, Kesgrave'
+town: Ipswich
+postcode: 'IP5 1JF'
 accessibility_information: |-
   - Dementia friendly
   - Parkinson's friendly 
@@ -147,7 +140,7 @@ event_categories:
   - music
   - activity
   - museums
-booking_link: 'https://brittenpearsarts.org/events/participate-woodbridge'
+booking_link: 'https://brittenpearsarts.org/events/participate-kesgrave'
 featured_image: offthepressimages/new_resized_images/Music_Drum.png
 duplicated_from: f6c2a1fc-7cb6-4a77-a7b6-c5de1f1a4eca
 ---
