@@ -1,14 +1,13 @@
 ---
 id: 7f952b5b-5f6e-4881-8f11-c0eceff9a69e
-published: false
 blueprint: events
-title: 'Rock Paper Stitch (Duplicated)'
+title: 'Rock Paper Stitch'
 event_categories:
   - art
   - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-05-10 19:00'
+start_date: '2024-06-14 19:00'
 free: false
 virtual: false
 content_area:
@@ -122,7 +121,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711454092
+updated_at: 1711454202
 featured_image: rockpaperscissorsimages/rock-paper-stitch.jpg
 end_date: '2024-05-10 21:00'
 latitude: '52.0563490706618'
