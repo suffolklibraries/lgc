@@ -1,5 +1,6 @@
 ---
 id: c35a0f2b-cbed-453b-a065-c996dc2bb40e
+published: false
 blueprint: events
 title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
