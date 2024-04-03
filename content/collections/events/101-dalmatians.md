@@ -1,22 +1,21 @@
 ---
 id: 308e2f3b-13ce-4f66-a22c-6d01fc13da97
-published: false
 blueprint: events
-title: 'Seagull Youth Theatre Presents: Peter Pan (Duplicated)'
+title: 'Sunday Film Sessions - 101 Dalmatians'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712154488
-start_date: '2024-04-18 19:00'
-end_date: '2024-04-18 21:00'
+updated_at: 1712155452
+start_date: '2024-04-21 13:30'
+end_date: '2024-04-21 16:00'
 event_categories:
-  - performance
-free: false
+  - film
+free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Theatre.png
-attendance_information: '- Family friendly'
+featured_image: offthepressimages/Film.png
+attendance_information: '- Dementia friendly'
 content_area:
   -
     type: heading
@@ -31,13 +30,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet Wendy and her siblings who come face to face with Peter Pan who then takes them on an adventure meeting the Lost Boys, Captain hook and a few odd pirates along the way.'
+        text: 'An accessible film screening designed for those living with dementia and their families.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Adapted and Written by Greg Powles'
+        text: 'Join us for this hilarious classic Disney favourite - a guaranteed afternoon of laughs!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Doors open 1.30pm for social time and the film starts at 2.30pm.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "This is\_ part of our accessible film series \"Sunday Classics\" and includes free refreshments and a Sing-a-long after the film."
   -
     type: heading
     attrs:
@@ -58,7 +69,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
+              href: 'https://theseagull.co.uk/seagull_shows/101-dalmations-sunday-film-sessions/'
               rel: null
               target: _blank
               title: null
@@ -140,7 +151,6 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 33deeacb-1788-4dd4-abd0-53d2b432da0e
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
-cost_details: '£4 for adults, £2 for children'
+booking_link: 'https://theseagull.co.uk/seagull_shows/101-dalmations-sunday-film-sessions/'
 ---
-Come and join our younger youth theatre groups on a journey to Neverland, where time stands still!
+A FREE accessible film screening designed for those living with dementia and their families
