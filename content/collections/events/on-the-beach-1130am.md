@@ -1,13 +1,12 @@
 ---
 id: 607ddaf6-9718-4e77-9b12-f6af44a8aa76
-published: false
 blueprint: events
-title: 'Seagull Youth Theatre Presents: Our Generation (Duplicated)'
+title: 'On The Beach'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712156420
-start_date: '2024-04-24 19:00'
-end_date: '2024-04-23 21:00'
+updated_at: 1712159184
+start_date: '2024-05-09 11:30'
+end_date: '2024-05-09 12:30'
 event_categories:
   - performance
 free: false
@@ -30,7 +29,25 @@ content_area:
     content:
       -
         type: text
-        text: "Created from five years of interviews with twelve young people from across the UK, Our Generation is a captivating portrait of their teenage years as they journey into adulthood.\_Often too extraordinary to be fiction, this funny and moving play is for anyone who is – or has ever been – a teenager."
+        text: 'An intimate performance for audiences of 6 - 8 (plus carers), On The Beach is suitable for individuals at all stages of the dementia pathway. Join us for a day in the life of a working beach, as we explore its myths, magic, perils and ever-changing beauty through dance, music and visual storytelling.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'In 2024, we are still within touching and telling distance of people who worked the shores before plastic, whose hand-working skills are still evident from boat-building to fish-mongering, net-mending to knot-tying. We rediscover the people who haul and heave, knit and knot, wait and ponder; people for whom the songs and tales of the sea are a lived reality.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Inspired by rich traditions the world over, join us On The Beach: a place of loss, love and unfathomable strangeness, of unexpected joy and the heartbeat of home.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '“Our group thoroughly enjoyed themselves and so did we. They all said they loved being involved and also how calming and relaxing the experience was, which is wonderful" - community dementia group co-ordinators'
   -
     type: heading
     attrs:
@@ -51,11 +68,17 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
+              href: 'https://theseagull.co.uk/seagull_shows/on-the-beach/'
               rel: null
               target: _blank
               title: null
         text: 'click here to book.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Each performance is for a maximum of 8 people living with dementia. Each ticket comes with a free ticket for a carer.'
   -
     type: heading
     attrs:
@@ -130,7 +153,8 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: dcc7455d-2e4b-4030-bb89-56445406257c
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
-cost_details: '£4 for adults, £2 for children'
+booking_link: 'https://theseagull.co.uk/seagull_shows/on-the-beach/'
+cost_details: 'Pay as you can'
+attendance_information: '- Dementia friendly'
 ---
-An engrossing verbatim play which tells the stories of a generation.
+On The Beach is an interactive sensory experience for people living with dementia and their carers, created by participatory theatre company Spare Tyre.
