@@ -4,7 +4,7 @@ blueprint: events
 title: 'Seagull Youth Theatre Presents: Our Generation'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712156389
+updated_at: 1712156420
 start_date: '2024-04-24 19:00'
 end_date: '2024-04-23 21:00'
 event_categories:
