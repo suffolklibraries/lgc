@@ -1,13 +1,12 @@
 ---
 id: 81ef38c1-d903-491e-b235-87198e935541
-published: false
 blueprint: events
-title: 'An Evening of Old Time Music Hall (Duplicated)'
+title: 'An Evening of Old Time Music Hall'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712159715
-start_date: '2024-05-16 19:30'
-end_date: '2024-05-16 21:00'
+updated_at: 1712159773
+start_date: '2024-05-17 19:30'
+end_date: '2024-05-17 21:00'
 event_categories:
   - performance
 free: false
