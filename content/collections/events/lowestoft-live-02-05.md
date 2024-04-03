@@ -1,13 +1,12 @@
 ---
 id: b27b5c79-5b94-478c-95e9-e9d6bdb19f36
-published: false
 blueprint: events
-title: 'Seagull Youth Theatre Presents: Our Generation (Duplicated)'
+title: 'Lowestoft Live presents... CUSP, Pretty Terry and Kitty May'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712155880
-start_date: '2024-04-25 19:00'
-end_date: '2024-04-25 21:00'
+updated_at: 1712156166
+start_date: '2024-05-02 19:00'
+end_date: '2024-05-02 21:00'
 event_categories:
   - performance
 free: false
@@ -15,7 +14,7 @@ virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 content_area:
   -
     type: heading
@@ -30,7 +29,43 @@ content_area:
     content:
       -
         type: text
-        text: "Created from five years of interviews with twelve young people from across the UK, Our Generation is a captivating portrait of their teenage years as they journey into adulthood.\_Often too extraordinary to be fiction, this funny and moving play is for anyone who is – or has ever been – a teenager."
+        text: 'Centred around singer-songwriter Dan Stock, CUSP know their way around festival-ready anthems, intimate ballads and a broad scope of classic, melodic pop-rock songs. Across their collection of early demos and recordings ‘Songs (Vol.1-3)’ they have set out an early but clear vision of how guitar music still can feel familiar and brand new at the same time.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hailing from Milton Keynes and already with a growing fanbase which includes many of their peers, in 2023 they began taking their songs around the country and have been invited on tours by bands including DMA’s, The Snuts and The Sherlocks. With a series of singles ready for 2024, more music, bigger stages and headline tours await this year.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Pretty Terry join us from the fine city of\_Norwich, they are best described as 'an assortment of curvaceous lads playing the best in bass, funk and football!'"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Pretty Terry combines the best elements of indie, funk and Britpop for a layered and effortless sound.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Lowestoft pop artist Kitty May is a compelling performer recognized for her mesmerizing tunes and poignant lyrics.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Kitty May incorporates complex storylines into her songs, drawing influence from both her personal experiences and the outside world. Her captivating melodies and appealing hooks combine with her passionate lyrics to create an enticing blend of indie charm and pop sensibility.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Kitty May is joined by her band, featuring some of the best bright young talents our town has to offer.'
   -
     type: heading
     attrs:
@@ -51,11 +86,17 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
+              href: 'https://theseagull.co.uk/seagull_shows/lowestoft-live-presents/'
               rel: null
               target: _blank
               title: null
         text: 'click here to book.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please note that tickets are £5 in advance but £7 on the door.'
   -
     type: heading
     attrs:
@@ -133,7 +174,7 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 59bedf09-9e63-433e-a3b5-9a89fea12435
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
-cost_details: '£4 for adults, £2 for children'
+booking_link: 'https://theseagull.co.uk/seagull_shows/lowestoft-live-presents/'
+cost_details: '£5 for adults, £4 for children'
 ---
-An engrossing verbatim play which tells the stories of a generation.
+Lowestoft Live, in partnership with the Seagull and Youth Music, brings you the latest in our series of great gigs showcasing the latest in up and coming talent from Lowestoft and around the UK
