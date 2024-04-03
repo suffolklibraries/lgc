@@ -1,25 +1,21 @@
 ---
 id: 9bbfb3b3-5c65-403e-84dd-33161a2c9821
-published: false
 blueprint: events
-title: 'Seagull Sunday Sessions (Duplicated)'
+title: 'Seagull Youth Theatre Presents: Peter Pan'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712154008
-start_date: '2024-04-07 15:00'
-end_date: '2024-04-07 16:00'
+updated_at: 1712154350
+start_date: '2024-04-17 19:00'
+end_date: '2024-04-17 21:00'
 event_categories:
-  - music
-free: true
+  - performance
+free: false
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Music_singing.png
-attendance_information: |-
-  - Family friendly
-  - Dementia friendly
-  - Free refreshments
+featured_image: offthepressimages/new_resized_images/Theatre.png
+attendance_information: '- Family friendly'
 content_area:
   -
     type: heading
@@ -34,19 +30,13 @@ content_area:
     content:
       -
         type: text
-        text: "British violinist Noel Vine brings his acclaimed recital series #ClassicalChill to Seagull Sessions providing a perfect soundtrack to 'take time out from busy lives’  Accompanied by cool abstract mood lighting to enhance the experience."
+        text: 'Meet Wendy and her siblings who come face to face with Peter Pan who then takes them on an adventure meeting the Lost Boys, Captain hook and a few odd pirates along the way.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Selected Works from Bach, Philip Glass, Arvo Part, Nico Muhly and Max Richter.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'A must see for all music lovers.'
+        text: 'Adapted and Written by Greg Powles'
   -
     type: heading
     attrs:
@@ -60,18 +50,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free but booking is recommended. '
+        text: 'Booking is essential - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-sunday-sessions-noel-vine-classical-chill/'
+              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
               rel: null
               target: _blank
               title: null
-        text: 'Click here to book.'
+        text: 'click here to book.'
   -
     type: heading
     attrs:
@@ -132,6 +122,7 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 597076b8-744b-4a99-8a93-761f5e0709c9
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-sunday-sessions-noel-vine-classical-chill/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
+cost_details: '£4 for adults, £2 for children'
 ---
-The latest in the Seagull's series of accessible concerts.
+Come and join our younger youth theatre groups on a journey to Neverland, where time stands still!
