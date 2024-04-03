@@ -1,13 +1,12 @@
 ---
 id: dcc7455d-2e4b-4030-bb89-56445406257c
-published: false
 blueprint: events
-title: 'Seagull Youth Theatre Presents: Peter Pan (Duplicated)'
+title: 'Seagull Youth Theatre Presents: Our Generation'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712154488
-start_date: '2024-04-18 19:00'
-end_date: '2024-04-18 21:00'
+updated_at: 1712155812
+start_date: '2024-04-24 19:00'
+end_date: '2024-04-23 21:00'
 event_categories:
   - performance
 free: false
@@ -16,7 +15,6 @@ organisers:
   - the-seagull-theatre
 town: Lowestoft
 featured_image: offthepressimages/new_resized_images/Theatre.png
-attendance_information: '- Family friendly'
 content_area:
   -
     type: heading
@@ -31,13 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet Wendy and her siblings who come face to face with Peter Pan who then takes them on an adventure meeting the Lost Boys, Captain hook and a few odd pirates along the way.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Adapted and Written by Greg Powles'
+        text: "Created from five years of interviews with twelve young people from across the UK, Our Generation is a captivating portrait of their teenage years as they journey into adulthood.\_Often too extraordinary to be fiction, this funny and moving play is for anyone who is – or has ever been – a teenager."
   -
     type: heading
     attrs:
@@ -58,7 +50,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
+              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
               rel: null
               target: _blank
               title: null
@@ -140,7 +132,7 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 33deeacb-1788-4dd4-abd0-53d2b432da0e
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
 cost_details: '£4 for adults, £2 for children'
 ---
-Come and join our younger youth theatre groups on a journey to Neverland, where time stands still!
+An engrossing verbatim play which tells the stories of a generation.
