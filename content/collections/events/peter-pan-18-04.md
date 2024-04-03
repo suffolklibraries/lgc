@@ -1,13 +1,12 @@
 ---
 id: 33deeacb-1788-4dd4-abd0-53d2b432da0e
-published: false
 blueprint: events
 title: 'Seagull Youth Theatre Presents: Peter Pan (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712154428
-start_date: '2024-04-17 19:00'
-end_date: '2024-04-17 21:00'
+updated_at: 1712154455
+start_date: '2024-04-18 19:00'
+end_date: '2024-04-18 21:00'
 event_categories:
   - performance
 free: false
