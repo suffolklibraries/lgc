@@ -1,13 +1,12 @@
 ---
 id: b05d76d5-25c1-4627-bdcf-31dfd10a4eda
-published: false
 blueprint: events
-title: 'Seagull Youth Theatre Presents: Peter Pan (Duplicated)'
+title: 'Red Herring Showcase'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712154488
-start_date: '2024-04-18 19:00'
-end_date: '2024-04-18 21:00'
+updated_at: 1712154661
+start_date: '2024-04-19 19:30'
+end_date: '2024-04-19 21:30'
 event_categories:
   - performance
 free: false
@@ -15,7 +14,7 @@ virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 attendance_information: '- Family friendly'
 content_area:
   -
@@ -31,13 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet Wendy and her siblings who come face to face with Peter Pan who then takes them on an adventure meeting the Lost Boys, Captain hook and a few odd pirates along the way.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Adapted and Written by Greg Powles'
+        text: 'Red Herring Theatre Company returns with another night of high-quality entertainment, showcasing a selection of well-known and much-loved theatre pieces alongside fresh new writing. There is something for everyone with drama and comedy, scenes, monologues, sketches and music.'
   -
     type: heading
     attrs:
@@ -58,7 +51,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
+              href: 'https://theseagull.co.uk/seagull_shows/red-herring-showcase/'
               rel: null
               target: _blank
               title: null
@@ -140,7 +133,7 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 33deeacb-1788-4dd4-abd0-53d2b432da0e
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-presents-peter-pan/'
-cost_details: '£4 for adults, £2 for children'
+booking_link: 'https://theseagull.co.uk/seagull_shows/red-herring-showcase/'
+cost_details: £5
 ---
-Come and join our younger youth theatre groups on a journey to Neverland, where time stands still!
+Featuring much-loved theatre peices, fresh new writing, and music
