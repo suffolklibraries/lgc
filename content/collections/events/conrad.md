@@ -1,25 +1,20 @@
 ---
 id: bff931b5-bb25-45e8-bbcc-a837bcdccc2a
-published: false
 blueprint: events
-title: 'Seagull Sunday Sessions (Duplicated)'
+title: CONRAD
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712159929
-start_date: '2024-05-05 15:00'
-end_date: '2024-05-05 16:00'
+updated_at: 1712160141
+start_date: '2024-06-07 19:00'
+end_date: '2024-06-07 21:00'
 event_categories:
   - music
-free: false
+free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
 featured_image: offthepressimages/new_resized_images/Music_singing.png
-attendance_information: |-
-  - Family friendly
-  - Dementia friendly
-  - Free refreshments
 content_area:
   -
     type: heading
@@ -34,13 +29,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Peter Turrell is a Norwich based classical guitarist who specialises in Spanish, baroque, and South American music. He is passionate about taking classical music out of the concert hall, and making it accessible to a wider audience. '
+        text: 'Despite speaking just a few words of English when Conrad made his first British landfall in the town, he signed as a crew member onboard a Lowestoft ship where local sailors became his first language teachers. Conrad considered this association with local fishermen helped him go on to become one of the greatest writers in the English language.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Peter will take you on a musical journey through history, playing his favourite pieces from different centuries, from Elizabethan lute music through to more contemporary music'
+        text: "As a result of research conducted on behalf of the project, new discoveries about Conrad's time in the town have been discovered and myths or assumptions corrected."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This evening will share some of these discoveries and more through an "R&D performance" which also will celebrate the positive impact of immigration and intercultural exchange. ''JosEPH Conrad - the life of a Lowestoft immigrant'' funded by National Lottery Heritage will include a "sharing" of the findings through a creative arts performance and presentation and will include a Q&A.'
   -
     type: heading
     attrs:
@@ -54,29 +55,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free but booking is recommended.'
+        text: 'Places are free but booking is essential.'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/john-ward/'
+              href: 'https://theseagull.co.uk/seagull_shows/conrad/'
               rel: null
               target: _blank
               title: null
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/peter-turrell/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Click here to book.'
+        text: ' Click here to book.'
   -
     type: heading
     attrs:
@@ -134,7 +124,6 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 8f8c1601-6510-404e-abce-51c70f72880c
-booking_link: 'https://theseagull.co.uk/seagull_shows/peter-turrell/'
-cost_details: 'Pay what you think'
+booking_link: 'https://theseagull.co.uk/seagull_shows/conrad/'
 ---
-The latest in the Seagull's series of accessible concerts.
+'Conrad' is the culmination of a creative arts research by local organisation the Voice cLoud which has sought to explore what happened when Polish author Joseph Conrad arrived in Lowestoft in the summer of 1878.
