@@ -1,13 +1,12 @@
 ---
 id: b7b68900-912a-4c20-8b7a-f02668d74e97
-published: false
 blueprint: events
-title: 'Seagull Sunday Sessions (Duplicated) (2)'
+title: 'Seagull Sunday Sessions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712154008
-start_date: '2024-04-07 15:00'
-end_date: '2024-04-07 16:00'
+updated_at: 1712156448
+start_date: '2024-05-05 15:00'
+end_date: '2024-05-05 16:00'
 event_categories:
   - music
 free: true
@@ -34,19 +33,25 @@ content_area:
     content:
       -
         type: text
-        text: "British violinist Noel Vine brings his acclaimed recital series #ClassicalChill to Seagull Sessions providing a perfect soundtrack to 'take time out from busy lives’  Accompanied by cool abstract mood lighting to enhance the experience."
+        text: 'John and Lynne make a return visit to one of their favourite venues in the UK for an afternoon concert of songs to sing along to.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Selected Works from Bach, Philip Glass, Arvo Part, Nico Muhly and Max Richter.'
+        text: 'This concert will combine John’s own acclaimed songs, often about Lowestoft and the local area, alongside classic folk, rock and pop songs from some of their favourite artists.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'A must see for all music lovers.'
+        text: 'With guitar, accordion and other instruments, their trademark harmonies and a backdrop of historical and contemporary photographs to enhance the music, you will be encouraged to join in.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'John and Lynne play all over the UK as a duo and with their trio, delighting audiences from Scotland to Devon, Wales to East Anglia with their relaxed performances, stirring songs and authentic style.'
   -
     type: heading
     attrs:
@@ -60,18 +65,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free but booking is recommended. '
+        text: 'Places are free but booking is recommended.'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-sunday-sessions-noel-vine-classical-chill/'
+              href: 'https://theseagull.co.uk/seagull_shows/john-ward/'
               rel: null
               target: _blank
               title: null
-        text: 'Click here to book.'
+        text: ' Click here to book.'
   -
     type: heading
     attrs:
@@ -122,16 +127,13 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [0333 666 3366](tel:03336663366)
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information: '- Wheelchair access'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 597076b8-744b-4a99-8a93-761f5e0709c9
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-sunday-sessions-noel-vine-classical-chill/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/john-ward/'
 ---
 The latest in the Seagull's series of accessible concerts.
