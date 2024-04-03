@@ -4,7 +4,7 @@ blueprint: events
 title: 'Seagull Sunday Sessions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712154008
+updated_at: 1712156411
 start_date: '2024-04-07 15:00'
 end_date: '2024-04-07 16:00'
 event_categories:
@@ -121,10 +121,7 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [0333 666 3366](tel:03336663366)
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information: '- Wheelchair access'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
