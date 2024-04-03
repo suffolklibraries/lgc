@@ -1,13 +1,12 @@
 ---
 id: 428e2f3f-46a3-4438-a11e-42a94c3cc540
-published: false
 blueprint: events
-title: 'Seagull Youth Theatre Presents: Our Generation (Duplicated)'
+title: 'An Evening of Old Time Music Hall'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712156398
-start_date: '2024-04-25 19:00'
-end_date: '2024-04-25 21:00'
+updated_at: 1712159715
+start_date: '2024-05-16 19:30'
+end_date: '2024-05-16 21:00'
 event_categories:
   - performance
 free: false
@@ -30,7 +29,13 @@ content_area:
     content:
       -
         type: text
-        text: "Created from five years of interviews with twelve young people from across the UK, Our Generation is a captivating portrait of their teenage years as they journey into adulthood.\_Often too extraordinary to be fiction, this funny and moving play is for anyone who is – or has ever been – a teenager."
+        text: 'This spring our troupe will take you back to the Victorian hey day of Music Hall entertainment, when up and down the country theatres were full of crowds enjoying bawdy songs, variety acts and good old fashioned entertainment.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Join us for a night of fun and frolics.'
   -
     type: heading
     attrs:
@@ -51,7 +56,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
+              href: 'https://theseagull.co.uk/seagull_shows/the-seagull-amateurs-present-an-evening-of-old-time-musical-hall/'
               rel: null
               target: _blank
               title: null
@@ -130,7 +135,7 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 59bedf09-9e63-433e-a3b5-9a89fea12435
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
-cost_details: '£4 for adults, £2 for children'
+booking_link: 'https://theseagull.co.uk/seagull_shows/the-seagull-amateurs-present-an-evening-of-old-time-musical-hall/'
+cost_details: £5
 ---
-An engrossing verbatim play which tells the stories of a generation.
+The Seagulls own home grown amateur theatre group return for their second ever production.
