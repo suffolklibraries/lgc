@@ -1,5 +1,6 @@
 ---
 id: eb304eec-a2d2-403f-bf18-31fe4ca3b200
+published: false
 blueprint: events
 title: 'Spring Into Spring Craft Workshop'
 event_categories:
