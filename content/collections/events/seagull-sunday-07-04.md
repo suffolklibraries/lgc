@@ -1,23 +1,24 @@
 ---
 id: 597076b8-744b-4a99-8a93-761f5e0709c9
-published: false
 blueprint: events
-title: 'Lowestoft Movers - Seagull Theatre (Duplicated)'
+title: 'Seagull Sunday Sessions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684830835
-start_date: '2023-05-26 10:00'
-end_date: '2023-05-26 11:30'
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1712154008
+start_date: '2024-04-07 15:00'
+end_date: '2024-04-07 16:00'
 event_categories:
-  - dance
-  - later-life
-free: false
+  - music
+free: true
 virtual: false
 organisers:
-  - alysha-hudson-dance-yoga-movement
+  - the-seagull-theatre
 town: Lowestoft
-featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
-attendance_information: 'Age 55+'
+featured_image: offthepressimages/new_resized_images/Music_singing.png
+attendance_information: |-
+  - Family friendly
+  - Dementia friendly
+  - Free refreshments
 content_area:
   -
     type: heading
@@ -32,61 +33,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers is a gentle movement class for over 55s, held every Friday at 10am - 11:30am at The Seagull Theatre. '
+        text: "British violinist Noel Vine brings his acclaimed recital series #ClassicalChill to Seagull Sessions providing a perfect soundtrack to 'take time out from busy lives’  Accompanied by cool abstract mood lighting to enhance the experience."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The session is led by an experienced dance artist, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and most importantly have fun! Tea and biscuits are also included! '
+        text: 'Selected Works from Bach, Philip Glass, Arvo Part, Nico Muhly and Max Richter.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can visit the website '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.alyshahudson.co.uk/'
-              rel: null
-              target: null
-              title: null
-        text: 'Alysha Hudson – Dance Yoga Movement'
-      -
-        type: text
-        text: ', call the organiser Alysha Hudson on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07984756499'
-              rel: null
-              target: _blank
-              title: null
-        text: '07984 756499'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:alysha1990@hotmail.com'
-              rel: null
-              target: _blank
-              title: null
-        text: alysha1990@hotmail.com
-      -
-        type: text
-        text: .
+        text: 'A must see for all music lovers.'
   -
     type: heading
     attrs:
@@ -100,35 +59,18 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Alysha Hudson on '
+        text: 'Places are free but booking is recommended. '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:07984 756499'
+              href: 'https://theseagull.co.uk/seagull_shows/seagull-sunday-sessions-noel-vine-classical-chill/'
               rel: null
               target: _blank
               title: null
-        text: '07984 756499'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'Mailto:alysha1990@hotmail.com'
-              rel: null
-              target: _blank
-              title: null
-        text: alysha1990@hotmail.com
-      -
-        type: text
-        text: .
+        text: 'Click here to book.'
   -
     type: heading
     attrs:
@@ -142,7 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: "Lowestoft movers meets at St Margaret's Hall and The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest "
+        text: 'The Seagull Theatre is located minutes away from the Pakefield Beach. The nearest '
       -
         type: text
         marks:
@@ -172,23 +114,23 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Dance East. Please contact Alysha Hudson:
+  This event is organised by The Seagull Theatre
 
-  [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
+  [https://theseagull.co.uk/](https://theseagull.co.uk/)
 
-  [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
+  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
-  [07984 756499](tel:07984756499)
+  [0333 666 3366](tel:03336663366)
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
   - Indoor venue
-cost_details: £4
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: aea068d9-8be8-4a90-b7f5-6206abf0b396
+booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-sunday-sessions-noel-vine-classical-chill/'
 ---
-A weekly dance class for everyone over 55. Lowestoft Movers classes are designed to benefit you both mentally and physically.
+The latest in the Seagull's series of accessible concerts.
