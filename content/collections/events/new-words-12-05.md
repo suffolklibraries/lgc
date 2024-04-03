@@ -1,13 +1,12 @@
 ---
 id: f62d55c7-3349-4a9d-a2fe-a098624f1d02
-published: false
 blueprint: events
-title: 'Seagull Youth Theatre Presents: Our Generation (Duplicated)'
+title: 'New Words, Fresh Voices'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712156420
-start_date: '2024-04-24 19:00'
-end_date: '2024-04-23 21:00'
+updated_at: 1712159507
+start_date: '2024-05-12 19:30'
+end_date: '2024-05-12 21:00'
 event_categories:
   - performance
 free: false
@@ -15,7 +14,7 @@ virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 content_area:
   -
     type: heading
@@ -30,7 +29,24 @@ content_area:
     content:
       -
         type: text
-        text: "Created from five years of interviews with twelve young people from across the UK, Our Generation is a captivating portrait of their teenage years as they journey into adulthood.\_Often too extraordinary to be fiction, this funny and moving play is for anyone who is – or has ever been – a teenager."
+        text: "Described as 'a place of truth-telling which is the basis of all good poetry', contributors explore what is good, bad and fascinating about being human - all told with refreshing honesty and good humour."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you would like to take part in this event, please contact Ian - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:ian@fosten.com'
+              rel: null
+              target: null
+              title: null
+        text: ian@fosten.com
   -
     type: heading
     attrs:
@@ -51,7 +67,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
+              href: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-2/'
               rel: null
               target: _blank
               title: null
@@ -130,7 +146,7 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: dcc7455d-2e4b-4030-bb89-56445406257c
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-our-generation/'
-cost_details: '£4 for adults, £2 for children'
+booking_link: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-2/'
+cost_details: £4
 ---
-An engrossing verbatim play which tells the stories of a generation.
+This is the Seagull's bi-monthly performance platform for local poets and songwriters.
