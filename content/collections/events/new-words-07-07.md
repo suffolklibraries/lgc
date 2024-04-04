@@ -1,13 +1,12 @@
 ---
 id: 50e42f1b-7e1d-417c-8427-bd2db2679450
-published: false
 blueprint: events
-title: 'New Words, Fresh Voices (Duplicated)'
+title: 'New Words, Fresh Voices'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712159507
-start_date: '2024-05-12 19:30'
-end_date: '2024-05-12 21:00'
+updated_at: 1712215627
+start_date: '2024-07-07 19:30'
+end_date: '2024-07-07 21:00'
 event_categories:
   - performance
 free: false
@@ -68,7 +67,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-2/'
+              href: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-3/'
               rel: null
               target: _blank
               title: null
@@ -147,7 +146,7 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: f62d55c7-3349-4a9d-a2fe-a098624f1d02
-booking_link: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-2/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-3/'
 cost_details: £4
 ---
 This is the Seagull's bi-monthly performance platform for local poets and songwriters.
