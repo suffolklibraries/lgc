@@ -1,13 +1,12 @@
 ---
 id: 553b77e7-8511-4a9c-ad97-80830a61858d
-published: false
 blueprint: events
-title: 'Lowestoft Movers (Duplicated)'
+title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712220508
-start_date: '2024-06-21 10:00'
-end_date: '2024-06-21 11:15'
+updated_at: 1712220542
+start_date: '2024-06-28 10:00'
+end_date: '2024-06-28 11:15'
 event_categories:
   - dance
   - later-life
