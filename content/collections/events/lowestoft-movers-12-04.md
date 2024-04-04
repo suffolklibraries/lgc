@@ -4,9 +4,9 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712216327
-start_date: '2024-04-11 10:00'
-end_date: '2025-04-11 11:15'
+updated_at: 1712216443
+start_date: '2024-04-12 10:00'
+end_date: '2024-04-12 11:15'
 event_categories:
   - dance
   - later-life
@@ -135,7 +135,7 @@ content_area:
               title: null
         text: 'Plan your journey using Suffolk Onboard.'
 cta: |-
-  This event is organised by Dance East. Please contact Alysha Hudson:
+  Please contact Alysha Hudson:
 
   [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
 
