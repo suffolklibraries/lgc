@@ -1,13 +1,12 @@
 ---
 id: 76ffed1d-a8be-4a2f-98b0-ff1642bf157c
-published: false
 blueprint: events
-title: 'Lowestoft Movers - Seagull Theatre (Duplicated)'
+title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
-updated_at: 1684830835
-start_date: '2023-05-26 10:00'
-end_date: '2023-05-26 11:30'
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1712216327
+start_date: '2024-04-11 10:00'
+end_date: '2025-04-11 11:15'
 event_categories:
   - dance
   - later-life
@@ -16,7 +15,7 @@ virtual: false
 organisers:
   - alysha-hudson-dance-yoga-movement
 town: Lowestoft
-featured_image: danceeastimages/DE_MOVERS_IMG-1.jpg
+featured_image: offthepressimages/new_resized_images/Dance.png
 attendance_information: 'Age 55+'
 content_area:
   -
@@ -32,61 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers is a gentle movement class for over 55s, held every Friday at 10am - 11:30am at The Seagull Theatre. '
+        text: 'A chance to meet people, move together and enjoy refreshments and a chat afterwards.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The session is led by an experienced dance artist, where you will explore a range of taught and improvisational exercises to get your body moving, have a chance to socialise, and most importantly have fun! Tea and biscuits are also included! '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Please don’t hesitate to get in touch with your questions or concerns. You can visit the website '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.alyshahudson.co.uk/'
-              rel: null
-              target: null
-              title: null
-        text: 'Alysha Hudson – Dance Yoga Movement'
-      -
-        type: text
-        text: ', call the organiser Alysha Hudson on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07984756499'
-              rel: null
-              target: _blank
-              title: null
-        text: '07984 756499'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:alysha1990@hotmail.com'
-              rel: null
-              target: _blank
-              title: null
-        text: alysha1990@hotmail.com
-      -
-        type: text
-        text: .
+        text: 'Classes will include an hour of movement with time to socialise at the end with tea, coffee and biscuits.'
   -
     type: heading
     attrs:
@@ -100,35 +51,32 @@ content_area:
     content:
       -
         type: text
-        text: 'To book you can call Alysha Hudson on '
+        text: 'For further information and to book your place please contact community dance artist Alysha Hudson by email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'Tel:07984 756499'
+              href: 'mailto:alysha1990@hotmail.co.uk'
               rel: null
-              target: _blank
+              target: null
+              title: null
+        text: alysha1990@hotmail.co.uk
+      -
+        type: text
+        text: ' or phone '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07984756499'
+              rel: null
+              target: null
               title: null
         text: '07984 756499'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'Mailto:alysha1990@hotmail.com'
-              rel: null
-              target: _blank
-              title: null
-        text: alysha1990@hotmail.com
-      -
-        type: text
-        text: .
   -
     type: heading
     attrs:
@@ -171,6 +119,21 @@ content_area:
       -
         type: text
         text: .
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Plan your journey using Suffolk Onboard.'
 cta: |-
   This event is organised by Dance East. Please contact Alysha Hudson:
 
@@ -179,10 +142,7 @@ cta: |-
   [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
 
   [07984 756499](tel:07984756499)
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information: '- Wheelchair access'
 cost_details: £4
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
@@ -190,5 +150,6 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: aea068d9-8be8-4a90-b7f5-6206abf0b396
+booking_link: 'https://theseagull.co.uk/2021/06/10/lowestoft-movers/'
 ---
-A weekly dance class for everyone over 55. Lowestoft Movers classes are designed to benefit you both mentally and physically.
+Weekly movement classes for over 55’s in Lowestoft
