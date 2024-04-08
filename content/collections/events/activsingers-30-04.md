@@ -1,7 +1,7 @@
 ---
 id: 012e2df4-ec9c-44aa-95ff-d886cca8fe31
 blueprint: events
-title: 'ActivSingers - Ipswich (Duplicated)'
+title: 'ActivSingers - Ipswich'
 event_categories:
   - music
 organisers:
@@ -155,7 +155,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712586275
+updated_at: 1712586457
 duplicated_from: 4083e9a6-f1a7-47d4-ba23-392002175bb7
 ---
 If you enjoy singing and would like to sing with other people, then why not come and join our community singing group?
