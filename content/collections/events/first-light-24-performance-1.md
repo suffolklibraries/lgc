@@ -2,13 +2,13 @@
 id: c3f03a34-b292-4461-895f-cd9ccb0a1aa8
 published: false
 blueprint: events
-title: 'First Light Festival - Performance (Duplicated)'
+title: 'First Light Festival - Visual Arts'
 latitude: '52.468592684269616'
 longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712588650
+updated_at: 1712588764
 free: true
 virtual: false
 organisers:
@@ -27,13 +27,13 @@ content_area:
     content:
       -
         type: text
-        text: 'We want to bring world class music and performance to Lowestoft. We have new work on the Sunlight Stage and you can see beautiful performances (and take part) in the Moon Dance tent. For comedy, spoken word, poetry and theatre, the First Word tent is the spot for you.'
+        text: 'Across the festival we’ve an incredible array of art and artists, including Laurence Edwards elemental sculpture Walking Men on South Beach, Easterly Artists Art at the Edge exhibition and our Weather Vane arts project in Kensington Gardens. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'If it’s totally unique experiences you’re after, be sure to gather at Dawn to see rare performances from Nic Pendlebury and Alex Groves, and Steve Pretty with his dawn shells, all set against the backdrop of the rising sun.'
+        text: "You’ll hear engrossing conversations about art and culture in Messums East Art Hub and there are hands on making and creating sessions in our Making Waves zone.\_ First Light artist Alex Costello returns for some surprising performance art – catch him over the weekend and at Dawn!"
   -
     type: paragraph
     content:
@@ -50,7 +50,18 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: ' performance programme'
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://firstlightlowestoft.com/visual-arts/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'performance programme'
       -
         type: text
         text: .
@@ -157,4 +168,4 @@ event_categories:
   - dance
 duplicated_from: 4bb565a0-b98e-4504-a877-03f90018c39b
 ---
-From spoken word to new music commissions, First Light performances stimulate and excite.
+A wealth of Visual Arts across the festival weekend.
