@@ -1,24 +1,23 @@
 ---
 id: 4083e9a6-f1a7-47d4-ba23-392002175bb7
-published: false
 blueprint: events
-title: 'ActivSingers - Woodbridge (Duplicated)'
+title: 'ActivSingers - Ipswich'
 event_categories:
   - music
 organisers:
   - activlives
 featured_image: offthepressimages/new_resized_images/Music_singing.png
-start_date: '2024-08-16 10:00'
-end_date: '2024-08-16 12:00'
+start_date: '2024-04-16 13:45'
+end_date: '2024-04-16 15:45'
 free: false
 cost_details: £5
 virtual: false
-latitude: '52.09159591266064'
-longitude: '1.3173713231342183'
-address_line_1: 'Woodbridge Quay Church'
-address_line_2: 'Quay Street'
-town: Woodbridge
-postcode: 'IP12 1BX'
+latitude: '52.05052614926912'
+longitude: '1.1523039277894043'
+address_line_1: 'St Mary at Stoke'
+address_line_2: 'Stoke Street'
+town: Ipswich
+postcode: 'IP2 8BX'
 content_area:
   -
     type: heading
@@ -95,32 +94,35 @@ content_area:
         text: 'click here to access up-to-date bus timetables'
       -
         type: text
-        text: '. Quay Church is a three minute walk from Woodbridge rail station. The nearest pay and display car parking is a two minute walk from Quay Church at the'
+        text: '. St Mary at Stoke Church is a nine minute walk from Ipswich rail station. The nearest pay and display car parking is a four minute walk from St Mary at Stoke Church at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_station/ip12/woodbridge/?arriving=202404081500&leaving=202404081700'
+              href: 'https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-burrell-road/'
               rel: null
               target: _blank
               title: null
-        text: ' rail station'
+        text: 'Burrell Road car park'
       -
         type: text
-        text: ' or a six minute walk away at '
+        text: ' or a five minute walk away at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/hamblin_road_1/ip12/woodbridge/?arriving=202404081500&leaving=202404081700'
+              href: 'https://www.ipswich.gov.uk/st-peters-dock-car-park'
               rel: null
               target: _blank
               title: null
-        text: 'Hamblin Road car park.'
+        text: "St Peter's Dock car par"
+      -
+        type: text
+        text: k.
   -
     type: paragraph
     content:
@@ -145,7 +147,7 @@ content_area:
     type: heading
     attrs:
       level: 2
-booking_link: 'https://activlives.org.uk/event/activsingers-woodbridge-quay-church-3-2/2024-08-16/'
+booking_link: 'https://activlives.org.uk/event/activsingers-ipswich-st-mary-at-stoke-church-hall/2024-04-16/'
 cta: |-
   This event is organised by ActivLives
 
@@ -153,7 +155,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712585458
+updated_at: 1712586122
 duplicated_from: f6738d10-3593-472b-9154-acca6ab0fc07
 ---
 If you enjoy singing and would like to sing with other people, then why not come and join our community singing group?
