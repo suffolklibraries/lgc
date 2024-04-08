@@ -8,7 +8,7 @@ longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712588650
+updated_at: 1712589005
 free: true
 virtual: false
 organisers:
@@ -39,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to find out more about'
+        text: 'Click here to find out more about the '
       -
         type: text
         marks:
@@ -50,7 +50,7 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: ' performance programme'
+        text: 'performance programme'
       -
         type: text
         text: .
