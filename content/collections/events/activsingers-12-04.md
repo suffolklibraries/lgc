@@ -32,7 +32,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Feel your spirits lift and find a new confidence in singing! Learn some new songs – Learn harmonies to songs you know Improve your breathing, your circulation AND have some fun! Take some time out to relax and make music with others!'
+        text: 'Feel your spirits lift and find a new confidence in singing! Learn some new songs – Learn harmonies to songs you know Improve your breathing, your circulation AND have some fun! '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Take some time out to relax and make music with others.'
   -
     type: heading
     attrs:
@@ -146,7 +152,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712584929
+updated_at: 1712584990
 duplicated_from: 47dc0df0-0f88-439b-9454-040c1980cbda
 ---
 If you enjoy singing and would like to sing with other people, then why not come and join our community singing group?
