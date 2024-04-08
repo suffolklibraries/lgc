@@ -1,14 +1,13 @@
 ---
 id: cf84ca70-9e67-4de9-ae0b-8061635865fc
-published: false
 blueprint: events
-title: 'Craft Camp (Duplicated)'
+title: 'Craft Camp'
 latitude: '52.20786470253335'
 longitude: '1.5756627682239028'
-start_date: '2024-08-16 10:00'
-end_date: '2024-08-16 13:00'
+start_date: '2024-08-23 10:00'
+end_date: '2024-08-23 13:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712574130
+updated_at: 1712574175
 free: true
 virtual: false
 organisers:
