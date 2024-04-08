@@ -2,13 +2,13 @@
 id: 2d9bc941-ce23-49ff-aeec-0bde1efcbfb6
 published: false
 blueprint: events
-title: 'First Light Festival - Active (Duplicated)'
+title: 'First Light Festival - Playbread'
 latitude: '52.468592684269616'
 longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712588973
+updated_at: 1712589277
 free: true
 virtual: false
 organisers:
@@ -24,61 +24,43 @@ content_area:
         text: 'What to expect'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Playbreak is our way of showcasing the fantastic talent to be found in our local music scene and as well as programming a range of Playbreak musicians across the weekend, one lucky act is given opportunity to play a headline set on our main Sunlight Stage.'
   -
     type: paragraph
     content:
+      -
+        type: text
+        text: 'First Light Festival’s 2024 Playbreak headliner is the Lowestoft legend, '
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Everyone Active'
+        text: 'Cam T'
+      -
+        type: text
+        text: ".\_ Cam is a well-known musician from the town and can often be seen busking in the High Street.\_ Alongside entertaining the community, Cam has been working hard, writing and releasing his own vibrant pop songs and playing sell-out shows with his band in venues such as The Waterfront in Norwich. Cam’s performance on the Festival’s main stage on Saturday afternoon is sure to warm the hearts of so many local people who have supported his journey this far and we’re really excited to see this special moment!"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There’ll be a range of gym challenges for you to try out and enjoy at your own pace, featuring exhilarating activities like battle ropes, dumbbells, medicine balls, and a high-intensity circuit. Meanwhile the kids will have a ball too, whether they enjoy the challenge of hook-a-duck, get lucky with the spin-a-wheel prizes, burn off some energy on the soft play area or chill out with some colouring in.'
+        text: 'Cam was selected by a panel of industry professionals from a total of 90 applications to Playbreak.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "There’ll also be fun competitions running throughout the day with spot prizes available to redeem at Waterlane Leisure Centre.\_"
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Access to Sport'
+        text: 'We are also delighted that our new partnership with Latitude Festival means that Cam has also been given the chance to play at this iconic local festival in July.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Shot Power Football Challenge – Do you have a powerful shot? Come and put it to the test with Access Sport. You will have three attempts to shoot at goal and record your most powerful shot. The most powerful shots at the end of the day will receive a giveaway prize through our main football provider Lowestoft Town FC.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Keepie Uppie Challenge – Do you have what it takes to juggle the ball on the sand? Come and put it to the test with Access Sport. You will have two attempts\_to keep the football up for as long as possible. The keepie uppie champions at the end of the day will receive\_a giveaway prize through our main football provider Lowestoft Town FC."
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Presented in partnership with Everyone Active! and Access to Sport'
+        text: 'Look out for other Playbreak acts who have been programmed across the First Light weekend, where they will be playing in Kensington Gardens and also in a special Playbreak Showcase at East Point Pavilion on Sunday afternoon.'
   -
     type: paragraph
   -
@@ -93,11 +75,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://firstlightlowestoft.com/active/'
+              href: 'https://firstlightlowestoft.com/playbreak-2024/'
               rel: null
               target: _blank
               title: null
-        text: 'active programme'
+        text: 'Playbreak programme'
       -
         type: text
         text: .
@@ -204,4 +186,4 @@ event_categories:
   - dance
 duplicated_from: c3db2116-f099-4ed5-a338-d82c90bda30d
 ---
-Our family friendly zone will feature a host of activities.
+Playbreak is our apply-to-play for bands and artists aged 25 and over either from, or with strong connections to Lowestoft.
