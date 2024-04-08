@@ -1,15 +1,14 @@
 ---
 id: b258e439-0c7a-41be-aa36-a38d23d3ecc1
-published: false
 blueprint: events
-title: 'ActivSingers - Ipswich (Duplicated)'
+title: 'ActivSingers - Ipswich'
 event_categories:
   - music
 organisers:
   - activlives
 featured_image: offthepressimages/new_resized_images/Music_singing.png
-start_date: '2024-05-14 13:45'
-end_date: '2024-05-14 15:45'
+start_date: '2024-06-26 13:45'
+end_date: '2024-06-26 15:45'
 free: false
 cost_details: £5
 virtual: false
@@ -148,7 +147,7 @@ content_area:
     type: heading
     attrs:
       level: 2
-booking_link: 'https://activlives.org.uk/event/activsingers-ipswich-st-mary-at-stoke-church-hall/2024-05-14/'
+booking_link: 'https://activlives.org.uk/event/activsingers-ipswich-st-mary-at-stoke-church-hall/2024-06-25/'
 cta: |-
   This event is organised by ActivLives
 
@@ -156,7 +155,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712586472
+updated_at: 1712586652
 duplicated_from: 662121cb-5105-4fed-9f98-ebc8ec48e020
 ---
 If you enjoy singing and would like to sing with other people, then why not come and join our community singing group?
