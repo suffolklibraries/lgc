@@ -7,7 +7,7 @@ longitude: '1.5756627682239028'
 start_date: '2024-05-31 10:00'
 end_date: '2024-05-31 13:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712573532
+updated_at: 1712573947
 free: true
 virtual: false
 organisers:
@@ -60,6 +60,9 @@ content_area:
     content:
       -
         type: text
+        text: 'The nearest bus stop is a minute walk away and an '
+      -
+        type: text
         marks:
           -
             type: link
@@ -68,10 +71,10 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Hourly bus services run from Saxmundham to Leiston, Monday to Saturday and you can find out more here.'
+        text: 'hourly bus services run from Saxmundham to Leiston, Monday to Saturday and you can find out more here.'
       -
         type: text
-        text: ' The nearest bus stop is a minute walk away.'
+        text: ' '
   -
     type: paragraph
     content:
