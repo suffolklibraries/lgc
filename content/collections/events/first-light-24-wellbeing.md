@@ -2,13 +2,13 @@
 id: 68a4ab04-cd2a-417f-ba61-9c7fea69c008
 published: false
 blueprint: events
-title: 'First Light Festival - Active (Duplicated)'
+title: 'First Light Festival - Wellbeing'
 latitude: '52.468592684269616'
 longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712588973
+updated_at: 1712589522
 free: true
 virtual: false
 organisers:
@@ -24,6 +24,10 @@ content_area:
         text: 'What to expect'
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Inhale – exhale and connect with nature and the earth, in our free Wellbeing by the Waves programme of yoga, breathing, drumming and holistic wellbeing practices.'
   -
     type: paragraph
     content:
@@ -32,21 +36,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Everyone Active'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There’ll be a range of gym challenges for you to try out and enjoy at your own pace, featuring exhilarating activities like battle ropes, dumbbells, medicine balls, and a high-intensity circuit. Meanwhile the kids will have a ball too, whether they enjoy the challenge of hook-a-duck, get lucky with the spin-a-wheel prizes, burn off some energy on the soft play area or chill out with some colouring in.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "There’ll also be fun competitions running throughout the day with spot prizes available to redeem at Waterlane Leisure Centre.\_"
-  -
-    type: paragraph
+        text: 'Saturday 22 June'
   -
     type: paragraph
     content:
@@ -55,21 +45,10 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Access to Sport'
-  -
-    type: paragraph
-    content:
+        text: '12:00-12:45'
       -
         type: text
-        text: 'Shot Power Football Challenge – Do you have a powerful shot? Come and put it to the test with Access Sport. You will have three attempts to shoot at goal and record your most powerful shot. The most powerful shots at the end of the day will receive a giveaway prize through our main football provider Lowestoft Town FC.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Keepie Uppie Challenge – Do you have what it takes to juggle the ball on the sand? Come and put it to the test with Access Sport. You will have two attempts\_to keep the football up for as long as possible. The keepie uppie champions at the end of the day will receive\_a giveaway prize through our main football provider Lowestoft Town FC."
-  -
-    type: paragraph
+        text: ' Self Love Flow with Leanne'
   -
     type: paragraph
     content:
@@ -78,7 +57,181 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Presented in partnership with Everyone Active! and Access to Sport'
+        text: '13:00-13:45'
+      -
+        type: text
+        text: ' Kundalini yoga with Georgie'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '14:00-14:45'
+      -
+        type: text
+        text: ' Happy Hips with Leanne'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '15:00-15:45'
+      -
+        type: text
+        text: ' Goddess Dance with Shelby'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '16:00-16:45'
+      -
+        type: text
+        text: ' Yoga with Amy'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '17:00-17:45'
+      -
+        type: text
+        text: "\_ Gentle Stretch with Tish"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '18:00-18:45'
+      -
+        type: text
+        text: ' Earthdance Spirit with Jen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '19:00-19:45'
+      -
+        type: text
+        text: ' Drumming with the Witches of the East'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Sunday 23 June'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '03:30-04:30'
+      -
+        type: text
+        text: ' Sunrise Yoga with Stella'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '10:00-10:45'
+      -
+        type: text
+        text: ' Flow like the Wind – Vinyasa Flow – Stella'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '11:00-11:45'
+      -
+        type: text
+        text: ' Yoga with Amy'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '12:00-12:45'
+      -
+        type: text
+        text: ' Kundalini Yoga with Georgie'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '13:00-13:45'
+      -
+        type: text
+        text: ' Hatha Yoga with Tish'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '14:00-14:45'
+      -
+        type: text
+        text: ' Earthdance Fire with Jen'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '15:00-15:45'
+      -
+        type: text
+        text: ' Closing meditation with Liam'
   -
     type: paragraph
   -
@@ -93,14 +246,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://firstlightlowestoft.com/active/'
+              href: 'https://firstlightlowestoft.com/wellbeing/'
               rel: null
               target: _blank
               title: null
-        text: 'active programme'
-      -
-        type: text
-        text: .
+        text: 'wellbeing programme.'
   -
     type: heading
     attrs:
@@ -204,4 +354,4 @@ event_categories:
   - dance
 duplicated_from: c3db2116-f099-4ed5-a338-d82c90bda30d
 ---
-Our family friendly zone will feature a host of activities.
+Wellbeing by the Waves...
