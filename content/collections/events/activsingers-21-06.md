@@ -1,8 +1,7 @@
 ---
 id: 806c48af-5783-4cfc-861c-e32cfbd7a89a
-published: false
 blueprint: events
-title: 'ActivSingers - Woodbridge (Duplicated) (2)'
+title: 'ActivSingers - Woodbridge'
 event_categories:
   - music
 organisers:
@@ -145,7 +144,7 @@ content_area:
     type: heading
     attrs:
       level: 2
-booking_link: 'https://activlives.org.uk/event/activsingers-woodbridge-quay-church-3-2/2024-05-10/'
+booking_link: 'https://activlives.org.uk/event/activsingers-woodbridge-quay-church-3-2/2024-06-21/'
 cta: |-
   This event is organised by ActivLives
 
@@ -153,7 +152,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712585164
+updated_at: 1712585321
 duplicated_from: 79919253-5180-47ed-9ca5-bba64eaa74be
 ---
 If you enjoy singing and would like to sing with other people, then why not come and join our community singing group?
