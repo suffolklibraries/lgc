@@ -1,7 +1,7 @@
 ---
 id: 4e50a89a-7f15-4fd6-934b-dd3325d2b77e
 blueprint: events
-title: ActivSingers
+title: 'ActivSingers - Woodbridge'
 event_categories:
   - music
 organisers:
@@ -152,7 +152,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712584990
+updated_at: 1712585022
 duplicated_from: 47dc0df0-0f88-439b-9454-040c1980cbda
 ---
 If you enjoy singing and would like to sing with other people, then why not come and join our community singing group?
