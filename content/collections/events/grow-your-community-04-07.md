@@ -1,15 +1,14 @@
 ---
 id: fdee19f0-3e8f-4a4b-ad90-a196feb7bb13
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Community (Duplicated)'
+title: 'ActivGardens - Grow Your Community'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: activlives/bvp-sudbury.jpg
-start_date: '2024-06-27 09:30'
-end_date: '2024-06-27 12:00'
+start_date: '2024-07-04 09:30'
+end_date: '2024-07-04 12:00'
 free: true
 virtual: false
 latitude: '52.03760036775878'
@@ -145,7 +144,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712672415
+updated_at: 1712672481
 duplicated_from: 5e0f0a7b-daf3-4c12-abe1-1cd939a0a300
 booking_link: 'https://activlives.org.uk/activgardens/events/'
 ---
