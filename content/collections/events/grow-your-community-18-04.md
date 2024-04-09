@@ -1,15 +1,14 @@
 ---
 id: 6b5f6bea-c48a-4d3c-993f-a2d95077a4bd
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Wellbeing (Duplicated)'
+title: 'ActivGardens - Grow Your Community'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: activlives/bvp-sudbury.jpg
-start_date: '2024-05-13 10:00'
-end_date: '2024-07-29 13:00'
+start_date: '2024-04-18 09:30'
+end_date: '2024-04-18 12:00'
 free: true
 virtual: false
 latitude: '52.03760036775878'
@@ -32,19 +31,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Grow Your Wellbeing is a 12-week course, starting on Monday 13th May.  '
+        text: 'In these relaxed, informal volunteering sessions you’ll be part of a friendly group of local people who enjoy working together and making the park bloom for the whole community. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'These fun, welcoming sessions are tailored towards personal goals such as developing practical skills, supporting your health and wellbeing, building your confidence, getting closer to nature, finding a sense of community and meeting new people. '
+        text: "Don’t worry if you’re not an expert gardener – Jane, our Project Co-ordinator, will help you find a suitable job, and you can learn alongside others too.\_ "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Small groups are led by Project Officer Phoebe.'
+        text: 'As part of the session, we always take a break to chat over a cuppa and biscuit.'
   -
     type: heading
     attrs:
@@ -145,8 +144,8 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712669791
+updated_at: 1712670626
 duplicated_from: a3b6dd84-fda9-4cad-b24a-96601ef4c95d
-booking_link: 'https://activlives.org.uk/activgardens/grow-your-community-sudbury/'
+booking_link: 'https://activlives.org.uk/event/belle-vue-park-sudbury/2024-04-18/'
 ---
 Are you stuck indoors too much? Would you like to be more active? Learn new skills? Build your confidence? If so, why not come along and join us in Sudbury’s Belle Vue Park, where you can get out into the fresh air and make new friends as part of a community project.
