@@ -1,5 +1,6 @@
 ---
 id: fc475bd6-01d0-4419-ad43-58a174f218c0
+published: false
 blueprint: events
 title: 'Art School'
 event_categories:
@@ -112,7 +113,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711384036
+updated_at: 1712669217
 featured_image: rockpaperscissorsimages/rps-art-school.jpg
 end_date: '2024-04-04 15:00'
 latitude: '52.0563490706618'
