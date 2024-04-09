@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In these relaxed, informal volunteering sessions you’ll be part of a friendly group of local people who enjoy working together and making the park bloom for the whole community. '
+        text: 'In these relaxed, informal volunteering sessions you’ll be part of a friendly group of local people who enjoy working together and making the park bloom for the whole community. We meet at Belle Vue Park every Thursday, 9:30am – 12.00noon.'
   -
     type: paragraph
     content:
@@ -144,7 +144,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712670737
+updated_at: 1712671817
 duplicated_from: 6b5f6bea-c48a-4d3c-993f-a2d95077a4bd
 booking_link: 'https://activlives.org.uk/event/belle-vue-park-sudbury/2024-04-11/'
 ---
