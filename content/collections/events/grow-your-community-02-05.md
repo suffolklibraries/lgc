@@ -1,6 +1,5 @@
 ---
 id: df7444d5-cf17-4a57-ab60-d0ed1f71a827
-published: false
 blueprint: events
 title: 'ActivGardens - Grow Your Community'
 event_categories:
@@ -145,7 +144,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712672010
+updated_at: 1712672068
 duplicated_from: ff1e2880-2371-4529-ae8c-1f0b28b1bfd8
 booking_link: 'https://activlives.org.uk/activgardens/events/'
 ---
