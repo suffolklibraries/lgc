@@ -1,5 +1,6 @@
 ---
 id: e72c1829-f332-4197-9026-5dfc24bced65
+published: false
 blueprint: events
 title: 'Garden in Mind Open Day'
 event_categories:
@@ -135,7 +136,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711374007
+updated_at: 1712669228
 duplicated_from: a3c66dc5-bb48-488c-b0d3-53a810291e43
 booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
 ---
