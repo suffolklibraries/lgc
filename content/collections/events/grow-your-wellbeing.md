@@ -1,7 +1,7 @@
 ---
 id: a3b6dd84-fda9-4cad-b24a-96601ef4c95d
 blueprint: events
-title: 'Grow Your Wellbeing'
+title: 'ActivGardens - Grow Your Wellbeing'
 event_categories:
   - nature
 organisers:
@@ -144,7 +144,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712669743
+updated_at: 1712669791
 duplicated_from: e72c1829-f332-4197-9026-5dfc24bced65
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-community-sudbury/'
 ---
