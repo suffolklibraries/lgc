@@ -1,15 +1,14 @@
 ---
 id: df7444d5-cf17-4a57-ab60-d0ed1f71a827
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Community (Duplicated)'
+title: 'ActivGardens - Grow Your Community'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: activlives/bvp-sudbury.jpg
-start_date: '2024-04-25 09:30'
-end_date: '2024-04-25 12:00'
+start_date: '2024-05-09 09:30'
+end_date: '2024-05-09 12:00'
 free: true
 virtual: false
 latitude: '52.03760036775878'
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In these relaxed, informal volunteering sessions you’ll be part of a friendly group of local people who enjoy working together and making the park bloom for the whole community. '
+        text: 'In these relaxed, informal volunteering sessions you’ll be part of a friendly group of local people who enjoy working together and making the park bloom for the whole community. We meet at Belle Vue Park every Thursday, 9:30am – 12.00noon.'
   -
     type: paragraph
     content:
@@ -145,7 +144,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712671557
+updated_at: 1712671918
 duplicated_from: ff1e2880-2371-4529-ae8c-1f0b28b1bfd8
 booking_link: 'https://activlives.org.uk/activgardens/events/'
 ---
