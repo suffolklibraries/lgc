@@ -1,10 +1,11 @@
 ---
 id: 597076b8-744b-4a99-8a93-761f5e0709c9
+published: false
 blueprint: events
 title: 'Seagull Sunday Sessions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712156411
+updated_at: 1712669226
 start_date: '2024-04-07 15:00'
 end_date: '2024-04-07 16:00'
 event_categories:
