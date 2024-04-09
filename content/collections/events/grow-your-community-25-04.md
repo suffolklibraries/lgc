@@ -31,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In these relaxed, informal volunteering sessions you’ll be part of a friendly group of local people who enjoy working together and making the park bloom for the whole community. '
+        text: 'In these relaxed, informal volunteering sessions you’ll be part of a friendly group of local people who enjoy working together and making the park bloom for the whole community. We meet at Belle Vue Park every Thursday, 9:30am – 12.00noon.'
   -
     type: paragraph
     content:
@@ -144,7 +144,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712671557
+updated_at: 1712671821
 duplicated_from: 6cf5c403-bdf8-4e3c-9331-1a5074b0c386
 booking_link: 'https://activlives.org.uk/activgardens/events/'
 ---
