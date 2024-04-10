@@ -11,7 +11,6 @@ event_categories:
   - drama
   - performance
   - teen-and-young-adult
-  - workshop
 organisers:
   - danceeast
 start_date: '2022-07-09 10:00'

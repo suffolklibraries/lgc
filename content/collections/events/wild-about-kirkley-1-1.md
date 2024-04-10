@@ -7,7 +7,6 @@ event_categories:
   - art
   - community
   - visual-arts
-  - workshop
 organisers:
   - suffolk-art-link
 featured_image: offthepressimages/new_resized_images/VisualArts.png

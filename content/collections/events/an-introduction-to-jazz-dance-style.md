@@ -6,7 +6,6 @@ title: 'An introduction to jazz dance style'
 event_categories:
   - activity
   - dance
-  - workshop
 organisers:
   - the-seagull-theatre
 featured_image: offthepressimages/new_resized_images/Dance.png

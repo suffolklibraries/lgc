@@ -7,7 +7,6 @@ event_categories:
   - community
   - festival
   - music
-  - workshop
 organisers:
   - global-rhythms
 start_date: '2022-07-02 13:00'

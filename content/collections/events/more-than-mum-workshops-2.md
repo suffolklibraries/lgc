@@ -3,8 +3,6 @@ id: c238c58c-da3c-4c0c-83d1-2a76716a986a
 published: false
 blueprint: events
 title: 'More Than Mum Workshops'
-event_categories:
-  - workshop
 organisers:
   - future-female-society
 featured_image: offthepressimages/otpillustrations/CRAFTS.png

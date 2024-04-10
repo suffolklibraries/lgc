@@ -10,7 +10,6 @@ event_categories:
   - dance
   - performance
   - teen-and-young-adult
-  - workshop
   - festival
   - music
 organisers:

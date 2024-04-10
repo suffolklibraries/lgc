@@ -5,7 +5,6 @@ blueprint: events
 title: 'Performance Workshops with Hocus Pocus Theatre - Performance'
 event_categories:
   - drama
-  - workshop
 organisers:
   - hocus-pocus-theatre
 start_date: '2022-07-17 09:00'
