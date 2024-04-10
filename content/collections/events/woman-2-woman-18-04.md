@@ -1,17 +1,15 @@
 ---
 id: 1ee78f42-66af-458e-9abf-037ea7585e5a
-published: false
 blueprint: events
-title: 'Woman 2 Woman (Duplicated)'
+title: 'Woman 2 Woman'
 event_categories:
-  - community
   - languages
   - activity
   - computing
 organisers:
   - future-female-society
-start_date: '2023-03-30 12:30'
-end_date: '2023-03-30 14:00'
+start_date: '2024-04-18 12:30'
+end_date: '2024-04-18 14:30'
 free: true
 virtual: false
 attendance_information: '- Migrant, refugee and asylum-seeking women'
@@ -35,13 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Woman 2 Woman is a radio project for migrant, refugee and asylum-seeking women, using radio to boost confidence and teach new skills.'
+        text: 'Woman 2 Woman Radio uses radio to build confidence and teach new skills to migrants, refugee, and asylum seeking women.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Over the course of the programme, the women build confidence and learn new skills in radio, and work towards creating their own radio shows on No Borders radio.'
+        text: 'If English is your second language and you want to learn a new skill, come on down!'
   -
     type: paragraph
     content:
@@ -54,9 +52,9 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.futurefemalesociety.org/contact'
+              href: 'https://www.futurefemalesociety.org/woman-2-woman'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'Future Female Society website'
       -
@@ -126,7 +124,7 @@ content_area:
             attrs:
               href: 'https://www.google.com/maps/place/South+Street+Car+Park/@52.0612384,1.143093,18.06z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d9a110e1d478a5:0x43897233bab1bdf4!2sThe+Hive+Ipswich+CIC,+Norwich+Road,+Ipswich!2m2!1d1.144487!2d52.0610108!1m6!1m2!1s0x47d9a1cc7b806739:0x689ee9824284fede!2sGranville+Street,+Ipswich+IP1+2NL!2m2!1d1.1441074!2d52.0613377!3e3!3m4!1s0x0:0x30a88646622494df!8m2!3d52.061446!4d1.1448369'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'South Street Car Park'
       -
@@ -140,14 +138,34 @@ content_area:
             attrs:
               href: 'https://www.google.com/maps/place/Granville+Street/@52.0612707,1.1435665,18.69z/data=!4m5!3m4!1s0x47d9a1cc7b806739:0x689ee9824284fede!8m2!3d52.0613377!4d1.1441074'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'bus stop on Granville Street'
       -
         type: text
         text: ', which is one minute away from The Hive.'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680705133
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Plan your journey using '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard'
+      -
+        type: text
+        text: .
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1712746267
 cta: |-
   This event is run by the Future Female Society:
 
@@ -155,5 +173,6 @@ cta: |-
 
   [01473852552](tel:01473852552)
 duplicated_from: d713ab58-fea9-4169-9719-3329478cc58e
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 ---
-Woman 2 woman Radio is a great project, supporting personal development of migrant, refugee and asylum seeking women.
+Build confidence, learn the ins and outs of radio, create your own show, connect with other women, grow your skills.
