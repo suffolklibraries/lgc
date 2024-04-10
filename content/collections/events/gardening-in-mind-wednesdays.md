@@ -1,15 +1,14 @@
 ---
 id: 409f3b1b-7eb2-43a6-8e54-59cf8f8f018d
-published: false
 blueprint: events
-title: 'ActivGardens - Gardening in Mind (Duplicated)'
+title: 'ActivGardens - Gardening in Mind'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2024-07-15 10:00'
-end_date: '2024-07-15 14:00'
+start_date: '2024-05-01 10:00'
+end_date: '2024-07-17 14:00'
 free: true
 virtual: false
 latitude: '52.03845056427872'
@@ -33,6 +32,26 @@ content_area:
       -
         type: text
         text: 'In this free 12-week course, you will take part in gardening, growing, and environmental activities, with the option to get involved in bee-keeping too. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The course runs on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/gardening-in-mind-mondays'
+              rel: null
+              target: _blank
+              title: null
+        text: Mondays
+      -
+        type: text
+        text: ' or Wednesdays.'
   -
     type: heading
     attrs:
@@ -142,7 +161,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712741981
+updated_at: 1712742486
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
 attendance_information: '- 16 + years'
