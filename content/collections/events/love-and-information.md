@@ -7,7 +7,6 @@ event_categories:
   - community
   - drama
   - performance
-  - theatre
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Theatre.png

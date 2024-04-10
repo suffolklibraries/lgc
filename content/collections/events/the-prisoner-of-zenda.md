@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Prisoner of Zenda'
 event_categories:
   - drama
-  - theatre
 organisers:
   - quill-inkling-theatre-company
 start_date: '2022-07-17 15:00'

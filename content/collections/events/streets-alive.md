@@ -6,7 +6,6 @@ title: 'Streets Alive!'
 event_categories:
   - history
   - performance
-  - theatre
 organisers:
   - eastern-angles
 start_date: '2022-07-09 11:00'
