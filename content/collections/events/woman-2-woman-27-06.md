@@ -1,16 +1,15 @@
 ---
 id: ca74de17-57f1-41e7-b9b7-95d3999b1b94
-published: false
 blueprint: events
-title: 'Woman 2 Woman (Duplicated)'
+title: 'Woman 2 Woman'
 event_categories:
   - languages
   - activity
   - computing
 organisers:
   - future-female-society
-start_date: '2024-06-20 12:30'
-end_date: '2024-06-20 14:30'
+start_date: '2024-06-27 12:30'
+end_date: '2024-06-27 14:30'
 free: true
 virtual: false
 attendance_information: '- Migrant, refugee and asylum-seeking women'
@@ -166,7 +165,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712747000
+updated_at: 1712747037
 cta: |-
   This event is run by the Future Female Society:
 
