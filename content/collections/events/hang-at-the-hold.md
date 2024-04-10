@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Hang at the Hold'
 event_categories:
-  - haf
   - dance
   - art
   - activity

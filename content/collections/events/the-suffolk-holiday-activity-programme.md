@@ -7,7 +7,6 @@ event_categories:
   - activity
   - museums
   - sports
-  - haf
   - food
 organisers:
   - the-national-horse-racing-museum

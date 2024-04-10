@@ -5,7 +5,6 @@ blueprint: events
 title: Switch
 event_categories:
   - activity
-  - haf
 organisers:
   - access-community-trust
 start_date: '2022-07-26 10:00'

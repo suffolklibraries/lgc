@@ -5,7 +5,6 @@ blueprint: events
 title: 'Thyme on your Hands'
 event_categories:
   - activity
-  - haf
   - nature
   - art
 organisers:

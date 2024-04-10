@@ -5,7 +5,6 @@ blueprint: events
 title: 'Story writing sessions at the Seagull Theatre'
 event_categories:
   - activity
-  - haf
   - literature
 organisers:
   - the-seagull-theatre

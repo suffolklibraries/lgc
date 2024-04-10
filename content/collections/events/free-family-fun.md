@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Free Family Fun'
 event_categories:
-  - haf
   - museums
   - activity
 organisers:

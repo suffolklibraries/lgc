@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Musical Masterpieces'
 event_categories:
-  - haf
   - music
   - activity
 organisers:

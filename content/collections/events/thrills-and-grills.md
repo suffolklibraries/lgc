@@ -6,7 +6,6 @@ title: 'Thrills and Grills'
 event_categories:
   - activity
   - food
-  - haf
   - languages
   - museums
 organisers:
