@@ -5,7 +5,6 @@ blueprint: events
 title: 'Get Suffolk Reading - Story Trail, Kessingland'
 event_categories:
   - community
-  - get-suffolk-reading
 featured_image: offthepressimages/new_resized_images/Literature.png
 start_date: '2022-07-23 10:30'
 end_date: '2022-07-23 12:30'

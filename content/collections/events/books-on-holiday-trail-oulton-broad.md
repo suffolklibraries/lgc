@@ -5,7 +5,6 @@ blueprint: events
 title: 'Books on Holiday Trail - Oulton Broad'
 event_categories:
   - activity
-  - get-suffolk-reading
   - primary-school-age
   - literature
 organisers:

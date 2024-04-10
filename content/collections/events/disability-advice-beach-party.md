@@ -6,7 +6,6 @@ title: 'Disability Advice Beach party'
 event_categories:
   - activity
   - community
-  - get-suffolk-reading
   - languages
 organisers:
   - disability-advice

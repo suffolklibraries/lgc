@@ -6,7 +6,6 @@ title: 'Feeding Families in School Holidays - Lowestoft'
 event_categories:
   - community
   - food
-  - get-suffolk-reading
 organisers:
   - fish-lowestoft
 start_date: '2022-07-25 08:00'

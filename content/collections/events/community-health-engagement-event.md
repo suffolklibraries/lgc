@@ -5,7 +5,6 @@ blueprint: events
 title: 'Community Health Engagement Event'
 event_categories:
   - activity
-  - get-suffolk-reading
   - community
   - languages
 organisers:

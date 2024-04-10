@@ -5,7 +5,6 @@ blueprint: events
 title: 'Fairy and gnome door painting'
 event_categories:
   - activity
-  - get-suffolk-reading
   - primary-school-age
   - art
 organisers:

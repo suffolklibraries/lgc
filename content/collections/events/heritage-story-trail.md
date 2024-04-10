@@ -5,7 +5,6 @@ blueprint: events
 title: 'Heritage Story Trail'
 event_categories:
   - community
-  - get-suffolk-reading
   - literature
 featured_image: offthepressimages/new_resized_images/Literature.png
 start_date: '2022-09-17 10:00'

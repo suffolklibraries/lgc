@@ -7,7 +7,6 @@ event_categories:
   - history
   - performance
   - theatre
-  - get-suffolk-reading
 organisers:
   - eastern-angles
 start_date: '2022-07-09 11:00'

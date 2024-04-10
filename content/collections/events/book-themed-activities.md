@@ -5,7 +5,6 @@ blueprint: events
 title: 'Book Themed Activities'
 event_categories:
   - activity
-  - get-suffolk-reading
   - literature
 organisers:
   - waterstones-lowestoft

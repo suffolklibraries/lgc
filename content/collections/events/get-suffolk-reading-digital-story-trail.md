@@ -5,7 +5,6 @@ blueprint: events
 title: 'Get Suffolk Reading - Digital Story Trail'
 event_categories:
   - community
-  - get-suffolk-reading
   - literature
 start_date: '2022-09-13 09:00'
 end_date: '2022-10-13 09:00'
