@@ -1,16 +1,15 @@
 ---
 id: 804b46a6-b5ea-42ba-b39a-0460e7d42340
-published: false
 blueprint: events
-title: 'Woman 2 Woman Radio (Duplicated) (2)'
+title: 'Woman 2 Woman Radio'
 event_categories:
   - languages
   - activity
   - computing
 organisers:
   - future-female-society
-start_date: '2024-08-01 12:30'
-end_date: '2024-08-01 14:30'
+start_date: '2024-08-15 12:30'
+end_date: '2024-08-15 14:30'
 free: true
 virtual: false
 attendance_information: '- Migrant, refugee and asylum-seeking women'
@@ -166,7 +165,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712747442
+updated_at: 1712747531
 cta: |-
   This event is run by the Future Female Society:
 
