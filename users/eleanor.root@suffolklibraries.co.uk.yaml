@@ -14,3 +14,8 @@ preferences:
   assets:
     assets:
       per_page: 500
+  taxonomies:
+    event_categories:
+      columns:
+        - title
+        - slug
