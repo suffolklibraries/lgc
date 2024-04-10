@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival - Opening Parade: Winds of Change'
 event_categories:
   - festival
-  - first-light
 organisers:
   - first-light-festival
 start_date: '2022-06-18 11:00'

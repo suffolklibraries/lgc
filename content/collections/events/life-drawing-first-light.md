@@ -8,7 +8,6 @@ event_categories:
   - festival
   - visual-arts
   - workshop
-  - first-light
 organisers:
   - first-light-festival
 start_date: '2022-06-18 12:00'

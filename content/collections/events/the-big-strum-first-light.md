@@ -7,7 +7,6 @@ event_categories:
   - festival
   - art
   - music
-  - first-light
 organisers:
   - first-light-festival
 start_date: '2022-06-18 12:00'

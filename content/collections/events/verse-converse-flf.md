@@ -6,7 +6,6 @@ title: 'Verse Converse'
 event_categories:
   - festival
   - music
-  - first-light
 organisers:
   - first-light-festival
 featured_image: offthepressimages/new_resized_images/Music_Drum.png

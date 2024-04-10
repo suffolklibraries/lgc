@@ -14,7 +14,6 @@ event_categories:
   - early-years
   - dance
   - performance
-  - first-light
 free: true
 virtual: false
 organisers:

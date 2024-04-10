@@ -6,7 +6,6 @@ title: 'First Light Festival - Baby Bounce on the Beach'
 event_categories:
   - festival
   - early-years
-  - first-light
 organisers:
   - first-light-festival
 start_date: '2022-06-18 12:00'

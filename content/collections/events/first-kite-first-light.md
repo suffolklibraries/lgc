@@ -6,7 +6,6 @@ title: 'First Light Festival - First Kite'
 event_categories:
   - festival
   - art
-  - first-light
 organisers:
   - first-light-festival
 start_date: '2022-06-19 08:30'
