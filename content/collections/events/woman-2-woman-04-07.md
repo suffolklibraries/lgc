@@ -1,7 +1,7 @@
 ---
 id: 2d0f73cc-0f90-4222-8a47-2a5b6838ef6d
 blueprint: events
-title: 'Woman 2 Woman'
+title: 'Woman 2 Woman Radio'
 event_categories:
   - languages
   - activity
@@ -165,7 +165,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712747080
+updated_at: 1712747292
 cta: |-
   This event is run by the Future Female Society:
 
