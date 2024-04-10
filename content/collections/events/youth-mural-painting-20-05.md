@@ -6,7 +6,6 @@ title: 'Mural Paintings on Ipswich Waterfront'
 event_categories:
   - art
   - teen-and-young-adult
-  - primary-school-age
   - visual-arts
   - hullabaloo22
 organisers:

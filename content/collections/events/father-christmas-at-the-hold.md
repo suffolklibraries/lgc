@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Father Christmas at The Hold'
 event_categories:
-  - primary-school-age
   - activity
 organisers:
   - the-hold

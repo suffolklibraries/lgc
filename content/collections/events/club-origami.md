@@ -13,7 +13,6 @@ end_date: '2022-02-19 13:30'
 event_categories:
   - early-years
   - dance
-  - primary-school-age
   - performance
 free: false
 virtual: false

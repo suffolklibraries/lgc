@@ -6,7 +6,6 @@ title: 'Newmarket Objects And Stories: Drop In Story Collection'
 event_categories:
   - teen-and-young-adult
   - later-life
-  - primary-school-age
   - art
 organisers:
   - cpp-marketplace

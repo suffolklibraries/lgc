@@ -7,7 +7,6 @@ event_categories:
   - art
   - literature
   - museums
-  - primary-school-age
 organisers:
   - suffolk-archives
 start_date: '2022-08-17 10:30'

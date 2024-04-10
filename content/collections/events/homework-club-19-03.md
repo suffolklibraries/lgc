@@ -5,7 +5,6 @@ blueprint: events
 title: 'Homework Club'
 event_categories:
   - languages
-  - primary-school-age
   - teen-and-young-adult
 organisers:
   - eastern-angles

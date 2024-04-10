@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Eco-Action Club'
 event_categories:
-  - primary-school-age
   - activity
   - nature
   - languages

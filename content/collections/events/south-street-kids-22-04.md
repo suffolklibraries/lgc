@@ -6,7 +6,6 @@ title: 'South Street Kids'
 event_categories:
   - music
   - activity
-  - primary-school-age
 organisers:
   - out-loud-music
 featured_image: offthepressimages/new_resized_images/Music_singing.png

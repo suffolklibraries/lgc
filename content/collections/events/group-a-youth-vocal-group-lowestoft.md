@@ -6,7 +6,6 @@ title: 'Group A - Youth Vocal Group in Lowestoft'
 event_categories:
   - languages
   - music
-  - primary-school-age
   - teen-and-young-adult
   - activity
   - performance

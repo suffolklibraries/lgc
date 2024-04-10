@@ -5,7 +5,6 @@ blueprint: events
 title: 'Little Red in Local Libraries'
 event_categories:
   - literature
-  - primary-school-age
   - early-years
 organisers:
   - eastern-angles

@@ -6,7 +6,6 @@ title: 'Free Creative Workshops'
 event_categories:
   - art
   - exhibition
-  - primary-school-age
   - activity
 organisers:
   - suffolk-libraries

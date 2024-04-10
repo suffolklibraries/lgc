@@ -157,7 +157,6 @@ updated_at: 1660645428
 event_categories:
   - art
   - literature
-  - primary-school-age
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png

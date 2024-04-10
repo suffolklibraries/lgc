@@ -6,7 +6,6 @@ title: 'Little Red Ipswich Town Trail'
 event_categories:
   - literature
   - activity
-  - primary-school-age
   - art
 organisers:
   - eastern-angles

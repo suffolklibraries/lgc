@@ -6,7 +6,6 @@ title: 'Dance Workshop for Older and Younger Dancers'
 event_categories:
   - later-life
   - dance
-  - primary-school-age
   - activity
   - teen-and-young-adult
 organisers:

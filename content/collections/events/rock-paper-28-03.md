@@ -6,7 +6,6 @@ title: 'Rock Paper Grow'
 event_categories:
   - art
   - crafts
-  - primary-school-age
 organisers:
   - rock-paper-scissors
 start_date: '2024-03-28 10:30'

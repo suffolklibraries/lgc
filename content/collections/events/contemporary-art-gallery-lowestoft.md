@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Contemporary Art Gallery'
 event_categories:
-  - primary-school-age
   - teen-and-young-adult
   - exhibition
   - later-life

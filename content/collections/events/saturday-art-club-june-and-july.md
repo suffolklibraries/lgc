@@ -5,7 +5,6 @@ blueprint: events
 title: 'Saturday Art Club'
 event_categories:
   - art
-  - primary-school-age
 organisers:
   - rock-paper-scissors
 start_date: '2023-06-10 10:00'

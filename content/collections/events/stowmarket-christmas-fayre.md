@@ -6,7 +6,6 @@ title: 'Stowmarket Christmas Fayre'
 event_categories:
   - community
   - food
-  - primary-school-age
   - performance
   - art
   - activity

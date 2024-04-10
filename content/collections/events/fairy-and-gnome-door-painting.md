@@ -5,7 +5,6 @@ blueprint: events
 title: 'Fairy and gnome door painting'
 event_categories:
   - activity
-  - primary-school-age
   - art
 organisers:
   - friends-of-fen-park

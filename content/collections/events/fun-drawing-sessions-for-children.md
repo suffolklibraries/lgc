@@ -5,7 +5,6 @@ blueprint: events
 title: 'Fun drawing sessions for children'
 event_categories:
   - art
-  - primary-school-age
 organisers:
   - the-art-station
 start_date: '2022-05-18 15:30'

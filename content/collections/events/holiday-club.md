@@ -6,7 +6,6 @@ title: 'Holiday Club'
 event_categories:
   - activity
   - community
-  - primary-school-age
   - performance
 organisers:
   - eastern-angles

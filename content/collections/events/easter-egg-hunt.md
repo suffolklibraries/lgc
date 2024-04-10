@@ -5,7 +5,6 @@ blueprint: events
 title: 'Easter Egg Hunt'
 event_categories:
   - activity
-  - primary-school-age
 organisers:
   - woodbridge-tide-mill
 start_date: '2023-04-08 10:30'

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Family Friendly Tour & Craft Workshop'
 event_categories:
   - crafts
-  - primary-school-age
   - teen-and-young-adult
 organisers:
   - the-hold

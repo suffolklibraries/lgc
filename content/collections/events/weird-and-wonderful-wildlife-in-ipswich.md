@@ -7,7 +7,6 @@ event_categories:
   - community
   - nature
   - dance
-  - primary-school-age
   - teen-and-young-adult
 organisers:
   - suffolk-wildlife-trust

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Coming soon: Get Suffolk Reading Reward Card Scheme'
 event_categories:
   - teen-and-young-adult
-  - primary-school-age
   - literature
   - early-years
 organisers:

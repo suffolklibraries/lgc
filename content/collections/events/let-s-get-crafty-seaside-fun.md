@@ -5,7 +5,6 @@ blueprint: events
 title: "Let's Get Crafty: Seaside Fun"
 event_categories:
   - art
-  - primary-school-age
 organisers:
   - suffolk-archives
 start_date: '2022-08-26 10:30'

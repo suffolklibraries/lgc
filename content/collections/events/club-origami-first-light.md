@@ -13,7 +13,6 @@ end_date: '2022-06-19 12:00'
 event_categories:
   - early-years
   - dance
-  - primary-school-age
   - performance
   - first-light
 free: true

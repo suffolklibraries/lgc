@@ -5,7 +5,6 @@ blueprint: events
 title: 'Creative Storytelling Programme'
 event_categories:
   - drama
-  - primary-school-age
   - performance
   - activity
 organisers:

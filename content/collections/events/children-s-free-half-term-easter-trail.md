@@ -6,7 +6,6 @@ title: "Children's FREE Half Term Easter Trail"
 event_categories:
   - food
   - dance
-  - primary-school-age
   - activity
 organisers:
   - the-cock-horse-inn

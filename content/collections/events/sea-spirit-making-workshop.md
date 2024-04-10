@@ -7,7 +7,6 @@ event_categories:
   - art
   - festival
   - activity
-  - primary-school-age
   - teen-and-young-adult
 organisers:
   - first-light-festival

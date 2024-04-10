@@ -6,7 +6,6 @@ title: 'Warm Wednesdays - After School Storytime'
 event_categories:
   - art
   - food
-  - primary-school-age
   - parent-and-baby
   - activity
 organisers:

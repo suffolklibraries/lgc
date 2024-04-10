@@ -6,7 +6,6 @@ title: 'Wildlife Discovery Day'
 event_categories:
   - languages
   - nature
-  - primary-school-age
 start_date: '2022-08-10 10:00'
 end_date: '2022-08-10 15:00'
 free: true

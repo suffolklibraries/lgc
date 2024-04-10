@@ -5,7 +5,6 @@ blueprint: events
 title: 'Summer Bug Trail'
 event_categories:
   - nature
-  - primary-school-age
 organisers:
   - britten-pears-arts
 start_date: '2022-08-01 10:00'

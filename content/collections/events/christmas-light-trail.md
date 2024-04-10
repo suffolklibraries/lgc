@@ -7,7 +7,6 @@ event_categories:
   - exhibition
   - nature
   - teen-and-young-adult
-  - primary-school-age
   - later-life
 organisers:
   - national-horse-racing-museum

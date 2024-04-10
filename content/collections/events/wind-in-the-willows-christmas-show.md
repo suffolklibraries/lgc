@@ -6,7 +6,6 @@ title: 'The Wind in the Willows Christmas Show'
 event_categories:
   - community
   - literature
-  - primary-school-age
   - teen-and-young-adult
   - performance
 organisers:

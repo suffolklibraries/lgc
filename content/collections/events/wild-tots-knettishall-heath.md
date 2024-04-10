@@ -7,7 +7,6 @@ event_categories:
   - early-years
   - languages
   - nature
-  - primary-school-age
 organisers:
   - suffolk-wildlife-trust
 start_date: '2023-05-30 10:30'

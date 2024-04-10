@@ -5,7 +5,6 @@ blueprint: events
 title: 'Winter Warriors: An Event with Kevin Crossley-Holland'
 event_categories:
   - literature
-  - primary-school-age
 organisers:
   - ipswich-childrens-book-group
 start_date: '2022-12-03 13:00'

@@ -11,7 +11,6 @@ updated_at: 1644917486
 event_categories:
   - film
   - teen-and-young-adult
-  - primary-school-age
 organisers:
   - the-offshoot-foundation
 featured_image: offthepressimages/Film.png

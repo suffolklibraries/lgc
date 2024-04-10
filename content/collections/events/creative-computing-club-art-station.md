@@ -5,7 +5,6 @@ blueprint: events
 title: 'Coding and Technology Skills with Creative Computing Club'
 event_categories:
   - teen-and-young-adult
-  - primary-school-age
   - computing
 organisers:
   - the-art-station

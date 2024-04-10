@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Den Building in Bury St Edmunds'
 event_categories:
-  - primary-school-age
   - nature
 start_date: '2022-04-20 11:00'
 free: false

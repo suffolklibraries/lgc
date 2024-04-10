@@ -7,7 +7,6 @@ event_categories:
   - languages
   - museums
   - art
-  - primary-school-age
 organisers:
   - ipswich-museums
 start_date: '2023-06-06 10:15'

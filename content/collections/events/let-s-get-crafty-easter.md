@@ -6,7 +6,6 @@ title: "Let's Get Crafty: Easter"
 event_categories:
   - activity
   - art
-  - primary-school-age
 organisers:
   - suffolk-archives
 start_date: '2023-04-05 10:30'
