@@ -7,7 +7,7 @@ event_categories:
 organisers:
   - activgardens
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2024-07-15 10:00'
+start_date: '2024-04-29 10:00'
 end_date: '2024-07-15 14:00'
 free: true
 virtual: false
@@ -32,6 +32,12 @@ content_area:
       -
         type: text
         text: 'In this free 12-week course, you will take part in gardening, growing, and environmental activities, with the option to get involved in bee-keeping too. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The course runs on Mondays or Wednesdays.'
   -
     type: heading
     attrs:
@@ -141,7 +147,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712741981
+updated_at: 1712742164
 duplicated_from: a3b6dd84-fda9-4cad-b24a-96601ef4c95d
 booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
 attendance_information: '- 16 + years'
