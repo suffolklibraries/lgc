@@ -37,7 +37,21 @@ content_area:
     content:
       -
         type: text
-        text: 'The course runs on Mondays or Wednesdays.'
+        text: 'The course runs on Mondays or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/gardening-in-mind-wednesdays'
+              rel: null
+              target: _blank
+              title: null
+        text: Wednesdays
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -147,7 +161,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712742164
+updated_at: 1712742545
 duplicated_from: a3b6dd84-fda9-4cad-b24a-96601ef4c95d
 booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
 attendance_information: '- 16 + years'
