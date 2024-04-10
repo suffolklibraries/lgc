@@ -2,7 +2,7 @@
 id: d713ab58-fea9-4169-9719-3329478cc58e
 published: false
 blueprint: events
-title: 'Woman 2 Woman'
+title: 'Woman 2 Woman  Radio'
 event_categories:
   - community
   - languages
@@ -146,8 +146,8 @@ content_area:
       -
         type: text
         text: ', which is one minute away from The Hive.'
-updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
-updated_at: 1680705133
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1712747249
 cta: |-
   This event is run by the Future Female Society:
 
