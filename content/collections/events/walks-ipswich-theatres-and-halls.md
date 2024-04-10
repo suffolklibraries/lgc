@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Ipswich Theatres and Halls'
 event_categories:
-  - guided-tour
   - history
 organisers:
   - ipswich-tourist-guide-association

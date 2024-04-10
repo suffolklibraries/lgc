@@ -7,7 +7,6 @@ event_categories:
   - crafts
   - primary-school-age
   - teen-and-young-adult
-  - guided-tour
 organisers:
   - the-hold
   - suffolk-archives

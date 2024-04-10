@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Suffolk Walking Festival: Breathe in the Brecks'
 event_categories:
-  - guided-tour
   - nature
   - dance
 organisers:

@@ -3,8 +3,6 @@ id: abdda72a-c5f0-4bfc-83a0-e65502bc7067
 published: false
 blueprint: events
 title: 'The Headless Horseman Ghost Tours'
-event_categories:
-  - guided-tour
 start_date: '2022-03-12 19:30'
 end_date: '2022-03-12 21:00'
 free: true

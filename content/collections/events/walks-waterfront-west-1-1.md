@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Waterfront West'
 event_categories:
-  - guided-tour
   - movement
 organisers:
   - the-hold

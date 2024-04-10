@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Suffolk Archives - Behind the Scenes Tour at The Hold'
 event_categories:
-  - guided-tour
   - history
 organisers:
   - the-hold

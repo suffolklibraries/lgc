@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Weaving the streets of Sudbury: from wool to silk'
 event_categories:
-  - guided-tour
   - dance
 organisers:
   - sudbury-town-council

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: To Holywells Park'
 event_categories:
-  - guided-tour
   - history
 organisers:
   - ipswich-tourist-guide-association

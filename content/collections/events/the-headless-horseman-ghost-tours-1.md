@@ -3,8 +3,6 @@ id: a3a84c29-1334-48a5-9b21-14a03cf498ac
 published: false
 blueprint: events
 title: 'The Headless Horseman Ghost Tours (placeholder for October dates)'
-event_categories:
-  - guided-tour
 start_date: '2022-03-12 19:30'
 end_date: '2022-03-12 21:00'
 free: true

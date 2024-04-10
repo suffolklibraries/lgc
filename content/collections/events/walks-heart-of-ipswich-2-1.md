@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Ipswich UK to Ipswich USA'
 event_categories:
-  - guided-tour
   - history
   - languages
 organisers:

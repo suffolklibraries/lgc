@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Name Dropping'
 event_categories:
-  - guided-tour
   - history
   - languages
 organisers:

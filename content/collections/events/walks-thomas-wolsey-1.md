@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Did Thomas Wolsey Drink Here?'
 event_categories:
-  - guided-tour
   - history
   - languages
 organisers:
