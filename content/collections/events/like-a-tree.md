@@ -6,7 +6,6 @@ title: 'Like a Tree'
 event_categories:
   - festival
   - literature
-  - family-friendly
 organisers:
   - first-light-festival
 start_date: '2023-06-18 11:00'

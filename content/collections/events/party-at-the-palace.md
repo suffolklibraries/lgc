@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Party at the Palace'
 event_categories:
-  - family-friendly
   - history
   - museums
 organisers:

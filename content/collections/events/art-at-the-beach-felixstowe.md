@@ -6,7 +6,6 @@ title: 'Art at the beach: Felixstowe'
 event_categories:
   - community
   - exhibition
-  - family-friendly
 start_date: '2023-06-03 10:00'
 end_date: '2023-06-03 16:00'
 free: true

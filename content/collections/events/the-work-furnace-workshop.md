@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Work Furnace: Workshop'
 event_categories:
   - art
-  - family-friendly
   - history
 organisers:
   - eastern-angles

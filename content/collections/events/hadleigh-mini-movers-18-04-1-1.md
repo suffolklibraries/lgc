@@ -12,7 +12,6 @@ start_date: '2023-05-09 09:15'
 event_categories:
   - dance
   - early-years
-  - family-friendly
 free: true
 virtual: false
 organisers:

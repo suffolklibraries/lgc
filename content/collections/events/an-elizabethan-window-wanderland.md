@@ -5,7 +5,6 @@ blueprint: events
 title: 'An Elizabethan Window Wanderland'
 event_categories:
   - art
-  - family-friendly
   - museums
   - activity
 organisers:

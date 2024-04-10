@@ -11,7 +11,6 @@ start_date: '2024-04-27 11:00'
 event_categories:
   - dance
   - activity
-  - family-friendly
 free: true
 virtual: false
 organisers:

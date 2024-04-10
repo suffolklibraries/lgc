@@ -12,7 +12,6 @@ start_date: '2021-12-08 13:00'
 end_date: '2021-12-08 13:00'
 event_categories:
   - dance
-  - family-friendly
 free: false
 virtual: false
 organisers:

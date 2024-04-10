@@ -5,7 +5,6 @@ blueprint: events
 title: 'West Stow - A Celebration'
 event_categories:
   - history
-  - family-friendly
   - museums
 organisers:
   - west-stow-anglo-saxon-village

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Trimley Marshes Open Day'
 event_categories:
-  - family-friendly
   - languages
   - nature
 organisers:

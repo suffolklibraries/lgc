@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Putting on a Progress 1578:  An Immersive VR Experience'
 event_categories:
-  - family-friendly
   - museums
   - activity
   - teen-and-young-adult

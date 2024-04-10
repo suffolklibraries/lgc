@@ -5,7 +5,6 @@ blueprint: events
 title: 'Chinese New Year Celebration'
 event_categories:
   - community
-  - family-friendly
   - languages
   - dance
   - performance

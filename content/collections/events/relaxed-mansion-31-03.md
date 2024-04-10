@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Christchurch Mansion - Relaxed Visits'
 event_categories:
-  - family-friendly
   - exhibition
   - museums
 organisers:

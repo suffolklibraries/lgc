@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival - First Kite'
 event_categories:
   - festival
-  - family-friendly
   - art
   - first-light
 organisers:

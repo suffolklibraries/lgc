@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival - Baby Bounce on the Beach'
 event_categories:
   - festival
-  - family-friendly
   - early-years
   - first-light
 organisers:

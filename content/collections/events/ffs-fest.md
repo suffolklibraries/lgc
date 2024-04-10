@@ -5,7 +5,6 @@ blueprint: events
 title: 'FFS Fest'
 event_categories:
   - community
-  - family-friendly
   - festival
   - music
 organisers:

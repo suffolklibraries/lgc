@@ -6,7 +6,6 @@ title: 'Easter Craft Workshop'
 event_categories:
   - art
   - crafts
-  - family-friendly
   - early-years
 organisers:
   - britten-pears-arts

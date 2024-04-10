@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Africa Alive Lazy Lion Afternoon'
 event_categories:
-  - family-friendly
   - nature
   - languages
 organisers:

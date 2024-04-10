@@ -12,7 +12,6 @@ start_date: '2024-03-25 10:00'
 event_categories:
   - dance
   - early-years
-  - family-friendly
 free: true
 virtual: false
 organisers:

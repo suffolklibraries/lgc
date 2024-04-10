@@ -5,7 +5,6 @@ blueprint: events
 title: 'Dressing Elizabeth 1578'
 event_categories:
   - art
-  - family-friendly
   - languages
   - teen-and-young-adult
   - museums

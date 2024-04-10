@@ -5,7 +5,6 @@ blueprint: events
 title: 'Saxmundham Arts Festival'
 event_categories:
   - community
-  - family-friendly
   - festival
 organisers:
   - the-art-station

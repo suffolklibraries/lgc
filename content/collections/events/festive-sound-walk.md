@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Festive Sound Walk'
 event_categories:
-  - family-friendly
   - nature
   - activity
   - teen-and-young-adult

@@ -3,7 +3,6 @@ id: 77f18de6-1667-4a74-afb4-26851a886921
 blueprint: events
 title: 'Christchurch Mansion - Relaxed Visits'
 event_categories:
-  - family-friendly
   - exhibition
   - museums
 organisers:

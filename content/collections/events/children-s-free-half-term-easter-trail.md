@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Children's FREE Half Term Easter Trail"
 event_categories:
-  - family-friendly
   - food
   - dance
   - primary-school-age

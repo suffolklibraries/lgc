@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Suffolk Wildlife Trust: 50 Nature Reserves'
 event_categories:
-  - family-friendly
   - languages
   - dance
   - nature

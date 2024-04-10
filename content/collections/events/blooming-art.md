@@ -5,7 +5,6 @@ blueprint: events
 title: 'Blooming Art'
 event_categories:
   - art
-  - family-friendly
   - exhibition
 organisers:
   - eastern-angles

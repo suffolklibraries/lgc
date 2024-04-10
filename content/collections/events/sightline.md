@@ -5,7 +5,6 @@ blueprint: events
 title: Sightline
 event_categories:
   - exhibition
-  - family-friendly
   - teen-and-young-adult
 organisers:
   - the-art-station

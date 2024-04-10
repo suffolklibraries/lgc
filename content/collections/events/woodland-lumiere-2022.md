@@ -131,7 +131,6 @@ cta: |-
 updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1647441019
 event_categories:
-  - family-friendly
   - art
   - nature
   - movement

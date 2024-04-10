@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival 2023'
 event_categories:
   - art
-  - family-friendly
   - festival
   - dance
   - music

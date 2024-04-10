@@ -14,7 +14,6 @@ event_categories:
   - early-years
   - parent-and-baby
   - toddler
-  - family-friendly
   - crafts
   - art
 free: true

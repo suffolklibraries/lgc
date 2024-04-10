@@ -10,7 +10,6 @@ updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1647429852
 event_categories:
   - food
-  - family-friendly
 organisers:
   - the-art-station
 featured_image: Save-the-date-(1).jpg

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Wildlife Discovery Day'
 event_categories:
-  - family-friendly
   - languages
   - nature
   - primary-school-age

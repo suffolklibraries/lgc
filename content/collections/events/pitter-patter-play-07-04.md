@@ -5,7 +5,6 @@ blueprint: events
 title: 'Pitter Patter Play'
 event_categories:
   - early-years
-  - family-friendly
   - languages
   - parent-and-baby
 featured_image: offthepressimages/new_resized_images/Early-Years.png

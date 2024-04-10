@@ -12,7 +12,6 @@ start_date: '2021-11-06 09:30'
 end_date: '2021-11-06 10:30'
 event_categories:
   - dance
-  - family-friendly
   - parent-and-baby
   - early-years
   - toddler

@@ -3,7 +3,6 @@ id: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
 blueprint: events
 title: "Woolly's Spring Trail"
 event_categories:
-  - family-friendly
   - exhibition
   - museums
 organisers:

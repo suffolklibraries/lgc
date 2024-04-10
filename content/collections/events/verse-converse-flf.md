@@ -5,7 +5,6 @@ blueprint: events
 title: 'Verse Converse'
 event_categories:
   - festival
-  - family-friendly
   - music
   - first-light
 organisers:

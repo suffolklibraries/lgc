@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Bluebells in Bradfield Woods'
 event_categories:
-  - family-friendly
   - nature
   - dance
 organisers:

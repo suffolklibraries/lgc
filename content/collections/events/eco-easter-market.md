@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Eco Easter Market'
 event_categories:
-  - family-friendly
   - art
   - teen-and-young-adult
   - later-life

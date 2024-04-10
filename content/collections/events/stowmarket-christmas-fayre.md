@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Stowmarket Christmas Fayre'
 event_categories:
-  - family-friendly
   - community
   - food
   - primary-school-age

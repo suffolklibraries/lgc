@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Little Red in Local Libraries'
 event_categories:
-  - family-friendly
   - literature
   - primary-school-age
   - early-years

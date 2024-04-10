@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Nautical Craft Morning'
 event_categories:
-  - family-friendly
   - festival
   - art
   - museums

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Stradbroke Tapestry Project'
 event_categories:
   - art
-  - family-friendly
   - later-life
   - crafts
 organisers:

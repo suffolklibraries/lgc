@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Dance Like It's 1578!"
 event_categories:
-  - family-friendly
   - museums
   - activity
   - teen-and-young-adult

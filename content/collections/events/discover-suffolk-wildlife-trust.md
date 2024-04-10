@@ -5,7 +5,6 @@ blueprint: events
 title: 'Discover Suffolk Wildlife Trust'
 event_categories:
   - community
-  - family-friendly
   - nature
 organisers:
   - suffolk-wildlife-trust

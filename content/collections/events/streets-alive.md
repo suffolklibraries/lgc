@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Streets Alive!'
 event_categories:
-  - family-friendly
   - history
   - performance
   - theatre

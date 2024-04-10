@@ -7,7 +7,6 @@ event_categories:
   - community
   - festival
   - music
-  - family-friendly
   - workshop
 organisers:
   - global-rhythms

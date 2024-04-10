@@ -9,7 +9,6 @@ event_categories:
   - performance
   - teen-and-young-adult
   - community
-  - family-friendly
   - early-years
 organisers:
   - danceeast

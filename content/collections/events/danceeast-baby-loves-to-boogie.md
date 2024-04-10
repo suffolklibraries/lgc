@@ -8,7 +8,6 @@ event_categories:
   - art
   - dance
   - early-years
-  - family-friendly
   - parent-and-baby
 organisers:
   - danceeast

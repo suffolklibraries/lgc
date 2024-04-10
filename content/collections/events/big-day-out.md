@@ -5,7 +5,6 @@ blueprint: events
 title: 'Big Day Out'
 event_categories:
   - community
-  - family-friendly
   - nature
 organisers:
   - suffolk-rural

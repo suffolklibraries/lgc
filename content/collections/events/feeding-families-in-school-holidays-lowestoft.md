@@ -5,7 +5,6 @@ blueprint: events
 title: 'Feeding Families in School Holidays - Lowestoft'
 event_categories:
   - community
-  - family-friendly
   - food
   - get-suffolk-reading
 organisers:

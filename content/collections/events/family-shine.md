@@ -4,7 +4,6 @@ blueprint: events
 title: 'Family Shine Workshop'
 event_categories:
   - art
-  - family-friendly
 organisers:
   - rock-paper-scissors
 start_date: '2024-04-21 10:00'

@@ -6,7 +6,6 @@ title: 'Theatre Fun for all the Family'
 event_categories:
   - art
   - community
-  - family-friendly
   - literature
   - performance
 organisers:

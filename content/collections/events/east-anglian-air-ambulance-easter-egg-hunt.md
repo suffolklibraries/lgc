@@ -8,8 +8,6 @@ free: true
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1649874265
-event_categories:
-  - family-friendly
 organisers:
   - norfolk-and-suffolk-aviation-museum
 featured_image: miscellaneous/Suffolk-and-Norfolk-aviation-museum.PNG

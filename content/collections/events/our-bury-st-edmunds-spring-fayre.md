@@ -5,7 +5,6 @@ blueprint: events
 title: 'Our Bury St Edmunds Spring Fayre'
 event_categories:
   - community
-  - family-friendly
 organisers:
   - our-bury-st-edmunds
 start_date: '2023-05-28 10:00'

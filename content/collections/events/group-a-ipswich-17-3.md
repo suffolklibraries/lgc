@@ -203,7 +203,6 @@ cta: |-
 
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
 event_categories:
-  - family-friendly
   - teen-and-young-adult
   - primary-school-age
   - music

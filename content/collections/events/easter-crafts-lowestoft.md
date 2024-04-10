@@ -101,7 +101,6 @@ event_categories:
   - art
   - crafts
   - primary-school-age
-  - family-friendly
 end_date: '2022-04-13 15:00'
 attendance_information: '5-11 year olds'
 featured_image: suffolkarchives/Lowestoft-Archives-Easter-Crafts.png

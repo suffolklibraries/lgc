@@ -5,7 +5,6 @@ blueprint: events
 title: 'SPILL Christmas Fair'
 event_categories:
   - community
-  - family-friendly
   - food
   - teen-and-young-adult
   - art

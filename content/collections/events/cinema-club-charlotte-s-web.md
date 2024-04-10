@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Cinema Club: Charlotte's Web"
 event_categories:
-  - family-friendly
   - literature
   - performance
 organisers:

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Warm Wednesdays - After School Storytime'
 event_categories:
   - art
-  - family-friendly
   - food
   - primary-school-age
   - parent-and-baby

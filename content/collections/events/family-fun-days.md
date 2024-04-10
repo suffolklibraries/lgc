@@ -6,7 +6,6 @@ title: 'Family Fun Days'
 event_categories:
   - activity
   - community
-  - family-friendly
 organisers:
   - ipswich-entertains
 start_date: '2022-07-27 12:00'

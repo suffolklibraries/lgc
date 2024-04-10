@@ -8,7 +8,6 @@ event_categories:
   - primary-school-age
   - literature
   - early-years
-  - family-friendly
   - get-suffolk-reading
 organisers:
   - national-literacy-trust

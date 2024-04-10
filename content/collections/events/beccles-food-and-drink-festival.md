@@ -5,7 +5,6 @@ blueprint: events
 title: 'Beccles Food and Drink Festival'
 event_categories:
   - community
-  - family-friendly
   - festival
   - food
 start_date: '2023-05-27 10:00'

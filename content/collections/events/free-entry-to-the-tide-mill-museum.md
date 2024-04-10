@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Free entry to the Tide Mill Museum'
 event_categories:
-  - family-friendly
   - museums
 organisers:
   - woodbridge-tide-mill

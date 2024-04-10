@@ -11,7 +11,6 @@ longitude: '1.155455996323043'
 start_date: '2022-02-26 11:00'
 end_date: '2022-02-26 14:00'
 event_categories:
-  - family-friendly
   - early-years
   - dance
 free: false

@@ -5,7 +5,6 @@ blueprint: events
 title: 'One Big Multicultural Festival'
 event_categories:
   - community
-  - family-friendly
   - festival
   - music
 organisers:

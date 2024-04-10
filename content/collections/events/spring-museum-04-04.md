@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Spring Into Spring Craft Workshop'
 event_categories:
-  - family-friendly
   - museums
   - art
 organisers:

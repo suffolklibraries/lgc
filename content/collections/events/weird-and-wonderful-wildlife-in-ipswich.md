@@ -5,7 +5,6 @@ blueprint: events
 title: 'Weird and wonderful wildlife in Ipswich'
 event_categories:
   - community
-  - family-friendly
   - nature
   - dance
   - primary-school-age

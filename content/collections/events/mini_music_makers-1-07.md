@@ -15,7 +15,6 @@ event_categories:
   - early-years
   - parent-and-baby
   - toddler
-  - family-friendly
 free: true
 virtual: false
 organisers:

@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival - Opening Parade: Winds of Change'
 event_categories:
   - festival
-  - family-friendly
   - first-light
 organisers:
   - first-light-festival

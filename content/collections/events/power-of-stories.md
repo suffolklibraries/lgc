@@ -5,7 +5,6 @@ blueprint: events
 title: 'Power of Stories Exhibition at Snape Maltings'
 event_categories:
   - exhibition
-  - family-friendly
   - teen-and-young-adult
   - museums
 organisers:

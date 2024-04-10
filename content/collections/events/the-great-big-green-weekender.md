@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Great Big Green Weekender'
 event_categories:
   - community
-  - family-friendly
   - get-suffolk-reading
   - nature
   - languages

@@ -11,7 +11,6 @@ longitude: '1.742435941964034'
 start_date: '2022-06-19 10:00'
 end_date: '2022-06-19 12:00'
 event_categories:
-  - family-friendly
   - early-years
   - dance
   - primary-school-age

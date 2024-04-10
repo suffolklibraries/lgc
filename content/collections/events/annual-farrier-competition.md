@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Annual Farrier Competition'
 event_categories:
-  - family-friendly
   - languages
   - museums
 organisers:

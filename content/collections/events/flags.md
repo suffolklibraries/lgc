@@ -6,7 +6,6 @@ title: Flags
 event_categories:
   - art
   - exhibition
-  - family-friendly
 organisers:
   - the-art-station
 featured_image: offthepressimages/new_resized_images/Exhibition.png

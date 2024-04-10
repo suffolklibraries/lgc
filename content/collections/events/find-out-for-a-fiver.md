@@ -5,7 +5,6 @@ blueprint: events
 title: 'Find Out For a Fiver'
 event_categories:
   - exhibition
-  - family-friendly
   - languages
   - museums
   - teen-and-young-adult

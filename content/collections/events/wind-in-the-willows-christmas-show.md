@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Wind in the Willows Christmas Show'
 event_categories:
   - community
-  - family-friendly
   - literature
   - primary-school-age
   - teen-and-young-adult

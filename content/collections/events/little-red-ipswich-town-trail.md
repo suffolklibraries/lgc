@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Little Red Ipswich Town Trail'
 event_categories:
-  - family-friendly
   - literature
   - activity
   - primary-school-age

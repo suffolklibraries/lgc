@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Summer Bug Trail'
 event_categories:
-  - family-friendly
   - nature
   - primary-school-age
 organisers:

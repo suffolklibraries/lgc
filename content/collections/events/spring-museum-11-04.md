@@ -3,7 +3,6 @@ id: b235984a-e783-4b2e-9e31-f35865d80675
 blueprint: events
 title: 'Spring Into Spring Craft Workshop'
 event_categories:
-  - family-friendly
   - museums
   - art
 organisers:

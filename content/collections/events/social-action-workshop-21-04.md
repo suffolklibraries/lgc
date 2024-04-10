@@ -5,7 +5,6 @@ blueprint: events
 title: 'Social Action Workshop'
 event_categories:
   - art
-  - family-friendly
   - activism
   - teen-and-young-adult
 organisers:

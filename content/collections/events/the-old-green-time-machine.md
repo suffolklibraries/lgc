@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Old Green Time Machine'
 event_categories:
   - festival
-  - family-friendly
   - dance
 organisers:
   - first-light-festival

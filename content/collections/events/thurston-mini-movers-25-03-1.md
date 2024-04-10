@@ -11,7 +11,6 @@ start_date: '2024-04-15 10:00'
 event_categories:
   - dance
   - early-years
-  - family-friendly
 free: true
 virtual: false
 organisers:

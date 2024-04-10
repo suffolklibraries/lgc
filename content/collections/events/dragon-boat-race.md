@@ -5,7 +5,6 @@ blueprint: events
 title: 'Dragon Boat Race'
 event_categories:
   - community
-  - family-friendly
 start_date: '2023-06-03 10:00'
 end_date: '2023-06-03 12:00'
 free: true

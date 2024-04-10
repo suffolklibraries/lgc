@@ -5,7 +5,6 @@ blueprint: events
 title: "Let's Get Crafty: Seaside Fun"
 event_categories:
   - art
-  - family-friendly
   - primary-school-age
 organisers:
   - suffolk-archives

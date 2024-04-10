@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Wild Tots: Holywells'
 event_categories:
-  - family-friendly
   - languages
   - nature
   - parent-and-baby

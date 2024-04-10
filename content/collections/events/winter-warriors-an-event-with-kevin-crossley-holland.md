@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Winter Warriors: An Event with Kevin Crossley-Holland'
 event_categories:
-  - family-friendly
   - literature
   - primary-school-age
 organisers:

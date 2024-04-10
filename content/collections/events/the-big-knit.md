@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Big Knit'
 event_categories:
   - art
-  - family-friendly
   - languages
   - activity
   - teen-and-young-adult

@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival - The Big Strum'
 event_categories:
   - festival
-  - family-friendly
   - art
   - music
   - singing

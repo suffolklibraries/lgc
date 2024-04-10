@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Big Picnic'
 event_categories:
   - food
-  - family-friendly
 organisers:
   - new-wolsey-theatre
 start_date: '2022-05-28 12:30'

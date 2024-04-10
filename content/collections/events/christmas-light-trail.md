@@ -5,7 +5,6 @@ blueprint: events
 title: 'Christmas Light Trail'
 event_categories:
   - exhibition
-  - family-friendly
   - nature
   - teen-and-young-adult
   - primary-school-age

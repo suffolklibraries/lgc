@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Easter Egg Hunt'
 event_categories:
-  - family-friendly
   - activity
   - primary-school-age
 organisers:

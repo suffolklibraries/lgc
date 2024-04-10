@@ -3,7 +3,6 @@ id: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 blueprint: events
 title: 'Animals in the Art Gallery'
 event_categories:
-  - family-friendly
   - exhibition
   - museums
 organisers:

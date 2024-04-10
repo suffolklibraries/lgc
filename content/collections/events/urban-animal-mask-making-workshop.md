@@ -5,7 +5,6 @@ blueprint: events
 title: 'Urban Animal Mask Making Workshop'
 event_categories:
   - art
-  - family-friendly
   - festival
   - activity
   - primary-school-age

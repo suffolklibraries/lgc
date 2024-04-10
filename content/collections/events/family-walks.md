@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Family walks'
 event_categories:
-  - family-friendly
   - activity
   - nature
   - dance

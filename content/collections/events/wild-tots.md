@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Wild Tots: Redgrave & Lopham Fen'
 event_categories:
-  - family-friendly
   - nature
   - languages
 organisers:

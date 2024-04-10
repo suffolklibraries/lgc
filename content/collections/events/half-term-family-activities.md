@@ -6,7 +6,6 @@ title: 'Half term family activities'
 event_categories:
   - art
   - community
-  - family-friendly
 organisers:
   - ignite
 featured_image: offthepressimages/new_resized_images/Crafts.png
