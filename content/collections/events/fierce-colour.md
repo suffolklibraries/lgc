@@ -81,7 +81,6 @@ event_categories:
   - art
   - exhibition
   - visual-arts
-  - welcome-back-ipswich
 featured_image: miscellaneous/Fierce_colour2.png
 attendance_information: 18+
 organisers:
