@@ -5,7 +5,6 @@ blueprint: events
 title: TONIC
 event_categories:
   - music
-  - singing
 organisers:
   - cohere-arts
 start_date: '2022-06-03 10:30'

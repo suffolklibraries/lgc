@@ -7,7 +7,6 @@ event_categories:
   - festival
   - art
   - music
-  - singing
   - first-light
 organisers:
   - first-light-festival

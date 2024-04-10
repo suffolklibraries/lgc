@@ -130,7 +130,6 @@ cta: |-
 event_categories:
   - later-life
   - music
-  - singing
 booking_link: 'https://brittenpearsarts.org/events/participate-2023-leiston'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'
 duplicated_from: 4293b5f4-c802-4665-872b-daed0a46e999
