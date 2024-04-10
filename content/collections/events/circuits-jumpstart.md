@@ -7,7 +7,6 @@ event_categories:
   - dance
   - teen-and-young-adult
   - later-life
-  - sports
   - activity
 organisers:
   - suffolk-libraries

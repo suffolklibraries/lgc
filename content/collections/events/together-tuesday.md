@@ -6,7 +6,6 @@ title: 'Together Tuesday'
 event_categories:
   - community
   - dance
-  - sports
   - later-life
 organisers:
   - abbeycroft-leisure

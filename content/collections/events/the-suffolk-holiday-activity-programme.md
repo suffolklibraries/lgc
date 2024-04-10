@@ -6,7 +6,6 @@ title: 'The Suffolk Holiday Activity Programme'
 event_categories:
   - activity
   - museums
-  - sports
   - food
 organisers:
   - the-national-horse-racing-museum

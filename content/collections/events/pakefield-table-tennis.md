@@ -3,8 +3,6 @@ id: 0f752a21-11e3-47b4-a6c3-8cce98df5919
 published: false
 blueprint: events
 title: 'Pakefield Table Tennis Club'
-event_categories:
-  - sports
 organisers:
   - pakefield-table-tennis-club
 start_date: '2022-05-18 19:30'
