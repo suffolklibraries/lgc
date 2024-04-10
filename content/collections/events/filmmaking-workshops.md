@@ -5,7 +5,6 @@ blueprint: events
 title: 'Filmmaking Workshops'
 event_categories:
   - computing
-  - mixed-media
   - teen-and-young-adult
 organisers:
   - the-offshoot-foundation
