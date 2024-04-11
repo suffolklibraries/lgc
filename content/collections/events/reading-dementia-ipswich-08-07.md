@@ -7,8 +7,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/reading-with-dementia.png
-start_date: '2024-06-24 14:15'
-end_date: '2024-06-24 15:15'
+start_date: '2024-07-08 14:15'
+end_date: '2024-07-08 15:15'
 free: true
 virtual: false
 latitude: '52.05879312178225'
@@ -221,7 +221,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712832473
+updated_at: 1712832637
 duplicated_from: fdf3406e-0d03-427b-b650-74e8f00927af
 accessibility_information: '- Dementia friendly'
 ---
