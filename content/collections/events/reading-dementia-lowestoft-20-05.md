@@ -1,15 +1,14 @@
 ---
 id: f4264236-576a-4286-97f1-32bed804c308
-published: false
 blueprint: events
-title: 'Reading with Dementia - Lowestoft (Duplicated)'
+title: 'Reading with Dementia - Lowestoft'
 event_categories:
   - literature
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/reading-with-dementia.png
-start_date: '2024-05-13 10:30'
-end_date: '2024-05-13 11:30'
+start_date: '2024-05-20 10:30'
+end_date: '2024-05-20 11:30'
 free: true
 virtual: false
 latitude: '52.47688733683927'
@@ -219,7 +218,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712831774
+updated_at: 1712833107
 duplicated_from: c549410c-b5f7-4c92-9937-eda644db1828
 accessibility_information: '- Dementia friendly'
 ---
