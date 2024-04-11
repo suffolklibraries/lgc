@@ -141,7 +141,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712842670
+updated_at: 1712842948
 duplicated_from: 80a984ab-26a7-4307-b31b-9869bf8ed429
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '- 16 + years'
