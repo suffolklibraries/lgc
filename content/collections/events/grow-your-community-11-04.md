@@ -1,5 +1,6 @@
 ---
 id: 6cf5c403-bdf8-4e3c-9331-1a5074b0c386
+published: false
 blueprint: events
 title: 'ActivGardens - Grow Your Community'
 event_categories:
@@ -144,7 +145,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712671817
+updated_at: 1712833070
 duplicated_from: 6b5f6bea-c48a-4d3c-993f-a2d95077a4bd
 booking_link: 'https://activlives.org.uk/event/belle-vue-park-sudbury/2024-04-11/'
 ---
