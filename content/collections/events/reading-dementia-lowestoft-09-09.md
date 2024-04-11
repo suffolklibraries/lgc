@@ -1,7 +1,7 @@
 ---
 id: a8f5dc9d-f281-4af4-adcb-585bdb149662
 blueprint: events
-title: 'Reading with Dementia - Lowestoft (Duplicated)'
+title: 'Reading with Dementia - Lowestoft'
 event_categories:
   - literature
 organisers:
@@ -218,7 +218,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712833683
+updated_at: 1712833735
 duplicated_from: b573fff4-3ffc-4aa4-81e1-14e6864b92b3
 accessibility_information: '- Dementia friendly'
 ---
