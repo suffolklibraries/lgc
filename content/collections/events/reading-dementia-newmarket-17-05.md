@@ -1,23 +1,22 @@
 ---
 id: 9a3c7836-c150-4fc1-b3b3-e588c3716d84
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Reading with Dementia - Newmarket'
 event_categories:
   - literature
 organisers:
   - suffolk-libraries
-featured_image: offthepressimages/new_resized_images/Literature.png
-start_date: '2024-05-13 14:15'
-end_date: '2024-05-13 15:15'
+featured_image: suffolklibrariesimages/reading-with-dementia.png
+start_date: '2024-05-17 10:30'
+end_date: '2024-05-17 11:30'
 free: true
 virtual: false
-latitude: '52.05879312178225'
-longitude: '1.1565072711648254'
-address_line_1: 'Ipswich County Library'
-address_line_2: 'Northgate Street'
-town: Ipswich
-postcode: 'IP1 3DE'
+latitude: '52.24489980767684'
+longitude: '0.4052478410192164'
+address_line_1: 'Newmarket Library'
+address_line_2: '1a the Guineas'
+town: Newmarket
+postcode: 'CB8 8EQ'
 content_area:
   -
     type: heading
@@ -38,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our weekly book group to be together, share support, and find out about resources available.'
+        text: 'Join our weekly book group to be together, share support, and find out about resources available. We are particularly keen to welcome people from the LGBTQIA+ Community.'
   -
     type: paragraph
     content:
@@ -100,35 +99,35 @@ content_area:
     content:
       -
         type: text
-        text: 'Ipswich '
+        text: 'Newmarket '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/nmk'
               rel: null
               target: _blank
               title: null
         text: 'railway station'
       -
         type: text
-        text: ' is a 21 minute walk away, and the '
+        text: ' is a 16 minute walk away, and the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
+              href: 'https://bustimes.org/stops/390020334'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Tower Ramparts bus station'
+        text: 'nearest bus station'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: ' is a one minute walk away.'
   -
     type: paragraph
     content:
@@ -141,28 +140,28 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              href: 'https://theguineas-shopping.co.uk/information/car-parking.php'
               rel: null
               target: _blank
               title: null
-        text: 'Crown Street car par'
+        text: 'The Guineas car park'
       -
         type: text
-        text: 'k a six minute walk away and the '
+        text: ' a one minute walk away and '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.buttermarketipswich.com/Parking/'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/newmarket-car-parks.cfm'
               rel: null
               target: _blank
               title: null
-        text: Buttermarket
+        text: 'Rous Road car park'
       -
         type: text
-        text: ' a seven minute walk away.'
+        text: ' a six minute walk away.'
   -
     type: paragraph
     content:
@@ -175,14 +174,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
+              href: 'https://www.accessable.co.uk/venues/newmarket-library'
               rel: null
               target: _blank
               title: null
-        text: 'Ipswich County Library using AccessAble'
+        text: 'Newmarket Library using AccessAbl'
       -
         type: text
-        text: .
+        text: e.
   -
     type: paragraph
     content:
@@ -212,7 +211,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712829212
+updated_at: 1712830375
 duplicated_from: 2d82ff8f-30b1-4e00-ae96-a00058785998
 accessibility_information: '- Dementia friendly'
 ---
