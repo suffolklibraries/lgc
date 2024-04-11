@@ -1,15 +1,14 @@
 ---
 id: 274de1b8-b211-4dbd-8a00-2f45ef435aaa
-published: false
 blueprint: events
-title: 'Reading with Dementia - Newmarket (Duplicated)'
+title: 'Reading with Dementia - Newmarket'
 event_categories:
   - literature
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/reading-with-dementia.png
-start_date: '2024-05-17 10:30'
-end_date: '2024-05-17 11:30'
+start_date: '2024-05-24 10:30'
+end_date: '2024-05-24 11:30'
 free: true
 virtual: false
 latitude: '52.24489980767684'
@@ -216,7 +215,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712830897
+updated_at: 1712831100
 duplicated_from: 9a3c7836-c150-4fc1-b3b3-e588c3716d84
 accessibility_information: '- Dementia friendly'
 ---
