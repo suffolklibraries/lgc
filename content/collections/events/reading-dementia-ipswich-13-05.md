@@ -1,6 +1,5 @@
 ---
 id: 2d82ff8f-30b1-4e00-ae96-a00058785998
-published: false
 blueprint: events
 title: 'Reading with Dementia - Ipswich'
 event_categories:
@@ -38,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our weekly book group to be together, share support, and find out about resources available.'
+        text: 'Join our weekly book group to be together, share support, and find out about resources available. We are particularly keen to welcome people from the ethnic minority communities.'
   -
     type: paragraph
     content:
@@ -145,10 +144,10 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Crown Street car par'
+        text: 'Crown Street car park'
       -
         type: text
-        text: 'k a six minute walk away and the '
+        text: ' a six minute walk away and the '
       -
         type: text
         marks:
@@ -212,7 +211,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712829212
+updated_at: 1712830466
 duplicated_from: c549410c-b5f7-4c92-9937-eda644db1828
 accessibility_information: '- Dementia friendly'
 ---
