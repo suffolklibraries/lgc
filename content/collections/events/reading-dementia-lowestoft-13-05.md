@@ -7,7 +7,7 @@ event_categories:
   - literature
 organisers:
   - suffolk-libraries
-featured_image: offthepressimages/new_resized_images/Literature.png
+featured_image: suffolklibrariesimages/reading-with-dementia.png
 start_date: '2024-05-13 10:30'
 end_date: '2024-05-13 11:30'
 free: true
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our weekly book group to be together, share support, and find out about resources available.'
+        text: 'Join our weekly book group to be together, share support, and find out about resources available. We are particularly keen to welcome people who are learning disabled.'
   -
     type: paragraph
     content:
@@ -209,7 +209,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712829278
+updated_at: 1712830756
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 accessibility_information: '- Dementia friendly'
 ---
