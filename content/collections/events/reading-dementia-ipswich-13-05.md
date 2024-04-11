@@ -2,22 +2,22 @@
 id: 2d82ff8f-30b1-4e00-ae96-a00058785998
 published: false
 blueprint: events
-title: 'Reading with Dementia - Lowestoft (Duplicated)'
+title: 'Reading with Dementia - Ipswich'
 event_categories:
   - literature
 organisers:
   - suffolk-libraries
 featured_image: offthepressimages/new_resized_images/Literature.png
-start_date: '2024-05-13 10:30'
-end_date: '2024-05-13 11:30'
+start_date: '2024-05-13 14:15'
+end_date: '2024-05-13 15:15'
 free: true
 virtual: false
-latitude: '52.47688733683927'
-longitude: '1.7503408895603192'
-address_line_1: 'Lowestoft Library'
-address_line_2: 'Clapham Road South'
-town: Lowestoft
-postcode: 'NR32 1DR'
+latitude: '52.05879312178225'
+longitude: '1.1565072711648254'
+address_line_1: 'Ipswich County Library'
+address_line_2: 'Northgate Street'
+town: Ipswich
+postcode: 'IP1 3DE'
 content_area:
   -
     type: heading
@@ -44,9 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This course is also available in Ipswich and Newmarket.'
-  -
-    type: paragraph
+        text: 'Reading with Dementia groups also meet in Lowestoft Library and Newmarket Library.'
   -
     type: heading
     attrs:
@@ -90,8 +88,6 @@ content_area:
         type: text
         text: .
   -
-    type: paragraph
-  -
     type: heading
     attrs:
       level: 3
@@ -104,32 +100,32 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft '
+        text: 'Ipswich '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
               rel: null
               target: _blank
               title: null
         text: 'railway station'
       -
         type: text
-        text: ' is a seven minute walk away, and the'
+        text: ' is a 21 minute walk away, and the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/Lowestoft+bus+station/@52.4770576,1.7497725,18z/data=!4m24!1m15!4m14!1m6!1m2!1s0x47da1af4dc6a0171:0xa9d78eb97007c720!2sLowestoft+Library!2m2!1d1.7503366!2d52.4768238!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+bus+station,+Lowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3m7!1s0x47da1af56d372b2b:0x7065be204d63f941!6m1!1v5!8m2!3d52.4773506!4d1.7519173!16s%2Fg%2F1q67mdqrk?entry=ttu'
+              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: ' bus station'
+        text: 'Tower Ramparts bus station'
       -
         type: text
         text: ' is a three minute walk away.'
@@ -138,35 +134,35 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest car park is a minute walk away at '
+        text: 'There are several nearby carparks, including '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/clapham_road/nr32/east_suffolk/?arriving=202404111030&leaving=202404111230'
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
               rel: null
               target: _blank
               title: null
-        text: 'Clapham Road car park'
+        text: 'Crown Street car par'
       -
         type: text
-        text: ' or a three minute walk away at the '
+        text: 'k a six minute walk away and the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://brittencentre.co.uk/getting-here/'
+              href: 'https://www.buttermarketipswich.com/Parking/'
               rel: null
               target: _blank
               title: null
-        text: 'Britten Centre'
+        text: Buttermarket
       -
         type: text
-        text: .
+        text: ' a seven minute walk away.'
   -
     type: paragraph
     content:
@@ -179,11 +175,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/lowestoft-library#224575f8-3516-404e-b08b-2b948939e7ad'
+              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
               rel: null
               target: _blank
               title: null
-        text: 'Lowestoft Library using AccessAble.'
+        text: 'Ipswich County Library using AccessAble'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -213,7 +212,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712828487
+updated_at: 1712829212
 duplicated_from: c549410c-b5f7-4c92-9937-eda644db1828
 accessibility_information: '- Dementia friendly'
 ---
