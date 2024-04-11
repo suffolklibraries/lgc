@@ -37,7 +37,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our weekly book group to be together, share support, and find out about resources available. We are particularly keen to welcome people who are learning disabled.'
+        text: 'Join our weekly book group to be together, share support, and find out about resources available. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We are particularly keen to welcome people from the LGBTQIA+ community, people with learning disabilities and people from ethnic minority backgrounds.'
   -
     type: paragraph
     content:
@@ -212,7 +218,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712830884
+updated_at: 1712831774
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 accessibility_information: '- Dementia friendly'
 ---
