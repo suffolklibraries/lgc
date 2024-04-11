@@ -1,15 +1,14 @@
 ---
 id: 80a984ab-26a7-4307-b31b-9869bf8ed429
-published: false
 blueprint: events
-title: 'ActivGardens - Gardening in Mind (Duplicated)'
+title: 'ActivGardens - Grow Your Future'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2024-04-29 10:00'
-end_date: '2024-07-15 14:00'
+start_date: '2024-05-14 10:00'
+end_date: '2024-08-06 00:00'
 free: true
 virtual: false
 latitude: '52.03845056427872'
@@ -32,27 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this free 12-week course, you will take part in gardening, growing, and environmental activities, with the option to get involved in bee-keeping too. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The course runs on Mondays or '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/gardening-in-mind-wednesdays'
-              rel: null
-              target: _blank
-              title: null
-        text: Wednesdays
-      -
-        type: text
-        text: .
+        text: 'In this free 12-week course, you will learn about gardening, horticulture and nature conservation in our safe, welcoming and inspiring community gardens. '
   -
     type: heading
     attrs:
@@ -162,9 +141,9 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712742545
+updated_at: 1712838370
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
-booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
+booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '- 16 + years'
 ---
-Come and join our outdoor programme to support your mental wellbeing.
+Take part in our programme to develop practical skills and build confidence on your way to further learning, training or employment.
