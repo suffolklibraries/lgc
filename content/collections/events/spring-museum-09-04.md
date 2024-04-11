@@ -1,5 +1,6 @@
 ---
 id: 3f5cd607-a0aa-42ca-9c92-ac9af38271eb
+published: false
 blueprint: events
 title: 'Spring Into Spring Craft Workshop'
 event_categories:
@@ -156,7 +157,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712669233
+updated_at: 1712833059
 duplicated_from: 8cfb98ac-9157-4c98-aa59-7f9665cc6fa5
 cost_details: £5
 ---
