@@ -45,6 +45,8 @@ content_area:
         type: text
         text: 'Reading with Dementia groups also meet in Lowestoft Library and Ipswich County Library.'
   -
+    type: paragraph
+  -
     type: heading
     attrs:
       level: 3
@@ -86,6 +88,8 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: paragraph
   -
     type: heading
     attrs:
@@ -211,7 +215,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712830450
+updated_at: 1712830897
 duplicated_from: 2d82ff8f-30b1-4e00-ae96-a00058785998
 accessibility_information: '- Dementia friendly'
 ---
