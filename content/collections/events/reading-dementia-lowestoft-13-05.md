@@ -44,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This course is also available in Ipswich and Newmarket.'
+        text: 'Reading with Dementia groups also meet in Ipswich County Library and Newmarket Library.'
   -
     type: paragraph
   -
@@ -213,7 +213,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712828487
+updated_at: 1712828862
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 accessibility_information: '- Dementia friendly'
 ---
