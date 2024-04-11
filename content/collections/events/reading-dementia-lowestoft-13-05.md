@@ -138,7 +138,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest car park is a minute walk away at '
+        text: 'The nearest car park is a one minute walk away at '
       -
         type: text
         marks:
@@ -213,7 +213,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712828862
+updated_at: 1712829271
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 accessibility_information: '- Dementia friendly'
 ---
