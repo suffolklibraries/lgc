@@ -1,15 +1,14 @@
 ---
 id: 61c687e2-31c7-4af3-8886-417348684ce8
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Reading with Dementia - Ipswich'
 event_categories:
   - literature
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/reading-with-dementia.png
-start_date: '2024-07-29 14:15'
-end_date: '2024-07-29 15:15'
+start_date: '2024-08-05 14:15'
+end_date: '2024-08-05 15:15'
 free: true
 virtual: false
 latitude: '52.05879312178225'
@@ -222,7 +221,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712832758
+updated_at: 1712832795
 duplicated_from: 8188157c-5b93-4511-bce6-d2016ed19d3f
 accessibility_information: '- Dementia friendly'
 ---
