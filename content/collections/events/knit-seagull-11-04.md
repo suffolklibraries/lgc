@@ -1,5 +1,6 @@
 ---
 id: a774c751-be2d-40e8-82f9-346e87f9feeb
+published: false
 blueprint: events
 title: 'Knit and Natter'
 organisers:
@@ -131,7 +132,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712221187
+updated_at: 1712833066
 duplicated_from: d86fc786-2e9f-47f7-ac62-cd4523dac679
 event_categories:
   - later-life
