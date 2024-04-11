@@ -1,8 +1,7 @@
 ---
 id: 6533a0fd-0f97-4ac3-b1b5-0024353f88f1
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Reading with Dementia - Ipswich'
 event_categories:
   - literature
 organisers:
@@ -222,7 +221,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712832473
+updated_at: 1712832512
 duplicated_from: cb8930a6-2362-4ea8-9c9f-91ddc11dfd0e
 accessibility_information: '- Dementia friendly'
 ---
