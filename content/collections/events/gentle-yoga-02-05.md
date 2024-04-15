@@ -1,18 +1,17 @@
 ---
 id: ea1c7709-a20b-4b33-b122-8450c4fda89f
-published: false
 blueprint: events
-title: 'Gentle Yoga (Duplicated)'
+title: 'Gentle Yoga'
 event_categories:
   - later-life
   - dance
 organisers:
   - cohere-arts
-start_date: '2024-04-25 13:00'
+start_date: '2024-05-02 13:00'
 free: true
 virtual: true
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713184273
+updated_at: 1713184320
 attendance_information: |-
   - Beginners welcome
   - Older people
@@ -91,7 +90,7 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2024-04-25 14:00'
+end_date: '2024-05-02 14:00'
 duplicated_from: a6c1f2e2-aa06-4016-acfb-860c3e986ad2
 featured_image: offthepressimages/new_resized_images/Later_Nature.png
 booking_link: 'https://docs.google.com/forms/d/e/1FAIpQLSctDX21v7impCywbrHBScnnZlM1bQ5KHZspzHlMtRl8C3sQPQ/viewform'
