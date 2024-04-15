@@ -9,7 +9,7 @@ organisers:
 start_date: '2024-05-22 10:00'
 end_date: '2024-05-22 12:00'
 free: true
-virtual: true
+virtual: false
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
 content_area:
   -
@@ -143,7 +143,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713182162
+updated_at: 1713183971
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 duplicated_from: f503f945-bde5-466a-86b9-a66585e619a8
 latitude: '52.05949011341991'
