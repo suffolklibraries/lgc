@@ -1,16 +1,15 @@
 ---
 id: 46ae9586-dc89-4495-82af-f7303fb69f92
-published: false
 blueprint: events
-title: 'Creative Space - Creative Writing (Duplicated)'
+title: 'Creative Space - Singing and Breath Work'
 event_categories:
   - teen-and-young-adult
   - activity
   - later-life
 organisers:
   - cohere-arts
-start_date: '2024-07-10 18:00'
-end_date: '2024-07-10 19:00'
+start_date: '2024-05-02 18:30'
+end_date: '2024-05-02 19:30'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -28,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Online group workshops to stimulate cognition through simple writing exercises in poetry, short stories, drama and comedy. Suitable for complete novices and more experienced writers, the focus is on fun and word play.'
+        text: 'Online group sessions led by a singing for health specialist, including breath work to address respiratory symptoms and ease anxiety. Did you know that singing regularly can also boost your immune system and provide enjoyable cardio exercise?'
   -
     type: paragraph
     content:
@@ -40,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: "To find out about Cohere Arts' online visual arts workshops and singing workshops "
+        text: "To find out about Cohere Arts' online visual arts workshops and creative writing workshops "
       -
         type: text
         marks:
@@ -109,8 +108,8 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713175525
-featured_image: offthepressimages/new_resized_images/Literature.png
+updated_at: 1713175661
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: 26b8b46a-89d3-4c91-9a04-158bd2cb6813
 ---
 Online artist-led workshops offering creative relaxation and peer support for people living with a health challenge, chronic illness and/or disability.
