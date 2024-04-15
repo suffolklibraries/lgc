@@ -12,10 +12,7 @@ start_date: '2024-04-19 13:30'
 end_date: '2024-04-19 15:00'
 free: true
 virtual: true
-attendance_information: |-
-  - People living with a health challenge
-  - People living with a chronic illness
-  - People living with a disability
+attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
 content_area:
   -
     type: heading
@@ -97,7 +94,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713174460
+updated_at: 1713174550
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 ---
 Online artist-led workshops offering creative relaxation and peer support for people living with a health challenge, chronic illness and/or disability.
