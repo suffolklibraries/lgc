@@ -1,14 +1,13 @@
 ---
 id: 9af9e5b7-0972-4dbf-b27c-043f364cc7c3
-published: false
 blueprint: events
-title: 'Little Lights Art Cafes (Duplicated)'
+title: 'Little Lights Art Cafes'
 event_categories:
   - activity
 organisers:
   - cohere-arts
-start_date: '2024-06-19 10:00'
-end_date: '2024-06-19 14:00'
+start_date: '2024-06-26 10:00'
+end_date: '2024-06-26 14:00'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -144,7 +143,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713182000
+updated_at: 1713182032
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 duplicated_from: 32dd968b-e539-4e3c-aec7-953c19e4a9ea
 latitude: '52.05949011341991'
