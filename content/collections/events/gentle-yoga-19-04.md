@@ -1,6 +1,5 @@
 ---
 id: d75a5730-b985-4d27-aa56-5506e092e9a8
-published: false
 blueprint: events
 title: 'Gentle Yoga'
 event_categories:
@@ -12,7 +11,7 @@ start_date: '2024-04-19 10:30'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713190042
+updated_at: 1713190286
 attendance_information: |-
   - Beginners welcome
   - Older people
