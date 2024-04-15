@@ -143,7 +143,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713180942
+updated_at: 1713181455
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 duplicated_from: c8be3f9c-e3f8-4413-8500-36552495709b
 latitude: '52.05949011341991'
