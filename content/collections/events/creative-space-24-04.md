@@ -1,16 +1,15 @@
 ---
 id: b3cb0758-20c1-45e9-a74e-a2abe81bbd74
-published: false
 blueprint: events
-title: 'Creative Space - Visual Art (Duplicated)'
+title: 'Creative Space - Creative Writing'
 event_categories:
   - teen-and-young-adult
   - activity
   - later-life
 organisers:
   - cohere-arts
-start_date: '2024-07-05 13:30'
-end_date: '2024-07-05 15:00'
+start_date: '2024-04-24 13:30'
+end_date: '2024-04-24 15:00'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -28,19 +27,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Relaxing arts and craft activities using materials from around your home. Good for mindfulness, coordination and letting your imagination flow. Have a go yourself, invite family members to join you, or sit back and watch what others create in our informal online workshops.'
+        text: 'Online group workshops to stimulate cognition through simple writing exercises in poetry, short stories, drama and comedy. Suitable for complete novices and more experienced writers, the focus is on fun and word play.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Activities are designed to be adaptable to your own individual needs and energy levels.\_Delivered via ZOOM. "
+        text: "Activities are designed to be adaptable to your own individual needs and energy levels.\_Delivered via Zoom."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To find out about Cohere Arts' online creative writing workshops and singing workshops "
+        text: "To find out about Cohere Arts' online visual arts workshops and singing workshops "
       -
         type: text
         marks:
@@ -109,8 +108,8 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713174917
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+updated_at: 1713175299
+featured_image: offthepressimages/new_resized_images/Literature.png
 duplicated_from: 82b3f4b8-36ef-4642-924c-60952babd2b3
 ---
 Online artist-led workshops offering creative relaxation and peer support for people living with a health challenge, chronic illness and/or disability.
