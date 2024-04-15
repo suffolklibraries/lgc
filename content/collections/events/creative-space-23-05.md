@@ -1,16 +1,15 @@
 ---
 id: f2e29b71-5fb2-4bde-a18c-6f17f1ec8d72
-published: false
 blueprint: events
-title: 'Creative Space - Singing and Breath Work (Duplicated)'
+title: 'Creative Space - Singing and Breath Work'
 event_categories:
   - teen-and-young-adult
   - activity
   - later-life
 organisers:
   - cohere-arts
-start_date: '2024-05-02 18:30'
-end_date: '2024-05-02 19:30'
+start_date: '2024-05-23 18:30'
+end_date: '2024-05-23 19:30'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -109,7 +108,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713175661
+updated_at: 1713175840
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: 46ae9586-dc89-4495-82af-f7303fb69f92
 ---
