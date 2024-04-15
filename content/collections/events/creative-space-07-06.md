@@ -27,6 +27,12 @@ content_area:
     content:
       -
         type: text
+        text: 'Relaxing arts and craft activities using materials from around your home. Good for mindfulness, coordination and letting your imagination flow. Have a go yourself, invite family members to join you, or sit back and watch what others create in our informal online workshops.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: "Activities are designed to be adaptable to your own individual needs and energy levels.\_Delivered via ZOOM. "
   -
     type: paragraph
@@ -102,7 +108,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713174790
+updated_at: 1713174915
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 duplicated_from: b7b0a52a-809b-4997-9b56-ee3a9bbd5cc3
 ---
