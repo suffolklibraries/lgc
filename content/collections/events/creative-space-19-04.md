@@ -33,13 +33,21 @@ content_area:
     content:
       -
         type: text
-        text: "Click here to find out about Cohere Arts' online creative writing workshops."
-  -
-    type: paragraph
-    content:
+        text: "To find out about Cohere Arts' online creative writing workshops and singing workshops "
       -
         type: text
-        text: "Click here to find out about Cohere Arts' online singing workshops."
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://coherearts.org/home/projects__trashed/creativespace/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'visit their website'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -94,7 +102,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713174550
+updated_at: 1713174638
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 ---
 Online artist-led workshops offering creative relaxation and peer support for people living with a health challenge, chronic illness and/or disability.
