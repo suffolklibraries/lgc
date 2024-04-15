@@ -7,7 +7,7 @@ event_categories:
 organisers:
   - cohere-arts
 start_date: '2024-06-26 10:00'
-end_date: '2024-06-26 14:00'
+end_date: '2024-06-26 12:00'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -143,7 +143,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713182032
+updated_at: 1713182191
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 duplicated_from: 32dd968b-e539-4e3c-aec7-953c19e4a9ea
 latitude: '52.05949011341991'
