@@ -8,8 +8,8 @@ event_categories:
   - later-life
 organisers:
   - cohere-arts
-start_date: '2024-04-24 13:30'
-end_date: '2024-04-24 15:00'
+start_date: '2024-04-24 18:00'
+end_date: '2024-04-24 19:00'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -108,7 +108,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713175299
+updated_at: 1713175346
 featured_image: offthepressimages/new_resized_images/Literature.png
 duplicated_from: 82b3f4b8-36ef-4642-924c-60952babd2b3
 ---
