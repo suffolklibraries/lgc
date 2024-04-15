@@ -1,5 +1,6 @@
 ---
 id: 6cf5c403-bdf8-4e3c-9331-1a5074b0c386
+published: false
 blueprint: events
 title: 'ActivGardens - Grow Your Community'
 event_categories:
