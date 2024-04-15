@@ -1,16 +1,15 @@
 ---
 id: 26b8b46a-89d3-4c91-9a04-158bd2cb6813
-published: false
 blueprint: events
-title: 'Creative Space - Creative Writing (Duplicated)'
+title: 'Creative Space - Creative Writing'
 event_categories:
   - teen-and-young-adult
   - activity
   - later-life
 organisers:
   - cohere-arts
-start_date: '2024-06-05 18:00'
-end_date: '2024-06-05 19:00'
+start_date: '2024-07-10 18:00'
+end_date: '2024-07-10 19:00'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -109,7 +108,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713175468
+updated_at: 1713175525
 featured_image: offthepressimages/new_resized_images/Literature.png
 duplicated_from: e3e97066-4d60-4db4-8ab1-48096284001b
 ---
