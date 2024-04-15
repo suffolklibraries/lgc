@@ -1,5 +1,6 @@
 ---
 id: 5891d8b9-4b9e-46b5-9fe3-ec102ff2cc5c
+published: false
 blueprint: events
 title: "Woolly's Spring Trail"
 event_categories:
