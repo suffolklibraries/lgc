@@ -1,16 +1,15 @@
 ---
 id: b7b0a52a-809b-4997-9b56-ee3a9bbd5cc3
-published: false
 blueprint: events
-title: 'Creative Space - Visual Art (Duplicated)'
+title: 'Creative Space - Visual Art'
 event_categories:
   - teen-and-young-adult
   - activity
   - later-life
 organisers:
   - cohere-arts
-start_date: '2024-04-26 13:30'
-end_date: '2024-04-26 15:00'
+start_date: '2024-05-03 13:30'
+end_date: '2024-05-03 15:00'
 free: true
 virtual: true
 attendance_information: '- People living with a health challenge, chronic illness, and/or disability'
@@ -103,7 +102,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713174723
+updated_at: 1713174758
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 duplicated_from: 29b2af2d-4bfe-4857-a1e8-642d59deb6db
 ---
