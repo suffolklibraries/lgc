@@ -8,7 +8,7 @@ longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712589522
+updated_at: 1713289097
 free: true
 virtual: false
 organisers:
@@ -353,5 +353,6 @@ event_categories:
   - exhibition
   - dance
 duplicated_from: c3db2116-f099-4ed5-a338-d82c90bda30d
+featured_image: 'firstlightfestival/first-light-festival,-adam-barnes-(27).jpg'
 ---
 Wellbeing by the Waves...
