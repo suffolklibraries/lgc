@@ -11,7 +11,7 @@ start_date: '2024-06-13 13:00'
 free: true
 virtual: true
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713184477
+updated_at: 1713286982
 attendance_information: |-
   - Beginners welcome
   - Older people
@@ -92,7 +92,7 @@ cta: |-
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 end_date: '2024-06-13 14:00'
 duplicated_from: e0f7f679-b009-46c3-8c7d-754bc3ecf3b7
-featured_image: offthepressimages/new_resized_images/Later_Nature.png
+featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
 booking_link: 'https://docs.google.com/forms/d/e/1FAIpQLSctDX21v7impCywbrHBScnnZlM1bQ5KHZspzHlMtRl8C3sQPQ/viewform'
 ---
 Our popular Gentle seated yoga is an accessible activity suitable for people living with a range of mobility and/or health challenges.
