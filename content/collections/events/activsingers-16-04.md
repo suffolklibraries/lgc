@@ -1,5 +1,6 @@
 ---
 id: 4083e9a6-f1a7-47d4-ba23-392002175bb7
+published: false
 blueprint: events
 title: 'ActivSingers - Ipswich'
 event_categories:
