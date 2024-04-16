@@ -1,5 +1,6 @@
 ---
 id: d4864a82-aab6-4a1a-bacb-b4e8278a7779
+published: false
 blueprint: events
 title: 'Sketchbook Club (online)'
 event_categories:
