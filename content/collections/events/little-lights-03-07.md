@@ -143,8 +143,8 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713183993
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+updated_at: 1713286459
+featured_image: cohere/little-lights-art-cafes---credit-cohere-arts.webp
 duplicated_from: 9af9e5b7-0972-4dbf-b27c-043f364cc7c3
 latitude: '52.05949011341991'
 longitude: '1.156995548038636'
