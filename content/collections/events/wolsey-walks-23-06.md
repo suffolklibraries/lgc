@@ -1,15 +1,14 @@
 ---
 id: 5035ad9c-61b7-43cd-86af-221111d70d48
-published: false
 blueprint: events
-title: 'Wolsey Walks: Ipswich in the Middles Ages (Duplicated)'
+title: 'Wolsey Walks: Thomas Wolsey, the Man Behind the King'
 event_categories:
   - museums
   - activity
 organisers:
   - thomas-wolsey-550
-start_date: '2024-06-15 14:00'
-end_date: '2024-06-15 15:30'
+start_date: '2024-06-23 14:00'
+end_date: '2024-06-23 15:30'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the Ipswich Town Guides to discover Ipswich and its medieval buildings, both religious and secular, and to hear tales of colourful characters and dramatic events that shaped the town during this prosperous period.'
+        text: 'Join the Ipswich Town Guides to discover how Thomas Wolsey was born in Ipswich, and achieved the highest office in Church & State in the service of Henry VIII. Discover the places he knew as a boy, and his plans to make Ipswich his home once again, until his master turned against him and engineered his downfall.'
   -
     type: paragraph
     content:
@@ -149,7 +148,7 @@ content_area:
         text: .
 booking_link: 'https://thomaswolsey550.co.uk/programme/'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713256654
+updated_at: 1713256734
 duplicated_from: ba018053-ffca-4537-849b-b40fdc0c53c3
 featured_image: wolsey550/wolsey-550-crest-1713256362.png
 cta: |-
