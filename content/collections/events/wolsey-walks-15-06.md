@@ -1,15 +1,14 @@
 ---
 id: ba018053-ffca-4537-849b-b40fdc0c53c3
-published: false
 blueprint: events
-title: 'Wolsey Walks: Our Glorious Medieval Churches (Duplicated)'
+title: 'Wolsey Walks: Ipswich in the Middles Ages'
 event_categories:
   - museums
   - activity
 organisers:
   - thomas-wolsey-550
-start_date: '2024-06-09 14:00'
-end_date: '2024-06-09 15:30'
+start_date: '2024-06-15 14:00'
+end_date: '2024-06-15 15:30'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the Ipswich Town Guides to discover how Ipswich was a major religious centre during the Middle Ages. Follow in the footsteps of the pilgrims to visit some of the town’s wonderful medieval churches, as we look at the life of our great churchman, Thomas Wolsey.'
+        text: 'Join the Ipswich Town Guides to discover Ipswich and its medieval buildings, both religious and secular, and to hear tales of colourful characters and dramatic events that shaped the town during this prosperous period.'
   -
     type: paragraph
     content:
@@ -149,7 +148,7 @@ content_area:
         text: .
 booking_link: 'https://thomaswolsey550.co.uk/programme/'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713256574
+updated_at: 1713256654
 duplicated_from: fdfe94d0-ecde-49aa-af7d-78ce96f616b8
 featured_image: wolsey550/wolsey-550-crest-1713256362.png
 cta: |-
