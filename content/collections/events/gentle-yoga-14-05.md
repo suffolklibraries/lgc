@@ -11,7 +11,7 @@ start_date: '2024-05-14 10:30'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713190355
+updated_at: 1713287116
 attendance_information: |-
   - Beginners welcome
   - Older people
@@ -171,7 +171,7 @@ cta: |-
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 end_date: '2024-05-14 11:30'
 duplicated_from: 0268ef67-69e1-4aa3-8d21-bea2c6922b84
-featured_image: offthepressimages/new_resized_images/Later_Nature.png
+featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
 latitude: '52.090114528571'
 longitude: '1.3156934935566305'
 address_line_1: 'Woodbridge Community Hall'
