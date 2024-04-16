@@ -1,14 +1,13 @@
 ---
 id: 2d9bc941-ce23-49ff-aeec-0bde1efcbfb6
-published: false
 blueprint: events
-title: 'First Light Festival - Playbread'
+title: 'First Light Festival - Playbreak'
 latitude: '52.468592684269616'
 longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712589277
+updated_at: 1713288976
 free: true
 virtual: false
 organisers:
@@ -185,5 +184,6 @@ event_categories:
   - exhibition
   - dance
 duplicated_from: c3db2116-f099-4ed5-a338-d82c90bda30d
+featured_image: firstlightfestival/first_light_festival_saturday_daytime-101.jpg
 ---
 Playbreak is our apply-to-play for bands and artists aged 25 and over either from, or with strong connections to Lowestoft.
