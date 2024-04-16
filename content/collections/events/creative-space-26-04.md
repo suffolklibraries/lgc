@@ -108,8 +108,8 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713174901
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+updated_at: 1713287330
+featured_image: cohere/creative-space---credit-cohere-arts.jpg
 duplicated_from: d11bdbae-a432-4111-9557-3f380a44e3ba
 ---
 Online artist-led workshops offering creative relaxation and peer support for people living with a health challenge, chronic illness and/or disability.
