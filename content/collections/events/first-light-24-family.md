@@ -1,6 +1,5 @@
 ---
 id: e73213b1-2a28-4d0f-983c-acb7069c423d
-published: false
 blueprint: events
 title: 'First Light Festival - Family'
 latitude: '52.468592684269616'
@@ -8,7 +7,7 @@ longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712588647
+updated_at: 1713288541
 free: true
 virtual: false
 organisers:
@@ -156,5 +155,6 @@ event_categories:
   - exhibition
   - dance
 duplicated_from: 45ff6728-db36-43a6-9a25-2d270dffd35c
+featured_image: 'firstlightfestival/first-light-festival-2023,-mykola-romanovsky_cropped.jpg'
 ---
 A treasure trove of activities in our Cosmic Pirates, First Word, Planet/Power Positive and MoonDance!
