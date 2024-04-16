@@ -1,6 +1,5 @@
 ---
 id: 45ff6728-db36-43a6-9a25-2d270dffd35c
-published: false
 blueprint: events
 title: 'First Light Festival - Dawn'
 latitude: '52.468592684269616'
@@ -8,7 +7,7 @@ longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712588391
+updated_at: 1713288462
 free: true
 virtual: false
 organisers:
@@ -237,5 +236,6 @@ event_categories:
   - exhibition
   - dance
 duplicated_from: 1c10c79f-c1e1-4781-8810-c224bbdb30e9
+featured_image: 'firstlightfestival/first-light-festival-sunrise,-adam-barnes-2.jpg'
 ---
 A highlight of First Light, Dawn is an extraordinary, reflective experience, unique to the festival.
