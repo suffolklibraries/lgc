@@ -1,15 +1,14 @@
 ---
 id: fdfe94d0-ecde-49aa-af7d-78ce96f616b8
-published: false
 blueprint: events
-title: 'Wolsey Walks: The Life and Times of Thomas Wolsey (Duplicated)'
+title: 'Wolsey Walks: Our Glorious Medieval Churches'
 event_categories:
   - museums
   - activity
 organisers:
   - thomas-wolsey-550
-start_date: '2024-06-01 14:00'
-end_date: '2024-06-01 15:30'
+start_date: '2024-06-09 14:00'
+end_date: '2024-06-09 15:30'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the Ipswich Town Guides to discover what Ipswich was really like in late medieval times. Visit the places associated with Wolsey’s early life in the town, discover his later plans to establish a great college here, and to make Ipswich his home once again.'
+        text: 'Join the Ipswich Town Guides to discover how Ipswich was a major religious centre during the Middle Ages. Follow in the footsteps of the pilgrims to visit some of the town’s wonderful medieval churches, as we look at the life of our great churchman, Thomas Wolsey.'
   -
     type: paragraph
     content:
@@ -149,7 +148,7 @@ content_area:
         text: .
 booking_link: 'https://thomaswolsey550.co.uk/programme/'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713256414
+updated_at: 1713256574
 duplicated_from: a4ba7aaa-6843-45e0-95e5-936993caa2df
 featured_image: wolsey550/wolsey-550-crest-1713256362.png
 cta: |-
