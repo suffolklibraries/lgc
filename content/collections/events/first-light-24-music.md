@@ -1,6 +1,5 @@
 ---
 id: 1c10c79f-c1e1-4781-8810-c224bbdb30e9
-published: false
 blueprint: events
 title: 'First Light Festival - Music'
 latitude: '52.468592684269616'
@@ -8,7 +7,7 @@ longitude: '1.7480299791139273'
 start_date: '2024-06-22 12:00'
 end_date: '2024-06-23 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712588326
+updated_at: 1713288324
 free: true
 virtual: false
 organisers:
@@ -159,5 +158,6 @@ event_categories:
   - early-years
   - dance
 duplicated_from: 9d4bb2c2-85a6-4e9a-95d0-a4f744e8d749
+featured_image: 'firstlightfestival/first-light-festival-2023,-mykola-romanovsky-(393).jpg'
 ---
 Let the music play – an eclectic musical line up of sounds all weekend and from dusk to dawn.
