@@ -1,7 +1,7 @@
 ---
 id: 3731435a-6592-41b2-9639-1e1a6477c346
 blueprint: events
-title: 'Strictly Satursdays'
+title: 'Strictly Saturdays'
 event_categories:
   - dance
 organisers:
@@ -163,7 +163,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713369876
+updated_at: 1713369935
 duplicated_from: 7a1a94a9-7c9d-4a01-a48a-0dca6c23c1df
 ---
 Dump the shopping and come dancing at The Apex in the upstairs bar!
