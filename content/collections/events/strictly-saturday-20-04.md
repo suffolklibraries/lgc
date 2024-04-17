@@ -1,15 +1,14 @@
 ---
 id: 3731435a-6592-41b2-9639-1e1a6477c346
-published: false
 blueprint: events
-title: 'Collection Exhibition (Duplicated)'
+title: 'Strictly Satursdays'
 event_categories:
-  - exhibition
+  - dance
 organisers:
   - the-apex
-featured_image: apex/collection-480x300.jpg
-start_date: '2023-03-19 09:30'
-end_date: '2024-04-21 16:00'
+featured_image: offthepressimages/new_resized_images/Dance.png
+start_date: '2024-04-20 14:30'
+end_date: '2024-04-20 16:30'
 free: true
 virtual: false
 attendance_information: 'Suitable for all ages'
@@ -33,30 +32,27 @@ content_area:
     content:
       -
         type: text
-        text: "'Collection' is an exhibition by six Suffolk artists; Klair Bauly, Jo Clavier, Miranda Grayling, Marina Jacobs, Marian Lishman and Mandy Renton (aka Budgerigardener) bringing a variety of paintings in different media."
-  -
-    type: paragraph
+        text: 'Ballroom, Latin and Rock and Roll... just turn up and join in!'
   -
     type: paragraph
     content:
+      -
+        type: text
+        text: ' Find out more on '
       -
         type: text
         marks:
           -
-            type: bold
-        text: 'Opening hours:'
-  -
-    type: paragraph
-    content:
+            type: link
+            attrs:
+              href: 'https://www.theapex.co.uk/whats-on/details.cfm?id=40605&ins=1271990'
+              rel: null
+              target: _blank
+              title: null
+        text: 'the Apex website'
       -
         type: text
-        text: 'Mondays to Saturdays - 9.30am-4.30pm and Sundays - 10.30am-4pm'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Occasionally, the Art Gallery is closed to the public. If you are travelling specifically to see an exhibition, please call the Box Ooffice on 01284 758000 before your visit.'
+        text: .
   -
     type: paragraph
   -
@@ -72,7 +68,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop-in.'
+        text: 'No booking required, just drop-in. '
   -
     type: paragraph
   -
@@ -167,7 +163,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713369168
+updated_at: 1713369876
 duplicated_from: 7a1a94a9-7c9d-4a01-a48a-0dca6c23c1df
 ---
-An exhibiton of six local artists
+Dump the shopping and come dancing at The Apex in the upstairs bar!
