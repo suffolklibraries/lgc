@@ -1,14 +1,13 @@
 ---
 id: 98c80110-11a6-422d-9f0c-eef16ddc1eb0
-published: false
 blueprint: events
-title: "Children's Corner - Kids Crafty Upcycling (Duplicated)"
+title: "Children's Corner - Kids Crafty Upcycling"
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-05-30 14:00'
-end_date: '2024-05-30 15:00'
+start_date: '2024-05-31 14:00'
+end_date: '2024-05-31 15:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713351259
+updated_at: 1713351313
 free: true
 virtual: false
 organisers:
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: "Create a decorative pencil pot or colourful money box using upcycled materials.\_"
+        text: "Create a colourful collage using upcycled materials\_."
   -
     type: paragraph
     content:
