@@ -7,7 +7,7 @@ longitude: '1.7497799327137424'
 start_date: '2024-05-10 19:00'
 end_date: '2024-05-10 21:30'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713349897
+updated_at: 1713350529
 free: true
 virtual: false
 organisers:
@@ -135,7 +135,7 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 event_categories:
-  - film
+  - music
 duplicated_from: 457ffec7-1610-4f2b-9c79-4b948ee0d07c
 featured_image: offthepressimages/Music_clear.png
 accessibility_information: |-
