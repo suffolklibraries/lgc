@@ -1,15 +1,14 @@
 ---
 id: 791d1f1d-0f9d-4230-bc5f-df23ce308419
-published: false
 blueprint: events
-title: 'Strictly Satursdays (Duplicated)'
+title: 'Strictly Saturdays'
 event_categories:
   - dance
 organisers:
   - the-apex
 featured_image: offthepressimages/new_resized_images/Dance.png
-start_date: '2024-04-20 14:30'
-end_date: '2024-04-20 16:30'
+start_date: '2024-05-18 14:30'
+end_date: '2024-05-18 16:30'
 free: true
 virtual: false
 attendance_information: 'Suitable for all ages'
@@ -164,7 +163,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713369876
+updated_at: 1713369929
 duplicated_from: 3731435a-6592-41b2-9639-1e1a6477c346
 ---
 Dump the shopping and come dancing at The Apex in the upstairs bar!
