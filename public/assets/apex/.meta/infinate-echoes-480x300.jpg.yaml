@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'A grid of four images. On the top row is a black and white photo of cars on a bridge with yellow highlights and a  black and white photo of the inside of a factory with red highlights. On the bottom row is an abstract images of blue lines on a faded photograph and photo of an American street sign with a brick building in the background.'
 size: 52596
 last_modified: 1713369307
 width: 480
