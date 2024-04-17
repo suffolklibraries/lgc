@@ -1,15 +1,14 @@
 ---
 id: fd1cf030-31c2-4da4-aa6c-0214ad9268d4
-published: false
 blueprint: events
-title: 'My Choir Rocks - choir session (Duplicated)'
+title: "Children's Corner - Owl Crafts"
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-04-22 18:00'
-end_date: '2024-04-22 19:00'
+start_date: '2024-05-29 14:00'
+end_date: '2024-05-29 15:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713349674
-free: false
+updated_at: 1713351105
+free: true
 virtual: false
 organisers:
   - east-point-pavilion
@@ -27,25 +26,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Do you know a child who loves to sing and play music? My Choir Rocks run weekly guitar and choir sessions for children.'
+        text: "In keeping with our visit from the Fritton Owl Sanctuary this morning, we're offering another hour of free owl themed crafts for children."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Class times are as follows:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Mondays - 5.15pm - 6pm - Guitar'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Mondays - 6pm - 7pm - Choir'
+        text: "Children must be accompanied by an adult.\_"
   -
     type: heading
     attrs:
@@ -59,21 +46,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Your first session is free. '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:myrockchoir@gmail.com'
-              rel: null
-              target: null
-              title: null
-        text: 'Email Graeme'
-      -
-        type: text
-        text: ' to find out more and book. '
+        text: 'No booking required, just drop-in.'
   -
     type: heading
     attrs:
@@ -135,15 +108,13 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 event_categories:
-  - music
+  - activity
 duplicated_from: 35da50ed-de54-4c21-aa3a-e08f98477f2c
-featured_image: offthepressimages/Music_white.png
-cost_details: '£5 per child'
-attendance_information: '- Children aged 8+'
+featured_image: "eastpointpavilion/children's-corner---facebook-&-website.png"
 accessibility_information: |-
   - Changing Places toilet
   - Wheelchair access
   - Hearing loop available
 address_line_2: 'Royal Plain'
 ---
-Learn to play, make friends, and join the band
+Owl themed crafts for kids
