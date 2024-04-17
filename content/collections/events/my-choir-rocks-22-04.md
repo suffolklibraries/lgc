@@ -1,13 +1,13 @@
 ---
 id: ad7859d5-2a15-48f2-80ea-bfb67c6cfc1a
 blueprint: events
-title: 'My Choir Rocks - Guitar'
+title: 'My Choir Rocks - guitar session'
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
 start_date: '2024-04-22 17:15'
 end_date: '2024-04-22 18:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713349275
+updated_at: 1713349623
 free: false
 virtual: false
 organisers:
