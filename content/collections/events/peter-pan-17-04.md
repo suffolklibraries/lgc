@@ -1,5 +1,6 @@
 ---
 id: 9bbfb3b3-5c65-403e-84dd-33161a2c9821
+published: false
 blueprint: events
 title: 'Seagull Youth Theatre Presents: Peter Pan'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
