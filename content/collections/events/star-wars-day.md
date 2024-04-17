@@ -1,15 +1,14 @@
 ---
 id: 457ffec7-1610-4f2b-9c79-4b948ee0d07c
-published: false
 blueprint: events
-title: 'My Choir Rocks - Guitar (Duplicated)'
+title: 'Star Wars Day'
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-04-22 17:15'
-end_date: '2024-04-22 18:00'
+start_date: '2024-05-04 10:00'
+end_date: '2024-05-04 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713349275
-free: false
+updated_at: 1713349543
+free: true
 virtual: false
 organisers:
   - east-point-pavilion
@@ -27,25 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Do you know a child who loves to sing and play music? My Choir Rocks run weekly guitar and choir sessions for children.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Class times are as follows:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Mondays - 5.15pm - 6pm - Guitar'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Mondays - 6pm - 7pm - Choir'
+        text: 'Join us in a galaxy far, far away to celebrate the iconic films with geeky trade stalls, meet and greets with some of your favourite characters, and much more!'
   -
     type: heading
     attrs:
@@ -59,21 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Your first session is free. '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:myrockchoir@gmail.com'
-              rel: null
-              target: null
-              title: null
-        text: 'Email Graeme'
-      -
-        type: text
-        text: ' to find out more and book. '
+        text: 'No booking required, just drop-in.'
   -
     type: heading
     attrs:
@@ -135,15 +102,13 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 event_categories:
-  - music
+  - film
 duplicated_from: ad7859d5-2a15-48f2-80ea-bfb67c6cfc1a
-featured_image: offthepressimages/Music_white.png
-cost_details: '£5 per child'
-attendance_information: '- Children aged 8+'
+featured_image: offthepressimages/Film.png
 accessibility_information: |-
   - Changing Places toilet
   - Wheelchair access
   - Hearing loop available
 address_line_2: 'Royal Plain'
 ---
-Learn to play, make friends, and join the band
+May the 4th be with you this Star Wars Day as East Point Pavilion celebrate the ways of the force.
