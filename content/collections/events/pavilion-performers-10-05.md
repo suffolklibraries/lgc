@@ -1,14 +1,13 @@
 ---
 id: a657694f-7913-4f1b-b409-f8df6a14f506
-published: false
 blueprint: events
-title: 'Star Wars Day (Duplicated)'
+title: 'Pavilion Performers Open Sessions'
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-05-04 10:00'
-end_date: '2024-05-04 16:00'
+start_date: '2024-05-10 19:00'
+end_date: '2024-05-10 21:30'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713349543
+updated_at: 1713349897
 free: true
 virtual: false
 organisers:
@@ -27,7 +26,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us in a galaxy far, far away to celebrate the iconic films with geeky trade stalls, meet and greets with some of your favourite characters, and much more!'
+        text: 'Hosted by local musician and experienced facilitator, Greg Powles, the evening will begin with a “turn up and play” where anyone under the age of 18 can bring a song and perform with an instrument or backing track. Then, we’ll open the floor to musicians of any age who would like to share a song and the evening will be rounded off with a showcase performance by one of our First Light Festival New Dawn youth performers.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Pavilion Performers Open Sessions is an inclusive, friendly space led by experienced practitioners and everyone is welcome.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hot drinks and soft drinks will be available and we look forward to seeing you there!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '7pm – Turn up and play for under 18’s'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '8pm – Turn up and play for al- comers'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '9pm – New Dawn showcase performance'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '9.30 - End'
   -
     type: heading
     attrs:
@@ -105,11 +137,11 @@ cta: |-
 event_categories:
   - film
 duplicated_from: 457ffec7-1610-4f2b-9c79-4b948ee0d07c
-featured_image: offthepressimages/Film.png
+featured_image: offthepressimages/Music_clear.png
 accessibility_information: |-
   - Changing Places toilet
   - Wheelchair access
   - Hearing loop available
 address_line_2: 'Royal Plain'
 ---
-May the 4th be with you this Star Wars Day as East Point Pavilion celebrate the ways of the force.
+A monthly opportunity for local musicians to perform and connect.
