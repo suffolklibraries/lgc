@@ -1,14 +1,13 @@
 ---
 id: 35da50ed-de54-4c21-aa3a-e08f98477f2c
-published: false
 blueprint: events
-title: 'My Choir Rocks - Guitar (Duplicated)'
+title: 'My Choir Rocks - choir session'
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-04-22 17:15'
-end_date: '2024-04-22 18:00'
+start_date: '2024-04-22 18:00'
+end_date: '2024-04-22 19:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713349275
+updated_at: 1713349674
 free: false
 virtual: false
 organisers:
