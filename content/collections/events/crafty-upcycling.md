@@ -1,14 +1,13 @@
 ---
 id: 4bc89941-1c44-4746-b121-393570402ffe
-published: false
 blueprint: events
-title: "Children's Corner - Owl Crafts (Duplicated)"
+title: "Children's Corner - Kids Crafty Upcycling"
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-05-29 14:00'
-end_date: '2024-05-29 15:00'
+start_date: '2024-05-30 14:00'
+end_date: '2024-05-30 15:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713351105
+updated_at: 1713351259
 free: true
 virtual: false
 organisers:
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: "In keeping with our visit from the Fritton Owl Sanctuary this morning, we're offering another hour of free owl themed crafts for children."
+        text: "Create a decorative pencil pot or colourful money box using upcycled materials.\_"
   -
     type: paragraph
     content:
@@ -117,5 +116,6 @@ accessibility_information: |-
   - Wheelchair access
   - Hearing loop available
 address_line_2: 'Royal Plain'
+attendance_information: '- Ages 3 and up'
 ---
-Owl themed crafts for kids
+Get stuck into free craft activities.
