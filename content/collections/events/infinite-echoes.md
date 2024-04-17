@@ -1,18 +1,16 @@
 ---
 id: 8edfb208-cd6e-490c-b06c-79694689592e
-published: false
 blueprint: events
-title: 'Collection Exhibition (Duplicated)'
+title: 'Infinite Echoes Exhibition'
 event_categories:
   - exhibition
 organisers:
   - the-apex
-featured_image: apex/collection-480x300.jpg
-start_date: '2023-03-19 09:30'
-end_date: '2024-04-21 16:00'
+featured_image: apex/infinate-echoes-480x300.jpg
+start_date: '2024-04-23 09:30'
+end_date: '2024-05-19 16:00'
 free: true
 virtual: false
-attendance_information: 'Suitable for all ages'
 latitude: '52.24598764311893'
 longitude: '0.7102617040371424'
 address_line_1: 'The Apex'
@@ -33,7 +31,19 @@ content_area:
     content:
       -
         type: text
-        text: "'Collection' is an exhibition by six Suffolk artists; Klair Bauly, Jo Clavier, Miranda Grayling, Marina Jacobs, Marian Lishman and Mandy Renton (aka Budgerigardener) bringing a variety of paintings in different media."
+        text: "The exhibition will demonstrate the breadth of creative practice that the staff engage in alongside teaching and supporting students.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "The works exhibited demonstrate a vast range of skills and techniques utilised by the team featuring; photography, printmaking, illustration, digital collage, 3D sculpture, mixed media and more.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Previous works by this collective have been published and exhibited internationally, demonstrating the high calibre of talent teaching the next generation of artists in Bury St\_Edmunds.\_"
   -
     type: paragraph
   -
@@ -167,7 +177,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713369168
+updated_at: 1713369484
 duplicated_from: 7a1a94a9-7c9d-4a01-a48a-0dca6c23c1df
 ---
-An exhibiton of six local artists
+Staff within the School of Art and Design, Leonardo Creative House, at West Suffolk College present an exhibition of their artwork.
