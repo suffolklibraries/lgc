@@ -1,13 +1,12 @@
 ---
 id: d435b4a4-5be8-4ca2-9369-d610dd2daae1
-published: false
 blueprint: events
-title: 'Mixed Ability Tap Dance (Duplicated) (Duplicated)'
+title: 'Mixed Ability Tap Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713455693
-start_date: '2024-05-01 09:45'
-end_date: '2024-05-01 10:20'
+updated_at: 1713510907
+start_date: '2024-05-15 09:45'
+end_date: '2024-05-15 10:20'
 event_categories:
   - dance
 free: false
