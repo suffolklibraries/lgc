@@ -1,13 +1,12 @@
 ---
 id: ccc9b1c1-8b2c-4840-a242-126cf5d6a97e
-published: false
 blueprint: events
-title: 'Family Shine Workshop (Duplicated)'
+title: 'Family Shine Workshop'
 event_categories:
   - art
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-21 10:00'
+start_date: '2024-05-19 10:00'
 free: true
 virtual: false
 content_area:
@@ -102,9 +101,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711453062
+updated_at: 1713792440
 featured_image: rockpaperscissorsimages/family-shine.jpg
-end_date: '2024-04-21 12:00'
+end_date: '2024-05-19 12:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
