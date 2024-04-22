@@ -1,14 +1,13 @@
 ---
 id: 204d19d8-9f33-4e5e-ae24-f8071baeadbf
-published: false
 blueprint: events
-title: 'Rock Paper Grow (Duplicated)'
+title: 'Rock Paper Grow'
 event_categories:
   - art
   - crafts
 organisers:
   - rock-paper-scissors
-start_date: '2024-04-25 10:30'
+start_date: '2024-05-02 10:30'
 free: true
 virtual: false
 content_area:
@@ -124,9 +123,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713791040
+updated_at: 1713791097
 featured_image: rockpaperscissorsimages/rps-art-school.jpg
-end_date: '2024-04-25 12:00'
+end_date: '2024-05-02 12:00'
 latitude: '52.09304366086146'
 longitude: '1.1776158942056731'
 address_line_1: 'Holywells Park'
