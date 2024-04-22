@@ -1,7 +1,7 @@
 ---
 id: 9d98acfb-1ae1-4466-8a97-1db8c85b3e7e
 blueprint: events
-title: 'Sketchbook Club (online)'
+title: 'Grown Ups Sketchbook Club (online)'
 event_categories:
   - art
   - activity
@@ -55,7 +55,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711455202
+updated_at: 1713791209
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 end_date: '2024-04-23 20:30'
 attendance_information: Adults
