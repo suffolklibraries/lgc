@@ -121,7 +121,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711454092
+updated_at: 1713790487
 featured_image: rockpaperscissorsimages/rock-paper-stitch.jpg
 end_date: '2024-05-10 21:00'
 latitude: '52.0563490706618'
