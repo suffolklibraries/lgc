@@ -2,13 +2,13 @@
 id: 6c18531b-ea4a-4062-9d06-037f58158e4e
 published: false
 blueprint: events
-title: 'Rock Paper Stitch (Duplicated)'
+title: 'Rock Paper Stitch'
 event_categories:
   - art
   - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-08-09 19:00'
+start_date: '2024-09-13 19:00'
 free: false
 virtual: false
 content_area:
@@ -122,9 +122,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713792006
+updated_at: 1713792040
 featured_image: rockpaperscissorsimages/rock-paper-stitch.jpg
-end_date: '2024-08-09 21:00'
+end_date: '2024-09-13 21:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
