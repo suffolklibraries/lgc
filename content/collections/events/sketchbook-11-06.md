@@ -55,7 +55,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713791463
+updated_at: 1713791478
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 end_date: '2024-06-11 20:30'
 attendance_information: Adults
