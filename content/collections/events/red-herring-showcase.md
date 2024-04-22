@@ -1,5 +1,6 @@
 ---
 id: b05d76d5-25c1-4627-bdcf-31dfd10a4eda
+published: false
 blueprint: events
 title: 'Red Herring Showcase'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
