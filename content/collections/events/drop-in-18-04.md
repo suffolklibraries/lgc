@@ -1,5 +1,6 @@
 ---
 id: 28e8bd22-e294-4bd3-b78a-897e948b5ec2
+published: false
 blueprint: events
 title: 'Drop-In - year 9, 10 and 11'
 event_categories:
