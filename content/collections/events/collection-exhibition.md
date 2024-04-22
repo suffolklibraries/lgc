@@ -1,5 +1,6 @@
 ---
 id: 7a1a94a9-7c9d-4a01-a48a-0dca6c23c1df
+published: false
 blueprint: events
 title: 'Collection Exhibition'
 event_categories:
