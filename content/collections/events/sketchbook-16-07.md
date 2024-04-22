@@ -1,14 +1,13 @@
 ---
 id: ef797ae8-639d-460d-853d-39635d8f0100
-published: false
 blueprint: events
-title: 'Grown Ups Sketchbook Club (online) (Duplicated) (3)'
+title: 'Grown Ups Sketchbook Club (online)'
 event_categories:
   - art
   - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-06-25 19:30'
+start_date: '2024-07-16 19:30'
 free: false
 virtual: true
 content_area:
@@ -56,9 +55,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713791658
+updated_at: 1713791746
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-end_date: '2024-06-25 20:30'
+end_date: '2024-07-16 20:30'
 attendance_information: Adults
 duplicated_from: 1a3e8f2c-c9b7-4b52-b6b1-f4412409bc38
 cost_details: '£5 per household'
