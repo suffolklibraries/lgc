@@ -1,14 +1,13 @@
 ---
 id: 97790e8f-ea0e-482b-ad6f-a82d9842d862
-published: false
 blueprint: events
-title: 'Open Studio with Rock Paper Scissors (Duplicated) (2)'
+title: 'Open Studio with Rock Paper Scissors'
 event_categories:
   - art
   - activity
 organisers:
   - rock-paper-scissors
-start_date: '2024-05-15 09:00'
+start_date: '2024-05-22 09:00'
 free: true
 virtual: false
 content_area:
@@ -112,9 +111,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713790594
+updated_at: 1713790620
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-end_date: '2024-05-15 15:00'
+end_date: '2024-05-22 15:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
