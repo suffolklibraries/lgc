@@ -1,6 +1,5 @@
 ---
 id: 6c18531b-ea4a-4062-9d06-037f58158e4e
-published: false
 blueprint: events
 title: 'Rock Paper Stitch'
 event_categories:
@@ -122,7 +121,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713792040
+updated_at: 1713792125
 featured_image: rockpaperscissorsimages/rock-paper-stitch.jpg
 end_date: '2024-09-13 21:00'
 latitude: '52.0563490706618'
