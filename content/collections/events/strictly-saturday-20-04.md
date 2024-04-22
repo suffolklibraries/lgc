@@ -1,5 +1,6 @@
 ---
 id: 3731435a-6592-41b2-9639-1e1a6477c346
+published: false
 blueprint: events
 title: 'Strictly Saturdays'
 event_categories:
