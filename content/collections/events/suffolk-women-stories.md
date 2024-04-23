@@ -130,7 +130,6 @@ accessibility_information: |-
   - Indoor venue
 end_date: '2022-03-10 10:00'
 event_categories:
-  - crafts
   - art
 featured_image: suffolkarchives/Creative_Curve_Suffolk_Womens_stories.jpg
 ---

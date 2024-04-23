@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Family Friendly Tour & Craft Workshop'
 event_categories:
-  - crafts
   - teen-and-young-adult
 organisers:
   - the-hold

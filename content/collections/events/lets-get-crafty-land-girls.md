@@ -97,7 +97,6 @@ updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1648718706
 event_categories:
   - art
-  - crafts
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png

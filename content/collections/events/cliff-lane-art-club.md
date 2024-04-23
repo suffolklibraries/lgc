@@ -5,7 +5,6 @@ blueprint: events
 title: 'CLIFF LANE AFTER SCHOOL ART CLUB'
 event_categories:
   - art
-  - crafts
 organisers:
   - rock-paper-scissors
 start_date: '2022-06-23 15:15'

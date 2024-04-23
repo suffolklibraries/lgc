@@ -6,7 +6,6 @@ title: 'DanceEast Youth Festival'
 event_categories:
   - activity
   - art
-  - crafts
   - dance
   - performance
   - teen-and-young-adult

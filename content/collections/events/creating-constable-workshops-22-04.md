@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Creating Constable Workshops'
 event_categories:
-  - crafts
   - art
   - visual-arts
   - exhibition

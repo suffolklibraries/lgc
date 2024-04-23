@@ -4,7 +4,6 @@ blueprint: events
 title: 'Rock Paper Grow'
 event_categories:
   - art
-  - crafts
 organisers:
   - rock-paper-scissors
 start_date: '2024-04-25 10:30'

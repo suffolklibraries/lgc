@@ -6,7 +6,6 @@ title: 'Stradbroke Tapestry Project'
 event_categories:
   - art
   - later-life
-  - crafts
 organisers:
   - suffolk-artlink
 start_date: '2022-02-27 10:00'

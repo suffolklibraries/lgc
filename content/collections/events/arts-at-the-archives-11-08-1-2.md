@@ -5,7 +5,6 @@ blueprint: events
 title: 'Art at the Archives (Duplicated) (2)'
 event_categories:
   - art
-  - crafts
 organisers:
   - suffolk-archives
 start_date: '2022-07-09 10:30'

@@ -6,7 +6,6 @@ title: 'Free Art Workshops with Verity Slade'
 event_categories:
   - art
   - teen-and-young-adult
-  - crafts
 organisers:
   - art-eat-events
 featured_image: miscellaneous/IMG_1668.JPG

@@ -87,7 +87,6 @@ updated_at: 1684831549
 event_categories:
   - community
   - languages
-  - crafts
 organisers:
   - the-hive
 attendance_information: 'All welcome'

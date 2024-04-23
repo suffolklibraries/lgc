@@ -6,7 +6,6 @@ title: 'DanceEast Youth Takeover'
 event_categories:
   - activity
   - art
-  - crafts
   - dance
   - drama
   - performance

@@ -13,7 +13,6 @@ event_categories:
   - dance
   - later-life
   - teen-and-young-adult
-  - crafts
   - art
   - combined-arts
   - performance

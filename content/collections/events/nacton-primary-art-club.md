@@ -5,7 +5,6 @@ blueprint: events
 title: 'NACTON PRIMARY AFTER SCHOOL ART CLUB - SUMMER TERM'
 event_categories:
   - art
-  - crafts
 organisers:
   - rock-paper-scissors
 start_date: '2022-06-14 15:15'

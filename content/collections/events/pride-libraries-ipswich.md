@@ -3,8 +3,6 @@ id: f6a405da-efad-462c-b6cd-e9c6653ea99e
 published: false
 blueprint: events
 title: 'Queer Craftivism - Ipswich Library'
-event_categories:
-  - crafts
 organisers:
   - suffolk-libraries
 start_date: '2022-06-10 17:00'

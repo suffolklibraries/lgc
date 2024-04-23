@@ -5,7 +5,6 @@ blueprint: events
 title: 'Easter Craft Workshop'
 event_categories:
   - art
-  - crafts
   - early-years
 organisers:
   - britten-pears-arts

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Art School'
 event_categories:
   - art
-  - crafts
 organisers:
   - rock-paper-scissors
 start_date: '2024-04-04 10:00'

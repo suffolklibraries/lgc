@@ -93,7 +93,6 @@ updated_by: 73585618-b2c6-4117-9078-fe4dcc123fca
 updated_at: 1649677743
 event_categories:
   - art
-  - crafts
 featured_image: suffolkarchives/The-Hold-Easter-craft-poster-(2)-1649342958.png
 end_date: '2022-04-14 12:30'
 cost_details: '£2.50 per child'

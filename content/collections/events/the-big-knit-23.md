@@ -6,7 +6,6 @@ title: 'The Big Knit'
 event_categories:
   - festival
   - community
-  - crafts
 organisers:
   - first-light-festival
 start_date: '2023-05-18 16:00'

@@ -9,7 +9,6 @@ updated_at: 1642519869
 start_date: '2022-01-24 10:30'
 end_date: '2022-01-24 12:00'
 event_categories:
-  - crafts
   - food
   - nature
 free: true
