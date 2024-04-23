@@ -7,7 +7,6 @@ event_categories:
   - activity
   - community
   - computing
-  - teen-and-young-adult
 organisers:
   - future-female-society
 featured_image: offthepressimages/new_resized_images/Film_resized.png

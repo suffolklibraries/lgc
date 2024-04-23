@@ -5,7 +5,6 @@ blueprint: events
 title: 'Young Creatives - Drumming workshops'
 event_categories:
   - music
-  - teen-and-young-adult
   - activity
 organisers:
   - inside-out-community

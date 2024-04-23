@@ -8,7 +8,6 @@ event_categories:
   - art
   - dance
   - performance
-  - teen-and-young-adult
   - festival
   - music
 organisers:

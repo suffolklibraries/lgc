@@ -3,7 +3,6 @@ id: ed16e22f-d0a8-45c7-b442-1cf6eecb081c
 blueprint: events
 title: 'Creative Space - Singing and Breath Work'
 event_categories:
-  - teen-and-young-adult
   - activity
   - later-life
 organisers:

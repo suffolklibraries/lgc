@@ -5,7 +5,6 @@ blueprint: events
 title: 'New Gen'
 event_categories:
   - music
-  - teen-and-young-adult
 organisers:
   - out-loud-music
 featured_image: offthepressimages/Music_clear.png

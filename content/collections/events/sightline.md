@@ -5,7 +5,6 @@ blueprint: events
 title: Sightline
 event_categories:
   - exhibition
-  - teen-and-young-adult
 organisers:
   - the-art-station
 start_date: '2023-04-01 12:00'

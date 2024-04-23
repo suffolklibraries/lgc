@@ -6,7 +6,6 @@ title: 'Virtual Black History Month Lecture 2022'
 event_categories:
   - literature
   - museums
-  - teen-and-young-adult
 organisers:
   - university-of-oxford-bme-staff-network
 start_date: '2022-10-20 17:30'

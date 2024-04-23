@@ -11,7 +11,6 @@ longitude: '1.1552660082048722'
 start_date: '2024-04-03 09:00'
 event_categories:
   - dance
-  - teen-and-young-adult
   - activity
 free: true
 virtual: false

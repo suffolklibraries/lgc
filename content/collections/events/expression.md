@@ -6,7 +6,6 @@ title: Expression
 event_categories:
   - art
   - activity
-  - teen-and-young-adult
 start_date: '2022-08-10 13:00'
 end_date: '2022-08-24 16:00'
 free: true

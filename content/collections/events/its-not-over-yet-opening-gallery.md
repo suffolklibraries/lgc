@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "It's Not Over Yet. Exhibition opening by Duncan McAfee."
 event_categories:
-  - teen-and-young-adult
   - exhibition
   - later-life
   - art

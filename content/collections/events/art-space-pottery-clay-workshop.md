@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Art Space - pottery & clay workshop'
 event_categories:
-  - teen-and-young-adult
   - art
 organisers:
   - suffolk-libraries

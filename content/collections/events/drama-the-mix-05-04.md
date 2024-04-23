@@ -136,7 +136,6 @@ cta: |-
 event_categories:
   - drama
   - performance
-  - teen-and-young-adult
 booking_link: '#'
 featured_image: miscellaneous/themix/Drama-at-the-Mix.jpg
 ---

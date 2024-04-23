@@ -5,7 +5,6 @@ blueprint: events
 title: "What's Next for Stowmarket Exhibition"
 event_categories:
   - community
-  - teen-and-young-adult
   - later-life
   - exhibition
 organisers:

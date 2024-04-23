@@ -7,7 +7,6 @@ event_categories:
   - community
   - nature
   - dance
-  - teen-and-young-adult
 organisers:
   - suffolk-wildlife-trust
 start_date: '2023-02-22 19:30'

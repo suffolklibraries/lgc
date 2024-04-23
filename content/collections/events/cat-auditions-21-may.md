@@ -11,7 +11,6 @@ longitude: '1.1552529352396133'
 start_date: '2022-05-21 09:30'
 event_categories:
   - dance
-  - teen-and-young-adult
   - performance
   - movement
 free: true

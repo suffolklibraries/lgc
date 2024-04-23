@@ -5,7 +5,6 @@ blueprint: events
 title: 'James McDermott: Manatomy'
 event_categories:
   - later-life
-  - teen-and-young-adult
   - literature
 organisers:
   - suffolk-libraries

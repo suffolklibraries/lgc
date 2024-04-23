@@ -7,7 +7,6 @@ event_categories:
   - exhibition
   - languages
   - museums
-  - teen-and-young-adult
 organisers:
   - national-horse-racing-museum
 start_date: '2023-02-22 10:00'

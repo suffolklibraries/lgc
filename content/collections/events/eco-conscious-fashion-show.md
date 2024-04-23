@@ -12,7 +12,6 @@ updated_at: 1677686377
 event_categories:
   - exhibition
   - community
-  - teen-and-young-adult
   - food
 organisers:
   - suffolk-libraries

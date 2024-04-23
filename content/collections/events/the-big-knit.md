@@ -7,7 +7,6 @@ event_categories:
   - art
   - languages
   - activity
-  - teen-and-young-adult
   - later-life
 organisers:
   - first-light-festival

@@ -6,7 +6,6 @@ title: 'Dressing Elizabeth 1578'
 event_categories:
   - art
   - languages
-  - teen-and-young-adult
   - museums
 organisers:
   - curious-spark

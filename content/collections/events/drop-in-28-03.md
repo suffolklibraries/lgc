@@ -3,8 +3,6 @@ id: b4bec156-a169-45ea-8860-91413c6d8e48
 published: false
 blueprint: events
 title: 'Drop-In - year 9, 10 and 11'
-event_categories:
-  - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/drop-in-photo.jpg

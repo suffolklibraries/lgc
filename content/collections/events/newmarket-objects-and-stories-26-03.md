@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Newmarket Objects And Stories: Drop In Story Collection'
 event_categories:
-  - teen-and-young-adult
   - later-life
   - art
 organisers:

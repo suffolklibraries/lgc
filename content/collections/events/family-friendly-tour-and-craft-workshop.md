@@ -3,8 +3,6 @@ id: ab7ead5d-777e-4e8e-8f6e-155b095b060a
 published: false
 blueprint: events
 title: 'Family Friendly Tour & Craft Workshop'
-event_categories:
-  - teen-and-young-adult
 organisers:
   - the-hold
   - suffolk-archives

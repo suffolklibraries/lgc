@@ -6,7 +6,6 @@ title: 'Festive Sound Walk'
 event_categories:
   - nature
   - activity
-  - teen-and-young-adult
   - music
 organisers:
   - britten-pears-arts

@@ -6,7 +6,6 @@ title: 'The Whole Shebang Open Mic Night'
 event_categories:
   - literature
   - music
-  - teen-and-young-adult
   - performance
 organisers:
   - john-peel-centre

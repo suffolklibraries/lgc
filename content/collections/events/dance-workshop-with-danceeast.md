@@ -7,7 +7,6 @@ event_categories:
   - later-life
   - dance
   - activity
-  - teen-and-young-adult
 organisers:
   - danceeast
 start_date: '2022-12-04 10:00'

@@ -2,8 +2,6 @@
 id: 2e40bb7e-d64e-418b-b3d4-89094cda3d90
 blueprint: events
 title: 'Drop-In Late'
-event_categories:
-  - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/drop-in-late.jpg

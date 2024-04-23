@@ -6,7 +6,6 @@ title: 'Christmas Light Trail'
 event_categories:
   - exhibition
   - nature
-  - teen-and-young-adult
   - later-life
 organisers:
   - national-horse-racing-museum

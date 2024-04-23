@@ -5,7 +5,6 @@ blueprint: events
 title: 'Mural Paintings on Ipswich Waterfront'
 event_categories:
   - art
-  - teen-and-young-adult
   - visual-arts
   - hullabaloo22
 organisers:

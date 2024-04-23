@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Creative Space - Visual Art'
 event_categories:
-  - teen-and-young-adult
   - activity
   - later-life
 organisers:

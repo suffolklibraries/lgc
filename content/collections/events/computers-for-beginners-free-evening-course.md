@@ -7,7 +7,6 @@ event_categories:
   - computing
   - languages
   - later-life
-  - teen-and-young-adult
   - activity
 organisers:
   - west-suffolk-college

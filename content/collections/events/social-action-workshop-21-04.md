@@ -6,7 +6,6 @@ title: 'Social Action Workshop'
 event_categories:
   - art
   - activism
-  - teen-and-young-adult
 organisers:
   - rock-paper-scissors
 start_date: '2022-04-21 10:00'

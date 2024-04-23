@@ -6,7 +6,6 @@ title: CONNECT
 event_categories:
   - later-life
   - nature
-  - teen-and-young-adult
   - activity
 organisers:
   - suffolk-wildlife-trust

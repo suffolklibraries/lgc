@@ -5,7 +5,6 @@ blueprint: events
 title: "Lates: Pride in Suffolk's Past"
 event_categories:
   - museums
-  - teen-and-young-adult
 organisers:
   - suffolk-archives
 start_date: '2023-02-23 19:00'

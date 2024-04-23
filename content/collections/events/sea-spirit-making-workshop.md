@@ -7,7 +7,6 @@ event_categories:
   - art
   - festival
   - activity
-  - teen-and-young-adult
 organisers:
   - first-light-festival
 start_date: '2023-05-20 10:30'

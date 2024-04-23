@@ -7,7 +7,6 @@ event_categories:
   - art
   - community
   - later-life
-  - teen-and-young-adult
   - activity
 organisers:
   - rock-paper-scissors

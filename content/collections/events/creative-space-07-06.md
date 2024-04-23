@@ -3,7 +3,6 @@ id: db97eb84-1d41-4c9f-a180-b487fdcf1649
 blueprint: events
 title: 'Creative Space - Visual Art'
 event_categories:
-  - teen-and-young-adult
   - activity
   - later-life
 organisers:

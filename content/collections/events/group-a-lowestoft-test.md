@@ -198,7 +198,6 @@ cta: |-
 
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
 event_categories:
-  - teen-and-young-adult
   - music
   - performance
 ---

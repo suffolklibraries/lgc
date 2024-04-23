@@ -2,8 +2,6 @@
 id: d38ef307-a9ee-488c-ba2e-7ffcbe83c7f0
 blueprint: events
 title: 'Drop-In - years 7 - 11'
-event_categories:
-  - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/the-mix-hut.jpg

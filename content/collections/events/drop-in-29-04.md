@@ -2,8 +2,6 @@
 id: 60fd0415-eb60-4189-a31a-56177c542efb
 blueprint: events
 title: 'Drop-In - year 7 and 8'
-event_categories:
-  - teen-and-young-adult
 organisers:
   - the-mix
 featured_image: themix/drop-in-photo.jpg

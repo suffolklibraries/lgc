@@ -210,7 +210,6 @@ updated_at: 1677509707
 event_categories:
   - community
   - activity
-  - teen-and-young-adult
   - later-life
 organisers:
   - art-eat-events

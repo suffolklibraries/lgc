@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'One Minute Volume Ten'
 event_categories:
-  - teen-and-young-adult
   - exhibition
   - later-life
   - art

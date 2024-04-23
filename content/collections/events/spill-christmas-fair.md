@@ -6,7 +6,6 @@ title: 'SPILL Christmas Fair'
 event_categories:
   - community
   - food
-  - teen-and-young-adult
   - art
 organisers:
   - spill-festival

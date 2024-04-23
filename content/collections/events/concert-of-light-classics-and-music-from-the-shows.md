@@ -6,7 +6,6 @@ title: 'Concert of Light Classics and Music from the Shows'
 event_categories:
   - community
   - music
-  - teen-and-young-adult
   - performance
 organisers:
   - community-light-orchestra

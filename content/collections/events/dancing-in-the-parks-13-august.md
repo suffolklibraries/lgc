@@ -7,7 +7,6 @@ event_categories:
   - activity
   - dance
   - performance
-  - teen-and-young-adult
   - community
   - early-years
 organisers:

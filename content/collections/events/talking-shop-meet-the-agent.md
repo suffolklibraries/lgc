@@ -5,7 +5,6 @@ blueprint: events
 title: 'Talking shop - Meet the agent'
 event_categories:
   - later-life
-  - teen-and-young-adult
   - languages
   - literature
 organisers:

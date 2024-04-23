@@ -9,7 +9,6 @@ event_categories:
   - dance
   - drama
   - performance
-  - teen-and-young-adult
 organisers:
   - danceeast
 start_date: '2022-07-09 10:00'

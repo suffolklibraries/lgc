@@ -5,7 +5,6 @@ blueprint: events
 title: 'Suffolk Shorts - Short Film Festival'
 event_categories:
   - festival
-  - teen-and-young-adult
   - performance
 organisers:
   - the-riverside

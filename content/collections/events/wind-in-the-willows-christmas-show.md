@@ -6,7 +6,6 @@ title: 'The Wind in the Willows Christmas Show'
 event_categories:
   - community
   - literature
-  - teen-and-young-adult
   - performance
 organisers:
   - red-rose-chain-theatre-company

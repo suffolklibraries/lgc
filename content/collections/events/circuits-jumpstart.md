@@ -5,7 +5,6 @@ blueprint: events
 title: Circuits
 event_categories:
   - dance
-  - teen-and-young-adult
   - later-life
   - activity
 organisers:

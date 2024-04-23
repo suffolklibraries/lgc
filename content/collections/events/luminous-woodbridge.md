@@ -3,8 +3,6 @@ id: b1973dba-8e67-44bf-b9f2-02161056865a
 published: false
 blueprint: events
 title: 'Luminous - Woodbridge'
-event_categories:
-  - teen-and-young-adult
 organisers:
   - siren-calling
 start_date: '2022-02-15 09:30'

@@ -3,7 +3,6 @@ id: f03b2eea-ec23-4c72-8486-89e46c8f8293
 blueprint: events
 title: 'New Angles'
 event_categories:
-  - teen-and-young-adult
   - performance
   - activity
 organisers:

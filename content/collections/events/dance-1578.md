@@ -6,7 +6,6 @@ title: "Dance Like It's 1578!"
 event_categories:
   - museums
   - activity
-  - teen-and-young-adult
   - dance
 organisers:
   - curious-spark

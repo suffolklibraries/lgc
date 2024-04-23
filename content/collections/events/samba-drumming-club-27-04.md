@@ -22,7 +22,6 @@ town: Newmarket
 postcode: 'CB8 7BP'
 event_categories:
   - music
-  - teen-and-young-adult
   - later-life
 attendance_information: 'Ages 14 and up'
 accessibility_information: |-

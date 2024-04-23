@@ -5,7 +5,6 @@ blueprint: events
 title: 'Homework Club'
 event_categories:
   - languages
-  - teen-and-young-adult
 organisers:
   - eastern-angles
 start_date: '2024-03-20 15:30'

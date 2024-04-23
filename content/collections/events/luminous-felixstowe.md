@@ -3,8 +3,6 @@ id: 4654252f-3144-4818-98ea-5b012b3aabd0
 published: false
 blueprint: events
 title: 'Luminous - Felixstowe'
-event_categories:
-  - teen-and-young-adult
 organisers:
   - siren-calling
 start_date: '2022-03-15 09:30'

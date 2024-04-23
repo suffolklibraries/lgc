@@ -5,7 +5,6 @@ blueprint: events
 title: 'Creative Space for Young People'
 event_categories:
   - art
-  - teen-and-young-adult
   - activity
 organisers:
   - cohere-arts

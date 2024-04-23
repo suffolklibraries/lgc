@@ -5,7 +5,6 @@ blueprint: events
 title: 'Eco Easter Market'
 event_categories:
   - art
-  - teen-and-young-adult
   - later-life
 organisers:
   - suffolk-archives

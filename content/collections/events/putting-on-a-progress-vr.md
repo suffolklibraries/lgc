@@ -6,7 +6,6 @@ title: 'Putting on a Progress 1578:  An Immersive VR Experience'
 event_categories:
   - museums
   - activity
-  - teen-and-young-adult
   - computing
 organisers:
   - curious-spark

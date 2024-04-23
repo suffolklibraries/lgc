@@ -10,7 +10,6 @@ updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1652267785
 event_categories:
   - drama
-  - teen-and-young-adult
 organisers:
   - prominent
 end_date: '2022-06-12 23:59'

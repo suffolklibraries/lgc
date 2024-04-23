@@ -6,7 +6,6 @@ title: 'Group A - Youth Vocal Group in Leiston'
 event_categories:
   - languages
   - music
-  - teen-and-young-adult
   - activity
   - performance
 organisers:

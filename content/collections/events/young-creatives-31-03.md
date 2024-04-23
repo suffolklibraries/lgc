@@ -5,7 +5,6 @@ blueprint: events
 title: 'Young Creatives'
 event_categories:
   - art
-  - teen-and-young-adult
   - dance
 organisers:
   - inside-out-community

@@ -3,7 +3,6 @@ id: 1286efa0-732d-46f9-a062-6f721183a9aa
 blueprint: events
 title: 'Creative Space - Creative Writing'
 event_categories:
-  - teen-and-young-adult
   - activity
   - later-life
 organisers:
