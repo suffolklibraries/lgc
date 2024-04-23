@@ -6,7 +6,6 @@ title: "Children's FREE Half Term Easter Trail"
 event_categories:
   - food
   - dance
-  - activity
 organisers:
   - the-cock-horse-inn
 start_date: '2023-04-03 10:00'

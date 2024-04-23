@@ -7,7 +7,6 @@ event_categories:
   - art
   - community
   - later-life
-  - activity
 organisers:
   - rock-paper-scissors
 start_date: '2022-12-06 10:30'

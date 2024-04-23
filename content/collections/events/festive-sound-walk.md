@@ -5,7 +5,6 @@ blueprint: events
 title: 'Festive Sound Walk'
 event_categories:
   - nature
-  - activity
   - music
 organisers:
   - britten-pears-arts

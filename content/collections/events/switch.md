@@ -3,8 +3,6 @@ id: 254cecc7-8727-450c-9744-0ee719362696
 published: false
 blueprint: events
 title: Switch
-event_categories:
-  - activity
 organisers:
   - access-community-trust
 start_date: '2022-07-26 10:00'

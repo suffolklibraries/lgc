@@ -155,7 +155,6 @@ cta: |-
 event_categories:
   - later-life
   - music
-  - activity
   - museums
 booking_link: 'https://brittenpearsarts.org/events/participate-leiston-2'
 featured_image: offthepressimages/new_resized_images/Music_Drum.png

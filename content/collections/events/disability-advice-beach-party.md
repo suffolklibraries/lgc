@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Disability Advice Beach party'
 event_categories:
-  - activity
   - community
   - languages
 organisers:

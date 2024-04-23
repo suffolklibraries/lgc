@@ -6,7 +6,6 @@ title: 'Woman 2 Woman'
 event_categories:
   - community
   - languages
-  - activity
   - computing
 organisers:
   - future-female-society

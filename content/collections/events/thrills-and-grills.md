@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Thrills and Grills'
 event_categories:
-  - activity
   - food
   - languages
   - museums

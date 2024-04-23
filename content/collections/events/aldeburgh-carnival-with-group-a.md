@@ -7,7 +7,6 @@ event_categories:
   - community
   - festival
   - dance
-  - activity
 organisers:
   - britten-pears-arts
 start_date: '2022-08-13 10:00'

@@ -6,7 +6,6 @@ title: 'Dance Workshop for Older and Younger Dancers'
 event_categories:
   - later-life
   - dance
-  - activity
 organisers:
   - danceeast
 start_date: '2022-12-04 10:00'

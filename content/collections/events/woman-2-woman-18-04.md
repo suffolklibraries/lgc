@@ -5,7 +5,6 @@ blueprint: events
 title: 'Woman 2 Woman Radio'
 event_categories:
   - languages
-  - activity
   - computing
 organisers:
   - future-female-society

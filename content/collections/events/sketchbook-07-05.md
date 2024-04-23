@@ -4,7 +4,6 @@ blueprint: events
 title: 'Grown Ups Sketchbook Club (online)'
 event_categories:
   - art
-  - activity
 organisers:
   - rock-paper-scissors
 start_date: '2024-05-07 19:30'

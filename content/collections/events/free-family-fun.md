@@ -5,7 +5,6 @@ blueprint: events
 title: 'Free Family Fun'
 event_categories:
   - museums
-  - activity
 organisers:
   - national-horse-racing-museum
 start_date: '2022-07-27 11:00'

@@ -8,7 +8,6 @@ event_categories:
   - festival
   - dance
   - music
-  - activity
   - performance
 organisers:
   - first-light-festival

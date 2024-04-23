@@ -4,7 +4,6 @@ blueprint: events
 title: 'Open Studio with Rock Paper Scissors'
 event_categories:
   - art
-  - activity
 organisers:
   - rock-paper-scissors
 start_date: '2024-05-01 09:00'

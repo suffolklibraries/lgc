@@ -6,7 +6,6 @@ title: 'Sea Spirit Making Workshop'
 event_categories:
   - art
   - festival
-  - activity
 organisers:
   - first-light-festival
 start_date: '2023-05-20 10:30'

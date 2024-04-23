@@ -4,7 +4,6 @@ blueprint: events
 title: 'Print Social'
 event_categories:
   - art
-  - activity
 organisers:
   - rock-paper-scissors
 start_date: '2024-08-23 19:00'

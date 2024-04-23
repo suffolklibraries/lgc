@@ -6,7 +6,6 @@ title: Circuits
 event_categories:
   - dance
   - later-life
-  - activity
 organisers:
   - suffolk-libraries
 start_date: '2023-01-19 11:00'

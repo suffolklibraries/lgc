@@ -10,7 +10,6 @@ end_date: '2024-05-25 16:00'
 event_categories:
   - performance
   - music
-  - activity
 free: true
 virtual: false
 organisers:

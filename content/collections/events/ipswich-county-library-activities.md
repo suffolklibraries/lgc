@@ -9,7 +9,6 @@ event_categories:
   - community
   - languages
   - literature
-  - activity
 organisers:
   - suffolk-libraries
 start_date: '2022-09-04 09:00'

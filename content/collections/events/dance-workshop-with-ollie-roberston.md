@@ -5,7 +5,6 @@ blueprint: events
 title: 'Dance workshop with Ollie Robertston'
 event_categories:
   - dance
-  - activity
 start_date: '2023-03-26 13:00'
 free: false
 virtual: false

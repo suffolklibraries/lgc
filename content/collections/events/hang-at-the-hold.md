@@ -6,7 +6,6 @@ title: 'Hang at the Hold'
 event_categories:
   - dance
   - art
-  - activity
 organisers:
   - the-hold
 featured_image: offthepressimages/new_resized_images/Teen.png

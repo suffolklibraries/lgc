@@ -4,7 +4,6 @@ blueprint: events
 title: 'Rock Paper Stitch'
 event_categories:
   - art
-  - activity
 organisers:
   - rock-paper-scissors
 start_date: '2024-06-14 19:00'

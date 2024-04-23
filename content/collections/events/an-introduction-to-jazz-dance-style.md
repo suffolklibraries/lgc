@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'An introduction to jazz dance style'
 event_categories:
-  - activity
   - dance
 organisers:
   - the-seagull-theatre

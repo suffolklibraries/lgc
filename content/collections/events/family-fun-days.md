@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Family Fun Days'
 event_categories:
-  - activity
   - community
 organisers:
   - ipswich-entertains

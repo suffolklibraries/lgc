@@ -5,7 +5,6 @@ blueprint: events
 title: 'Rock Paper Stitch (Duplicated)'
 event_categories:
   - art
-  - activity
 organisers:
   - rock-paper-scissors
 start_date: '2024-10-11 19:00'

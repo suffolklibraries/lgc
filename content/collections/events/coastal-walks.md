@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Community coastal walk'
 event_categories:
-  - activity
   - nature
   - dance
 organisers:

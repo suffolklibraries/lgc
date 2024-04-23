@@ -4,7 +4,6 @@ blueprint: events
 title: 'New Angles'
 event_categories:
   - performance
-  - activity
 organisers:
   - eastern-angles
 featured_image: offthepressimages/Theatre.png

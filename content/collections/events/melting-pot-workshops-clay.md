@@ -5,7 +5,6 @@ blueprint: events
 title: 'Melting Pot Workshops: Hands on with Clay'
 event_categories:
   - art
-  - activity
 organisers:
   - first-light-festival
 start_date: '2024-01-15 10:30'

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Putting on a Progress 1578:  An Immersive VR Experience'
 event_categories:
   - museums
-  - activity
   - computing
 organisers:
   - curious-spark

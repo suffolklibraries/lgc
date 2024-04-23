@@ -6,7 +6,6 @@ title: 'Free Creative Workshops'
 event_categories:
   - art
   - exhibition
-  - activity
 organisers:
   - suffolk-libraries
   - rock-paper-scissors

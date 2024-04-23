@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Let's Get Crafty: Easter"
 event_categories:
-  - activity
   - art
 organisers:
   - suffolk-archives

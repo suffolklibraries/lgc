@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Book Themed Activities'
 event_categories:
-  - activity
   - literature
 organisers:
   - waterstones-lowestoft

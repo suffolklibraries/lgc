@@ -4,7 +4,6 @@ blueprint: events
 title: 'Wolsey Walks: Our Glorious Medieval Churches'
 event_categories:
   - museums
-  - activity
 organisers:
   - thomas-wolsey-550
 start_date: '2024-06-09 14:00'

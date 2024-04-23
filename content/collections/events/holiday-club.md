@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Holiday Club'
 event_categories:
-  - activity
   - community
   - performance
 organisers:

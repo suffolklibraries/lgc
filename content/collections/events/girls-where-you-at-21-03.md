@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Girls, where you at?'
 event_categories:
-  - activity
   - community
   - computing
 organisers:

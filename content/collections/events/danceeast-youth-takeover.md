@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'DanceEast Youth Takeover'
 event_categories:
-  - activity
   - art
   - dance
   - drama

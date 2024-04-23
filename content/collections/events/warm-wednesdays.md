@@ -6,7 +6,6 @@ title: 'Warm Wednesdays - After School Storytime'
 event_categories:
   - art
   - food
-  - activity
 organisers:
   - national-horse-racing-museum
 start_date: '2023-02-22 15:15'

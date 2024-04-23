@@ -6,7 +6,6 @@ title: 'An Elizabethan Window Wanderland'
 event_categories:
   - art
   - museums
-  - activity
 organisers:
   - curious-spark
 start_date: '2022-10-22 10:00'

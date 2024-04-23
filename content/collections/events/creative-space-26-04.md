@@ -3,7 +3,6 @@ id: 29b2af2d-4bfe-4857-a1e8-642d59deb6db
 blueprint: events
 title: 'Creative Space - Visual Art'
 event_categories:
-  - activity
   - later-life
 organisers:
   - cohere-arts

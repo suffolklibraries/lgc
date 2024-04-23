@@ -5,7 +5,6 @@ blueprint: events
 title: 'Print Social (Duplicated) (2)'
 event_categories:
   - art
-  - activity
 organisers:
   - rock-paper-scissors
 start_date: '2024-09-27 19:00'

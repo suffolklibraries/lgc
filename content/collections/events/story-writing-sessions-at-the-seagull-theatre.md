@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Story writing sessions at the Seagull Theatre'
 event_categories:
-  - activity
   - literature
 organisers:
   - the-seagull-theatre

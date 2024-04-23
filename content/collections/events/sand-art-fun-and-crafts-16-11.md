@@ -6,7 +6,6 @@ title: 'Sand Art, Fun and Crafts'
 event_categories:
   - art
   - early-years
-  - activity
 organisers:
   - sand-art-fun-and-crafts
 featured_image: offthepressimages/new_resized_images/Early-Years.png

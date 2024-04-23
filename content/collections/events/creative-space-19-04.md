@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Creative Space - Visual Art'
 event_categories:
-  - activity
   - later-life
 organisers:
   - cohere-arts

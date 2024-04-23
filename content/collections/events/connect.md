@@ -6,7 +6,6 @@ title: CONNECT
 event_categories:
   - later-life
   - nature
-  - activity
 organisers:
   - suffolk-wildlife-trust
 start_date: '2023-02-06 10:30'

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Young Creatives - Drumming workshops'
 event_categories:
   - music
-  - activity
 organisers:
   - inside-out-community
 start_date: '2023-04-01 13:00'

@@ -5,7 +5,6 @@ blueprint: events
 title: 'South Street Kids'
 event_categories:
   - music
-  - activity
 organisers:
   - out-loud-music
 featured_image: offthepressimages/new_resized_images/Music_singing.png

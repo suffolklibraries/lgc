@@ -6,7 +6,6 @@ title: 'Urban Animal Mask Making Workshop'
 event_categories:
   - art
   - festival
-  - activity
 organisers:
   - first-light-festival
 start_date: '2023-06-01 13:00'

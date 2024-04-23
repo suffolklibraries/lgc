@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Community Health Engagement Event'
 event_categories:
-  - activity
   - community
   - languages
 organisers:

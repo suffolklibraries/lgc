@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Thyme on your Hands'
 event_categories:
-  - activity
   - nature
   - art
 organisers:

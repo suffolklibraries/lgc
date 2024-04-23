@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Voicenotes To My Child Self - Creative Writing Workshop'
 event_categories:
-  - activity
   - literature
 organisers:
   - suffolk-libraries

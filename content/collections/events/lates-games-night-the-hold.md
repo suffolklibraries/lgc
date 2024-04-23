@@ -94,7 +94,5 @@ cta: |-
   This event is run by The Hold, for more information please get in touch via:
 
   [https://www.suffolkarchives.co.uk/whats-on/](https://www.suffolkarchives.co.uk/whats-on/)
-event_categories:
-  - activity
 ---
 Enjoy a drink with friends at The Hold at this adults-only games evening at The Hold.

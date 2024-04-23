@@ -7,7 +7,6 @@ event_categories:
   - computing
   - languages
   - later-life
-  - activity
 organisers:
   - west-suffolk-college
 start_date: '2023-01-12 18:00'

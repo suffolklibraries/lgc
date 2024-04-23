@@ -4,7 +4,6 @@ blueprint: events
 title: 'Wolsey Walks: Thomas Wolsey, the Man Behind the King'
 event_categories:
   - museums
-  - activity
 organisers:
   - thomas-wolsey-550
 start_date: '2024-06-23 14:00'

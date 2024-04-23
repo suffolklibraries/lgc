@@ -5,7 +5,6 @@ blueprint: events
 title: 'Mindfulness and Breathwork Session for Stress Reduction'
 event_categories:
   - community
-  - activity
 organisers:
   - karibu
 featured_image: offthepressimages/new_resized_images/Later_Nature.png

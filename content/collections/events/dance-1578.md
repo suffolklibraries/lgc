@@ -5,7 +5,6 @@ blueprint: events
 title: "Dance Like It's 1578!"
 event_categories:
   - museums
-  - activity
   - dance
 organisers:
   - curious-spark

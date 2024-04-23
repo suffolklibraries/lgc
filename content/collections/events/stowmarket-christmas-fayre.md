@@ -8,7 +8,6 @@ event_categories:
   - food
   - performance
   - art
-  - activity
 organisers:
   - stowmarket-town-council
 start_date: '2022-11-27 10:00'

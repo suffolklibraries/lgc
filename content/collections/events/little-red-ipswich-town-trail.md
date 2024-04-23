@@ -5,7 +5,6 @@ blueprint: events
 title: 'Little Red Ipswich Town Trail'
 event_categories:
   - literature
-  - activity
   - art
 organisers:
   - eastern-angles

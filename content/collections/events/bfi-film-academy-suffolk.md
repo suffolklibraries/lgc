@@ -11,7 +11,6 @@ updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
 updated_at: 1680536649
 event_categories:
   - computing
-  - activity
   - languages
 cost_details: '£0 - £25'
 attendance_information: 'Ages 16-19'

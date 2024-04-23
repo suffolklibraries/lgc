@@ -5,7 +5,6 @@ blueprint: events
 title: 'Gentle Seated Yoga to Music'
 event_categories:
   - later-life
-  - activity
   - dance
   - community
 organisers:

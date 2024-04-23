@@ -4,7 +4,6 @@ blueprint: events
 title: 'Wolsey Walks: The Life and Times of Thomas Wolsey'
 event_categories:
   - museums
-  - activity
 organisers:
   - thomas-wolsey-550
 start_date: '2024-06-01 14:00'

@@ -103,7 +103,6 @@ cta: |-
 
   [info@longshopmuseum.co.uk](mailto:info@longshopmuseum.co.uk)
 event_categories:
-  - activity
   - museums
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 duplicated_from: fd761e0f-101b-4d64-b1d4-460698291241

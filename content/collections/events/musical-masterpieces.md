@@ -5,7 +5,6 @@ blueprint: events
 title: 'Musical Masterpieces'
 event_categories:
   - music
-  - activity
 organisers:
   - britten-pears-arts
 start_date: '2022-08-15 10:30'

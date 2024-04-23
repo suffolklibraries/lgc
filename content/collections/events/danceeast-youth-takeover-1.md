@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'DanceEast Youth Festival'
 event_categories:
-  - activity
   - art
   - dance
   - performance

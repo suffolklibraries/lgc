@@ -4,7 +4,6 @@ blueprint: events
 title: 'Hidden Tudors - Uncovering Black History'
 event_categories:
   - museums
-  - activity
 organisers:
   - thomas-wolsey-550
 start_date: '2024-07-04 19:00'

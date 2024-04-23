@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'The Suffolk Holiday Activity Programme'
 event_categories:
-  - activity
   - museums
   - food
 organisers:

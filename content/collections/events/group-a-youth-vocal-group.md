@@ -6,7 +6,6 @@ title: 'Group A - Youth Vocal Group in Ipswich'
 event_categories:
   - languages
   - music
-  - activity
   - performance
 organisers:
   - britten-pears-arts

@@ -2,8 +2,6 @@
 id: 9af9e5b7-0972-4dbf-b27c-043f364cc7c3
 blueprint: events
 title: 'Little Lights Art Cafes'
-event_categories:
-  - activity
 organisers:
   - cohere-arts
 start_date: '2024-06-26 10:00'

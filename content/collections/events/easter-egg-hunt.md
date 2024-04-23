@@ -3,8 +3,6 @@ id: 21892d34-7522-4c57-8d3d-99f3c9fd720f
 published: false
 blueprint: events
 title: 'Easter Egg Hunt'
-event_categories:
-  - activity
 organisers:
   - woodbridge-tide-mill
 start_date: '2023-04-08 10:30'

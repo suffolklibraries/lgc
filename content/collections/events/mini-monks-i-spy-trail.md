@@ -6,7 +6,6 @@ title: 'Mini Monks I-Spy Trail'
 event_categories:
   - languages
   - museums
-  - activity
 organisers:
   - suffolk-county-council
   - bury-st-edmunds-beyond

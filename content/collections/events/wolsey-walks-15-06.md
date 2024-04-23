@@ -4,7 +4,6 @@ blueprint: events
 title: 'Wolsey Walks: Ipswich in the Middles Ages'
 event_categories:
   - museums
-  - activity
 organisers:
   - thomas-wolsey-550
 start_date: '2024-06-15 14:00'

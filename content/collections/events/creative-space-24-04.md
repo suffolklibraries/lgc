@@ -3,7 +3,6 @@ id: b3cb0758-20c1-45e9-a74e-a2abe81bbd74
 blueprint: events
 title: 'Creative Space - Creative Writing'
 event_categories:
-  - activity
   - later-life
 organisers:
   - cohere-arts

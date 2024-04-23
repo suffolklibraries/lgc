@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Fairy and gnome door painting'
 event_categories:
-  - activity
   - art
 organisers:
   - friends-of-fen-park

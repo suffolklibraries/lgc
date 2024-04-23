@@ -107,8 +107,6 @@ cta: |-
   [https://www.eastpointpavilion.com/](https://www.eastpointpavilion.com/)
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
-event_categories:
-  - activity
 duplicated_from: 35da50ed-de54-4c21-aa3a-e08f98477f2c
 featured_image: "eastpointpavilion/children's-corner---facebook-&-website.png"
 accessibility_information: |-

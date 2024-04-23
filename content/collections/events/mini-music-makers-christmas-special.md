@@ -6,7 +6,6 @@ title: 'Mini Music Makers – Christmas Special'
 event_categories:
   - early-years
   - music
-  - activity
 organisers:
   - britten-pears-arts
 start_date: '2022-12-13 10:00'

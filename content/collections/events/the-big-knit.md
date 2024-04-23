@@ -6,7 +6,6 @@ title: 'The Big Knit'
 event_categories:
   - art
   - languages
-  - activity
   - later-life
 organisers:
   - first-light-festival

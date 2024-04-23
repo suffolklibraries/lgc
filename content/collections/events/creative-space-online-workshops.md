@@ -5,7 +5,6 @@ blueprint: events
 title: 'Creative Space for Young People'
 event_categories:
   - art
-  - activity
 organisers:
   - cohere-arts
 start_date: '2023-02-11 10:30'

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Baby Loves to Boogie'
 event_categories:
-  - activity
   - art
   - dance
   - early-years

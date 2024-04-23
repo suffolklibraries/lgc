@@ -101,8 +101,6 @@ cta: |-
   [https://www.eastpointpavilion.com/](https://www.eastpointpavilion.com/)
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
-event_categories:
-  - activity
 duplicated_from: 457ffec7-1610-4f2b-9c79-4b948ee0d07c
 featured_image: 'eastpointpavilion/woody-bear---facebook-&-website.png'
 accessibility_information: |-

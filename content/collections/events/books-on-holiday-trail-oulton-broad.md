@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Books on Holiday Trail - Oulton Broad'
 event_categories:
-  - activity
   - literature
 organisers:
   - friends-of-oulton-broad-library

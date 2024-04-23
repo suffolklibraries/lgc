@@ -3,8 +3,6 @@ id: 54093d93-3557-4dca-a8da-60e6ff756dea
 published: false
 blueprint: events
 title: 'Father Christmas at The Hold'
-event_categories:
-  - activity
 organisers:
   - the-hold
 start_date: '2022-12-03 10:00'
