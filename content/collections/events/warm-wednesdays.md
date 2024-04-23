@@ -6,7 +6,6 @@ title: 'Warm Wednesdays - After School Storytime'
 event_categories:
   - art
   - food
-  - parent-and-baby
   - activity
 organisers:
   - national-horse-racing-museum

@@ -8,7 +8,6 @@ event_categories:
   - art
   - dance
   - early-years
-  - parent-and-baby
 organisers:
   - danceeast
 start_date: '2022-11-06 10:30'

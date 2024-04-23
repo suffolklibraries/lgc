@@ -5,7 +5,6 @@ blueprint: events
 title: 'Little Hoo-ligans'
 event_categories:
   - early-years
-  - parent-and-baby
 organisers:
   - sutton-hoo
 start_date: '2023-06-13 10:30'

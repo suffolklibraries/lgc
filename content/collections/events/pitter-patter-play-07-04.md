@@ -6,7 +6,6 @@ title: 'Pitter Patter Play'
 event_categories:
   - early-years
   - languages
-  - parent-and-baby
 featured_image: offthepressimages/new_resized_images/Early-Years.png
 start_date: '2023-04-07 13:30'
 end_date: '2023-04-07 14:30'

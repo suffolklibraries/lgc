@@ -13,7 +13,6 @@ end_date: '2022-07-01 11:30'
 event_categories:
   - music
   - early-years
-  - parent-and-baby
   - toddler
 free: true
 virtual: false

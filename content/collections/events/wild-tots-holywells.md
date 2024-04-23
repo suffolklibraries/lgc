@@ -6,7 +6,6 @@ title: 'Wild Tots: Holywells'
 event_categories:
   - languages
   - nature
-  - parent-and-baby
 organisers:
   - suffolk-wildlife-trust
 start_date: '2023-05-12 10:00'

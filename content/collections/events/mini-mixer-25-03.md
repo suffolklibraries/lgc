@@ -5,7 +5,6 @@ blueprint: events
 title: 'Mini Mixers'
 event_categories:
   - early-years
-  - parent-and-baby
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Early-Years.png

@@ -6,7 +6,6 @@ title: 'Mini Music Makers – Christmas Special'
 event_categories:
   - early-years
   - music
-  - parent-and-baby
   - activity
 organisers:
   - britten-pears-arts
