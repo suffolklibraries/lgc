@@ -101,8 +101,6 @@ cta: |-
   [https://www.eastpointpavilion.com/](https://www.eastpointpavilion.com/)
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
-event_categories:
-  - film
 duplicated_from: ad7859d5-2a15-48f2-80ea-bfb67c6cfc1a
 featured_image: offthepressimages/Film.png
 accessibility_information: |-

@@ -8,8 +8,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1712156444
 start_date: '2024-04-21 13:30'
 end_date: '2024-04-21 16:00'
-event_categories:
-  - film
 free: true
 virtual: false
 organisers:
