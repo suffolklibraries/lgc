@@ -1,0 +1,151 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: enable_translations
+            field:
+              default: false
+              display: 'Enable Translations'
+              type: toggle
+              icon: toggle
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              always_save: false
+          -
+            handle: all_languages
+            field:
+              default: false
+              display: 'Translate to all languages?'
+              type: toggle
+              icon: toggle
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              always_save: false
+          -
+            handle: languages
+            field:
+              options:
+                sr: Serbian
+                sk: Slovak
+                sl: Slovenian
+                uk: Ukrainian
+                vi: Vietnamese
+                sq: Albanian
+                et: Estonian
+                gl: Galician
+                hu: Hungarian
+                mt: Maltese
+                th: Thai
+                tr: Turkish
+                fa: Persian
+                af: Afrikaans
+                ms: Malay
+                sw: Swahili
+                ga: Irish
+                cy: Welsh
+                be: Belarusian
+                is: Icelandic
+                mk: Macedonian
+                yi: Yiddish
+                hy: Armenian
+                az: Azerbaijani
+                eu: Basque
+                ka: Georgian
+                ht: 'Haitian Creole'
+                ur: Urdu
+                bn: Bengali
+                bs: Bosnian
+                ceb: Cebuano
+                eo: Esperanto
+                gu: Gujarati
+                ha: Hausa
+                hmn: Hmong
+                ig: Igbo
+                jw: Javanese
+                kn: Kannada
+                km: Khmer
+                lo: Lao
+                la: Latin
+                mi: Maori
+                mr: Marathi
+                mn: Mongolian
+                ne: Nepali
+                pa: Punjabi
+                so: Somali
+                ta: Tamil
+                te: Telugu
+                yo: Yoruba
+                zu: Zulu
+                my: 'Myanmar (Burmese)'
+                ny: Chichewa
+                kk: Kazakh
+                mg: Malagasy
+                ml: Malayalam
+                si: Sinhala
+                st: Sesotho
+                su: Sudanese
+                tg: Tajik
+                uz: Uzbek
+                am: Amharic
+                co: Corsican
+                haw: Hawaiian
+                ku: 'Kurdish (Kurmanji)'
+                ky: Kyrgyz
+                lb: Luxembourgish
+                ps: Pashto
+                sm: Samoan
+                gd: 'Scottish Gaelic'
+                sn: Shona
+                sd: Sindhi
+                fy: Frisian
+                en: English
+                fr: French
+                de: German
+                it: Italian
+                ar: Arabic
+                bg: Bulgarian
+                es: Spanish
+                xh: Xhosa
+                zh-CN: 'Chinese (Simplified)'
+                zh-TW: 'Chinese (Traditional)'
+                cs: Czech
+                hr: Croatian
+                da: Danish
+                nl: Dutch
+                fi: Finnish
+                el: Greek
+                hi: Hindi
+                ja: Japanese
+                ko: Korean
+                'no': Norwegian
+                pl: Polish
+                pt: Portuguese
+                ro: Romanian
+                ru: Russian
+                sv: Swedish
+                ca: Catalan
+                tl: Filipino
+                iw: Hebrew
+                id: Indonesian
+                lv: Latvian
+                lt: Lithuanian
+              multiple: true
+              clearable: false
+              searchable: true
+              taggable: false
+              push_tags: false
+              cast_booleans: false
+              display: Languages
+              type: select
+              icon: select
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              always_save: false
+              if:
+                all_languages: 'equals false'
