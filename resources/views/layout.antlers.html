@@ -39,7 +39,9 @@ var: 3
     </head>
     <body>
         <a class="c-skip-link button button--pink" href="#main">Skip to content</a>
-        
+
+        {{ partial:global/subheader }}
+
         {{ partial:global/header }}
 
         <div>
@@ -54,5 +56,8 @@ var: 3
             };
         </script>
         <script src="{{ mix src='/js/site.js' }}"></script>
+
+        {{ partial:global/footer_scripts }}
+
     </body>
 </html>
