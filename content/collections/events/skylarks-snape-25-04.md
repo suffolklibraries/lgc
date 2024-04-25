@@ -1,5 +1,6 @@
 ---
 id: d08ace7e-194a-4e7c-91aa-55c9432a06b2
+published: false
 blueprint: events
 title: 'East Suffolk Skylarks - Snape'
 latitude: '52.16397679077819'
