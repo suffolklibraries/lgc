@@ -3,3 +3,21 @@
         {{ script_snippet }}
     {{ /site_settings.footer_scripts }}
 {{ endif }}
+
+{{ if translations.enable_translations }}
+    <script>
+        window.gtranslateSettings = {
+            "default_language": "en",
+            "native_language_names": true,
+            {{ if !translations.all_languages }}
+                "languages": [
+                    {{ translations:languages }}
+                        "{{ value }}",
+                    {{ /translations:languages }}
+                ],
+            {{ /if }}
+            "wrapper_selector": ".gtranslate_wrapper"
+        }
+    </script>
+    <script src="https://cdn.gtranslate.net/widgets/latest/dropdown.js" defer></script>
+{{ /if }}

@@ -46,6 +46,7 @@
 @import './components/tick-list.css';
 @import './components/top.css';
 @import './components/twi.css';
+@import './components/subheader.css';
 
 @import './utilities/styles.css';
 @import './utilities/spacing.css';

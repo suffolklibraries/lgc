@@ -4,6 +4,7 @@ import Map from './map';
 import Search from './search';
 import Tabs from './tabs';
 import LinkIcons from './linkIcons';
+import PageZoom from './page-zoom';
 
 (() => {
   Menu();
@@ -12,4 +13,5 @@ import LinkIcons from './linkIcons';
   Search();
   Tabs();
   LinkIcons();
+  PageZoom();
 })();

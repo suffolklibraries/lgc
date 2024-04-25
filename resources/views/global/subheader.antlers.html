@@ -1,0 +1,23 @@
+<div class="subheader">
+    <div class="o-wrap inner">
+        {{ if translations.enable_translations }}
+        <div class="u-split">
+            <span class="u-white u-margin-right-xs">Translate page</span>
+            <div class="gtranslate_wrapper"></div>
+        </div>
+        {{ /if }}
+        <div class="u-split u-margin-left-s">
+            <span class="u-white u-margin-right-xs">Change text size</span>
+            <button aria-label="Increase text size" class="increase u-bg-white u-margin-right-xs">
+                <svg width="18" height="18" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
+                </svg>
+            </button>
+            <button aria-label="Decrease text size" class="decrease u-bg-white">
+                <svg width="18" height="18" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 12h-15" />
+                  </svg>
+            </button>
+        </div>
+    </div>
+</div>
