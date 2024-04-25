@@ -1,5 +1,6 @@
 ---
 id: ce29e648-d887-48eb-a5a9-decbe359dccb
+published: false
 blueprint: events
 title: 'Drop-In - year 9, 10 and 11'
 organisers:
