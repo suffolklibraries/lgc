@@ -28,19 +28,31 @@ class Events extends Scope
         // Location filtering
         $hasLat = !empty($values['latitude']);
         $hasLng = !empty($values['longitude']);
-        
+
         if ($hasLat && $hasLng && !$isVirtual) {
             $lat = $hasLat ? $values['latitude'] : 52.058836;
             $lng = $hasLng ? $values['longitude'] : 1.156518;
             $radius = !empty($values['radius']) ? $values['radius'] : 99;
 
-            $mileInLat = 0.0291519;
-            $mileInLng = 0.0471264;
+            // Convert radius from miles to kilometers
+            $radiusKm = $radius * 1.60934;
 
-            $query->where('latitude', '>=', $lat - ($mileInLat * $radius));
-            $query->where('latitude', '<=', $lat + ($mileInLat * $radius));
-            $query->where('longitude', '>=', $lng - ($mileInLng * $radius));
-            $query->where('longitude', '<=', $lng + ($mileInLng * $radius));
+            // Calculate min and max latitudes for the bounding box
+            $minLat = $lat - ($radius / 69);
+            $maxLat = $lat + ($radius / 69);
+
+            // Calculate the latitude difference for the bounding box
+            $deltaLon = asin(sin($radiusKm / 6371) / cos(deg2rad($lat)));
+
+            // Calculate min and max longitudes for the bounding box
+            $minLng = $lng - rad2deg($deltaLon);
+            $maxLng = $lng + rad2deg($deltaLon);
+
+            // Filter by latitude and longitude within the bounding box
+            $query->where('latitude', '>=', $minLat)
+                ->where('latitude', '<=', $maxLat)
+                ->where('longitude', '>=', $minLng)
+                ->where('longitude', '<=', $maxLng);
         }
 
         // Category filtering

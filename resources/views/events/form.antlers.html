@@ -19,8 +19,8 @@
     <div class="c-events-radius">
       <label for="search-radius">Show me results within </label>
       <select name="radius" id="search-radius">
-        <option value="" {{ {get:radius == '99' or get:radius == ''} ? 'selected' : '' }}>any distance</option>
-        <option value="2" {{ get:radius == '2' ? 'selected' : '' }}>2 miles</option>
+        <option value="" {{ get:radius == '99' ? 'selected' : '' }}>any distance</option>
+        <option value="2" {{ {get:radius == '2' or get:radius == ''} ? 'selected' : '' }}>2 miles</option>
         <option value="5" {{ get:radius == '5' ? 'selected' : '' }}>5 miles</option>
         <option value="10" {{ get:radius == '10' ? 'selected' : '' }}>10 miles</option>
         <option value="30" {{ get:radius == '30' ? 'selected' : '' }}>30 miles</option>
