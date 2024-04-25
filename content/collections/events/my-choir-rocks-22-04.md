@@ -1,5 +1,6 @@
 ---
 id: ad7859d5-2a15-48f2-80ea-bfb67c6cfc1a
+published: false
 blueprint: events
 title: 'My Choir Rocks - guitar session'
 latitude: '52.47146825080719'
