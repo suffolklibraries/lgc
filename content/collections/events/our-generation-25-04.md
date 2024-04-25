@@ -1,5 +1,6 @@
 ---
 id: 59bedf09-9e63-433e-a3b5-9a89fea12435
+published: false
 blueprint: events
 title: 'Seagull Youth Theatre Presents: Our Generation'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
