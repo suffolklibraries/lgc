@@ -184,7 +184,7 @@ content_area:
         text: .
 booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713258608
+updated_at: 1714383667
 duplicated_from: 5035ad9c-61b7-43cd-86af-221111d70d48
 featured_image: wolsey550/wolsey-550-crest-1713256362.png
 cta: |-
@@ -195,6 +195,6 @@ cta: |-
   [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
   [01473 296666](tel:01473296666)
-address_line_2: '131 Fore St'
+address_line_2: '131 Fore Street'
 ---
 This presentation delves into the Tudor era, unveiling narratives of black individuals.
