@@ -1,16 +1,15 @@
 ---
 id: 5df10e55-af50-4bfc-b289-64976c1518ff
-published: false
 blueprint: events
-title: 'Marina Youth Theatre and Young Company (Duplicated)'
+title: 'Marina Youth Theatre and Young Company'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714389573
-start_date: '2024-04-27 09:30'
-end_date: '2024-07-20 12:30'
+updated_at: 1714389792
+start_date: '2024-09-06 09:30'
+end_date: '2024-12-20 12:30'
 event_categories:
   - music
-  - later-life
+  - dance
 free: false
 virtual: false
 organisers:
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join the Marina Youth Theatre to work together to create a show! This term's production is Blue Stockings."
+        text: 'Join the Marina Youth Theatre to work together to create a show! '
   -
     type: paragraph
     content:
