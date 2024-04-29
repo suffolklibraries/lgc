@@ -1,13 +1,12 @@
 ---
-id: 116c4197-24b6-4499-8238-f0ae714677ca
-published: false
+id: d1a3b0e7-a45a-46f3-91a6-36d679de0c4c
 blueprint: events
-title: 'The Music Hour (Duplicated)'
+title: 'The Music Hour'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714388880
-start_date: '2024-09-13 13:30'
-end_date: '2024-09-13 15:00'
+updated_at: 1714389014
+start_date: '2024-09-20 13:30'
+end_date: '2024-09-20 15:00'
 event_categories:
   - music
   - later-life
