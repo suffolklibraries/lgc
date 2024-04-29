@@ -1,13 +1,12 @@
 ---
 id: ce55df05-e17a-4e39-bd5d-a3f04588e4db
-published: false
 blueprint: events
-title: 'Wolsey Writers (Duplicated)'
+title: 'Wolsey Writers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714399527
-start_date: '2024-05-04 10:30'
-end_date: '2024-05-04 12:00'
+updated_at: 1714400012
+start_date: '2024-10-05 10:30'
+end_date: '2024-10-05 12:00'
 event_categories:
   - literature
 free: false
