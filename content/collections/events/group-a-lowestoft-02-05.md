@@ -1,24 +1,23 @@
 ---
 id: 5ea4f552-e1e7-48ce-8f89-2976b0adebed
-published: false
 blueprint: events
-title: 'Group A - Youth Vocal Group in Leiston (Duplicated)'
+title: 'Group A - Youth Vocal Group in Lowestoft'
 event_categories:
   - languages
   - music
   - performance
 organisers:
   - britten-pears-arts
-start_date: '2024-06-27 16:30'
+start_date: '2024-05-02 16:30'
 free: true
 virtual: false
 attendance_information: '- Young people aged 8 - 18'
-latitude: '52.20591758071305'
-longitude: '1.5727273811032985'
-address_line_1: 'The Band Hall'
-address_line_2: '17, Victory Road'
-town: Leiston
-postcode: 'IP16 4DQ'
+latitude: '52.456816760715476'
+longitude: '1.7356360119327994'
+address_line_1: 'The Seagull Theatre'
+address_line_2: '19-75 Morton Road'
+town: Lowestoft
+postcode: 'NR33 0JH'
 content_area:
   -
     type: heading
@@ -150,66 +149,38 @@ content_area:
     content:
       -
         type: text
-        text: 'The Band Hall is a six minute away from a '
+        text: 'The Seagull is located minutes away from the Pakefield Beach. The nearest '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: "https://www.google.com/maps/dir/''/17+Victory+Rd,+Leiston+IP16+4DQ/@52.205635,1.5714698,17.25z/data=!4m14!4m13!1m5!1m1!1s0x47da278d6a90ee4f:0x1c8327c2bac8a9cc!2m2!1d1.574273!2d52.203373!1m5!1m1!1s0x47da278c4b2e0693:0x78182c3470dcf8ec!2m2!1d1.5726813!2d52.205794!3e2?entry=ttu"
+              href: 'https://www.google.com/maps/place/Kendal+Road/@52.4576983,1.7353206,19.01z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da1a4971b973c9:0x2c84b33fec5a721b!2sKendal+Road,+Lowestoft+NR33+0PD!2m2!1d1.7355958!2d52.4583896!1m6!1m2!1s0x47da1a4994894eb3:0x507aba8852d97178!2sThe+Seagull,+19-75+Morton+Rd,+Pakefield,+Lowestoft+NR33+0JH!2m2!1d1.7356033!2d52.4566925!3e2!3m5!1s0x47da1a497726cb69:0xa3de9b97c36f9552!8m2!3d52.458103!4d1.735413!16s%2Fg%2F1q67ckbl6'
               rel: null
-              target: _blank
+              target: null
               title: null
         text: 'bus stop'
       -
         type: text
-        text: ', and a six minute walk from a pay-and-display '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/place/High+Street+Car+Park/@52.2054471,1.5776241,18.5z/data=!4m6!3m5!1s0x47da279253c8a65b:0xf8b42b783536f8b!8m2!3d52.2050523!4d1.5785802!16s%2Fg%2F11tjbw6g22'
-              rel: null
-              target: null
-              title: null
-        text: 'High Street Car Park'
-      -
-        type: text
-        text: '. '
+        text: ' is only three minutes away and the routes that stop there are 99 Coastal Clipper, X2 Coastlink, 902 and X21 Coastlink. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'For further details or to arrange transport, please contact the Community Team on '
+        text: 'The closest parking is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:community@brittenpearsarts.org'
+              href: 'https://www.google.com/maps/place/Pakefield+St+Car+Park/@52.4572396,1.7325911,17.25z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da1a4971b973c9:0x2c84b33fec5a721b!2sKendal+Road,+Lowestoft+NR33+0PD!2m2!1d1.7355958!2d52.4583896!1m6!1m2!1s0x47da1a4994894eb3:0x507aba8852d97178!2sThe+Seagull,+19-75+Morton+Rd,+Pakefield,+Lowestoft+NR33+0JH!2m2!1d1.7356033!2d52.4566925!3e2!3m5!1s0x47da1b5e1c31d843:0x69c464699df856ce!8m2!3d52.4557954!4d1.7376769!16s%2Fg%2F11frs3mqjx'
               rel: null
               target: null
               title: null
-        text: community@brittenpearsarts.org
-      -
-        type: text
-        text: ' or '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01728687127'
-              rel: null
-              target: null
-              title: null
-        text: '01728 687127'
+        text: 'Pakefield St Car Park'
       -
         type: text
         text: .
@@ -221,8 +192,8 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714397376
-end_date: '2024-06-27 18:00'
+updated_at: 1714397634
+end_date: '2024-05-02 18:00'
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: 54072713-c32d-41ca-8459-cf5f7ffd7827
 ---
