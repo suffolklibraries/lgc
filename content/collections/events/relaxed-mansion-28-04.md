@@ -1,5 +1,6 @@
 ---
 id: a3c66dc5-bb48-488c-b0d3-53a810291e43
+published: false
 blueprint: events
 title: 'Christchurch Mansion - Relaxed Visits'
 event_categories:
