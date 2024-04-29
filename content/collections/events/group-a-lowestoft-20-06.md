@@ -1,15 +1,14 @@
 ---
 id: 1e9d54e8-ec26-4342-b300-d81d6c6774e9
-published: false
 blueprint: events
-title: 'Group A - Youth Vocal Group in Lowestoft (Duplicated)'
+title: 'Group A - Youth Vocal Group in Lowestoft'
 event_categories:
   - languages
   - music
   - performance
 organisers:
   - britten-pears-arts
-start_date: '2024-05-23 16:30'
+start_date: '2024-06-20 16:30'
 free: true
 virtual: false
 attendance_information: '- Young people aged 8 - 18'
@@ -193,8 +192,8 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714397773
-end_date: '2024-05-23 18:00'
+updated_at: 1714397885
+end_date: '2024-06-20 18:00'
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: 4124f15d-fbc8-49a6-8316-f577196d2483
 ---
