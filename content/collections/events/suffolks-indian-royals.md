@@ -1,14 +1,14 @@
 ---
 id: 361e8cfa-2a0a-4d81-bbf2-a0cf6a9ed83c
-published: false
 blueprint: events
-title: 'Hidden Tudors - Uncovering Black History (Duplicated)'
+title: "Talk: Maharajah Duleep Singh: Suffolk's Indian Royals"
 event_categories:
   - museums
+  - languages
 organisers:
-  - thomas-wolsey-550
-start_date: '2024-07-04 19:00'
-end_date: '2024-07-04 20:00'
+  - suffolk-archives
+start_date: '2024-06-13 19:00'
+end_date: '2024-06-13 20:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -31,53 +31,14 @@ content_area:
     content:
       -
         type: text
-        text: 'From the reign of Henry VII to Elizabeth I, it explores their diverse roles, and contributions to Tudor England. Profiles of figures like Mary Fillis and Reasonable Blackman showcase their resilience and cultural significance. '
-  -
-    type: paragraph
-    content:
+        text: 'Maharajah Duleep Singh was only 11 years old when his kingdom of Punjab was annexed by the East India Company and surrendered the famous Kohinoor diamond. He was exiled to England, became a favourite of Queen Victoria and mingled with the Prince of Wales. He chose East Anglia as his home and that is where his family resided for almost a century.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'The talk will touch on the interconnectedness of Tudor England with African History, global trade and exploration. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'By reclaiming these lost stories, it will advocate for a more inclusive understanding of history. By acknowledging and celebrating the presence of Black Tudors, the presentation encourages a broader perspective on the complexities of the past and its lasting impact.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This event is produced in partnership with '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://thomaswolsey550.co.uk/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Thomas Wolsey 550 project'
-      -
-        type: text
-        text: ' and '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://ipswichcentral.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Ipswich Central'
-      -
-        type: text
-        text: .
+        text: 'Peter Bance will be sure to keep you captivated with anecdotes of the ‘Duleep Singhs’ with unseen Victorian photography from the family’s personal albums and give an insight to this fascinating family of Historians, Archaeologists, activists, philanthropists to Suffragettes.'
   -
     type: heading
     attrs:
@@ -98,9 +59,9 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkarchives.co.uk/whats-on/'
+              href: 'https://www.ticketsource.co.uk/suffolk-archives/t-krlylvn'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: "Suffolk Archives' website"
       -
@@ -183,11 +144,11 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
+booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/t-krlylvn'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713258608
+updated_at: 1714383091
 duplicated_from: bbcfb152-38f7-4b51-8398-9a0faf93d7c6
-featured_image: wolsey550/wolsey-550-crest-1713256362.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -198,4 +159,4 @@ cta: |-
   [01473 296666](tel:01473296666)
 address_line_2: '131 Fore St'
 ---
-This presentation delves into the Tudor era, unveiling narratives of black individuals.
+This presentation delves into the Tudor era, unveiling narratives of black individuals.An enthralling talk to be given by the eminent author Peter Bance on the life of East Anglia’s most famous Royals who lived at Elveden, Old Buckenham, and Blo’ Norton.
