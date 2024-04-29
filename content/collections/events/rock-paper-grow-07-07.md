@@ -1,13 +1,12 @@
 ---
 id: 5ae1e274-82fb-4909-91dd-9e6012de0309
-published: false
 blueprint: events
-title: 'Rock Paper Grow - Family Open Studio (Duplicated)'
+title: 'Rock Paper Grow - Family Open Studio'
 event_categories:
   - nature
 organisers:
   - rock-paper-scissors
-start_date: '2024-05-26 10:00'
+start_date: '2024-07-07 10:00'
 free: true
 virtual: false
 content_area:
@@ -129,9 +128,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714402847
+updated_at: 1714402920
 featured_image: rockpaperscissorsimages/rock-paper-grow---ipswich.jpg
-end_date: '2024-05-26 12:00'
+end_date: '2024-07-07 12:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
