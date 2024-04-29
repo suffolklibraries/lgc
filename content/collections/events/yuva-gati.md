@@ -1,5 +1,6 @@
 ---
 id: 10c267ce-53da-49c0-a5a2-1d946e711b8b
+published: false
 blueprint: events
 title: 'Yuva Gati CAT Experience Workshop (Eastern Region)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
