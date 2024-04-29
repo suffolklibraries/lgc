@@ -1,14 +1,13 @@
 ---
 id: 548cfd67-646d-42c3-953c-10aa1a9be72c
-published: false
 blueprint: events
-title: 'East Suffolk Skylarks - Snape (Duplicated)'
+title: 'East Suffolk Skylarks - Snape'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2024-06-20 10:30'
-end_date: '2024-06-20 12:00'
+start_date: '2024-07-04 10:30'
+end_date: '2024-07-04 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1711471403
+updated_at: 1714398118
 free: true
 virtual: false
 organisers:
@@ -149,7 +148,7 @@ content_area:
       -
         type: text
         text: ' website.'
-attendance_information: 'Older people living with Parkinsons'
+attendance_information: "- Older people living with Parkinson's"
 address_line_1: 'The Trask'
 address_line_2: 'Snape Maltings'
 town: Snape
