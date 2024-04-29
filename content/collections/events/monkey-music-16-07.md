@@ -1,11 +1,10 @@
 ---
 id: 4bc9a675-a6ad-440d-98c3-3c94dbcb27b4
-published: false
 blueprint: events
 title: 'Marina Monkey Music'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714385432
+updated_at: 1714385560
 start_date: '2024-07-16 13:30'
 end_date: '2024-07-16 14:30'
 event_categories:
