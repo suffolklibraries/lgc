@@ -1,22 +1,21 @@
 ---
 id: 4ecb2b8e-da61-486e-8e45-40689741940e
-published: false
 blueprint: events
-title: 'Marina Monkey Music (Duplicated)'
+title: 'The Music Hour'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714386004
-start_date: '2024-09-10 13:30'
-end_date: '2024-09-10 14:30'
+updated_at: 1714387326
+start_date: '2024-05-03 13:30'
+end_date: '2024-05-03 15:00'
 event_categories:
   - music
-  - early-years
+  - later-life
 free: false
 virtual: false
 organisers:
   - marina-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Early-Years.png
+featured_image: offthepressimages/Music_white.png
 content_area:
   -
     type: heading
@@ -31,13 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Looking for a fun, friendly and supportive environment to let you baby play? Marina Monkey Music is the place for you!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Led by the Marina’s music facilitator Donna, these fun weekly sessions are for pre-walking small people and their adults to explore sound, music, stories and sensory play.'
+        text: 'Enjoy 45 minutes of music followed by 45 minutes of ‘tea and chatter’ in a relaxed and friendly environment. As well as being a fun activity for people with dementia, this group is a great respite and support for carers to enjoy as well.'
   -
     type: paragraph
     content:
@@ -50,7 +43,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.marinatheatre.co.uk/take-part-community-marina-monkey-music/'
+              href: 'https://www.marinatheatre.co.uk/the-music-hour/'
               rel: null
               target: _blank
               title: null
@@ -241,6 +234,8 @@ address_line_1: 'Marina Theatre'
 address_line_2: Marina
 postcode: 'NR32 1HH'
 duplicated_from: 1c6fe2ee-3762-412b-aad8-62d74d825a01
-cost_details: '£5 per child'
+cost_details: '£30 for a 10 week term'
+attendance_information: '- People with dementia and their carers'
+accessibility_information: '- Event space only accessible by stairs'
 ---
-Want to introduce your little one to the power of music?
+A new informal music session for people with dementia and their carers.
