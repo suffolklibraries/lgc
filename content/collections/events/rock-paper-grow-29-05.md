@@ -1,7 +1,7 @@
 ---
 id: 61a59521-5f1e-4e44-ad6a-dd218e560cc8
 blueprint: events
-title: 'Rock Paper Grow (Duplicated)'
+title: 'Rock Paper Grow'
 event_categories:
   - nature
 organisers:
@@ -117,7 +117,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714401367
+updated_at: 1714401446
 featured_image: rockpaperscissorsimages/rock-paper-grow---ipswich.jpg
 end_date: '2024-05-29 15:00'
 latitude: '52.0563490706618'
