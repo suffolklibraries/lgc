@@ -1,5 +1,6 @@
 ---
 id: a047a012-21ef-491c-8c06-325105a3a560
+published: false
 blueprint: events
 title: 'Chotto Desh Workshop'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
