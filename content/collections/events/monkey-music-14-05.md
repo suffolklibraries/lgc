@@ -1,10 +1,10 @@
 ---
 id: f6186040-3ab1-4083-8dd3-030906bc49e6
 blueprint: events
-title: 'Marina Monkey Magic'
+title: 'Marina Monkey Music'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714385007
+updated_at: 1714385100
 start_date: '2024-05-14 13:30'
 end_date: '2024-05-14 14:30'
 event_categories:
