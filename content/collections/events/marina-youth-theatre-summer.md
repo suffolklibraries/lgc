@@ -1,13 +1,12 @@
 ---
 id: 3ae46669-7c04-42c9-8d80-15f806ed5a34
-published: false
 blueprint: events
-title: 'The Music Hour (Duplicated)'
+title: 'Marina Youth Theatre and Young Company'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714389080
-start_date: '2024-09-27 13:30'
-end_date: '2024-09-27 15:00'
+updated_at: 1714389573
+start_date: '2024-04-27 09:30'
+end_date: '2024-07-20 12:30'
 event_categories:
   - music
   - later-life
@@ -16,7 +15,7 @@ virtual: false
 organisers:
   - marina-theatre
 town: Lowestoft
-featured_image: offthepressimages/Music_white.png
+featured_image: offthepressimages/new_resized_images/Theatre.png
 content_area:
   -
     type: heading
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Enjoy 45 minutes of music followed by 45 minutes of ‘tea and chatter’ in a relaxed and friendly environment. As well as being a fun activity for people with dementia, this group is a great respite and support for carers to enjoy as well.'
+        text: "Join the Marina Youth Theatre to work together to create a show! This term's production is Blue Stockings."
   -
     type: paragraph
     content:
@@ -44,7 +43,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.marinatheatre.co.uk/the-music-hour/'
+              href: 'https://www.marinatheatre.co.uk/take-part/youth-theatre-young-company/'
               rel: null
               target: _blank
               title: null
@@ -65,21 +64,39 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking is essential - '
+        text: 'Membership is £65 per term but there are assisted places available. If cost is a barrier, please get in touch to discuss further. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Free taster sessions are available, get in touch for more details.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Get in touch via '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:music@marinatheatre.co.uk'
+              href: 'mailto:community@marinatheatre.co.uk'
               rel: null
               target: null
               title: null
-        text: 'email music@marinatheare.co.uk'
+        text: community@marinatheatre.co.uk
       -
         type: text
-        text: ' to sign up.'
+        text: ' to find out more!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Places in Youth Theatre & Young Company this term are limited and are offered on a first come first served basis.'
   -
     type: heading
     attrs:
@@ -235,8 +252,6 @@ address_line_1: 'Marina Theatre'
 address_line_2: Marina
 postcode: 'NR32 1HH'
 duplicated_from: 116c4197-24b6-4499-8238-f0ae714677ca
-cost_details: '£3 per session'
-attendance_information: '- People with dementia and their carers'
-accessibility_information: '- Event space only accessible by stairs'
+attendance_information: '- 7 to 17 year olds'
 ---
-A new informal music session for people with dementia and their carers.
+For the first hour have fun playing theatre games and learning new skills.
