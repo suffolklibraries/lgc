@@ -1,8 +1,7 @@
 ---
 id: afbeac41-e872-40f4-b47a-d776dbad2ecf
-published: false
 blueprint: events
-title: 'Group A - Youth Vocal Group in Leiston (Duplicated)'
+title: 'Group A - Youth Vocal Group in Leiston'
 event_categories:
   - languages
   - music
@@ -221,8 +220,8 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714396836
-end_date: '2024-05-16 18:00'
+updated_at: 1714397163
+end_date: '2024-06-06 18:00'
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: 577dc1ab-f64a-4ba2-a818-325f6847e9e0
 ---
