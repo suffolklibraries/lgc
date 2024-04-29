@@ -1,5 +1,6 @@
 ---
 id: fc79affe-5caa-4d10-8c09-502ee2b6aa65
+published: false
 blueprint: events
 title: 'Rock Paper Grow'
 event_categories:
