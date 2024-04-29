@@ -1,22 +1,18 @@
 ---
 id: e2a4d986-49c4-483d-9f51-5eb343bff8c5
-published: false
 blueprint: events
-title: 'The Big Afternoon 2024 (Duplicated)'
+title: 'Wolsey Writers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712575131
-start_date: '2024-05-25 14:00'
-end_date: '2024-05-25 16:00'
+updated_at: 1714399527
+start_date: '2024-05-04 10:30'
+end_date: '2024-05-04 12:00'
 event_categories:
-  - performance
-  - music
-free: true
-virtual: false
-organisers:
-  - new-wolsey-theatre
+  - literature
+free: false
+virtual: true
 town: Ipswich
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: offthepressimages/new_resized_images/Literature.png
 content_area:
   -
     type: heading
@@ -31,7 +27,35 @@ content_area:
     content:
       -
         type: text
-        text: 'As well as our exciting professional performers, we are delighted to be partnering with a number of community groups and organisations, to bring together a day of free art, culture and fun for everyone.'
+        text: 'Our community includes novelists, scriptwriters, poets, storytellers, children’s literature, comedy, and nonfiction. We welcome writing in any genre. We welcome writers from diverse backgrounds. We welcome all levels of experience and aspirations of every size – from haiku to blockbuster trilogy.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Wolsey Writers is led by Katie Ward, an award-winning novelist and lecturer in creative writing at University of Suffolk. Every session includes tips to improve your creative practice, focused writing time, peer support and inspiration.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '‘You have boosted my ability to ‘just write’ beyond my expectations and it is helping me push my current novel forward.’'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '‘Excellent forum to meet other writers, share work and get constructive feedback.’'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '‘Humble, informative and inspirational – that is surely the success and key to Wolsey Writers.’'
   -
     type: heading
     attrs:
@@ -45,18 +69,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your '
+        text: 'Visit the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.wolseytheatre.co.uk/shows/the-big-afternoon-2024/'
+              href: 'https://www.wolseytheatre.co.uk/shows/wolsey-writers-2024/#prices'
               rel: null
               target: _blank
               title: null
-        text: 'free place here.'
+        text: 'New Wolsey Theatre website'
+      -
+        type: text
+        text: ' to book your ticket.'
   -
     type: heading
     attrs:
@@ -117,7 +144,7 @@ content_area:
               title: null
         text: 'Suffolk Onboard.'
 cta: |-
-  This event is organised by the New Wolsey Theatre
+  This event is based at the New Wolsey Theatre
 
   [https://www.wolseytheatre.co.uk/](https://www.wolseytheatre.co.uk/)
 
@@ -131,6 +158,8 @@ address_line_1: 'New Wolsey Theatre'
 address_line_2: 'Civic Drive'
 postcode: 'IP1 2AS'
 duplicated_from: 57f9777a-6c52-444a-b32a-ae701f660f4b
-booking_link: 'https://www.wolseytheatre.co.uk/shows/the-big-afternoon-2024/'
+booking_link: 'https://www.wolseytheatre.co.uk/shows/wolsey-writers-2024/#prices'
+cost_details: 'Pay as you feel'
+attendance_information: '- Ages 16 +'
 ---
-Join us for the New Wolsey Theatre's ‘Big Afternoon’ – a FREE event for all the family packed with live music, theatre, singing, dancing, a roaming magician, arts and crafts, and so much more!
+Wolsey Writers is a creative writing group based at New Wolsey Theatre since 2015.
