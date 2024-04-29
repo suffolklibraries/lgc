@@ -1,13 +1,12 @@
 ---
 id: 8bd387a6-1510-432b-886b-b47dfd8bdc58
-published: false
 blueprint: events
-title: 'Marina Monkey Music (Duplicated) (2)'
+title: 'Marina Monkey Music'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714385703
-start_date: '2024-07-23 13:30'
-end_date: '2024-07-23 14:30'
+updated_at: 1714385848
+start_date: '2024-08-13 13:30'
+end_date: '2024-08-13 14:30'
 event_categories:
   - music
   - early-years
