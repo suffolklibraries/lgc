@@ -1,5 +1,6 @@
 ---
 id: 29b2af2d-4bfe-4857-a1e8-642d59deb6db
+published: false
 blueprint: events
 title: 'Creative Space - Visual Art'
 event_categories:
