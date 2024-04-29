@@ -1,15 +1,14 @@
 ---
 id: 0ab6998f-91d0-486f-b9f4-ec81492e1bb2
-published: false
 blueprint: events
-title: 'Group A - Youth Vocal Group in Leiston (Duplicated)'
+title: 'Group A - Youth Vocal Group in Leiston'
 event_categories:
   - languages
   - music
   - performance
 organisers:
   - britten-pears-arts
-start_date: '2024-05-16 16:30'
+start_date: '2024-05-23 16:30'
 free: true
 virtual: false
 attendance_information: '- Young people aged 8 - 18'
@@ -221,8 +220,8 @@ cta: |-
 
   [01728687152](tel:01728687152)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714396836
-end_date: '2024-05-16 18:00'
+updated_at: 1714397099
+end_date: '2024-05-23 18:00'
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: 577dc1ab-f64a-4ba2-a818-325f6847e9e0
 ---
