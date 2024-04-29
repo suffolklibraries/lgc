@@ -1,13 +1,12 @@
 ---
 id: d814d16d-33a2-4e64-94d2-c307a5d894f5
-published: false
 blueprint: events
-title: 'Rock Paper Grow (Duplicated)'
+title: 'Rock Paper Grow - Family Open Studio'
 event_categories:
   - nature
 organisers:
   - rock-paper-scissors
-start_date: '2024-09-25 13:00'
+start_date: '2024-05-26 10:00'
 free: true
 virtual: false
 content_area:
@@ -24,19 +23,16 @@ content_area:
     content:
       -
         type: text
-        text: "Lead by Ellie Pearce, qualified in therapeutic horticulture, help grow\_our Urban Garden and take part in some creative activities\_at our community art studio! "
-  -
-    type: paragraph
-    content:
+        text: 'A free open studio family session, with nature activities, help grow our urban garden and take part in lots of fun creative activities!'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: "Totally free, refreshments included and we welcome\_everyone, no previous gardening or art experience\_necessary."
-  -
-    type: paragraph
-    content:
+        text: 'Refreshments are included.'
       -
-        type: text
-        text: 'Every Wednesday 1pm - 3pm.'
+        type: hardBreak
   -
     type: heading
     attrs:
@@ -50,7 +46,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just come along.'
+        text: 'Book via the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://app.acuityscheduling.com/schedule/6d59fee7/?appointmentTypeIds[]=62445892'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Rock Paper Scissors website'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -118,9 +128,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714402701
+updated_at: 1714402847
 featured_image: rockpaperscissorsimages/rock-paper-grow---ipswich.jpg
-end_date: '2024-09-25 15:00'
+end_date: '2024-05-26 12:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
@@ -129,5 +139,7 @@ town: Ipswich
 postcode: 'IP4 1NG'
 duplicated_from: fc79affe-5caa-4d10-8c09-502ee2b6aa65
 accessibility_information: '- The studio is accessible by a narrow staircase'
+attendance_information: '- Family friendly'
+booking_link: 'https://app.acuityscheduling.com/schedule/6d59fee7/?appointmentTypeIds[]=62445892'
 ---
 Help us grow our urban garden!
