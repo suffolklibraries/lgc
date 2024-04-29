@@ -1,13 +1,12 @@
 ---
 id: 31869e59-31f7-4840-b240-4527e014a58a
-published: false
 blueprint: events
-title: 'Rock Paper Grow (Duplicated)'
+title: 'Rock Paper Grow'
 event_categories:
   - nature
 organisers:
   - rock-paper-scissors
-start_date: '2024-06-19 13:00'
+start_date: '2024-07-10 13:00'
 free: true
 virtual: false
 content_area:
@@ -118,9 +117,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714401695
+updated_at: 1714402011
 featured_image: rockpaperscissorsimages/rock-paper-grow---ipswich.jpg
-end_date: '2024-06-19 15:00'
+end_date: '2024-07-10 15:00'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
