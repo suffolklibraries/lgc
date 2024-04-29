@@ -151,7 +151,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/t-xmxjkpn'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714380479
+updated_at: 1714382438
 duplicated_from: 65fde6b6-a1eb-4831-a1c6-cc08669625bb
 accessibility_information: '- wheelchair accessible'
 cta: |-
@@ -166,3 +166,4 @@ cost_details: '£2.70 per child'
 attendance_information: '- Suitable for ages 5 - 11'
 address_line_2: 'Raingate Street'
 ---
+Crafty fun with Suffolk Archives.
