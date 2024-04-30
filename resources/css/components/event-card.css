@@ -46,8 +46,8 @@
   }
 
   &__free.c-tag {
-    background: var(--lightest-green);
-    color: var(--accessible-green);
+    background: var(--green-dark);
+    color: var(--white);
     font-weight: 700;
     border-radius: 2em;
     margin-top: 0;
@@ -71,7 +71,7 @@
 
   @media (min-width: 55em) {
     &--horizontal &__link {
-      flex-wrap: nowrap;  
+      flex-wrap: nowrap;
     }
 
     &--horizontal &__image {
