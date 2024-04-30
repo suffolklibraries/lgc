@@ -1,15 +1,14 @@
 ---
 id: cfabfe23-33ed-49aa-93a3-fdbca6b156c4
-published: false
 blueprint: events
-title: 'New Angles Writers Club (Duplicated)'
+title: 'New Angles Writers Club'
 event_categories:
   - performance
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Literature.png
-start_date: '2024-06-03 19:00'
-end_date: '2024-06-03 20:30'
+start_date: '2024-06-17 19:00'
+end_date: '2024-06-17 20:30'
 free: true
 virtual: false
 latitude: '52.06333346360425'
@@ -187,7 +186,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714496298
+updated_at: 1714496336
 duplicated_from: 87b86225-92a4-4edc-9642-95e64ec180f0
 accessibility_information: '[Click here to visit the Eastern Angles website for access information](https://easternangles.co.uk/faqs#:~:text=The%20front%20door%20of%20the,steps%20to%20reach%20the%20theatre.)'
 attendance_information: '- Ages 16 +'
