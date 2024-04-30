@@ -1,5 +1,6 @@
 ---
 id: 60fd0415-eb60-4189-a31a-56177c542efb
+published: false
 blueprint: events
 title: 'Drop-In - year 7 and 8'
 organisers:
