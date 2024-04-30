@@ -4,6 +4,7 @@ blueprint: events
 title: 'New Angles Writers Club'
 event_categories:
   - performance
+  - literature
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Literature.png
@@ -186,7 +187,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714496298
+updated_at: 1714496552
 duplicated_from: 8b578cc6-17a1-47f0-a689-f0d0d80ec1f4
 accessibility_information: '[Click here to visit the Eastern Angles website for access information](https://easternangles.co.uk/faqs#:~:text=The%20front%20door%20of%20the,steps%20to%20reach%20the%20theatre.)'
 attendance_information: '- Ages 16 +'
