@@ -1,15 +1,14 @@
 ---
 id: 8b578cc6-17a1-47f0-a689-f0d0d80ec1f4
-published: false
 blueprint: events
-title: 'New Angles (Duplicated)'
+title: 'New Angles Writers Club'
 event_categories:
   - performance
 organisers:
   - eastern-angles
-featured_image: offthepressimages/Theatre.png
-start_date: '2024-04-22 09:00'
-end_date: '2024-04-22 17:00'
+featured_image: offthepressimages/new_resized_images/Literature.png
+start_date: '2024-05-20 19:00'
+end_date: '2024-05-20 20:30'
 free: true
 virtual: false
 latitude: '52.06333346360425'
@@ -32,38 +31,47 @@ content_area:
     content:
       -
         type: text
-        text: "This new, free programme will bring young people aged 9-18 in West Ipswich\_weekly fun-filled theatre workshops, developing confidence and performance skills.\_"
+        text: "Perfect for experienced playwrights and total newcomers alike, New Angles Writers club is a great opportunity to flex your creative muscles and develop your voice as a writer.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: "In addition to weekly classes, there will be multiple chances to perform throughout the year.\_"
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'The programme will split into three groups, with sessions beginning the week commencing Monday 22nd April:  '
+        text: "Sessions will feature a mix of reading and discussing well-known plays, sharing your own work and participating in creative exercises designed to fire your imagination and develop your craft.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ages 9-11: every Wednesday, 5pm-7pm '
-  -
-    type: paragraph
-    content:
+        text: 'The group is led by Eastern Angles Associate Director Callum Berridge. There is the potential that successfully developed scripts could be submitted to our '
       -
         type: text
-        text: 'Ages 12-15: every Monday, 5pm-7pm '
-  -
-    type: paragraph
-    content:
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://easternangles.co.uk/script-submissions'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Script Submissions'
       -
         type: text
-        text: 'Ages 16-18: every Monday, 5pm-7pm'
+        text: ' process and even feature in our '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://easternangles.co.uk/event/play-pizza-pints'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Play, Pizza & Pints'
+      -
+        type: text
+        text: " nights!\_"
   -
     type: heading
     attrs:
@@ -77,13 +85,27 @@ content_area:
     content:
       -
         type: text
-        text: "Registration for New Angles will open soon.\_"
+        text: 'Register your interest via '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://forms.office.com/pages/responsepage.aspx?id=9PbrrtO0D024Wz6mYbMuWRX9ujYaF1lBuVF7q72mUAVUMlBGU1BQSFlWWjYxSDExWlRZVjVRTEpRSy4u'
+              rel: null
+              target: _blank
+              title: null
+        text: 'the sign-up form'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'To register your interest, please contact Callum - '
+        text: 'If you have any questions, contact Callum for a chat - '
       -
         type: text
         marks:
@@ -154,7 +176,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://easternangles.co.uk/event/homework-club-1'
+booking_link: 'https://easternangles.co.uk/new-angles-writers-club'
 cta: |-
   This event is organised by Eastern Angles:
 
@@ -164,8 +186,9 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709743766
+updated_at: 1714496165
 duplicated_from: f03b2eea-ec23-4c72-8486-89e46c8f8293
 accessibility_information: '[Click here to visit the Eastern Angles website for access information](https://easternangles.co.uk/faqs#:~:text=The%20front%20door%20of%20the,steps%20to%20reach%20the%20theatre.)'
+attendance_information: '- Ages 16 +'
 ---
-Brand new for 2024, we’re excited to launch New Angles Youth Theatres!
+A playwrighting club for ages 16+
