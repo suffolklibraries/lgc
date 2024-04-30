@@ -1,0 +1,18 @@
+{{ if {session:has key="success"} }}
+    <div class="event_submission_flash">
+        {{ session:success }}
+    </div>
+{{ /endif }}
+
+<form action="{{ route:event-submission.store }}" method="POST">
+    {{ csrf_field }}
+    {{ partial:partial/honeypot }}
+    <div class="">
+        <label for="">Event Name</label>
+        <input type="text" name="event_name">
+    </div>
+
+    <button>
+        Submit
+    </button>
+</form>

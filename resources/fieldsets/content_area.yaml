@@ -5,35 +5,49 @@ fields:
     field:
       always_show_set_button: false
       sets:
-        youtube:
-          display: YouTube
-          fields:
-            -
-              handle: video_id
-              field:
-                input_type: text
-                antlers: false
-                display: 'Video ID'
-                type: text
-                icon: text
-                instructions: 'For video: [youtube.com/watch?v=Ji8TZqiJZ4o](https://youtube.com/watch?v=Ji8TZqiJZ4o), the ID would be: `Ji8TZqiJZ4o`'
-                listable: hidden
-                instructions_position: above
-        event:
-          display: Event
-          fields:
-            -
-              handle: events
-              field:
-                mode: default
-                create: false
-                collections:
-                  - events
-                display: Events
-                type: entries
-                icon: entries
-                listable: hidden
-                instructions_position: above
+        main:
+          display: Main
+          instructions: null
+          icon: null
+          sets:
+            youtube:
+              display: YouTube
+              instructions: null
+              icon: null
+              fields:
+                -
+                  handle: video_id
+                  field:
+                    input_type: text
+                    antlers: false
+                    display: 'Video ID'
+                    type: text
+                    icon: text
+                    instructions: 'For video: [youtube.com/watch?v=Ji8TZqiJZ4o](https://youtube.com/watch?v=Ji8TZqiJZ4o), the ID would be: `Ji8TZqiJZ4o`'
+                    listable: hidden
+                    instructions_position: above
+            event:
+              display: Event
+              instructions: null
+              icon: null
+              fields:
+                -
+                  handle: events
+                  field:
+                    mode: default
+                    create: false
+                    collections:
+                      - events
+                    display: Events
+                    type: entries
+                    icon: entries
+                    listable: hidden
+                    instructions_position: above
+            event_submission_form:
+              display: 'Event Submission Form'
+              instructions: null
+              icon: calendar-date
+              fields: {  }
       buttons:
         - h2
         - h3
@@ -62,3 +76,13 @@ fields:
       listable: hidden
       instructions_position: above
       container: assets
+      visibility: visible
+      replicator_preview: true
+      smart_typography: false
+      inline: false
+      word_count: false
+      remove_empty_nodes: false
+      antlers: false
+      collapse: false
+      previews: true
+      hide_display: false
