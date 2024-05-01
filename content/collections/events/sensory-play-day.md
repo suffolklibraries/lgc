@@ -49,7 +49,7 @@ content_area:
         text: ' Make Play'
       -
         type: text
-        text: ', local arts organisation, who are bringing their history-inspired garden specially designed for early years. '
+        text: ", local arts organisation, who are bringing their history-inspired garden. This playscape is a unique play experience for families with children under 5 to explore. Designed to ignite young imaginations and promote creative play, Wolsey’s Garden is fun and like nothing you’ve seen before!\_"
   -
     type: paragraph
     content:
@@ -207,7 +207,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714575767
+updated_at: 1714578180
 duplicated_from: f6a405da-efad-462c-b6cd-e9c6653ea99e
 event_categories:
   - nature
@@ -215,7 +215,7 @@ event_categories:
   - family-friendly
   - wellbeing
   - art
-featured_image: offthepressimages/new_resized_images/Early-Years.png
+featured_image: suffolklibrariesimages/make-play---wolseys-garden-3.jpg
 attendance_information: '- Parents, carers and their toddlers'
 cta: |-
   This event is organised by Suffolk Libraries
