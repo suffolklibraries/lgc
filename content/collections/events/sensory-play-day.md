@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join with your little one to explore nature through crafts, movement, and your senses.'
+        text: 'Join with your little one to explore the natural world through crafts, movement, and your all senses.'
   -
     type: paragraph
     content:
@@ -56,6 +56,26 @@ content_area:
       -
         type: text
         text: "There will be plenty of crafty activities for toddlers and their grown-ups to get stuck into so wear clothes you don't mind getting messy!"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This event is part of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://creativityandwellbeing.org.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Creativity and Wellbeing Week'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -187,7 +207,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714575133
+updated_at: 1714575767
 duplicated_from: f6a405da-efad-462c-b6cd-e9c6653ea99e
 event_categories:
   - nature
@@ -206,4 +226,4 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 ---
-Calling all parents and carers of toddlers! Bring your little ones for a free day of nature sensory play.
+Calling all parents and carers of toddlers! Bring your little ones for a free day of nature themed sensory play.
