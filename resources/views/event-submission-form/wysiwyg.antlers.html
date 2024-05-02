@@ -1,7 +1,30 @@
 <div class="tw-relative">
-    <div class="wysiwyg tw-bg-brand-grey/5 tw-px-3 tw-py-3">
-        <div class="editor"></div>
-        <div class="buttons tw-flex tw-items-center tw-flex-wrap tw-gap-1 tw-border tw-border-brand-grey tw-p-4">
+    <div class="wysiwyg tw-bg-brand-grey/5">
+        <div class="editor tw-relative">
+            <div class="link-modal tw-hidden tw-absolute tw-z-10 tw-top-0 tw-left-0 tw-w-full tw-h-full tw-bg-brand-grey/[0.6] tw-backdrop-blur-sm tw-flex tw-justify-center tw-py-4">
+                <div class="tw-bg-white tw-px-4 tw-py-3 tw-w-1/2 tw-flex tw-flex-col tw-gap-3 tw-rounded-md tw-items-end tw-relative">
+                    <button type="button" aria-label="close" class="link-modal-close tw-absolute tw-top-2 tw-right-2">
+                        {{ svg:x class="tw-h-5 tw-w-5" }}
+                    </button>
+
+                    <span class="tw-text-base tw-font-semibold tw-text-left tw-block tw-w-full">Create Link</span>
+
+                    {{ partial:event-submission-form/url wrapper_classes="tw-w-full" field_name="url" field_label="URL" }}
+
+                    <div class="tw-flex tw-gap-2">
+                        <button type="button" class="link-modal-remove tw-text-sm tw-block tw-bg-brand-grey/20 tw-font-semibold tw-rounded-full tw-py-2 tw-px-3">
+                            Remove
+                        </button>
+
+                        <button type="button" class="link-modal-save tw-text-sm tw-block tw-bg-brand-pink tw-font-semibold tw-text-white tw-rounded-full tw-py-2 tw-px-3">
+                            Save
+                        </button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="buttons tw-flex tw-items-center tw-flex-wrap tw-gap-1 tw-p-4">
             {{ partial:event-submission-form/editor_button icon_type="text-bold" }}
 
             {{ partial:event-submission-form/editor_button icon_type="text-italic" }}
@@ -20,6 +43,13 @@
 
             {{ partial:event-submission-form/editor_button icon_type="list-ul" }}
 
+            {{ partial:event-submission-form/editor_button icon_type="insert-link" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="paragraph-align-left" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="paragraph-align-center" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="paragraph-align-right" }}
 
         </div>
     </div>
