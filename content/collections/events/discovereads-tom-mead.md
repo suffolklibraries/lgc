@@ -14,7 +14,7 @@ longitude: '0.7114185548974681'
 address_line_1: 'Bury St Edmunds Library'
 address_line_2: "2B St Andrew's Street North"
 town: 'Bury Saint Edmunds'
-postcode: 'IP3IP33 1TZ'
+postcode: 'IP33 1TZ'
 content_area:
   -
     type: heading
@@ -268,7 +268,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714655990
+updated_at: 1714656329
 duplicated_from: 2fc98b08-62ff-4061-b23a-50044f6c81be
 event_categories:
   - literature
