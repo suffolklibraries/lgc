@@ -1,6 +1,6 @@
 {{ partial:global/page-header/default }}
 
-<div class="o-wrap o-grid o-grid--page-reverse"> 
+<div class="o-wrap {{ unless hide_sidebar }} o-grid o-grid--page-reverse {{ /unless }}">
   <main class="o-flow o-flow--l" id="main" tabindex="0">
     {{ if featured_image }}
       {{ glide:featured_image width="1251" height="834" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}
@@ -8,8 +8,10 @@
 
     {{ partial src="global/content_area" }}
   </main>
-  
-  <aside class="o-flow o-flow--m">
-    {{ partial src="events/form" }}
-  </aside>
+
+  {{ unless hide_sidebar }}
+    <aside class="o-flow o-flow--m">
+        {{ partial src="events/form" }}
+    </aside>
+  {{ /unless }}
 </div>
