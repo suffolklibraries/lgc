@@ -1,12 +1,11 @@
 ---
 id: 7f340577-8586-4f78-8737-2ed3788be380
-published: false
 blueprint: events
-title: 'DiscoveReads Author Event - Salley Vickers (Duplicated)'
+title: 'Ipswich 100: author event with Kate Thompson'
 organisers:
   - suffolk-libraries
-start_date: '2024-06-18 19:30'
-end_date: '2024-06-18 20:30'
+start_date: '2024-08-27 19:30'
+end_date: '2024-08-27 20:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
@@ -30,39 +29,39 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for an author talk with lecturer, psychoanalyst and novelist Salley Vickers, as part of our '
+        text: 'Kate will be talking to us about her career so far and her two novels, '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/annual-events/discovereads'
-              rel: null
-              target: null
-              title: null
-        text: DiscoveReads
-      -
-        type: text
-        text: " project and Ipswich 100, a celebration of Ipswich Library's centenary! Salley will be talking to us about her career so far and her book "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=2502283'
+              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3150297'
               rel: null
               target: null
               title: null
           -
             type: italic
-        text: 'The Librarian'
+        text: 'The Little Wartime Library'
       -
         type: text
-        text: ", which is one of this year's featured DiscoveReads titles."
-  -
-    type: paragraph
+        text: ' and '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3444918'
+              rel: null
+              target: null
+              title: null
+          -
+            type: italic
+        text: 'The Wartime Book Club'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -74,7 +73,7 @@ content_area:
         marks:
           -
             type: italic
-        text: 'The Librarian'
+        text: 'The Little Wartime Library'
       -
         type: text
         text: ':'
@@ -83,59 +82,28 @@ content_area:
     content:
       -
         type: text
-        text: "In 1958, Sylvia Blackwell, fresh from one of the new post-war Library Schools, takes up a job as children's librarian in a run down library in the market town of East Mole. "
+        text: "Clara Button is no ordinary librarian. While the world remains at war, in East London Clara has created the country's only underground library, built over the tracks in the disused Bethnal Green tube station. Down here a secret community thrives: with thousands of bunk beds, a nursery, a café and a theatre offering shelter, solace and escape from the bombs that fall above."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Her mission is to fire the enthusiasm of the children of East Mole for reading. But her love affair with the local married GP, and her befriending of his precious daughter, her neighbour's son and her landlady's neglected grandchild, ignite the prejudices of the town, threatening her job and the very existence of the library with dramatic consequences for them all."
+        text: "Along with her glamorous best friend and library assistant Ruby Munroe, Clara ensures the library is the beating heart of life underground. But as the war drags on, the women's determination to remain strong in the face of adversity is tested to the limits when it seems it may come at the price of keeping those closest to them alive."
   -
     type: paragraph
     content:
+      -
+        type: text
+        text: 'Based on true events, '
       -
         type: text
         marks:
           -
             type: italic
-        text: 'The Librarian'
+        text: 'The Little Wartime Library'
       -
         type: text
-        text: ' is a moving testament to the joy of reading and the power of books to change and inspire us all.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'About DiscoveReads:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'DiscoveReads is our programme to help you find new and exciting reads and get you talking about books. With a selection of five great books recommended by readers, DiscoveReads is a unique way to take your reading to new places. All you need is your library card and an open mind!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find out more about our '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/annual-events/discovereads'
-              rel: null
-              target: null
-              title: null
-        text: DiscoveReads
-      -
-        type: text
-        text: ' programme.'
+        text: ' is a gripping and heart-wrenching page-turner that remembers one of the greatest resistance stories of the war.'
   -
     type: heading
     attrs:
@@ -156,7 +124,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-lecturer-and-psychoanalyst-salley-vickers'
+              href: 'https://www.suffolklibraries.co.uk/whats-on/ipswich-100-author-event-with-kate-thompson'
               rel: null
               target: _blank
               title: null
@@ -281,7 +249,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714656265
+updated_at: 1714657166
 duplicated_from: 8eb13f6b-b528-4b4b-95e5-d45846cb26de
 event_categories:
   - literature
@@ -294,7 +262,7 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-cost_details: '£5 including refreshments'
-booking_link: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-lecturer-and-psychoanalyst-salley-vickers'
+cost_details: £5
+booking_link: 'https://www.suffolklibraries.co.uk/whats-on/ipswich-100-author-event-with-kate-thompson'
 ---
-DiscoveReads is Suffolk Libraries programme to help you find new and exciting reads and get you talking about books.
+Join us for an author event with Kate Thompson as part of Ipswich 100, a celebration of Ipswich Library's centenary!
