@@ -22,7 +22,21 @@ class StoreEventSubmissionRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'event_name' => ['required']
+            'title' => ['required'],
+            'description' => [],
+            'start' => [],
+            'end' => [],
+            'free' => [],
+            'virtual' => [],
+            'attendance_information' => [],
+            'accessibility_information' => [],
+            'address_line_1' => [],
+            'address_line_2' => [],
+            'town' => [],
+            'postcode' => [],
+            'lat' => [],
+            'lng' => [],
+            'content' => []
         ];
     }
 }

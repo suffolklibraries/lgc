@@ -12,11 +12,14 @@ class EventSubmissionController extends Controller
     public function store(StoreEventSubmissionRequest $request): RedirectResponse
     {
 
+        ray($request);
+
         $entry = Entry::make()
             ->collection('events')
             ->published(false)
             ->data([
-                'title' => $request->event_name
+                'title' => $request->title,
+                'content_area' => $request->content,
             ]);
 
         $entry->save();
