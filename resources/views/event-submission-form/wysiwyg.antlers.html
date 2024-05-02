@@ -1,0 +1,37 @@
+<div class="tw-relative">
+    <div class="wysiwyg tw-bg-brand-grey/5 tw-px-3 tw-py-3">
+        <div class="editor"></div>
+        <div class="buttons tw-flex tw-items-center tw-flex-wrap tw-gap-1 tw-border tw-border-brand-grey tw-p-4">
+            {{ partial:event-submission-form/editor_button icon_type="text-bold" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="text-italic" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="text-underline" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="h1" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="h2" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="h3" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="h4" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="list-ol" }}
+
+            {{ partial:event-submission-form/editor_button icon_type="list-ul" }}
+
+
+        </div>
+    </div>
+
+
+    {{# <label
+        class="tw-pointer-events-none tw-absolute motion-safe:tw-transition-all tw-text-brand-grey/80 tw-text-xs tw-top-1 tw-left-3 tw-font-medium
+            peer-placeholder-shown:tw-left-3 peer-placeholder-shown:tw-top-4 peer-placeholder-shown:tw-font-normal peer-placeholder-shown:tw-text-base
+            peer-focus:tw-text-xs peer-focus:tw-top-1 peer-focus:tw-font-medium
+        "
+        for="{{ field_name }}"
+    >
+        {{ field_label }}
+    </label> #}}
+</div>

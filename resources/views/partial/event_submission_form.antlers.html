@@ -4,15 +4,65 @@
     </div>
 {{ /endif }}
 
-<form action="{{ route:event-submission.store }}" method="POST">
+<form
+    action="{{ route:event-submission.store }}"
+    method="POST"
+    class="event-submission-form tw-max-w-[832px] tw-mx-auto tw-shadow-brand tw-p-10 tw-flex tw-flex-col tw-gap-10"
+>
     {{ csrf_field }}
     {{ partial:partial/honeypot }}
-    <div class="">
-        <label for="">Event Name</label>
-        <input type="text" name="event_name">
-    </div>
 
-    <button>
+    {{ partial:event-submission-form/section section_title="Event Information" }}
+        {{ partial:event-submission-form/text field_label="Event Title" field_name="title" }}
+
+        {{ partial:event-submission-form/textarea field_label="Description" field_name="description" }}
+
+
+        <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+            {{ partial:event-submission-form/datetime min="{now | format='Y-m-d\\TH:i'}" value="{now | format='Y-m-d\\TH:i'}" field_label="Start Time" field_name="start" }}
+
+            {{ partial:event-submission-form/datetime min="{now | format='Y-m-d\\TH:i'}" value="{now | format='Y-m-d\\TH:i'}" field_label="End Time" field_name="end" }}
+        </div>
+
+    {{ /partial:event-submission-form/section }}
+
+    {{# {{ partial:event-submission-form/section section_title="Event Options" }}
+
+        {{ partial:event-submission-form/toggle field_label="Free Event" field_name="free" }}
+
+        {{ partial:event-submission-form/toggle field_label="Virtual Event" field_name="virtual" }}
+
+        {{ partial:event-submission-form/textarea field_label="Attendance Information" field_name="attendance_information" }}
+
+        {{ partial:event-submission-form/textarea field_label="Accessibility Information" field_name="accessibility_information" }}
+
+    {{ /partial:event-submission-form/section }}
+
+    {{ partial:event-submission-form/section section_title="Location" }}
+
+        {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
+
+        <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+            {{ partial:event-submission-form/text field_label="Address Line 1" field_name="address_line_1" }}
+            {{ partial:event-submission-form/text field_label="Address Line 2" field_name="address_line_2" }}
+            {{ partial:event-submission-form/text field_label="Town" field_name="town" }}
+            {{ partial:event-submission-form/text field_label="Post Code" field_name="postcode" }}
+        </div>
+
+
+        <input type="hidden" name="lat">
+        <input type="hidden" name="lng">
+
+    {{ /partial:event-submission-form/section }} #}}
+
+    {{ partial:event-submission-form/section section_title="Content" }}
+
+        {{# {{ partial:event-submission-form/textarea field_label="Content Area" field_name="content"}} #}}
+        {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}
+    {{ /partial:event-submission-form/section }}
+
+
+    <button type="submit">
         Submit
     </button>
 </form>
