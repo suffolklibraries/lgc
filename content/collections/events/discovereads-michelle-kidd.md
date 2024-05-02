@@ -1,8 +1,7 @@
 ---
 id: 1a114332-b2aa-4d45-9ac2-2e72ffe78aee
-published: false
 blueprint: events
-title: 'DiscoveReads - An Audience with Jill Dawson (Duplicated)'
+title: 'DiscoveReads - An Audience with Michelle Kidd'
 organisers:
   - suffolk-libraries
 start_date: '2024-06-13 14:00'
@@ -30,54 +29,22 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a free afternoon author talk with Jill Dawson, award-winning poet and writer! Jill will be talking to us about her writing career and her latest novel, '
+        text: 'Join us for a free afternoon author talk with Michelle Kidd, author of the DI Jack MacIntosh series! Michelle will be talking to us about her writing career and her latest book, '
       -
         type: text
         marks:
           -
             type: italic
-        text: 'The Bewitching'
+        text: 'Three Broken Bodies'
       -
         type: text
-        text: .
+        text: ', and the next instalment she is currently working on.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Jill will also be signing copies of her books. This event is free to attend but refreshments will be available for a donation.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'About Jill Dawson:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Jill Dawson is the author of several novels including '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Crime Writer'
-      -
-        type: text
-        text: ', which won the East Anglian Book of the Year, and '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Language of Birds'
-      -
-        type: text
-        text: '. An award-winning poet, she has also edited several poetry and short story anthologies.'
+        text: 'Michelle will bring copies of all books which will be available for people to purchase. This event is free to attend but refreshments will be available for a donation.'
   -
     type: paragraph
   -
@@ -85,56 +52,13 @@ content_area:
     content:
       -
         type: text
-        text: 'About '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Bewitching'
-      -
-        type: text
-        text: ':'
+        text: 'About Michelle Kidd:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Alice Samuel might be old and sharp-tongued but she’s no fool. Visiting her new neighbours in her Fenland village, she can tell Squire Throckmorton’s family is troubled. Yet when one of the daughters accuses her of witchcraft, Alice fails to grasp the danger she faces.'
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'About DiscoveReads:'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'DiscoveReads is our programme to help you find new and exciting reads and get you talking about books. With a selection of five great books recommended by readers, DiscoveReads is a unique way to take your reading to new places. All you need is your library card and an open mind!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find out more about our '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/annual-events/discovereads'
-              rel: null
-              target: null
-              title: null
-        text: DiscoveReads
-      -
-        type: text
-        text: ' programme.'
+        text: 'Michelle Kidd always aspired to be an author from a very young age, but normal life got in the way and instead qualified as a lawyer in the early 1990s. Civil and Criminal Litigation kept her busy for the next decade, but the dream to write books was never far away, and in the summer of 2008 she began penning what was to become her first published book.'
   -
     type: heading
     attrs:
@@ -224,7 +148,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714657199
+updated_at: 1714657303
 duplicated_from: 987cbf88-7494-47b0-ad8d-5689b6947248
 event_categories:
   - literature
