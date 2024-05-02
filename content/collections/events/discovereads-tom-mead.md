@@ -1,21 +1,20 @@
 ---
 id: bd4a7e28-ce6f-40ed-8814-93a74da668cd
-published: false
 blueprint: events
-title: 'DiscoveReads Author Interview - Kate Sawyer (Duplicated)'
+title: 'DiscoveReads Author Event - Tom Mead'
 organisers:
   - suffolk-libraries
-start_date: '2024-06-07 19:00'
-end_date: '2024-06-07 20:00'
+start_date: '2024-06-12 18:30'
+end_date: '2024-06-13 19:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
-latitude: '52.2541061868639'
-longitude: '0.8108773994572002'
-address_line_1: 'Thurston Library'
-address_line_2: Thurston
+latitude: '52.248209888388686'
+longitude: '0.7114185548974681'
+address_line_1: 'Bury St Edmunds Library'
+address_line_2: "2B St Andrew's Street North"
 town: 'Bury Saint Edmunds'
-postcode: 'IP31 3SD'
+postcode: 'IP3IP33 1TZ'
 content_area:
   -
     type: heading
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for an author event with dystopian thriller novelist Kate Sawyer, as part of our '
+        text: 'Join us for an author talk with locked-room murder mystery novelist Tom Mead, as part of our '
       -
         type: text
         marks:
@@ -44,20 +43,20 @@ content_area:
         text: DiscoveReads
       -
         type: text
-        text: ' project! Kate will be talking to us about her career so far and her award-winning novel '
+        text: ' project! Tom will be talking to us about his career so far and his debut crime thriller '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3088382'
+              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3367434'
               rel: null
               target: null
               title: null
           -
             type: italic
-        text: 'The Stranding'
+        text: 'Death and the Conjuror'
       -
         type: text
         text: ", which is one of this year's featured DiscoveReads titles."
@@ -74,7 +73,7 @@ content_area:
         marks:
           -
             type: italic
-        text: 'The Stranding'
+        text: 'Death and the Conjuror'
       -
         type: text
         text: ':'
@@ -83,19 +82,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Every ending is a new beginning.'
+        text: '1936, London. A celebrity psychiatrist is discovered dead in his locked study. There seems to be no way a killer could have escaped unseen. There are no clues, no witnesses, and no evidence of the murder weapon. Stumped by the confounding scene, Inspector Flint, the Scotland Yard detective on the case, calls on retired stage magician turned part-time sleuth Joseph Spector.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ruth lives in the heart of the city. Working, drinking, falling in love: the rhythm of her vivid and complicated life is set against a background hum of darkening news reports from which she deliberately turns away. When a new romance becomes claustrophobic, Ruth chooses to leave behind the failing relationship, but also her beloved friends and family, and travels to the other side of the world in pursuit of her dream life working with whales in New Zealand.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'But when Ruth arrives, the news cycle she has been ignoring for so long is now the new reality. Far from home and with no real hope of survival, she finds herself climbing into the mouth of a beached whale alongside a stranger. When she emerges, it is to a landscape that bears no relation to the world they knew before. When all has been razed to the ground, what does it mean to build a life?'
+        text: 'Spector has a knack for explaining the inexplicable, but even he finds that there is more to this mystery than meets the eye. As he and the Inspector interview the colourful cast of suspects, they uncover no shortage of dark secrets... or motives for murder. And when a second murder occurs, this time in an impenetrable elevator, they realise the crime wave will become even more deadly unless they can catch the culprit soon.'
   -
     type: paragraph
   -
@@ -150,7 +143,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-kate-sawyer'
+              href: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-locked-room-mystery-novelist-tom-mead'
               rel: null
               target: _blank
               title: null
@@ -171,73 +164,82 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a small amount of parking at '
+        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/visit/locations-and-times/thurston-library?page=2'
-              rel: null
-              target: null
-              title: null
-        text: 'Thurston Library'
-      -
-        type: text
-        text: ' or '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ncp.co.uk/find-a-car-park/car-parks/thurston-station-greater-anglia/'
-              rel: null
-              target: null
-              title: null
-        text: 'pay and display car park'
-      -
-        type: text
-        text: ' at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/trs'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
               rel: null
               target: _blank
               title: null
-        text: 'Thurston train station'
+        text: 'Suffolk Onboard website'
       -
         type: text
-        text: ' a 10 minute walk away. The nearest bus stop is a two minute walk away, '
+        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'see the latest bus timetables here.'
+        text: 'Greater Anglia website'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Find accessibility information for Thurston Library on '
+        text: 'There is car parking at the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/thurston-library'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Arc shopping centre'
+      -
+        type: text
+        text: ', which a six minute walk away from the library, and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'St Andrews Flexi-Stay car park'
+      -
+        type: text
+        text: ', which is a five minute walk.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for Bury St Edmunds Library on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
               rel: null
               target: _blank
               title: null
@@ -266,7 +268,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714655164
+updated_at: 1714655990
 duplicated_from: 2fc98b08-62ff-4061-b23a-50044f6c81be
 event_categories:
   - literature
@@ -280,6 +282,6 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 cost_details: '£5 including refreshments'
-booking_link: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-kate-sawyer'
+booking_link: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-locked-room-mystery-novelist-tom-mead'
 ---
 DiscoveReads is Suffolk Libraries programme to help you find new and exciting reads and get you talking about books.
