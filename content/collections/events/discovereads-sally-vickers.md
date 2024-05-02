@@ -1,21 +1,20 @@
 ---
 id: 8eb13f6b-b528-4b4b-95e5-d45846cb26de
-published: false
 blueprint: events
-title: 'DiscoveReads Author Event - Tom Mead (Duplicated)'
+title: 'DiscoveReads Author Event - Salley Vickers'
 organisers:
   - suffolk-libraries
-start_date: '2024-06-12 18:30'
-end_date: '2024-06-13 19:30'
+start_date: '2024-06-18 19:30'
+end_date: '2024-06-18 20:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
-latitude: '52.248209888388686'
-longitude: '0.7114185548974681'
-address_line_1: 'Bury St Edmunds Library'
-address_line_2: "2B St Andrew's Street North"
-town: 'Bury Saint Edmunds'
-postcode: 'IP3IP33 1TZ'
+latitude: '52.05888302273206'
+longitude: '1.1563992273587602'
+address_line_1: 'Ipswich Library'
+address_line_2: 'Northgate Street'
+town: Ipswich
+postcode: 'IP1 3DE'
 content_area:
   -
     type: heading
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for an author talk with locked-room murder mystery novelist Tom Mead, as part of our '
+        text: 'Join us for an author talk with lecturer, psychoanalyst and novelist Salley Vickers, as part of our '
       -
         type: text
         marks:
@@ -44,20 +43,20 @@ content_area:
         text: DiscoveReads
       -
         type: text
-        text: ' project! Tom will be talking to us about his career so far and his debut crime thriller '
+        text: " project and Ipswich 100, a celebration of Ipswich Library's centenary! Salley will be talking to us about her career so far and her book "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3367434'
+              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=2502283'
               rel: null
               target: null
               title: null
           -
             type: italic
-        text: 'Death and the Conjuror'
+        text: 'The Librarian'
       -
         type: text
         text: ", which is one of this year's featured DiscoveReads titles."
@@ -74,7 +73,7 @@ content_area:
         marks:
           -
             type: italic
-        text: 'Death and the Conjuror'
+        text: 'The Librarian'
       -
         type: text
         text: ':'
@@ -83,13 +82,25 @@ content_area:
     content:
       -
         type: text
-        text: '1936, London. A celebrity psychiatrist is discovered dead in his locked study. There seems to be no way a killer could have escaped unseen. There are no clues, no witnesses, and no evidence of the murder weapon. Stumped by the confounding scene, Inspector Flint, the Scotland Yard detective on the case, calls on retired stage magician turned part-time sleuth Joseph Spector.'
+        text: "In 1958, Sylvia Blackwell, fresh from one of the new post-war Library Schools, takes up a job as children's librarian in a run down library in the market town of East Mole. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Spector has a knack for explaining the inexplicable, but even he finds that there is more to this mystery than meets the eye. As he and the Inspector interview the colourful cast of suspects, they uncover no shortage of dark secrets... or motives for murder. And when a second murder occurs, this time in an impenetrable elevator, they realise the crime wave will become even more deadly unless they can catch the culprit soon.'
+        text: "Her mission is to fire the enthusiasm of the children of East Mole for reading. But her love affair with the local married GP, and her befriending of his precious daughter, her neighbour's son and her landlady's neglected grandchild, ignite the prejudices of the town, threatening her job and the very existence of the library with dramatic consequences for them all."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'The Librarian'
+      -
+        type: text
+        text: ' is a moving testament to the joy of reading and the power of books to change and inspire us all.'
   -
     type: paragraph
   -
@@ -144,7 +155,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-locked-room-mystery-novelist-tom-mead'
+              href: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-lecturer-and-psychoanalyst-salley-vickers'
               rel: null
               target: _blank
               title: null
@@ -165,89 +176,89 @@ content_area:
     content:
       -
         type: text
-        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
+        text: 'Ipswich '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'railway station'
       -
         type: text
-        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
+        text: ' is a 21 minute walk away from the library, and the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
+              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: 'Tower Ramparts bus station'
+      -
+        type: text
+        text: ' is a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are several nearby carparks, including '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Crown Street car park'
+      -
+        type: text
+        text: ' a six minute walk away and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.buttermarketipswich.com/Parking/'
+              rel: null
+              target: _blank
+              title: null
+        text: Buttermarket
+      -
+        type: text
+        text: ' a seven minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Ipswich County Library using AccessAble'
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is car parking at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Arc shopping centre'
-      -
-        type: text
-        text: ', which a six minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'St Andrews Flexi-Stay car park'
-      -
-        type: text
-        text: ', which is a five minute walk.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for Bury St Edmunds Library on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
-              rel: null
-              target: _blank
-              title: null
-        text: AccessAble
-      -
-        type: text
-        text: '. '
   -
     type: paragraph
     content:
@@ -269,7 +280,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714655990
+updated_at: 1714656265
 duplicated_from: bd4a7e28-ce6f-40ed-8814-93a74da668cd
 event_categories:
   - literature
@@ -283,6 +294,6 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 cost_details: '£5 including refreshments'
-booking_link: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-locked-room-mystery-novelist-tom-mead'
+booking_link: 'https://www.suffolklibraries.co.uk/whats-on/discovereads-author-event-with-lecturer-and-psychoanalyst-salley-vickers'
 ---
 DiscoveReads is Suffolk Libraries programme to help you find new and exciting reads and get you talking about books.
