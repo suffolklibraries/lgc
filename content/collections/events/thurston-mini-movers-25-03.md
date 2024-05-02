@@ -5,7 +5,7 @@ blueprint: events
 title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710773442
+updated_at: 1714655203
 latitude: '52.254247380478446'
 longitude: '0.8108022965405455'
 start_date: '2024-03-25 10:00'
@@ -119,7 +119,21 @@ content_area:
         text: 'pay and display car park'
       -
         type: text
-        text: ' at Thurston train station a 10 minute walk away. The nearest bus stop is a two minute walk away, '
+        text: ' at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/trs'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Thurston train station'
+      -
+        type: text
+        text: ' a 10 minute walk away. The nearest bus stop is a two minute walk away, '
       -
         type: text
         marks:
@@ -131,6 +145,46 @@ content_area:
               target: null
               title: null
         text: 'see the latest bus timetables here.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for Thurston Library on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/thurston-library'
+              rel: null
+              target: _blank
+              title: null
+        text: AccessAble
+      -
+        type: text
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Plan your journey using '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard'
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by Dance East:
 
