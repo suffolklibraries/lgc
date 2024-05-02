@@ -1,7 +1,7 @@
 ---
 id: 28ab0248-2ada-4923-84ed-b6dc74ba9059
 blueprint: events
-title: 'DiscoveReads - Aurthor Event with Sam Knight'
+title: 'DiscoveReads - Author Event with Sam Knight'
 organisers:
   - suffolk-libraries
 start_date: '2024-06-20 18:30'
@@ -170,7 +170,7 @@ content_area:
     attrs:
       level: 2
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714656990
+updated_at: 1714657251
 duplicated_from: 987cbf88-7494-47b0-ad8d-5689b6947248
 event_categories:
   - literature
