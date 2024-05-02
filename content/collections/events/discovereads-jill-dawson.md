@@ -12,7 +12,7 @@ accessibility_information: '- Wheelchair Friendly'
 latitude: '52.34306270942422'
 longitude: '0.5003164414102549'
 address_line_1: 'Mildenhall Library'
-address_line_2: 'Mildenhall Hub, Sheldrick Way,'
+address_line_2: 'Mildenhall Hub, Sheldrick Way'
 town: 'Mildenhall, Bury Saint Edmunds'
 postcode: 'IP28 7JX'
 content_area:
@@ -223,7 +223,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714656835
+updated_at: 1714657199
 duplicated_from: 8eb13f6b-b528-4b4b-95e5-d45846cb26de
 event_categories:
   - literature
