@@ -1,5 +1,6 @@
 ---
 id: 5ea4f552-e1e7-48ce-8f89-2976b0adebed
+published: false
 blueprint: events
 title: 'Group A - Youth Vocal Group in Lowestoft'
 event_categories:
