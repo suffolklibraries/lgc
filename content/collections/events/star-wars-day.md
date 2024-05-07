@@ -1,5 +1,6 @@
 ---
 id: 457ffec7-1610-4f2b-9c79-4b948ee0d07c
+published: false
 blueprint: events
 title: 'Star Wars Day'
 latitude: '52.47146825080719'
