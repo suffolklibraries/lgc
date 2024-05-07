@@ -1,5 +1,6 @@
 ---
 id: b27b5c79-5b94-478c-95e9-e9d6bdb19f36
+published: false
 blueprint: events
 title: 'Lowestoft Live presents... CUSP, Pretty Terry and Kitty May'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
