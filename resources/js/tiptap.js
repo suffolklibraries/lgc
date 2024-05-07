@@ -225,6 +225,9 @@ export function initTipTap(element, content) {
         updateButton(OrderedListButton, 'orderedList')
         updateButton(BulletListButton, 'bulletList')
         updateButton(LinkButton, 'link')
+        updateButton(AlignRightButton, {textAlign: 'right'})
+        updateButton(AlignCenterButton, {textAlign: 'center'})
+        updateButton(AlignLeftButton, {textAlign: 'left'})
     }
 
     return editor
