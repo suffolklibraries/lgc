@@ -1,5 +1,6 @@
 ---
 id: f503f945-bde5-466a-86b9-a66585e619a8
+published: false
 blueprint: events
 title: 'Little Lights Art Cafes'
 organisers:
@@ -141,7 +142,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713286405
+updated_at: 1715070904
 featured_image: cohere/little-lights-art-cafes---credit-cohere-arts.webp
 duplicated_from: a2904f5b-76e1-4ead-b9d2-79e43f2b92f8
 latitude: '52.05949011341991'
