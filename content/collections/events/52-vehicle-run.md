@@ -1,5 +1,6 @@
 ---
 id: 9d4bb2c2-85a6-4e9a-95d0-a4f744e8d749
+published: false
 blueprint: events
 title: '52nd Ipswich to Felixstowe Historic Vehicle Run'
 latitude: '52.064008593875606'
