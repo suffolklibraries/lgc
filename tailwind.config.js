@@ -45,5 +45,6 @@ module.exports = {
   variants: {},
   plugins: [
     require('@tailwindcss/typography'),
+    require('tailwind-scrollbar')({ nocompatible: true }),
   ],
 }
