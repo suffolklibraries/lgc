@@ -36,6 +36,18 @@ module.exports = {
                             margin: 0,
                         },
                     },
+                    h1: {
+                        fontWeight: 500
+                    },
+                    h2: {
+                        fontWeight: 500
+                    },
+                    h3: {
+                        fontWeight: 500
+                    },
+                    h4: {
+                        fontWeight: 500
+                    }
                 }
 
             }
