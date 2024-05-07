@@ -1,5 +1,6 @@
 ---
 id: b7b68900-912a-4c20-8b7a-f02668d74e97
+published: false
 blueprint: events
 title: 'Seagull Sunday Sessions'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
