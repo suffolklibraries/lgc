@@ -1,0 +1,237 @@
+
+<!-- Define component with preselected options -->
+<div class="w-full" x-data="alpineMultiSelect({selected:[], elementId:'{{ field_name }}'})">
+
+    <!-- Select Options -->
+    <select class="tw-hidden" id="{{ field_name }}">
+        {{ options }}
+            <option value="{{ id }}" data-search="{{ title }}">{{ title }}</option>
+        {{ /options }}
+    </select>
+
+    <div class="tw-w-full tw-flex tw-flex-col tw-items-center  tw-mx-auto" @keyup.alt="toggle">
+        <!-- Selected Teams -->
+        <input name="{{ field_name }}[]" type="hidden" x-bind:value="selectedValues()">
+
+        <div class="tw-inline-block tw-relative tw-w-full">
+
+            <div class="tw-flex tw-flex-col tw-items-center tw-relative">
+
+                <!-- Selected elements container -->
+                <div class="tw-w-full">
+                    <div class="tw-py-4 tw-px-3 tw-flex tw-bg-brand-grey/5">
+                        <div class="tw-flex tw-flex-auto tw-flex-wrap" x-on:click="open">
+                            <!-- iterating over selected elements -->
+                            <template x-for="(option,index) in selectedElms" :key="option.value">
+                                <div x-show="index < 2"
+                                    class="tw-flex tw-justify-center tw-items-center tw-m-1 tw-font-medium tw-py-1 tw-px-2 tw-rounded-full tw-text-indigo-700 tw-bg-indigo-100 tw-border tw-border-indigo-300 ">
+                                    <div class="tw-text-xs tw-font-normal tw-leading-none tw-max-w-full tw-flex-initial"
+                                        x-model="selectedElms[option]" x-text="option.text"></div>
+                                    <div class="tw-flex tw-flex-auto tw-flex-row-reverse">
+                                        <button x-on:click.stop="remove(index,option)">
+                                            <svg xmlns="http://www.w3.org/2000/svg" class="tw-h-6 tw-w-6 tw-ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                                                <path stroke-linecap="round" stroke-linejoin="round" d="M10 14l2-2m0 0l2-2m-2 2l-2-2m2 2l2 2m7-2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                            </svg>
+                                        </button>
+                                    </div>
+                                </div>
+                            </template>
+
+                            <!-- None items selected -->
+                            <div x-show="selectedElms.length == 0" class="tw-flex-1">
+                                <input placeholder="Please select" class="tw-text-base tw-bg-transparent tw-border-0 tw-p-1 tw-px-2 tw-appearance-none tw-outline-none tw-h-full tw-w-full tw-text-brand-grey" x-bind:value="selectedElements()">
+                            </div>
+                        </div>
+
+                        <!-- Drop down toogle with icons-->
+                        <div class="tw-text-brand-grey tw-w-8 tw-py-1 tw-pl-2 tw-pr-1 tw-flex tw-items-center">
+                            <button type="button" x-on:click="open()" class="tw-cursor-pointer tw-w-6 tw-h-6 tw-text-brand-grey tw-outline-none focus:tw-outline-none">
+                                {{ svg:chevron-down class="tw-w-4 tw-h-4" }}
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Dropdown container -->
+                <div class="tw-w-full">
+                    <div x-show.transition.origin.top="isOpen()" x-trap="isOpen()" class="tw-absolute tw-shadow-lg tw-top-100 tw-bg-white tw-z-[5] tw-w-full tw-left-0 tw-rounded tw-max-h-80" x-on:click.away="close">
+                        <div class="tw-flex tw-flex-col tw-w-full">
+
+                            <div class="tw-px-2 tw-py-4 tw-border-b-2">
+                                <!-- Search input-->
+                                <div class="tw-mt-1 tw-relative tw-rounded-md tw-shadow-sm">
+                                    <div class="tw-absolute tw-inset-y-0 tw-left-0 tw-pl-3 tw-flex tw-items-center tw-pointer-events-none">
+                                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                                            <path stroke-linecap="round" stroke-linejoin="round"
+                                                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                                        </svg>
+                                    </div>
+                                    <input type="text" name="search" autocomplete="off" id="search" x-model.debounce.750ms="search" class="focus:tw-ring-indigo-500 focus:tw-border-indigo-500 tw-block tw-w-full tw-pl-10 sm:tw-text-sm tw-border tw-border-indigo-300 tw-rounded-md tw-h-10" placeholder="" @keyup.escape="clear"
+                                        @keyup.delete="deselect">
+                                    <div class="tw-absolute tw-inset-y-0 tw-right-0 tw-flex tw-py-1.5 tw-pr-1.5">
+                                        <kbd class="tw-inline-flex tw-items-center tw-border tw-border-gray-200 tw-rounded tw-px-2 tw-text-sm tw-font-sans tw-font-medium tw-text-gray-400 tw-mr-2" x-on:click="clear">
+                                            Esc
+                                        </kbd>
+                                        <kbd class="tw-inline-flex tw-items-center tw-border tw-border-gray-200 tw-rounded tw-px-2 tw-text-sm tw-font-sans tw-font-medium tw-text-gray-400" x-on:click="deselect">
+                                            Del
+                                        </kbd>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Options container -->
+                            <ul class="tw-z-[5] tw-mt-0 tw-w-full tw-bg-white tw-shadow-lg tw-max-h-80 tw-rounded-md tw-py-0 tw-text-base tw-ring-1 tw-ring-black tw-ring-opacity-5 focus:tw-outline-none  tw-overflow-y-auto tw-scrollbar tw-scrollbar-track-transparent tw-scrollbar-thumb-brand-pink sm:tw-text-sm" tabindex="-1" role="listbox" @keyup.delete="deselect">
+                                <template x-for="(option,index) in options" :key="option.text">
+                                    <li class="tw-text-gray-900 te-cursor-default tw-select-none tw-relative tw-py-2 tw-pl-3 tw-pr-3"
+                                        role="option">
+                                        <div class="tw-cursor-pointer tw-w-full tw-border-gray-100 tw-rounded-t tw-border-b hover:tw-bg-slate-100"
+                                            x-bind:class="option.selected ? 'tw-bg-indigo-100' : ''"
+                                            @click="select(index,$event)">
+                                            <div x-bind:class="option.selected ? 'tw-border-indigo-600' : ''"
+                                                class="tw-flex tw-w-full tw-items-center tw-p-2 tw-pl-2 tw-border-transparent tw-border-l-2 tw-relative">
+                                                <div class="tw-w-full tw-items-center tw-flex">
+                                                    <div class="tw-mx-2 tw-leading-6" x-model="option"
+                                                        x-text="option.text"></div>
+                                                    <span
+                                                        class="tw-absolute tw-inset-y-0 tw-right-0 tw-flex tw-items-center tw-pr-4 tw-text-indigo-600"
+                                                        x-show="option.selected">
+
+                                                        <svg class="h-5 w-5" xmlns="http://www.w3.org/2000/svg"
+                                                            viewBox="0 0 20 20" fill="currentColor"
+                                                            aria-hidden="true">
+                                                            <path fill-rule="evenodd"
+                                                                d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"
+                                                                clip-rule="evenodd" />
+                                                        </svg>
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </template>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener("alpine:init", () => {
+        Alpine.data("alpineMultiSelect", (obj) => ({
+            elementId: obj.elementId,
+            options: [],
+            selected: obj.selected,
+            selectedElms: [],
+            show: false,
+            search: '',
+            open() {
+                this.show = true
+            },
+            close() {
+                this.show = false
+            },
+            toggle() {
+                this.show = !this.show
+            },
+            isOpen() {
+                return this.show === true
+            },
+
+            // Initializing component
+            init() {
+                const options = document.getElementById(this.elementId).options;
+                for (let i = 0; i < options.length; i++) {
+
+                    this.options.push({
+                        value:  options[i].value,
+                        text:   options[i].innerText,
+                        search: options[i].dataset.search,
+                        selected: Object.values(this.selected).includes(options[i].value)
+                    });
+
+                    if (this.options[i].selected) {
+                        this.selectedElms.push(this.options[i])
+                    }
+
+                }
+
+                // searching for the given value
+                this.$watch("search", (e => {
+                    this.options = []
+                    const options = document.getElementById(this.elementId).options;
+                    Object.values(options).filter((el) => {
+                        var reg = new RegExp(this.search, 'gi');
+                        return el.dataset.search.match(reg)
+                    }).forEach((el) => {
+                        let newel = {
+                            value: el.value,
+                            text: el.innerText,
+                            search: el.dataset.search,
+                            selected: Object.values(this.selected).includes(el.value)
+                        }
+                        this.options.push(newel);
+                    })
+                }));
+            },
+            // clear search field
+            clear() {
+                this.search = ''
+            },
+            // deselect selected options
+            deselect() {
+                setTimeout(() => {
+                    this.selected = []
+                    this.selectedElms = []
+                    Object.keys(this.options).forEach((key) => {
+                        this.options[key].selected = false;
+                    })
+                }, 100)
+            },
+            // select given option
+            select(index, event) {
+                if (!this.options[index].selected) {
+                    this.options[index].selected = true;
+                    this.options[index].element = event.target;
+                    this.selected.push(this.options[index].value);
+                    this.selectedElms.push(this.options[index]);
+
+                } else {
+                    this.selected.splice(this.selected.lastIndexOf(index), 1);
+                    this.options[index].selected = false
+                    Object.keys(this.selectedElms).forEach((key) => {
+                        if (this.selectedElms[key].value == this.options[index].value) {
+                            setTimeout(() => {
+                                this.selectedElms.splice(key, 1)
+                            }, 100)
+                        }
+                    })
+                }
+            },
+            // remove from selected option
+            remove(index, option) {
+                this.selectedElms.splice(index, 1);
+                Object.keys(this.options).forEach((key) => {
+                    if (this.options[key].value == option.value) {
+                        this.options[key].selected = false;
+                        Object.keys(this.selected).forEach((skey) => {
+                            if (this.selected[skey] == option.value) {
+                                this.selected.splice(skey, 1);
+                            }
+                        })
+                    }
+                })
+            },
+            // filter out selected elements
+            selectedElements() {
+                return this.options.filter(op => op.selected === true)
+            },
+            // get selected values
+            selectedValues() {
+                return this.options.filter(op => op.selected === true).map(el => el.value)
+            }
+        }));
+     });
+</script>
