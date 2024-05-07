@@ -6,6 +6,8 @@ import Tabs from './tabs';
 import LinkIcons from './linkIcons';
 import PageZoom from './page-zoom';
 import EventSubmissionForm from './eventSubmissionForm';
+import Alpine from 'alpinejs'
+import focus from '@alpinejs/focus'
 
 (() => {
   Menu();
@@ -17,3 +19,8 @@ import EventSubmissionForm from './eventSubmissionForm';
   PageZoom();
   EventSubmissionForm();
 })();
+
+window.Alpine = Alpine
+
+Alpine.plugin(focus)
+Alpine.start()
