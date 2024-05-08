@@ -36,7 +36,12 @@ class StoreEventSubmissionRequest extends FormRequest
             'postcode' => [],
             'lat' => [],
             'lng' => [],
-            'content' => []
+            'content' => [],
+            'booking_link' => [],
+            'cta' => [],
+            'categories' => [],
+            'organsisers' => [],
+            'image' => []
         ];
     }
 }
