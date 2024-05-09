@@ -115,9 +115,13 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715284805
+updated_at: 1715285606
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 booking_link: 'https://www.tickettailor.com/checkout/view-event/id/4183962/chk/c018/?modal_widget=true&widget=true'
 attendance_information: '- Adult family carers'
+event_categories:
+  - community
+  - art
+  - literature
 ---
 An invitation to an enjoyable evening session of creative exercises and conversation led by poet Dean Parkin. Share favourite words, surprising thoughts and stories to make you smile.
