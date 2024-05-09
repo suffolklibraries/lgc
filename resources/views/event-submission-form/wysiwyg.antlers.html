@@ -1,6 +1,6 @@
 <div class="tw-relative">
     <div class="wysiwyg tw-bg-brand-grey/5">
-        <div class="editor tw-relative">
+        <div class="editor tw-relative" data-field="{{ field_name }}">
             <div class="link-modal tw-hidden tw-absolute tw-z-10 tw-top-0 tw-left-0 tw-w-full tw-h-full tw-bg-brand-grey/[0.6] tw-backdrop-blur-sm tw-flex tw-justify-center tw-py-4">
                 <div class="tw-bg-white tw-px-4 tw-py-3 tw-w-1/2 tw-flex tw-flex-col tw-gap-3 tw-rounded-md tw-items-end tw-relative">
                     <button type="button" aria-label="close" class="link-modal-close tw-absolute tw-top-2 tw-right-2">
@@ -23,6 +23,9 @@
 
                 </div>
             </div>
+
+            <input type="hidden" name="{{ field_name }}">
+
         </div>
         <div class="buttons tw-flex tw-items-center tw-flex-wrap tw-gap-1 tw-p-4">
             {{ partial:event-submission-form/editor_button icon_type="text-bold" }}
@@ -53,15 +56,4 @@
 
         </div>
     </div>
-
-
-    {{# <label
-        class="tw-pointer-events-none tw-absolute motion-safe:tw-transition-all tw-text-brand-grey/80 tw-text-xs tw-top-1 tw-left-3 tw-font-medium
-            peer-placeholder-shown:tw-left-3 peer-placeholder-shown:tw-top-4 peer-placeholder-shown:tw-font-normal peer-placeholder-shown:tw-text-base
-            peer-focus:tw-text-xs peer-focus:tw-top-1 peer-focus:tw-font-medium
-        "
-        for="{{ field_name }}"
-    >
-        {{ field_label }}
-    </label> #}}
 </div>

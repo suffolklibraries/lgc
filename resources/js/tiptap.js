@@ -6,6 +6,7 @@ import TextAlign from '@tiptap/extension-text-align';
 
 export function initTipTap(element, content) {
     let editorEl = element.querySelector('.editor')
+    let field = element.querySelector(`input[name="${editorEl.getAttribute('data-field')}"]`)
 
     if(!editorEl) {
         return;
@@ -34,6 +35,10 @@ export function initTipTap(element, content) {
         },
         onUpdate({editor}) {
             updateButtons()
+            field.value = editor.getHTML()
+        },
+        onCreate({editor}) {
+            field.value = editor.getHTML()
         }
     })
 
@@ -205,8 +210,6 @@ export function initTipTap(element, content) {
     }
 
     function updateButton(button, eventName, eventArgs = {}) {
-        console.log(editor.isActive(eventName))
-
         if (editor.isActive(eventName, eventArgs)) {
             button.classList.add('tw-bg-gray-200', 'rounded');
         } else {
