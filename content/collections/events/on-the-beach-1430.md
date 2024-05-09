@@ -1,5 +1,6 @@
 ---
 id: 73a51487-1338-46d4-98fe-328ecedce01b
+published: false
 blueprint: events
 title: 'On The Beach'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
