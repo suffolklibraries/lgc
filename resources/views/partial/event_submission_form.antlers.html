@@ -4,9 +4,13 @@
     </div>
 {{ /endif }}
 
+{{ event_categories = {taxonomy:event_categories} }}
+{{ organisers = {taxonomy:organisers} }}
+
 <form
     action="{{ route:event-submission.store }}"
     method="POST"
+    enctype="multipart/form-data"
     class="event-submission-form tw-max-w-[832px] tw-mx-auto tw-shadow-brand tw-p-10 tw-flex tw-flex-col tw-gap-10"
 >
     {{ csrf_field }}
@@ -26,7 +30,7 @@
 
     {{ /partial:event-submission-form/section }}
 
-    {{# {{ partial:event-submission-form/section section_title="Event Options" }}
+    {{ partial:event-submission-form/section section_title="Event Options" }}
 
         {{ partial:event-submission-form/toggle field_label="Free Event" field_name="free" }}
 
@@ -53,16 +57,31 @@
         <input type="hidden" name="lat">
         <input type="hidden" name="lng">
 
-    {{ /partial:event-submission-form/section }} #}}
+    {{ /partial:event-submission-form/section }}
 
     {{ partial:event-submission-form/section section_title="Content" }}
-
-        {{# {{ partial:event-submission-form/textarea field_label="Content Area" field_name="content"}} #}}
         {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}
     {{ /partial:event-submission-form/section }}
 
 
-    <button type="submit">
+    {{ partial:event-submission-form/section section_title="Call to action" }}
+        {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" }}
+        {{ partial:event-submission-form/textarea field_label="CTA" field_name="cta" }}
+    {{ /partial:event-submission-form/section }}
+
+    {{ partial:event-submission-form/section section_title="Event Categories" }}
+        {{ partial:event-submission-form/multiselect :options="event_categories" field_name="categories" }}
+    {{ /partial:event-submission-form/section }}
+
+    {{ partial:event-submission-form/section section_title="Organisers" }}
+        {{ partial:event-submission-form/multiselect :options="organisers" field_name="organisers" }}
+    {{ /partial:event-submission-form/section }}
+
+    {{ partial:event-submission-form/section section_title="Featured Image" }}
+        {{ partial:event-submission-form/image field_name="image" field_label="Upload a featured image" }}
+    {{ /partial:event-submission-form/section }}
+
+    <button type="submit" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
         Submit
     </button>
 </form>
