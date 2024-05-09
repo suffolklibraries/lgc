@@ -3,7 +3,6 @@
         <span class="tw-mr-2 tw-text-base tw-font-normal tw-text-brand-grey">{{ field_label }}</span>
         <input
             type="checkbox"
-            value=""
             class="tw-sr-only tw-peer"
             name="{{ field_name }}"
         >
@@ -13,4 +12,8 @@
             after:tw-content-[''] after:tw-absolute after:tw-top-[calc(50%-6px)] after:tw-left-[2px] after:tw-bg-[#CBCBCB] after:tw-rounded-full after:tw-h-3 after:tw-w-3 after:tw-transition-all
         "></div>
     </label>
+
+    {{ get_error:{field_name} }}
+        <div class="tw-text-red-500 tw-text-sm">{{ message }}</div>
+    {{ /get_error:{field_name} }}
 </div>

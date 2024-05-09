@@ -15,4 +15,8 @@
     >
         {{ field_label }}
     </label>
+
+    {{ get_error:{field_name} }}
+        <div class="tw-text-red-500 tw-text-sm">{{ message }}</div>
+    {{ /get_error:{field_name} }}
 </div>

@@ -3,15 +3,13 @@
 <div class="w-full" x-data="alpineMultiSelect({selected:[], elementId:'{{ field_name }}'})">
 
     <!-- Select Options -->
-    <select class="tw-hidden" id="{{ field_name }}">
+    <select class="tw-hidden" id="{{ field_name }}" name="{{ field_name }}[]" multiple x-model="selectedValues()">
         {{ options }}
             <option value="{{ id }}" data-search="{{ title }}">{{ title }}</option>
         {{ /options }}
     </select>
 
     <div class="tw-w-full tw-flex tw-flex-col tw-items-center  tw-mx-auto" @keyup.alt="toggle">
-        <!-- Selected Teams -->
-        <input name="{{ field_name }}[]" type="hidden" x-bind:value="selectedValues()">
 
         <div class="tw-inline-block tw-relative tw-w-full">
 
@@ -230,7 +228,9 @@
             },
             // get selected values
             selectedValues() {
-                return this.options.filter(op => op.selected === true).map(el => el.value)
+                let test = this.options.filter(op => op.selected === true).map(el => el.value)
+                console.log(test)
+                return test
             }
         }));
      });
