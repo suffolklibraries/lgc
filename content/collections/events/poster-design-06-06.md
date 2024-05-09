@@ -1,13 +1,12 @@
 ---
 id: 4983f758-e8fd-42d3-b152-233778987f25
-published: false
 blueprint: events
-title: 'Mosaics at Haverhill Carers Group (Duplicated)'
+title: 'Poster Design at Haverhill Carers Group (Duplicated)'
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-start_date: '2024-08-01 13:00'
-end_date: '2024-08-01 15:00'
+start_date: '2024-06-06 13:00'
+end_date: '2024-06-06 15:00'
 free: true
 virtual: false
 content_area:
@@ -24,13 +23,19 @@ content_area:
     content:
       -
         type: text
+        text: 'As a group we will discuss the importance of poster design which elements are important and how best to represent the group through the design of the poster. Following the session Max will take the discussions and designs and use these to create a poster especially for the group.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: 'Haverhill Carers Group Family Carers group has been formed and is run by family carers or those with caring experience who understand the challenges of caring for a loved one. The group provides opportunity to meet with other carers to share friendship, experiences and discussion in a welcoming and friendly environment.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The group meet on 4th Thursday of each month 1-3pm for a regular carers support group and Suffolk Artlink will be running additional creative sessions to allow the group meet for specially programmed creative sessions.'
+        text: 'The group meet on 4th Thursday of each month 1-3pm for a regular carers support group and Suffolk Artlink will be running additional creative sessions to allow the group meet for specially programmed creative session.'
   -
     type: paragraph
     content:
@@ -224,7 +229,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715286066
+updated_at: 1715286251
 duplicated_from: 7393c23c-f315-4c28-8756-9edc14f5581a
 booking_link: 'https://www.tickettailor.com/checkout/view-event/id/4183962/chk/c018/?modal_widget=true&widget=true'
 attendance_information: '- Adult family carers'
@@ -239,4 +244,4 @@ address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
 ---
-Jac Campbell will be working with the group to create individual mosaics. Design and make your own mosaic using glass tiles to produce a colourful and unique design for you to keep!
+Join Maximillian Clarke from Thinkclusive to design a new poster for the Haverhill Family carers groups.
