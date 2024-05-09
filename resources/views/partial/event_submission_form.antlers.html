@@ -1,9 +1,3 @@
-{{ if {session:has key="success"} }}
-    <div class="event_submission_flash">
-        {{ session:success }}
-    </div>
-{{ /endif }}
-
 {{ event_categories = {taxonomy:event_categories} }}
 {{ organisers = {taxonomy:organisers} }}
 
@@ -13,6 +7,12 @@
     enctype="multipart/form-data"
     class="event-submission-form tw-max-w-[832px] tw-mx-auto tw-shadow-brand tw-p-10 tw-flex tw-flex-col tw-gap-10"
 >
+    {{ if {session:has key="success"} }}
+        <div class="tw-text-lg tw-p-4 tw-border-2 tw-border-brand-teal">
+            {{ session:success }}
+        </div>
+    {{ /endif }}
+
     {{ csrf_field }}
     {{ partial:partial/honeypot }}
 
@@ -35,6 +35,8 @@
         {{ partial:event-submission-form/toggle field_label="Free Event" field_name="free" }}
 
         {{ partial:event-submission-form/toggle field_label="Virtual Event" field_name="virtual" }}
+
+        {{ partial:event-submission-form/text field_label="Cost Details" field_name="cost_details" field_description="e.g. £5" }}
 
         {{ partial:event-submission-form/textarea field_label="Attendance Information" field_name="attendance_information" }}
 
