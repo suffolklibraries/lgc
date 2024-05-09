@@ -31,6 +31,26 @@ content_area:
         type: text
         text: 'This session has been programmed to allow family carers time to be creative in their own home and take away ideas for creative exercises to use beyond the session. This session will take place on Zoom is free to attend but places are limited.'
   -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'This event is a part of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkartlink.org.uk/projects/friends-around-the-table/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Suffolk Artlink's 'Friends Around the Table' project"
+      -
+        type: text
+        text: ', which offers family carers, and adults living rurally, relaxed and enjoyable creative get-togethers exploring food, culture and nature. '
+  -
     type: heading
     attrs:
       level: 3
@@ -95,7 +115,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715284713
+updated_at: 1715284805
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 booking_link: 'https://www.tickettailor.com/checkout/view-event/id/4183962/chk/c018/?modal_widget=true&widget=true'
 attendance_information: '- Adult family carers'
