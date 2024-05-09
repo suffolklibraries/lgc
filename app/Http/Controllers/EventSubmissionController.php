@@ -42,6 +42,7 @@ class EventSubmissionController extends Controller
                 'content_area' => $request->content,
                 'booking_link' => $request->booking_link,
                 'cta' => $request->cta,
+                'cost_details' => $request->cost_details
             ]);
 
         if($request->file('image')) {

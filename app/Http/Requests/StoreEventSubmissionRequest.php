@@ -28,6 +28,7 @@ class StoreEventSubmissionRequest extends FormRequest
             'end' => [],
             'free' => [],
             'virtual' => [],
+            'cost_details' => [],
             'attendance_information' => [],
             'accessibility_information' => [],
             'address_line_1' => [],
