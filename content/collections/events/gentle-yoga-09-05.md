@@ -1,5 +1,6 @@
 ---
 id: a33ad5fe-762c-444e-9b9d-3ef6b1dac404
+published: false
 blueprint: events
 title: 'Gentle Yoga'
 event_categories:
