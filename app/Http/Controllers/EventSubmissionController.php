@@ -9,6 +9,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Carbon;
 use Illuminate\Http\RedirectResponse;
 use App\Http\Requests\StoreEventSubmissionRequest;
+use App\Jobs\NotifyEventApproversOfNewEvent;
 
 class EventSubmissionController extends Controller
 {
@@ -73,6 +74,8 @@ class EventSubmissionController extends Controller
         }
 
         $entry->save();
+
+        NotifyEventApproversOfNewEvent::dispatch($entry);
 
         return redirect()
             ->back()
