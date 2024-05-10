@@ -17,7 +17,7 @@
     {{ partial:partial/honeypot }}
 
     {{ partial:event-submission-form/section section_title="Event Information" }}
-        {{ partial:event-submission-form/text field_label="Event Title" field_name="title" }}
+        {{ partial:event-submission-form/text field_label="Event Title*" field_name="title" }}
 
         {{ partial:event-submission-form/textarea field_label="Description" field_name="description" }}
 
@@ -26,14 +26,14 @@
             {{ partial:event-submission-form/datetime
                 min="{now | format='Y-m-d\\TH:i'}"
                 value="{old:start ? old:start : {now | format='Y-m-d\\TH:i'}}"
-                field_label="Start Time"
+                field_label="Start Time*"
                 field_name="start"
             }}
 
             {{ partial:event-submission-form/datetime
                 min="{now | format='Y-m-d\\TH:i'}"
                 value="{old:end ? old:end : {now | format='Y-m-d\\TH:i'}}"
-                field_label="End Time"
+                field_label="End Time*"
                 field_name="end"
             }}
         </div>
@@ -58,10 +58,10 @@
         {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
 
         <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
-            {{ partial:event-submission-form/text field_label="Address Line 1" field_name="address_line_1" autocomplete="off" }}
-            {{ partial:event-submission-form/text field_label="Address Line 2" field_name="address_line_2" autocomplete="off" }}
-            {{ partial:event-submission-form/text field_label="Town" field_name="town" autocomplete="off" }}
-            {{ partial:event-submission-form/text field_label="Post Code" field_name="postcode" autocomplete="off" }}
+            {{ partial:event-submission-form/text field_label="Address Line 1*" field_name="address_line_1" autocomplete="off" }}
+            {{ partial:event-submission-form/text field_label="Address Line 2*" field_name="address_line_2" autocomplete="off" }}
+            {{ partial:event-submission-form/text field_label="Town*" field_name="town" autocomplete="off" }}
+            {{ partial:event-submission-form/text field_label="Post Code*" field_name="postcode" autocomplete="off" }}
         </div>
 
 
@@ -106,9 +106,9 @@
 
     {{ partial:event-submission-form/section section_title="Your Details" }}
         <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
-            {{ partial:event-submission-form/text field_label="Name" field_name="name" autocomplete="name" }}
+            {{ partial:event-submission-form/text field_label="Name*" field_name="name" autocomplete="name" }}
 
-            {{ partial:event-submission-form/text field_label="Email Address" field_name="email" field_type="email" autocomplete="email" }}
+            {{ partial:event-submission-form/text field_label="Email Address*" field_name="email" field_type="email" autocomplete="email" }}
         </div>
 
     {{ /partial:event-submission-form/section }}
