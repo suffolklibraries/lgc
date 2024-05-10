@@ -223,9 +223,8 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715286066
+updated_at: 1715324834
 duplicated_from: 3da5779a-3a74-4348-a41e-188027a48aba
-booking_link: 'https://www.tickettailor.com/checkout/view-event/id/4183962/chk/c018/?modal_widget=true&widget=true'
 attendance_information: '- Adult family carers'
 event_categories:
   - art
