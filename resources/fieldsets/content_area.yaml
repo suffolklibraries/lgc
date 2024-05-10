@@ -49,10 +49,13 @@ fields:
               icon: calendar-date
               fields: {  }
       buttons:
+        - h1
         - h2
         - h3
+        - h4
         - bold
         - italic
+        - underline
         - unorderedlist
         - orderedlist
         - removeformat
@@ -60,6 +63,9 @@ fields:
         - anchor
         - image
         - table
+        - alignleft
+        - aligncenter
+        - alignright
       save_html: false
       toolbar_mode: fixed
       link_noopener: false
