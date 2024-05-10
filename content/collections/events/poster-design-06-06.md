@@ -1,7 +1,7 @@
 ---
 id: 4983f758-e8fd-42d3-b152-233778987f25
 blueprint: events
-title: 'Poster Design at Haverhill Carers Group (Duplicated)'
+title: 'Poster Design at Haverhill Carers Group'
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
@@ -229,7 +229,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715286251
+updated_at: 1715323390
 duplicated_from: 7393c23c-f315-4c28-8756-9edc14f5581a
 booking_link: 'https://www.tickettailor.com/checkout/view-event/id/4183962/chk/c018/?modal_widget=true&widget=true'
 attendance_information: '- Adult family carers'
