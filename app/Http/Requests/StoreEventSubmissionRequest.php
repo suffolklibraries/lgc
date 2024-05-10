@@ -21,28 +21,40 @@ class StoreEventSubmissionRequest extends FormRequest
      */
     public function rules(): array
     {
+
         return [
             'title' => ['required'],
             'description' => [],
-            'start' => [],
-            'end' => [],
+            'start' => ['required', 'date', 'after_or_equal:tomorrow'],
+            'end' => ['required', 'date', 'after:start'],
             'free' => [],
             'virtual' => [],
             'cost_details' => [],
             'attendance_information' => [],
             'accessibility_information' => [],
-            'address_line_1' => [],
-            'address_line_2' => [],
-            'town' => [],
-            'postcode' => [],
+            'address_line_1' => ['required'],
+            'address_line_2' => ['required'],
+            'town' => ['required'],
+            'postcode' => ['required'],
             'lat' => [],
             'lng' => [],
             'content' => [],
             'booking_link' => [],
             'cta' => [],
             'categories' => [],
-            'organsisers' => [],
-            'image' => []
+            'organisers' => ['required', 'array', 'min:1'],
+            'image' => ['sometimes', 'image'],
+            'name' => ['required'],
+            'email' => ['required', 'email'],
+        ];
+    }
+
+    public function messages(): array
+    {
+        return [
+            'image' => [
+                'size' => "Image must be 5MB or smaller"
+            ]
         ];
     }
 }
