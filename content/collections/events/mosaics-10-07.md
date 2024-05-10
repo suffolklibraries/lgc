@@ -104,7 +104,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The train station is a 25 minute walk away and you can find times on the '
+        text: 'Stowmarket railway station is a 25 minute walk away and you can find times on the '
       -
         type: text
         marks:
@@ -156,9 +156,8 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715324352
+updated_at: 1715324821
 duplicated_from: 7393c23c-f315-4c28-8756-9edc14f5581a
-booking_link: 'https://www.tickettailor.com/checkout/view-event/id/4183962/chk/c018/?modal_widget=true&widget=true'
 attendance_information: '- Adult family carers'
 event_categories:
   - art
