@@ -1,14 +1,13 @@
 ---
 id: 77031b98-50d7-4486-a07b-995e8c0bf6bd
-published: false
 blueprint: events
-title: 'Mosaics at Stowmarket Friends Around the Table Craft Group (Duplicated)'
+title: 'Digital Journals at Felixstowe and Villages Family Carers Group'
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
-start_date: '2024-07-10 10:30'
-end_date: '2024-07-10 12:15'
-free: false
+featured_image: offthepressimages/otpillustrations/Literature.png
+start_date: '2024-07-10 13:00'
+end_date: '2024-07-10 15:00'
+free: true
 virtual: false
 content_area:
   -
@@ -24,19 +23,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table Craft group is a welcoming and relaxed group who meet on a monthly basis to share in a variety of creative activities, a chat and a cuppa! '
+        text: 'You will have a chance to try out creative tasks as part of the group and take away inspirational ideas and prompts of how to find and capture the creative moments in your everyday.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'No previous experience necessary, everybody welcome.'
+        text: 'Felixstowe and Villages Family Carers group has been formed and is run by family carers or those with caring experience who understand the challenges of caring for a loved one. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Meetings take place every 2nd Wednesday of the month'
+        text: 'The group provides opportunity to meet with other carers to share friendship, experiences and discussion in a welcoming and friendly environment.'
   -
     type: paragraph
   -
@@ -52,24 +51,35 @@ content_area:
     content:
       -
         type: text
-        text: '£3 membership fee each month payable in cash on the day.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you are interested in attending please contact Susan, the group leader, on '
+        text: 'If you would like to find out more about the group or would like to attend please contact Dennis on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:sjsimsek@btinternet.com'
+              href: 'mailto:dennisweston.49@btinternet.com'
               rel: ''
               target: null
               title: null
-        text: sjsimsek@btinternet.com
+        text: dennisweston.49@btinternet.com
+      -
+        type: text
+        text: ' or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473832591'
+              rel: null
+              target: null
+              title: null
+        text: '01473 832591'
+      -
+        type: text
+        text: .
   -
     type: paragraph
   -
@@ -85,7 +95,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Stowmarket Community Centre is a two minute walk from the bus station, and you can find up-to-date times on the '
+        text: 'Stowmarket Community Centre is a one minute walk from the nearest bus stop, and you can find up-to-date times on the '
       -
         type: text
         marks:
@@ -105,14 +115,14 @@ content_area:
     content:
       -
         type: text
-        text: 'The train station is a 25 minute walk away and you can find times on the '
+        text: 'Felixstowe railway station is a 23 minute walk away and you can find times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/smk'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
               rel: null
               target: _blank
               title: null
@@ -157,20 +167,18 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715324352
+updated_at: 1715324756
 duplicated_from: df3012fb-f1d0-4e88-abaf-8085807ede84
-booking_link: 'https://www.tickettailor.com/checkout/view-event/id/4183962/chk/c018/?modal_widget=true&widget=true'
 attendance_information: '- Adult family carers'
 event_categories:
   - art
   - community
   - wellbeing
-latitude: '52.177214771852114'
-longitude: '0.9975705702787971'
-address_line_1: 'Stowmarket Community Centre'
-address_line_2: Hillside
-town: Stowmarket
-postcode: 'IP14 2BD'
-cost_details: £3
+latitude: '51.97256226313403'
+longitude: '1.366775454923082'
+address_line_1: 'Old Felixstowe Community Centre'
+address_line_2: 'Ferry Road'
+town: Felixstowe
+postcode: 'IP11 9NB'
 ---
-Jac Campbell will be working with the group to create individual mosaics. Design and make your own mosaic using glass tiles to produce a colourful and unique design for you to keep!
+Work with artist Johann Don-Daniel who will share ideas, tips and techniques for using your own phone or tablet to create a personal digital creative journal.
