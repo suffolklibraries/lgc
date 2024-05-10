@@ -167,7 +167,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715324756
+updated_at: 1715324859
 duplicated_from: df3012fb-f1d0-4e88-abaf-8085807ede84
 attendance_information: '- Adult family carers'
 event_categories:
