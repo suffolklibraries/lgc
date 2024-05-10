@@ -5,6 +5,9 @@
             type="checkbox"
             class="tw-sr-only tw-peer"
             name="{{ field_name }}"
+            {{ if old[field_name] }}
+                checked
+            {{ /if }}
         >
         <div class="
             tw-relative tw-w-8 tw-h-4 tw-bg-[#F5F5F5] tw-border tw-border-[#F2F2F2] peer-focus:tw-outline-none peer-focus:tw-ring-4 peer-focus:tw-ring-brand-teal tw-rounded-full tw-peer

@@ -8,6 +8,14 @@ export function initTipTap(element, content) {
     let editorEl = element.querySelector('.editor')
     let field = element.querySelector(`input[name="${editorEl.getAttribute('data-field')}"]`)
 
+    let initialContent
+
+    if(field.value === '' ) {
+        initialContent = content
+    } else {
+        initialContent = field.value
+    }
+
     if(!editorEl) {
         return;
     }
@@ -29,7 +37,7 @@ export function initTipTap(element, content) {
                 class: 'tw-min-h-48 tw-max-h-48 tw-overflow-y-scroll tw-scrollbar tw-scrollbar-track-transparent tw-scrollbar-thumb-brand-pink tw-text-base tw-prose tw-max-w-none tw-px-3 tw-py-3 tw-outline-none'
             }
         },
-        content: content,
+        content: initialContent,
         onSelectionUpdate({editor}) {
             updateButtons()
         },

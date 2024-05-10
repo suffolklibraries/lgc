@@ -24,7 +24,13 @@
                 </div>
             </div>
 
-            <input type="hidden" name="{{ field_name }}">
+            <input
+                type="hidden"
+                name="{{ field_name }}"
+                {{ if old[field_name] }}
+                    value="{{ old[field_name] }}"
+                {{ /if }}
+            >
 
         </div>
         <div class="buttons tw-flex tw-items-center tw-flex-wrap tw-gap-1 tw-p-4">
@@ -56,4 +62,8 @@
 
         </div>
     </div>
+
+    {{ get_error:{field_name} }}
+        <div class="tw-text-red-500 tw-text-sm">{{ message }}</div>
+    {{ /get_error:{field_name} }}
 </div>

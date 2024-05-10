@@ -5,7 +5,7 @@
         placeholder=" "
         rows="4"
         class="tw-min-h-0 tw-peer tw-bg-brand-grey/5 tw-px-3 tw-pt-[18px] tw-pb-2 tw-border-b-2 tw-border-brand-grey/80 motion-safe:tw-transition-colours tw-border-x-0 tw-border-t-0 focus-within:tw-border-brand-teal focus:tw-outline-none tw-text-base tw-text-brand-grey"
-    ></textarea>
+    >{{ if old[field_name] }}{{ old[field_name] }}{{ /if }}</textarea>
     <label
         class="tw-pointer-events-none tw-absolute motion-safe:tw-transition-all tw-text-brand-grey/80 tw-text-xs tw-top-1 tw-left-3 tw-font-medium
             peer-placeholder-shown:tw-left-3 peer-placeholder-shown:tw-top-4 peer-placeholder-shown:tw-font-normal peer-placeholder-shown:tw-text-base

@@ -1,6 +1,5 @@
 {{ event_categories = {taxonomy:event_categories} }}
 {{ organisers = {taxonomy:organisers} }}
-
 <form
     action="{{ route:event-submission.store }}"
     method="POST"
@@ -23,9 +22,19 @@
 
 
         <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
-            {{ partial:event-submission-form/datetime min="{now | format='Y-m-d\\TH:i'}" value="{now | format='Y-m-d\\TH:i'}" field_label="Start Time" field_name="start" }}
+            {{ partial:event-submission-form/datetime
+                min="{now | format='Y-m-d\\TH:i'}"
+                value="{old:start ? old:start : {now | format='Y-m-d\\TH:i'}}"
+                field_label="Start Time"
+                field_name="start"
+            }}
 
-            {{ partial:event-submission-form/datetime min="{now | format='Y-m-d\\TH:i'}" value="{now | format='Y-m-d\\TH:i'}" field_label="End Time" field_name="end" }}
+            {{ partial:event-submission-form/datetime
+                min="{now | format='Y-m-d\\TH:i'}"
+                value="{old:end ? old:end : {now | format='Y-m-d\\TH:i'}}"
+                field_label="End Time"
+                field_name="end"
+            }}
         </div>
 
     {{ /partial:event-submission-form/section }}
@@ -45,7 +54,6 @@
     {{ /partial:event-submission-form/section }}
 
     {{ partial:event-submission-form/section section_title="Location" }}
-
         {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
 
         <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
@@ -56,8 +64,20 @@
         </div>
 
 
-        <input type="hidden" name="lat">
-        <input type="hidden" name="lng">
+        <input
+            type="hidden"
+            name="lat"
+            {{ if old:lat }}
+                value="{{ old:lat }}"
+            {{ /if }}
+        >
+        <input
+            type="hidden"
+            name="lng"
+            {{ if old:lng }}
+                value="{{ old:lng }}"
+            {{ /if }}
+        >
 
     {{ /partial:event-submission-form/section }}
 

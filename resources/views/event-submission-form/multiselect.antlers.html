@@ -1,11 +1,18 @@
-
 <!-- Define component with preselected options -->
-<div class="w-full" x-data="alpineMultiSelect({selected:[], elementId:'{{ field_name }}'})">
+<div class="w-full" x-data='alpineMultiSelect({selected:{{ old[field_name] ? {old[field_name] | to_json} : "[]" }}, elementId:"{{ field_name }}"})'>
 
     <!-- Select Options -->
     <select class="tw-hidden" id="{{ field_name }}" name="{{ field_name }}[]" multiple x-model="selectedValues()">
         {{ options }}
-            <option value="{{ id }}" data-search="{{ title }}">{{ title }}</option>
+            <option
+                value="{{ id }}"
+                data-search="{{ title }}"
+                {{ if (old[field_name] | in_array(id)) }}
+                    selected
+                {{ /endif }}
+            >
+                {{ title }}
+            </option>
         {{ /options }}
     </select>
 
@@ -229,7 +236,6 @@
             // get selected values
             selectedValues() {
                 let test = this.options.filter(op => op.selected === true).map(el => el.value)
-                console.log(test)
                 return test
             }
         }));
