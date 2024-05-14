@@ -1,5 +1,6 @@
 ---
 id: a657694f-7913-4f1b-b409-f8df6a14f506
+published: false
 blueprint: events
 title: 'Pavilion Performers Open Sessions'
 latitude: '52.47146825080719'
