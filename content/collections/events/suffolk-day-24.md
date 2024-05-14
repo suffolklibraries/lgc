@@ -128,7 +128,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715689392
+updated_at: 1715702641
 duplicated_from: 4983f758-e8fd-42d3-b152-233778987f25
 event_categories:
   - art
@@ -138,6 +138,7 @@ longitude: '0.44072955678052805'
 address_line_1: 'Haverhill Arts Centre'
 address_line_2: 'High Street'
 town: Haverhill
+featured_image: offthepressimages/new_resized_images/support.png
 ---
 Suffolk Day is a county-wide party to recognise our great icons, attractions, landscapes, institutions, special events and more. The annual festivities continue on the longest day of the year.
 
