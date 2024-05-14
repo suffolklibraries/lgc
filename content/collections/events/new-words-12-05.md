@@ -1,5 +1,6 @@
 ---
 id: f62d55c7-3349-4a9d-a2fe-a098624f1d02
+published: false
 blueprint: events
 title: 'New Words, Fresh Voices'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
