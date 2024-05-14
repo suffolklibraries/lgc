@@ -1,5 +1,6 @@
 ---
 id: d62f541c-e761-4be8-9f13-1063aa972203
+published: false
 blueprint: events
 title: 'Meet and Greet with Woody Bear'
 latitude: '52.47146825080719'
