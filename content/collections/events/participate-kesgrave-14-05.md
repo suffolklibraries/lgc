@@ -1,5 +1,6 @@
 ---
 id: 2aaa0075-d9e9-4593-a8f4-47611df4fd19
+published: false
 blueprint: events
 title: 'Participate - Kesgrave'
 latitude: '52.061411704878424'
