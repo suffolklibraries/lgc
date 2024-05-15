@@ -1,13 +1,12 @@
 ---
 id: 9ce31f38-9820-444a-a1b5-66b2552e5fa6
-published: false
 blueprint: events
-title: 'Clements Fun Day (Duplicated) (2)'
+title: 'Parkway Fun Day'
 organisers:
   - haverhill-arts-centre
-featured_image: haverhill_arts_centre/green-market-screen-30.jpg
-start_date: '2024-07-25 11:00'
-end_date: '2024-07-25 15:00'
+featured_image: haverhill_arts_centre/haverhill-in-the-park-fe-2-screen.jpg
+start_date: '2024-08-01 11:00'
+end_date: '2024-08-01 15:00'
 free: true
 virtual: false
 content_area:
@@ -139,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715764180
+updated_at: 1715764321
 duplicated_from: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
 attendance_information: '- Family Friendly'
 event_categories:
@@ -153,4 +152,4 @@ address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
 ---
-Clements Fun Day is back!
+Parkway Fun Day is back!
