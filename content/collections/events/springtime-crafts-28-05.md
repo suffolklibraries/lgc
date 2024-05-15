@@ -1,25 +1,23 @@
 ---
 id: 3b351e18-7491-4e6f-981d-74a16e5b9891
-published: false
 blueprint: events
-title: 'Bury BioBlitz (Duplicated)'
+title: 'Springtime Family Activities'
 event_categories:
   - history
-  - museums
   - art
 organisers:
-  - bury-water-meadows-group
-featured_image: offthepressimages/otpillustrations/NATURE.png
-start_date: '2024-05-18 09:30'
-end_date: '2024-05-18 16:00'
+  - st-edmundsbury-cathedral
+featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+start_date: '2024-05-28 10:00'
+end_date: '2024-05-28 12:00'
 free: true
 virtual: false
-latitude: '52.24536228440748'
-longitude: '0.7177441395961683'
-address_line_1: 'Abbey Gardens'
-address_line_2: '22 Mustow Street'
+latitude: '52.24395456477625'
+longitude: '0.7172061040474412'
+address_line_1: 'St Edmundsbury Cathedral'
+address_line_2: 'Angel Hill'
 town: 'Bury Saint Edmunds'
-postcode: 'IP33 1XL'
+postcode: 'IP33 1LS'
 content_area:
   -
     type: heading
@@ -34,80 +32,13 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: Walks
-      -
-        type: hardBreak
+        text: 'Free to attend for children aged 4 -11 and their families. '
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: '09:30 Simon Evans Water Meadows Bird Walk'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '10:45 Anna Saltmarsh Conferring with the flowers: why a botanist is never bored'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '12:00 Ross Piper Insects'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '13:15 David Appleton Black poplars tbc'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '14:30 Alan Thornhill Spider diversity of the Water Meadows'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '15:00 Peta Levantis From Beodericsworth to Bury St Edmunds'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: Talks
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '10:00 Rob Jackson Wild Deer Ecology & Muntjac in the Water Meadows'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '11:00 Alan Thornhill Spider diversity of the Water Meadows'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '12:00 Eddie Bathgate Save Our Suffolk Swifts'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '13:00 Colin Hawes Stag beetles'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '14:00 Paul Marsh The Story of Four Plants in the Bury Botanic Garden'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '15:00 Chris Wiley Gardening Sustainably'
+        text: 'All children must be accompanied – crafts are for everyone to get involved!'
   -
     type: paragraph
   -
@@ -123,7 +54,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking is required for the walks and talks – just turn up 5 minutes in advance of the start time. Talks will be held in the Talks Tent by the river, and walks will start from the ‘bandstand’ near the footbridge by the welcome tent.'
+        text: "Free tickets can be booked online\_their "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.eventbrite.co.uk/e/springtime-family-activities-tickets-876675809947'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Eventbrite page'
+      -
+        type: text
+        text: .
   -
     type: paragraph
   -
@@ -159,7 +104,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Bury St Edmunds railway station is a 15 minute walk from Abbey Gardens. You can find train times on the '
+        text: 'Bury St Edmunds railway station is a 20 minute walk from the Cathedral. You can find train times on the '
       -
         type: text
         marks:
@@ -186,14 +131,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/on-street-parking-bse.cfm'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/chequer-square-car-park.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'Angel Hill car park'
+        text: 'Chequer Square car park'
       -
         type: text
-        text: " a six minute walk away. Long stay car parks\_"
+        text: " a minute walk away. Long stay car parks\_"
       -
         type: text
         marks:
@@ -221,7 +166,7 @@ content_area:
         text: 'Ram Meadow car park'
       -
         type: text
-        text: " are both\_a 5-10 minutes walk from the gardens."
+        text: " are both\_a 10-15 minute walk from the Cathedral."
       -
         type: hardBreak
       -
@@ -244,12 +189,17 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Bury Water Meadows Group
+  This event is organised by St Edmundsbury Cathedral
 
-  [https://www.burywatermeadowsgroup.org.uk/](https://www.burywatermeadowsgroup.org.uk/)
+  [https://stedscathedral.org/](https://stedscathedral.org/)
+
+  [reception@stedscathedral.org](mailto:reception@stedscathedral.org)
+
+  [01284 748720](tel:01284748720)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715777111
+updated_at: 1715788799
 attendance_information: '- Family friendly'
 duplicated_from: febc325c-07ea-4f6e-b52c-54bc4cb7cb24
+booking_link: 'https://www.eventbrite.co.uk/e/springtime-family-activities-tickets-876675809947'
 ---
-A day of fun, exploration and learning for all the family in the Abbey Gardens, Bury St Edmunds as we celebrate the plants and animals all around us.
+Join us at St Edmundsbury Cathedral in May half term for fun-filled mornings of family-friendly craft activities inspired by springtime.
