@@ -138,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763943
+updated_at: 1715770373
 duplicated_from: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
 attendance_information: '- Family Friendly'
 event_categories:
