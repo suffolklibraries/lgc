@@ -1,6 +1,5 @@
 ---
 id: 3def1e86-99ca-48f9-b2b8-0add94857010
-published: false
 blueprint: events
 title: 'Suffolk Day'
 organisers:
@@ -128,12 +127,12 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763048
+updated_at: 1715763456
 duplicated_from: 6e1251bf-0813-4321-9559-90237f1343d9
 event_categories:
   - art
   - community
-latitude: '52.080992393382395,'
+latitude: '52.080992393382395'
 longitude: '0.44072955678052805'
 address_line_1: 'Haverhill Arts Centre'
 address_line_2: 'High Street'
