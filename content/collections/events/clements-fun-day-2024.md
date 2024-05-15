@@ -4,7 +4,7 @@ blueprint: events
 title: 'Clements Fun Day'
 organisers:
   - haverhill-arts-centre
-featured_image: offthepressimages/otpillustrations/support-1715763134.png
+featured_image: haverhill_arts_centre/green-market-screen-30.jpg
 start_date: '2024-07-25 11:00'
 end_date: '2024-07-25 15:00'
 free: true
@@ -138,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763655
+updated_at: 1715764180
 duplicated_from: 5ee6d077-35f1-4290-89bb-8682ff94314f
 attendance_information: '- Family Friendly'
 event_categories:
