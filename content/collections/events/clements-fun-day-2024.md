@@ -1,7 +1,7 @@
 ---
 id: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
 blueprint: events
-title: 'Chalkstone Fun Day (Duplicated)'
+title: 'Clements Fun Day'
 organisers:
   - haverhill-arts-centre
 featured_image: offthepressimages/otpillustrations/support-1715763134.png
@@ -138,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763621
+updated_at: 1715763655
 duplicated_from: 5ee6d077-35f1-4290-89bb-8682ff94314f
 attendance_information: '- Family Friendly'
 event_categories:
@@ -152,4 +152,4 @@ address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
 ---
-Chalkstone Fun Day is back!
+Clements Fun Day is back!
