@@ -1,15 +1,14 @@
 ---
 id: dc2681c5-b627-4107-b86a-ed0a764f29da
-published: false
 blueprint: events
-title: 'Infinite Echoes Exhibition (Duplicated)'
+title: 'Holi - An Exhibition by Ayush Sinha'
 event_categories:
   - exhibition
 organisers:
   - the-apex
-featured_image: apex/infinate-echoes-480x300.jpg
-start_date: '2024-04-23 09:30'
-end_date: '2024-05-19 16:00'
+featured_image: apex/ayush-exhibition-pic-website.jpg
+start_date: '2024-05-21 09:30'
+end_date: '2024-06-16 16:00'
 free: true
 virtual: false
 latitude: '52.24598764311893'
@@ -32,21 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: "The exhibition will demonstrate the breadth of creative practice that the staff engage in alongside teaching and supporting students.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "The works exhibited demonstrate a vast range of skills and techniques utilised by the team featuring; photography, printmaking, illustration, digital collage, 3D sculpture, mixed media and more.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Previous works by this collective have been published and exhibited internationally, demonstrating the high calibre of talent teaching the next generation of artists in Bury St\_Edmunds.\_"
-  -
-    type: paragraph
+        text: "A doctor by profession and a self taught artist, Ayush explores the intricacies of life and beyond in cubist style and geometrical figures.\_"
   -
     type: paragraph
     content:
@@ -67,7 +52,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Occasionally, the Art Gallery is closed to the public. If you are travelling specifically to see an exhibition, please call the Box Ooffice on 01284 758000 before your visit.'
+        text: 'Occasionally, the Art Gallery is closed to the public. If you are travelling specifically to see an exhibition, please call the Box Office on 01284 758000 before your visit.'
   -
     type: paragraph
   -
@@ -130,8 +115,9 @@ content_area:
         text: ' an eight minute walk away.'
       -
         type: hardBreak
-      -
-        type: hardBreak
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'If you wish to book a wheelchair or mobility aid space, please contact the Box office on '
@@ -149,8 +135,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: paragraph
   -
     type: paragraph
     content:
@@ -178,7 +162,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713369484
+updated_at: 1715777271
 duplicated_from: 8edfb208-cd6e-490c-b06c-79694689592e
 ---
-Staff within the School of Art and Design, Leonardo Creative House, at West Suffolk College present an exhibition of their artwork.
+Ayush Sinha’s canvas, like Holi, are the celebration of colours and love. Vibrant shades coming out of his brush bring life to the canvas.
