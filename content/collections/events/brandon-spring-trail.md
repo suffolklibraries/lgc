@@ -1,14 +1,13 @@
 ---
 id: 04d61c34-4ec5-454a-88e9-359b9d2c23d8
-published: false
 blueprint: events
-title: 'Parkway Fun Day (Duplicated)'
+title: "Brandon Country Park's Spring Holiday Trail"
 organisers:
-  - haverhill-arts-centre
-featured_image: haverhill_arts_centre/haverhill-in-the-park-fe-2-screen.jpg
-start_date: '2024-08-01 11:00'
-end_date: '2024-08-01 15:00'
-free: true
+  - west-suffolk-parks
+featured_image: offthepressimages/otpillustrations/NATURE.png
+start_date: '2024-05-24 11:00'
+end_date: '2024-06-03 16:30'
+free: false
 virtual: false
 content_area:
   -
@@ -24,21 +23,27 @@ content_area:
     content:
       -
         type: text
-        text: 'Save the date as more details to come. Follow '
+        text: 'Follow the trail, solving the clues along the way, to help find the special word and then return to the cafe to collect a small prize.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Find up-to-date information about Brandon Country Park's visiting hours on "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.facebook.com/HaverhillTownCouncil/?locale=en_GB'
+              href: 'https://www.whatsonwestsuffolk.co.uk/parks/brandon-country-park/index.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'Haverhill Town Council on social media'
+        text: 'their website'
       -
         type: text
-        text: ' to stay up to date.'
+        text: .
   -
     type: heading
     attrs:
@@ -66,46 +71,27 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest car park is a the '
+        text: 'There is onsite paid for parking at Brandon Country Park, and you can find the information on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/haverhill-car-parks.cfm'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/brandon-country-park-car-park.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'South Car Park'
+        text: "country park's website"
       -
         type: text
-        text: ', which is located directly behind the Arts Centre. '
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Arts Centre is a two minute walk from the Bus Station on Jubilee Walk. Head for the High Street and turn left.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'The Arts Centre is on the right. You can find up to date bus times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Onboard website'
-      -
-        type: text
-        text: '. '
+        text: "There is not a nearby bus stop. The country park is approximately an half hour walk from Brandon's town centre. "
   -
     type: paragraph
     content:
@@ -131,26 +117,26 @@ content_area:
   -
     type: paragraph
 cta: |-
-  This event is organised by Suffolk Artlink
+  This event is organised by West Suffolk Council
 
-  [https://www.suffolkartlink.org.uk/](https://www.suffolkartlink.org.uk/) 
+  [https://www.westsuffolk.gov.uk/](https://www.westsuffolk.gov.uk/) 
 
   [enquiries@suffolkartlink.org.uk](mail:enquiries@suffolkartlink.org.uk)
 
-  [01986 873955](tel:01986873955)
+  [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715764321
+updated_at: 1715779784
 duplicated_from: 9ce31f38-9820-444a-a1b5-66b2552e5fa6
 attendance_information: '- Family Friendly'
 event_categories:
-  - art
-  - community
   - wellbeing
-latitude: '52.080992393382395'
-longitude: '0.44072955678052805'
-address_line_1: 'Haverhill Arts Centre'
-address_line_2: 'High Street'
-town: Haverhill
-postcode: 'CB9 8AR'
+  - nature
+latitude: '52.43617350622472'
+longitude: '0.6251570175510857'
+address_line_1: 'Brandon Country Park'
+address_line_2: 'Bury Road'
+town: Brandon
+postcode: 'IP27 0SU'
+cost_details: '£1.50 per trail'
 ---
-Parkway Fun Day is back!
+From Friday 24 May until Monday 3 June, come along to Brandon Country Park and pick up a trail sheet from the cafe.
