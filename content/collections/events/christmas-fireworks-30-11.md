@@ -1,13 +1,12 @@
 ---
 id: b7593f29-f19a-421e-b6bd-b756ad70a7bd
-published: false
 blueprint: events
-title: 'Haverhill in the Park (Duplicated)'
+title: 'Christmas Fireworks'
 organisers:
   - haverhill-arts-centre
-featured_image: offthepressimages/otpillustrations/support.png
-start_date: '2024-08-16 17:00'
-end_date: '2024-08-17 17:00'
+featured_image: haverhill_arts_centre/cw22-saturday-3-fireworks-22-screen.jpg
+start_date: '2024-11-30 17:30'
+end_date: '2024-11-30 18:03'
 free: true
 virtual: false
 content_area:
@@ -139,11 +138,10 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715769050
+updated_at: 1715770311
 duplicated_from: b4cad599-1267-49e4-b4e2-c2b262a91f48
 attendance_information: '- Family Friendly'
 event_categories:
-  - art
   - community
   - wellbeing
 latitude: '52.080992393382395'
@@ -153,4 +151,4 @@ address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
 ---
-Haverhill in the Park is back!
+Our Christmas fireworks display is back in November.
