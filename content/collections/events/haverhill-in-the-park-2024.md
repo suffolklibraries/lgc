@@ -4,7 +4,7 @@ blueprint: events
 title: 'Haverhill in the Park'
 organisers:
   - haverhill-arts-centre
-featured_image: haverhill_arts_centre/16-17-aug--hitp24.png
+featured_image: offthepressimages/otpillustrations/support.png
 start_date: '2024-08-16 17:00'
 end_date: '2024-08-17 17:00'
 free: true
@@ -138,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715764715
+updated_at: 1715769050
 duplicated_from: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
 attendance_information: '- Family Friendly'
 event_categories:
