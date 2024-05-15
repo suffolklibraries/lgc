@@ -1,13 +1,12 @@
 ---
 id: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
-published: false
 blueprint: events
 title: 'Chalkstone Fun Day (Duplicated)'
 organisers:
   - haverhill-arts-centre
 featured_image: offthepressimages/otpillustrations/support-1715763134.png
-start_date: '2024-07-24 11:00'
-end_date: '2024-07-24 15:00'
+start_date: '2024-07-25 11:00'
+end_date: '2024-07-25 15:00'
 free: true
 virtual: false
 content_area:
@@ -24,21 +23,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Save the date as more details to come. Check the '
+        text: 'Save the date as more details to come. Follow '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://haverhillartscentre.co.uk/performance/chalkstone-fun-day/'
+              href: 'https://www.facebook.com/HaverhillTownCouncil/?locale=en_GB'
               rel: null
               target: _blank
               title: null
-        text: 'Haverhill Arts Centre website'
+        text: 'Haverhill Town Council on social media'
       -
         type: text
-        text: ' for more information.'
+        text: ' to stay up to date.'
   -
     type: heading
     attrs:
@@ -139,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763436
+updated_at: 1715763621
 duplicated_from: 5ee6d077-35f1-4290-89bb-8682ff94314f
 attendance_information: '- Family Friendly'
 event_categories:
