@@ -1,13 +1,12 @@
 ---
 id: b4cad599-1267-49e4-b4e2-c2b262a91f48
-published: false
 blueprint: events
-title: 'Clements Fun Day (Duplicated)'
+title: 'Haverhill in the Park'
 organisers:
   - haverhill-arts-centre
-featured_image: haverhill_arts_centre/green-market-screen-30.jpg
-start_date: '2024-07-25 11:00'
-end_date: '2024-07-25 15:00'
+featured_image: haverhill_arts_centre/16-17-aug--hitp24.png
+start_date: '2024-08-16 17:00'
+end_date: '2024-08-17 17:00'
 free: true
 virtual: false
 content_area:
@@ -139,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715764180
+updated_at: 1715764715
 duplicated_from: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
 attendance_information: '- Family Friendly'
 event_categories:
@@ -153,4 +152,4 @@ address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
 ---
-Clements Fun Day is back!
+Haverhill in the Park is back!
