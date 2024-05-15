@@ -23,21 +23,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Save the date as more details to come. Check the '
+        text: 'Save the date as more details to come. Follow '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://haverhillartscentre.co.uk/performance/chalkstone-fun-day/'
+              href: 'https://www.facebook.com/HaverhillTownCouncil/?locale=en_GB'
               rel: null
               target: _blank
               title: null
-        text: 'Haverhill Arts Centre website'
+        text: 'Haverhill Town Council on social media'
       -
         type: text
-        text: ' for more information.'
+        text: ' to stay up to date.'
   -
     type: heading
     attrs:
@@ -138,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763436
+updated_at: 1715763589
 duplicated_from: 4983f758-e8fd-42d3-b152-233778987f25
 attendance_information: '- Family Friendly'
 event_categories:
