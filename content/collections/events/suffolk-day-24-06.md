@@ -2,7 +2,7 @@
 id: 3def1e86-99ca-48f9-b2b8-0add94857010
 published: false
 blueprint: events
-title: 'Suffolk Day (Duplicated)'
+title: 'Suffolk Day'
 organisers:
   - haverhill-arts-centre
 start_date: '2024-06-21 11:00'
@@ -128,7 +128,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715703704
+updated_at: 1715763048
 duplicated_from: 6e1251bf-0813-4321-9559-90237f1343d9
 event_categories:
   - art
@@ -139,6 +139,7 @@ address_line_1: 'Haverhill Arts Centre'
 address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
+featured_image: offthepressimages/otpillustrations/support.png
 ---
 Suffolk Day is a county-wide party to recognise our great icons, attractions, landscapes, institutions, special events and more. The annual festivities continue on the longest day of the year.
 
