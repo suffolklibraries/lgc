@@ -1,16 +1,16 @@
 ---
 id: 60773b72-52cc-4a13-86f8-480dbfd3c6d2
-published: false
 blueprint: events
-title: 'Springtime Family Activities (Duplicated)'
+title: 'Springtime Family Activities'
 event_categories:
   - history
   - art
+  - family-friendly
 organisers:
   - st-edmundsbury-cathedral
 featured_image: offthepressimages/otpillustrations/VISUALARTS.png
-start_date: '2024-05-28 10:00'
-end_date: '2024-05-28 12:00'
+start_date: '2024-05-29 10:00'
+end_date: '2024-05-29 12:00'
 free: true
 virtual: false
 latitude: '52.24395456477625'
@@ -198,7 +198,7 @@ cta: |-
 
   [01284 748720](tel:01284748720)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715788799
+updated_at: 1715788914
 attendance_information: '- Family friendly'
 duplicated_from: 3b351e18-7491-4e6f-981d-74a16e5b9891
 booking_link: 'https://www.eventbrite.co.uk/e/springtime-family-activities-tickets-876675809947'
