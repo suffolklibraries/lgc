@@ -1,13 +1,12 @@
 ---
 id: 412cb2df-3a43-433c-a827-fdad8a47fc1c
-published: false
 blueprint: events
-title: 'Clements Fun Day (Duplicated)'
+title: 'Picnic in the Park'
 organisers:
   - haverhill-arts-centre
 featured_image: offthepressimages/otpillustrations/support-1715763134.png
-start_date: '2024-07-25 11:00'
-end_date: '2024-07-25 15:00'
+start_date: '2024-07-31 11:00'
+end_date: '2024-07-31 15:00'
 free: true
 virtual: false
 content_area:
@@ -24,7 +23,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Save the date as more details to come. Follow '
+        text: 'With tons of fun activities for families to join in make sure to save the date as more details to come. Follow '
       -
         type: text
         marks:
@@ -139,13 +138,14 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763655
+updated_at: 1715763782
 duplicated_from: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
 attendance_information: '- Family Friendly'
 event_categories:
   - art
   - community
   - wellbeing
+  - food
 latitude: '52.080992393382395'
 longitude: '0.44072955678052805'
 address_line_1: 'Haverhill Arts Centre'
@@ -153,4 +153,4 @@ address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
 ---
-Clements Fun Day is back!
+Picnic in the Park is back!
