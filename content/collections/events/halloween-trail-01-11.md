@@ -1,13 +1,12 @@
 ---
 id: 64a59b59-5a73-48e9-b0fd-02baa1ec4a1b
-published: false
 blueprint: events
-title: 'Picnic in the Park (Duplicated)'
+title: 'Halloween Trail'
 organisers:
   - haverhill-arts-centre
-featured_image: offthepressimages/otpillustrations/support-1715763134.png
-start_date: '2024-07-31 11:00'
-end_date: '2024-07-31 15:00'
+featured_image: haverhill_arts_centre/halloween-trail-2022-63-print.jpg
+start_date: '2024-11-01 17:30'
+end_date: '2024-11-01 20:00'
 free: true
 virtual: false
 content_area:
@@ -24,7 +23,7 @@ content_area:
     content:
       -
         type: text
-        text: 'With tons of fun activities for families to join in make sure to save the date as more details to come. Follow '
+        text: 'This year’s trail will take place at East Town Park. More details to follow closer to the day and times to be confirmed. Follow '
       -
         type: text
         marks:
@@ -66,32 +65,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest car park is a the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/haverhill-car-parks.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'South Car Park'
-      -
-        type: text
-        text: ', which is located directly behind the Arts Centre. '
+        text: 'There is on site parking at East Town car park.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Arts Centre is a two minute walk from the Bus Station on Jubilee Walk. Head for the High Street and turn left.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'The Arts Centre is on the right. You can find up to date bus times on the '
+        text: "The nearest bus stop is a minute's walk away and you can find up to date bus times on the "
       -
         type: text
         marks:
@@ -139,19 +119,16 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763782
+updated_at: 1715770125
 duplicated_from: 412cb2df-3a43-433c-a827-fdad8a47fc1c
 attendance_information: '- Family Friendly'
 event_categories:
-  - art
   - community
-  - wellbeing
-  - food
-latitude: '52.080992393382395'
-longitude: '0.44072955678052805'
-address_line_1: 'Haverhill Arts Centre'
-address_line_2: 'High Street'
+latitude: '52.076179177420755'
+longitude: '0.45861311260101434'
+address_line_1: 'East Town Park'
+address_line_2: 'Coupals Road'
 town: Haverhill
-postcode: 'CB9 8AR'
+postcode: 'CB9 7UR'
 ---
-Picnic in the Park is back!
+Our popular Halloween Trail is back!
