@@ -10,7 +10,7 @@ organisers:
   - moyses-hall-museum
 featured_image: moyses-hall/quentin-blake.jpg
 start_date: '2024-06-04 10:00'
-end_date: '2022-10-06 17:00'
+end_date: '2024-10-06 17:00'
 free: false
 virtual: false
 latitude: '52.2464060571964451'
@@ -269,7 +269,7 @@ cta: |-
 
   [01284 706183](tel:01284706183)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715775966
+updated_at: 1715776771
 attendance_information: '- Family friendly'
 duplicated_from: 0838c256-94e5-4620-b26c-4b74d65dc341
 cost_details: 'Adult £5, child £3, under 5s go free'
