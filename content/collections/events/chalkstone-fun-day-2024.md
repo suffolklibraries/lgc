@@ -4,7 +4,7 @@ blueprint: events
 title: 'Chalkstone Fun Day'
 organisers:
   - haverhill-arts-centre
-featured_image: offthepressimages/otpillustrations/support-1715763134.png
+featured_image: haverhill_arts_centre/picnic-at-etp-40-screen.jpg
 start_date: '2024-07-24 11:00'
 end_date: '2024-07-24 15:00'
 free: true
@@ -138,7 +138,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715763589
+updated_at: 1715764036
 duplicated_from: 4983f758-e8fd-42d3-b152-233778987f25
 attendance_information: '- Family Friendly'
 event_categories:
