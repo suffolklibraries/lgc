@@ -1,8 +1,7 @@
 ---
 id: 28f25c1c-9460-414a-a65d-d58e66e03d5e
-published: false
 blueprint: events
-title: 'Springtime Family Activities (Duplicated)'
+title: 'May Half-Term in the Yard'
 event_categories:
   - history
   - art
@@ -11,7 +10,7 @@ organisers:
   - st-edmundsbury-cathedral
 featured_image: offthepressimages/otpillustrations/VISUALARTS.png
 start_date: '2024-05-29 10:00'
-end_date: '2024-05-29 12:00'
+end_date: '2024-05-29 15:00'
 free: true
 virtual: false
 latitude: '52.24395456477625'
@@ -34,15 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Free to attend for children aged 4 -11 and their families. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'All children must be accompanied – crafts are for everyone to get involved!'
-  -
-    type: paragraph
+        text: 'Eco-crafts and activities, games, firepit, lunch and more. '
   -
     type: heading
     attrs:
@@ -56,21 +47,47 @@ content_area:
     content:
       -
         type: text
-        text: "Free tickets can be booked online\_their "
+        text: 'Please pre-boo as only limited spaces are available. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Contact '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.eventbrite.co.uk/e/springtime-family-activities-tickets-876675809947'
-              rel: null
-              target: _blank
+              href: 'mailto:janedow@stedscathedral.org'
+              rel: ''
+              target: null
               title: null
-        text: 'Eventbrite page'
+        text: janedow@stedscathedral.org
       -
         type: text
-        text: .
+        text: ' or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07747540594'
+              rel: null
+              target: null
+              title: null
+        text: '07747 540 594'
+      -
+        type: text
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Priority spaces and meal provided for children whose families are eligible or have an identified need.'
   -
     type: paragraph
   -
@@ -199,9 +216,8 @@ cta: |-
 
   [01284 748720](tel:01284748720)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715788914
-attendance_information: '- Family friendly'
+updated_at: 1715789213
+attendance_information: '- Ages 11 – 18'
 duplicated_from: 60773b72-52cc-4a13-86f8-480dbfd3c6d2
-booking_link: 'https://www.eventbrite.co.uk/e/springtime-family-activities-tickets-876675809947'
 ---
-Join us at St Edmundsbury Cathedral in May half term for fun-filled mornings of family-friendly craft activities inspired by springtime.
+Join us in the Yard this May half-term.
