@@ -126,12 +126,11 @@ cta: |-
 
   [https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/](https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/) 
 
-
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709824340
+updated_at: 1715788720
 duplicated_from: 77f18de6-1667-4a74-afb4-26851a886921
 ---
 Animals in the Art Gallery is a family friendly exhibition that explores British wildlife alongside artistic depictions of animals in all shapes and sizes, from the Middle Ages to the present day.
