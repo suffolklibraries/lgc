@@ -1,7 +1,9 @@
 <?php
 
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 use Spatie\Honeypot\ProtectAgainstSpam;
+use App\Http\Controllers\UserController;
 use App\Http\Controllers\EventSubmissionController;
 
 /*
@@ -18,3 +20,14 @@ use App\Http\Controllers\EventSubmissionController;
 Route::post('submit-event', [EventSubmissionController::class, 'store'])
     ->name('event-submission.store')
     ->middleware(ProtectAgainstSpam::class);
+
+Route::group(['as' => 'user.'], function(){
+    Route::get('register', [UserController::class, 'register'])->name('register');
+    Route::post('register', [UserController::class, 'store'])
+        ->name('register.store')
+        ->middleware(ProtectAgainstSpam::class);
+
+    Route::get('dashboard', function() {
+        ddd(Auth::user());
+    })->name('dashboard');
+});
