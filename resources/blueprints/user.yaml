@@ -1,29 +1,99 @@
 title: User
-fields:
-  -
-    handle: name
-    field:
-      type: text
-      display: Name
-  -
-    handle: email
-    field:
-      type: text
-      input: email
-      display: Email Address
-  -
-    handle: roles
-    field:
-      type: user_roles
-      width: 50
-  -
-    handle: groups
-    field:
-      type: user_groups
-      width: 50
-  -
-    handle: avatar
-    field:
-      type: assets
-      max_files: 1
-      container: assets
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: name
+            field:
+              type: text
+              display: Name
+          -
+            handle: email
+            field:
+              type: text
+              input_type: email
+              display: 'Email Address'
+              listable: true
+              input: email
+          -
+            handle: roles
+            field:
+              type: user_roles
+              mode: select
+              width: 50
+              listable: true
+              filterable: false
+          -
+            handle: groups
+            field:
+              type: user_groups
+              mode: select
+              width: 50
+              listable: true
+              filterable: false
+          -
+            handle: avatar
+            field:
+              type: assets
+              max_files: 1
+              container: assets
+  organisation:
+    display: Organisation
+    sections:
+      -
+        fields:
+          -
+            handle: organisation_name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Name
+              icon: text
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: organisation_email
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Email
+              icon: text
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: organisation_tel
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Tel
+              icon: text
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: organisation_website
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Website
+              icon: text
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
