@@ -28,7 +28,7 @@ class SubmittedEventPublished
         if($event->entry->collection->handle === 'events') {
             $originalEntry = Entry::find($event->entry->id);
 
-            if(!$originalEntry->published && $event->entry->published) {
+            if($originalEntry && !$originalEntry->published && $event->entry->published) {
                 if($event->entry->submitter_name && $event->entry->submitter_email_address) {
                     Notification::route('mail', $event->entry->submitter_email_address)
                         ->notify(new UserEventPublished($event->entry->submitter_name, $event->entry));
