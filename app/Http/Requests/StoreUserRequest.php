@@ -39,7 +39,7 @@ class StoreUserRequest extends FormRequest
             'organisation_name' => ['required', 'string', 'max:255'],
             'organisation_email' => ['required', 'email', 'string', 'max:255'],
             'organisation_tel' => [ 'max:255'],
-            'organisation_website' => ['sometimes', 'url:http,https', 'max:255']
+            'organisation_website' => ['sometimes', 'nullable', 'url:http,https', 'max:255']
         ];
     }
 
