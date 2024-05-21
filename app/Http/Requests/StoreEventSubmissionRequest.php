@@ -29,21 +29,21 @@ class StoreEventSubmissionRequest extends FormRequest
             'end' => ['required', 'date', 'after:start'],
             'free' => [],
             'virtual' => [],
-            'cost_details' => [],
+            'cost_details' => ['max:255'],
             'attendance_information' => [],
             'accessibility_information' => [],
             'address_line_1' => ['required'],
-            'address_line_2' => ['required'],
+            'address_line_2' => [],
             'town' => ['required'],
             'postcode' => ['required'],
             'lat' => [],
             'lng' => [],
             'content' => [],
-            'booking_link' => [],
-            'cta' => [],
-            'categories' => [],
+            'booking_link' => ['url:https,http'],
+            'cta' => ['max:1000'],
+            'categories' => ['required', 'array', 'min:1'],
             'organisers' => ['required', 'array', 'min:1'],
-            'image' => ['sometimes', 'image'],
+            'image' => ['sometimes', 'image', 'max:5120'],
             'name' => ['required'],
             'email' => ['required', 'email'],
         ];
@@ -52,9 +52,7 @@ class StoreEventSubmissionRequest extends FormRequest
     public function messages(): array
     {
         return [
-            'image' => [
-                'size' => "Image must be 5MB or smaller"
-            ]
+            'image.max' => "Image must be 5MB or smaller"
         ];
     }
 }
