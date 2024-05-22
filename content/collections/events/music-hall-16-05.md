@@ -1,5 +1,6 @@
 ---
 id: 428e2f3f-46a3-4438-a11e-42a94c3cc540
+published: false
 blueprint: events
 title: 'An Evening of Old Time Music Hall'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
