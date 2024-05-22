@@ -122,6 +122,14 @@ class UserDashboardController extends Controller
     public function editEvent(string $entryId): View
     {
         $entry = $this->getEntry($entryId);
+
+        // Is the user allowed to edit this event?
+        if(!$entry->created_by || $entry->created_by !== User::current()?->id) {
+            return (new View)
+                ->layout('layout')
+                ->template('errors.404');
+        }
+
         $categories = $entry->get('event_categories');
         $eventOrganisers = $entry->get('organisers');
 
