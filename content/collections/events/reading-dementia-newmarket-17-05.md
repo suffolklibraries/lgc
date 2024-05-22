@@ -1,5 +1,6 @@
 ---
 id: 9a3c7836-c150-4fc1-b3b3-e588c3716d84
+published: false
 blueprint: events
 title: 'Reading with Dementia - Newmarket'
 event_categories:
