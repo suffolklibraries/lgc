@@ -1,7 +1,5 @@
-{{ old[field_name] | dump }}
-
 <div x-data="{
-    uploadedImagePreviewUrl: '',
+    uploadedImagePreviewUrl: '{{ value ?? '' }}',
     isDragging: false,
     handleUploadedImage(event) {
         const file = event.target.files[0];
@@ -21,13 +19,11 @@
         this.isDragging = false;
     },
     drop(event) {
-        console.log(event);
-
         event.preventDefault()
         $refs.imageUpload.value.files = event.dataTransfer.files
         this.handleUploadedImage(event)
         this.isDragging = false;
-    }
+    },
 }"
     class="tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-6 tw-px-8 tw-py-10 tw-border tw-border-dashed tw-border-[#C6C6C6]"
     :class="{

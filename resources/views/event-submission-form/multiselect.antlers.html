@@ -1,13 +1,25 @@
 <!-- Define component with preselected options -->
-<div class="w-full" x-data='alpineMultiSelect({selected:{{ old[field_name] ? {old[field_name] | to_json} : "[]" }}, elementId:"{{ field_name }}"})'>
+{{ if value }}
+    {{ selected = {value | to_json} }}
+{{ elseif old[field_name] }}
+    {{ selected =  {old[field_name] | to_json} }}
+{{ else }}
+    {{ selected = "[]" }}
+{{ /if }}
 
+<div class="w-full" x-data='alpineMultiSelect({
+    selected:{{ selected }},
+    elementId:"{{ field_name }}"
+})'>
     <!-- Select Options -->
     <select class="tw-hidden" id="{{ field_name }}" name="{{ field_name }}[]" multiple x-model="selectedValues()">
         {{ options }}
             <option
-                value="{{ id }}"
+                value="{{ slug }}"
                 data-search="{{ title }}"
-                {{ if (old[field_name] | in_array(id)) }}
+                {{ if (old[field_name] | in_array(slug)) }}
+                    selected
+                {{ elseif (value | in_array(slug)) }}
                     selected
                 {{ /endif }}
             >

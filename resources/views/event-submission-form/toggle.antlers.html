@@ -7,6 +7,8 @@
             name="{{ field_name }}"
             {{ if old[field_name] }}
                 checked
+            {{ elseif value === true }}
+                checked
             {{ /if }}
         >
         <div class="
