@@ -1,5 +1,6 @@
 ---
 id: 3da5779a-3a74-4348-a41e-188027a48aba
+published: false
 blueprint: events
 title: 'Wonderful Words for Wellbeing'
 organisers:
