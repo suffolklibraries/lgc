@@ -1,5 +1,6 @@
 ---
 id: febc325c-07ea-4f6e-b52c-54bc4cb7cb24
+published: false
 blueprint: events
 title: 'Bury BioBlitz'
 event_categories:
