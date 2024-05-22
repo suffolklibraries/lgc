@@ -1,5 +1,6 @@
 ---
 id: 76dfad9e-bc9d-4d3f-9bc5-fa7666d02b8b
+published: false
 blueprint: events
 title: 'East Suffolk Skylarks - Ipswich'
 latitude: '52.0662303017994'
