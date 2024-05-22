@@ -1,5 +1,6 @@
 ---
 id: 8edfb208-cd6e-490c-b06c-79694689592e
+published: false
 blueprint: events
 title: 'Infinite Echoes Exhibition'
 event_categories:
