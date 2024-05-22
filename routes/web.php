@@ -38,6 +38,13 @@ Route::group(['as' => 'user.'], function(){
 
         Route::get('my-organisation', [UserDashboardController::class, 'organisation'])->name('my-organisation.index');
         Route::post('my-organisation', [UserDashboardController::class, 'updateOrganisationDetails'])->name('my-organisation.update');
+
+        Route::get('my-events', [UserDashboardController::class, 'events'])->name('my-events.index');
+        Route::get('my-events/create', [UserDashboardController::class, 'createEvent'])->name('my-events.create');
+        Route::get('my-events/{entryId}/edit', [UserDashboardController::class, 'editEvent'])->name('my-events.edit');
+        Route::patch('my-events/{entryId}/update', [UserDashboardController::class, 'updateEvent'])->name('my-events.update')->middleware(ProtectAgainstSpam::class);
+        Route::delete('my-events/{entryId}/delete', [UserDashboardController::class, 'deleteEvent'])->name('my-events.delete')->middleware(ProtectAgainstSpam::class);
+        Route::post('my-events/store', [UserDashboardController::class, 'storeEvent'])->name('my-events.store')->middleware(ProtectAgainstSpam::class);
     })->middleware(['auth']);
 
     Route::post('logout', LogoutController::class)->name('logout')->middleware(['auth']);
