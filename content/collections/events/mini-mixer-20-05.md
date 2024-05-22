@@ -1,5 +1,6 @@
 ---
 id: 6e080211-a92a-4ade-af9f-28c0d388781a
+published: false
 blueprint: events
 title: 'Mini Mixers'
 event_categories:
