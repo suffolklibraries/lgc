@@ -9,15 +9,16 @@ use Statamic\Facades\Asset;
 use Statamic\Facades\Entry;
 use Illuminate\Http\Request;
 use Illuminate\Support\Carbon;
+use Mews\Purifier\Facades\Purifier;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Http\RedirectResponse;
-use App\Http\Requests\DeleteEventRequest;
+use Statamic\Modifiers\CoreModifiers;
 use App\Http\Requests\StoreEventRequest;
+use App\Http\Requests\DeleteEventRequest;
 use App\Http\Requests\UpdateEventRequest;
 use App\Http\Requests\UpdateUserDetailsRequest;
 use App\Http\Requests\UpdateUserOrganisationRequest;
-use Statamic\Modifiers\CoreModifiers;
 
 class UserDashboardController extends Controller
 {
@@ -124,7 +125,7 @@ class UserDashboardController extends Controller
         $entry = $this->getEntry($entryId);
 
         // Is the user allowed to edit this event?
-        if(!$entry->created_by || $entry->created_by !== User::current()?->id) {
+        if(!$entry->created_by || $entry->created_by?->id !== User::current()?->id) {
             return (new View)
                 ->layout('layout')
                 ->template('errors.404');
@@ -181,7 +182,7 @@ class UserDashboardController extends Controller
             'address_line_2' => $request->address_line_2,
             'town' => $request->town,
             'postcode' => $request->postcode,
-            'content_area' => $request->content,
+            'content_area' => Purifier::clean($request->content),
             'booking_link' => $request->booking_link,
             'cta' => $request->cta,
             'cost_details' => $request->cost_details,
@@ -281,7 +282,7 @@ class UserDashboardController extends Controller
                 'address_line_2' => $request->address_line_2,
                 'town' => $request->town,
                 'postcode' => $request->postcode,
-                'content_area' => $request->content,
+                'content_area' => Purifier::clean($request->content),
                 'booking_link' => $request->booking_link,
                 'cta' => $request->cta,
                 'cost_details' => $request->cost_details,
