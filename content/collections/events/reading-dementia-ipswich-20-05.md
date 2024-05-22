@@ -1,5 +1,6 @@
 ---
 id: bf5d94a3-6983-4991-b86e-9639a551968b
+published: false
 blueprint: events
 title: 'Reading with Dementia - Ipswich'
 event_categories:
