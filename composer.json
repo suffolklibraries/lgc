@@ -8,6 +8,7 @@
         "guzzlehttp/guzzle": "^7.0.1",
         "laravel/framework": "^10.0",
         "laravel/tinker": "^2.0",
+        "mews/purifier": "^3.4",
         "spatie/laravel-honeypot": "^4.5",
         "statamic/cms": "^4.0",
         "symfony/http-client": "^6.4",
