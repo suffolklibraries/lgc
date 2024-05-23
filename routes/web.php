@@ -8,6 +8,7 @@ use App\Http\Controllers\Auth\LogoutController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\UserDashboardController;
 use App\Http\Controllers\EventSubmissionController;
+use App\Http\Controllers\InappropriateContentReportController;
 
 /*
 |--------------------------------------------------------------------------
@@ -52,3 +53,7 @@ Route::group(['as' => 'user.'], function(){
 
 Route::get('login', [LoginController::class, 'index'])->name('login');
 Route::post('login', [LoginController::class, 'store'])->name('login.store')->middleware(ProtectAgainstSpam::class);
+
+Route::post('report-content/{entryId}', [InappropriateContentReportController::class, 'store'])
+    ->name('report-content')
+    ->middleware(ProtectAgainstSpam::class);
