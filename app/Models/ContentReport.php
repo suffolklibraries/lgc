@@ -5,9 +5,10 @@ namespace App\Models;
 use Statamic\Entries\Entry;
 use Illuminate\Database\Eloquent\Model;
 use Statamic\Facades\Entry as EntryFacade;
+use Statamic\Exceptions\EntryNotFoundException;
+use Illuminate\Database\Eloquent\Casts\Attribute;
 use StatamicRadPack\Runway\Traits\HasRunwayResource;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
-use Statamic\Exceptions\EntryNotFoundException;
 
 class ContentReport extends Model
 {
@@ -24,7 +25,7 @@ class ContentReport extends Model
         'complete' => 'boolean'
     ];
 
-    public function getEntry(): Entry
+    protected function getEntry(): Entry
     {
         $entry = EntryFacade::find($this->entry_id);
 
@@ -33,6 +34,15 @@ class ContentReport extends Model
         }
 
         return $entry;
+    }
+
+    public function entry(): Attribute
+    {
+        return Attribute::make(
+            get: function() {
+                return $this->getEntry();
+            }
+        );
     }
 
     public function scopeRunwayListing($query)
