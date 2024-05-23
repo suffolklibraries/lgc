@@ -33,7 +33,7 @@
               {{ else }}
                 {{ cost_details }}
               {{ /if }}
-            </span>          
+            </span>
           </li>
         {{ /if }}
 
@@ -79,8 +79,17 @@
         {{ cta }}
       </div>
     {{ /if }}
+    <button
+        type="button"
+        class="tw-flex tw-gap-3 tw-items-center tw-text-brand-pink tw-font-bold tw-text-lg !tw-mt-4"
+        aria-label="Open Report Inappropriate Content Form"
+        @click="openFlagContentModal"
+    >
+        {{ svg:flag class="tw-w-6 tw-h-6" }}
+        Report Inappropriate Content
+    </button>
   </aside>
-  
+
   <div class="o-flow o-flow--l">
     {{ if featured_image }}
       {{ glide:featured_image width="1251" height="834" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}

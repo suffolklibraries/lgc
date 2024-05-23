@@ -37,7 +37,12 @@ var: 3
             {{ global:header_scripts }}
         {{ endif }}
     </head>
-    <body>
+    <body
+        class="tw-relative"
+        {{ if collection == 'events' }}
+            {{ partial:partial/report_content_alpine }}
+        {{ /if }}
+    >
         <a class="c-skip-link button button--pink" href="#main">Skip to content</a>
 
         {{ partial:global/subheader }}
@@ -49,6 +54,10 @@ var: 3
         </div>
 
         {{ partial:global/footer }}
+
+        {{ if collection == 'events' }}
+            {{ partial:partial/report_content_form }}
+        {{ /if }}
 
         <script>
             var _maps = {
