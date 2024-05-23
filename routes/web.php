@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Auth\ForgotPasswordController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 use Spatie\Honeypot\ProtectAgainstSpam;
@@ -53,6 +54,9 @@ Route::group(['as' => 'user.'], function(){
 
 Route::get('login', [LoginController::class, 'index'])->name('login');
 Route::post('login', [LoginController::class, 'store'])->name('login.store')->middleware(ProtectAgainstSpam::class);
+
+Route::get('password/reset', [ForgotPasswordController::class, 'index'])->name('password.request');
+Route::post('password/email', [ForgotPasswordController::class, 'sendResetLink'])->name('password.email')->middleware(ProtectAgainstSpam::class);
 
 Route::post('report-content/{entryId}', [InappropriateContentReportController::class, 'store'])
     ->name('report-content')
