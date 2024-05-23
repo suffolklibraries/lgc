@@ -28,6 +28,7 @@ if (mix.inProduction()) {
         open: false,
         files: [
             '**/*.html',
+            '**/*.blade.php',
             '**/*.css',
             '**/*.js'
         ]
