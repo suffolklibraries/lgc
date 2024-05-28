@@ -1,5 +1,6 @@
 ---
 id: fe7d9c0a-a391-406b-9b7f-39834b6a30ea
+published: false
 blueprint: events
 title: 'Sensory Play Day'
 organisers:
