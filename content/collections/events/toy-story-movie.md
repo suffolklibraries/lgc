@@ -1,15 +1,14 @@
 ---
 id: 3fa04964-0838-4dc3-ac9a-c13ccc8e98e8
-published: false
 blueprint: events
-title: 'Cinema Club – LEGO® Movie (Duplicated)'
+title: 'Cinema Club – Toy Story'
 event_categories:
-  - museums
-  - art
+  - film
+  - family-friendly
 organisers:
   - suffolk-archives
-start_date: '2024-07-26 10:00'
-end_date: '2024-07-26 12:30'
+start_date: '2024-08-09 10:00'
+end_date: '2024-08-09 12:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Emmet, an ordinary LEGO® figurine who always follows the rules, is mistakenly identified as the Special, an extraordinary being and the key to saving the world. He finds himself drafted into a fellowship of strangers on a mission to stop an evil tyrant’s plans to conquer the world. Unfortunately for Emmet, he is hopelessly, and hilariously, unprepared for such a task, but he’ll give it his all nonetheless.'
+        text: 'Woody, a good-hearted cowboy doll who belongs to a young boy named Andy, sees his position as Andy’s favourite toy threatened when his parents buy him a Buzz Lightyear action figure. Even worse, the arrogant Buzz thinks he’s a real spaceman on a mission to return to his home planet. When Andy’s family moves to a new house, Woody and Buzz must escape the clutches of maladjusted neighbour Sid Phillips and reunite with their boy.'
   -
     type: heading
     attrs:
@@ -138,9 +137,9 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/booking/select/ECDiTANrjaXB'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-obmjja&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716908291
+updated_at: 1716908401
 duplicated_from: 48c21482-b8ce-416c-9716-34eda659e753
 featured_image: offthepressimages/Film.png
 cta: |-
