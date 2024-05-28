@@ -1,15 +1,14 @@
 ---
 id: 4e8de6ec-2ed1-4522-9a42-cb658c278fc2
-published: false
 blueprint: events
-title: "Let's Get Crafty - Suffolk Wonders (Duplicated) (Duplicated)"
+title: "Let's Get Crafty - Suffolk Wonders"
 event_categories:
   - museums
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-07-29 10:30'
-end_date: '2024-07-29 12:30'
+start_date: '2024-08-12 10:30'
+end_date: '2024-08-12 12:30'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -140,7 +139,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qlqjop&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716907004
+updated_at: 1716907060
 duplicated_from: 816600ac-849f-43e4-a6f3-5bb271db94f8
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cta: |-
