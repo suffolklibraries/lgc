@@ -1,20 +1,19 @@
 ---
 id: a3821641-07f1-421d-a13a-0b40e8c3b430
-published: false
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated)'
+title: Squawk
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716893798
-start_date: '2024-09-05 12:30'
-end_date: '2024-09-05 14:00'
+updated_at: 1716898943
+start_date: '2024-05-30 10:00'
+end_date: '2024-05-30 15:00'
 free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
 featured_image: offthepressimages/otpillustrations/music.png
-attendance_information: '- Dementia friendly'
+attendance_information: '- Adults with learning disabilities'
 content_area:
   -
     type: heading
@@ -29,19 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We have a fun sing-a-long every Thursday between 12.30pm and 2.00pm.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'It’s a free, fun activity for people living with dementia and their families, with free tea and biscuits. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'No musical experience or talent required, just come along and join in! '
+        text: 'We meet each week in term time and our professional dancers and choreographers support the group to develop their song and dance skills, but also to have fun!'
   -
     type: heading
     attrs:
@@ -148,4 +135,4 @@ event_categories:
   - community
   - music
 ---
-A fun weekly group for people and families living with dementia.
+Musical theathre workshops for adults with learning disabilities.
