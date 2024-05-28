@@ -131,14 +131,13 @@ booking_link: 'https://ipswich.cimuseums.org.uk/events/minimansions-jun/'
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/events/minimansions-jun/](https://ipswich.cimuseums.org.uk/events/minimansions-jun/) 
-
+  [https://ipswich.cimuseums.org.uk/](https://ipswich.cimuseums.org.uk/) 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1709806735
+updated_at: 1716910446
 duplicated_from: 6e3ce772-66f2-40d9-9c27-5be126f37f0f
 cost_details: £3
 ---
