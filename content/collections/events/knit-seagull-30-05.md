@@ -1,13 +1,12 @@
 ---
 id: 17105eda-6dc1-4407-af90-daf628cd7cc9
-published: false
 blueprint: events
-title: 'Knit and Natter (Duplicated)'
+title: 'Knit and Natter'
 organisers:
   - the-seagull-theatre
-featured_image: offthepressimages/otpillustrations/CRAFTS.png
-start_date: '2024-04-11 10:00'
-end_date: '2024-04-11 12:00'
+featured_image: offthepressimages/olderpeople.png
+start_date: '2024-05-30 10:00'
+end_date: '2024-05-30 12:00'
 free: true
 virtual: false
 latitude: '52.45680368528646'
@@ -42,13 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The bar is open for teas/coffees.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Pop in for 30 minutes or stay for two hours.'
+        text: 'The bar is open for teas/coffees. Pop in for 30 minutes or stay for two hours.'
   -
     type: heading
     attrs:
@@ -132,11 +125,10 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712833066
+updated_at: 1716895168
 duplicated_from: a774c751-be2d-40e8-82f9-346e87f9feeb
 event_categories:
   - later-life
 accessibility_information: '- Wheelchair access'
-booking_link: 'https://theseagull.co.uk/2020/07/15/knit-and-natter/'
 ---
 A free and relaxing knit and natter
