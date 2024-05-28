@@ -1,5 +1,6 @@
 ---
 id: 4ebb47d0-363c-4dbf-9030-fc5653bfbf0d
+published: false
 blueprint: events
 title: 'Craft Fayre & WW2 Operations Room Open Day'
 event_categories:
