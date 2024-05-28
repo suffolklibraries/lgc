@@ -1,14 +1,13 @@
 ---
 id: f528884d-c223-456a-b00c-f0d42ac80290
-published: false
 blueprint: events
-title: 'Heritage Open Days - Behind the Scenes Tours of the Hold (Duplicated)'
+title: 'Heritage Open Days - Behind the Scenes Tours of the Hold'
 event_categories:
   - museums
 organisers:
   - suffolk-archives
 start_date: '2024-09-07 10:30'
-end_date: '2024-09-07 14:30'
+end_date: '2024-09-07 13:00'
 free: true
 virtual: false
 latitude: '52.05322071930784'
@@ -36,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Tours start at 10.30am, midday, and 1.30pm.'
+        text: 'Tours start at 10.30am and midday.'
   -
     type: heading
     attrs:
@@ -144,7 +143,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kbajza&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716909189
+updated_at: 1716909250
 duplicated_from: 17f930c1-e73f-484a-b585-18f114ea0bff
 featured_image: offthepressimages/otpillustrations/support-1715763134.png
 cta: |-
