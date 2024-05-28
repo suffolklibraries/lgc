@@ -1,14 +1,13 @@
 ---
 id: e01499cf-ee08-4bcd-8cf1-5e2e77447da5
-published: false
 blueprint: events
-title: 'Make Suffolk out of LEGO® Bricks (Duplicated)'
+title: "Let's Get Crafty - Brick Wonders"
 event_categories:
   - museums
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-08-20 10:00'
+start_date: '2024-08-20 10:30'
 end_date: '2024-08-20 12:30'
 free: false
 virtual: false
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at The Hold to have some fun making Suffolk out of LEGO® bricks'
+        text: 'Come and enjoy some family-friendly crafts inspired by LEGO® bricks.'
   -
     type: heading
     attrs:
@@ -138,9 +137,9 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jbrvml&target='
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kbxvyk&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716907615
+updated_at: 1716907880
 duplicated_from: 89c2ff08-bb89-4b51-a418-0d2b594a7e25
 featured_image: offthepressimages/otpillustrations/support.png
 cta: |-
