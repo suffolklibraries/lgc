@@ -1,13 +1,12 @@
 ---
 id: e0239aa7-d3af-4aa9-92dc-4c3a1396b92f
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club (Duplicated)'
+title: 'Sunday Classics Film Club - Calamity Jane'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716899923
-start_date: '2024-06-09 14:30'
-end_date: '2024-06-09 16:00'
+updated_at: 1716900038
+start_date: '2024-07-21 13:30'
+end_date: '2024-07-21 16:00'
 free: true
 virtual: false
 organisers:
@@ -73,21 +72,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Email '
+        text: 'Visit the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:community@theseagull.co.uk'
+              href: 'https://theseagull.co.uk/seagull_shows/sunday-classics-calamity-jane/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: community@theseagull.co.uk
+        text: "Seagull Theatre's website"
       -
         type: text
-        text: ' for more information and to book.'
+        text: ' to book your pay as you can ticket.'
   -
     type: heading
     attrs:
@@ -164,5 +163,6 @@ postcode: 'NR33 0JH'
 duplicated_from: e424d08a-a22c-4f0a-b7c5-afa260e45f49
 event_categories:
   - film
+booking_link: 'https://www.ticketsource.co.uk/booking/venueplan/gGFXhKbdfkaC'
 ---
-A free accessible film screening designs for those living with dementia and their families.
+A free accessible film screening for those living with dementia and their families.
