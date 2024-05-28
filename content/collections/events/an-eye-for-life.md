@@ -1,16 +1,15 @@
 ---
 id: f127e8d4-f2a9-4d0e-bf5e-9c06405ce476
-published: false
 blueprint: events
-title: 'Animals in the Art Gallery (Duplicated)'
+title: 'An Eye For Life: Photography By John Ferguson'
 event_categories:
   - exhibition
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/animals-in-the-art-gallery.jpg
-start_date: '2023-05-13 10:00'
-end_date: '2024-04-14 16:00'
+featured_image: offthepressimages/otpillustrations/EXHIBITION.png
+start_date: '2023-06-29 10:00'
+end_date: '2025-04-27 16:00'
 free: true
 virtual: false
 attendance_information: 'Suitable for all ages'
@@ -34,19 +33,31 @@ content_area:
     content:
       -
         type: text
-        text: 'Visitors can see some familiar animals from Ipswich Museums Natural History collection, who are creating a new habitat in the Wolsey Art Gallery!'
+        text: 'Showcasing portrait projects that John has worked on over the years, the display includes Ipswich’s newly acquired Black Suffolk portraits funded by the Art Fund and The Friends of the Ipswich Museums. The series of 20 photographic portraits creatively explores the concept of home for a diversity of people from the African-Caribbean community who were born here or have made Suffolk their home.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Artists have always been interested in drawing, painting and sculpting the natural world and the creatures we share our planet with. Enjoy artworks that reflect different animal habitats from woodland to coastal, gardens to urban. Then find out how many different animals can be found in the pictures, sculpture and ceramics.'
+        text: 'John has worked in 60 countries and covered a diverse range of photo stories from conflict zones and national disasters to promotional campaigns focusing on poverty, refugees and rural loneliness. He has photographed countless celebrities from Prince to Beyonce. In 2005, he photographed 50 black British pioneers for the Black Britannia project, which was then collected by the National Portrait Gallery.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'A new creative studio will also be revealed in the Wolsey Art Gallery, where visitors are invited to make your own artistic animals. A space to play, draw and get creative with the Animals in the Art Gallery!'
+        text: 'This will be the first exhibition to showcase John’s photography in Suffolk and explore his past career. Highlights will include his work as a senior photographer for a leading national Newspaper.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The exhibition covers his time working with celebrities, including Oasis, The Spice Girls, The Osbournes, Dolly Parton, Tom Jones, Bowie, and many more. It also looks at John’s favourite personal photo projects, from the Forgotten African American Cowboys to street photography, Ipswich Banger Racers and his work with the Albino and Blind Associations.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ipswich’s historic portrait collection will also be highlighted in the Mansion, covering 500 years of art. A celebration of Suffolk faces will show how humans have shaped their identity through portraiture for hundreds of years.'
   -
     type: heading
     attrs:
@@ -130,7 +141,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715788720
+updated_at: 1716910106
 duplicated_from: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 ---
-Animals in the Art Gallery is a family friendly exhibition that explores British wildlife alongside artistic depictions of animals in all shapes and sizes, from the Middle Ages to the present day.
+Celebrating themes of portraiture, identity and home, this new exhibition features photographs by John Ferguson, an internationally established documentary, lifestyle and portrait photographer who lives in Ipswich. His images tell stories which are approachable and intimate.
