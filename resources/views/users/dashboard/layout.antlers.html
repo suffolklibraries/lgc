@@ -37,8 +37,10 @@
     </div>
 
     <div class="tw-w-full md:tw-w-3/4 tw-p-4 tw-shadow-brand">
-        <div class="tw-flex tw-justify-between tw-items-center tw-border-b tw-border-brand-grey/20 tw-pb-2">
-            <h2 class="tw-text-2xl">{{ content_title }}</h2>
+        <div class="tw-flex tw-justify-between tw-items-center {{ unless disable_header_line }}tw-border-b tw-border-brand-grey/20 {{ /unless }} tw-pb-2">
+            {{ if content_title }}
+                <h2 class="tw-text-2xl">{{ content_title }}</h2>
+            {{ /if }}
             {{ slot:heading_buttons }}
         </div>
         <div class="tw-mt-4">
