@@ -1,13 +1,12 @@
 ---
 id: 9b1b9e3e-aaf6-474e-ad7d-b4c14ab75b31
-published: false
 blueprint: events
-title: 'Arts and Crafts Group (Duplicated)'
+title: 'Playing Up - Drama Classes'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716890611
-start_date: '2024-09-07 14:00'
-end_date: '2024-09-07 15:00'
+updated_at: 1716890991
+start_date: '2024-06-04 13:30'
+end_date: '2024-06-04 15:30'
 event_categories:
   - art
 free: true
@@ -15,7 +14,7 @@ virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+featured_image: offthepressimages/otpillustrations/support.png
 content_area:
   -
     type: heading
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A free Arts and Crafts group for young people who need support with building their confidence and/or who have experienced bullying. The group is led by an experienced SEMH practitioner and is particularly suited to young people who have additional needs.'
+        text: 'A free adult acting class for anyone who would like to get more involved with drama and expressing themselves. Professionally led by theatre directors and actors - come along and let out your inner thespian.'
   -
     type: heading
     attrs:
@@ -116,6 +115,6 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 99a9311a-3443-4aa8-879b-ab642339ae74
-attendance_information: '- young people with additional needs'
+attendance_information: '- adults carers'
 ---
-Support for young people at risk of bullying
+Free acting classes for adult carers
