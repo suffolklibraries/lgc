@@ -1,13 +1,12 @@
 ---
 id: 4f3986f2-bf08-4467-9291-256d0c6a3846
-published: false
 blueprint: events
-title: "Mattie & Mimi's Music Class (Duplicated)"
+title: "Mattie & Mimi's Music Class"
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716894985
-start_date: '2024-07-15 10:45'
-end_date: '2024-07-15 11:30'
+updated_at: 1716895019
+start_date: '2024-07-22 10:45'
+end_date: '2024-07-22 11:30'
 free: false
 virtual: false
 organisers:
