@@ -1,20 +1,19 @@
 ---
 id: 1bb2eb34-f56b-409d-b2bc-a0c0e427b4de
-published: false
 blueprint: events
-title: 'Squawk (Duplicated)'
+title: 'Mobile Movie Makers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716899167
-start_date: '2024-07-18 10:00'
-end_date: '2024-07-18 15:00'
+updated_at: 1716899367
+start_date: '2024-06-17 14:00'
+end_date: '2024-08-05 15:30'
 free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/otpillustrations/music.png
-attendance_information: '- Adults with learning disabilities'
+featured_image: offthepressimages/Film.png
+attendance_information: '- Young people (aged 12 - 17) and their parents'
 content_area:
   -
     type: heading
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We meet each week in term time and our professional dancers and choreographers support the group to develop their song and dance skills, but also to have fun!'
+        text: 'A free group for parents and their children (12 - 17). Work with an independent filmmaker to produce from concept to screen your very own short film!'
   -
     type: heading
     attrs:
@@ -133,7 +132,7 @@ address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: eb741e31-1556-4d06-b659-bb5c139f8eeb
 event_categories:
-  - community
-  - music
+  - computing
+  - film
 ---
-Musical theathre workshops for adults with learning disabilities.
+Become a movie maker!
