@@ -1,13 +1,12 @@
 ---
 id: ff25a147-47c6-468b-b581-7c808883cbe9
-published: false
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated) (2)'
+title: 'Seagull Sing-a-Long'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716892936
-start_date: '2024-06-13 12:30'
-end_date: '2024-06-13 14:00'
+updated_at: 1716892992
+start_date: '2024-06-27 12:30'
+end_date: '2024-06-27 14:00'
 free: true
 virtual: false
 organisers:
