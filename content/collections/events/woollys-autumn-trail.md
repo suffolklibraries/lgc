@@ -1,8 +1,7 @@
 ---
 id: a54b38c0-9ce7-49d1-a528-47a7bad3f40c
-published: false
 blueprint: events
-title: 'Woolly’s Summer Holiday Trail (Duplicated)'
+title: 'Woolly’s Autumn Trail'
 event_categories:
   - museums
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg
-start_date: '2024-07-20 10:00'
-end_date: '2024-09-01 16:00'
+start_date: '2024-10-26 10:00'
+end_date: '2024-11-03 16:00'
 free: false
 virtual: false
 attendance_information: '- Suitable for ages 3+'
@@ -35,19 +34,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Suns out, fun’s out with Woolly’s Summer Holiday Trail! Help Woolly track down all the holiday items scattered around the Mansion. It’s a sunny search with a sparkling prize waiting for every keen-eyed adventurer.'
+        text: 'Get ready to rustle through the leaves with Woolly’s Autumn Trail! Woolly is on a quest to find all the objects around the Mansion that sparkle with the essence of autumn. Join him to discover the hidden treasures, and a special surprise will be your reward!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'And there’s more – our lovely Ladybird Trail is ready on the ground floor, ensuring everyone can bask in the holiday vibes.'
+        text: 'Don’t miss out on the accessible Duck Trail too, perfect for a gentle stroll around the ground floor.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Summer Holiday Trail is open to all little explorers aged three and up. Grab your sunhat and join us for a splendid day of summer sleuthing!'
+        text: 'This autumnal adventure is designed for all budding explorers aged three and older. Pull on your boots, grab a cosy jumper, and let’s go on an enchanting expedition!'
   -
     type: heading
     attrs:
@@ -131,7 +130,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716911162
+updated_at: 1716911212
 duplicated_from: 153c3d71-e279-46b5-bfcc-392fc32224bc
 cost_details: £5
 ---
