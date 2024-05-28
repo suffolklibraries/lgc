@@ -1,16 +1,15 @@
 ---
 id: de379650-1c81-4d82-a15e-058773b8ed63
-published: false
 blueprint: events
-title: "Let's Get Crafty: Animals in the Archives (Duplicated)"
+title: "Let's Get Crafty: Olympics"
 event_categories:
   - art
   - family-friendly
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2024-05-29 10:30'
-end_date: '2024-05-29 12:30'
+start_date: '2024-07-24 10:30'
+end_date: '2024-07-24 12:30'
 free: false
 virtual: false
 latitude: '52.24221336965946'
@@ -32,13 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for some fun family-friendly crafts inspired by animals in our archive collections.'
+        text: 'Join us for some fun, family-friendly crafts to get yourselves Olympic-ready.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Children must be accompanied by an adult at all times.'
+        text: 'All children must be accompanied by an adult.'
   -
     type: heading
     attrs:
@@ -150,9 +149,9 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/t-xmxjkpn'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qlqjkp&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714382438
+updated_at: 1716907767
 duplicated_from: 09066545-65c7-49cf-9b1b-1c40f75227db
 accessibility_information: '- wheelchair accessible'
 cta: |-
@@ -163,8 +162,8 @@ cta: |-
   [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
   [01473 296666](tel:01473296666)
-cost_details: '£2.70 per child'
+cost_details: '£3 per child'
 attendance_information: '- Suitable for ages 5 - 11'
 address_line_2: 'Raingate Street'
 ---
-Crafty fun with Suffolk Archives.
+Crafty fun with Suffolk Archives this summer.
