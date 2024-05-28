@@ -1,14 +1,13 @@
 ---
 id: c3dead98-6820-4a43-9706-6ee646cbfbe2
-published: false
 blueprint: events
-title: 'After School Story By The Sea (Duplicated)'
+title: 'First Light Festival Pre-Festival Party'
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-06-07 16:30'
-end_date: '2024-06-07 17:30'
+start_date: '2024-06-21 19:00'
+end_date: '2024-06-21 23:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716909501
+updated_at: 1716909831
 free: true
 virtual: false
 organisers:
@@ -27,13 +26,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at East Point Pavilion for the tale of The Rainbow Fish and get crafty weaving your own colourful creations!'
+        text: 'Tell a friend, come early and stay late to hear music from the likes of Shelly, Student Loan, Fred n Max and Tom Croome...'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Children must be accompanied by an adult.'
+        text: 'Open to all those who want to groove!'
   -
     type: heading
     attrs:
@@ -109,14 +108,13 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 duplicated_from: 57ff580e-4de6-43da-a659-598f60e9e967
-featured_image: offthepressimages/otpillustrations/Literature.png
+featured_image: offthepressimages/otpillustrations/DANCE_LATER.png
 accessibility_information: |-
   - Changing Places toilet
   - Wheelchair access
   - Hearing loop available
 address_line_2: 'Royal Plain'
 event_categories:
-  - family-friendly
-  - literature
+  - festival
 ---
-Dive into a magical tale.
+S9 Events has curated a lineup of DJs guaranteed to have you moving all night long to the sounds of house, garage and everything in between at First Light Festival’s pre-festival party.
