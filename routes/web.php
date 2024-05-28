@@ -10,6 +10,7 @@ use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\UserDashboardController;
 use App\Http\Controllers\EventSubmissionController;
 use App\Http\Controllers\InappropriateContentReportController;
+use App\Http\Middleware\MustBeLoggedIn;
 
 /*
 |--------------------------------------------------------------------------
@@ -33,7 +34,7 @@ Route::group(['as' => 'user.'], function(){
         ->name('register.store')
         ->middleware(ProtectAgainstSpam::class);
 
-    Route::group(['prefix' => 'dashboard', 'as' => 'dashboard.'], function() {
+    Route::group(['prefix' => 'dashboard', 'as' => 'dashboard.', 'middleware' => MustBeLoggedIn::class], function() {
         Route::get('/', [UserDashboardController::class, 'index'])->name('index');
         Route::get('my-details', [UserDashboardController::class, 'details'])->name('my-details.index');
         Route::post('my-details', [UserDashboardController::class, 'updateDetails'])->name('my-details.update');
@@ -47,7 +48,7 @@ Route::group(['as' => 'user.'], function(){
         Route::patch('my-events/{entryId}/update', [UserDashboardController::class, 'updateEvent'])->name('my-events.update')->middleware(ProtectAgainstSpam::class);
         Route::delete('my-events/{entryId}/delete', [UserDashboardController::class, 'deleteEvent'])->name('my-events.delete')->middleware(ProtectAgainstSpam::class);
         Route::post('my-events/store', [UserDashboardController::class, 'storeEvent'])->name('my-events.store')->middleware(ProtectAgainstSpam::class);
-    })->middleware(['auth']);
+    });
 
     Route::post('logout', LogoutController::class)->name('logout')->middleware(['auth']);
 });
