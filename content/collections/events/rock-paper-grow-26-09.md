@@ -1,5 +1,6 @@
 ---
 id: d814d16d-33a2-4e64-94d2-c307a5d894f5
+published: false
 blueprint: events
 title: 'Rock Paper Grow - Family Open Studio'
 event_categories:
