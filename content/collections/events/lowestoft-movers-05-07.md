@@ -1,13 +1,12 @@
 ---
 id: caf1eba6-2e2a-4d95-b153-01199f1ceeea
-published: false
 blueprint: events
-title: 'Lowestoft Movers (Duplicated)'
+title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712220572
-start_date: '2024-06-28 10:00'
-end_date: '2024-06-28 11:15'
+updated_at: 1716896181
+start_date: '2024-07-05 10:00'
+end_date: '2024-07-05 11:15'
 event_categories:
   - dance
   - later-life
@@ -17,7 +16,7 @@ organisers:
   - alysha-hudson-dance-yoga-movement
 town: Lowestoft
 featured_image: offthepressimages/new_resized_images/Dance.png
-attendance_information: 'Age 55+'
+attendance_information: '- Age 55+'
 content_area:
   -
     type: heading
@@ -151,6 +150,5 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 553b77e7-8511-4a9c-ad97-80830a61858d
-booking_link: 'https://theseagull.co.uk/2021/06/10/lowestoft-movers/'
 ---
-Weekly movement classes for over 55’s in Lowestoft
+Weekly movement classes for over 55’s in Lowestoft.
