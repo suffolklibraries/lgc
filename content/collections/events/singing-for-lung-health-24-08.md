@@ -1,13 +1,12 @@
 ---
 id: 9007d645-8028-4d57-8f4d-5758d4bf131a
-published: false
 blueprint: events
-title: 'Singing for Lung Health (Duplicated)'
+title: 'Singing for Lung Health'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716897031
-start_date: '2024-08-17 10:00'
-end_date: '2024-08-17 11:30'
+updated_at: 1716897080
+start_date: '2024-08-24 10:00'
+end_date: '2024-08-24 11:30'
 free: true
 virtual: false
 organisers:
