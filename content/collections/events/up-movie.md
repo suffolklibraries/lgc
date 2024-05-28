@@ -1,15 +1,14 @@
 ---
 id: f58e2cea-60d8-4c26-9fab-282dcd2c03e1
-published: false
 blueprint: events
-title: 'Cinema Club – Toy Story (Duplicated)'
+title: 'Cinema Club – Up'
 event_categories:
   - film
   - family-friendly
 organisers:
   - suffolk-archives
-start_date: '2024-08-09 10:00'
-end_date: '2024-08-09 12:30'
+start_date: '2024-08-23 10:00'
+end_date: '2024-08-23 12:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Woody, a good-hearted cowboy doll who belongs to a young boy named Andy, sees his position as Andy’s favourite toy threatened when his parents buy him a Buzz Lightyear action figure. Even worse, the arrogant Buzz thinks he’s a real spaceman on a mission to return to his home planet. When Andy’s family moves to a new house, Woody and Buzz must escape the clutches of maladjusted neighbour Sid Phillips and reunite with their boy.'
+        text: 'A comedy adventure about 78-year-old balloon salesman Carl Fredricksen, who finally fulfils his lifelong dream of a great adventure when he ties thousands of balloons to his house and flies away to the wilds of South America. But he discovers all too late that his biggest nightmare has stowed away on the trip: an overly optimistic 8-year-old Wilderness Explorer named Russell. “Up” invites you on a hilarious journey into a lost world, with the least likely duo on Earth.'
   -
     type: heading
     attrs:
@@ -138,9 +137,9 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-obmjja&target='
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-gbkvvj&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716908401
+updated_at: 1716908567
 duplicated_from: 3fa04964-0838-4dc3-ac9a-c13ccc8e98e8
 featured_image: offthepressimages/Film.png
 cta: |-
