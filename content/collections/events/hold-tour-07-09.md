@@ -1,18 +1,15 @@
 ---
 id: 17f930c1-e73f-484a-b585-18f114ea0bff
-published: false
 blueprint: events
-title: 'Cinema Club – Up (Duplicated)'
+title: 'Heritage Open Days - Behind the Scenes Tours of the Hold'
 event_categories:
-  - film
-  - family-friendly
+  - museums
 organisers:
   - suffolk-archives
-start_date: '2024-08-23 10:00'
-end_date: '2024-08-23 12:30'
-free: false
+start_date: '2024-09-07 10:30'
+end_date: '2024-09-07 14:30'
+free: true
 virtual: false
-accessibility_information: '- Wheelchair accessible'
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 address_line_1: 'The Hold'
@@ -32,7 +29,13 @@ content_area:
     content:
       -
         type: text
-        text: 'A comedy adventure about 78-year-old balloon salesman Carl Fredricksen, who finally fulfils his lifelong dream of a great adventure when he ties thousands of balloons to his house and flies away to the wilds of South America. But he discovers all too late that his biggest nightmare has stowed away on the trip: an overly optimistic 8-year-old Wilderness Explorer named Russell. “Up” invites you on a hilarious journey into a lost world, with the least likely duo on Earth.'
+        text: 'Explore the amazing collections and resources available at The Hold, Ipswich.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Tours start at 10.30am, midday, and 1.30pm.'
   -
     type: heading
     attrs:
@@ -138,11 +141,11 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-gbkvvj&target='
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kbajza&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716908567
+updated_at: 1716909189
 duplicated_from: f58e2cea-60d8-4c26-9fab-282dcd2c03e1
-featured_image: offthepressimages/Film.png
+featured_image: offthepressimages/otpillustrations/support-1715763134.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -152,6 +155,5 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 address_line_2: '131 Fore Street'
-cost_details: '£2 per child, adults free'
 ---
-Watch this family-friendly film at the Hold.
+Join one of our Archivists on a free behind the scenes tour.
