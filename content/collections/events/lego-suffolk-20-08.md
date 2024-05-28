@@ -1,6 +1,5 @@
 ---
 id: 3093adac-91c3-419d-ac8c-1c6d6c11d997
-published: false
 blueprint: events
 title: 'Make Suffolk out of LEGO® Bricks (Duplicated) (Duplicated)'
 event_categories:
@@ -8,8 +7,8 @@ event_categories:
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-08-13 10:00'
-end_date: '2024-08-13 12:30'
+start_date: '2024-08-20 10:00'
+end_date: '2024-08-20 12:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -140,7 +139,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jbrvml&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716907420
+updated_at: 1716907472
 duplicated_from: 919343ad-95d6-4575-9cef-ba82f2cde7c8
 featured_image: offthepressimages/otpillustrations/support.png
 cta: |-
