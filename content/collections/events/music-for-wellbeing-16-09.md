@@ -1,13 +1,12 @@
 ---
 id: ffb8ba01-4c91-4b86-985e-6c8bb6bcd2b8
-published: false
 blueprint: events
-title: 'Music for Wellbeing (Duplicated)'
+title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716897515
-start_date: '2024-08-09 13:30'
-end_date: '2024-08-09 15:00'
+updated_at: 1716897544
+start_date: '2024-08-16 13:30'
+end_date: '2024-08-16 15:00'
 free: true
 virtual: false
 organisers:
