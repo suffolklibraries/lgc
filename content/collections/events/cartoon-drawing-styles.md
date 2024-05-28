@@ -1,14 +1,14 @@
 ---
 id: 0833c51d-8dbe-4e35-92fc-b594263673ea
-published: false
 blueprint: events
-title: 'Hidden Tudors - Uncovering Black History (Duplicated)'
+title: 'Cartoon Drawing Styles in 20th Century Magazines'
 event_categories:
   - museums
+  - art
 organisers:
-  - thomas-wolsey-550
-start_date: '2024-07-04 19:00'
-end_date: '2024-07-04 20:00'
+  - suffolk-archives
+start_date: '2024-06-15 13:30'
+end_date: '2024-06-15 16:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -31,53 +31,14 @@ content_area:
     content:
       -
         type: text
-        text: 'From the reign of Henry VII to Elizabeth I, it explores their diverse roles, and contributions to Tudor England. Profiles of figures like Mary Fillis and Reasonable Blackman showcase their resilience and cultural significance. '
-  -
-    type: paragraph
-    content:
+        text: 'We will examine how magazines such as Punch, Lilliput, the New Yorker, and many others have influenced the art of drawing people and situations. We will look at the works of renowned artists like Edward Ardizzone, Ronald Searle, Saul Sternberg, Walter Herriman and Peter Arno.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'The talk will touch on the interconnectedness of Tudor England with African History, global trade and exploration. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'By reclaiming these lost stories, it will advocate for a more inclusive understanding of history. By acknowledging and celebrating the presence of Black Tudors, the presentation encourages a broader perspective on the complexities of the past and its lasting impact.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This event is produced in partnership with '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://thomaswolsey550.co.uk/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Thomas Wolsey 550 project'
-      -
-        type: text
-        text: ' and '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://ipswichcentral.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Ipswich Central'
-      -
-        type: text
-        text: .
+        text: "The event will consist of a 45-minute talk with pictures, followed by a 45-minute pen and ink drawing workshop. All materials will be provided.\_"
   -
     type: heading
     attrs:
@@ -183,11 +144,11 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.suffolkarchives.co.uk/whats-on/'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qazaza&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714383667
+updated_at: 1716906357
 duplicated_from: bbcfb152-38f7-4b51-8398-9a0faf93d7c6
-featured_image: wolsey550/wolsey-550-crest-1713256362.png
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -197,5 +158,6 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 address_line_2: '131 Fore Street'
+attendance_information: '- Age 17+'
 ---
-This presentation delves into the Tudor era, unveiling narratives of black individuals.
+This workshop, led by Simon Farr and Jennifer Hall, explores the diverse range of techniques used by cartoonists and illustrators in pre-internet times.
