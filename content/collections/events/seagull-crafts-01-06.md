@@ -1,21 +1,20 @@
 ---
 id: 371d3951-5846-4311-8b90-d7fa170b4734
-published: false
 blueprint: events
-title: 'Seagull Dance Works Presents... Debut (Duplicated)'
+title: 'Arts and Crafts Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712215785
-start_date: '2024-07-13 15:00'
-end_date: '2024-07-13 16:00'
+updated_at: 1716889918
+start_date: '2024-06-01 14:00'
+end_date: '2024-06-01 15:00'
 event_categories:
-  - dance
-free: false
+  - art
+free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Dance_Ballet.png
+featured_image: offthepressimages/otpillustrations/VISUALARTS.png
 content_area:
   -
     type: heading
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: "Students study Ballet, Modern/Jazz, and Acrobatics and we have classes for ages 2 to Adult. This show marks one year since opening, and we can't wait to show you all we have learnt!"
+        text: 'A free Arts and Crafts group for young people who need support with building their confidence and/or who have experienced bullying. The group is led by an experienced SEMH practitioner and is particularly suited to young people who have additional needs.'
   -
     type: heading
     attrs:
@@ -44,18 +43,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free but booking is recommended.'
+        text: 'Places are free but booking is recommended. '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/seagull-dance-show/'
+              href: 'mailto:community@theseagull.co.uk'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: ' Click here to book.'
+        text: 'Email community@theseagull.co.uk'
+      -
+        type: text
+        text: ' for more information or to book. '
   -
     type: heading
     attrs:
@@ -113,7 +115,6 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: d7839c0a-c9c6-4abc-bf20-4ed5f21f1834
-booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-dance-show/'
-cost_details: £5
+attendance_information: '- young people with additional needs'
 ---
-Seagull Dance Works is a brand new dance school here at The Seagull Theatre
+Support for young people at risk of bullying
