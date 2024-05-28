@@ -1,15 +1,14 @@
 ---
 id: 5afe0267-5c15-4dff-b4f0-6ae46209f667
-published: false
 blueprint: events
-title: 'Holi - An Exhibition by Ayush Sinha (Duplicated)'
+title: 'Landscapes In Mixed Media Exhibition'
 event_categories:
   - exhibition
 organisers:
   - the-apex
-featured_image: apex/ayush-exhibition-pic-website.jpg
-start_date: '2024-05-21 09:30'
-end_date: '2024-06-16 16:00'
+featured_image: apex/landscapes-apex-gallery-exhibition.jpg
+start_date: '2024-06-18 09:30'
+end_date: '2024-07-14 16:00'
 free: true
 virtual: false
 latitude: '52.24598764311893'
@@ -32,7 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: "A doctor by profession and a self taught artist, Ayush explores the intricacies of life and beyond in cubist style and geometrical figures.\_"
+        text: "The three artists will be submitting landscapes with Steven's artwork mainly featuring local scenes, Kevin's mostly coastal scenes and Adriene's featuring local scenes plus her garden. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The media used will include acrylics, watercolours and colour pencils.'
   -
     type: paragraph
     content:
@@ -163,7 +168,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715777271
+updated_at: 1716911447
 duplicated_from: dc2681c5-b627-4107-b86a-ed0a764f29da
 ---
-Ayush Sinha’s canvas, like Holi, are the celebration of colours and love. Vibrant shades coming out of his brush bring life to the canvas.
+Local artists Steven Kent, Kevin William Franks and Adriene Ellis present an exhibition of their artwork at The Apex Gallery.
