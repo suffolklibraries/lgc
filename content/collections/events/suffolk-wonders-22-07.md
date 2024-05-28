@@ -7,8 +7,8 @@ event_categories:
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-07-22 13:30'
-end_date: '2024-07-22 16:00'
+start_date: '2024-07-22 10:30'
+end_date: '2024-07-22 12:30'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -139,7 +139,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qlqjop&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716906895
+updated_at: 1716906952
 duplicated_from: 0833c51d-8dbe-4e35-92fc-b594263673ea
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cta: |-
