@@ -1,11 +1,10 @@
 ---
 id: 89a6ccf0-ced0-4176-923e-b1e5aca1ef09
-published: false
 blueprint: events
-title: "Children's Crafts at Lowestoft (Duplicated)"
+title: 'Crafts at the Archives'
 organisers:
   - suffolk-archives
-start_date: '2024-05-31 10:30'
+start_date: '2024-08-03 10:00'
 free: true
 virtual: false
 latitude: '52.47699554797066'
@@ -28,13 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along for some crafts this half-term! '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Children must be accompanied by an adult.'
+        text: 'Join us for some fun, family-friendly crafts. Children must be accompanied by an adult.'
   -
     type: heading
     attrs:
@@ -160,7 +153,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/suffolk-archives/t-vvkpnny'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-plrgjm&target='
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -170,14 +163,13 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714382423
+updated_at: 1716908758
 event_categories:
   - art
   - family-friendly
-end_date: '2024-05-31 12:00'
-attendance_information: '- 5-11 year olds'
+end_date: '2024-08-03 12:00'
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 accessibility_information: '- wheelchair access'
 duplicated_from: f025baaa-35f7-4137-9ace-9a317f7a49c2
 ---
-Crafty fun with Suffolk Archives.
+Crafty fun with Suffolk Archives this summer.
