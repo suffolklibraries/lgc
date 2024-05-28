@@ -1,19 +1,18 @@
 ---
 id: a5592e42-1f95-47e5-aef4-3e196c095a1e
-published: false
 blueprint: events
-title: 'Sunday Film Sessions - 101 Dalmatians (Duplicated)'
+title: 'Seagull Sing-a-Long'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712156444
-start_date: '2024-04-21 13:30'
-end_date: '2024-04-21 16:00'
+updated_at: 1716892821
+start_date: '2024-05-30 12:30'
+end_date: '2024-05-30 14:00'
 free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/Film.png
+featured_image: offthepressimages/otpillustrations/music.png
 attendance_information: '- Dementia friendly'
 content_area:
   -
@@ -29,25 +28,19 @@ content_area:
     content:
       -
         type: text
-        text: 'An accessible film screening designed for those living with dementia and their families.'
+        text: 'We have a fun sing-a-long every Thursday between 12.30pm and 2.00pm.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Join us for this hilarious classic Disney favourite - a guaranteed afternoon of laughs!'
+        text: 'It’s a free, fun activity for people living with dementia and their families, with free tea and biscuits. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Doors open 1.30pm for social time and the film starts at 2.30pm.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "This is\_ part of our accessible film series \"Sunday Classics\" and includes free refreshments and a Sing-a-long after the film."
+        text: 'No musical experience or talent required, just come along and join in! '
   -
     type: heading
     attrs:
@@ -61,18 +54,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking is essential - '
+        text: 'Email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/101-dalmations-sunday-film-sessions/'
+              href: 'mailto:community@theseagull.co.uk'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'click here to book.'
+        text: community@theseagull.co.uk
+      -
+        type: text
+        text: ' for more information and to book.'
   -
     type: heading
     attrs:
@@ -147,6 +143,5 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 308e2f3b-13ce-4f66-a22c-6d01fc13da97
-booking_link: 'https://theseagull.co.uk/seagull_shows/101-dalmations-sunday-film-sessions/'
 ---
-A FREE accessible film screening designed for those living with dementia and their families
+A fun weekly group for people and families living with dementia.
