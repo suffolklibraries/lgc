@@ -16,6 +16,7 @@ use Illuminate\Http\RedirectResponse;
 use Statamic\Modifiers\CoreModifiers;
 use App\Http\Requests\StoreEventRequest;
 use App\Http\Requests\DeleteEventRequest;
+use App\Http\Requests\SaveEventAsDraftRequest;
 use App\Http\Requests\UpdateEventRequest;
 use App\Http\Requests\UpdateUserDetailsRequest;
 use App\Http\Requests\UpdateUserOrganisationRequest;
@@ -216,6 +217,10 @@ class UserDashboardController extends Controller
             $entry->organisers = $request->organisers;
         }
 
+        if($request->publish) {
+            $entry->published(true);
+        }
+
         $entry->save();
 
         return redirect()->back()->with('success', 'Event details updated successfully');
@@ -255,6 +260,78 @@ class UserDashboardController extends Controller
     }
 
     public function storeEvent(StoreEventRequest $request): RedirectResponse
+    {
+        $user = User::current();
+
+        $start = Carbon::parse($request->start);
+
+        $entry = Entry::make()
+            ->collection('events')
+            ->published(true)
+            ->slug(Str::slug(__(':name :start', [
+                'name' => $request->title,
+                'start' => $start->format('d-m-Y')
+            ])))
+            ->data([
+                'title' => $request->title,
+                'content' => $request->description,
+                'start_date' => $start,
+                'end_date' => Carbon::parse($request->end),
+                'free' => $request->free === 'on' ? true : false,
+                'virtual' => $request->virtual === 'on' ? true : false,
+                'attendance_information' => $request->attendance_information,
+                'accessibility_information' => $request->accessibility_information,
+                'latitude' => $request->lat,
+                'longitude' => $request->lng,
+                'address_line_1' => $request->address_line_1,
+                'address_line_2' => $request->address_line_2,
+                'town' => $request->town,
+                'postcode' => $request->postcode,
+                'content_area' => Purifier::clean($request->content),
+                'booking_link' => $request->booking_link,
+                'cta' => $request->cta,
+                'cost_details' => $request->cost_details,
+                'created_by' => $user ? $user->id : null
+            ]);
+
+        if($request->file('image')) {
+
+            $file = $request->file('image');
+
+            $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
+                'name' => $file->getClientOriginalName()
+            ]));
+
+            $asset->data([
+                'alt' => $request->title
+            ]);
+
+            $asset->upload($file);
+
+            $asset->save();
+
+            $entry->featured_image = $asset->path;
+        }
+
+        if($request->categories) {
+            $entry->event_categories = $request->categories;
+        }
+
+        if($request->organisers) {
+            $entry->organisers = $request->organisers;
+        }
+
+        $entry->save();
+
+        return redirect(route('user.dashboard.my-events.index'))->with(
+            'success',
+            __("Event ':event' created successfully.", [
+                'event' => $entry->title
+            ])
+        );
+    }
+
+    public function saveDraft(SaveEventAsDraftRequest $request): RedirectResponse
     {
         $user = User::current();
 
@@ -318,11 +395,79 @@ class UserDashboardController extends Controller
 
         $entry->save();
 
-        return redirect(route('user.dashboard.my-events.index'))->with(
+        return redirect(route('user.dashboard.my-events.edit', ['entryId' => $entry->id]))->with(
             'success',
-            __("Event ':event' created successfully.", [
-                'event' => $entry->title
-            ])
+            "Saved as draft."
+        );
+    }
+
+    public function updateDraft(string $entryId, SaveEventAsDraftRequest $request): RedirectResponse
+    {
+        $entry = $this->getEntry($entryId);
+
+        $user = User::current();
+
+        $start = Carbon::parse($request->start);
+
+        $entry->published(false)
+            ->slug(Str::slug(__(':name :start', [
+                'name' => $request->title,
+                'start' => $start->format('d-m-Y')
+            ])))
+            ->data([
+                'title' => $request->title,
+                'content' => $request->description,
+                'start_date' => $start,
+                'end_date' => Carbon::parse($request->end),
+                'free' => $request->free === 'on' ? true : false,
+                'virtual' => $request->virtual === 'on' ? true : false,
+                'attendance_information' => $request->attendance_information,
+                'accessibility_information' => $request->accessibility_information,
+                'latitude' => $request->lat,
+                'longitude' => $request->lng,
+                'address_line_1' => $request->address_line_1,
+                'address_line_2' => $request->address_line_2,
+                'town' => $request->town,
+                'postcode' => $request->postcode,
+                'content_area' => Purifier::clean($request->content),
+                'booking_link' => $request->booking_link,
+                'cta' => $request->cta,
+                'cost_details' => $request->cost_details,
+                'created_by' => $user ? $user->id : null
+            ]);
+
+        if($request->file('image')) {
+
+            $file = $request->file('image');
+
+            $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
+                'name' => $file->getClientOriginalName()
+            ]));
+
+            $asset->data([
+                'alt' => $request->title
+            ]);
+
+            $asset->upload($file);
+
+            $asset->save();
+
+            $entry->featured_image = $asset->path;
+        }
+
+        if($request->categories) {
+            $entry->event_categories = $request->categories;
+        }
+
+        if($request->organisers) {
+            $entry->organisers = $request->organisers;
+        }
+
+        $entry->save();
+
+        return redirect(route('user.dashboard.my-events.edit', ['entryId' => $entry->id]))->with(
+            'success',
+            "Draft updated."
         );
     }
 

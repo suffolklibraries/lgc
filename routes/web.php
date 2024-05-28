@@ -45,9 +45,11 @@ Route::group(['as' => 'user.'], function(){
         Route::get('my-events', [UserDashboardController::class, 'events'])->name('my-events.index');
         Route::get('my-events/create', [UserDashboardController::class, 'createEvent'])->name('my-events.create');
         Route::get('my-events/{entryId}/edit', [UserDashboardController::class, 'editEvent'])->name('my-events.edit');
-        Route::patch('my-events/{entryId}/update', [UserDashboardController::class, 'updateEvent'])->name('my-events.update')->middleware(ProtectAgainstSpam::class);
+        Route::post('my-events/{entryId}/update', [UserDashboardController::class, 'updateEvent'])->name('my-events.update')->middleware(ProtectAgainstSpam::class);
         Route::delete('my-events/{entryId}/delete', [UserDashboardController::class, 'deleteEvent'])->name('my-events.delete')->middleware(ProtectAgainstSpam::class);
         Route::post('my-events/store', [UserDashboardController::class, 'storeEvent'])->name('my-events.store')->middleware(ProtectAgainstSpam::class);
+        Route::post('my-events/save-draft/{entryId?}', [UserDashboardController::class, 'saveDraft'])->name('my-events.save-draft')->middleware(ProtectAgainstSpam::class);
+        Route::post('my-events/{entryId}/update-draft', [UserDashboardController::class, 'updateDraft'])->name('my-events.update-draft')->middleware(ProtectAgainstSpam::class);
     });
 
     Route::post('logout', LogoutController::class)->name('logout')->middleware(['auth']);

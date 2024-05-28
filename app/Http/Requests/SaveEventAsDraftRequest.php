@@ -2,22 +2,16 @@
 
 namespace App\Http\Requests;
 
-use Statamic\Facades\User;
-use Statamic\Facades\Entry;
 use Illuminate\Foundation\Http\FormRequest;
 
-class UpdateEventRequest extends FormRequest
+class SaveEventAsDraftRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
      */
     public function authorize(): bool
     {
-        $entryId = $this->route('entryId');
-        $entry = Entry::find($entryId);
-        $userId = User::current()?->id;
-
-        return $entry->created_by?->id === $userId;
+        return true;
     }
 
     /**
@@ -30,24 +24,24 @@ class UpdateEventRequest extends FormRequest
         return [
             'title' => ['required'],
             'description' => [],
-            'start' => ['required', 'date', 'after_or_equal:tomorrow'],
-            'end' => ['required', 'date', 'after:start'],
+            'start' => ['date', 'after_or_equal:tomorrow'],
+            'end' => ['date', 'after:start'],
             'free' => [],
             'virtual' => [],
             'cost_details' => ['max:255'],
             'attendance_information' => [],
             'accessibility_information' => [],
-            'address_line_1' => ['required_without:virtual'],
+            'address_line_1' => [],
             'address_line_2' => [],
-            'town' => ['required_without:virtual'],
-            'postcode' => ['required_without:virtual'],
+            'town' => [],
+            'postcode' => [],
             'lat' => [],
             'lng' => [],
             'content' => [],
-            'booking_link' => ['url:https,http'],
+            'booking_link' => ['sometimes', 'nullable', 'url:https,http'],
             'cta' => ['max:1000'],
-            'categories' => ['required_without:save_draft', 'array', 'min:1'],
-            'organisers' => ['required', 'array', 'min:1'],
+            'categories' => ['array'],
+            'organisers' => ['array'],
             'image' => ['sometimes', 'image', 'max:5120'],
         ];
     }

@@ -1,7 +1,7 @@
 {{ event_categories = {taxonomy:event_categories} }}
 {{ organisers = {taxonomy:organisers} }}
 
-{{ partial:users/dashboard/layout content_title="{'Edit ' + entry.title}" }}
+{{ partial:users/dashboard/layout disable_header_line="true" }}
     {{ if {session:has key="success"} }}
         <div class="tw-text-lg tw-p-4 tw-border-2 tw-border-brand-teal tw-mb-4">
             {{ session:success }}
@@ -13,10 +13,52 @@
         method="POST"
         class="event-submission-form tw-flex tw-flex-col tw-gap-4"
         enctype="multipart/form-data"
+        x-data="{
+            saveDraft: false,
+            publish: false,
+            saveAsDraft() {
+                this.saveDraft = true
+                this.publish = false
+            },
+            publishEvent() {
+                this.saveDraft = false
+                this.publish = true
+            },
+            handleSubmit(event) {
+                if(this.saveDraft) {
+                    this.$refs.form.action = '{{ route:user.dashboard.my-events.update-draft :entryId="entry.id" }}'
+                }
+                this.$refs.form.submit()
+            }
+        }"
+        x-ref="form"
+        @submit.prevent="handleSubmit"
     >
+        <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mb-10">
+            <button
+                type="submit"
+                @click="saveAsDraft"
+                class="tw-bg-brand-grey/5 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-brand-grey tw-flex tw-gap-2 tw-items-center tw-border tw-border-brand-grey/10 hover:tw-bg-brand-grey/20 motion-safe:tw-transition-colors"
+            >
+                {{ svg:save class="tw-w-3 tw-h-3" }}
+                Save as draft
+            </button>
+
+            <button
+                type="submit"
+                @click="publishEvent"
+                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
+            >
+                Publish Event
+            </button>
+        </div>
         {{ csrf_field }}
-        {{ partial:partial/form_method method="patch" }}
+        {{ partial:partial/form_method method="post" }}
         {{ partial:partial/honeypot }}
+
+        <input type="hidden" name="save_draft" x-model="saveDraft">
+        <input type="hidden" name="publish" x-model="publish">
+
 
         {{ partial:event-submission-form/section section_title="Event Information" }}
             {{ partial:event-submission-form/text field_label="Event Title*" field_name="title" :value="entry.title" }}
@@ -121,8 +163,23 @@
             }}
         {{ /partial:event-submission-form/section }}
 
-        <button type="submit" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
-            Save
-        </button>
+        <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mb-10">
+            <button
+                type="submit"
+                @click="saveAsDraft"
+                class="tw-bg-brand-grey/5 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-brand-grey tw-flex tw-gap-2 tw-items-center tw-border tw-border-brand-grey/10 hover:tw-bg-brand-grey/20 motion-safe:tw-transition-colors"
+            >
+                {{ svg:save class="tw-w-3 tw-h-3" }}
+                Save as draft
+            </button>
+
+            <button
+                type="submit"
+                @click="publishEvent"
+                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
+            >
+                Publish Event
+            </button>
+        </div>
     </form>
 {{ /partial:users/dashboard/layout }}

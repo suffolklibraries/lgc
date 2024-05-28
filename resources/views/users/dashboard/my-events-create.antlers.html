@@ -1,121 +1,177 @@
 {{ event_categories = {taxonomy:event_categories} }}
 {{ organisers = {taxonomy:organisers} }}
 
-{{ partial:users/dashboard/layout content_title="Create new event" }}
+{{ partial:users/dashboard/layout disable_header_line="true" }}
     {{ if {session:has key="success"} }}
         <div class="tw-text-lg tw-p-4 tw-border-2 tw-border-brand-teal tw-mb-4">
             {{ session:success }}
         </div>
     {{ /endif }}
 
-    <form
-        action="{{ route:user.dashboard.my-events.store }}"
-        method="POST"
-        class="event-submission-form tw-flex tw-flex-col tw-gap-4"
-        enctype="multipart/form-data"
+    <div
+        x-data="{
+            saveDraft: false,
+            saveAsDraft() {
+                this.saveDraft = true
+            },
+            publishEvent() {
+                this.saveDraft = false
+            },
+            handleSubmit(event) {
+                if(this.saveDraft) {
+                    this.$refs.form.action = '{{ route:user.dashboard.my-events.save-draft }}'
+                }
+
+                this.$refs.form.submit()
+            }
+        }"
     >
-        {{ csrf_field }}
-        {{ partial:partial/form_method method="post" }}
-        {{ partial:partial/honeypot }}
+        <form
+            action="{{ route:user.dashboard.my-events.store }}"
+            method="POST"
+            class="event-submission-form tw-flex tw-flex-col tw-gap-4"
+            enctype="multipart/form-data"
+            @submit.prevent="handleSubmit"
+            x-ref="form"
+        >
+            <input type="hidden" name="save_draft" x-ref="saveDraftInput">
+            <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mb-10">
+                <button
+                    type="submit"
+                    @click="saveAsDraft"
+                    class="tw-bg-brand-grey/5 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-brand-grey tw-flex tw-gap-2 tw-items-center tw-border tw-border-brand-grey/10 hover:tw-bg-brand-grey/20 motion-safe:tw-transition-colors"
+                >
+                    {{ svg:save class="tw-w-3 tw-h-3" }}
+                    Save as draft
+                </button>
 
-        {{ partial:event-submission-form/section section_title="Event Information" }}
-            {{ partial:event-submission-form/text field_label="Event Title*" field_name="title"  }}
-
-            {{ partial:event-submission-form/textarea field_label="Description" field_name="description" }}
-
-            <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
-                {{ partial:event-submission-form/datetime
-                    min="{now | format='Y-m-d\\TH:i'}"
-                    value="{old:start ? old:start : {now | format='Y-m-d\\TH:i'}}"
-                    field_label="Start Time*"
-                    field_name="start"
-                }}
-
-                {{ partial:event-submission-form/datetime
-                    min="{now | format='Y-m-d\\TH:i'}"
-                    value="{old:end ? old:end : {now | format='Y-m-d\\TH:i'}}"
-                    field_label="End Time*"
-                    field_name="end"
-                }}
+                <button
+                    type="submit"
+                    @click="publishEvent"
+                    class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
+                >
+                    Publish Event
+                </button>
             </div>
 
-        {{ /partial:event-submission-form/section }}
+            {{ csrf_field }}
+            {{ partial:partial/form_method method="post" }}
+            {{ partial:partial/honeypot }}
 
-        {{ partial:event-submission-form/section section_title="Event Options" }}
+            {{ partial:event-submission-form/section section_title="Event Information" }}
+                {{ partial:event-submission-form/text field_label="Event Title*" field_name="title"  }}
 
-            {{ partial:event-submission-form/toggle field_label="Free Event" field_name="free" }}
+                {{ partial:event-submission-form/textarea field_label="Description" field_name="description" }}
 
-            {{ partial:event-submission-form/toggle field_label="Virtual Event" field_name="virtual" }}
+                <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+                    {{ partial:event-submission-form/datetime
+                        min="{now | modify_date('+1 day') | format='Y-m-d\\TH:i'}"
+                        value="{old:start ? old:start : {now | format='Y-m-d\\TH:i'}}"
+                        field_label="Start Time*"
+                        field_name="start"
+                    }}
 
-            {{ partial:event-submission-form/text field_label="Cost Details" field_name="cost_details" field_description="e.g. £5" }}
+                    {{ partial:event-submission-form/datetime
+                        min="{now | modify_date('+1 minute') | format='Y-m-d\\TH:i'}"
+                        value="{old:end ? old:end : {now | format='Y-m-d\\TH:i'}}"
+                        field_label="End Time*"
+                        field_name="end"
+                    }}
+                </div>
 
-            {{ partial:event-submission-form/textarea field_label="Attendance Information" field_name="attendance_information" }}
+            {{ /partial:event-submission-form/section }}
 
-            {{ partial:event-submission-form/textarea field_label="Accessibility Information" field_name="accessibility_information" }}
+            {{ partial:event-submission-form/section section_title="Event Options" }}
 
-        {{ /partial:event-submission-form/section }}
+                {{ partial:event-submission-form/toggle field_label="Free Event" field_name="free" }}
 
-        {{ partial:event-submission-form/section section_title="Location" }}
-            {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
+                {{ partial:event-submission-form/toggle field_label="Virtual Event" field_name="virtual" }}
 
-            <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
-                {{ partial:event-submission-form/text field_label="Address Line 1*" field_name="address_line_1" autocomplete="off" }}
-                {{ partial:event-submission-form/text field_label="Address Line 2" field_name="address_line_2" autocomplete="off" }}
-                {{ partial:event-submission-form/text field_label="Town*" field_name="town" autocomplete="off" }}
-                {{ partial:event-submission-form/text field_label="Post Code*" field_name="postcode" autocomplete="off" }}
+                {{ partial:event-submission-form/text field_label="Cost Details" field_name="cost_details" field_description="e.g. £5" }}
+
+                {{ partial:event-submission-form/textarea field_label="Attendance Information" field_name="attendance_information" }}
+
+                {{ partial:event-submission-form/textarea field_label="Accessibility Information" field_name="accessibility_information" }}
+
+            {{ /partial:event-submission-form/section }}
+
+            {{ partial:event-submission-form/section section_title="Location" }}
+                {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
+
+                <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+                    {{ partial:event-submission-form/text field_label="Address Line 1*" field_name="address_line_1" autocomplete="off" }}
+                    {{ partial:event-submission-form/text field_label="Address Line 2" field_name="address_line_2" autocomplete="off" }}
+                    {{ partial:event-submission-form/text field_label="Town*" field_name="town" autocomplete="off" }}
+                    {{ partial:event-submission-form/text field_label="Post Code*" field_name="postcode" autocomplete="off" }}
+                </div>
+
+
+                <input
+                    type="hidden"
+                    name="lat"
+                    {{ if old:lat }}
+                        value="{{ old:lat }}"
+                    {{ /if }}
+                >
+                <input
+                    type="hidden"
+                    name="lng"
+                    {{ if old:lng }}
+                        value="{{ old:lng }}"
+                    {{ /if }}
+                >
+
+            {{ /partial:event-submission-form/section }}
+
+            {{ partial:event-submission-form/section section_title="Content" }}
+                {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}
+            {{ /partial:event-submission-form/section }}
+
+
+            {{ partial:event-submission-form/section section_title="Call to action" }}
+                {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" }}
+                {{ partial:event-submission-form/textarea field_label="CTA" field_name="cta" }}
+            {{ /partial:event-submission-form/section }}
+
+            {{ partial:event-submission-form/section section_title="Event Categories" }}
+                {{ partial:event-submission-form/multiselect
+                    :options="event_categories"
+                    field_name="categories"
+                }}
+            {{ /partial:event-submission-form/section }}
+
+            {{ partial:event-submission-form/section section_title="Organisers" }}
+                {{ partial:event-submission-form/multiselect
+                    :options="organisers"
+                    field_name="organisers"
+                }}
+            {{ /partial:event-submission-form/section }}
+
+            {{ partial:event-submission-form/section section_title="Featured Image" }}
+                {{ partial:event-submission-form/image
+                    field_name="image"
+                    field_label="Upload a featured image"
+                }}
+            {{ /partial:event-submission-form/section }}
+
+            <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mt-10">
+                <button
+                    type="button"
+                    @click="saveAsDraft"
+                    class="tw-bg-brand-grey/5 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-brand-grey tw-flex tw-gap-2 tw-items-center tw-border tw-border-brand-grey/10 hover:tw-bg-brand-grey/20 motion-safe:tw-transition-colors"
+                >
+                    {{ svg:save class="tw-w-3 tw-h-3" }}
+                    Save as draft
+                </button>
+
+                <button
+                    type="submit"
+                    class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
+                >
+                    Publish Event
+                </button>
             </div>
+        </form>
+    </div>
 
-
-            <input
-                type="hidden"
-                name="lat"
-                {{ if old:lat }}
-                    value="{{ old:lat }}"
-                {{ /if }}
-            >
-            <input
-                type="hidden"
-                name="lng"
-                {{ if old:lng }}
-                    value="{{ old:lng }}"
-                {{ /if }}
-            >
-
-        {{ /partial:event-submission-form/section }}
-
-        {{ partial:event-submission-form/section section_title="Content" }}
-            {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}
-        {{ /partial:event-submission-form/section }}
-
-
-        {{ partial:event-submission-form/section section_title="Call to action" }}
-            {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" }}
-            {{ partial:event-submission-form/textarea field_label="CTA" field_name="cta" }}
-        {{ /partial:event-submission-form/section }}
-
-        {{ partial:event-submission-form/section section_title="Event Categories" }}
-            {{ partial:event-submission-form/multiselect
-                :options="event_categories"
-                field_name="categories"
-            }}
-        {{ /partial:event-submission-form/section }}
-
-        {{ partial:event-submission-form/section section_title="Organisers" }}
-            {{ partial:event-submission-form/multiselect
-                :options="organisers"
-                field_name="organisers"
-            }}
-        {{ /partial:event-submission-form/section }}
-
-        {{ partial:event-submission-form/section section_title="Featured Image" }}
-            {{ partial:event-submission-form/image
-                field_name="image"
-                field_label="Upload a featured image"
-            }}
-        {{ /partial:event-submission-form/section }}
-
-        <button type="submit" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
-            Save
-        </button>
-    </form>
 {{ /partial:users/dashboard/layout }}
