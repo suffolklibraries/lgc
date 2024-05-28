@@ -1,20 +1,19 @@
 ---
 id: 6de3104b-e2dc-4bc2-ae8b-47f122b66058
-published: false
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated)'
+title: "Mattie & Mimi's Music Class"
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716892821
-start_date: '2024-05-30 12:30'
-end_date: '2024-05-30 14:00'
-free: true
+updated_at: 1716893593
+start_date: '2024-06-03 09:45'
+end_date: '2024-06-03 10:30'
+free: false
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/otpillustrations/music.png
-attendance_information: '- Dementia friendly'
+featured_image: offthepressimages/Music_clear.png
+attendance_information: '- Under 5s'
 content_area:
   -
     type: heading
@@ -29,19 +28,14 @@ content_area:
     content:
       -
         type: text
-        text: 'We have a fun sing-a-long every Thursday between 12.30pm and 2.00pm.'
-  -
-    type: paragraph
-    content:
+        text: 'We use puppets, balls, actions, musical instruments and bubbles to keep the children’s attention in a funny and relaxed style.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'It’s a free, fun activity for people living with dementia and their families, with free tea and biscuits. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'No musical experience or talent required, just come along and join in! '
+        text: 'This class is for pre-school children aged 6 months – 4 years.'
   -
     type: heading
     attrs:
@@ -55,21 +49,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Email '
+        text: 'For more information or to book a free trial class contact Donna on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:community@theseagull.co.uk'
+              href: 'tel:07821167588'
               rel: null
               target: null
               title: null
-        text: community@theseagull.co.uk
+        text: '07821167588'
       -
         type: text
-        text: ' for more information and to book.'
+        text: .
   -
     type: heading
     attrs:
@@ -144,5 +138,9 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: a5592e42-1f95-47e5-aef4-3e196c095a1e
+event_categories:
+  - early-years
+  - music
+cost_details: '£4.50 per session'
 ---
-A fun weekly group for people and families living with dementia.
+Fun and relaxed pre-school music classes.
