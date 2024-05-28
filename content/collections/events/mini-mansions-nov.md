@@ -1,8 +1,7 @@
 ---
 id: 3d04beff-5338-4535-a970-2d128d50ccb3
-published: false
 blueprint: events
-title: 'Mini Mansions (Duplicated) (2)'
+title: 'Mini Mansions'
 event_categories:
   - museums
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2024-09-03 10:00'
-end_date: '2024-09-04 12:00'
+start_date: '2024-11-05 10:00'
+end_date: '2024-11-06 12:00'
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 2½  – 4'
@@ -142,7 +141,7 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-sep/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-nov/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -153,7 +152,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716910522
+updated_at: 1716910593
 duplicated_from: 44d7f6b1-42b2-49a0-8f30-bc2b7fd41d52
 cost_details: £3
 ---
