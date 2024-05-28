@@ -1,15 +1,14 @@
 ---
 id: 5e2384c3-2623-4b96-8094-96473aee43bf
-published: false
 blueprint: events
-title: 'Cartoon Drawing Styles in 20th Century Magazines (Duplicated)'
+title: "Let's Get Crafty - Suffolk Wonders"
 event_categories:
   - museums
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-06-15 13:30'
-end_date: '2024-06-15 16:00'
+start_date: '2024-07-22 13:30'
+end_date: '2024-07-22 16:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -32,14 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We will examine how magazines such as Punch, Lilliput, the New Yorker, and many others have influenced the art of drawing people and situations. We will look at the works of renowned artists like Edward Ardizzone, Ronald Searle, Saul Sternberg, Walter Herriman and Peter Arno.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: "The event will consist of a 45-minute talk with pictures, followed by a 45-minute pen and ink drawing workshop. All materials will be provided.\_"
+        text: 'Come and enjoy some family-friendly crafts inspired by wonders found in Suffolk.'
   -
     type: heading
     attrs:
@@ -145,9 +137,9 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qazaza&target='
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qlqjop&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716906357
+updated_at: 1716906895
 duplicated_from: 0833c51d-8dbe-4e35-92fc-b594263673ea
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cta: |-
@@ -159,6 +151,5 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 address_line_2: '131 Fore Street'
-attendance_information: '- Age 17+'
 ---
-This workshop, led by Simon Farr and Jennifer Hall, explores the diverse range of techniques used by cartoonists and illustrators in pre-internet times.
+Get crafty at The Hold this summer.
