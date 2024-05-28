@@ -1,5 +1,6 @@
 ---
 id: 57f9777a-6c52-444a-b32a-ae701f660f4b
+published: false
 blueprint: events
 title: 'The Big Afternoon 2024'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
