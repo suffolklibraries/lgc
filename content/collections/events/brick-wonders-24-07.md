@@ -7,8 +7,8 @@ event_categories:
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-08-20 10:30'
-end_date: '2024-08-20 12:30'
+start_date: '2024-07-24 10:30'
+end_date: '2024-07-24 12:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -139,7 +139,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kbxvyk&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716907880
+updated_at: 1716908017
 duplicated_from: 89c2ff08-bb89-4b51-a418-0d2b594a7e25
 featured_image: offthepressimages/otpillustrations/support.png
 cta: |-
