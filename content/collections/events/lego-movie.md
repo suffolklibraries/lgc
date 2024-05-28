@@ -3,8 +3,8 @@ id: 48c21482-b8ce-416c-9716-34eda659e753
 blueprint: events
 title: 'Cinema Club – LEGO® Movie'
 event_categories:
-  - museums
-  - art
+  - film
+  - family-friendly
 organisers:
   - suffolk-archives
 start_date: '2024-07-26 10:00'
@@ -139,7 +139,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/booking/select/ECDiTANrjaXB'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716908291
+updated_at: 1716908397
 duplicated_from: 8db21e9a-eb04-46ad-b5a3-d53d66030cef
 featured_image: offthepressimages/Film.png
 cta: |-
