@@ -1,15 +1,14 @@
 ---
 id: c3c80ad0-e972-4528-a543-5131aac8b5e5
-published: false
 blueprint: events
-title: "Let's Get Crafty - Brick Wonders (Duplicated)"
+title: "Let's Get Crafty - Brick Wonders"
 event_categories:
   - museums
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-08-07 10:30'
-end_date: '2024-08-07 12:30'
+start_date: '2024-08-14 10:30'
+end_date: '2024-08-14 12:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -140,7 +139,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kbxvyk&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716908033
+updated_at: 1716908061
 duplicated_from: 0ea77bcf-510f-40ea-8601-e3e811a1bd7f
 featured_image: offthepressimages/otpillustrations/support.png
 cta: |-
