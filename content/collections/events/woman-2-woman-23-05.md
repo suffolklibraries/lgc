@@ -1,5 +1,6 @@
 ---
 id: 742e3625-e7b5-452d-b926-e7b500b1f0d0
+published: false
 blueprint: events
 title: 'Woman 2 Woman Radio'
 event_categories:
