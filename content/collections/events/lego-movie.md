@@ -1,15 +1,14 @@
 ---
 id: 48c21482-b8ce-416c-9716-34eda659e753
-published: false
 blueprint: events
-title: "Let's Get Crafty - Brick Wonders (Duplicated)"
+title: 'Cinema Club – LEGO® Movie'
 event_categories:
   - museums
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-08-28 10:30'
-end_date: '2024-08-28 12:30'
+start_date: '2024-07-26 10:00'
+end_date: '2024-07-26 12:30'
 free: false
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and enjoy some family-friendly crafts inspired by LEGO® bricks.'
+        text: 'Emmet, an ordinary LEGO® figurine who always follows the rules, is mistakenly identified as the Special, an extraordinary being and the key to saving the world. He finds himself drafted into a fellowship of strangers on a mission to stop an evil tyrant’s plans to conquer the world. Unfortunately for Emmet, he is hopelessly, and hilariously, unprepared for such a task, but he’ll give it his all nonetheless.'
   -
     type: heading
     attrs:
@@ -138,11 +137,11 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kbxvyk&target='
+booking_link: 'https://www.ticketsource.co.uk/booking/select/ECDiTANrjaXB'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716908123
+updated_at: 1716908291
 duplicated_from: 8db21e9a-eb04-46ad-b5a3-d53d66030cef
-featured_image: offthepressimages/otpillustrations/support.png
+featured_image: offthepressimages/Film.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -152,6 +151,6 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 address_line_2: '131 Fore Street'
-cost_details: '£5 per child'
+cost_details: '£2 per child, adults free'
 ---
-Get crafty at The Hold this summer.
+Watch this family-friendly film at the Hold.
