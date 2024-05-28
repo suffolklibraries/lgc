@@ -4,7 +4,7 @@ blueprint: events
 title: 'Seagull Sing-a-Long'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716892919
+updated_at: 1716893692
 start_date: '2024-06-06 12:30'
 end_date: '2024-06-06 14:00'
 free: true
@@ -143,5 +143,8 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: a5592e42-1f95-47e5-aef4-3e196c095a1e
+event_categories:
+  - music
+  - community
 ---
 A fun weekly group for people and families living with dementia.
