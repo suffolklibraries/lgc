@@ -1,11 +1,10 @@
 ---
 id: aa573aed-bb00-4f5a-bf9d-f323538e0ea5
-published: false
 blueprint: events
-title: 'Crafts at the Archives (Duplicated) (Duplicated)'
+title: 'Crafts at the Archives'
 organisers:
   - suffolk-archives
-start_date: '2024-08-03 10:00'
+start_date: '2024-08-17 10:00'
 free: true
 virtual: false
 latitude: '52.47699554797066'
@@ -164,11 +163,11 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716908758
+updated_at: 1716908824
 event_categories:
   - art
   - family-friendly
-end_date: '2024-08-03 12:00'
+end_date: '2024-08-17 12:00'
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 accessibility_information: '- wheelchair access'
 duplicated_from: 958014e9-7eeb-405d-a612-9646a39e5b0d
