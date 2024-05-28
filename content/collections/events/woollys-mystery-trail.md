@@ -1,20 +1,19 @@
 ---
 id: 4d248f36-bb5f-4690-bcdb-15919706e5c9
-published: false
 blueprint: events
-title: 'Mini Mansions (Duplicated)'
+title: 'Woolly’s Mystery Trail'
 event_categories:
   - museums
   - art
   - early-years
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2024-11-05 10:00'
-end_date: '2024-11-06 12:00'
+featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg
+start_date: '2024-05-25 10:00'
+end_date: '2024-06-02 16:00'
 free: false
 virtual: false
-attendance_information: 'Suitable for ages 2½  – 4'
+attendance_information: '- Suitable for ages 3+'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -35,19 +34,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for June is ‘The Alphabet’.'
+        text: 'Join Woolly on a magical adventure to uncover hidden treasures around the Mansion! '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Parents/carers must stay with their children throughout the session.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The main session will be on the ground floor, with pushchair access to the Wolsey Art Gallery via the side garden entrance. Part of the session may involve exploring the Mansion using the stairs. Please let us know if you have any access requirements when you book, as there is no lift.'
+        text: 'Plus, we’ve got the accessible and delightful Duck Trail that winds through the ground floor, ensuring everyone can join in the fun, no matter what. It’s a day of discovery and excitement for the whole family!'
   -
     type: heading
     attrs:
@@ -61,27 +54,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You can book your ticket via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://ipswich.cimuseums.org.uk/events/'
-              rel: null
-              target: _blank
-              title: null
-        text: "Ipswich Museums' website"
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Choose from a range of 45-minute sessions - 10am - 10.45am and 11.15am - midday'
+        text: 'No need to book, simply buy your copy from the Mansion gift shop on arrival.'
   -
     type: heading
     attrs:
@@ -142,19 +115,17 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-nov/'
 cta: |-
   This event is organised by Ipswich Museums:
 
   [https://ipswich.cimuseums.org.uk/](https://ipswich.cimuseums.org.uk/) 
 
-
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716910593
+updated_at: 1716910907
 duplicated_from: 3d04beff-5338-4535-a970-2d128d50ccb3
-cost_details: £3
+cost_details: £5
 ---
-Join our interactive sessions for children aged 2½  – 4 and their parents, grandparents and carers.
+This fantastic quest is perfect for our little explorers aged three and over.
