@@ -1,13 +1,12 @@
 ---
 id: 6688c2ed-dc48-47ed-9706-c83d5b9c3b6d
-published: false
 blueprint: events
-title: 'Playing Up - Drama Classes (Duplicated)'
+title: 'Playing Up - Drama Classes'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716892092
-start_date: '2024-08-28 13:30'
-end_date: '2024-08-28 15:30'
+updated_at: 1716892335
+start_date: '2024-09-04 13:30'
+end_date: '2024-09-04 15:30'
 event_categories:
   - art
 free: true
