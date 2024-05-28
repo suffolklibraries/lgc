@@ -1,16 +1,15 @@
 ---
 id: a8ea981a-e715-4115-8879-153b9b40f639
-published: false
 blueprint: events
-title: "Let's Get Crafty - Suffolk Wonders (Duplicated)"
+title: 'Make Suffolk out of LEGO® Bricks'
 event_categories:
   - museums
   - art
 organisers:
   - suffolk-archives
-start_date: '2024-08-19 10:30'
-end_date: '2024-08-19 12:30'
-free: true
+start_date: '2024-07-23 10:00'
+end_date: '2024-07-23 12:30'
+free: false
 virtual: false
 accessibility_information: '- Wheelchair accessible'
 latitude: '52.05322071930784'
@@ -32,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and enjoy some family-friendly crafts inspired by wonders found in Suffolk.'
+        text: 'Join us at The Hold to have some fun making Suffolk out of LEGO® bricks'
   -
     type: heading
     attrs:
@@ -138,11 +137,11 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qlqjop&target='
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jbrvml&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716907086
+updated_at: 1716907241
 duplicated_from: 58375396-60f7-49c1-b65a-1fe4350ec4a4
-featured_image: offthepressimages/new_resized_images/VisualArts.png
+featured_image: offthepressimages/otpillustrations/support.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -152,5 +151,6 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 address_line_2: '131 Fore Street'
+cost_details: '£5 per child'
 ---
 Get crafty at The Hold this summer.
