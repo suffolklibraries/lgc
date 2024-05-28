@@ -1,5 +1,6 @@
 ---
 id: b4a2bb6b-a0cb-49c0-83e1-e5b5619fad84
+published: false
 blueprint: events
 title: 'Our Bury St Edmunds Spring Fayre'
 event_categories:
