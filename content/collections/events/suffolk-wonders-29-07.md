@@ -139,7 +139,7 @@ content_area:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qlqjop&target='
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716907004
+updated_at: 1716907039
 duplicated_from: 5e2384c3-2623-4b96-8094-96473aee43bf
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cta: |-
