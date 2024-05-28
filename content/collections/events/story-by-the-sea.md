@@ -1,14 +1,13 @@
 ---
 id: 57ff580e-4de6-43da-a659-598f60e9e967
-published: false
 blueprint: events
-title: "Children's Corner - Owl Crafts (Duplicated)"
+title: 'After School Story By The Sea'
 latitude: '52.47146825080719'
 longitude: '1.7497799327137424'
-start_date: '2024-05-29 14:00'
-end_date: '2024-05-29 15:00'
+start_date: '2024-06-07 16:30'
+end_date: '2024-06-07 17:30'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713351105
+updated_at: 1716909501
 free: true
 virtual: false
 organisers:
@@ -27,13 +26,13 @@ content_area:
     content:
       -
         type: text
-        text: "In keeping with our visit from the Fritton Owl Sanctuary this morning, we're offering another hour of free owl themed crafts for children."
+        text: 'Join us at East Point Pavilion for the tale of The Rainbow Fish and get crafty weaving your own colourful creations!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Children must be accompanied by an adult.\_"
+        text: 'Children must be accompanied by an adult.'
   -
     type: heading
     attrs:
@@ -109,11 +108,14 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 duplicated_from: fd1cf030-31c2-4da4-aa6c-0214ad9268d4
-featured_image: "eastpointpavilion/children's-corner---facebook-&-website.png"
+featured_image: offthepressimages/otpillustrations/Literature.png
 accessibility_information: |-
   - Changing Places toilet
   - Wheelchair access
   - Hearing loop available
 address_line_2: 'Royal Plain'
+event_categories:
+  - family-friendly
+  - literature
 ---
-Owl themed crafts for kids
+Dive into a magical tale.
