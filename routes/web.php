@@ -52,7 +52,7 @@ Route::group(['as' => 'user.'], function(){
         Route::post('my-events/{entryId}/update-draft', [UserDashboardController::class, 'updateDraft'])->name('my-events.update-draft')->middleware(ProtectAgainstSpam::class);
     });
 
-    Route::post('logout', LogoutController::class)->name('logout')->middleware(['auth']);
+    Route::post('logout', LogoutController::class)->name('logout')->middleware(MustBeLoggedIn::class);
 });
 
 Route::get('login', [LoginController::class, 'index'])->name('login');
