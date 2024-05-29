@@ -4,7 +4,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716896552
+updated_at: 1716995519
 start_date: '2024-09-06 10:00'
 end_date: '2024-09-06 11:15'
 event_categories:
@@ -14,6 +14,7 @@ free: false
 virtual: false
 organisers:
   - alysha-hudson-dance-yoga-movement
+  - dance-east
 town: Lowestoft
 featured_image: offthepressimages/new_resized_images/Dance.png
 attendance_information: '- Age 55+'
@@ -151,4 +152,4 @@ address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: b0bbb853-2f79-4be6-b10e-8f6205268885
 ---
-Weekly movement classes for over 55’s in Lowestoft.
+Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Lowestoft.
