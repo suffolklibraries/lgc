@@ -4,9 +4,11 @@ tree:
     title: 'Things to do'
     url: '/#things-to-do'
   -
+    id: a4aef6d4-ef8b-4ddd-a7f1-770c4a56b68b
+    title: 'Event Providers'
+    data:
+      handles_users: true
+  -
     id: e528f084-1cef-4178-ae9d-c586e24e634a
     title: Spotlight
     url: /spotlight
-  -
-    id: a3f26cb0-88d4-4466-9379-18bf8a240777
-    entry: b4b252f2-1043-48db-a4de-664db7b1e26a
