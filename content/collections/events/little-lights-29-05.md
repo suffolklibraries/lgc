@@ -1,5 +1,6 @@
 ---
 id: 6f8dbf23-946f-4706-8577-30ca55cf0735
+published: false
 blueprint: events
 title: 'Little Lights Art Cafes'
 organisers:
