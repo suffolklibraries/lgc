@@ -1,14 +1,13 @@
 ---
 id: 99b38e4a-ac35-4f59-a477-c23b38875392
-published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated)'
+title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716993813
+updated_at: 1716993835
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
-start_date: '2024-06-19 10:00'
+start_date: '2024-06-26 10:00'
 event_categories:
   - dance
   - later-life
@@ -193,7 +192,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: '£6 per session'
-end_date: '2024-06-19 11:30'
+end_date: '2024-06-26 11:30'
 duplicated_from: b2d4480f-3b77-4f6e-855d-4fd6d4db2e9f
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Sudbury.
