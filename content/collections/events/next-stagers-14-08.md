@@ -1,13 +1,12 @@
 ---
 id: e0e56f21-d8ea-41d1-a359-8ca97894b3a2
-published: false
 blueprint: events
-title: 'Next Stagers (Duplicated)'
+title: 'Next Stagers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716988376
-start_date: '2024-07-31 10:30'
-end_date: '2024-07-31 11:30'
+updated_at: 1716988428
+start_date: '2024-08-14 10:30'
+end_date: '2024-08-14 11:30'
 event_categories:
   - performance
   - later-life
