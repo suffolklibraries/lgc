@@ -1,14 +1,13 @@
 ---
 id: c4f51741-6b3f-42f6-baf2-a2095317ec64
-published: false
 blueprint: events
-title: 'Hadleigh Movers (Duplicated) (Duplicated)'
+title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716990705
+updated_at: 1716990763
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
-start_date: '2024-06-03 11:00'
+start_date: '2024-06-17 11:00'
 event_categories:
   - later-life
   - dance
@@ -175,7 +174,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: '£5 per session'
-end_date: '2024-06-03 12:30'
+end_date: '2024-06-17 12:30'
 duplicated_from: ea5c3359-2ab5-4d48-a8f3-de8e6e823fc4
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Haleigh.
