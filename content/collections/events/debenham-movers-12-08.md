@@ -1,14 +1,13 @@
 ---
 id: b201be29-8ad1-4091-b80a-40cf38996a7f
-published: false
 blueprint: events
-title: 'Debenham Movers (Duplicated) (Duplicated)'
+title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716995282
+updated_at: 1716995333
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
-start_date: '2024-07-29 10:00'
+start_date: '2024-08-12 10:00'
 event_categories:
   - later-life
   - dance
@@ -161,7 +160,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: '£5 per session'
-end_date: '2024-07-29 11:30'
+end_date: '2024-08-12 11:30'
 duplicated_from: 3484785f-4162-4083-ab0e-71237ed7b3a9
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Debenham.
