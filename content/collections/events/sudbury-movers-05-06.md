@@ -4,7 +4,7 @@ blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716993577
+updated_at: 1716993614
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2024-06-05 10:00'
@@ -187,7 +187,6 @@ cta: |-
   [community-dance@hotmail.com](mailto:community-dance@hotmail.com)
 
   [07375024115](tel:07375024115)
-booking_link: 'https://www.danceeast.co.uk/workshops/sudbury-movers/'
 accessibility_information: |-
   - Autism friendly
   - Wheelchair access
