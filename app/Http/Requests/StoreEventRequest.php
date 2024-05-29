@@ -42,7 +42,7 @@ class StoreEventRequest extends FormRequest
             'cta' => ['max:1000'],
             'categories' => ['required', 'array', 'min:1'],
             'organisers' => ['required', 'array', 'min:1'],
-            'image' => ['sometimes', 'image', 'max:5120'],
+            'image' => ['sometimes', 'mimetypes:image/jpeg,image/png,image/gif,image/bmp,image/tiff,image/webp', 'max:5120'],
         ];
     }
 
