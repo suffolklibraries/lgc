@@ -1,5 +1,6 @@
 ---
 id: 09066545-65c7-49cf-9b1b-1c40f75227db
+published: false
 blueprint: events
 title: "Let's Get Crafty: Animals in the Archives"
 event_categories:
