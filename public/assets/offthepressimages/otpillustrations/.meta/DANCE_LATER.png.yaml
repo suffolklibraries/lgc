@@ -1,6 +1,8 @@
-data: {  }
+data:
+  alt: 'An illustration showing a leg in orange trousers with a black show, and a leg in black tights with a pink shoe on a yellow and pink background.'
 size: 79388
-last_modified: 1645615483
+last_modified: 1701272404
 width: 400
 height: 800
 mime_type: image/png
+duration: null
