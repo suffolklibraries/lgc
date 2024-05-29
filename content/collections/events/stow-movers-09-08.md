@@ -1,14 +1,13 @@
 ---
 id: 22c97deb-6d80-4e4e-9adf-5d792d6b7dfc
-published: false
 blueprint: events
-title: 'Stow Movers (Duplicated)'
+title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716992358
+updated_at: 1716992435
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
-start_date: '2024-07-19 14:00'
+start_date: '2024-08-09 14:00'
 event_categories:
   - later-life
   - dance
@@ -210,7 +209,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: '£5 per session'
-end_date: '2024-07-19 15:30'
+end_date: '2024-08-09 15:30'
 duplicated_from: 5f77337e-dcf0-45b8-be8e-c731f9c75d3b
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Stowmarket.
