@@ -1,22 +1,21 @@
 ---
 id: 2b595a22-c172-4e5e-882c-6d567ba70618
-published: false
 blueprint: events
-title: 'Marina Youth Theatre and Young Company (Duplicated)'
+title: 'Next Stagers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714389792
-start_date: '2024-09-06 09:30'
-end_date: '2024-12-20 12:30'
+updated_at: 1716988094
+start_date: '2024-06-05 10:30'
+end_date: '2024-06-05 11:30'
 event_categories:
-  - music
-  - dance
-free: false
+  - performance
+  - later-life
+free: true
 virtual: false
 organisers:
   - marina-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: offthepressimages/Theatre.png
 content_area:
   -
     type: heading
@@ -31,27 +30,49 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the Marina Youth Theatre to work together to create a show! '
+        text: "You might have experience in professional or amateur theatre, be an enthusiastic audience member, or maybe just looking to make new friends in the area. Either way, if you love theatre, we'd love you to join the Next Stagers."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Visit the '
+        text: 'No previous theatre experience necessary and newcomers are always welcome!'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.marinatheatre.co.uk/take-part/youth-theatre-young-company/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Marina Theatre website'
+        text: 'Next Stagers members also have access to specially discounted tickets and workshops throughout the year.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: ' to find out more.'
+        text: ' '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '"I never ever thought I would be interested in Shakespeare and now I am totally fascinated by it - you are never too old to learn anything." - Eileen Welham'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '"As a group we really think we can go places –  I love being a part of The Next Stagers."- Arthur Harding'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '"There is no imperative to come every single week - the group is so welcoming - you can miss a week or two and be welcomed back with open arms." - Bev Cadby'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '"The whole group is not just about acting – it is also about the friendships and camaraderie." – Linda Howard'
   -
     type: heading
     attrs:
@@ -60,18 +81,6 @@ content_area:
       -
         type: text
         text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Membership is £65 per term but there are assisted places available. If cost is a barrier, please get in touch to discuss further. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Free taster sessions are available, get in touch for more details.'
   -
     type: paragraph
     content:
@@ -91,13 +100,7 @@ content_area:
         text: community@marinatheatre.co.uk
       -
         type: text
-        text: ' to find out more!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Places in Youth Theatre & Young Company this term are limited and are offered on a first come first served basis.'
+        text: ' to find out more and book.'
   -
     type: heading
     attrs:
@@ -253,6 +256,5 @@ address_line_1: 'Marina Theatre'
 address_line_2: Marina
 postcode: 'NR32 1HH'
 duplicated_from: 5df10e55-af50-4bfc-b289-64976c1518ff
-attendance_information: '- 7 to 17 year olds'
 ---
-For the first hour have fun playing theatre games and learning new skills.
+Designed to give members a chance to meet and discuss theatre, read plays and even rehearse and stage them!
