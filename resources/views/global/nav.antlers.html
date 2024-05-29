@@ -10,7 +10,7 @@
       <li>
         <a
             {{ if handles_users }}
-                href="{{ logged_in ? {route:user.dashboard.index} : {route:user.login} }}"
+                href="{{ logged_in ? {route:user.dashboard.index} : {route:login} }}"
             {{ else }}
                 href="{{ url }}"
             {{ /if }}
