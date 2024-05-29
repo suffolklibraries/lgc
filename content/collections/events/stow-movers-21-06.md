@@ -4,7 +4,7 @@ blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716992057
+updated_at: 1716993207
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
 start_date: '2024-06-21 14:00'
@@ -126,7 +126,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Stowmarket railway station is a give minute walk away and you can find times on the '
+        text: 'Stowmarket railway station is a five minute walk away and you can find times on the '
       -
         type: text
         marks:
