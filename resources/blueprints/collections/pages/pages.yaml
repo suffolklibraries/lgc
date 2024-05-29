@@ -1,61 +1,77 @@
 title: Pages
-sections:
+tabs:
   main:
     display: Main
-    fields:
+    sections:
       -
-        handle: title
-        field:
-          type: text
-          required: true
-          validate:
-            - required
-      -
-        import: content_area
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              validate:
+                - required
+          -
+            import: content_area
   sidebar:
     display: Sidebar
-    fields:
+    sections:
       -
-        handle: slug
-        field:
-          type: slug
-          required: true
-          localizable: true
-          validate:
-            - required
-      -
-        handle: parent
-        field:
-          type: entries
-          collections:
-            - pages
-          max_items: 1
-          listable: false
-          localizable: true
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate:
+                - required
+          -
+            handle: parent
+            field:
+              type: entries
+              collections:
+                - pages
+              max_items: 1
+              listable: false
+              localizable: true
+          -
+            handle: hide_sidebar
+            field:
+              default: false
+              type: toggle
+              display: 'Hide Sidebar?'
+              icon: toggle
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
   hero:
     display: Hero
-    fields:
+    sections:
       -
-        handle: standfirst
-        field:
-          always_show_set_button: false
-          buttons:
-            - bold
-            - italic
-            - removeformat
-            - anchor
-          save_html: false
-          toolbar_mode: fixed
-          link_noopener: false
-          link_noreferrer: false
-          target_blank: false
-          reading_time: false
-          fullscreen: true
-          allow_source: true
-          enable_input_rules: true
-          enable_paste_rules: true
-          display: Standfirst
-          type: bard
-          icon: bard
-          listable: hidden
-          instructions_position: above
+        fields:
+          -
+            handle: standfirst
+            field:
+              always_show_set_button: false
+              buttons:
+                - bold
+                - italic
+                - removeformat
+                - anchor
+              save_html: false
+              toolbar_mode: fixed
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              reading_time: false
+              fullscreen: true
+              allow_source: true
+              enable_input_rules: true
+              enable_paste_rules: true
+              display: Standfirst
+              type: bard
+              icon: bard
+              listable: hidden
+              instructions_position: above

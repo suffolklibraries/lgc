@@ -1,6 +1,8 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use Spatie\Honeypot\ProtectAgainstSpam;
+use App\Http\Controllers\EventSubmissionController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,6 +15,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::statamic('example', 'example-view', [
-//    'title' => 'Example'
-// ]);
+Route::post('submit-event', [EventSubmissionController::class, 'store'])
+    ->name('event-submission.store')
+    ->middleware(ProtectAgainstSpam::class);

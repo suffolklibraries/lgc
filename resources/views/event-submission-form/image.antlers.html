@@ -1,0 +1,75 @@
+{{ old[field_name] | dump }}
+
+<div x-data="{
+    uploadedImagePreviewUrl: '',
+    isDragging: false,
+    handleUploadedImage(event) {
+        const file = event.target.files[0];
+        if (file) {
+            this.uploadedImagePreviewUrl = URL.createObjectURL(file);
+        }
+    },
+    clearImage() {
+        this.uploadedImagePreviewUrl = '';
+        $refs.imageUpload.value = '';
+    },
+    dragover(event) {
+        event.preventDefault();
+        this.isDragging = true;
+    },
+    dragleave() {
+        this.isDragging = false;
+    },
+    drop(event) {
+        console.log(event);
+
+        event.preventDefault()
+        $refs.imageUpload.value.files = event.dataTransfer.files
+        this.handleUploadedImage(event)
+        this.isDragging = false;
+    }
+}"
+    class="tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-6 tw-px-8 tw-py-10 tw-border tw-border-dashed tw-border-[#C6C6C6]"
+    :class="{
+        'tw-border-[#2767DF]' : isDragging
+    }"
+    @dragover="dragover"
+    @dragleave="dragleave"
+    @drop="drop">
+    <input
+        x-ref="imageUpload"
+        id="{{ field_name }}"
+        name="{{ field_name }}"
+        type="file"
+        accept="image/*"
+        class="tw-sr-only"
+        @change="handleUploadedImage($event)">
+    <div x-show="uploadedImagePreviewUrl" class="tw-relative">
+        <img
+            :src="uploadedImagePreviewUrl"
+            class="tw-max-h-[150px] tw-w-auto tw-object-contain tw-bg-brand-purple-mid">
+        <button
+            class="tw-absolute tw-flex tw-items-center tw-justify-center tw-w-8 tw-h-8 tw-rounded-full tw-shadow-brand tw--top-3 tw--right-3 tw-bg-brand-purple-light hover:tw-bg-brand-purple-mid motion-safe:tw-transition"
+            aria-label="Remove uploaded image"
+            @click="clearImage">
+
+            <i x-data x-on:click.prevent="$emit('clearImage')" class="tw-w-5 tw-h-5 fas fa-times"></i>
+        </button>
+    </div>
+    <div class="tw-flex tw-flex-col tw-items-center tw-justify-center tw-gap-4 tw-text-center">
+        <label
+            for="{{ field_name }}"
+            class="hover:tw-cursor-pointer tw-text-sm tw-px-4 tw-py-3 tw-bg-[#2767DF26] tw-rounded-full tw-text-[#2767DF] tw-font-bold tw-flex tw-items-center tw-gap-2"
+        >
+            <span x-text="uploadedImagePreviewUrl ? 'Replace current image' : '{{ field_label }}'"></span>
+            {{ svg:upload class="tw-h-3 tw-w-3" }}
+        </label>
+        <div>
+            <p class="tw-text-sm">Upload 1 image, max 5mb. Your image will be cropped to a 5:4 ratio, please keep this in mind.</p>
+        </div>
+    </div>
+
+    {{ get_error:{field_name} }}
+        <div class="tw-text-red-500 tw-text-sm">{{ message }}</div>
+    {{ /get_error:{field_name} }}
+</div>

@@ -1,3 +1,6 @@
+
+@import "tailwindcss/base";
+
 @import './settings/colours.css';
 @import './settings/typography.css';
 @import './settings/utopia.css';
@@ -56,3 +59,6 @@
 @import './utilities/typography.css';
 
 @import './ie11.css';
+
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
