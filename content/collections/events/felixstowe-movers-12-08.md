@@ -4,7 +4,7 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716989887
+updated_at: 1716990556
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2024-08-12 13:00'
@@ -106,7 +106,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Stowmarket Community Centre is a one minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Felixstowe Community Centre is a one minute walk from the nearest bus stop, and you can find up-to-date times on the '
       -
         type: text
         marks:
