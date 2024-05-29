@@ -1,5 +1,6 @@
 ---
 id: 28f25c1c-9460-414a-a65d-d58e66e03d5e
+published: false
 blueprint: events
 title: 'May Half-Term in the Yard'
 event_categories:
