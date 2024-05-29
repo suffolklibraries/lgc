@@ -1,5 +1,6 @@
 ---
 id: 60773b72-52cc-4a13-86f8-480dbfd3c6d2
+published: false
 blueprint: events
 title: 'Springtime Family Activities'
 event_categories:
