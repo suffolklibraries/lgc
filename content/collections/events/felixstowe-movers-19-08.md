@@ -1,14 +1,13 @@
 ---
 id: aff6b4a9-3713-43ad-bcb6-4f2281764a5c
-published: false
 blueprint: events
-title: 'Felixstowe Movers (Duplicated)'
+title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716989829
+updated_at: 1716989939
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
-start_date: '2024-08-05 13:00'
+start_date: '2024-08-19 13:00'
 event_categories:
   - later-life
   - dance
@@ -181,7 +180,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
 cost_details: '£5 per session'
-end_date: '2024-08-05 14:30'
+end_date: '2024-08-19 14:30'
 duplicated_from: b4eb6862-134b-44a8-a5e8-1b5cae3c8a16
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Felixstowe.
