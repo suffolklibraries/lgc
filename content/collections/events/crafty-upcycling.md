@@ -1,5 +1,6 @@
 ---
 id: 4bc89941-1c44-4746-b121-393570402ffe
+published: false
 blueprint: events
 title: "Children's Corner - Kids Crafty Upcycling"
 latitude: '52.47146825080719'
