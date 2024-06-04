@@ -1,5 +1,6 @@
 ---
 id: f025baaa-35f7-4137-9ace-9a317f7a49c2
+published: false
 blueprint: events
 title: "Children's Crafts at Lowestoft"
 organisers:
