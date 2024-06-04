@@ -1,13 +1,12 @@
 ---
 id: cb11a475-c686-42c2-bf20-9d3a0806f7ba
-published: false
 blueprint: events
-title: 'Summer Family Cinema - Teenage Mutant Ninja Turtles (Duplicated)'
+title: 'Summer Family Cinema - IF'
 organisers:
   - haverhill-arts-centre
 featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2024-06-08 10:30'
-end_date: '2024-06-08 12:30'
+start_date: '2024-06-15 10:30'
+end_date: '2024-06-15 12:30'
 free: false
 virtual: false
 content_area:
@@ -30,13 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Teenage Mutant Ninja Turtles overview - after years of being sheltered from the human world, the Turtle brothers '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'set out to win the hearts of New Yorkers and be accepted as normal teenagers through heroic acts. Rating - PG'
+        text: 'IF overview -From writer and director John Krasinski, IF is about a girl who discovers that she can see everyone’s imaginary friends — and what she does with that superpower — as she embarks on a magical adventure to reconnect forgotten IFs with their kids. IF stars Ryan Reynolds, John Krasinski, Cailey Fleming, Fiona Shaw, and the voices of Phoebe Waller-Bridge, Louis Gossett Jr. and Steve Carell alongside many more as the wonderfully unique characters that reflect the incredible power of a child’s imagination. Rating - U'
   -
     type: heading
     attrs:
@@ -151,7 +144,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717504816
+updated_at: 1717504941
 duplicated_from: ae737a8d-e88e-46e1-873f-a65a039e0a44
 attendance_information: '- Family Friendly'
 event_categories:
@@ -163,6 +156,6 @@ address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
 cost_details: '£4 including a drink and snack'
-booking_link: 'https://haverhillartscentre.co.uk/performance/teenage-mutant-ninja-turtles-mutant-mayhem/'
+booking_link: 'https://haverhillartscentre.co.uk/performance/if/'
 ---
 Treat the whole family this June with our Summer Family Cinema Deal!
