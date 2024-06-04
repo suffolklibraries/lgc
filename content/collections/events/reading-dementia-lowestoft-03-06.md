@@ -1,5 +1,6 @@
 ---
 id: 6dc2ac34-2f5d-4838-81a4-492caa7087e3
+published: false
 blueprint: events
 title: 'Reading with Dementia - Lowestoft'
 event_categories:
