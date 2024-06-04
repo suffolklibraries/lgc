@@ -1,5 +1,6 @@
 ---
 id: 04d61c34-4ec5-454a-88e9-359b9d2c23d8
+published: false
 blueprint: events
 title: "Brandon Country Park's Spring Holiday Trail"
 organisers:
