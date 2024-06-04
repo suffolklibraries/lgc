@@ -1,5 +1,6 @@
 ---
 id: ce7af3a9-683c-456f-9167-09f64dc83703
+published: false
 blueprint: events
 title: 'Mini Mansions'
 event_categories:
