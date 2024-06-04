@@ -1,5 +1,6 @@
 ---
 id: 4d248f36-bb5f-4690-bcdb-15919706e5c9
+published: false
 blueprint: events
 title: 'Woolly’s Mystery Trail'
 event_categories:
