@@ -1,5 +1,6 @@
 ---
 id: a4ba7aaa-6843-45e0-95e5-936993caa2df
+published: false
 blueprint: events
 title: 'Wolsey Walks: The Life and Times of Thomas Wolsey'
 event_categories:
