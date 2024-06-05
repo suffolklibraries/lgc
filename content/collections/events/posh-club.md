@@ -1,5 +1,6 @@
 ---
 id: d8d7cb1e-cebf-4b30-a720-d620fb1543e4
+published: false
 blueprint: events
 title: 'The Posh Club'
 event_categories:
