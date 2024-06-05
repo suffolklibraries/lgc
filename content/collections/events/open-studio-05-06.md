@@ -1,5 +1,6 @@
 ---
 id: 86b50ef6-7a99-4fce-908c-cb83918c8974
+published: false
 blueprint: events
 title: 'Open Studio with Rock Paper Scissors'
 event_categories:
