@@ -1,8 +1,7 @@
 ---
 id: 83064ac6-b01c-471e-a287-324be11ceed8
-published: false
 blueprint: events
-title: 'Home Ed Drop-In (Duplicated) (2)'
+title: 'Home Ed Drop-In'
 event_categories:
   - languages
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Teen.png
-start_date: '2024-06-10 13:00'
-end_date: '2024-06-10 15:00'
+start_date: '2024-07-08 13:00'
+end_date: '2024-07-08 15:00'
 free: true
 virtual: false
 attendance_information: '- 11 - 16 year olds'
@@ -115,7 +114,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717658733
+updated_at: 1717658822
 duplicated_from: 8156dae6-c597-4e58-94b3-234e167972dc
 ---
 If you're home-educated and aged between 11-16 years old, drop-in between 1-3pm on Mondays!
