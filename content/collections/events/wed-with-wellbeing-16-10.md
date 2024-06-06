@@ -1,24 +1,23 @@
 ---
 id: 16686c4f-b386-4f80-8df0-7e3c3d0f8d8b
-published: false
 blueprint: events
-title: 'Wednesdays with Wellbeing - Five Ways Fairs (Duplicated)'
+title: 'Wednesdays with Wellbeing - Five Ways Fairs'
 event_categories:
   - wellbeing
   - community
 organisers:
   - wellbeing-suffolk
 featured_image: offthepressimages/otpillustrations/support.png
-start_date: '2024-08-21 13:00'
-end_date: '2024-08-21 15:00'
+start_date: '2024-10-16 11:00'
+end_date: '2024-10-16 13:00'
 free: true
 virtual: false
-latitude: '51.96172925213994'
-longitude: '1.3514424835490197'
-address_line_1: 'Trinity Methodist Church'
-address_line_2: '26 Hamilton Road'
-town: Felixstowe
-postcode: 'IP11 7AN'
+latitude: '51.96907704434447'
+longitude: '1.2524387682095084'
+address_line_1: 'Shotley Village Hall'
+address_line_2: 'The Street, Shotley'
+town: Ipswich
+postcode: 'IP9 1LX'
 content_area:
   -
     type: heading
@@ -116,14 +115,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Felixstowe+Methodist+Church+@+Trinity/@51.9614683,1.3480714,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9777cd1155b4b:0x9c0101accf812041!2sStanley+Road,+Felixstowe+IP11+7DE!2m2!1d1.3499431!2d51.961313!1m6!1m2!1s0x47d9777d39fd2fed:0xd45ff6c9bdaffe1d!2sFelixstowe+Methodist+Church+@+Trinity,+26+Hamilton+Rd,+Felixstowe+IP11+7AN!2m2!1d1.3514382!2d51.9615649!3e2!3m5!1s0x47d9777d39fd2fed:0xd45ff6c9bdaffe1d!8m2!3d51.9615607!4d1.3514103!16s%2Fg%2F1tjthk07?entry=ttu'
+              href: 'https://www.google.com/maps/dir/The+Rose,+Ipswich+IP9+1NJ/Shotley+Village+Hall,+The+Street,+Shotley,+Ipswich/@51.9691415,1.2498336,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9742baf8f6799:0xfba6374fa810cc9e!2m2!1d1.252036!2d51.96936!1m5!1m1!1s0x47d9742ba9328def:0x57d4e80b2ab757f7!2m2!1d1.2524625!2d51.9688942!3e2?entry=ttu'
               rel: null
               target: _blank
               title: null
         text: 'closest bus stop'
       -
         type: text
-        text: ' is two minute away, and you can find the latest bus timetables on the '
+        text: " is one minute's walk away, and you can find the latest bus timetables on the "
       -
         type: text
         marks:
@@ -143,41 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest car park is '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.eastsuffolk.gov.uk/visitors/parking-services/car-parks/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Crescent Road car park'
-      -
-        type: text
-        text: ' and is a six minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Felixstowe Railway Station is a 13 minute walk away and can find train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: .
+        text: 'Shotley Village Hall has onsite parking.'
   -
     type: paragraph
     content:
@@ -207,7 +172,7 @@ cta: |-
 
   [wellbeing.suffolk@nsft.nhs.uk](email:wellbeing.suffolk@nsft.nhs.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717668753
+updated_at: 1717668979
 duplicated_from: f8e5acaa-72c0-4d0e-9500-612c8a48fddd
 ---
 Join Wellbeing Suffolk to find out how we can help you live your life.
