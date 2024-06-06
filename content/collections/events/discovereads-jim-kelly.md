@@ -1,5 +1,6 @@
 ---
 id: 50ac6196-4dde-40dd-aab5-86bb3841a2c4
+published: false
 blueprint: events
 title: 'DiscoveReads Author Interview - Jim Kelly'
 organisers:
