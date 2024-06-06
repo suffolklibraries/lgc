@@ -1,24 +1,23 @@
 ---
 id: b4aee26c-e664-4200-a9b9-65afb1d4ae48
-published: false
 blueprint: events
-title: 'Wednesdays with Wellbeing - Five Ways Fairs (Duplicated)'
+title: 'Wednesdays with Wellbeing - Five Ways Fairs'
 event_categories:
   - wellbeing
   - community
 organisers:
   - wellbeing-suffolk
 featured_image: offthepressimages/otpillustrations/support.png
-start_date: '2024-10-16 11:00'
-end_date: '2024-10-16 13:00'
+start_date: '2024-11-06 13:00'
+end_date: '2024-11-06 15:00'
 free: true
 virtual: false
-latitude: '51.96907704434447'
-longitude: '1.2524387682095084'
-address_line_1: 'Shotley Village Hall'
-address_line_2: 'The Street, Shotley'
-town: Ipswich
-postcode: 'IP9 1LX'
+latitude: '52.342921514941494'
+longitude: '0.5003644259020862'
+address_line_1: 'Mildenhall Hub'
+address_line_2: 'Sheldrick Way, Mildenhall'
+town: 'Bury Saint Edmunds'
+postcode: 'IP28 7JX'
 content_area:
   -
     type: heading
@@ -109,28 +108,20 @@ content_area:
     content:
       -
         type: text
-        text: 'The '
+        text: 'There is free parking available at Mildenhall Hub, including Blue Badge bays.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "The nearest bus stop is about a minute's walk away. You can find up-to-date bus timetables on the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/The+Rose,+Ipswich+IP9+1NJ/Shotley+Village+Hall,+The+Street,+Shotley,+Ipswich/@51.9691415,1.2498336,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9742baf8f6799:0xfba6374fa810cc9e!2m2!1d1.252036!2d51.96936!1m5!1m1!1s0x47d9742ba9328def:0x57d4e80b2ab757f7!2m2!1d1.2524625!2d51.9688942!3e2?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: 'closest bus stop'
-      -
-        type: text
-        text: " is one minute's walk away, and you can find the latest bus timetables on the "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/'
               rel: null
               target: _blank
               title: null
@@ -138,12 +129,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Shotley Village Hall has onsite parking.'
   -
     type: paragraph
     content:
@@ -173,7 +158,7 @@ cta: |-
 
   [wellbeing.suffolk@nsft.nhs.uk](email:wellbeing.suffolk@nsft.nhs.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717668979
+updated_at: 1717669259
 duplicated_from: 16686c4f-b386-4f80-8df0-7e3c3d0f8d8b
 ---
 Join Wellbeing Suffolk to find out how we can help you live your life.
