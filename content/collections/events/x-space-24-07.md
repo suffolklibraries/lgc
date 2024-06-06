@@ -1,8 +1,7 @@
 ---
 id: 942f784b-de30-4b14-b217-01ae3b8679fc
-published: false
 blueprint: events
-title: 'X-Space (Duplicated)'
+title: X-Space
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: offthepressimages/support.png
-start_date: '2024-06-19 17:00'
-end_date: '2024-06-19 19:00'
+start_date: '2024-07-24 17:00'
+end_date: '2024-07-24 19:00'
 free: true
 virtual: false
 attendance_information: '- 18 - 25 year olds'
@@ -98,7 +97,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717659137
+updated_at: 1717659224
 duplicated_from: c5965de5-dc10-46aa-906b-65a5da271d08
 ---
 X-Space is a brand new drop-in for 18 - 25 year olds
