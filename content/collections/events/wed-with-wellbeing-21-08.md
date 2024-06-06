@@ -1,24 +1,23 @@
 ---
 id: f8e5acaa-72c0-4d0e-9500-612c8a48fddd
-published: false
 blueprint: events
-title: 'Wednesdays with Wellbeing - Five Ways Fairs (Duplicated)'
+title: 'Wednesdays with Wellbeing - Five Ways Fairs'
 event_categories:
   - wellbeing
   - community
 organisers:
   - wellbeing-suffolk
 featured_image: offthepressimages/otpillustrations/support.png
-start_date: '2024-07-17 13:00'
-end_date: '2024-07-17 15:00'
+start_date: '2024-08-21 13:00'
+end_date: '2024-08-21 15:00'
 free: true
 virtual: false
-latitude: '52.05992750357767'
-longitude: '1.1448329835549171'
-address_line_1: 'Burlington Church Hall'
-address_line_2: '6-2 Burlington Road'
-town: Ipswich
-postcode: 'IP1 2HA'
+latitude: '51.96172925213994'
+longitude: '1.3514424835490197'
+address_line_1: 'Trinity Methodist Church'
+address_line_2: '26 Hamilton Road'
+town: Felixstowe
+postcode: 'IP11 7AN'
 content_area:
   -
     type: heading
@@ -116,7 +115,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Burlington+Church+Halls,+Burlington+Road,+Ipswich/Barrack+Corner,+Ipswich+IP1+3EW/@52.0599493,1.1446414,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a18b344d1fb9:0x4d402dd4c434117e!2m2!1d1.1447935!2d52.0598035!1m5!1m1!1s0x47d9a1cd1dec5841:0xc8cbbead1085b2c5!2m2!1d1.14664!2d52.060089!3e2?entry=ttu'
+              href: 'https://www.google.com/maps/place/Felixstowe+Methodist+Church+@+Trinity/@51.9614683,1.3480714,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9777cd1155b4b:0x9c0101accf812041!2sStanley+Road,+Felixstowe+IP11+7DE!2m2!1d1.3499431!2d51.961313!1m6!1m2!1s0x47d9777d39fd2fed:0xd45ff6c9bdaffe1d!2sFelixstowe+Methodist+Church+@+Trinity,+26+Hamilton+Rd,+Felixstowe+IP11+7AN!2m2!1d1.3514382!2d51.9615649!3e2!3m5!1s0x47d9777d39fd2fed:0xd45ff6c9bdaffe1d!8m2!3d51.9615607!4d1.3514103!16s%2Fg%2F1tjthk07?entry=ttu'
               rel: null
               target: _blank
               title: null
@@ -143,35 +142,41 @@ content_area:
     content:
       -
         type: text
-        text: 'Nearby car parks include the'
+        text: 'The nearest car park is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/carparks'
+              href: 'https://www.eastsuffolk.gov.uk/visitors/parking-services/car-parks/'
               rel: null
               target: _blank
               title: null
-        text: ' South Street Car Park'
+        text: 'Crescent Road car park'
       -
         type: text
-        text: ' (four minute walk) or at the '
+        text: ' and is a six minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Felixstowe Railway Station is a 13 minute walk away and can find train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'http://www.napierparking.co.uk/our-car-parks'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
               rel: null
               target: _blank
               title: null
-        text: 'New Wolsey Theatre'
+        text: 'Greater Anglia website'
       -
         type: text
-        text: ' (eight minute walk).'
+        text: .
   -
     type: paragraph
     content:
@@ -201,7 +206,7 @@ cta: |-
 
   [wellbeing.suffolk@nsft.nhs.uk](email:wellbeing.suffolk@nsft.nhs.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717661057
+updated_at: 1717668753
 duplicated_from: 21b77ad8-50d7-4613-a660-f0ecfdfc4269
 ---
 Join Wellbeing Suffolk to find out how we can help you live your life.
