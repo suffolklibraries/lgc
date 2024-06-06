@@ -1,24 +1,23 @@
 ---
 id: 21b77ad8-50d7-4613-a660-f0ecfdfc4269
-published: false
 blueprint: events
-title: 'Wednesdays with Wellbeing - Five Ways Fairs (Duplicated)'
+title: 'Wednesdays with Wellbeing - Five Ways Fairs'
 event_categories:
   - wellbeing
   - community
 organisers:
   - wellbeing-suffolk
 featured_image: offthepressimages/otpillustrations/support.png
-start_date: '2024-12-11 13:00'
-end_date: '2024-12-11 15:00'
+start_date: '2024-07-17 13:00'
+end_date: '2024-07-17 15:00'
 free: true
 virtual: false
-latitude: '52.24930346307879'
-longitude: '0.7126522277412982'
-address_line_1: 'St John the Evangelist Church'
-address_line_2: "St John's Street"
-town: 'Bury Saint Edmunds'
-postcode: 'IP33 1SP'
+latitude: '52.05992750357767'
+longitude: '1.1448329835549171'
+address_line_1: 'Burlington Church Hall'
+address_line_2: '6-2 Burlington Road'
+town: Ipswich
+postcode: 'IP1 2HA'
 content_area:
   -
     type: heading
@@ -42,8 +41,9 @@ content_area:
         text: "So far they've been organisations including Out Loud Music, Suffolk Libraries, KMT Rising, Ipswich Community Media and many more. "
       -
         type: hardBreak
-      -
-        type: hardBreak
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'If you would like to get involved or have any queries Wellbeing Wednesdays, get in touch with our community team via email '
@@ -108,32 +108,32 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest bus station is a three minute walk away, and you can access up-to-date timetables on the '
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
+              href: 'https://www.google.com/maps/dir/Burlington+Church+Halls,+Burlington+Road,+Ipswich/Barrack+Corner,+Ipswich+IP1+3EW/@52.0599493,1.1446414,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a18b344d1fb9:0x4d402dd4c434117e!2m2!1d1.1447935!2d52.0598035!1m5!1m1!1s0x47d9a1cd1dec5841:0xc8cbbead1085b2c5!2m2!1d1.14664!2d52.060089!3e2?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'closest bus stop'
+      -
+        type: text
+        text: ' is two minute away, and you can find the latest bus timetables on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
               rel: null
               target: _blank
               title: null
         text: 'Suffolk Onboard website'
-      -
-        type: text
-        text: '. Bury St Edmunds railway station is a 10 minute walk away and you can find the train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
       -
         type: text
         text: .
@@ -142,35 +142,35 @@ content_area:
     content:
       -
         type: text
-        text: 'There is car parking at the '
+        text: 'Nearby car parks include the'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              href: 'https://www.ipswich.gov.uk/carparks'
               rel: null
               target: _blank
               title: null
-        text: 'Arc shopping centre'
+        text: ' South Street Car Park'
       -
         type: text
-        text: ', which a seven minute walk away from the library, and the '
+        text: ' (four minute walk) or at the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
+              href: 'http://www.napierparking.co.uk/our-car-parks'
               rel: null
               target: _blank
               title: null
-        text: 'St Andrews Flexi-Stay car park'
+        text: 'New Wolsey Theatre'
       -
         type: text
-        text: ', which is a seven minute walk.'
+        text: ' (eight minute walk).'
   -
     type: paragraph
     content:
@@ -200,7 +200,7 @@ cta: |-
 
   [wellbeing.suffolk@nsft.nhs.uk](email:wellbeing.suffolk@nsft.nhs.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717660452
+updated_at: 1717661057
 duplicated_from: 9932e0d8-fd42-4805-8da4-33cbc5635c95
 ---
 Join Wellbeing Suffolk to find out how we can help you live your life.
