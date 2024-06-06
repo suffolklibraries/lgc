@@ -1,20 +1,19 @@
 ---
 id: c5965de5-dc10-46aa-906b-65a5da271d08
-published: false
 blueprint: events
-title: 'Home Ed Drop-In (Duplicated)'
+title: X-Space
 event_categories:
-  - languages
   - art
   - community
+  - computing
 organisers:
   - the-mix
-featured_image: offthepressimages/new_resized_images/Teen.png
-start_date: '2024-07-08 13:00'
-end_date: '2024-07-08 15:00'
+featured_image: offthepressimages/support.png
+start_date: '2024-06-19 17:00'
+end_date: '2024-06-19 19:00'
 free: true
 virtual: false
-attendance_information: '- 11 - 16 year olds'
+attendance_information: '- 18 - 25 year olds'
 latitude: '52.18593337408477'
 longitude: '0.9993967685595039'
 address_line_1: 'The Mix, 127 Ipswich Street'
@@ -34,24 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at our inclusive small group for pool, gaming, creative fun, café delights and chilled social time!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'For more details contact Anna at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:anna@themixstowmarket.co.u'
-              rel: null
-              target: null
-              title: null
-        text: anna@themixstowmarket.co.uk
+        text: 'Come and join us in a safe, social, chill-out space. Hang out with friends, game, connect, and meet new people. '
   -
     type: heading
     attrs:
@@ -115,7 +97,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717658822
+updated_at: 1717659137
 duplicated_from: 83064ac6-b01c-471e-a287-324be11ceed8
 ---
-If you're home-educated and aged between 11-16 years old, drop-in between 1-3pm on Mondays!
+X-Space is a brand new drop-in for 18 - 25 year olds
