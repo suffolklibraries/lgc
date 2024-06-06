@@ -1,5 +1,6 @@
 ---
 id: 4983f758-e8fd-42d3-b152-233778987f25
+published: false
 blueprint: events
 title: 'Poster Design at Haverhill Carers Group'
 organisers:
