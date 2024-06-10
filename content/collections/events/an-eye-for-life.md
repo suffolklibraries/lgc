@@ -141,7 +141,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1718034227
+updated_at: 1718034235
 duplicated_from: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 ---
 Celebrating themes of portraiture, identity and home, this new exhibition features photographs by John Ferguson, an internationally established documentary, lifestyle and portrait photographer who lives in Ipswich. His images tell stories which are approachable and intimate.
