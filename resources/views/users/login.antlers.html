@@ -1,0 +1,28 @@
+{{ partial:global/page-header/default }}
+
+<form
+    class="tw-max-w-2xl tw-mx-auto tw-shadow-brand tw-p-10 tw-flex tw-flex-col tw-gap-4"
+    method="POST"
+    action="{{ route:login.store }}"
+>
+    {{ csrf_field }}
+    {{ partial:partial/honeypot }}
+
+    {{ partial:event-submission-form/text field_label="Email Address*" field_name="email" field_type="email" autocomplete="email" }}
+
+    {{ partial:event-submission-form/text field_label="Password*" field_name="password" field_type="password" }}
+
+    <label for="remember" class="tw-flex tw-items-center tw-gap-2">
+        <input type="checkbox" name="remember" id="remember" class="tw-w-auto tw-accent-brand-pink">
+        <span class="tw-text-base">Remember me</span>
+    </label>
+
+    <button type="submit" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
+        Login
+    </button>
+
+    <a href="{{ route:password.request }}" class="tw-underline hover:tw-text-brand-grey tw-text-base tw-font-semibold">I've forgotten my password</a>
+
+    <span class="tw-text-sm">Don't have an account? <a href="{{ route:user.register }}" class="tw-underline hover:tw-text-brand-grey">Register</a></span>
+
+</form>

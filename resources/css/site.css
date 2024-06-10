@@ -1,3 +1,6 @@
+
+@import "tailwindcss/base";
+
 @import './settings/colours.css';
 @import './settings/typography.css';
 @import './settings/utopia.css';
@@ -46,6 +49,7 @@
 @import './components/tick-list.css';
 @import './components/top.css';
 @import './components/twi.css';
+@import './components/subheader.css';
 
 @import './utilities/styles.css';
 @import './utilities/spacing.css';
@@ -55,3 +59,8 @@
 @import './utilities/typography.css';
 
 @import './ie11.css';
+
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+[x-cloak] { display: none !important; }

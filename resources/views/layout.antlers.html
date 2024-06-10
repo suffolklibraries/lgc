@@ -37,9 +37,16 @@ var: 3
             {{ global:header_scripts }}
         {{ endif }}
     </head>
-    <body>
+    <body
+        class="tw-relative"
+        {{ if collection == 'events' }}
+            {{ partial:partial/report_content_alpine }}
+        {{ /if }}
+    >
         <a class="c-skip-link button button--pink" href="#main">Skip to content</a>
-        
+
+        {{ partial:global/subheader }}
+
         {{ partial:global/header }}
 
         <div>
@@ -48,11 +55,18 @@ var: 3
 
         {{ partial:global/footer }}
 
+        {{ if collection == 'events' }}
+            {{ partial:partial/report_content_form }}
+        {{ /if }}
+
         <script>
             var _maps = {
                 api: '{{ config:app:google_maps }}',
             };
         </script>
         <script src="{{ mix src='/js/site.js' }}"></script>
+
+        {{ partial:global/footer_scripts }}
+
     </body>
 </html>

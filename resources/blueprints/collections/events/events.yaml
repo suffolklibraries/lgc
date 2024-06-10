@@ -1,275 +1,330 @@
 title: Events
-sections:
+tabs:
   main:
     display: Main
-    fields:
+    sections:
       -
-        handle: title
-        field:
-          type: text
-          required: true
-          validate:
-            - required
-      -
-        handle: content
-        field:
-          type: markdown
-          localizable: true
-          display: Description
-          instructions_position: above
-          listable: hidden
-          restrict: false
-          automatic_line_breaks: true
-          automatic_links: false
-          escape_markup: false
-          smartypants: false
-          antlers: false
+        fields:
+          -
+            handle: title
+            field:
+              type: text
+              validate:
+                - required
+          -
+            handle: content
+            field:
+              type: markdown
+              localizable: true
+              display: Description
+              instructions_position: above
+              listable: hidden
+              restrict: false
+              automatic_line_breaks: true
+              automatic_links: false
+              escape_markup: false
+              smartypants: false
+              antlers: false
   sidebar:
     display: Sidebar
-    fields:
+    sections:
       -
-        handle: slug
-        field:
-          type: slug
-          required: true
-          localizable: true
-          validate:
-            - required
-      -
-        handle: event_categories
-        field:
-          type: terms
-          taxonomies:
-            - event_categories
-          display: 'Event Categories'
-          mode: select
-      -
-        handle: organisers
-        field:
-          type: terms
-          taxonomies:
-            - organisers
-          display: Organisers
-          mode: select
-      -
-        handle: featured_image
-        field:
-          mode: list
-          container: assets
-          restrict: false
-          allow_uploads: true
-          show_filename: true
-          max_files: 1
-          display: 'Featured Image'
-          type: assets
-          icon: assets
-          listable: hidden
-          instructions_position: above
+        fields:
+          -
+            handle: slug
+            field:
+              type: slug
+              localizable: true
+              validate:
+                - required
+          -
+            handle: event_categories
+            field:
+              type: terms
+              taxonomies:
+                - event_categories
+              display: 'Event Categories'
+              mode: select
+          -
+            handle: organisers
+            field:
+              type: terms
+              taxonomies:
+                - organisers
+              display: Organisers
+              mode: select
+          -
+            handle: featured_image
+            field:
+              mode: list
+              container: assets
+              restrict: false
+              allow_uploads: true
+              show_filename: true
+              max_files: 1
+              display: 'Featured Image'
+              type: assets
+              icon: assets
+              listable: hidden
+              instructions_position: above
   event_options:
     display: 'Event Options'
-    fields:
+    sections:
       -
-        handle: start_date
-        field:
-          mode: single
-          time_enabled: true
-          earliest_date: '1900-01-01'
-          full_width: false
-          inline: true
-          columns: 1
-          rows: 1
-          display: 'Start Date'
-          type: date
-          icon: date
-          width: 50
-          listable: hidden
-          instructions_position: above
-          validate:
-            - required
-      -
-        handle: end_date
-        field:
-          mode: single
-          time_enabled: true
-          earliest_date: '1900-01-01'
-          full_width: false
-          inline: true
-          columns: 1
-          rows: 1
-          display: 'End date'
-          type: date
-          icon: date
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: free
-        field:
-          default: false
-          display: Free
-          type: toggle
-          icon: toggle
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: cost_details
-        field:
-          input_type: text
-          antlers: false
-          display: 'Cost details'
-          type: text
-          icon: text
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: virtual
-        field:
-          default: false
-          display: Virtual
-          type: toggle
-          icon: toggle
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: attendance_information
-        field:
-          restrict: false
-          automatic_line_breaks: true
-          automatic_links: false
-          escape_markup: false
-          smartypants: false
-          antlers: false
-          display: 'Attendance Information'
-          type: markdown
-          icon: markdown
-          listable: hidden
-          instructions_position: above
-      -
-        handle: accessibility_information
-        field:
-          restrict: false
-          automatic_line_breaks: true
-          automatic_links: false
-          escape_markup: false
-          smartypants: false
-          antlers: false
-          display: 'Accessibility information'
-          type: markdown
-          icon: markdown
-          listable: hidden
-          instructions_position: above
+        fields:
+          -
+            handle: start_date
+            field:
+              mode: single
+              time_enabled: true
+              earliest_date: '1900-01-01'
+              full_width: false
+              inline: true
+              columns: 1
+              rows: 1
+              display: 'Start Date'
+              type: date
+              icon: date
+              width: 50
+              listable: hidden
+              instructions_position: above
+              validate:
+                - required
+          -
+            handle: end_date
+            field:
+              mode: single
+              time_enabled: true
+              earliest_date: '1900-01-01'
+              full_width: false
+              inline: true
+              columns: 1
+              rows: 1
+              display: 'End date'
+              type: date
+              icon: date
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: free
+            field:
+              default: false
+              display: Free
+              type: toggle
+              icon: toggle
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: cost_details
+            field:
+              input_type: text
+              antlers: false
+              display: 'Cost details'
+              type: text
+              icon: text
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: virtual
+            field:
+              default: false
+              display: Virtual
+              type: toggle
+              icon: toggle
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: attendance_information
+            field:
+              restrict: false
+              automatic_line_breaks: true
+              automatic_links: false
+              escape_markup: false
+              smartypants: false
+              antlers: false
+              display: 'Attendance Information'
+              type: markdown
+              icon: markdown
+              listable: hidden
+              instructions_position: above
+          -
+            handle: accessibility_information
+            field:
+              restrict: false
+              automatic_line_breaks: true
+              automatic_links: false
+              escape_markup: false
+              smartypants: false
+              antlers: false
+              display: 'Accessibility information'
+              type: markdown
+              icon: markdown
+              listable: hidden
+              instructions_position: above
   location:
     display: Location
-    fields:
+    sections:
       -
-        handle: location
-        field:
-          display: Location
-          type: section
-          icon: section
-          instructions: 'Find the lat/lng using [Google Maps](https://www.google.co.uk/maps)'
-          listable: hidden
-          instructions_position: above
-      -
-        handle: latitude
-        field:
-          input_type: text
-          antlers: false
-          display: Latitude
-          type: text
-          icon: text
-          instructions: 'e.g. 52.058836'
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: longitude
-        field:
-          input_type: text
-          antlers: false
-          display: Longitude
-          type: text
-          icon: text
-          instructions: 'e.g. 1.156518'
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: address_line_1
-        field:
-          input_type: text
-          antlers: false
-          display: 'Address Line 1'
-          type: text
-          icon: text
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: address_line_2
-        field:
-          input_type: text
-          antlers: false
-          display: 'Address Line 2'
-          type: text
-          icon: text
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: town
-        field:
-          input_type: text
-          antlers: false
-          display: Town
-          type: text
-          icon: text
-          width: 50
-          listable: hidden
-          instructions_position: above
-      -
-        handle: postcode
-        field:
-          input_type: text
-          antlers: false
-          display: Postcode
-          type: text
-          icon: text
-          width: 50
-          listable: hidden
-          instructions_position: above
+        fields:
+          -
+            handle: location
+            field:
+              display: Location
+              type: section
+              icon: section
+              instructions: 'Find the lat/lng using [Google Maps](https://www.google.co.uk/maps)'
+              listable: hidden
+              instructions_position: above
+          -
+            handle: latitude
+            field:
+              input_type: text
+              antlers: false
+              display: Latitude
+              type: text
+              icon: text
+              instructions: 'e.g. 52.058836'
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: longitude
+            field:
+              input_type: text
+              antlers: false
+              display: Longitude
+              type: text
+              icon: text
+              instructions: 'e.g. 1.156518'
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: address_line_1
+            field:
+              input_type: text
+              antlers: false
+              display: 'Address Line 1'
+              type: text
+              icon: text
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: address_line_2
+            field:
+              input_type: text
+              antlers: false
+              display: 'Address Line 2'
+              type: text
+              icon: text
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: town
+            field:
+              input_type: text
+              antlers: false
+              display: Town
+              type: text
+              icon: text
+              width: 50
+              listable: hidden
+              instructions_position: above
+          -
+            handle: postcode
+            field:
+              input_type: text
+              antlers: false
+              display: Postcode
+              type: text
+              icon: text
+              width: 50
+              listable: hidden
+              instructions_position: above
   content:
     display: Content
-    fields:
+    sections:
       -
-        import: content_area
+        fields:
+          -
+            import: content_area
   call_to_action:
     display: 'Call to action'
-    fields:
+    sections:
       -
-        handle: booking_link
-        field:
-          input_type: text
-          antlers: false
-          display: 'Booking Link'
-          type: text
-          icon: text
-          listable: hidden
-          instructions_position: above
+        fields:
+          -
+            handle: booking_link
+            field:
+              input_type: text
+              antlers: false
+              display: 'Booking Link'
+              type: text
+              icon: text
+              listable: hidden
+              instructions_position: above
+          -
+            handle: cta
+            field:
+              restrict: false
+              automatic_line_breaks: true
+              automatic_links: false
+              escape_markup: false
+              smartypants: false
+              antlers: false
+              display: CTA
+              type: markdown
+              icon: markdown
+              listable: hidden
+              instructions_position: above
+  submitter_details:
+    display: 'Submitter Details'
+    sections:
       -
-        handle: cta
-        field:
-          restrict: false
-          automatic_line_breaks: true
-          automatic_links: false
-          escape_markup: false
-          smartypants: false
-          antlers: false
-          display: CTA
-          type: markdown
-          icon: markdown
-          listable: hidden
-          instructions_position: above
+        fields:
+          -
+            handle: submitter_name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: Name
+              icon: text
+              listable: hidden
+              instructions_position: above
+              visibility: read_only
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: submitter_email_address
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Email Address'
+              icon: text
+              listable: hidden
+              instructions_position: above
+              visibility: read_only
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: created_by
+            field:
+              max_items: 1
+              mode: select
+              type: users
+              display: 'Created By'
+              icon: users
+              instructions: 'When the event is created by a user, they will appear here.'
+              listable: hidden
+              instructions_position: above
+              visibility: read_only
+              replicator_preview: true
+              hide_display: false

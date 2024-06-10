@@ -1,0 +1,93 @@
+{{ partial:users/dashboard/layout content_title="My Events" }}
+    {{ slot:heading_buttons }}
+    <a href="{{ route:user.dashboard.my-events.create }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-items-center tw-gap-2">
+        {{ svg:plus }}
+        Create an event
+    </a>
+    {{ /slot:heading_buttons }}
+
+    {{ if {session:has key="success"} }}
+        <div class="tw-text-lg tw-p-4 tw-border-2 tw-border-brand-teal tw-mb-4">
+            {{ session:success }}
+        </div>
+    {{ /endif }}
+
+    <div class="tw-flex tw-flex-col">
+        {{ collection:events
+            query_scope="user_events"
+            status:in="published|draft"
+            sort="start_date:asc|start_time:asc"
+            paginate="10"
+            as="events"
+        }}
+            <div class="tw-flex tw-flex-col tw-gap-4">
+                {{ if no_results }}
+                    You haven't created any events yet
+                {{ else }}
+                    {{ events }}
+                        <article class="c-event-card c-event-card--horizontal tw-flex tw-items-center">
+                            <div class="c-event-card__content o-flow o-flow--xs step--1">
+                                <header class="tw-flex tw-items-center tw-gap-3">
+                                    <h2 class="h4 tw-max-w-none">{{ title }}</h2>
+
+                                    {{ if published }}
+                                        <span class="tw-block c-event-card__free c-tag tw-relative">Published</span>
+                                    {{ else }}
+                                        <span class="tw-block c-event-card__free c-tag tw-relative tw-text-white tw-bg-brand-grey/70">Unpublished</span>
+                                    {{ /if }}
+
+                                </header>
+                                <div>
+                                    {{ content }}
+                                </div>
+                                <ul class="c-event-card__meta">
+                                    <li>
+                                        {{ if start_date | format:Ymd === end_date | format:Ymd }}
+                                            {{ start_date format="D j M Y" }}
+                                        {{ else }}
+                                            {{ start_date format="D j M" }} - {{ end_date format="D j M Y" }}</li>
+                                        {{ /if }}
+                                    </li>
+                                    {{ if address_line_1 }}
+                                        <li>{{ address_line_1 }}{{ town ? ', ' : '' }}{{ town }}</li>
+                                    {{ /if }}
+                                    {{ if virtual }}
+                                        <li>Virtual event</li>
+                                    {{ /if }}
+                                </ul>
+                            </div>
+
+                            <div class="tw-flex tw-gap-3 tw-px-6">
+
+                                {{ if published }}
+                                    <a href="{{ url }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                                        {{ svg:arrow-right class="tw-w-4 tw-h-4 tw-text-white" }}
+                                        View event
+                                    </a>
+                                {{ /if}}
+
+                                <a href="{{ route:user.dashboard.my-events.edit :entryId="id" }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                                    {{ svg:edit class="tw-w-4 tw-h-4" }}
+                                    Edit Event
+                                </a>
+
+                                <form action="{{ route:user.dashboard.my-events.delete :entryId="id" }}" method="POST">
+                                    {{ csrf_field }}
+                                    {{ partial:partial/honeypot }}
+                                    {{ partial:partial/form_method method="DELETE" }}
+                                    <button type="submit" class="tw-bg-brand-grey/70 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                                        {{ svg:trash class="tw-w-4 tw-h-4" }}
+                                        Delete Event
+                                    </button>
+                                </form>
+                            </div>
+                        </article>
+                    {{ /events }}
+
+                    {{ partial:global/pagination reduce_padding="true" }}
+                {{ /if }}
+            </div>
+        {{ /collection:events }}
+    </div>
+
+{{ /partial:users/dashboard/layout }}

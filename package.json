@@ -9,19 +9,29 @@
         "production": "mix --production"
     },
     "devDependencies": {
-        "autoprefixer": "^10.2.5",
+        "@tailwindcss/typography": "^0.5.13",
+        "autoprefixer": "^10.4.19",
         "browser-sync": "^2.27.5",
         "browser-sync-webpack-plugin": "^2.3.0",
         "cross-env": "^7.0",
         "laravel-mix": "^6.0",
-        "postcss": "^8.2.9",
+        "postcss": "^8.4.38",
         "postcss-import": "^14.0.1",
         "postcss-nested": "^5.0.5",
-        "postcss-preset-env": "^6.7.0",
-        "tailwindcss": "^2.1.1",
+        "postcss-preset-env": "^9.5.9",
+        "tailwind-scrollbar": "^3.1.0",
+        "tailwindcss": "^3.4.3",
         "vue-template-compiler": "^2.6.12"
     },
     "dependencies": {
-        "accessible-autocomplete": "^2.0.3"
+        "@alpinejs/focus": "^3.13.10",
+        "@tiptap/core": "^2.3.1",
+        "@tiptap/extension-link": "^2.3.1",
+        "@tiptap/extension-text-align": "^2.3.1",
+        "@tiptap/extension-underline": "^2.3.1",
+        "@tiptap/pm": "^2.3.1",
+        "@tiptap/starter-kit": "^2.3.1",
+        "accessible-autocomplete": "^2.0.3",
+        "alpinejs": "^3.13.10"
     }
 }

@@ -1,24 +1,93 @@
-<footer class="c-pagination o-flow js-pagination">
-  {{ paginate }}
-    {{ if prev_page }}
-      <div>
-        <a href="{{ prev_page }}{{ if regular }}#regular-events{{ /if }}" class="u-inline-flex o-flow-x o-flow--xs">
-          {{ partial:global/icon id="arrow-left" class="u-green" inline="true" }}
-          <span aria-label="{{ previous or 'Previous page' }} - {{ current_page | subtract:1 }} of {{ total_pages }}">
-            <u>{{ current_page | subtract:1 }} of {{ total_pages }}</u>
-          </span>
-        </a>
-      </div>
+{{ paginate }}
+    {{ if total_pages > 1 }}
+        <div role="navigation" aria-label="Event Pagination Navigation">
+            <ul class="c-pagination o-flow js-pagination {{ reduce_padding ?= 'tw-pb-0' }}">
+                {{ if prev_page }}
+                    <li class="prev">
+                        <a href="{{ prev_page + {regular ? '#regular-events' : ''} }}" aria-label="Go to previous page - page {{ current_page - 1 }}">
+                            {{ partial:global/icon id="arrow-left" class="u-green" }}
+                            <span>Previous</span>
+                        </a>
+                    </li>
+                {{ else }}
+                    <li class="prev disabled">
+                        <span>
+                            {{ partial:global/icon id="arrow-left" class="u-green" }}
+                            <span>Previous</span>
+                        </span>
+                    </li>
+                {{ /if }}
+
+                {{ links:all }}
+                    {{ if page === 1 }}
+                        <li>
+                            <a
+                                href="{{ url + {regular ? '#regular-events' : ''} }}"
+                                {{ if page === current_page }}
+                                    aria-label="Current page, page {{ page }}"
+                                    aria-current="page"
+                                {{ else }}
+                                    aria-label="Go to page {{ page }}"
+                                {{ /if }}
+                            >
+                                {{ page }}
+                            </a>
+                        </li>
+                    {{ /if }}
+
+                    {{ if page >= current_page - 2 && page <= current_page + 2 && page != 1 && page != total_pages }}
+                        <li class="{{ page === current_page ? 'active' : '' }}">
+                            <a
+                                href="{{ url + {regular ? '#regular-events' : ''} }}"
+                                {{ if page === current_page }}
+                                    aria-label="Current page, page {{ page }}"
+                                    aria-current="page"
+                                {{ else }}
+                                    aria-label="Go to page {{ page }}"
+                                {{ /if }}
+                            >
+                                {{ page }}
+                            </a>
+                        </li>
+                    {{ else }}
+                        {{ if page === current_page - 3  || page === current_page + 3 }}
+                            <li class="disabled marker"><span>...</span></li>
+                        {{ /if }}
+                    {{ /if }}
+
+                    {{ if page === total_pages }}
+                        <li class="{{ page === current_page ?= 'active' }}">
+                            <a
+                                href="{{ url + {regular ?= '#regular-events'} }}"
+                                {{ if page === current_page }}
+                                    aria-label="Current page, page {{ page }}"
+                                    aria-current="page"
+                                {{ else }}
+                                    aria-label="Go to page {{ page }}"
+                                {{ /if }}
+                            >
+                                {{ page }}
+                            </a>
+                        </li>
+                    {{ /if }}
+                {{ /links:all }}
+
+                {{ if next_page }}
+                    <li class="next">
+                        <a href="{{ next_page + {regular ? '#regular-events' : ''} }}" aria-label="Go to next page - page {{ current_page + 1 }}">
+                            <span>Next</span>
+                            {{ partial:global/icon id="arrow-right" class="u-green" }}
+                        </a>
+                    </li>
+                {{ else }}
+                    <li class="disabled next">
+                        <span>
+                            <span>Next</span>
+                            {{ partial:global/icon id="arrow-right" class="u-green" }}
+                        </span>
+                    </li>
+                {{ /if }}
+            </ul>
+        </div>
     {{ /if }}
-    {{ if next_page }}
-      <div class="{{ next_page and prev_page ? 'u-keyline' : '' }}">
-        <a href="{{ next_page }}{{ if regular }}#regular-events{{ /if }}" class="u-inline-flex o-flow-x o-flow--xs">
-          {{ partial:global/icon id="arrow-right" class="u-green" inline="true" }}
-          <span aria-label="{{ next or 'Next page' }} - {{ current_page | add:1 }} of {{ total_pages }}">
-            <u>{{ current_page | add:1 }} of {{ total_pages }}</u>
-          </span>
-        </a>
-      </div>
-    {{ /if }}
-  {{ /paginate }}
-</footer>
+{{ /paginate }}
