@@ -1,20 +1,19 @@
 ---
 id: 4082b667-970f-4601-8d98-3a8540faa6ac
-published: false
 blueprint: events
-title: 'Mixed Ability Tap Dance (Duplicated)'
+title: 'Beginners and Improvers Tap Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713511489
-start_date: '2024-06-12 09:45'
-end_date: '2024-06-12 10:20'
+updated_at: 1718030397
+start_date: '2024-06-13 09:30'
+end_date: '2024-06-13 10:15'
 event_categories:
   - dance
 free: false
 virtual: false
 organisers:
   - woodbridge-tap-dance
-town: Ipswich
+town: Woodbridge
 featured_image: offthepressimages/new_resized_images/Dance.png
 content_area:
   -
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A slower class for those with less experience, or needing a refresher. '
+        text: 'This class is not suitable for beginners but if you already know a few basic steps and have done some tap before this is the class for you.'
   -
     type: paragraph
     content:
@@ -92,7 +91,21 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest bus station is a four minute walk away.'
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/dir/Sandy+Lane,+Woodbridge+IP13+6LN/Angela+Cobbold+Hall/@52.08457,1.2525377,19z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d99ea46dc1d8cb:0xa541723ff1c73cd2!2m2!1d1.253065!2d52.08453!1m5!1m1!1s0x47d99fa5a968bd49:0xe897c30b89ddde7e!2m2!1d1.2533717!2d52.0845864!3e2?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'nearest bus stop'
+      -
+        type: text
+        text: " is one minute's walk away."
       -
         type: hardBreak
       -
@@ -118,12 +131,11 @@ cta: |-
   This event is organised by Woodbridge Tap Dance
 
   [https://woodbridgetapdance.weebly.com/](https://woodbridgetapdance.weebly.com/)
-latitude: '52.15333575660118'
-longitude: '1.2226967126056743'
-address_line_1: 'Otley Village Hall'
-address_line_2: '6 Chapel Road, Otley,'
-postcode: 'IP6 9NT'
+latitude: '52.08470425631949'
+longitude: '1.2534024671923922'
+address_line_1: 'Angela Cobbold Hall'
+postcode: 'IP13 6LN'
 duplicated_from: 654186dd-3ea3-400f-a112-10b36f1df498
-cost_details: '3.50'
+cost_details: '£6 per class, or £45 for 10 consecutive classes'
 ---
-Absolute beginners welcome to practice tap dance with Jill
+Suitable for those with a little experience, or wanting a refresher in tap dance with Jill
