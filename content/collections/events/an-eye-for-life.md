@@ -7,7 +7,7 @@ event_categories:
   - museums
 organisers:
   - ipswich-museums
-featured_image: offthepressimages/new_resized_images/Exhibition.png
+featured_image: ipswichmuseums/jf-exhibition-1080-x-675.png
 start_date: '2023-06-29 10:00'
 end_date: '2025-04-27 16:00'
 free: true
@@ -141,7 +141,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1718034235
+updated_at: 1718034404
 duplicated_from: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 ---
 Celebrating themes of portraiture, identity and home, this new exhibition features photographs by John Ferguson, an internationally established documentary, lifestyle and portrait photographer who lives in Ipswich. His images tell stories which are approachable and intimate.
