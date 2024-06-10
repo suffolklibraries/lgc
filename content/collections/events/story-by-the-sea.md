@@ -1,5 +1,6 @@
 ---
 id: 57ff580e-4de6-43da-a659-598f60e9e967
+published: false
 blueprint: events
 title: 'After School Story By The Sea'
 latitude: '52.47146825080719'
