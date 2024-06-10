@@ -1,5 +1,6 @@
 ---
 id: 2fc98b08-62ff-4061-b23a-50044f6c81be
+published: false
 blueprint: events
 title: 'DiscoveReads Author Interview - Kate Sawyer'
 organisers:
