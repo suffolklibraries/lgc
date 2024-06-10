@@ -70,3 +70,5 @@ event_approver:
     - 'move assets assets'
     - 'rename assets assets'
     - 'delete assets assets'
+user:
+  title: User

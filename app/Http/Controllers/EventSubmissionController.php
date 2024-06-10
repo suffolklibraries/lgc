@@ -7,9 +7,10 @@ use Statamic\Facades\Asset;
 use Statamic\Facades\Entry;
 use Illuminate\Http\Request;
 use Illuminate\Support\Carbon;
+use Mews\Purifier\Facades\Purifier;
 use Illuminate\Http\RedirectResponse;
-use App\Http\Requests\StoreEventSubmissionRequest;
 use App\Jobs\NotifyEventApproversOfNewEvent;
+use App\Http\Requests\StoreEventSubmissionRequest;
 
 class EventSubmissionController extends Controller
 {
@@ -40,7 +41,7 @@ class EventSubmissionController extends Controller
                 'address_line_2' => $request->address_line_2,
                 'town' => $request->town,
                 'postcode' => $request->postcode,
-                'content_area' => $request->content,
+                'content_area' => Purifier::clean($request->content),
                 'booking_link' => $request->booking_link,
                 'cta' => $request->cta,
                 'cost_details' => $request->cost_details,

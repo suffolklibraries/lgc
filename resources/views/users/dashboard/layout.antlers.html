@@ -1,0 +1,52 @@
+{{ partial:global/page-header/default }}
+
+<div class="o-wrap tw-w-full tw-mx-auto tw-flex tw-flex-col md:tw-flex-row tw-items-start tw-gap-4" id="main">
+    <div class="tw-w-full md:tw-w-1/4 tw-bg-brand-grey tw-text-white tw-font-bold">
+        <a href="{{ route:user.dashboard.my-details.index }}"
+            class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {current_route_is route="user.dashboard.my-details.index"} ?= 'tw-bg-brand-pink' }}"
+        >
+            {{ svg:user class="tw-h-5 tw-w-5" }}
+            My Details
+        </a>
+
+        <a href="{{ route:user.dashboard.my-organisation.index }}"
+            class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {current_route_is route="user.dashboard.my-organisation.index"} ?= 'tw-bg-brand-pink' }}"
+        >
+            {{ svg:office class="tw-h-5 tw-w-5" }}
+            My Organisation
+        </a>
+
+        <a href="{{ route:user.dashboard.my-events.index }}"
+            class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {{current_route_is route="user.dashboard.my-events.index"} or {current_route_is route="user.dashboard.my-events.edit"} or {current_route_is route="user.dashboard.my-events.create"} } ?= 'tw-bg-brand-pink' }}"
+        >
+            {{ svg:user class="tw-h-5 tw-w-5" }}
+            My Events
+        </a>
+
+        <form
+            method="POST"
+            action="{{ route:user.logout }}"
+            class="tw-w-full"
+        >
+            {{ csrf_field }}
+            <button type="submit" class="tw-w-full tw-px-3 tw-py-4 tw-flex tw-gap-2 tw-items-center tw-text-xl">
+                {{ svg:logout class="tw-h-5 tw-w-5" }}
+                Log out
+            </button>
+        </form>
+    </div>
+
+    <div class="tw-w-full md:tw-w-3/4 tw-p-4 tw-shadow-brand">
+        <div class="tw-flex tw-justify-between tw-items-center {{ unless disable_header_line }}tw-border-b tw-border-brand-grey/20 {{ /unless }} tw-pb-2">
+            {{ if content_title }}
+                <h2 class="tw-text-2xl">{{ content_title }}</h2>
+            {{ /if }}
+            {{ slot:heading_buttons }}
+        </div>
+        <div class="tw-mt-4">
+            {{ slot }}
+        </div>
+    </div>
+
+    {{ slot:footer }}
+</div>

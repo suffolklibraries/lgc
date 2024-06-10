@@ -1,0 +1,42 @@
+{{ partial:global/page-header/default }}
+
+<form
+    class="tw-max-w-2xl tw-mx-auto tw-shadow-brand tw-p-10 tw-flex tw-flex-col tw-gap-10"
+    method="POST"
+    action="{{ route:user.register.store }}"
+>
+    {{ csrf_field }}
+    {{ partial:partial/honeypot }}
+
+    {{ partial:event-submission-form/section section_title="Your Details" }}
+        <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+            {{ partial:event-submission-form/text field_label="Name*" field_name="name" }}
+            {{ partial:event-submission-form/text field_label="Email Address*" field_name="email" field_type="email" autocomplete="email" }}
+        </div>
+    {{ /partial:event-submission-form/section }}
+
+    {{ partial:event-submission-form/section section_title="Password" }}
+        <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+            {{ partial:event-submission-form/text field_label="Password*" field_name="password" field_type="password" }}
+            {{ partial:event-submission-form/text field_label="Confirm Password*" field_name="password_confirmation" field_type="password" }}
+        </div>
+    {{ /partial:event-submission-form/section }}
+
+    {{ partial:event-submission-form/section section_title="Organisation Details" }}
+        <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+            {{ partial:event-submission-form/text field_label="Name*" field_name="organisation_name" }}
+            {{ partial:event-submission-form/text field_label="Email Address*" field_name="organisation_email" field_type="email" }}
+            {{ partial:event-submission-form/text field_label="Tel" field_name="organisation_tel" field_type="tel" }}
+            {{ partial:event-submission-form/url field_label="Website" field_name="organisation_website" }}
+        </div>
+    {{ /partial:event-submission-form/section }}
+
+
+
+    <button type="submit" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
+        Register
+    </button>
+
+    <span class="tw-text-sm">Already have an account? <a href="{{ route:login }}" class="tw-underline hover:tw-to-brand-grey">Login</a></span>
+
+</form>

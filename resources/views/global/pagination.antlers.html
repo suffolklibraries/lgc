@@ -1,7 +1,7 @@
 {{ paginate }}
     {{ if total_pages > 1 }}
         <div role="navigation" aria-label="Event Pagination Navigation">
-            <ul class="c-pagination o-flow js-pagination">
+            <ul class="c-pagination o-flow js-pagination {{ reduce_padding ?= 'tw-pb-0' }}">
                 {{ if prev_page }}
                     <li class="prev">
                         <a href="{{ prev_page + {regular ? '#regular-events' : ''} }}" aria-label="Go to previous page - page {{ current_page - 1 }}">

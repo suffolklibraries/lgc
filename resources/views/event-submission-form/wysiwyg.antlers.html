@@ -9,7 +9,7 @@
 
                     <span class="tw-text-base tw-font-semibold tw-text-left tw-block tw-w-full">Create Link</span>
 
-                    {{ partial:event-submission-form/url wrapper_classes="tw-w-full" field_name="url" field_label="URL" }}
+                    {{ partial:event-submission-form/url wrapper_classes="tw-w-full" field_name="url" field_label="URL" value="" }}
 
                     <div class="tw-flex tw-gap-2">
                         <button type="button" class="link-modal-remove tw-text-sm tw-block tw-bg-brand-grey/20 tw-font-semibold tw-rounded-full tw-py-2 tw-px-3">
@@ -29,6 +29,8 @@
                 name="{{ field_name }}"
                 {{ if old[field_name] }}
                     value="{{ old[field_name] }}"
+                {{ elseif value }}
+                    value="{{ value }}"
                 {{ /if }}
             >
 

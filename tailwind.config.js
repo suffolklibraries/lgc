@@ -20,7 +20,8 @@ module.exports = {
                 DEFAULT: '#3AA19A'
             },
             'brand-pink': {
-                DEFAULT: '#C02E5A'
+                DEFAULT: '#C02E5A',
+                'dark': '#9a2548'
             }
         },
         boxShadow: {

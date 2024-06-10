@@ -6,6 +6,8 @@
         placeholder=" "
         {{ if old[field_name] }}
             value="{{ old[field_name] }}"
+        {{ elseif value }}
+            value="{{ value }}"
         {{ /if }}
         class="tw-peer tw-bg-brand-grey/5 tw-px-3 tw-pt-[18px] tw-pb-2 tw-border-b-2 tw-border-brand-grey/80 motion-safe:tw-transition-colors tw-border-x-0 tw-border-t-0 focus-within:tw-border-brand-teal focus:tw-outline-none tw-text-base tw-text-brand-grey {{ class }}"
         {{ if autocomplete }}

@@ -1,0 +1,32 @@
+{{ partial:users/dashboard/layout content_title="My Details" }}
+    {{ if {session:has key="success"} }}
+        <div class="tw-text-lg tw-p-4 tw-border-2 tw-border-brand-teal tw-mb-4">
+            {{ session:success }}
+        </div>
+    {{ /endif }}
+
+    <form action="{{ route:user.dashboard.my-details.update }}" method="POST" class="tw-flex tw-flex-col tw-gap-4">
+        {{ csrf_field }}
+        {{ partial:partial/honeypot }}
+
+        <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+            {{ partial:event-submission-form/text :value="user.name" field_name="name" field_label="Name" autocomplete="name" }}
+            {{ partial:event-submission-form/text :value="user.email" field_name="email" field_label="Email" field_type="email" autocomplete="email" }}
+
+        </div>
+
+        <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-3 tw-gap-4">
+            {{ partial:event-submission-form/text field_name="password" field_label="Current Password" autocomplete="password" field_type="password" }}
+            {{ partial:event-submission-form/text field_name="new_password" field_label="New Password" field_type="password" }}
+            {{ partial:event-submission-form/text field_name="new_password_confirmation" field_label="Confirm New Password" field_type="password" }}
+        </div>
+
+        {{ if {session:has key="password_incorrect"} }}
+            <div class="tw-text-red-500 tw-text-sm">{{ session:password_incorrect }}</div>
+        {{ /endif }}
+
+        <button type="submit" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
+            Save
+        </button>
+    </form>
+{{ /partial:users/dashboard/layout }}
