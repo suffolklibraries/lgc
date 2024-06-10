@@ -1,5 +1,6 @@
 ---
 id: f9c54345-33bd-4b1e-8f66-d827c25c4f83
+published: false
 blueprint: events
 title: 'Singing for Lung Health'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
