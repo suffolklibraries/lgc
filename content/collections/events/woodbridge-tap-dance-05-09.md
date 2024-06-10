@@ -1,13 +1,12 @@
 ---
 id: e29c80d3-81e0-4646-b73f-e55abc9849b5
-published: false
 blueprint: events
-title: 'Beginners and Improvers Tap Dance (Duplicated) (Duplicated)'
+title: 'Beginners and Improvers Tap Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1718031257
-start_date: '2024-08-15 09:30'
-end_date: '2024-08-15 10:15'
+updated_at: 1718031347
+start_date: '2024-09-05 09:30'
+end_date: '2024-09-05 10:15'
 event_categories:
   - dance
 free: false
