@@ -1,5 +1,6 @@
 ---
 id: e424d08a-a22c-4f0a-b7c5-afa260e45f49
+published: false
 blueprint: events
 title: 'Sunday Classics Film Club'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
