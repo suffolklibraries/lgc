@@ -1,5 +1,6 @@
 ---
 id: fdfe94d0-ecde-49aa-af7d-78ce96f616b8
+published: false
 blueprint: events
 title: 'Wolsey Walks: Our Glorious Medieval Churches'
 event_categories:
