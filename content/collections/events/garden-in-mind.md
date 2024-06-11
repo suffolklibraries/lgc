@@ -1,6 +1,5 @@
 ---
 id: e72c1829-f332-4197-9026-5dfc24bced65
-published: false
 blueprint: events
 title: 'Garden in Mind Open Day'
 event_categories:
@@ -8,8 +7,8 @@ event_categories:
 organisers:
   - activgardens
 featured_image: offthepressimages/otpillustrations/FOOD_NATURE.png
-start_date: '2024-04-08 10:00'
-end_date: '2024-04-08 14:00'
+start_date: '2024-06-26 10:00'
+end_date: '2024-06-26 14:00'
 free: true
 virtual: false
 attendance_information: 'Ages 16+'
@@ -39,7 +38,87 @@ content_area:
     content:
       -
         type: text
-        text: 'Through the course, you will take part in gardening, growing and environmental activities, with the option to get involved in bee-keeping too. You attend the course one day a week from 10am to 2pm from Monday 29th April OR Wednesday 1st May.'
+        text: 'Through the course, you will take part in gardening, growing and environmental activities, with the option to get involved in bee-keeping too. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you join the course, you can attend one day a week from'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: '10am to 2pm'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: from
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/gardening-in-mind-summer-mondays'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'Monday 22nd July'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: or
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/gardening-in-mind-summer-wednesdays'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'Wednesday 24th July'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: '– choose which day you prefer.'
       -
         type: hardBreak
       -
@@ -136,7 +215,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712669228
+updated_at: 1718113853
 duplicated_from: a3c66dc5-bb48-488c-b0d3-53a810291e43
 booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
 ---
