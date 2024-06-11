@@ -1,5 +1,6 @@
 ---
 id: bbb4ffc0-988f-47e7-b86e-867c955c029b
+published: false
 blueprint: events
 title: 'Participate - Woodbridge'
 latitude: '52.094356210893544'
