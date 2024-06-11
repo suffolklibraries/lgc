@@ -1,2 +1,16 @@
+name: 'James Pigott'
 super: true
-id: 82245ff5-af09-4221-ac6e-5a4512963cb1
+roles:
+  - event_approver
+id: 05b16fef-ecb6-432d-89a0-1234fc8b3fa4
+password_hash: $2y$10$eQ5izE0Zx9SyivENHuSqB.D7vrIpioTrhdL7VSi0koNPsSe98YYPy
+preferences:
+  runway:
+    contentreport:
+      columns:
+        - created_at
+        - reason
+        - entry_id
+        - email
+        - comments
+        - complete
