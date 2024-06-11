@@ -1,15 +1,14 @@
 ---
 id: ce1ed6eb-4b80-495b-96fd-4bd7b79b8eb0
-published: false
 blueprint: events
-title: 'ActivGardens - Gardening in Mind Summer Course (Duplicated)'
+title: 'ActivGardens - Gardening in Mind Summer Course'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2024-07-22 10:00'
-end_date: '2024-10-07 14:00'
+start_date: '2024-07-24 10:00'
+end_date: '2024-10-09 14:00'
 free: true
 virtual: false
 latitude: '52.03845056427872'
@@ -148,7 +147,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1718113355
+updated_at: 1718113441
 duplicated_from: 07f90111-6452-444e-b546-46cf0ab938c1
 booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
 attendance_information: '- 16 + years'
