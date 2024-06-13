@@ -1,19 +1,18 @@
 ---
 id: 1e7cf3c5-a0c4-4224-a98c-91175509dc67
-published: false
 blueprint: events
-title: 'An Eye For Life: Photography By John Ferguson (Duplicated)'
+title: 'Ipswich Museum Young Associates Launch'
 event_categories:
   - exhibition
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/jf-exhibition-1080-x-675.png
-start_date: '2023-06-29 10:00'
-end_date: '2025-04-27 16:00'
+featured_image: offthepressimages/new_resized_images/Craft_Museum.png
+start_date: '2024-07-26 17:00'
+end_date: '2024-07-26 20:00'
 free: true
 virtual: false
-attendance_information: 'Suitable for all ages'
+attendance_information: '- Suitable for ages 14 - 25'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -34,31 +33,51 @@ content_area:
     content:
       -
         type: text
-        text: 'Showcasing portrait projects that John has worked on over the years, the display includes Ipswich’s newly acquired Black Suffolk portraits funded by the Art Fund and The Friends of the Ipswich Museums. The series of 20 photographic portraits creatively explores the concept of home for a diversity of people from the African-Caribbean community who were born here or have made Suffolk their home.'
+        text: 'We are very pleased to announce and to invite young people to the launch of Ipswich Museums Young Associates at Christchurch Mansion.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'John has worked in 60 countries and covered a diverse range of photo stories from conflict zones and national disasters to promotional campaigns focusing on poverty, refugees and rural loneliness. He has photographed countless celebrities from Prince to Beyonce. In 2005, he photographed 50 black British pioneers for the Black Britannia project, which was then collected by the National Portrait Gallery.'
+        text: "Ipswich Museum Young Associates are a group of young people who will gain insight into the museum sector and develop new and existing skills to shape their own events. Through regular meetings once a month, you will have the opportunity to collaborate,\_participate, learn and develop transferable skills, whilst engaging with our collections and professionals in their field, and lead an event at Ipswich Museum once a year.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This will be the first exhibition to showcase John’s photography in Suffolk and explore his past career. Highlights will include his work as a senior photographer for a leading national Newspaper.'
-  -
-    type: paragraph
-    content:
+        text: "The best part is, the entire programme will be completely led by YOU!\_Want to find out more? Join us on Friday 26th July."
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'The exhibition covers his time working with celebrities, including Oasis, The Spice Girls, The Osbournes, Dolly Parton, Tom Jones, Bowie, and many more. It also looks at John’s favourite personal photo projects, from the Forgotten African American Cowboys to street photography, Ipswich Banger Racers and his work with the Albino and Blind Associations.'
-  -
-    type: paragraph
-    content:
+        marks:
+          -
+            type: bold
+        text: 'Schedule for the day:'
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Ipswich’s historic portrait collection will also be highlighted in the Mansion, covering 500 years of art. A celebration of Suffolk faces will show how humans have shaped their identity through portraiture for hundreds of years.'
+        text: '5pm: Arrive/Welcome/Refreshments'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '5:30pm: Tour with Curator round the John Ferguson ‘Eye For Life’ Exhibition'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '6pm: Bring your own artefact and tell your story'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '6:30 – 8pm: Explore our handling collection and create illustrations with local illustrator Uwu Studio (aka Lily Hammond).'
+      -
+        type: hardBreak
   -
     type: heading
     attrs:
@@ -72,7 +91,32 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required'
+        text: 'Book your place '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://forms.office.com/pages/responsepage.aspx?id=9Q332kxszUGNw3OPqVebMJKv7567a9xPqj-thSXRVqFUREM5UTlLNUk2WVZZQUozVUUwUFZQN0tHMi4u'
+              rel: null
+              target: _blank
+              title: null
+        text: 'via an online form'
+      -
+        type: text
+        text: '. For more information contact Jade - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:JADE-MARIE.ANDERSON@COLCHESTER.GOV.UK'
+              rel: null
+              target: null
+              title: null
+        text: jade-marie.anderson@colchester.gov.uk
   -
     type: heading
     attrs:
@@ -136,13 +180,14 @@ content_area:
 cta: |-
   This event is organised by Ipswich Museums:
 
-  [https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/](https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/) 
+  [https://ipswich.cimuseums.org.uk/](https://ipswich.cimuseums.org.uk/) 
 
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1718034404
+updated_at: 1718284957
 duplicated_from: f127e8d4-f2a9-4d0e-bf5e-9c06405ce476
+booking_link: 'https://forms.office.com/pages/responsepage.aspx?id=9Q332kxszUGNw3OPqVebMJKv7567a9xPqj-thSXRVqFUREM5UTlLNUk2WVZZQUozVUUwUFZQN0tHMi4u'
 ---
-Celebrating themes of portraiture, identity and home, this new exhibition features photographs by John Ferguson, an internationally established documentary, lifestyle and portrait photographer who lives in Ipswich. His images tell stories which are approachable and intimate.
+No experience needed just an interest to explore new ideas and interests in a relaxed and supportive environment.
