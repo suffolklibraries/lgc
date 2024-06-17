@@ -1,5 +1,6 @@
 ---
 id: 755e47eb-dd9f-4662-b6a3-97c288ce678a
+published: false
 blueprint: events
 title: 'Family Shine Workshop'
 event_categories:
