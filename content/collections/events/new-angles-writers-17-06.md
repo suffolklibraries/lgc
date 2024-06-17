@@ -1,5 +1,6 @@
 ---
 id: cfabfe23-33ed-49aa-93a3-fdbca6b156c4
+published: false
 blueprint: events
 title: 'New Angles Writers Club'
 event_categories:
