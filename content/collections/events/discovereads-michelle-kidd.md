@@ -1,5 +1,6 @@
 ---
 id: 1a114332-b2aa-4d45-9ac2-2e72ffe78aee
+published: false
 blueprint: events
 title: 'DiscoveReads - An Audience with Michelle Kidd'
 organisers:
