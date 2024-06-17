@@ -1,5 +1,6 @@
 ---
 id: ed16e22f-d0a8-45c7-b442-1cf6eecb081c
+published: false
 blueprint: events
 title: 'Creative Space - Singing and Breath Work'
 event_categories:
