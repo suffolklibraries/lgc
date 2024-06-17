@@ -1,5 +1,6 @@
 ---
 id: cb11a475-c686-42c2-bf20-9d3a0806f7ba
+published: false
 blueprint: events
 title: 'Summer Family Cinema - IF'
 organisers:
