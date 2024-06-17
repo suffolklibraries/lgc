@@ -1,5 +1,6 @@
 ---
 id: bd4a7e28-ce6f-40ed-8814-93a74da668cd
+published: false
 blueprint: events
 title: 'DiscoveReads Author Event - Tom Mead'
 organisers:
