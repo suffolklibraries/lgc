@@ -1,5 +1,6 @@
 ---
 id: 0833c51d-8dbe-4e35-92fc-b594263673ea
+published: false
 blueprint: events
 title: 'Cartoon Drawing Styles in 20th Century Magazines'
 event_categories:
