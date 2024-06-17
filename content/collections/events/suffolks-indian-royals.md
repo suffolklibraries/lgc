@@ -1,5 +1,6 @@
 ---
 id: 361e8cfa-2a0a-4d81-bbf2-a0cf6a9ed83c
+published: false
 blueprint: events
 title: "Talk: Maharajah Duleep Singh: Suffolk's Indian Royals"
 event_categories:
