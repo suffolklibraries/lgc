@@ -1,5 +1,6 @@
 ---
 id: 987cbf88-7494-47b0-ad8d-5689b6947248
+published: false
 blueprint: events
 title: 'DiscoveReads - An Audience with Jill Dawson'
 organisers:
