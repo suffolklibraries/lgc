@@ -1,5 +1,6 @@
 ---
 id: dc2681c5-b627-4107-b86a-ed0a764f29da
+published: false
 blueprint: events
 title: 'Holi - An Exhibition by Ayush Sinha'
 event_categories:
