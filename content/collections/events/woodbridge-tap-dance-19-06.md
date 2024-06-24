@@ -1,5 +1,6 @@
 ---
 id: 38e387ca-76c3-4641-a506-f2586fe9e1c5
+published: false
 blueprint: events
 title: 'Mixed Ability Tap Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
