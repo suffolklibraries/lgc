@@ -1,5 +1,6 @@
 ---
 id: 06fde6d6-f3df-4267-a3a3-f1fb0cf948e5
+published: false
 blueprint: events
 title: "Mattie & Mimi's Music Class"
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
