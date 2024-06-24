@@ -1,5 +1,6 @@
 ---
 id: c3db2116-f099-4ed5-a338-d82c90bda30d
+published: false
 blueprint: events
 title: 'First Light Festival - Active'
 latitude: '52.468592684269616'
