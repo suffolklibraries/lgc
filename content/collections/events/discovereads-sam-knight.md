@@ -1,5 +1,6 @@
 ---
 id: 28ab0248-2ada-4923-84ed-b6dc74ba9059
+published: false
 blueprint: events
 title: 'DiscoveReads - Author Event with Sam Knight'
 organisers:
