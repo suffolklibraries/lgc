@@ -1,5 +1,6 @@
 ---
 id: 3def1e86-99ca-48f9-b2b8-0add94857010
+published: false
 blueprint: events
 title: 'Suffolk Day'
 organisers:
