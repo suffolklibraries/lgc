@@ -1,5 +1,6 @@
 ---
 id: 45ff6728-db36-43a6-9a25-2d270dffd35c
+published: false
 blueprint: events
 title: 'First Light Festival - Dawn'
 latitude: '52.468592684269616'
