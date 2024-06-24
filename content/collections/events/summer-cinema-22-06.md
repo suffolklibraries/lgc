@@ -1,5 +1,6 @@
 ---
 id: e0582f96-588f-4c75-ba50-19e6872e52c1
+published: false
 blueprint: events
 title: 'Summer Family Cinema - Trolls Band Together'
 organisers:
