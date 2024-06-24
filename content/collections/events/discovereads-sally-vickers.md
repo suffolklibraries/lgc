@@ -1,5 +1,6 @@
 ---
 id: 8eb13f6b-b528-4b4b-95e5-d45846cb26de
+published: false
 blueprint: events
 title: 'DiscoveReads Author Event - Salley Vickers'
 organisers:
