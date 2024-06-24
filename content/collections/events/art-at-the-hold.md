@@ -1,5 +1,6 @@
 ---
 id: 65fde6b6-a1eb-4831-a1c6-cc08669625bb
+published: false
 blueprint: events
 title: 'Exhibition: Art at the Heart of Ipswich'
 event_categories:
