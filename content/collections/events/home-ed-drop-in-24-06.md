@@ -1,5 +1,6 @@
 ---
 id: 9c4ccd61-36a0-407d-845a-ad0760d19a52
+published: false
 blueprint: events
 title: 'Home Ed Drop-In'
 event_categories:
