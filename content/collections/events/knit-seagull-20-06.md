@@ -1,5 +1,6 @@
 ---
 id: 33cc1aea-e7e9-48a7-9415-47c6cb596b6f
+published: false
 blueprint: events
 title: 'Knit and Natter'
 organisers:
