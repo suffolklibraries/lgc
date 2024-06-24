@@ -1,5 +1,6 @@
 ---
 id: ee32df1d-6fef-402b-8ffe-3e2d2247ae7b
+published: false
 blueprint: events
 title: 'Seagull Sing-a-Long'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
