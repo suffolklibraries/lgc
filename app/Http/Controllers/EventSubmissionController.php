@@ -58,7 +58,7 @@ class EventSubmissionController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);

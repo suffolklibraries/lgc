@@ -13,11 +13,11 @@
             class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {current_route_is route="user.dashboard.my-organisation.index"} ?= 'tw-bg-brand-pink' }}"
         >
             {{ svg:office class="tw-h-5 tw-w-5" }}
-            My Organisation
+            Organisation Details
         </a>
 
         <a href="{{ route:user.dashboard.my-events.index }}"
-            class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {{current_route_is route="user.dashboard.my-events.index"} or {current_route_is route="user.dashboard.my-events.edit"} or {current_route_is route="user.dashboard.my-events.create"} } ?= 'tw-bg-brand-pink' }}"
+            class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {current_route_is route="user.dashboard.my-events.index,user.dashboard.my-events.edit,user.dashboard.my-events.create" } ?= 'tw-bg-brand-pink' }}"
         >
             {{ svg:user class="tw-h-5 tw-w-5" }}
             My Events

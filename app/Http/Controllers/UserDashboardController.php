@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Statamic\View\View;
+use Statamic\Facades\Term;
 use Statamic\Facades\User;
 use Illuminate\Support\Str;
 use Statamic\Facades\Asset;
@@ -16,8 +17,8 @@ use Illuminate\Http\RedirectResponse;
 use Statamic\Modifiers\CoreModifiers;
 use App\Http\Requests\StoreEventRequest;
 use App\Http\Requests\DeleteEventRequest;
-use App\Http\Requests\SaveEventAsDraftRequest;
 use App\Http\Requests\UpdateEventRequest;
+use App\Http\Requests\SaveEventAsDraftRequest;
 use App\Http\Requests\UpdateUserDetailsRequest;
 use App\Http\Requests\UpdateUserOrganisationRequest;
 
@@ -75,22 +76,23 @@ class UserDashboardController extends Controller
             ->template('users.dashboard.my-organisation')
             ->with([
                 'title' => "Dashboard",
-                'user' => Auth::user()
+                'user' => Auth::user(),
+                'organisation' => Auth::user()->linked_organisations
             ]);
     }
 
     public function updateOrganisationDetails(UpdateUserOrganisationRequest $request): RedirectResponse
     {
-        $user = User::current();
+        $org = Term::find($request->org);
 
-        $user->data([
-            'organisation_name' => $request->organisation_name,
-            'organisation_email' =>  $request->organisation_email,
-            'organisation_tel' =>  $request->organisation_tel,
-            'organisation_website' => $request->organisation_website,
+        $org->data([
+            'title' => $request->organisation_name,
+            'email_address' =>  $request->organisation_email,
+            'telephone_number' =>  $request->organisation_tel,
+            'website' => $request->organisation_website,
         ]);
 
-        $user->save();
+        $org->save();
 
         return redirect()->back()->with([
             'success' => 'Organisation details updated successfully'
@@ -199,7 +201,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);
@@ -251,11 +253,19 @@ class UserDashboardController extends Controller
 
     public function createEvent(): View
     {
+
+        if(Auth::user()->linked_organisations) {
+            $defaultOrg = [Auth::user()->linked_organisations?->slug];
+        } else {
+            $defaultOrg = null;
+        }
+
         return (new View)
             ->layout('layout')
             ->template('users.dashboard.my-events-create')
             ->with([
                 'title' => "Dashboard",
+                'default_org' => $defaultOrg
             ]);
     }
 
@@ -303,7 +313,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);
@@ -375,7 +385,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);
@@ -445,7 +455,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);

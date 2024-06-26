@@ -61,7 +61,7 @@
             {{ partial:event-submission-form/section section_title="Event Information" }}
                 {{ partial:event-submission-form/text field_label="Event Title*" field_name="title"  }}
 
-                {{ partial:event-submission-form/textarea field_label="Description" field_name="description" }}
+                {{ partial:event-submission-form/textarea field_label="Description" field_name="description"  field_description="Sub-headline for the event" }}
 
                 <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
                     {{ partial:event-submission-form/datetime
@@ -89,7 +89,7 @@
 
                 {{ partial:event-submission-form/text field_label="Cost Details" field_name="cost_details" field_description="e.g. £5" }}
 
-                {{ partial:event-submission-form/textarea field_label="Attendance Information" field_name="attendance_information" }}
+                {{ partial:event-submission-form/textarea field_label="Audience Information" field_name="attendance_information" field_description="e.g. Age range" }}
 
                 {{ partial:event-submission-form/textarea field_label="Accessibility Information" field_name="accessibility_information" }}
 
@@ -129,8 +129,8 @@
 
 
             {{ partial:event-submission-form/section section_title="Call to action" }}
-                {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" }}
-                {{ partial:event-submission-form/textarea field_label="CTA" field_name="cta" }}
+                {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" placeholder="https://example.com" }}
+                {{ partial:event-submission-form/textarea field_label="How to Book" field_name="cta" }}
             {{ /partial:event-submission-form/section }}
 
             {{ partial:event-submission-form/section section_title="Event Categories" }}
@@ -144,6 +144,7 @@
                 {{ partial:event-submission-form/multiselect
                     :options="organisers"
                     field_name="organisers"
+                    :value="default_org"
                 }}
             {{ /partial:event-submission-form/section }}
 
@@ -151,6 +152,11 @@
                 {{ partial:event-submission-form/image
                     field_name="image"
                     field_label="Upload a featured image"
+                }}
+                {{ partial:event-submission-form/text
+                    field_label="Image Alternative Text"
+                    field_name="alternative_text"
+                    field_description="Alternative text is a brief description of the image for accessibility and SEO purposes. It helps people who can't see the image understand its content. If left blank, it will default to the event title."
                 }}
             {{ /partial:event-submission-form/section }}
 

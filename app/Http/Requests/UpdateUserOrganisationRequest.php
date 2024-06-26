@@ -22,6 +22,7 @@ class UpdateUserOrganisationRequest extends FormRequest
     public function rules(): array
     {
         return [
+            'org' => ['required'],
             'organisation_name' => ['required', 'string', 'max:255'],
             'organisation_email' => ['required', 'email', 'string', 'max:255'],
             'organisation_tel' => [ 'max:255'],

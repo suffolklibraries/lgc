@@ -1,7 +1,7 @@
 {{ global }}
   <footer class="c-footer" role="contentinfo">
     <div class="c-footer_primary">
-      <div class="o-wrap"> 
+      <div class="o-wrap">
         <div class="o-grid o-grid--page-reverse">
           <div class="o-flow">
             <div class="o-flow o-flow--xs">
@@ -35,13 +35,15 @@
             <div>
               <div class="c-footer-listing o-flow o-flow--xs step--1">
                 <h3 class="step-0">{{ listing_section_title }}</h3>
-                {{ listing_content }}
-                <figure class="c-footer-listing_image">
-                  {{ glide:listing_image width="132" height="132" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:listing_image }}
-                  <figcaption>
-                    <a href="mailto:{{ listing_email }}">{{ listing_call_to_action }}</a>
-                  </figcaption>
-                </figure>
+                <ul>
+                    <li>
+                        <a
+                            href="{{ logged_in ? {route:user.dashboard.index} : {route:login} }}"
+                        >
+                            Organisation Login
+                        </a>
+                    </li>
+                </ul>
               </div>
             </div>
             <a href="https://www.artscouncil.org.uk/" class="c-footer_arts">

@@ -40,60 +40,18 @@ tabs:
               type: assets
               max_files: 1
               container: assets
-  organisation:
-    display: Organisation
-    sections:
-      -
-        fields:
           -
-            handle: organisation_name
+            handle: linked_organisations
             field:
-              input_type: text
-              antlers: false
-              type: text
-              display: Name
-              icon: text
+              mode: default
+              create: true
+              taxonomies:
+                - organisers
+              type: terms
+              display: 'Linked Organisations'
               listable: hidden
               instructions_position: above
               visibility: visible
               replicator_preview: true
               hide_display: false
-          -
-            handle: organisation_email
-            field:
-              input_type: text
-              antlers: false
-              type: text
-              display: Email
-              icon: text
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-          -
-            handle: organisation_tel
-            field:
-              input_type: text
-              antlers: false
-              type: text
-              display: Tel
-              icon: text
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
-          -
-            handle: organisation_website
-            field:
-              input_type: text
-              antlers: false
-              type: text
-              display: Website
-              icon: text
-              listable: hidden
-              instructions_position: above
-              visibility: visible
-              replicator_preview: true
-              hide_display: false
+              max_items: 1

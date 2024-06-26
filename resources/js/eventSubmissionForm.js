@@ -53,7 +53,7 @@ function EventSubmissionForm () {
             tiptapElements.forEach((el) => {
                 let editor = initTipTap(
                     el,
-                    '<p>Write about your event here!</p>'
+                    'Write about your event here!'
                 )
             })
         })

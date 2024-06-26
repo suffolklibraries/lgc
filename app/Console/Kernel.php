@@ -26,7 +26,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        $schedule->job(new UnpublishPassedEvents)->twiceDaily();
+        $schedule->job(new UnpublishPassedEvents)->hourly();
         $schedule->job(new PurgeCompletedContentReports)->daily();
     }
 

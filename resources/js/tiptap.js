@@ -3,15 +3,16 @@ import StarterKit from '@tiptap/starter-kit'
 import Underline from '@tiptap/extension-underline'
 import Link from '@tiptap/extension-link';
 import TextAlign from '@tiptap/extension-text-align';
+import Placeholder from '@tiptap/extension-placeholder';
 
-export function initTipTap(element, content) {
+export function initTipTap(element, placeholder) {
     let editorEl = element.querySelector('.editor')
     let field = element.querySelector(`input[name="${editorEl.getAttribute('data-field')}"]`)
 
     let initialContent
 
-    if(field.value === '' ) {
-        initialContent = content
+    if(field.value == '' ) {
+        initialContent = null
     } else {
         initialContent = field.value
     }
@@ -30,11 +31,15 @@ export function initTipTap(element, content) {
             }),
             TextAlign.configure({
                 types: ['heading', 'paragraph']
+            }),
+            Placeholder.configure({
+                placeholder: placeholder,
+                emptyNodeClass: 'first:before:tw-content-[attr(data-placeholder)] first:before:tw-text-brand-grey/40 first:before:tw-float-left first:before:tw-h-[0] first:before:tw-pointer-events-none'
             })
         ],
         editorProps: {
             attributes: {
-                class: 'tw-min-h-48 tw-max-h-48 tw-overflow-y-scroll tw-scrollbar tw-scrollbar-track-transparent tw-scrollbar-thumb-brand-pink tw-text-base tw-prose tw-max-w-none tw-px-3 tw-py-3 tw-outline-none'
+                class: 'tw-min-h-52 tw-max-h-52 tw-overflow-y-scroll tw-scrollbar tw-scrollbar-track-transparent tw-scrollbar-thumb-brand-pink tw-text-base tw-prose tw-max-w-none tw-px-3 tw-py-3 tw-outline-none'
             }
         },
         content: initialContent,

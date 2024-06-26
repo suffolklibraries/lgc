@@ -16,7 +16,16 @@ class CurrentRouteIs extends Tags
     {
         $route = Route::currentRouteName();
 
-        return $this->params->get('route') === $route;
+        // split comma sep values
+        $routesParamArray = explode(',', $this->params->get('route'));
+
+        foreach($routesParamArray as $routeParam) {
+            if($routeParam === $route) {
+                return true;
+            }
+        }
+
+        return false;
     }
 
 }
