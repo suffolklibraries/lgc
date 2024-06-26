@@ -63,7 +63,7 @@
         {{ partial:event-submission-form/section section_title="Event Information" }}
             {{ partial:event-submission-form/text field_label="Event Title*" field_name="title" :value="entry.title" }}
 
-            {{ partial:event-submission-form/textarea field_label="Description" field_name="description" :value="entry.content | strip_tags" }}
+            {{ partial:event-submission-form/textarea field_label="Description" field_name="description" :value="entry.content | strip_tags"  field_description="Sub-headline for the event"}}
 
             <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
                 {{ partial:event-submission-form/datetime
@@ -91,7 +91,8 @@
 
             {{ partial:event-submission-form/text field_label="Cost Details" field_name="cost_details" field_description="e.g. £5" :value="entry.cost_details" }}
 
-            {{ partial:event-submission-form/textarea field_label="Attendance Information" field_name="attendance_information" :value="entry.attendance_information | strip_tags" }}
+            {{ partial:event-submission-form/textarea field_label="Attendance Information" field_name="attendance_information" :value="entry.attendance_information | strip_tags"  field_description="e.g. Age range" }}
+
 
             {{ partial:event-submission-form/textarea field_label="Accessibility Information" field_name="accessibility_information" :value="entry.accessibility_information | strip_tags" }}
 
