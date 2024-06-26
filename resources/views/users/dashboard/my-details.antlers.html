@@ -16,9 +16,19 @@
         </div>
 
         <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-3 tw-gap-4">
-            {{ partial:event-submission-form/text field_name="password" field_label="Current Password" autocomplete="password" field_type="password" }}
-            {{ partial:event-submission-form/text field_name="new_password" field_label="New Password" field_type="password" }}
-            {{ partial:event-submission-form/text field_name="new_password_confirmation" field_label="Confirm New Password" field_type="password" }}
+            {{ partial:event-submission-form/password
+                field_name="password"
+                field_label="Current Password"
+                autocomplete="password"
+            }}
+            {{ partial:event-submission-form/password
+                field_name="new_password"
+                field_label="New Password"
+            }}
+            {{ partial:event-submission-form/password
+                field_name="new_password_confirmation"
+                field_label="Confirm New Password"
+            }}
         </div>
 
         {{ if {session:has key="password_incorrect"} }}
