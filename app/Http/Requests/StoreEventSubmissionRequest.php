@@ -44,6 +44,7 @@ class StoreEventSubmissionRequest extends FormRequest
             'categories' => ['required', 'array', 'min:1'],
             'organisers' => ['required', 'array', 'min:1'],
             'image' => ['sometimes', 'mimetypes:image/jpeg,image/png,image/gif,image/bmp,image/tiff,image/webp', 'max:5120'],
+            'alternative_text' => [],
             'name' => ['required'],
             'email' => ['required', 'email'],
         ];

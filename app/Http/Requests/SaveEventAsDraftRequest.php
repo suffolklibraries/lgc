@@ -43,6 +43,7 @@ class SaveEventAsDraftRequest extends FormRequest
             'categories' => ['array'],
             'organisers' => ['array'],
             'image' => ['sometimes', 'image', 'max:5120'],
+            'alternative_text' => [],
         ];
     }
 
