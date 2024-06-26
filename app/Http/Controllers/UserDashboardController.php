@@ -199,7 +199,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);
@@ -303,7 +303,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);
@@ -375,7 +375,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);
@@ -445,7 +445,7 @@ class UserDashboardController extends Controller
             ]));
 
             $asset->data([
-                'alt' => $request->title
+                'alt' => $request->alternative_text ?? $request->title
             ]);
 
             $asset->upload($file);
