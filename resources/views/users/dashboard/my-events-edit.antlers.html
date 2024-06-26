@@ -136,7 +136,7 @@
 
 
         {{ partial:event-submission-form/section section_title="Call to action" }}
-            {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" :value="entry.booking_link" }}
+            {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" :value="entry.booking_link" placeholder="https://example.com" }}
             {{ partial:event-submission-form/textarea field_label="How to Book" field_name="cta" :value="entry.cta | strip_tags" }}
         {{ /partial:event-submission-form/section }}
 
