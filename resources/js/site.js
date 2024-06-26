@@ -8,6 +8,7 @@ import PageZoom from './page-zoom';
 import EventSubmissionForm from './eventSubmissionForm';
 import Alpine from 'alpinejs'
 import focus from '@alpinejs/focus'
+import PasswordValidation from './passwordValidation';
 
 (() => {
   Menu();
@@ -18,6 +19,7 @@ import focus from '@alpinejs/focus'
   LinkIcons();
   PageZoom();
   EventSubmissionForm();
+  PasswordValidation();
 })();
 
 window.Alpine = Alpine
