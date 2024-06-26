@@ -102,6 +102,11 @@
 
     {{ partial:event-submission-form/section section_title="Featured Image" }}
         {{ partial:event-submission-form/image field_name="image" field_label="Upload a featured image" }}
+        {{ partial:event-submission-form/text
+            field_label="Image Alternative Text"
+            field_name="alternative_text"
+            field_description="Alternative text is a brief description of the image for accessibility and SEO purposes. It helps people who can't see the image understand its content. If left blank, it will default to the event title."
+        }}
     {{ /partial:event-submission-form/section }}
 
     {{ partial:event-submission-form/section section_title="Your Details" }}

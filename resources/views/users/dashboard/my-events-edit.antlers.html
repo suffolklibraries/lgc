@@ -162,6 +162,12 @@
                 field_label="Upload a featured image"
                 :value="entry.featured_image"
             }}
+            {{ partial:event-submission-form/text
+                field_label="Image Alternative Text"
+                field_name="alternative_text"
+                field_description="Alternative text is a brief description of the image for accessibility and SEO purposes. It helps people who can't see the image understand its content. If left blank, it will default to the event title."
+                :value="entry.featured_image:alt"
+            }}
         {{ /partial:event-submission-form/section }}
 
         <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mb-10">
