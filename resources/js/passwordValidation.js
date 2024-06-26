@@ -2,7 +2,7 @@ function PasswordValidation() {
     document.addEventListener('alpine:init', () => {
         Alpine.data('password', () => ({
             password: '',
-            showInput: true,
+            showInput: false,
             errors: [],
             rules: [
                 {
