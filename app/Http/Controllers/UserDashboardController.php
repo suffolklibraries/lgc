@@ -254,7 +254,11 @@ class UserDashboardController extends Controller
     public function createEvent(): View
     {
 
-       $defaultOrg = [Auth::user()->linked_organisations->slug];
+        if(Auth::user()->linked_organisations) {
+            $defaultOrg = [Auth::user()->linked_organisations?->slug];
+        } else {
+            $defaultOrg = null;
+        }
 
         return (new View)
             ->layout('layout')
