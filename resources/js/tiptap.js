@@ -39,7 +39,7 @@ export function initTipTap(element, placeholder) {
         ],
         editorProps: {
             attributes: {
-                class: 'tw-min-h-48 tw-max-h-48 tw-overflow-y-scroll tw-scrollbar tw-scrollbar-track-transparent tw-scrollbar-thumb-brand-pink tw-text-base tw-prose tw-max-w-none tw-px-3 tw-py-3 tw-outline-none'
+                class: 'tw-min-h-52 tw-max-h-52 tw-overflow-y-scroll tw-scrollbar tw-scrollbar-track-transparent tw-scrollbar-thumb-brand-pink tw-text-base tw-prose tw-max-w-none tw-px-3 tw-py-3 tw-outline-none'
             }
         },
         content: initialContent,
