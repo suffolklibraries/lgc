@@ -1,11 +1,11 @@
 <header class="o-wrap c-top">
   <div class="c-top_lockup">
-    <a href="/" class="c-top_logo">
+    <a href="/" class="c-top_logo tw-mb-0.5">
       <img src="/img/logo.svg" alt="Suffolk Libraries - " />
 
       <img src="/img/logo-2.svg" alt="Let's get creative" />
     </a>
-    
+
     <nav class="c-top_nav">
       {{ partial src="global/nav" }}
     </nav>
@@ -29,12 +29,12 @@
       }
     }
   }
-  
+
   var nav = document.querySelector('.c-top_nav');
   var navOverlay = document.querySelector('.c-top_nav-overlay');
   var more = document.querySelector('.c-top_more');
   var hidingMore = false;
-  
+
   if (!nav || !more || !navOverlay) return;
 
   var firstChild = nav.querySelector('.c-top_menu > :first-child');
