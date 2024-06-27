@@ -16,6 +16,13 @@
             Organisation Details
         </a>
 
+        <a href="{{ route:user.dashboard.saved-addresses.index }}"
+            class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {current_route_is route="user.dashboard.saved-addresses.index,user.dashboard.saved-addresses.create,user.dashboard.saved-addresses.edit"} ?= 'tw-bg-brand-pink' }}"
+        >
+            {{ svg:map-pin class="tw-h-5 tw-w-5" }}
+            Addresses
+        </a>
+
         <a href="{{ route:user.dashboard.my-events.index }}"
             class="tw-px-3 tw-py-4 tw-w-full tw-flex tw-gap-2 tw-items-center tw-text-xl {{ {current_route_is route="user.dashboard.my-events.index,user.dashboard.my-events.edit,user.dashboard.my-events.create" } ?= 'tw-bg-brand-pink' }}"
         >
