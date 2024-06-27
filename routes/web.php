@@ -10,6 +10,7 @@ use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\UserDashboardController;
 use App\Http\Controllers\EventSubmissionController;
 use App\Http\Controllers\InappropriateContentReportController;
+use App\Http\Controllers\SavedAddressController;
 use App\Http\Middleware\MustBeLoggedIn;
 
 /*
@@ -50,6 +51,24 @@ Route::group(['as' => 'user.'], function(){
         Route::post('my-events/store', [UserDashboardController::class, 'storeEvent'])->name('my-events.store')->middleware(ProtectAgainstSpam::class);
         Route::post('my-events/save-draft/{entryId?}', [UserDashboardController::class, 'saveDraft'])->name('my-events.save-draft')->middleware(ProtectAgainstSpam::class);
         Route::post('my-events/{entryId}/update-draft', [UserDashboardController::class, 'updateDraft'])->name('my-events.update-draft')->middleware(ProtectAgainstSpam::class);
+
+        Route::group([
+            'prefix' => 'addresses',
+            'as' => 'saved-addresses.',
+            'middleware' => MustBeLoggedIn::class
+        ], function() {
+
+            Route::get('/', [SavedAddressController::class, 'index'])->name('index');
+            Route::get('create', [SavedAddressController::class, 'create'])->name('create');
+            Route::get('edit/{id}', [SavedAddressController::class, 'edit'])->name('edit');
+
+            Route::middleware(ProtectAgainstSpam::class)->group(function() {
+                Route::post('store', [SavedAddressController::class, 'store'])->name('store');
+                Route::post('update/{id}', [SavedAddressController::class, 'update'])->name('update');
+                Route::delete('delete/{id}', [SavedAddressController::class, 'delete'])->name('delete');
+            });
+
+        });
     });
 
     Route::post('logout', LogoutController::class)->name('logout')->middleware(MustBeLoggedIn::class);
