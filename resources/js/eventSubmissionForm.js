@@ -103,8 +103,6 @@ function EventSubmissionForm () {
             addressLine1 = place.formatted_address.split(',')[0].trim()
         }
 
-        console.log(addressLine1)
-
 
         if(addressLine1) {
             addressLine1El.value = addressLine1
