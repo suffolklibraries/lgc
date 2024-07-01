@@ -1,5 +1,6 @@
 ---
 id: e72c1829-f332-4197-9026-5dfc24bced65
+published: false
 blueprint: events
 title: 'Garden in Mind Open Day'
 event_categories:
