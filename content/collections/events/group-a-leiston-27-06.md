@@ -1,5 +1,6 @@
 ---
 id: 54072713-c32d-41ca-8459-cf5f7ffd7827
+published: false
 blueprint: events
 title: 'Group A - Youth Vocal Group in Leiston'
 event_categories:
