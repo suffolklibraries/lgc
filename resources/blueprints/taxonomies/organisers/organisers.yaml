@@ -53,6 +53,110 @@ tabs:
               visibility: visible
               replicator_preview: true
               hide_display: false
+          -
+            handle: addresses
+            field:
+              fields:
+                -
+                  handle: name
+                  field:
+                    input_type: text
+                    antlers: false
+                    type: text
+                    display: Name
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
+                -
+                  handle: address_line_1
+                  field:
+                    input_type: text
+                    antlers: false
+                    type: text
+                    display: 'Address Line 1'
+                    width: 50
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
+                -
+                  handle: address_line_2
+                  field:
+                    input_type: text
+                    antlers: false
+                    type: text
+                    display: 'Address Line 2'
+                    width: 50
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
+                -
+                  handle: town
+                  field:
+                    input_type: text
+                    antlers: false
+                    type: text
+                    display: Town
+                    width: 50
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
+                -
+                  handle: postcode
+                  field:
+                    input_type: text
+                    antlers: false
+                    type: text
+                    display: 'Post Code'
+                    width: 50
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
+                -
+                  handle: lat
+                  field:
+                    input_type: text
+                    antlers: false
+                    type: text
+                    display: Latitude
+                    width: 50
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
+                -
+                  handle: lng
+                  field:
+                    input_type: text
+                    antlers: false
+                    type: text
+                    display: Longitude
+                    width: 50
+                    listable: hidden
+                    instructions_position: above
+                    visibility: visible
+                    replicator_preview: true
+                    hide_display: false
+              mode: table
+              reorderable: true
+              fullscreen: true
+              type: grid
+              display: Addresses
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
   sidebar:
     display: Sidebar
     sections:

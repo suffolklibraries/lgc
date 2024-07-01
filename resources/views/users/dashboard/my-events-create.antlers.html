@@ -9,22 +9,31 @@
     {{ /endif }}
 
     <div
-        x-data="{
+        x-data='{
             saveDraft: false,
+            addresses: {{ org_addresses ? {org_addresses | to_json} : '[]' }},
             saveAsDraft() {
                 this.saveDraft = true
             },
             publishEvent() {
                 this.saveDraft = false
             },
+            apply(address) {
+                this.$refs.form.querySelector("#address_line_1").value = address.address_line_1
+                this.$refs.form.querySelector("#address_line_2").value = address.address_line_2
+                this.$refs.form.querySelector("#town").value = address.town
+                this.$refs.form.querySelector("#postcode").value = address.postcode
+                this.$refs.form.querySelector("#lat").value = address.lat
+                this.$refs.form.querySelector("#lng").value = address.lng
+            },
             handleSubmit(event) {
                 if(this.saveDraft) {
-                    this.$refs.form.action = '{{ route:user.dashboard.my-events.save-draft }}'
+                    this.$refs.form.action = "{{ route:user.dashboard.my-events.save-draft }}"
                 }
 
                 this.$refs.form.submit()
             }
-        }"
+        }'
     >
         <form
             action="{{ route:user.dashboard.my-events.store }}"
@@ -96,6 +105,46 @@
             {{ /partial:event-submission-form/section }}
 
             {{ partial:event-submission-form/section section_title="Location" }}
+                {{ if org_addresses }}
+                    {{ partial:event-submission-form/section
+                        section_title="Saved Addresses"
+                        class="tw-border tw-border-brand-grey/30 tw-px-4 tw-py-4"
+                    }}
+                        <table>
+                            <thead class="tw-border-b tw-border-brand-grey/30">
+                                <th class="tw-text-base tw-font-semibold">Name</th>
+                                <th class="tw-text-base tw-font-semibold">Address Line 1</th>
+                                <th class="tw-text-base tw-font-semibold">Address Line 2</th>
+                                <th class="tw-text-base tw-font-semibold">Town</th>
+                                <th class="tw-text-base tw-font-semibold">Postcode</th>
+                                <th></th>
+                            </thead>
+                            <tbody>
+                                <template x-for="address in addresses">
+                                    <tr>
+                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.name"></td>
+                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.address_line_1"></td>
+                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.address_line_2"></td>
+                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.town"></td>
+                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.postcode"></td>
+                                        <td class="tw-py-1">
+                                            <button
+                                                type="button"
+                                                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
+                                                :aria-label="`Apply address '${address.name}'`"
+                                                @click="apply(address)"
+                                            >
+                                                Apply
+                                            </button>
+                                        </td>
+                                    </tr>
+                                </template>
+                            </tbody>
+                        </table>
+
+                    {{ /partial:event-submission-form/section }}
+                {{ /if }}
+
                 {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
 
                 <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
@@ -108,6 +157,7 @@
 
                 <input
                     type="hidden"
+                    id="lat"
                     name="lat"
                     {{ if old:lat }}
                         value="{{ old:lat }}"
@@ -115,6 +165,7 @@
                 >
                 <input
                     type="hidden"
+                    id="lng"
                     name="lng"
                     {{ if old:lng }}
                         value="{{ old:lng }}"

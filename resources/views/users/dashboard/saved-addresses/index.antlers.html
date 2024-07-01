@@ -1,0 +1,51 @@
+{{ partial:users/dashboard/layout content_title="Saved Addresses" }}
+    {{ slot:heading_buttons }}
+        <a href="{{ route:user.dashboard.saved-addresses.create }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-items-center tw-gap-2">
+            {{ svg:plus }}
+            Add an address
+        </a>
+    {{ /slot:heading_buttons }}
+
+    {{ if {session:has key="success"} }}
+        <div class="tw-text-lg tw-p-4 tw-border-2 tw-border-brand-teal tw-mb-4">
+            {{ session:success }}
+        </div>
+    {{ /endif }}
+
+    <div class="tw-flex tw-flex-col tw-gap-4">
+        {{ if !org.addresses }}
+            No saved addresses
+        {{ else }}
+            {{ org.addresses }}
+                <article class="c-event-card c-event-card--horizontal tw-flex tw-items-center">
+                    <div class="c-event-card__content o-flow o-flow--xs step--1">
+                        <header class="tw-flex tw-items-center tw-gap-3">
+                            <h2 class="h4 tw-max-w-none">{{ name }}</h2>
+                        </header>
+                        <div>
+                            {{ address_line_1 }}, {{ town }}, {{ postcode }}
+                        </div>
+                    </div>
+
+                    <div class="tw-flex tw-gap-3 tw-px-6">
+                        <a href="{{ route:user.dashboard.saved-addresses.edit :id="id" }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                            {{ svg:edit class="tw-w-4 tw-h-4" }}
+                            Edit Address
+                        </a>
+
+                        <form action="{{ route:user.dashboard.saved-addresses.delete :id="id" }}" method="POST">
+                            {{ csrf_field }}
+                            {{ partial:partial/honeypot }}
+                            {{ partial:partial/form_method method="DELETE" }}
+                            <button type="submit" class="tw-bg-brand-grey/70 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                                {{ svg:trash class="tw-w-4 tw-h-4" }}
+                                Delete Address
+                            </button>
+                        </form>
+                    </div>
+                </article>
+            {{ /org.addresses }}
+        {{/if }}
+    </div>
+
+{{ /partial:users/dashboard/layout }}

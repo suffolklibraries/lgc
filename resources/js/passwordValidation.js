@@ -52,7 +52,7 @@ function PasswordValidation() {
                 return /[0-9]/.test(this.password)
             },
             containsSpecial() {
-                return /[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/.test(this.password)
+                return /[~`!@#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/.test(this.password)
             },
             isValid(key) {
                 return !this.errors?.includes(key)
