@@ -134,6 +134,8 @@ class UserDashboardController extends Controller
                 ->template('errors.404');
         }
 
+        $orgAddresses = Auth::user()->linked_organisations?->get('addresses');
+
         $categories = $entry->get('event_categories');
         $eventOrganisers = $entry->get('organisers');
 
@@ -153,7 +155,8 @@ class UserDashboardController extends Controller
                 'entry' => $entry,
                 'categories' => $categories,
                 'event_organisers' => $eventOrganisers,
-                'event_content' => $eventContent
+                'event_content' => $eventContent,
+                'org_addresses' => $orgAddresses
             ]);
     }
 
@@ -260,12 +263,15 @@ class UserDashboardController extends Controller
             $defaultOrg = null;
         }
 
+        $orgAddresses = Auth::user()->linked_organisations?->get('addresses');
+
         return (new View)
             ->layout('layout')
             ->template('users.dashboard.my-events-create')
             ->with([
                 'title' => "Dashboard",
-                'default_org' => $defaultOrg
+                'default_org' => $defaultOrg,
+                'org_addresses' => $orgAddresses
             ]);
     }
 
