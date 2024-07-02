@@ -1,14 +1,14 @@
 ---
 id: 9d28e630-4a33-46d0-945d-1e731532c08c
 blueprint: events
-title: 'ActivGardens - Grow Your Wellbeing'
+title: 'ActivGardens - Grow Your Wellbeing Open Day'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: activlives/bvp-sudbury.jpg
-start_date: '2024-09-02 13:00'
-end_date: '2024-11-18 15:00'
+start_date: '2024-07-22 13:00'
+end_date: '2024-07-22 15:00'
 free: true
 virtual: false
 latitude: '52.03760036775878'
@@ -31,13 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Grow Your Wellbeing is a 12-week course, starting on Monday 13th May.  '
+        text: 'Come down to the gardens to find out more about the Grow Your Wellbeing 2-week course'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'These fun, welcoming sessions are tailored towards personal goals such as developing practical skills, supporting your health and wellbeing, building your confidence, getting closer to nature, finding a sense of community and meeting new people. '
+        text: "If you join the course, you'll find these fun, welcoming sessions are tailored towards personal goals such as developing practical skills, supporting your health and wellbeing, building your confidence, getting closer to nature, finding a sense of community and meeting new people. "
   -
     type: paragraph
     content:
@@ -144,8 +144,8 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719933696
+updated_at: 1719934196
 duplicated_from: a3b6dd84-fda9-4cad-b24a-96601ef4c95d
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-wellbeing/'
 ---
-Are you stuck indoors too much? Would you like to be more active? Learn new skills? Build your confidence? If so, why not come along and join us in Sudbury’s Belle Vue Park, where you can get out into the fresh air and make new friends as part of a community project.
+Come along to the open day for ActivGarden's Grow Your Wellbeing course.
