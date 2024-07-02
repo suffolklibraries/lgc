@@ -1,14 +1,13 @@
 ---
 id: 29890738-accd-4d25-84ed-96c454a8eb88
-published: false
 blueprint: events
-title: "Stowmarket Youth Theatre's Twelfth Night (Duplicated) (Duplicated)"
+title: "Stowmarket Youth Theatre's Twelfth Night"
 event_categories:
   - performance
   - community
   - family-friendly
-start_date: '2024-07-13 15:00'
-end_date: '2024-07-13 16:00'
+start_date: '2024-07-14 14:00'
+end_date: '2024-07-14 15:00'
 free: false
 virtual: false
 latitude: '52.18698642170369'
@@ -161,7 +160,7 @@ cta: |-
 
   [01449 612229](tel:01449612229)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719935995
+updated_at: 1719936052
 duplicated_from: 07999e54-17f8-4746-8a7f-636929deed0d
 featured_image: offthepressimages/new_resized_images/Theatre.png
 cost_details: '£5 per person, £2.50 for those under 25 or over 60 years'
