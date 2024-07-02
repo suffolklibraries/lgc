@@ -160,7 +160,7 @@ cta: |-
 
   [01449 612229](tel:01449612229)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719935891
+updated_at: 1719935976
 duplicated_from: 7fc003f0-de0b-4f04-b6dc-213c12a94cd1
 featured_image: offthepressimages/new_resized_images/Theatre.png
 cost_details: '£5 per person, £2.50 for those under 25 or over 60 years'
