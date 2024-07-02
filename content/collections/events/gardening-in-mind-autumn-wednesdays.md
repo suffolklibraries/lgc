@@ -1,7 +1,7 @@
 ---
 id: ce1ed6eb-4b80-495b-96fd-4bd7b79b8eb0
 blueprint: events
-title: 'ActivGardens - Gardening in Mind Summer Course'
+title: 'ActivGardens - Gardening in Mind Autumn Course'
 event_categories:
   - nature
 organisers:
@@ -161,7 +161,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719933076
+updated_at: 1719933115
 duplicated_from: 07f90111-6452-444e-b546-46cf0ab938c1
 booking_link: 'https://activlives.org.uk/activgardens/gardening-in-mind/'
 attendance_information: '- 16 + years'
