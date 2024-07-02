@@ -1,15 +1,14 @@
 ---
 id: 9d28e630-4a33-46d0-945d-1e731532c08c
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Wellbeing (Duplicated)'
+title: 'ActivGardens - Grow Your Wellbeing'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: activlives/bvp-sudbury.jpg
-start_date: '2024-05-13 10:00'
-end_date: '2024-07-29 13:00'
+start_date: '2024-09-02 13:00'
+end_date: '2024-11-18 15:00'
 free: true
 virtual: false
 latitude: '52.03760036775878'
@@ -145,8 +144,8 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712669791
+updated_at: 1719933696
 duplicated_from: a3b6dd84-fda9-4cad-b24a-96601ef4c95d
-booking_link: 'https://activlives.org.uk/activgardens/grow-your-community-sudbury/'
+booking_link: 'https://activlives.org.uk/activgardens/grow-your-wellbeing/'
 ---
 Are you stuck indoors too much? Would you like to be more active? Learn new skills? Build your confidence? If so, why not come along and join us in Sudbury’s Belle Vue Park, where you can get out into the fresh air and make new friends as part of a community project.
