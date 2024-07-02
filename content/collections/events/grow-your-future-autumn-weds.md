@@ -1,15 +1,14 @@
 ---
 id: ba990c79-67dc-44e5-918e-ab006fe2e267
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Future (Duplicated)'
+title: 'ActivGardens - Grow Your Future'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2024-05-15 09:30'
-end_date: '2024-07-31 14:30'
+start_date: '2024-08-28 09:30'
+end_date: '2024-11-13 14:30'
 free: true
 virtual: false
 latitude: '52.03845056427872'
@@ -142,7 +141,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712842948
+updated_at: 1719933329
 duplicated_from: ab808249-6ff0-466e-b493-690ada51f368
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '- 16 + years'
