@@ -1,15 +1,14 @@
 ---
 id: 9cbc18ba-5792-4fff-ace4-6d7b259754fb
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Future (Duplicated)'
+title: 'ActivGardens - Grow Your Future Open Day'
 event_categories:
   - nature
 organisers:
   - activgardens
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2024-08-27 09:30'
-end_date: '2024-11-12 14:30'
+start_date: '2024-07-23 10:00'
+end_date: '2024-07-23 14:00'
 free: true
 virtual: false
 latitude: '52.05374972132314'
@@ -32,7 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: 'In this free 12-week course, you will learn about gardening, horticulture and nature conservation in our safe, welcoming and inspiring community gardens. '
+        text: 'Come along to the gardens for this open day to find out more about this free 12-week course.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you join the course you will learn about gardening, horticulture and nature conservation in our safe, welcoming and inspiring community gardens. '
   -
     type: heading
     attrs:
@@ -147,7 +152,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719933458
+updated_at: 1719934023
 duplicated_from: 42b54881-9974-4cac-9ffb-9d38922df5eb
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '- 16 + years'
