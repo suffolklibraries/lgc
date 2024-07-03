@@ -6,7 +6,7 @@ start_date: '2024-07-25 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719997801
+updated_at: 1719998391
 event_categories:
   - family-friendly
   - community
@@ -70,6 +70,26 @@ content_area:
               -
                 type: text
                 text: 'Thursday 22 August'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'These events are suitable for families with children aged 10 and under. For families with children aged over 10, check out '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.newmarket.gov.uk/event/newmarket-summer-events-the-severals/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'the events at The Severals'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
