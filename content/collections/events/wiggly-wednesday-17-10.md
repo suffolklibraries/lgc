@@ -1,14 +1,13 @@
 ---
 id: 1f23d0d1-867f-4b5c-a131-32931534add5
-published: false
 blueprint: events
-title: 'Wiggly Wednesday (Duplicated)'
+title: 'Wiggly Wednesday'
 event_categories:
   - art
 organisers:
   - the-art-station
-start_date: '2024-07-10 15:30'
-end_date: '2024-07-10 16:30'
+start_date: '2024-07-17 15:30'
+end_date: '2024-07-17 16:30'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair access'
@@ -107,7 +106,7 @@ cta: |-
 
   [07927 770421](tel:07927770421)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720022582
+updated_at: 1720022629
 duplicated_from: f2aaba15-6b9f-4273-9a75-3175714567e7
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 ---
