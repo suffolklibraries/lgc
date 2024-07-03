@@ -1,6 +1,8 @@
-data: {  }
+data:
+  alt: 'An illustration showing pink stripes being painted across a yellow background by a black hand.'
 size: 495438
-last_modified: 1648718274
+last_modified: 1701272404
 width: 1521
 height: 834
 mime_type: image/png
+duration: null
