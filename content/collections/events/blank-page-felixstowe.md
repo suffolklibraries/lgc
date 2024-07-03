@@ -1,14 +1,13 @@
 ---
 id: 26244b02-f50d-4633-b2ba-d3344f422339
-published: false
 blueprint: events
-title: 'Blank Page - Gainsborough (Duplicated)'
+title: 'Blank Page - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720007332
-latitude: '52.034417883929024'
-longitude: '1.1827043375840662'
-start_date: '2024-08-01 09:45'
+updated_at: 1720007709
+latitude: '51.963591029049454'
+longitude: '1.3506722105946423'
+start_date: '2024-07-26 09:45'
 event_categories:
   - art
   - computing
@@ -17,10 +16,10 @@ free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Gainsborough Library'
-address_line_2: 'Clapgate Lane'
-town: Ipswich
-postcode: 'IP3 0RL'
+address_line_1: 'Felixstowe Library'
+address_line_2: 'Crescent Road'
+town: Felixstowe
+postcode: 'IP11 7BY'
 featured_image: offthepressimages/new_resized_images/Teen.png
 attendance_information: '- Ages 10 - 16'
 content_area:
@@ -105,21 +104,75 @@ content_area:
     content:
       -
         type: text
-        text: 'Gainsborough Library has on site car parking and the nearest'
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Cotman+Road/@52.0347317,1.1796921,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99fea5af611b5:0x4718b94a3008c570!2sGainsborough+Community+Library,+Clapgate+Ln,+Ipswich+IP3+0RL!2m2!1d1.1827311!2d52.0342691!1m6!1m2!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!2sCotman+Road,+Ipswich+IP3+0RG!2m2!1d1.181868!2d52.035336!3e2!3m5!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!8m2!3d52.035336!4d1.181868!16s%2Fg%2F1q67rd9sc?entry=ttu'
+              href: 'https://www.google.com/maps/place/Leopold+Road/@51.9634239,1.3477699,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9777cff0cc81f:0x9f3860b27bec7c07!2sLeopold+Road,+Felixstowe+IP11+7PD!2m2!1d1.3499852!2d51.9633712!1m6!1m2!1s0x47d9777da813e84b:0x18914f6ca1566d3b!2sFelixstowe+Library,+Crescent+Rd,+Felixstowe+IP11+7BY!2m2!1d1.3506955!2d51.9634387!3e2!3m5!1s0x47d9777cff0cc81f:0x9f3860b27bec7c07!8m2!3d51.9633712!4d1.3499852!16s%2Fg%2F1q67g9s_l?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: ' bus stop'
+        text: 'closest bus stop '
       -
         type: text
-        text: ' is a two minute walk away.'
+        text: 'is a minute away, and you can find the latest bus timetables on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.eastsuffolk.gov.uk/visitors/parking-services/car-parks/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Crescent Road car park'
+      -
+        type: text
+        text: " and is a minute's walk away."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Felixstowe Railway Station is a 10 minute walk away and can find train times on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Greater Anglia website'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
