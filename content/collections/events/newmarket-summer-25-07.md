@@ -6,7 +6,7 @@ start_date: '2024-07-25 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719997717
+updated_at: 1719997801
 event_categories:
   - family-friendly
   - community
@@ -34,6 +34,42 @@ content_area:
       -
         type: text
         text: 'Free events with face painting, bouncy castle, magic show, arts and crafts and much, much more!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Events taking place on:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Thursday 25 July'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Thursday 8 August'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Thursday 22 August'
   -
     type: heading
     attrs:
