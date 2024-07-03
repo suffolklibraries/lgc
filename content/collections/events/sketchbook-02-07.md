@@ -1,5 +1,6 @@
 ---
 id: 8f3e7662-cabe-459c-aaa2-333ae51d22b6
+published: false
 blueprint: events
 title: 'Grown Ups Sketchbook Club (online)'
 event_categories:
