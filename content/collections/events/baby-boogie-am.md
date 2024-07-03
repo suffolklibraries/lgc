@@ -1,16 +1,16 @@
 ---
 id: 802bf011-3924-43ee-9ada-e5757eb5ce73
-published: false
 blueprint: events
-title: 'Springboard Juniors (Duplicated)'
+title: 'Baby Loves to Boogie'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720017685
+updated_at: 1720019261
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-12-03 16:45'
+start_date: '2024-11-10 10:30'
 event_categories:
   - dance
+  - early-years
 free: true
 virtual: false
 organisers:
@@ -19,7 +19,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: offthepressimages/new_resized_images/Dance.png
+featured_image: offthepressimages/new_resized_images/Early-Years.png
 content_area:
   -
     type: heading
@@ -34,82 +34,25 @@ content_area:
     content:
       -
         type: text
-        text: 'The class uses dance as a tool to develop motor skills and creativity through movement games, sensory props and structured exercises and routines.'
+        marks:
+          -
+            type: italic
+        text: '“This is the best baby event I’ve been to! Do them more often!”'
+      -
+        type: text
+        text: ' – adult who attended a previous Baby Loves to Boogie'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'All classes are designed to encourage self-expression, build confidence, and develop social skills.'
+        text: 'Baby Loves to Boogie is all about connecting with your little one, moving, and having fun. You will be guided through games with props and movement exercises, all developed to nurture your little one’s natural love of movement in a structured yet relaxed environment. This is an event for children and adults alike, no previous dance experience necessary!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside children and young people with additional needs.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'From these classes you can expect:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A place to express yourself'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'To learn new skills'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A social space'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A positive impact on your body and mind'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A safe, welcoming environment'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'To explore dance and movement using props'
+        text: 'The disco will take place in our studio theatre and there will be an arts and crafts area in the foyer. Our café will be open, serving family friendly food and drink.'
   -
     type: heading
     attrs:
@@ -123,56 +66,21 @@ content_area:
     content:
       -
         type: text
-        text: 'The age guidance for this class is 4 to 11 years (4 year olds should be attending school and turning 5 within the current academic year). If your child is over 11 but you think they would benefit from attending this class, please feel free to call our friendly sales team for a chat on '
+        text: 'Book your place via the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473295230'
+              href: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: '01473 295230'
-      -
-        type: text
-        text: '. If you are unsure whether the class is right for your child, you are welcome to book a taster session by contacting our sales team.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Springboard classes are offered as Pay As You Go '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: or
-      -
-        type: text
-        text: ' by booking a full-term course (with the option to pay in half termly installments). For more information, please call our sales team on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473 295230'
-              rel: null
-              target: null
-              title: null
-        text: '01473 295230'
+        text: 'Dance East website'
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Bookings will close each week on a Friday at midday. This is to allow us enough time to send out the required forms for you to complete so that we have all the necessary information about your child to share with the tutor before they participate in the class. If you are already an existing participant, you can still book on after this time by calling our sales team.'
   -
     type: paragraph
   -
@@ -318,9 +226,10 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-12-03 17:30'
-attendance_information: '- Children aged 4 to 11 years with additional needs'
+end_date: '2024-11-10 12:30'
+attendance_information: '- Suitable for ages 0-5 and their adults'
 duplicated_from: 669b37a8-2f77-4ebe-b317-3e62a2857733
-cost_details: '£5 per workshop or pay as you can'
+cost_details: '0-12 months free, 1-5 years £4, adult £6'
+booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
 ---
-Springboard Juniors is a fun, friendly and inclusive class for children and young people with additional needs, where they can move and explore their creativity in a safe and welcoming space.
+Join us for our forest themed Baby Loves to Boogie, the best baby disco in town! You and your little ones will explore the woodland floor and dance with creatures of the forest.
