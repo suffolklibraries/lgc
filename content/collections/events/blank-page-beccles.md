@@ -1,14 +1,13 @@
 ---
 id: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
-published: false
 blueprint: events
-title: 'Blank Page - Bungay (Duplicated)'
+title: 'Blank Page - Beccles'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720004858
-latitude: '52.45422020110651'
-longitude: '1.439834952954272'
-start_date: '2024-07-25 09:45'
+updated_at: 1720005291
+latitude: '52.45648425658775'
+longitude: '1.5657697817902454'
+start_date: '2024-07-23 09:45'
 event_categories:
   - art
   - computing
@@ -16,10 +15,10 @@ free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Bungay Libary'
-address_line_2: 'Wharton Street'
-town: Bungay
-postcode: 'NR35 1EL'
+address_line_1: 'Beccles Library'
+address_line_2: Blyburgate
+town: Beccles
+postcode: 'NR34 9TB'
 featured_image: offthepressimages/new_resized_images/Teen.png
 attendance_information: '- Ages 10 - 16'
 content_area:
@@ -104,18 +103,38 @@ content_area:
     content:
       -
         type: text
-        text: 'Bungay Library is a four minute walk from the '
+        text: 'Beccles Library is a two minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Wingfield+Street/@52.4533183,1.4374242,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9f172009197c5:0x993943c81f1c157e!2sBungay+Community+Library,+Wharton+Street,+Bungay!2m2!1d1.4398431!2d52.4540823!1m6!1m2!1s0x47d9f16e1796f271:0xa591536df8fa9643!2sWingfield+Street,+Bungay+NR35+1BY!2m2!1d1.440778!2d52.45256!3e2!3m5!1s0x47d9f16e1796f271:0xa591536df8fa9643!8m2!3d52.45256!4d1.440778!16s%2Fg%2F1q67rjjml?entry=ttu'
+              href: 'https://www.google.com/maps/dir/Beccles+Library/Grove+Road,+Beccles+NR34+9TG/@52.4557532,1.5633626,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9f6182299c073:0x2d0c83895bb0b63a!2m2!1d1.5658127!2d52.456262!1m5!1m1!1s0x47d9f61836eabf2f:0xd313f809f0370fac!2m2!1d1.566326!2d52.455276!3e2?entry=ttu'
               rel: null
               target: _blank
               title: null
         text: 'nearest bus stop'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Beccles railway station is six minute walk and you can find up to date timetables on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Greater Anglia website'
       -
         type: text
         text: .
@@ -131,14 +150,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.apcoa.co.uk/parking-in/bungay/wharton-street-bungay/'
+              href: 'https://www.apcoa.co.uk/parking-in/beccles/blyburgate-beccles/'
               rel: null
               target: _blank
               title: null
-        text: 'Wharton Street car park'
+        text: 'Blyburgate car park'
       -
         type: text
-        text: " and it is a minute's walk away."
+        text: ' and it is a five minute walk away.'
   -
     type: paragraph
     content:
@@ -171,7 +190,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
   - SEND support available
-end_date: '2024-08-22 15:30'
+end_date: '2024-08-27 15:30'
 duplicated_from: 95c79c24-1d15-44d6-81e7-9875b86a7e4b
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
