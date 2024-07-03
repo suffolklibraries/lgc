@@ -5,6 +5,7 @@ title: 'Shark Story & Crafts'
 event_categories:
   - art
   - family-friendly
+  - literature
 organisers:
   - east-point-pavilion
 start_date: '2024-08-21 16:00'
@@ -116,7 +117,7 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720021034
+updated_at: 1720021267
 duplicated_from: cd09e257-8bef-40bc-afcb-ced355b36e08
 featured_image: offthepressimages/new_resized_images/Literature.png
 ---
