@@ -1,16 +1,16 @@
 ---
 id: fdc7b7d8-b279-43d6-b232-1fa7762deb49
-published: false
 blueprint: events
-title: 'Springboard for Adults (Duplicated)'
+title: 'Dance for Parkinson’s'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720011612
+updated_at: 1720018606
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-10-15 17:30'
+start_date: '2024-10-02 17:30'
 event_categories:
   - dance
+  - later-life
 free: true
 virtual: false
 organisers:
@@ -34,91 +34,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The classes offer a safe and welcoming space, that includes creativity, movement games, sensory props and structured exercises and routines.'
+        text: 'These weekly artistic and creative dance classes have the added benefits of improved mental and physical health and wellbeing, the chance for tea, biscuits, and a chat with like-minded people and most importantly, provide a fun, informal and energising activity suitable for all.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'All classes are designed to encourage self-expression, build confidence, and develop social skills.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside people with additional needs.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'From these classes, you can expect:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A place to express yourself'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'To learn new skills'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A social space'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A positive impact on your body and mind'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A safe welcoming environment'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'To explore using dance props'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Learn dance routines'
+        text: 'If you would like to find out more information for yourself or if you know someone who would benefit and enjoy attending the classes you can do so by calling a member of our Box Office Team on 01473 295230.'
   -
     type: heading
     attrs:
@@ -132,23 +54,14 @@ content_area:
     content:
       -
         type: text
-        text: 'Springboard classes are offered as Pay As You Go '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: or
-      -
-        type: text
-        text: ' by booking a full-term course (with the option to pay in half termly instalments). For more information, please call our sales team on '
+        text: 'If you would like to find out more information for yourself or if you know someone who would benefit and enjoy attending the classes you can do so by calling a member of our Box Office Team on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473 295230'
+              href: 'tel:01473295230'
               rel: null
               target: null
               title: null
@@ -156,18 +69,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Bookings will close each week on a Friday at midday. This is to allow us enough time to send out the required forms for you to complete so that we have all the necessary information to share with the tutor before you participate in the class. If you are already an existing participant, you can still book on after this time by calling our sales team.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you are unsure about coming along, you are welcome to book a taster session by getting in touch.'
   -
     type: paragraph
   -
@@ -313,9 +214,9 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-10-15 18:30'
-attendance_information: '- Adults with additional needs'
+end_date: '2024-10-02 18:30'
+attendance_information: "- Adults with Parkinson's"
 duplicated_from: e3b113fa-48cb-4a90-aa40-3758955d9fdd
-cost_details: '£6 per workshop or pay as you can'
+cost_details: '£6 per session'
 ---
-Our fun, friendly and inclusive Springboard classes give adults with additional needs the opportunity to move and explore, using dance as a tool to develop skills.
+Our Dance for Parkinson’s sessions are delivered in partnership with English National Ballet. The sessions bring a unique opportunity for people with Parkinson’s in Ipswich and the surrounding areas to engage with high quality dance classes in our studio.
