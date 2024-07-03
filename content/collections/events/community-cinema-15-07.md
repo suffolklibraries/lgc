@@ -6,7 +6,7 @@ start_date: '2024-07-15 18:45'
 free: false
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719996623
+updated_at: 1719996682
 event_categories:
   - film
 end_date: '2024-07-15 20:00'
@@ -219,7 +219,7 @@ content_area:
 cta: |-
   This event is hosted by The Stable Café and Community Space
 
-  [https://www.facebook.com/thestablenewmarket/] (https://www.facebook.com/thestablenewmarket/)
+  [https://www.facebook.com/thestablenewmarket/](https://www.facebook.com/thestablenewmarket/)
 
   [thestable@btinternet.com](mailto:thestable@btinternet.com)
 
