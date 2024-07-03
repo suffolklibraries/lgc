@@ -1,15 +1,14 @@
 ---
 id: b731e999-9697-4197-86c3-ce5a0606545d
-published: false
 blueprint: events
-title: 'Pirates Story & Crafts (Duplicated)'
+title: 'Shark Story & Crafts'
 event_categories:
   - art
   - family-friendly
 organisers:
   - east-point-pavilion
-start_date: '2024-08-14 16:00'
-end_date: '2024-08-14 17:30'
+start_date: '2024-08-21 16:00'
+end_date: '2024-08-21 17:30'
 free: true
 virtual: false
 attendance_information: '- Family friendly'
@@ -38,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Children are invited to join us for a swashbuckling pirate story & themed craft session.'
+        text: 'Children are invited to join us for a silly shark story & fin-tastic craft session.'
   -
     type: paragraph
     content:
@@ -117,7 +116,7 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020981
+updated_at: 1720021034
 duplicated_from: cd09e257-8bef-40bc-afcb-ced355b36e08
 featured_image: offthepressimages/new_resized_images/Literature.png
 ---
