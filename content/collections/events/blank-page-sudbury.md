@@ -1,28 +1,26 @@
 ---
 id: 46578f2b-d22b-4f9e-a201-837fb3667ee6
-published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated)'
+title: 'Blank Page - Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716994612
-latitude: '52.03576875968241'
-longitude: '0.7231630550633815'
-start_date: '2024-09-11 10:00'
+updated_at: 1720003814
+latitude: '52.038186464611634'
+longitude: '0.7299956222161745'
+start_date: '2024-07-22 10:00'
 event_categories:
-  - dance
-  - later-life
+  - art
+  - computing
 free: false
 virtual: false
 organisers:
-  - dance-east
-  - community-dance
-address_line_1: 'All Saints Church Hall'
-address_line_2: 'Church Street'
+  - suffolk-libraries
+address_line_1: 'Sudbury Library'
+address_line_2: 'Market Hill'
 town: Sudbury
-postcode: 'CO10 2BN'
-featured_image: offthepressimages/otpillustrations/DANCE_LATER.png
-attendance_information: '- Age 55+'
+postcode: 'CO10 2EN'
+featured_image: offthepressimages/new_resized_images/Teen.png
+attendance_information: '- Age 10 - 16'
 content_area:
   -
     type: heading
@@ -37,21 +35,33 @@ content_area:
     content:
       -
         type: text
-        text: 'The class aims to make dance and movement more accessible by pairing the activity with the chance to meet new people in a friendly and relaxed environment. Led by a team of professional dance artists, the Movers classes gives people the opportunity to socialise and get moving in a fun and relaxed environment.'
+        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Is this class for me?'
-      -
-        type: hardBreak
+        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
+        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Libraries website'
+      -
+        type: text
+        text: ' to find your nearest event.'
   -
     type: heading
     attrs:
@@ -65,32 +75,18 @@ content_area:
     content:
       -
         type: text
-        text: 'To find out more and book call Laura on '
+        text: 'Choose your workshop and book your place through the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07375 024115'
+              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: '07375 024115'
-      -
-        type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:community-dance@hotmail.com'
-              rel: null
-              target: null
-              title: null
-        text: community-dance@hotmail.com
+        text: 'Suffolk Libraries website'
       -
         type: text
         text: .
@@ -107,7 +103,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The All Saints Church Hall is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Sudbury Library is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
       -
         type: text
         marks:
@@ -127,7 +123,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury railway station is a 14 minute walk away and you can find times on the '
+        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
       -
         type: text
         marks:
@@ -147,18 +143,18 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest paid parking is a 12 minute walk away at '
+        text: 'The nearest paid parking is a seven minute walk away at'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://midsuffolk.gov.uk/web/babergh/w/north-street-car-park-1'
+              href: 'https://www.sudbury-tc.gov.uk/parking'
               rel: null
               target: _blank
               title: null
-        text: 'North Street Car Park'
+        text: ' Sudbury railway station'
       -
         type: text
         text: .
@@ -183,17 +179,19 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Community Dance
+  This event is organised by Suffolk Libraries
 
-  [community-dance@hotmail.com](mailto:community-dance@hotmail.com)
+  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
 
-  [07375024115](tel:07375024115)
+  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+
+  [01473 351249](tel:01473351249)
 accessibility_information: |-
-  - Autism friendly
   - Wheelchair access
   - Indoor venue
 cost_details: '£6 per session'
-end_date: '2024-09-11 11:30'
+end_date: '2024-08-12 15:30'
 duplicated_from: 0058a47c-04ea-466e-b9d7-50f9256b5673
+booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Sudbury.
+The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
