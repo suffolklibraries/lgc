@@ -1,14 +1,15 @@
 ---
 id: 1783b347-6f68-42d5-b676-64918ead3025
-published: false
 blueprint: events
-title: "Angie's Curious Creatures Presents: Snail Story, Craft & Handling Session! (Duplicated)"
+title: "Angie's Curious Creatures Presents: Dragon Story, Craft & Handling Session!"
 event_categories:
-  - music
+  - family-friendly
+  - nature
+  - art
 organisers:
   - east-point-pavilion
-start_date: '2024-08-01 11:00'
-end_date: '2024-08-01 12:00'
+start_date: '2024-08-22 11:00'
+end_date: '2024-08-22 12:00'
 free: false
 virtual: false
 accessibility_information: |-
@@ -36,14 +37,10 @@ content_area:
     content:
       -
         type: text
-        text: "Share an exciting story and take part in  fun snail-themed activities. You will even meet a real Giant African Land Snail! \_"
-      -
-        type: hardBreak
-      -
-        type: text
-        text: "\_"
-      -
-        type: hardBreak
+        text: "Share an exciting story & take part in some dragon themed activities. You will even get to meet a real bearded dragon!\_"
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'Children must remain supervised by an adult throughout the session. Some activities may take place outside in our garden during the session.'
@@ -60,18 +57,18 @@ content_area:
     content:
       -
         type: text
-        text: 'You can book your ticket via the '
+        text: 'You can book your ticket via the'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-snail-story-craft-handling-session/2024-08-01/d-wvolxysmzkmpp'
+              href: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-dragon-story-craft-handling-session/2024-08-22/d-lwlxykcvbzvgo'
               rel: null
               target: _blank
               title: null
-        text: 'Ticket Source website'
+        text: ' Ticket Source website'
       -
         type: text
         text: .
@@ -133,10 +130,11 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020657
+updated_at: 1720021131
 duplicated_from: 7d29d2c3-2566-4062-acee-0d59da13b071
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cost_details: '£3 per child'
-booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-snail-story-craft-handling-session/2024-08-01/d-wvolxysmzkmpp'
+booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-dragon-story-craft-handling-session/2024-08-22/d-lwlxykcvbzvgo'
+attendance_information: '- Ages 5+'
 ---
-Join animal expert Angie for this super snail-themed session.
+Join animal expert Angie for this super dragon-themed session.
