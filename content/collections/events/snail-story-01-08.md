@@ -3,7 +3,9 @@ id: 7d29d2c3-2566-4062-acee-0d59da13b071
 blueprint: events
 title: "Angie's Curious Creatures Presents: Snail Story, Craft & Handling Session!"
 event_categories:
-  - music
+  - literature
+  - art
+  - family-friendly
 organisers:
   - east-point-pavilion
 start_date: '2024-08-01 11:00'
@@ -132,7 +134,7 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020657
+updated_at: 1720021171
 duplicated_from: faab3f08-ebb8-43a6-bc4d-14eaa16c1759
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cost_details: '£3 per child'
