@@ -1,18 +1,17 @@
 ---
 id: f9bc0522-f54d-4fb6-a630-5e20863d4e46
-published: false
 blueprint: events
-title: 'Newmarket Summer Events (Duplicated)'
-start_date: '2024-07-25 13:00'
+title: 'Newmarket Summer Events'
+start_date: '2024-08-08 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719997801
+updated_at: 1719998270
 event_categories:
   - family-friendly
   - community
   - art
-end_date: '2024-07-25 16:00'
+end_date: '2024-08-08 16:00'
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
 latitude: '52.2424272793147'
 longitude: '0.40167340587404565'
