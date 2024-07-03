@@ -1,27 +1,26 @@
 ---
 id: 87970162-561d-4f88-914c-4e6ad3b7438e
-published: false
 blueprint: events
-title: 'Blank Page - Sudbury (Duplicated)'
+title: 'Blank Page - Great Cornard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720003814
-latitude: '52.038186464611634'
-longitude: '0.7299956222161745'
-start_date: '2024-07-22 10:00'
+updated_at: 1720004411
+latitude: '52.02573056378427'
+longitude: '0.7497339820400621'
+start_date: '2024-08-01 09:45'
 event_categories:
   - art
   - computing
-free: false
+free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Sudbury Library'
-address_line_2: 'Market Hill'
+address_line_1: 'Great Cornard Library'
+address_line_2: 'Head Lane, Great Cornard'
 town: Sudbury
-postcode: 'CO10 2EN'
+postcode: 'CO10 0JU'
 featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Age 10 - 16'
+attendance_information: '- Ages 10 - 16'
 content_area:
   -
     type: heading
@@ -104,18 +103,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Library is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Great Cornard Library is a minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
+              href: 'https://maps.app.goo.gl/QkNnVB8zNyDpBxhh8'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'nearest bus stop'
       -
         type: text
         text: .
@@ -124,7 +123,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
+        text: 'Sudbury railway station is the nearest station and is a half hour minute walk away and you can find times on the '
       -
         type: text
         marks:
@@ -136,26 +135,6 @@ content_area:
               target: _blank
               title: null
         text: 'Greater Anglia website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest paid parking is a seven minute walk away at'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.sudbury-tc.gov.uk/parking'
-              rel: null
-              target: _blank
-              title: null
-        text: ' Sudbury railway station'
       -
         type: text
         text: .
@@ -190,8 +169,7 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
-cost_details: '£6 per session'
-end_date: '2024-08-12 15:30'
+end_date: '2024-08-30 15:30'
 duplicated_from: 46578f2b-d22b-4f9e-a201-837fb3667ee6
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
