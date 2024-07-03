@@ -1,15 +1,13 @@
 ---
 id: e6b0883b-216c-4fdb-91f8-f5925d38410c
-published: false
 blueprint: events
-title: 'Natural Treasures with Suffolk Wildlife Trust (Duplicated)'
+title: 'National Play Day'
 event_categories:
-  - art
   - family-friendly
 organisers:
   - first-light-festival
-start_date: '2024-07-14 11:00'
-end_date: '2024-07-14 15:00'
+start_date: '2024-08-07 10:00'
+end_date: '2024-08-07 12:00'
 free: true
 virtual: false
 attendance_information: '- Family friendly'
@@ -38,7 +36,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore nature and make a ‘bird seed pocket’ of your design and fill it with seeds ready to feed the birds in your garden or local green space.'
+        text: 'Have fun with an exciting game of Jenga, a noisy round of Hungry Hippos, or a challenging game of chess.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Children must be accompanied by an adult.'
   -
     type: heading
     attrs:
@@ -52,7 +56,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop in any time between 11am – 3pm. No charge, though donations are welcome.'
+        text: 'Drop in any time between 10am - midday.'
   -
     type: heading
     attrs:
@@ -111,8 +115,8 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020654
+updated_at: 1720020750
 duplicated_from: f8da1904-4c77-45ea-b479-b6e78e1c8828
 featured_image: offthepressimages/new_resized_images/Nature.png
 ---
-Come and join Vicky from Suffolk Wildlife Trust to explore some natural treasures from the marshes along the Waveney Valley.
+Game on, it’s National Play Day!
