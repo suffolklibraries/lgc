@@ -1,25 +1,24 @@
 ---
 id: 2096b1c9-232f-461b-9e03-8308c4362cde
-published: false
 blueprint: events
-title: 'Newmarket Summer Events (Duplicated)'
-start_date: '2024-08-22 13:00'
+title: 'Newmarket Summer Events'
+start_date: '2024-08-01 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719998410
+updated_at: 1719998783
 event_categories:
   - family-friendly
   - community
   - art
-end_date: '2024-08-22 16:00'
+end_date: '2024-08-01 16:00'
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-latitude: '52.2424272793147'
-longitude: '0.40167340587404565'
-address_line_1: 'Memorial Gardens'
-address_line_2: 'High Street'
+latitude: '52.24688151681763'
+longitude: '0.40958618372251315'
+address_line_1: 'The Severals'
+address_line_2: 'Fordham Road'
 town: Newmarket
-postcode: 'CB8 8AW'
+postcode: 'CB8 7BP'
 content_area:
   -
     type: heading
@@ -34,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Free events with face painting, bouncy castle, magic show, arts and crafts and much, much more!'
+        text: 'Free events with a Rocket Drop, up close magic, climbing wall (1 Aug), RPM bike trial display (15 Aug), large fairground ride, and much, much more!'
   -
     type: paragraph
     content:
@@ -52,7 +51,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 25 July'
+                text: 'Thursday 1 August'
       -
         type: listItem
         content:
@@ -61,33 +60,24 @@ content_area:
             content:
               -
                 type: text
-                text: 'Thursday 8 August'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Thursday 22 August'
+                text: 'Thursday 15 August'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'These events are suitable for families with children aged 10 and under. For families with children aged over 10, check out '
+        text: 'These events are suitable for families with children aged 10 and under. For families with children aged under 10, check out the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.newmarket.gov.uk/event/newmarket-summer-events-the-severals/'
+              href: 'https://www.newmarket.gov.uk/event/newmarket-summer-events-memorial-gardens-3/'
               rel: null
               target: _blank
               title: null
-        text: 'the events at The Severals'
+        text: 'events at the Memorial Gardens'
       -
         type: text
         text: .
@@ -132,7 +122,7 @@ content_area:
         text: 'railway station'
       -
         type: text
-        text: ' is a 11 minute walk away, and the '
+        text: ' is a 16 minute walk away, and the '
       -
         type: text
         marks:
@@ -146,13 +136,13 @@ content_area:
         text: 'nearest bus station'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: ' is a seven minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are several nearby carparks, including '
+        text: 'There is onsite parking and several nearby carparks, including '
       -
         type: text
         marks:
@@ -164,20 +154,6 @@ content_area:
               target: _blank
               title: null
         text: 'The Guineas car park'
-      -
-        type: text
-        text: ' a seven minute walk away and '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/building/tattersalls-newmarket/?arriving=202407031030&leaving=202407031230'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Tattersalls car park'
       -
         type: text
         text: ' a six minute walk away.'
