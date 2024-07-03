@@ -1,12 +1,12 @@
 ---
 id: d86e613c-bb3f-43f6-8e21-d89aaaa0a638
 blueprint: events
-title: 'Newmarket Community Cinema - Yesterday (21A)'
+title: 'Newmarket Community Cinema - Yesterday (12A)'
 start_date: '2024-08-19 18:45'
 free: false
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719997003
+updated_at: 1719997056
 event_categories:
   - film
 end_date: '2024-08-19 20:00'
@@ -72,7 +72,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Monday19 August – Yesterday (12A)'
+                text: 'Monday 19 August – Yesterday (12A)'
       -
         type: listItem
         content:
