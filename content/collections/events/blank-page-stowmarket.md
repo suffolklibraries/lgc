@@ -4,7 +4,7 @@ blueprint: events
 title: 'Blank Page - Stowmarket'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720005981
+updated_at: 1720006489
 latitude: '52.187988733605216'
 longitude: '0.9971791124598641'
 start_date: '2024-07-31 09:45'
@@ -204,7 +204,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
   - SEND support available
-end_date: '2024-09-23 15:30'
+end_date: '2024-08-23 15:30'
 duplicated_from: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
