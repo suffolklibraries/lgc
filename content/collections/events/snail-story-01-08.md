@@ -126,11 +126,13 @@ content_area:
               title: null
         text: 'the Suffolk Onboard website.'
 cta: |-
-  [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
+  This event is organised by East Point Pavilion
 
-  [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
+  [https://www.eastpointpavilion.com/](https://www.eastpointpavilion.com/)
+
+  [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020284
+updated_at: 1720020657
 duplicated_from: faab3f08-ebb8-43a6-bc4d-14eaa16c1759
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cost_details: '£3 per child'
