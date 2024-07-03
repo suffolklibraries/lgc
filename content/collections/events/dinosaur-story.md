@@ -1,17 +1,16 @@
 ---
 id: 7e8a3af2-cd92-456d-99b2-0bf8e720cf11
-published: false
 blueprint: events
-title: "Angie's Curious Creatures Presents: Dragon Story, Craft & Handling Session! (Duplicated)"
+title: 'Dinosaur Story & Fun'
 event_categories:
   - family-friendly
-  - nature
   - art
+  - literature
 organisers:
   - east-point-pavilion
-start_date: '2024-08-22 11:00'
-end_date: '2024-08-22 12:00'
-free: false
+start_date: '2024-08-28 16:00'
+end_date: '2024-08-28 17:30'
+free: true
 virtual: false
 accessibility_information: |-
   - Wheelchair access
@@ -38,13 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: "Share an exciting story & take part in some dragon themed activities. You will even get to meet a real bearded dragon!\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Children must remain supervised by an adult throughout the session. Some activities may take place outside in our garden during the session.'
+        text: 'Join us for a dino-tastic story & roar-some dinosaur-themed activities.'
   -
     type: heading
     attrs:
@@ -58,21 +51,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You can book your ticket via the'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-dragon-story-craft-handling-session/2024-08-22/d-lwlxykcvbzvgo'
-              rel: null
-              target: _blank
-              title: null
-        text: ' Ticket Source website'
-      -
-        type: text
-        text: .
+        text: 'No booking required.'
   -
     type: heading
     attrs:
@@ -131,11 +110,8 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720021131
+updated_at: 1720021257
 duplicated_from: 1783b347-6f68-42d5-b676-64918ead3025
-featured_image: offthepressimages/new_resized_images/VisualArts.png
-cost_details: '£3 per child'
-booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-dragon-story-craft-handling-session/2024-08-22/d-lwlxykcvbzvgo'
-attendance_information: '- Ages 5+'
+featured_image: offthepressimages/new_resized_images/Literature.png
 ---
-Join animal expert Angie for this super dragon-themed session.
+Join us for a story
