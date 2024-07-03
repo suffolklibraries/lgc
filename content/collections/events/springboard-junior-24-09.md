@@ -1,14 +1,13 @@
 ---
 id: 846b10a3-d238-4ae0-ad38-21120154bcab
-published: false
 blueprint: events
-title: 'Springboard for Adults (Duplicated)'
+title: 'Springboard Juniors'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720017013
+updated_at: 1720017267
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-12-03 17:30'
+start_date: '2024-09-24 16:45'
 event_categories:
   - dance
 free: true
@@ -34,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The classes offer a safe and welcoming space, that includes creativity, movement games, sensory props and structured exercises and routines.'
+        text: 'The class uses dance as a tool to develop motor skills and creativity through movement games, sensory props and structured exercises and routines.'
   -
     type: paragraph
     content:
@@ -46,13 +45,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside people with additional needs.'
+        text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside children and young people with additional needs.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'From these classes, you can expect:'
+        text: 'From these classes you can expect:'
   -
     type: bulletList
     content:
@@ -100,7 +99,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'A safe welcoming environment'
+                text: 'A safe, welcoming environment'
       -
         type: listItem
         content:
@@ -109,16 +108,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'To explore using dance props'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Learn dance routines'
+                text: 'To explore dance and movement using props'
   -
     type: heading
     attrs:
@@ -127,6 +117,26 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The age guidance for this class is 4 to 11 years (4 year olds should be attending school and turning 5 within the current academic year). If your child is over 11 but you think they would benefit from attending this class, please feel free to call our friendly sales team for a chat on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473295230'
+              rel: null
+              target: null
+              title: null
+        text: '01473 295230'
+      -
+        type: text
+        text: '. If you are unsure whether the class is right for your child, you are welcome to book a taster session by contacting our sales team.'
   -
     type: paragraph
     content:
@@ -141,7 +151,7 @@ content_area:
         text: or
       -
         type: text
-        text: ' by booking a full-term course (with the option to pay in half termly instalments). For more information, please call our sales team on '
+        text: ' by booking a full-term course (with the option to pay in half termly installments). For more information, please call our sales team on '
       -
         type: text
         marks:
@@ -161,13 +171,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Bookings will close each week on a Friday at midday. This is to allow us enough time to send out the required forms for you to complete so that we have all the necessary information to share with the tutor before you participate in the class. If you are already an existing participant, you can still book on after this time by calling our sales team.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you are unsure about coming along, you are welcome to book a taster session by getting in touch.'
+        text: 'Bookings will close each week on a Friday at midday. This is to allow us enough time to send out the required forms for you to complete so that we have all the necessary information about your child to share with the tutor before they participate in the class. If you are already an existing participant, you can still book on after this time by calling our sales team.'
   -
     type: paragraph
   -
@@ -313,9 +317,9 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-12-03 18:30'
-attendance_information: '- Adults with additional needs'
+end_date: '2024-09-24 17:30'
+attendance_information: '- Children aged 4 to 11 years with additional needs'
 duplicated_from: 432b1c4f-4f74-41a1-ab27-eef4d0beff8f
-cost_details: '£6 per workshop or pay as you can'
+cost_details: '£5 per workshop or pay as you can'
 ---
-Our fun, friendly and inclusive Springboard classes give adults with additional needs the opportunity to move and explore, using dance as a tool to develop skills.
+Springboard Juniors is a fun, friendly and inclusive class for children and young people with additional needs, where they can move and explore their creativity in a safe and welcoming space.
