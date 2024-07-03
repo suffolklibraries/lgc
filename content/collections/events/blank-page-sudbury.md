@@ -4,14 +4,14 @@ blueprint: events
 title: 'Blank Page - Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720003814
+updated_at: 1720003940
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
 start_date: '2024-07-22 10:00'
 event_categories:
   - art
   - computing
-free: false
+free: true
 virtual: false
 organisers:
   - suffolk-libraries
@@ -20,7 +20,7 @@ address_line_2: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EN'
 featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Age 10 - 16'
+attendance_information: '- Ages 10 - 16'
 content_area:
   -
     type: heading
@@ -189,7 +189,6 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
-cost_details: '£6 per session'
 end_date: '2024-08-12 15:30'
 duplicated_from: 0058a47c-04ea-466e-b9d7-50f9256b5673
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
