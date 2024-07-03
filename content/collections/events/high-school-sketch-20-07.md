@@ -1,13 +1,12 @@
 ---
 id: d3e55521-e40e-4484-8d69-f0f5f755f624
-published: false
 blueprint: events
-title: 'High School Sketchbook Club (Duplicated)'
+title: 'High School Sketchbook Club'
 event_categories:
   - art
 organisers:
   - rock-paper-scissors
-start_date: '2024-07-13 12:00'
+start_date: '2024-07-20 12:00'
 free: false
 virtual: false
 content_area:
@@ -130,9 +129,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720010226
+updated_at: 1720010279
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-end_date: '2024-07-13 13:30'
+end_date: '2024-07-20 13:30'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
