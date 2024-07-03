@@ -1,14 +1,13 @@
 ---
 id: b8316009-658e-46f5-a9a6-7e05f53e22b7
-published: false
 blueprint: events
-title: 'Baby Loves to Boogie (Duplicated)'
+title: 'Baby Loves to Boogie'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720019261
+updated_at: 1720019315
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-10 10:30'
+start_date: '2024-11-10 13:30'
 event_categories:
   - dance
   - early-years
@@ -227,7 +226,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-10 12:30'
+end_date: '2024-11-10 15:30'
 attendance_information: '- Suitable for ages 0-5 and their adults'
 duplicated_from: 802bf011-3924-43ee-9ada-e5757eb5ce73
 cost_details: '0-12 months free, 1-5 years £4, adult £6'
