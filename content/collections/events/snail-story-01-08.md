@@ -1,15 +1,14 @@
 ---
 id: 7d29d2c3-2566-4062-acee-0d59da13b071
-published: false
 blueprint: events
-title: 'Live Music - Ben Wragg (Duplicated)'
+title: "Angie's Curious Creatures Presents: Snail Story, Craft & Handling Session!"
 event_categories:
   - music
 organisers:
   - east-point-pavilion
-start_date: '2024-07-20 19:30'
-end_date: '2024-07-20 21:30'
-free: true
+start_date: '2024-08-01 11:00'
+end_date: '2024-08-01 12:00'
+free: false
 virtual: false
 accessibility_information: |-
   - Wheelchair access
@@ -36,34 +35,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Ben is an aspiring artist from Suffolk. He started making music at a young age and he released his first single ‘'
+        text: "Share an exciting story and take part in  fun snail-themed activities. You will even meet a real Giant African Land Snail! \_"
+      -
+        type: hardBreak
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: 'Telephone Talk'
+        text: "\_"
+      -
+        type: hardBreak
       -
         type: text
-        text: '’ in late August 2023. Since then, he has released a 6 song EP titled ‘'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Nighttime Nostalgia’'
-      -
-        type: text
-        text: ' and a single called ‘'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Motel’
-      -
-        type: text
-        text: '. He takes great inspiration from artists such as Dominic Fike, Bakar and Declan McKenna.'
+        text: 'Children must remain supervised by an adult throughout the session. Some activities may take place outside in our garden during the session.'
   -
     type: heading
     attrs:
@@ -77,7 +59,21 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is unticketed and free to attend.'
+        text: 'You can book your ticket via the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-snail-story-craft-handling-session/2024-08-01/d-wvolxysmzkmpp'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Ticket Source website'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -134,8 +130,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020058
+updated_at: 1720020220
 duplicated_from: faab3f08-ebb8-43a6-bc4d-14eaa16c1759
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+featured_image: offthepressimages/new_resized_images/VisualArts.png
+cost_details: '£3 per child'
+booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-snail-story-craft-handling-session/2024-08-01/d-wvolxysmzkmpp'
 ---
-Fresh from his performance at this year’s First Light Festival, Ben Wegg returns to East Point Pavilion.
+Join animal expert Angie for this super snail-themed session.
