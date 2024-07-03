@@ -6,7 +6,7 @@ start_date: '2024-07-15 18:45'
 free: false
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719996682
+updated_at: 1719996997
 event_categories:
   - film
 end_date: '2024-07-15 20:00'
@@ -55,7 +55,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Monday, July 15th – The Boat That Rocked (15)'
+                text: 'Monday 15 July – The Boat That Rocked (15)'
       -
         type: listItem
         content:
@@ -64,7 +64,15 @@ content_area:
             content:
               -
                 type: text
-                text: 'Monday, August 19th – Yesterday (12A)'
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/community-cinema-19-08'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Monday19 August – Yesterday (12A)'
       -
         type: listItem
         content:
@@ -73,7 +81,15 @@ content_area:
             content:
               -
                 type: text
-                text: 'Monday, September 16th – The Miracle Club (12A)'
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/community-cinema-16-09'
+                      rel: null
+                      target: _blank
+                      title: null
+                text: 'Monday 16 September – The Miracle Club (12A)'
   -
     type: paragraph
   -
