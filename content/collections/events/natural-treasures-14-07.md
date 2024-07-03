@@ -104,11 +104,13 @@ content_area:
               title: null
         text: 'the Suffolk Onboard website.'
 cta: |-
-  [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
+  This event is organised by East Point Pavilion
 
-  [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
+  [https://www.eastpointpavilion.com/](https://www.eastpointpavilion.com/)
+
+  [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720019946
+updated_at: 1720020654
 duplicated_from: b4cd61f7-4630-45b8-bf95-b535a551a085
 featured_image: offthepressimages/new_resized_images/Nature.png
 ---
