@@ -4,7 +4,7 @@ blueprint: events
 title: 'Blank Page - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720007709
+updated_at: 1720008263
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
 start_date: '2024-07-26 09:45'
@@ -118,7 +118,7 @@ content_area:
         text: 'closest bus stop '
       -
         type: text
-        text: 'is a minute away, and you can find the latest bus timetables on the '
+        text: "is a minute's walk away, and you can find the latest bus timetables on the "
       -
         type: text
         marks:
