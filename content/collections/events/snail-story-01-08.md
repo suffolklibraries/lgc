@@ -130,7 +130,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020220
+updated_at: 1720020284
 duplicated_from: faab3f08-ebb8-43a6-bc4d-14eaa16c1759
 featured_image: offthepressimages/new_resized_images/VisualArts.png
 cost_details: '£3 per child'
