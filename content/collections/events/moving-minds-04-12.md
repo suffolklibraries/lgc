@@ -1,14 +1,13 @@
 ---
 id: d25ede45-9498-40b1-b47a-a68dcb62d8b3
-published: false
 blueprint: events
-title: 'Moving Minds (Duplicated)'
+title: 'Moving Minds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720018364
+updated_at: 1720018393
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-27 10:00'
+start_date: '2024-12-04 10:00'
 event_categories:
   - dance
 free: true
@@ -262,7 +261,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-27 11:45'
+end_date: '2024-12-04 11:45'
 attendance_information: '- All welcome'
 duplicated_from: dc750720-aa3f-4829-85e5-69bf3718c799
 cost_details: 'Donations welcome'
