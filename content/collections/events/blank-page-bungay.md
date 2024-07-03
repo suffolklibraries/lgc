@@ -1,14 +1,13 @@
 ---
 id: 95c79c24-1d15-44d6-81e7-9875b86a7e4b
-published: false
 blueprint: events
-title: 'Blank Page - Great Cornard (Duplicated)'
+title: 'Blank Page - Bungay'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720004411
-latitude: '52.02573056378427'
-longitude: '0.7497339820400621'
-start_date: '2024-08-01 09:45'
+updated_at: 1720004858
+latitude: '52.45422020110651'
+longitude: '1.439834952954272'
+start_date: '2024-07-25 09:45'
 event_categories:
   - art
   - computing
@@ -16,10 +15,10 @@ free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Great Cornard Library'
-address_line_2: 'Head Lane, Great Cornard'
-town: Sudbury
-postcode: 'CO10 0JU'
+address_line_1: 'Bungay Libary'
+address_line_2: 'Wharton Street'
+town: Bungay
+postcode: 'NR35 1EL'
 featured_image: offthepressimages/new_resized_images/Teen.png
 attendance_information: '- Ages 10 - 16'
 content_area:
@@ -104,14 +103,14 @@ content_area:
     content:
       -
         type: text
-        text: 'Great Cornard Library is a minute walk from the '
+        text: 'Bungay Library is a four minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://maps.app.goo.gl/QkNnVB8zNyDpBxhh8'
+              href: 'https://www.google.com/maps/place/Wingfield+Street/@52.4533183,1.4374242,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9f172009197c5:0x993943c81f1c157e!2sBungay+Community+Library,+Wharton+Street,+Bungay!2m2!1d1.4398431!2d52.4540823!1m6!1m2!1s0x47d9f16e1796f271:0xa591536df8fa9643!2sWingfield+Street,+Bungay+NR35+1BY!2m2!1d1.440778!2d52.45256!3e2!3m5!1s0x47d9f16e1796f271:0xa591536df8fa9643!8m2!3d52.45256!4d1.440778!16s%2Fg%2F1q67rjjml?entry=ttu'
               rel: null
               target: _blank
               title: null
@@ -124,21 +123,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury railway station is the nearest station and is a half hour minute walk away and you can find times on the '
+        text: 'The nearest parking is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
+              href: 'https://www.apcoa.co.uk/parking-in/bungay/wharton-street-bungay/'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: 'Wharton Street car park'
       -
         type: text
-        text: .
+        text: " and it is a minute's walk away."
   -
     type: paragraph
     content:
@@ -170,7 +169,8 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
-end_date: '2024-08-30 15:30'
+  - SEND support available
+end_date: '2024-08-22 15:30'
 duplicated_from: 87970162-561d-4f88-914c-4e6ad3b7438e
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
