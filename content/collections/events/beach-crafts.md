@@ -1,15 +1,15 @@
 ---
 id: cfad7014-d2ee-4283-a7e5-8228bcacade8
-published: false
 blueprint: events
-title: 'Natural Treasures with Suffolk Wildlife Trust (Duplicated)'
+title: 'Beach Crafts'
 event_categories:
   - art
   - family-friendly
+  - nature
 organisers:
   - first-light-festival
-start_date: '2024-07-14 11:00'
-end_date: '2024-07-14 15:00'
+start_date: '2024-08-29 11:00'
+end_date: '2024-08-29 12:00'
 free: true
 virtual: false
 attendance_information: '- Family friendly'
@@ -38,7 +38,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore nature and make a ‘bird seed pocket’ of your design and fill it with seeds ready to feed the birds in your garden or local green space.'
+        text: 'Amelia Thorogood, Suffolk Beach Clean’s ‘Chief Womble’, will be joining us to create seaside crafts and chat with the children about how we can keep our beaches clean and safe for wildlife.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Megan-Layla Artistry will be here too!\_ Face painting, henna,\_ glitter tattoos & glitter hair. "
+      -
+        type: hardBreak
+      -
+        type: text
+        text: "(Prices for these vary. A discount code can be found on her Facebook page!\_)"
   -
     type: heading
     attrs:
@@ -52,7 +63,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop in any time between 11am – 3pm. No charge, though donations are welcome.'
+        text: "No booking required. Some activities may require a small fee whilst others will be free.\_"
   -
     type: heading
     attrs:
@@ -111,8 +122,8 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020654
+updated_at: 1720021391
 duplicated_from: f8da1904-4c77-45ea-b479-b6e78e1c8828
-featured_image: offthepressimages/new_resized_images/Nature.png
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 ---
-Come and join Vicky from Suffolk Wildlife Trust to explore some natural treasures from the marshes along the Waveney Valley.
+Come along to learn more about your local beaches!
