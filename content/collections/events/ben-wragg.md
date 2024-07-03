@@ -1,18 +1,15 @@
 ---
 id: faab3f08-ebb8-43a6-bc4d-14eaa16c1759
-published: false
 blueprint: events
-title: 'Natural Treasures with Suffolk Wildlife Trust (Duplicated)'
+title: 'Live Music - Ben Wragg'
 event_categories:
-  - art
-  - family-friendly
+  - music
 organisers:
-  - first-light-festival
-start_date: '2024-07-14 11:00'
-end_date: '2024-07-14 15:00'
+  - east-point-pavilion
+start_date: '2024-07-20 19:30'
+end_date: '2024-07-20 21:30'
 free: true
 virtual: false
-attendance_information: '- Family friendly'
 accessibility_information: |-
   - Wheelchair access
   - Hearing loop available
@@ -38,7 +35,34 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore nature and make a ‘bird seed pocket’ of your design and fill it with seeds ready to feed the birds in your garden or local green space.'
+        text: 'Ben is an aspiring artist from Suffolk. He started making music at a young age and he released his first single ‘'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Telephone Talk'
+      -
+        type: text
+        text: '’ in late August 2023. Since then, he has released a 6 song EP titled ‘'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Nighttime Nostalgia’'
+      -
+        type: text
+        text: ' and a single called ‘'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Motel’
+      -
+        type: text
+        text: '. He takes great inspiration from artists such as Dominic Fike, Bakar and Declan McKenna.'
   -
     type: heading
     attrs:
@@ -52,7 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop in any time between 11am – 3pm. No charge, though donations are welcome.'
+        text: 'This event is unticketed and free to attend.'
   -
     type: heading
     attrs:
@@ -109,8 +133,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720019946
+updated_at: 1720020058
 duplicated_from: f8da1904-4c77-45ea-b479-b6e78e1c8828
-featured_image: offthepressimages/new_resized_images/Nature.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 ---
-Come and join Vicky from Suffolk Wildlife Trust to explore some natural treasures from the marshes along the Waveney Valley.
+Fresh from his performance at this year’s First Light Festival, Ben Wegg returns to East Point Pavilion.
