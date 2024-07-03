@@ -1,14 +1,13 @@
 ---
 id: 8fd66c21-b616-4ef9-b4c4-848705fb8696
-published: false
 blueprint: events
-title: 'Blank Page - Halesworth (Duplicated)'
+title: 'Blank Page - Bury St Edmunds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720008156
-latitude: '52.34518367493906'
-longitude: '1.5019647124699333'
-start_date: '2024-08-02 09:45'
+updated_at: 1720008427
+latitude: '52.248150770555625'
+longitude: '0.7114614702830845'
+start_date: '2024-07-30 09:45'
 event_categories:
   - art
   - computing
@@ -17,10 +16,10 @@ free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Halesworth Library'
-address_line_2: 'Bridge Street'
-town: Halesworth
-postcode: 'IP19 8AD'
+address_line_1: 'Bury St Edmunds Library'
+address_line_2: "2B St Andrew's Street North"
+town: 'Bury Saint Edmunds'
+postcode: 'IP33 1TZ'
 featured_image: offthepressimages/new_resized_images/Teen.png
 attendance_information: '- Ages 10 - 16'
 content_area:
@@ -105,68 +104,28 @@ content_area:
     content:
       -
         type: text
-        text: The
+        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Halesworth+Library,+Bridge+Street,+Halesworth/Car+Park,+Halesworth+IP19+8BF/@52.3449212,1.5000528,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2m2!1d1.5019204!2d52.3450274!1m5!1m1!1s0x47d98b31303c7f8f:0xbf54f01bf856cf9f!2m2!1d1.5032912!2d52.3445208!3e2?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: ' closest bus stop '
-      -
-        type: text
-        text: 'is a two minute walk away, and you can find the latest bus timetables on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
               rel: null
               target: _blank
               title: null
         text: 'Suffolk Onboard website'
       -
         type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest car park is '
+        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Halesworth+Thoroughfare+Car+Park/@52.3445643,1.5001719,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2sHalesworth+Library,+Bridge+Street,+Halesworth!2m2!1d1.5019204!2d52.3450274!1m6!1m2!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!2sHalesworth+Thoroughfare+Car+Park,+Thoroughfare,+Halesworth+IP19+8AH!2m2!1d1.5028642!2d52.344223!3e2!3m5!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!8m2!3d52.344223!4d1.5028642!16s%2Fg%2F11d_8gq5bl?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Thoroughfare car park'
-      -
-        type: text
-        text: ' and is a two minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Halesworth Railway Station is a six minute walk away and can find train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/has'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
               rel: null
               target: _blank
               title: null
@@ -174,6 +133,60 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is car parking at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Arc shopping centre'
+      -
+        type: text
+        text: ', which a six minute walk away from the library, and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'St Andrews Flexi-Stay car park'
+      -
+        type: text
+        text: ', which is a five minute walk.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for Bury St Edmunds Library on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
+              rel: null
+              target: _blank
+              title: null
+        text: AccessAble
+      -
+        type: text
+        text: '. '
   -
     type: paragraph
     content:
@@ -206,7 +219,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
   - SEND support available
-end_date: '2024-08-30 15:30'
+end_date: '2024-08-16 15:30'
 duplicated_from: 5cdf968a-f57a-4107-a858-5dc390909048
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
