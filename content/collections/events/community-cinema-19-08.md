@@ -6,7 +6,7 @@ start_date: '2024-08-19 18:45'
 free: false
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719996839
+updated_at: 1719997003
 event_categories:
   - film
 end_date: '2024-08-19 20:00'
@@ -81,6 +81,14 @@ content_area:
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/community-cinema-16-09'
+                      rel: null
+                      target: _blank
+                      title: null
                 text: 'Monday 16 September – The Miracle Club (12A)'
   -
     type: paragraph
