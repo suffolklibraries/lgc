@@ -6,7 +6,7 @@ start_date: '2024-08-01 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719998783
+updated_at: 1719998871
 event_categories:
   - family-friendly
   - community
@@ -60,6 +60,14 @@ content_area:
             content:
               -
                 type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'https://getcreative.suffolklibraries.co.uk/things-to-do/newmarket-summer-15-08'
+                      rel: null
+                      target: _blank
+                      title: null
                 text: 'Thursday 15 August'
   -
     type: paragraph
