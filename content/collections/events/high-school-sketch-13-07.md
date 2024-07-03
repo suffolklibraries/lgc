@@ -1,14 +1,13 @@
 ---
 id: 0ac5f987-caa5-4fb3-9481-cbdb04b7f1fe
-published: false
 blueprint: events
-title: 'Rock Paper Grow - Family Open Studio (Duplicated)'
+title: 'High School Sketchbook Club'
 event_categories:
-  - nature
+  - art
 organisers:
   - rock-paper-scissors
-start_date: '2024-07-07 10:00'
-free: true
+start_date: '2024-07-13 12:00'
+free: false
 virtual: false
 content_area:
   -
@@ -24,14 +23,15 @@ content_area:
     content:
       -
         type: text
-        text: 'A free open studio family session, with nature activities, help grow our urban garden and take part in lots of fun creative activities!'
-      -
-        type: hardBreak
+        text: 'We have an open studio feel with creative prompts and access to materials and processes to illustrate, print make and create however you like.'
+  -
+    type: paragraph
+    content:
       -
         type: hardBreak
       -
         type: text
-        text: 'Refreshments are included.'
+        text: 'Bring your own sketchbook or project or come ready to get inspired!'
       -
         type: hardBreak
   -
@@ -129,9 +129,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714402920
-featured_image: rockpaperscissorsimages/rock-paper-grow---ipswich.jpg
-end_date: '2024-07-07 12:00'
+updated_at: 1720010226
+featured_image: offthepressimages/new_resized_images/VisualArts.png
+end_date: '2024-07-13 13:30'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: 'Dove Street Studio'
@@ -140,7 +140,8 @@ town: Ipswich
 postcode: 'IP4 1NG'
 duplicated_from: 5ae1e274-82fb-4909-91dd-9e6012de0309
 accessibility_information: '- The studio is accessible by a narrow staircase'
-attendance_information: '- Family friendly'
-booking_link: 'https://app.acuityscheduling.com/schedule/6d59fee7/?appointmentTypeIds[]=62445892'
+attendance_information: '- 11 - 18 year olds'
+booking_link: 'https://www.rockpaperscissors.org.uk/programme'
+cost_details: '£7 per person'
 ---
-Help us grow our urban garden!
+A weekly sketchbook club for 11-18 year olds in our Dove Street Studio.
