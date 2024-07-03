@@ -1,14 +1,13 @@
 ---
 id: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
-published: false
 blueprint: events
-title: 'Blank Page - Chantry (Duplicated)'
+title: 'Blank Page - Gainsborough'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720007121
-latitude: '52.04421576122085'
-longitude: '1.1204861971073565'
-start_date: '2024-07-22 09:45'
+updated_at: 1720007332
+latitude: '52.034417883929024'
+longitude: '1.1827043375840662'
+start_date: '2024-08-01 09:45'
 event_categories:
   - art
   - computing
@@ -17,10 +16,10 @@ free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Chantry Library'
-address_line_2: 'Hawthorn Drive'
+address_line_1: 'Gainsborough Library'
+address_line_2: 'Clapgate Lane'
 town: Ipswich
-postcode: 'IP2 0QY'
+postcode: 'IP3 0RL'
 featured_image: offthepressimages/new_resized_images/Teen.png
 attendance_information: '- Ages 10 - 16'
 content_area:
@@ -105,21 +104,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Chantry Library has on site car parking and the nearest'
+        text: 'Gainsborough Library has on site car parking and the nearest'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Chantry+Library,+Hawthorn+Drive,+Ipswich/Gannet+Road,+Ipswich+IP2+0RG/@52.0445697,1.1176758,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a05ba53ec9f9:0xf529ee657a4c5fa4!2m2!1d1.1204446!2d52.0441147!1m5!1m1!1s0x47d9a05bb691000f:0xabfcf2882ebddfdb!2m2!1d1.120213!2d52.044983!3e2?entry=ttu'
+              href: 'https://www.google.com/maps/place/Cotman+Road/@52.0347317,1.1796921,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99fea5af611b5:0x4718b94a3008c570!2sGainsborough+Community+Library,+Clapgate+Ln,+Ipswich+IP3+0RL!2m2!1d1.1827311!2d52.0342691!1m6!1m2!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!2sCotman+Road,+Ipswich+IP3+0RG!2m2!1d1.181868!2d52.035336!3e2!3m5!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!8m2!3d52.035336!4d1.181868!16s%2Fg%2F1q67rd9sc?entry=ttu'
               rel: null
               target: _blank
               title: null
         text: ' bus stop'
       -
         type: text
-        text: " is a minute's walk away."
+        text: ' is a two minute walk away.'
   -
     type: paragraph
     content:
@@ -152,7 +151,7 @@ accessibility_information: |-
   - Wheelchair access
   - Indoor venue
   - SEND support available
-end_date: '2024-08-15 15:30'
+end_date: '2024-08-30 15:30'
 duplicated_from: f710d11e-c6d2-4c35-ab0f-c8e01ea70965
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
