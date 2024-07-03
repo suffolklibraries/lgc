@@ -1,14 +1,13 @@
 ---
 id: 4ef613f7-efd7-49c9-9511-4fe0fdfc8527
-published: false
 blueprint: events
-title: 'Springboard for Adults (Duplicated)'
+title: 'Moving Minds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720016885
+updated_at: 1720018032
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-05 17:30'
+start_date: '2024-09-25 10:00'
 event_categories:
   - dance
 free: true
@@ -34,91 +33,45 @@ content_area:
     content:
       -
         type: text
-        text: 'The classes offer a safe and welcoming space, that includes creativity, movement games, sensory props and structured exercises and routines.'
+        text: 'Run in association with '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.insideoutcommunity.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Inside Out'
+      -
+        type: text
+        text: ', Moving Minds is open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'All classes are designed to encourage self-expression, build confidence, and develop social skills.'
+        text: 'Suitable for beginners and improvers alike, the sessions aim to inspire members to move more freely, rhythmically, and expressively, both individually and with others in the group.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside people with additional needs.'
+        text: 'The sessions are led by Samantha Moss, an experienced DanceEast dance artist.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'From these classes, you can expect:'
+        text: 'We aim to create a safe and supportive space to give members the freedom to express themselves while having fun. There is no pressure on anyone to ‘perform’, with members encouraged to progress at their own pace and physical ability.'
   -
-    type: bulletList
+    type: paragraph
     content:
       -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A place to express yourself'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'To learn new skills'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A social space'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A positive impact on your body and mind'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'A safe welcoming environment'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'To explore using dance props'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Learn dance routines'
+        type: text
+        text: 'The session will start at 10.30am and end at 11.45am. Participants are welcome to arrive from 10am for refreshments and conversation. There will also be time for questions at the end of the session. '
   -
     type: heading
     attrs:
@@ -132,27 +85,32 @@ content_area:
     content:
       -
         type: text
-        text: 'Springboard classes are offered as Pay As You Go '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: or
-      -
-        type: text
-        text: ' by booking a full-term course (with the option to pay in half termly instalments). For more information, please call our sales team on '
+        text: "For more information or to book a place, email\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473 295230'
+              href: 'mailto:hello@insideoutcommunity.com'
               rel: null
               target: null
               title: null
-        text: '01473 295230'
+        text: hello@insideoutcommunity.com
+      -
+        type: text
+        text: "\_or telephone "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: '01473563900'
+              rel: null
+              target: _blank
+              title: null
+        text: '01473 563900'
       -
         type: text
         text: .
@@ -161,15 +119,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Bookings will close each week on a Friday at midday. This is to allow us enough time to send out the required forms for you to complete so that we have all the necessary information to share with the tutor before you participate in the class. If you are already an existing participant, you can still book on after this time by calling our sales team.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you are unsure about coming along, you are welcome to book a taster session by getting in touch.'
-  -
-    type: paragraph
+        text: 'Parental consent is required for participants under 18 years of age.'
   -
     type: heading
     attrs:
@@ -262,8 +212,6 @@ content_area:
               rel: null
               target: null
               title: null
-          -
-            type: bold
         text: www.en.parkopedia.com
       -
         type: text
@@ -313,9 +261,9 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-05 18:30'
-attendance_information: '- Adults with additional needs'
+end_date: '2024-09-25 11:45'
+attendance_information: '- All welcome'
 duplicated_from: 2a6e541d-f081-4760-b5a9-312fdc7f9066
-cost_details: '£6 per workshop or pay as you can'
+cost_details: 'Donations welcome'
 ---
-Our fun, friendly and inclusive Springboard classes give adults with additional needs the opportunity to move and explore, using dance as a tool to develop skills.
+Run in association with Inside Out, Moving Minds is open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.
