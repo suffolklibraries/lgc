@@ -1,5 +1,6 @@
 ---
 id: 5afe0267-5c15-4dff-b4f0-6ae46209f667
+published: false
 blueprint: events
 title: 'Landscapes In Mixed Media Exhibition'
 event_categories:
