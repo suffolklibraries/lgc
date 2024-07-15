@@ -1,19 +1,18 @@
 ---
 id: d812eb55-bf06-45ae-bf20-49bb11f5ab09
-published: false
 blueprint: events
-title: 'Clay Faces Workshop (Duplicated)'
+title: 'Powerful Portraits Workshops'
 event_categories:
   - museums
   - art
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/clay-faces.png
-start_date: '2024-07-31 10:30'
-end_date: '2024-07-31 16:00'
+featured_image: ipswichmuseums/powerful-portraits-1.png
+start_date: '2024-07-24 10:30'
+end_date: '2024-07-24 16:00'
 free: false
 virtual: false
-attendance_information: '- Suitable for ages 5+'
+attendance_information: '- Suitable for ages 7+'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -34,13 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Take inspiration from our portrait photography exhibition – An Eye For Life: Photography by John Ferguson – and the portraits in the Mansion.'
+        text: 'Join our workshop to hone your drawing skills and uncover the secrets of portraiture. Be inspired by the Mansion’s paintings and our new exhibition, An Eye for Life: Photography by John Ferguson, to create your cartoon selfie. Infuse your portraits with personal significance and hidden narratives.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Suitable for ages 5+. Younger children are welcome but may not be able to fully take part in the session. Parents/carers must remain with their children throughout.'
+        text: 'Don’t miss this chance to unleash your creativity and refine your artistry.'
   -
     type: heading
     attrs:
@@ -49,6 +48,12 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: ' This workshop is suitable for ages 7+. Younger children are welcome but may not be able to fully participate in the session. Parents/carers must remain with their children throughout.'
   -
     type: paragraph
     content:
@@ -67,7 +72,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://ipswichtheatres.co.uk/whats-on/clay-faces-workshop/'
+              href: 'https://ipswichtheatres.co.uk/whats-on/powerful-portraits-workshop/'
               rel: null
               target: _blank
               title: null
@@ -141,10 +146,10 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721059841
+updated_at: 1721060086
 duplicated_from: 6d91aa29-5038-42d4-b686-00e1443bae4d
 cost_details: '£5 per child'
 accessibility_information: '- wheel-chair accessible'
-booking_link: 'https://ipswichtheatres.co.uk/whats-on/clay-faces-workshop/'
+booking_link: 'https://ipswichtheatres.co.uk/whats-on/powerful-portraits-workshop/'
 ---
-Come to this wonderful, fun, relaxing workshop and create your own natural clay face mask from scratch.
+Explore your artistic side and create your own ‘powerful portrait’!
