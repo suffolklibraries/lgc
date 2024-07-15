@@ -1,5 +1,6 @@
 ---
 id: 9b939111-b136-411f-87c0-0a65bdeb6eda
+published: false
 blueprint: events
 title: 'Play Space'
 event_categories:
