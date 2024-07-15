@@ -1,5 +1,6 @@
 ---
 id: df3012fb-f1d0-4e88-abaf-8085807ede84
+published: false
 blueprint: events
 title: 'Mosaics at Stowmarket Friends Around the Table Craft Group'
 organisers:
