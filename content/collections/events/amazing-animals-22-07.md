@@ -1,17 +1,15 @@
 ---
 id: 5e9729c7-078c-498b-ae91-c1b06d9a847a
-published: false
 blueprint: events
-title: 'Woolly’s Summer Holiday Trail (Duplicated)'
+title: 'Amazing Animals'
 event_categories:
   - museums
-  - art
-  - early-years
+  - nature
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg
-start_date: '2024-07-20 10:00'
-end_date: '2024-09-01 16:00'
+featured_image: ipswichmuseums/our-animal-world-1-1.jpg
+start_date: '2024-07-22 10:30'
+end_date: '2024-07-22 16:00'
 free: false
 virtual: false
 attendance_information: '- Suitable for ages 3+'
@@ -35,19 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Suns out, fun’s out with Woolly’s Summer Holiday Trail! Help Woolly track down all the holiday items scattered around the Mansion. It’s a sunny search with a sparkling prize waiting for every keen-eyed adventurer.'
+        text: 'Learn about various animals, how they adapt and survive in their environments, and how humans impact their worlds. This week’s theme is Cute and Fluffy.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'And there’s more – our lovely Ladybird Trail is ready on the ground floor, ensuring everyone can bask in the holiday vibes.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The Summer Holiday Trail is open to all little explorers aged three and up. Grab your sunhat and join us for a splendid day of summer sleuthing!'
+        text: 'Please note that only the Great Hall will be open to event visitors. The rest of the Mansion will not be open as we are closed to the public on Mondays.'
   -
     type: heading
     attrs:
@@ -61,7 +53,36 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, simply buy your copy from the Mansion gift shop on arrival.'
+        text: 'Everyone aged three and older, including adults, will require a ticket. Children under three are welcome free of charge, but due to health and safety guidelines, they will not be able to touch the animals. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "This is a family event for children accompanied by parents/carers, who must remain with their children throughout.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Tickets are available for 10:30am, 11:30am, 12:30pm, 2pm, and 3pm.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'To book your ticket through '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswichtheatres.co.uk/whats-on/amazing-animals/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Ipswich Museums' website click here."
   -
     type: heading
     attrs:
@@ -131,8 +152,10 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716911162
+updated_at: 1721059300
 duplicated_from: 153c3d71-e279-46b5-bfcc-392fc32224bc
-cost_details: £5
+cost_details: '£6 per person'
+accessibility_information: '- wheel-chair accessible'
+booking_link: 'https://ipswichtheatres.co.uk/whats-on/amazing-animals/'
 ---
-This fantastic quest is perfect for our little explorers aged three and over.
+The live animals are back!
