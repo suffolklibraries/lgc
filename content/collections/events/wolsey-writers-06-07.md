@@ -1,5 +1,6 @@
 ---
 id: 3aa31a0b-edb0-456f-af89-71693359f128
+published: false
 blueprint: events
 title: 'Wolsey Writers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
