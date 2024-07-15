@@ -1,5 +1,6 @@
 ---
 id: 3600e94f-d1e2-45fa-b3fc-5310612e86c0
+published: false
 blueprint: events
 title: 'Newmarket Community Cinema - The Boat that Rocked (15)'
 start_date: '2024-07-15 18:45'
