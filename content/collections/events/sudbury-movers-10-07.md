@@ -1,5 +1,6 @@
 ---
 id: 020fe962-ba3b-423c-99dd-c4a0b0e3a584
+published: false
 blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
