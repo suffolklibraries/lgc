@@ -1,5 +1,6 @@
 ---
 id: d7839c0a-c9c6-4abc-bf20-4ed5f21f1834
+published: false
 blueprint: events
 title: 'Seagull Dance Works Presents... Debut'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
