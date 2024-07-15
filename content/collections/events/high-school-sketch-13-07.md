@@ -1,5 +1,6 @@
 ---
 id: 0ac5f987-caa5-4fb3-9481-cbdb04b7f1fe
+published: false
 blueprint: events
 title: 'High School Sketchbook Club'
 event_categories:
