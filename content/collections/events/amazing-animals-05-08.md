@@ -1,16 +1,15 @@
 ---
 id: ff9457c5-d703-4335-a695-56c7947125d2
-published: false
 blueprint: events
-title: 'Amazing Animals (Duplicated)'
+title: 'Amazing Animals'
 event_categories:
   - museums
   - nature
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/our-animal-world-1-1.jpg
-start_date: '2024-07-29 10:30'
-end_date: '2024-07-29 16:00'
+start_date: '2024-08-05 10:30'
+end_date: '2024-08-05 16:00'
 free: false
 virtual: false
 attendance_information: '- Suitable for ages 3+'
@@ -34,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn about various animals, how they adapt and survive in their environments, and how humans impact their worlds. This week’s theme is Scales and Slime.'
+        text: 'Learn about various animals, how they adapt and survive in their environments, and how humans impact their worlds. This week’s theme is Minibeasts.'
   -
     type: paragraph
     content:
@@ -153,7 +152,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721059467
+updated_at: 1721059527
 duplicated_from: 073bf8a4-66ad-41c8-ab11-c01f6917437e
 cost_details: '£6 per person'
 accessibility_information: '- wheel-chair accessible'
