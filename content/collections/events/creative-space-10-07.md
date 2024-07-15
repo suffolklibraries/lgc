@@ -1,5 +1,6 @@
 ---
 id: 26b8b46a-89d3-4c91-9a04-158bd2cb6813
+published: false
 blueprint: events
 title: 'Creative Space - Creative Writing'
 event_categories:
