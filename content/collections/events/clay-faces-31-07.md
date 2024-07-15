@@ -1,19 +1,18 @@
 ---
 id: 6d91aa29-5038-42d4-b686-00e1443bae4d
-published: false
 blueprint: events
-title: 'Amazing Animals (Duplicated)'
+title: 'Clay Faces Workshop'
 event_categories:
   - museums
-  - nature
+  - art
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/our-animal-world-1-1.jpg
-start_date: '2024-08-19 10:30'
-end_date: '2024-08-19 16:00'
+featured_image: ipswichmuseums/clay-faces.png
+start_date: '2024-07-31 10:30'
+end_date: '2024-07-31 16:00'
 free: false
 virtual: false
-attendance_information: '- Suitable for ages 3+'
+attendance_information: '- Suitable for ages 5+'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -34,13 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn about various animals, how they adapt and survive in their environments, and how humans impact their worlds. This week’s theme is Scales and Slime.'
+        text: 'Take inspiration from our portrait photography exhibition – An Eye For Life: Photography by John Ferguson – and the portraits in the Mansion.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please note that only the Great Hall will be open to event visitors. The rest of the Mansion will not be open as we are closed to the public on Mondays.'
+        text: 'Suitable for ages 5+. Younger children are welcome but may not be able to fully take part in the session. Parents/carers must remain with their children throughout.'
   -
     type: heading
     attrs:
@@ -54,19 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Everyone aged three and older, including adults, will require a ticket. Children under three are welcome free of charge, but due to health and safety guidelines, they will not be able to touch the animals. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "This is a family event for children accompanied by parents/carers, who must remain with their children throughout.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tickets are available for 10:30am, 11:30am, 12:30pm, 2pm, and 3pm.'
+        text: 'The duration for each session will be 45 minutes. The bookable times are for 10am, 11am, midday, 2pm, and 3pm.'
   -
     type: paragraph
     content:
@@ -79,7 +66,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://ipswichtheatres.co.uk/whats-on/amazing-animals/'
+              href: 'https://ipswichtheatres.co.uk/whats-on/clay-faces-workshop/'
               rel: null
               target: _blank
               title: null
@@ -153,10 +140,10 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721059598
+updated_at: 1721059841
 duplicated_from: 9569d11a-70fc-4841-876d-b3b018cc3277
-cost_details: '£6 per person'
+cost_details: '£5 per child'
 accessibility_information: '- wheel-chair accessible'
-booking_link: 'https://ipswichtheatres.co.uk/whats-on/amazing-animals/'
+booking_link: 'https://ipswichtheatres.co.uk/whats-on/clay-faces-workshop/'
 ---
-The live animals are back!
+Come to this wonderful, fun, relaxing workshop and create your own natural clay face mask from scratch.
