@@ -1,5 +1,6 @@
 ---
 id: 97d0c9fe-0d76-4601-85ca-165a196e464d
+published: false
 blueprint: events
 title: "Stowmarket Youth Theatre's Twelfth Night"
 event_categories:
