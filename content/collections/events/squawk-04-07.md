@@ -1,5 +1,6 @@
 ---
 id: 5ea9cd9a-c394-4312-a337-74124337d9db
+published: false
 blueprint: events
 title: Squawk
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
