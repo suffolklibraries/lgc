@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Five yellow ducks swimming in a river'
 size: 25725
 last_modified: 1721135745
 width: 300
