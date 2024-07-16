@@ -1,15 +1,14 @@
 ---
 id: 323b1822-897b-4fc5-bcc1-5e60f326b1b9
-published: false
 blueprint: events
-title: 'More than Mum Coffee Morning (Duplicated) (Duplicated)'
+title: 'More than Mum Coffee Morning'
 event_categories:
   - community
   - wellbeing
 organisers:
   - future-female-society
-start_date: '2024-09-19 10:00'
-end_date: '2024-09-19 12:00'
+start_date: '2024-11-08 10:00'
+end_date: '2024-11-08 12:00'
 free: true
 virtual: false
 latitude: '52.05887879991613'
@@ -137,7 +136,7 @@ content_area:
               title: null
         text: 'Suffolk Onboard.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721135129
+updated_at: 1721135227
 cta: |-
   This event is run by the Future Female Society:
 
