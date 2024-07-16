@@ -1,15 +1,16 @@
 ---
 id: 24eb52f2-0059-4228-bdac-7610b8c88e59
-published: false
 blueprint: events
-title: 'Ipswich 100: author event with Kate Thompson (Duplicated)'
+title: 'Five Little Ducks'
 organisers:
   - suffolk-libraries
-start_date: '2024-08-27 19:30'
-end_date: '2024-08-27 20:30'
+  - new-wolsey-theatre
+  - spinning-wheel-theatre
+start_date: '2024-12-04 09:30'
+end_date: '2024-12-21 15:00'
 free: false
 virtual: false
-accessibility_information: '- Wheelchair Friendly'
+accessibility_information: '- Wheelchair accessible'
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
 address_line_1: 'Ipswich Library'
@@ -30,81 +31,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Kate will be talking to us about her career so far and her two novels, '
+        text: 'In Spinning Wheel Theatre’s new interactive show for young children, we invite you to come and sit amongst the reeds and lily pads, while we hunt for the missing little ducks, and have some adventures of our own!'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3150297'
-              rel: null
-              target: null
-              title: null
-          -
-            type: italic
-        text: 'The Little Wartime Library'
+        text: 'Suitable for ages 1-4 and their families, featuring song, puppetry and integrated Makaton signing.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: ' and '
+        text: 'When you arrive make your way to the front desk and a member of staff will direct you to the show.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3444918'
-              rel: null
-              target: null
-              title: null
-          -
-            type: italic
-        text: 'The Wartime Book Club'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'About '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Little Wartime Library'
-      -
-        type: text
-        text: ':'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Clara Button is no ordinary librarian. While the world remains at war, in East London Clara has created the country's only underground library, built over the tracks in the disused Bethnal Green tube station. Down here a secret community thrives: with thousands of bunk beds, a nursery, a café and a theatre offering shelter, solace and escape from the bombs that fall above."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Along with her glamorous best friend and library assistant Ruby Munroe, Clara ensures the library is the beating heart of life underground. But as the war drags on, the women's determination to remain strong in the face of adversity is tested to the limits when it seems it may come at the price of keeping those closest to them alive."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Based on true events, '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Little Wartime Library'
-      -
-        type: text
-        text: ' is a gripping and heart-wrenching page-turner that remembers one of the greatest resistance stories of the war.'
+        text: 'The building is wheelchair accessible via the old Foundry Road entrance to the left of the main library entrance on Northgate Street. Accessible toilets and baby changing facilities are available opposite the lecture hall, with a buggy park and a lift to all floors.'
   -
     type: heading
     attrs:
@@ -125,11 +73,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/ipswich-100-author-event-with-kate-thompson'
+              href: 'https://www.wolseytheatre.co.uk/shows/five-little-ducks/'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Libraries website'
+        text: 'New Wolsey Theatre website'
       -
         type: text
         text: .
@@ -250,20 +198,23 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714657166
+updated_at: 1721136032
 duplicated_from: 7f340577-8586-4f78-8737-2ed3788be380
 event_categories:
   - literature
-featured_image: offthepressimages/new_resized_images/Literature.png
+  - performance
+  - early-years
+featured_image: offthepressimages/new_resized_images/Early-Years.png
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by the New Wolsey Theatre
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://www.wolseytheatre.co.uk/](https://www.wolseytheatre.co.uk/)
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [tickets@wolseytheatre.co.uk](mailto:tickets@wolseytheatre.co.uk)
 
-  [01473 351249](tel:01473351249)
-cost_details: £5
-booking_link: 'https://www.suffolklibraries.co.uk/whats-on/ipswich-100-author-event-with-kate-thompson'
+  [01473 295900](tel:01473295900)
+cost_details: '£5 per person'
+booking_link: 'https://www.wolseytheatre.co.uk/shows/five-little-ducks/'
+attendance_information: '- for ages 1 to 4 and their families'
 ---
-Join us for an author event with Kate Thompson as part of Ipswich 100, a celebration of Ipswich Library's centenary!
+Five Little Ducks went swimming one day, over the hills and far away. But when mummy duck said “Quack, quack, quack, quack” and only four of her little ducks come back, she begins to wonder what on earth her missing little duck is up to!
