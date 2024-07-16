@@ -7,8 +7,8 @@ event_categories:
   - wellbeing
 organisers:
   - future-female-society
-start_date: '2024-09-19 10:00'
-end_date: '2024-09-19 12:00'
+start_date: '2024-09-13 10:00'
+end_date: '2024-09-13 12:00'
 free: true
 virtual: false
 latitude: '52.05887879991613'
@@ -136,7 +136,7 @@ content_area:
               title: null
         text: 'Suffolk Onboard.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721135129
+updated_at: 1721135243
 cta: |-
   This event is run by the Future Female Society:
 
