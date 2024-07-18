@@ -1,16 +1,15 @@
 ---
 id: b1853831-df0d-4f67-9716-4d6639e67bea
-published: false
 blueprint: events
-title: 'Hands On: Conservation in Practice (Duplicated)'
+title: 'Hands On: Conservation in Practice'
 event_categories:
   - museums
   - family-friendly
 organisers:
   - ipswich-museums
 featured_image: offthepressimages/new_resized_images/Museum.png
-start_date: '2024-07-30 10:00'
-end_date: '2024-07-30 15:00'
+start_date: '2024-07-23 10:00'
+end_date: '2024-07-23 15:00'
 free: false
 virtual: true
 attendance_information: '- Suitable for ages 5+'
@@ -79,7 +78,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://ipswich.cimuseums.org.uk/events/hands-on-day-two/'
+              href: 'https://ipswich.cimuseums.org.uk/events/hands-on-day-one/'
               rel: null
               target: _blank
               title: null
@@ -181,7 +180,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721289675
+updated_at: 1721289745
 duplicated_from: 507a6bc9-43ca-4abe-b71f-c315669f7d9d
 cost_details: '£10 per adult, £5 per child'
 accessibility_information: '- wheel-chair accessible'
