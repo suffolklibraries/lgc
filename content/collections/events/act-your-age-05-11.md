@@ -1,20 +1,19 @@
 ---
 id: d688ebd4-1272-4741-842e-a09c2fc62778
-published: false
 blueprint: events
-title: 'Act Your Age (Duplicated) (2)'
-start_date: '2024-10-15 13:00'
+title: 'Act Your Age'
+start_date: '2024-11-05 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721848918
+updated_at: 1721848998
 event_categories:
   - performance
   - later-life
 organisers:
   - theatre-royal
 featured_image: offthepressimages/new_resized_images/Theatre.png
-end_date: '2024-10-15 15:30'
+end_date: '2024-11-05 15:30'
 attendance_information: '- People aged 55 and older'
 accessibility_information: '- wheelchair accessible'
 latitude: '52.24082876567966'
