@@ -1,5 +1,6 @@
 ---
 id: faab3f08-ebb8-43a6-bc4d-14eaa16c1759
+published: false
 blueprint: events
 title: 'Live Music - Ben Wragg'
 event_categories:
