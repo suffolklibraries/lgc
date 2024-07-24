@@ -2,13 +2,13 @@
 id: a6196295-ae00-4a46-9268-a4320d0708b5
 published: false
 blueprint: events
-title: 'Quietnote: music and mindfulness (Duplicated)'
+title: 'Open Session: Reload'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2024-07-29 10:00'
-end_date: '2024-07-29 16:00'
+start_date: '2024-09-13 15:30'
+end_date: '2024-09-13 16:30'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721847008
+updated_at: 1721848202
 free: true
 virtual: false
 organisers:
@@ -27,7 +27,13 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be two different sessions, each running twice, throughout the day:'
+        text: 'Father/Hood is a project which will explore real-life themes of poverty, adultification and SEN through different story-telling mediums. Reload will work with live musicians and electronic producers to consider how his music can tell a story to a non-verbal person, when he often so heavily relies on the written and spoken word.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Our Creative Health Residencies are cross-sector residencies grounded in research, combining theory and practice. They allow artists, researchers and other practitioners to work collaboratively and delve more deeply into questions about music’s place, purpose and function in the world.'
   -
     type: paragraph
     content:
@@ -36,34 +42,25 @@ content_area:
         marks:
           -
             type: bold
-        text: 'An introduction to mindfulness through music: '
-      -
-        type: text
-        text: 'a one-hour personalised workshop that offers a better understanding of the practices of mindfulness through music and how this relates to the bigger picture of mental wellbeing. Participants will work with traditional mindfulness practices and guided musical meditations, and there will be an open discussion about how this practice can help to boost lifestyle.'
+        text: 'About Reload'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This session will run at 10am and 1.30pm.'
+        text: 'Hailing from Wolverhampton, Reload is an award-winning musician, lyricist and writer. Having spent the best part of his professional career as a social commentator and storyteller, Reload has managed to amalgamate his passion for rap music with a unique and rich vein of literature.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Exploring mindfulness and music with your children:'
-      -
-        type: text
-        text: " sessions in which we will explore the fascinating topic of mindfulness and music with your children. Mindfulness is not all about relaxation and ‘inner peace’; it's also about heightening our senses, focusing our minds, and improving our skills - all of which can be instrumental in enriching the lives of the young people around us. Please note - this session is primarily for adults and is not intended to be a workshop for or with young children."
+        text: 'Having performed at some of the biggest festivals across Europe, and being championed by key tastemakers from Radio 1, Capital Xtra and Apple Radio, Reload’s vivid wordplay and ear-catching hooks have made him one of the West Midlands’ best-known secrets.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This session will run at 11.30am and 3pm.'
+        text: 'Although music makes up the majority of Reload’s creative expression, he is also a well-versed poet, playwright, novelist and educator. His work has been showcased at some of the biggest institutions and galleries in the country.'
   -
     type: heading
     attrs:
@@ -151,7 +148,7 @@ content_area:
       -
         type: text
         text: ' website.'
-address_line_1: 'Jerwood Kiln Studio'
+address_line_1: 'Britten Studio'
 address_line_2: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -169,6 +166,6 @@ event_categories:
 booking_link: 'https://www.brittenpearsarts.org/events/quietnote'
 featured_image: offthepressimages/Music_white.png
 duplicated_from: f99a9551-9f2c-4cc3-9830-b7295cbb7709
-cost_details: '£6.25 for under 30s, £12.50 for people over 30'
+cost_details: '£3 for under 30s, £6 for people over 30'
 ---
-A day of wellbeing workshops with a distinctive music-based approach, focused on benefiting mental health and increasing happiness.
+During his Creative Health Residency, Reload will be exploring non-verbal storytelling through rap music and movement fused with orchestral composition, electronic music, and acoustic folk.
