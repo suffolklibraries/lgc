@@ -1,5 +1,6 @@
 ---
 id: 3ae46669-7c04-42c9-8d80-15f806ed5a34
+published: false
 blueprint: events
 title: 'Marina Youth Theatre and Young Company'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
