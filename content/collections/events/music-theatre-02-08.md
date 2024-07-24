@@ -1,14 +1,13 @@
 ---
 id: 1e9f11e0-8145-4a50-a670-4e5189ae53ce
-published: false
 blueprint: events
-title: 'Quietnote: music and mindfulness (Duplicated)'
+title: 'Aldeburgh Young Musicians: Music Theatre'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2024-07-29 10:30'
-end_date: '2024-07-29 12:00'
+start_date: '2024-08-02 16:00'
+end_date: '2024-08-02 17:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721846676
+updated_at: 1721847365
 free: true
 virtual: false
 organisers:
@@ -27,43 +26,13 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be two different sessions, each running twice, throughout the day:'
+        text: 'Set sail for adventure with this performance in which you can expect to hear a combination of music-theatre classics alongside AYM’s signature creative re-inventions.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'An introduction to mindfulness through music: '
-      -
-        type: text
-        text: 'a one-hour personalised workshop that offers a better understanding of the practices of mindfulness through music and how this relates to the bigger picture of mental wellbeing. Participants will work with traditional mindfulness practices and guided musical meditations, and there will be an open discussion about how this practice can help to boost lifestyle.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This session will run at 10am and 1.30pm.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Exploring mindfulness and music with your children:'
-      -
-        type: text
-        text: " sessions in which we will explore the fascinating topic of mindfulness and music with your children. Mindfulness is not all about relaxation and ‘inner peace’; it's also about heightening our senses, focusing our minds, and improving our skills - all of which can be instrumental in enriching the lives of the young people around us. Please note - this session is primarily for adults and is not intended to be a workshop for or with young children."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'This session will run at 11.30am and 3pm.'
+        text: 'Under the guidance of West End professionals Christopher Augustine, Becca Toft, Emma Bassett, and Jonny Gibson, in the week’s course the young artists have gained insight into the skills and nuances of music-theatre musicians’ working lives.'
   -
     type: heading
     attrs:
@@ -84,9 +53,9 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.brittenpearsarts.org/events/quietnote'
+              href: 'https://www.brittenpearsarts.org/events/aldeburgh-young-musicians-musical-theatre'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'here. '
   -
@@ -151,7 +120,7 @@ content_area:
       -
         type: text
         text: ' website.'
-address_line_1: 'Jerwood Kiln Studio'
+address_line_1: 'Britten Studio'
 address_line_2: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -165,10 +134,10 @@ cta: |-
   [01728687127](tel:01728687127)
 event_categories:
   - music
-  - wellbeing
-booking_link: 'https://www.brittenpearsarts.org/events/quietnote'
-featured_image: offthepressimages/Music_white.png
+  - performance
+booking_link: 'https://www.brittenpearsarts.org/events/aldeburgh-young-musicians-musical-theatre'
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: f99a9551-9f2c-4cc3-9830-b7295cbb7709
-cost_details: '£6.25 for under 30s, £12.50 for people over 30'
+cost_details: '£3 for under 30s, £6 for people over 30'
 ---
-A day of wellbeing workshops with a distinctive music-based approach, focused on benefiting mental health and increasing happiness.
+Vocalists and instrumentalists from Aldeburgh Young Musicians perform the swashbuckling story of The Pirates of Thorpeness Bay - a unique tale told through much-loved hits from the West End.
