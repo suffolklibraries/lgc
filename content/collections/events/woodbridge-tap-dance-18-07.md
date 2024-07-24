@@ -1,5 +1,6 @@
 ---
 id: 61920650-0f8a-4ec9-8d0a-85b17446325e
+published: false
 blueprint: events
 title: 'Beginners and Improvers Tap Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
