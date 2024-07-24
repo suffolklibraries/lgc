@@ -1,14 +1,13 @@
 ---
 id: 48b5c004-cf30-44a7-b83a-b5319c0bfa5b
-published: false
 blueprint: events
-title: 'Project B (Duplicated)'
+title: 'DanceEast YouthFest'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721851284
+updated_at: 1721851440
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-01 10:00'
+start_date: '2024-11-09 13:00'
 event_categories:
   - dance
   - teen
@@ -35,19 +34,45 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a chance for young boys aged 10-16 years to explore an immersive day of dance involving energetic contemporary dance, athletic ballet, and upbeat Hip Hop workshops.'
+        text: 'Produced by young people for young people, YouthFest puts our local community of 14-25 year olds first, in a joyful celebration of dance.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Suitable for beginners and those with some dance experience.'
+        text: 'Prepare for a Jerwood DanceHouse takeover with tons of FREE activity including workshops, performances, arts and crafts.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Bring a friend! Do you have a friend that has always wanted to try dance? Well now’s your chance. If you bring a friend, they will receive 50% discount and so will you! More information is available when you book.'
+        text: 'Keep your eyes peeled on this page for more information as we head into autumn. Find out more on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.danceeast.co.uk/workshops/danceeast-x-youthfest/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'DanceEast website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: '“The combination of live music and dance workshops encouraged young people to try new things and the talent on display showed just how much creativity the young people of Suffolk have to offer!”'
+      -
+        type: text
+        text: ' – Katie Squirrel, Youth Festival Team 2023'
   -
     type: paragraph
     content:
@@ -97,21 +122,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your place via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.danceeast.co.uk/workshops/project-b-in-partnership-with-the-royal-academy-of-dance-rad/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Dance East website'
-      -
-        type: text
-        text: '. Bursary places are available for families that access Universal Credit or free school meals.'
+        text: 'Just come along - no booking required.'
   -
     type: paragraph
   -
@@ -255,10 +266,8 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-01 16:00'
-attendance_information: '- Suitable for boys aged 10 - 16'
+end_date: '2024-11-09 17:00'
+attendance_information: '- Suitable young people aged 14 - 25'
 duplicated_from: ccb05762-886d-43c0-9534-a32431b3f51d
-cost_details: '£35 but bursaries are available'
-booking_link: 'https://www.danceeast.co.uk/workshops/project-b-in-partnership-with-the-royal-academy-of-dance-rad/'
 ---
-Join us for a creative, high-energy day of workshops designed to build your coordination, strength, and alignment, led by experienced male teachers and live musical accompaniment.
+DanceEast’s Youth Festival returns this autumn!
