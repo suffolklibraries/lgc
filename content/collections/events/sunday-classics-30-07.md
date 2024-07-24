@@ -1,5 +1,6 @@
 ---
 id: e0239aa7-d3af-4aa9-92dc-4c3a1396b92f
+published: false
 blueprint: events
 title: 'Sunday Classics Film Club - Calamity Jane'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
