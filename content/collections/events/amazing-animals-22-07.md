@@ -1,5 +1,6 @@
 ---
 id: 5e9729c7-078c-498b-ae91-c1b06d9a847a
+published: false
 blueprint: events
 title: 'Amazing Animals'
 event_categories:
