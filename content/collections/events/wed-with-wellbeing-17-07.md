@@ -1,5 +1,6 @@
 ---
 id: 21b77ad8-50d7-4613-a660-f0ecfdfc4269
+published: false
 blueprint: events
 title: 'Wednesdays with Wellbeing - Five Ways Fairs'
 event_categories:
