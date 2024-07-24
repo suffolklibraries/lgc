@@ -4,10 +4,10 @@ blueprint: events
 title: 'Quietnote: music and mindfulness'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2024-07-29 10:30'
-end_date: '2024-07-29 12:00'
+start_date: '2024-07-29 10:00'
+end_date: '2024-07-29 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721846676
+updated_at: 1721847008
 free: true
 virtual: false
 organisers:
