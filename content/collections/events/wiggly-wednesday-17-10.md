@@ -1,5 +1,6 @@
 ---
 id: 1f23d0d1-867f-4b5c-a131-32931534add5
+published: false
 blueprint: events
 title: 'Wiggly Wednesday'
 event_categories:
