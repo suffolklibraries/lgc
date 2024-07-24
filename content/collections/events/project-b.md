@@ -1,16 +1,16 @@
 ---
 id: ccb05762-886d-43c0-9534-a32431b3f51d
-published: false
 blueprint: events
-title: 'Once Upon a Dance (Duplicated)'
+title: 'Project B'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721851061
+updated_at: 1721851284
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-01 13:30'
+start_date: '2024-11-01 10:00'
 event_categories:
   - dance
+  - teen
 free: true
 virtual: false
 organisers:
@@ -19,7 +19,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+featured_image: offthepressimages/support.png
 content_area:
   -
     type: heading
@@ -34,72 +34,25 @@ content_area:
     content:
       -
         type: text
-        text: 'What to expect on the day:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Get creative and bring your ideas to life through dance and music'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Learn new skills and make new friends'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Work with a wonderful team of experienced dance artists and musicians'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'Share what you have created with your grown-ups at the end of the day.'
-          -
-            type: paragraph
+        text: 'This is a chance for young boys aged 10-16 years to explore an immersive day of dance involving energetic contemporary dance, athletic ballet, and upbeat Hip Hop workshops.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We welcome everyone to join us – you don’t need to have any dance experience.'
+        text: 'Suitable for beginners and those with some dance experience.'
   -
     type: paragraph
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: '“Fun, wonderful, amazing.”'
-      -
-        type: text
-        text: ' – previous half term activity attendee'
+        text: 'Bring a friend! Do you have a friend that has always wanted to try dance? Well now’s your chance. If you bring a friend, they will receive 50% discount and so will you! More information is available when you book.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "\_If you would like to familiarise yourself with the building before your visit, you can download our "
+        text: 'If you would like to familiarise yourself with the building before your visit, you can download our '
       -
         type: text
         marks:
@@ -129,6 +82,8 @@ content_area:
         type: text
         text: .
   -
+    type: paragraph
+  -
     type: heading
     attrs:
       level: 2
@@ -148,14 +103,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-2/'
+              href: 'https://www.danceeast.co.uk/workshops/project-b-in-partnership-with-the-royal-academy-of-dance-rad/'
               rel: null
               target: _blank
               title: null
         text: 'Dance East website'
       -
         type: text
-        text: .
+        text: '. Bursary places are available for families that access Universal Credit or free school meals.'
   -
     type: paragraph
   -
@@ -250,8 +205,6 @@ content_area:
               rel: null
               target: null
               title: null
-          -
-            type: bold
         text: www.en.parkopedia.com
       -
         type: text
@@ -301,10 +254,10 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-01 15:30'
-attendance_information: '- Suitable for ages 4 - 11'
+end_date: '2024-11-01 16:00'
+attendance_information: '- Suitable for boys aged 10 - 16'
 duplicated_from: f09d7a53-7c18-429f-a636-94031bd32eec
-cost_details: '£25 but bursaries are available'
-booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-2/'
+cost_details: '£35 but bursaries are available'
+booking_link: 'https://www.danceeast.co.uk/workshops/project-b-in-partnership-with-the-royal-academy-of-dance-rad/'
 ---
-Our popular Once Upon a Dance is back this October half term and we’re partnering with Britten Pears Arts to provide an exciting, fun-filled day of moving, music-making, songwriting and creativity!
+Join us for a creative, high-energy day of workshops designed to build your coordination, strength, and alignment, led by experienced male teachers and live musical accompaniment.
