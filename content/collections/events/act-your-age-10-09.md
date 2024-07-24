@@ -1,26 +1,21 @@
 ---
 id: cfc7642f-9ef0-4c7c-b1e0-75c83b0bc412
-published: false
 blueprint: events
-title: 'Dorothy Back in Oz (Duplicated)'
-start_date: '2024-08-16 11:00'
+title: 'Act Your Age'
+start_date: '2024-09-10 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721310899
+updated_at: 1721848758
 event_categories:
   - performance
-  - family-friendly
+  - later-life
 organisers:
   - theatre-royal
-featured_image: theatre-royal/dorothy-back-in-oz.jpg
-end_date: '2024-08-31 21:00'
-attendance_information: '- family friendly'
-accessibility_information: |-
-  - wheelchair accessible
-  - captioned performances
-  - relaxed performances
-  - British Sign Language interpreted performances
+featured_image: offthepressimages/new_resized_images/Theatre.png
+end_date: '2024-09-10 15:30'
+attendance_information: '- People aged 55 and older'
+accessibility_information: '- wheelchair accessible'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 address_line_1: 'Theatre Royal'
@@ -41,19 +36,27 @@ content_area:
     content:
       -
         type: text
-        text: 'After a huge storm hits Stowmarket, Dorothy finds herself transported back to the magical land of Oz, with only her trusty talking chicken, Billina, for company. But all is not well. The yellow brick road has been smashed and the Emerald City lies in ruins. The Gnome King now sits on the throne and he happens to be wearing a rather fabulous pair of slippers. Dorothy will meet new friends along the way who help her to overcome the Gnome King and restore hope to the people of Oz.'
+        text: 'The Act Your Age group, which meets every Tuesday afternoon in term-time, is a friendly, supportive group for adults with a recommended age of 55 and over. We get together to explore drama techniques such as devising and improvisation.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Following the success of last year’s The Wonderful Wizard of Oz by Mike Akers, we return to the Emerald City with Dorothy, Back in Oz, based on the second novel in L. Frank Baum’s Oz series, The Marvelous Land of Oz. So whether you have been to Oz a thousand times, or this is your first visit, an epic adventure awaits you.'
+        text: 'It’s good for wellbeing, making new friends and a chance to be a bit silly and let off steam!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Suitable for all ages. All performances are captioned.'
+        text: 'We are always on the lookout for new members to come and join us. No previous theatre experience is necessary.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sessions take place at Theatre Royal every Tuesday from 1.30pm to 3pm.'
+  -
+    type: paragraph
   -
     type: heading
     attrs:
@@ -67,89 +70,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Free tickets are available for people on Jobseekers Allowance or Universal Credit.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'To book your free tickets, '
+        text: 'Act Your Age workshop costs £75.00 per term. Bursary places are available, '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:booking@theatreroyal.org'
+              href: 'https://theatreroyal.org/contact/'
               rel: null
               target: null
               title: null
-        text: 'email the Theatre Royal box office (booking@theatreroyal.org)'
-      -
-        type: text
-        text: ' with - '
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: 'proof of your Jobseekers Allowance or Universal Credit status'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: "date and time of the performance you'd like to attend"
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            content:
-              -
-                type: text
-                text: "how many tickets you'd like (up to five)"
-          -
-            type: paragraph
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Accessible performance dates - '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Touch Tour - Sat 24 August, 3pm.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Audio Described Performance - Sat 24 August, 3pm'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'BSL Interpreted Performance - Thurs 29 Aug, 7pm'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Relaxed Performance - Sat 31 Aug, 3pm'
+        text: 'please get in touch.'
   -
     type: paragraph
   -
@@ -261,5 +193,6 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 duplicated_from: feb5b990-f7ca-47b6-b57d-c7f64180da8f
+cost_details: '£75 per term, with bursaries available'
 ---
-Join us for this fun, high-energy, family-friendly musical complete with songs, dancing and an evil princess with interchangeable heads!
+Join our friendly weekly theatre group at the Theatre Royal.
