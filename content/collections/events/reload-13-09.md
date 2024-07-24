@@ -1,6 +1,5 @@
 ---
 id: a6196295-ae00-4a46-9268-a4320d0708b5
-published: false
 blueprint: events
 title: 'Open Session: Reload'
 latitude: '52.16397679077819'
@@ -8,7 +7,7 @@ longitude: '1.496796100174832'
 start_date: '2024-09-13 15:30'
 end_date: '2024-09-13 16:30'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721848202
+updated_at: 1721848295
 free: true
 virtual: false
 organisers:
@@ -33,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our Creative Health Residencies are cross-sector residencies grounded in research, combining theory and practice. They allow artists, researchers and other practitioners to work collaboratively and delve more deeply into questions about music’s place, purpose and function in the world.'
+        text: 'This is a 60 minute performance.'
   -
     type: paragraph
     content:
@@ -81,9 +80,9 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.brittenpearsarts.org/events/quietnote'
+              href: 'https://www.brittenpearsarts.org/events/open-session-reload'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'here. '
   -
