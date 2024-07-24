@@ -1,5 +1,6 @@
 ---
 id: d812eb55-bf06-45ae-bf20-49bb11f5ab09
+published: false
 blueprint: events
 title: 'Powerful Portraits Workshops'
 event_categories:
