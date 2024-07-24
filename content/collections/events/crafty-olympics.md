@@ -1,5 +1,6 @@
 ---
 id: de379650-1c81-4d82-a15e-058773b8ed63
+published: false
 blueprint: events
 title: "Let's Get Crafty: Olympics"
 event_categories:
