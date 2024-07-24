@@ -1,5 +1,6 @@
 ---
 id: 5ee6d077-35f1-4290-89bb-8682ff94314f
+published: false
 blueprint: events
 title: 'Chalkstone Fun Day'
 organisers:
