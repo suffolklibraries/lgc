@@ -1,13 +1,12 @@
 ---
 id: 94551800-2024-4ba8-ba16-db3affbe7d40
-published: false
 blueprint: events
-title: 'Family Fun Days (Duplicated)'
+title: 'Family Fun Days'
 organisers:
   - ipswich-borough-council
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-start_date: '2024-07-31 12:00'
-end_date: '2024-07-31 16:00'
+start_date: '2024-08-02 12:00'
+end_date: '2024-08-02 16:00'
 free: true
 virtual: false
 content_area:
@@ -102,7 +101,7 @@ content_area:
     content:
       -
         type: text
-        text: "Dumbarton Road Recreation Ground doesn't have it's own car park however there is street parking available in surrounding residential areas."
+        text: 'Castle Hill Park has a small car park available for visitors and there is street parking available in surrounding residential areas.'
   -
     type: paragraph
     content:
@@ -115,14 +114,14 @@ content_area:
           -
             type: link
             attrs:
-              href: "https://www.google.com/maps/dir/''/Dumbarton+Road+Recreation+Ground,+Dumbarton+Rd,+Ipswich+IP4+3JP/@52.0680212,1.192899,18.5z/data=!4m14!4m13!1m5!1m1!1s0x47d99f0df98f1007:0xe6d06d74784f92b3!2m2!1d1.192219!2d52.068207!1m5!1m1!1s0x47d99f753ec15829:0x16a4820b11500b18!2m2!1d1.195654!2d52.0684435!3e2?entry=ttu"
+              href: 'https://www.google.com/maps/dir/Castle+Hill+Play+Park,+Ipswich/Recreation+Ground,+Ipswich+IP1+6AH/@52.0801956,1.1395747,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a1a9f8fe1a51:0xba94e2743a004c8!2m2!1d1.142042!2d52.0800873!1m5!1m1!1s0x47d9a1ea6e2a92e7:0x6e2237d4b1fd124d!2m2!1d1.142251!2d52.080273!3e2?entry=ttu'
               rel: null
               target: _blank
               title: null
         text: 'nearest bus stop'
       -
         type: text
-        text: ' is a four minute walk away, and you can find up to date bus times on the '
+        text: ' is a one minute walk away, and you can find up to date bus times on the '
       -
         type: text
         marks:
@@ -168,7 +167,7 @@ cta: |-
 
   [01473 432000](tel:01473 432000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721850188
+updated_at: 1721850402
 duplicated_from: 17934b9e-55b7-4b8c-80b7-e662e0196570
 attendance_information: '- Family Friendly'
 event_categories:
@@ -176,11 +175,10 @@ event_categories:
   - community
   - wellbeing
   - family-friendly
-latitude: '52.068581971494964'
-longitude: '1.1956969126005597'
-address_line_1: 'Dumbarton Road Recreation Ground'
-address_line_2: 'Dumbarton Road'
+latitude: '52.08019276793583'
+longitude: '1.1420312682737652'
+address_line_1: 'Castle Hill Park'
 town: Ipswich
-postcode: 'IP4 3JP'
+postcode: 'IP1 6SX'
 ---
 Looking for activities to keep the children entertained during the Summer holidays? Look no further, Family Fun Days are back!
