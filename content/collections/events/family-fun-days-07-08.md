@@ -1,13 +1,12 @@
 ---
 id: 3d67ffcf-120d-40a2-b0a5-8dfb08218d97
-published: false
 blueprint: events
-title: 'Family Fun Days (Duplicated)'
+title: 'Family Fun Days'
 organisers:
   - ipswich-borough-council
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-start_date: '2024-08-02 12:00'
-end_date: '2024-08-02 16:00'
+start_date: '2024-08-07 12:00'
+end_date: '2024-08-07 16:00'
 free: true
 virtual: false
 content_area:
@@ -102,7 +101,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Castle Hill Park has a small car park available for visitors and there is street parking available in surrounding residential areas.'
+        text: 'Bourne Park has a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Bourne+park+car+park/@52.0343319,1.1341442,18z/data=!4m14!1m7!3m6!1s0x47d9a017a980ebe3:0x716399910cc65e15!2sBourne+Park!8m2!3d52.0352404!4d1.1402014!16s%2Fg%2F1tfkkfsc!3m5!1s0x47d9a192baa03b4b:0x67df79f0a3fea923!8m2!3d52.0339111!4d1.1360151!16s%2Fg%2F11jsb9f_c9?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'car park'
+      -
+        type: text
+        text: ', which is accessible by Stoke Park Drive. '
   -
     type: paragraph
     content:
@@ -115,14 +128,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Castle+Hill+Play+Park,+Ipswich/Recreation+Ground,+Ipswich+IP1+6AH/@52.0801956,1.1395747,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a1a9f8fe1a51:0xba94e2743a004c8!2m2!1d1.142042!2d52.0800873!1m5!1m1!1s0x47d9a1ea6e2a92e7:0x6e2237d4b1fd124d!2m2!1d1.142251!2d52.080273!3e2?entry=ttu'
+              href: 'https://www.google.com/maps/place/Winchester+Way/@52.0344452,1.1345493,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a06b1298febb:0x3ebdbf0bfa769517!2sWinchester+Way,+Ipswich+IP2+9YL!2m2!1d1.134047!2d52.033405!1m6!1m2!1s0x47d9a017a980ebe3:0x716399910cc65e15!2sBourne+Park,+Ipswich+IP2+8LU!2m2!1d1.1402014!2d52.0352404!3e2!3m5!1s0x47d9a06b1298febb:0x3ebdbf0bfa769517!8m2!3d52.033405!4d1.134047!16s%2Fg%2F1q67wbclv?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'nearest bus stop'
+        text: 'nearest bus stop '
       -
         type: text
-        text: ' is a one minute walk away, and you can find up to date bus times on the '
+        text: 'is a seven minute walk away, and you can find up to date bus times on the '
       -
         type: text
         marks:
@@ -168,7 +181,7 @@ cta: |-
 
   [01473 432000](tel:01473 432000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721850402
+updated_at: 1721850584
 duplicated_from: 94551800-2024-4ba8-ba16-db3affbe7d40
 attendance_information: '- Family Friendly'
 event_categories:
@@ -176,10 +189,10 @@ event_categories:
   - community
   - wellbeing
   - family-friendly
-latitude: '52.08019276793583'
-longitude: '1.1420312682737652'
-address_line_1: 'Castle Hill Park'
+latitude: '52.035398774769625'
+longitude: '1.1401584819117954'
+address_line_1: 'Bourne Park'
 town: Ipswich
-postcode: 'IP1 6SX'
+postcode: 'IP2 8LU'
 ---
 Looking for activities to keep the children entertained during the Summer holidays? Look no further, Family Fun Days are back!
