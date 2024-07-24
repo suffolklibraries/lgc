@@ -1,17 +1,15 @@
 ---
 id: f09d7a53-7c18-429f-a636-94031bd32eec
-published: false
 blueprint: events
-title: 'Baby Loves to Boogie (Duplicated)'
+title: 'Once Upon a Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720019315
+updated_at: 1721851061
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-10 13:30'
+start_date: '2024-11-01 13:30'
 event_categories:
   - dance
-  - early-years
 free: true
 virtual: false
 organisers:
@@ -20,7 +18,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: offthepressimages/new_resized_images/Early-Years.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 content_area:
   -
     type: heading
@@ -35,25 +33,100 @@ content_area:
     content:
       -
         type: text
+        text: 'What to expect on the day:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Get creative and bring your ideas to life through dance and music'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Learn new skills and make new friends'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Work with a wonderful team of experienced dance artists and musicians'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            content:
+              -
+                type: text
+                text: 'Share what you have created with your grown-ups at the end of the day.'
+          -
+            type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We welcome everyone to join us – you don’t need to have any dance experience.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         marks:
           -
             type: italic
-        text: '“This is the best baby event I’ve been to! Do them more often!”'
+        text: '“Fun, wonderful, amazing.”'
       -
         type: text
-        text: ' – adult who attended a previous Baby Loves to Boogie'
+        text: ' – previous half term activity attendee'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Baby Loves to Boogie is all about connecting with your little one, moving, and having fun. You will be guided through games with props and movement exercises, all developed to nurture your little one’s natural love of movement in a structured yet relaxed environment. This is an event for children and adults alike, no previous dance experience necessary!'
-  -
-    type: paragraph
-    content:
+        text: "\_If you would like to familiarise yourself with the building before your visit, you can download our "
       -
         type: text
-        text: 'The disco will take place in our studio theatre and there will be an arts and crafts area in the foyer. Our café will be open, serving family friendly food and drink.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.danceeast.co.uk/wp-content/uploads/2023/09/Full-building-Visual-Story.pdf'
+              rel: null
+              target: null
+              title: null
+        text: 'Visual Story here'
+      -
+        type: text
+        text: ' or take a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.danceeast.co.uk/venue-hire/'
+              rel: null
+              target: null
+              title: null
+        text: 'Virtual Tour here'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -74,7 +147,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
+              href: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-2/'
               rel: null
               target: _blank
               title: null
@@ -227,10 +300,10 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-10 15:30'
-attendance_information: '- Suitable for ages 0-5 and their adults'
+end_date: '2024-11-01 15:30'
+attendance_information: '- Suitable for ages 4 - 11'
 duplicated_from: b8316009-658e-46f5-a9a6-7e05f53e22b7
-cost_details: '0-12 months free, 1-5 years £4, adult £6'
-booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
+cost_details: '£25 but bursaries are available'
+booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-2/'
 ---
-Join us for our forest themed Baby Loves to Boogie, the best baby disco in town! You and your little ones will explore the woodland floor and dance with creatures of the forest.
+Our popular Once Upon a Dance is back this October half term and we’re partnering with Britten Pears Arts to provide an exciting, fun-filled day of moving, music-making, songwriting and creativity!
