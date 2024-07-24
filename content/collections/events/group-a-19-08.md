@@ -1,14 +1,13 @@
 ---
 id: 21253e9c-698f-491d-9425-eced761b77c2
-published: false
 blueprint: events
-title: 'Quietnote: music and mindfulness (Duplicated)'
+title: 'Group A at Aldeburgh Carnival'
 latitude: '52.16397679077819'
 longitude: '1.496796100174832'
-start_date: '2024-07-29 10:00'
-end_date: '2024-07-29 16:00'
+start_date: '2024-08-17 10:00'
+end_date: '2024-08-19 16:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721847008
+updated_at: 1721847524
 free: true
 virtual: false
 organisers:
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be two different sessions, each running twice, throughout the day:'
+        text: 'In this three-day project (17–19 August), young participants will create a performance for this year’s Aldeburgh Carnival. Led by The Fontanas, participants will explore high-energy music – from Latin ska anthems to Brazilian samba soul – to create a unique sound.'
   -
     type: paragraph
     content:
@@ -36,34 +35,73 @@ content_area:
         marks:
           -
             type: bold
-        text: 'An introduction to mindfulness through music: '
+        text: '17 & 18 August'
       -
         type: text
-        text: 'a one-hour personalised workshop that offers a better understanding of the practices of mindfulness through music and how this relates to the bigger picture of mental wellbeing. Participants will work with traditional mindfulness practices and guided musical meditations, and there will be an open discussion about how this practice can help to boost lifestyle.'
-  -
-    type: paragraph
-    content:
+        text: ' - workshops and rehearsal at Snape Maltings'
       -
-        type: text
-        text: 'This session will run at 10am and 1.30pm.'
-  -
-    type: paragraph
-    content:
+        type: hardBreak
       -
         type: text
         marks:
           -
             type: bold
-        text: 'Exploring mindfulness and music with your children:'
+        text: '19 August'
       -
         type: text
-        text: " sessions in which we will explore the fascinating topic of mindfulness and music with your children. Mindfulness is not all about relaxation and ‘inner peace’; it's also about heightening our senses, focusing our minds, and improving our skills - all of which can be instrumental in enriching the lives of the young people around us. Please note - this session is primarily for adults and is not intended to be a workshop for or with young children."
+        text: ' - performance at Aldeburgh Carnival'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This session will run at 11.30am and 3pm.'
+        text: 'No previous musical experience or knowledge is needed to take part.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Free transport is provided from Ipswich, Lowestoft and Leiston.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:community@brittenpearsarts.org'
+              rel: 'noreferrer noopener'
+              target: _blank
+              title: 'mailto:community@brittenpearsarts.org'
+        text: community@brittenpearsarts.org
+      -
+        type: text
+        text: ' for more information.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find out more '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbrittenpearsarts.org%2Ftake-part%2Ffamilies-young-people%2Fgroup-a%3Ftoken%3DM6TfR_KjtPgDtG9i94mSAQulpEQCc99d&data=05%7C02%7Cacooke%40brittenpearsarts.org%7C5be000e4cf3847d8b12e08dc53e40c5a%7C70d50667bd5d457da284c0692661f5bc%7C0%7C0%7C638477486124293817%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=7KZtuX2L0hcdSaFodbi4zE6wY%2FwzK218rTxN7wccwqg%3D&reserved=0'
+              rel: 'noreferrer noopener'
+              target: _blank
+              title: 'https://brittenpearsarts.org/take-part/families-young-people/group-a?token=m6tfr_kjtpgdtg9i94msaqulpeqcc99d'
+        text: 'about Group A'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -84,9 +122,9 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.brittenpearsarts.org/events/quietnote'
+              href: 'https://www.brittenpearsarts.org/events/aldeburgh-carnival-with-group-a-3'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'here. '
   -
@@ -151,7 +189,6 @@ content_area:
       -
         type: text
         text: ' website.'
-address_line_1: 'Jerwood Kiln Studio'
 address_line_2: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -163,12 +200,9 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 
   [01728687127](tel:01728687127)
-event_categories:
-  - music
-  - wellbeing
-booking_link: 'https://www.brittenpearsarts.org/events/quietnote'
+booking_link: 'https://www.brittenpearsarts.org/events/aldeburgh-carnival-with-group-a-3'
 featured_image: offthepressimages/Music_white.png
 duplicated_from: f99a9551-9f2c-4cc3-9830-b7295cbb7709
-cost_details: '£6.25 for under 30s, £12.50 for people over 30'
+attendance_information: '- for young people aged 8 - 18'
 ---
-A day of wellbeing workshops with a distinctive music-based approach, focused on benefiting mental health and increasing happiness.
+A free summer project for ages 8–18, with singing, dancing and movement, ending in a performance at Aldeburgh Carnival.
