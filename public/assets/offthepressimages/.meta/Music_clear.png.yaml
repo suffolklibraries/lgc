@@ -1,6 +1,8 @@
-data: {  }
+data:
+  alt: 'Illustration showing musical instruments and shapes'
 size: 179803
-last_modified: 1642176922
+last_modified: 1701272404
 width: 1931
 height: 2732
 mime_type: image/png
+duration: null
