@@ -1,17 +1,15 @@
 ---
 id: e93b2511-091d-4ba5-bf15-4b971b7b3a69
-published: false
 blueprint: events
-title: 'Baby Loves to Boogie (Duplicated)'
+title: 'Let’s Dance! Holiday Club'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720019315
+updated_at: 1721851793
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-10 13:30'
+start_date: '2024-08-06 08:45'
 event_categories:
   - dance
-  - early-years
 free: true
 virtual: false
 organisers:
@@ -20,7 +18,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: offthepressimages/new_resized_images/Early-Years.png
+featured_image: offthepressimages/new_resized_images/Dance_Ballet.png
 content_area:
   -
     type: heading
@@ -35,25 +33,54 @@ content_area:
     content:
       -
         type: text
+        text: 'DanceEast will provide a nutritious hot lunch, healthy snack, and drink, as well as arts and crafts activities. It’s a great chance for young people to form new friendships, build confidence and develop fresh new skills.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         marks:
           -
             type: italic
-        text: '“This is the best baby event I’ve been to! Do them more often!”'
-      -
-        type: text
-        text: ' – adult who attended a previous Baby Loves to Boogie'
+        text: '“Everyone was so welcoming and friendly! Really positive experience! And so much fun was had! They couldn’t wait to go back again.”'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Baby Loves to Boogie is all about connecting with your little one, moving, and having fun. You will be guided through games with props and movement exercises, all developed to nurture your little one’s natural love of movement in a structured yet relaxed environment. This is an event for children and adults alike, no previous dance experience necessary!'
+        marks:
+          -
+            type: italic
+        text: '“This is one of the best holiday clubs I have found. Very happy.”'
+  -
+    type: paragraph
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The disco will take place in our studio theatre and there will be an arts and crafts area in the foyer. Our café will be open, serving family friendly food and drink.'
+        marks:
+          -
+            type: bold
+        text: 'Timings:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'We use a staggered sign-in. If you’re not attending Breakfast Club, drop off and pick up times are in the following slots:'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ages 4-7: Drop-off 8.45am – 9.00am. Pick-up 2.45pm – 3.00pm.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Ages 8-11: Drop off 9.00am – 9.15am. Pick-up 3.00pm – 3.15pm.'
   -
     type: heading
     attrs:
@@ -67,23 +94,55 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your place via the '
+        text: 'If you have any questions, or would like to book over the phone, please contact our Box Office on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
+              href: 'tel:0147329523'
+              rel: null
+              target: null
+              title: null
+        text: '01473 29523'
+      -
+        type: text
+        text: '0 or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:info@danceeast.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: info@danceeast.co.uk
+      -
+        type: text
+        text: '. You can book through the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club-4-11-years/'
               rel: null
               target: _blank
               title: null
-        text: 'Dance East website'
+        text: 'DanceEast website'
       -
         type: text
         text: .
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Free places are available to those on income/benefit related Free School Meals and you will be asked to provide evidence of free school meals during booking. Limited places are available for young people who are identified as “being in need of the provision” (indicators for this may include, for example, being on Universal Credit).'
   -
     type: heading
     attrs:
@@ -227,10 +286,10 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-10 15:30'
-attendance_information: '- Suitable for ages 0-5 and their adults'
+end_date: '2024-08-09 15:15'
+attendance_information: '- Suitable for ages 4 to 11'
 duplicated_from: b8316009-658e-46f5-a9a6-7e05f53e22b7
-cost_details: '0-12 months free, 1-5 years £4, adult £6'
-booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
+cost_details: 'Free for children receiving free school meals'
+booking_link: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club-4-11-years/'
 ---
-Join us for our forest themed Baby Loves to Boogie, the best baby disco in town! You and your little ones will explore the woodland floor and dance with creatures of the forest.
+Filled with creative dance sessions, Let’s Dance! Holiday Club is a fun, energetic and imaginative way for children and young people to learn and express themselves through movement.
