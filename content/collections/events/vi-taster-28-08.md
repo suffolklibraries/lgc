@@ -1,13 +1,12 @@
 ---
 id: d6c8ea88-06d5-460a-b79d-1cc9462f620f
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Singing (Duplicated)'
+title: 'VI Arts Taster Programme - Art'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721914451
-start_date: '2024-08-21 14:30'
-end_date: '2024-08-21 16:00'
+updated_at: 1721914761
+start_date: '2024-08-28 14:30'
+end_date: '2024-08-28 16:30'
 event_categories:
   - literature
   - drama
@@ -16,8 +15,8 @@ event_categories:
   - music
 free: true
 virtual: false
-town: Woodbridge
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+town: Haverhill
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 content_area:
   -
     type: heading
@@ -114,21 +113,35 @@ content_area:
     content:
       -
         type: text
-        text: "The Burness Parish Rooms have their own car park. The nearest bus stop is a minute's walk away. Melton rail station is a 10 minute walk away and you can find up to date times on the "
+        text: 'The nearest parking is the Meadows car park and you can find details on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/mes'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/haverhill-car-parks.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: 'Suffolk Gov website'
       -
         type: text
-        text: .
+        text: ' and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Stour+Valley+Road/@52.0788864,0.4443564,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d85eedcfeaaaab:0x6e35891df546047c!2sHaverhill+Bowls+Club,+Manor+Rd,+Haverhill+CB9+0EP!2m2!1d0.4473716!2d52.0796009!1m6!1m2!1s0x47d85eee6f415147:0x8f1a0c55c0e2249e!2sStour+Valley+Road,+Haverhill+CB9+8QN!2m2!1d0.447074!2d52.078049!3e2!3m5!1s0x47d85eee6f415147:0x8f1a0c55c0e2249e!8m2!3d52.078049!4d0.447074!16s%2Fg%2F11mr2y4r3k?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'closest bus stop'
+      -
+        type: text
+        text: ' is a three minute walk away.'
   -
     type: paragraph
     content:
@@ -157,9 +170,9 @@ accessibility_information: |-
   - Guide dogs welcome
 latitude: '52.10588840719979'
 longitude: '1.331017097259445'
-address_line_1: 'Burness Parish Rooms'
-address_line_2: '38 The Street, Melton'
-postcode: 'IP12 1PW'
+address_line_1: 'Haverhill Bowls and Cricket Club'
+address_line_2: 'Manor Road'
+postcode: 'CB9 0EP'
 duplicated_from: b6020699-2f40-4417-8031-d6b51d3697bb
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
