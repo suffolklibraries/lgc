@@ -1,13 +1,12 @@
 ---
 id: b770b33c-b58c-4363-9d0d-74716ce907a8
-published: false
 blueprint: events
-title: 'Clockwork Dance - Style Trial (Duplicated) (2)'
+title: 'Clockwork Dance - Style Trial'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721891209
-start_date: '2024-10-26 09:10'
-end_date: '2024-10-26 10:10'
+updated_at: 1721891311
+start_date: '2024-11-16 09:10'
+end_date: '2024-11-16 10:10'
 event_categories:
   - dance
 free: false
