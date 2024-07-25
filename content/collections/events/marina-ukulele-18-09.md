@@ -2,12 +2,12 @@
 id: 877dfefd-6e31-405a-8b55-71ecbef9d9c7
 published: false
 blueprint: events
-title: 'Marina Monkey Music (Duplicated)'
+title: 'Ukulele Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721916619
-start_date: '2024-08-06 10:30'
-end_date: '2024-08-06 11:30'
+updated_at: 1721916957
+start_date: '2024-09-18 18:30'
+end_date: '2024-09-18 20:00'
 event_categories:
   - music
   - early-years
@@ -16,7 +16,7 @@ virtual: false
 organisers:
   - marina-theatre
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Early-Years.png
+featured_image: offthepressimages/Music_white.png
 content_area:
   -
     type: heading
@@ -31,13 +31,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Looking for a fun, friendly and supportive environment to let you baby play? Marina Monkey Music is the place for you!'
+        text: 'The orchestra meets weekly at the Marina Theatre, working towards performances at the theatre and other locations in and around Lowestoft throughout the year.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Led by the Marina’s music facilitator Donna, these fun weekly sessions are for pre-walking small people and their adults to explore sound, music, stories and sensory play.'
+        text: 'Our fun and relaxed music groups are a perfect way to get to know new friends, learn or develop your musical skills and flex your creative muscles!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'No experience or equipment necessary - just turn up and our fantastic facilitators will get you making sweet sweet music.'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "\_ \_ \_ \_\_"
   -
     type: paragraph
     content:
@@ -50,7 +62,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.marinatheatre.co.uk/take-part-community-marina-monkey-music/'
+              href: 'https://www.marinatheatre.co.uk/take-part/marina-theatre-ukulele-group/'
               rel: null
               target: _blank
               title: null
@@ -71,18 +83,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking is essential - '
+        text: 'Booking is essential - please contact '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:music@marinatheatre.co.uk'
+              href: 'mailto:community@marinatheatre.co.uk'
               rel: null
               target: null
               title: null
-        text: 'email music@marinatheare.co.uk'
+        text: community@marinatheatre.co.uk
       -
         type: text
         text: ' to sign up.'
@@ -241,6 +253,7 @@ address_line_1: 'Marina Theatre'
 address_line_2: Marina
 postcode: 'NR32 1HH'
 duplicated_from: 2c4093b2-37ca-474c-82a6-0d1f91784ee1
-cost_details: '£5 per child'
+cost_details: '£7 per person'
+attendance_information: '- Over 18s'
 ---
-Want to introduce your little one to the power of music?
+Enjoy music? Want to meet people & learn a new skill? Then why not join our Ukulele Orchestra?
