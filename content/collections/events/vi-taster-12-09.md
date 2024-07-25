@@ -1,19 +1,22 @@
 ---
 id: 1141e045-ccb1-4c38-8a6e-e526c7caf840
-published: false
 blueprint: events
-title: 'Wolsey Writers (Duplicated)'
+title: 'VI Arts Taster Programme - Singing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714400064
-start_date: '2024-12-07 10:30'
-end_date: '2024-12-07 12:00'
+updated_at: 1721910072
+start_date: '2024-09-12 10:30'
+end_date: '2024-09-12 12:00'
 event_categories:
   - literature
-free: false
-virtual: true
+  - drama
+  - art
+  - wellbeing
+  - music
+free: true
+virtual: false
 town: Ipswich
-featured_image: offthepressimages/new_resized_images/Literature.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 content_area:
   -
     type: heading
@@ -28,35 +31,33 @@ content_area:
     content:
       -
         type: text
-        text: 'Our community includes novelists, scriptwriters, poets, storytellers, children’s literature, comedy, and nonfiction. We welcome writing in any genre. We welcome writers from diverse backgrounds. We welcome all levels of experience and aspirations of every size – from haiku to blockbuster trilogy.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Wolsey Writers is led by Katie Ward, an award-winning novelist and lecturer in creative writing at University of Suffolk. Every session includes tips to improve your creative practice, focused writing time, peer support and inspiration.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'The sessions are specially tailored to enable people living with sight loss and their companions to try their hand at drama, art, singing and seated yoga. All workshops are supported by trained Suffolk Sight volunteers.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: '‘You have boosted my ability to ‘just write’ beyond my expectations and it is helping me push my current novel forward.’'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '‘Excellent forum to meet other writers, share work and get constructive feedback.’'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'You don’t need to have any experience in any of the art forms, and all activities are optional. There will be time afterwards to enjoy social time with complimentary refreshments. Guide dogs are very welcome.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: '‘Humble, informative and inspirational – that is surely the success and key to Wolsey Writers.’'
+        text: 'Workshops are currently planned for Ipswich, Stowmarket, Hadleigh, Mildenhall and Bury St Edmunds, with more dates and locations to follow soon. Full details of the programme so far can be found on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://coherearts.org/vi-arts-taster-programme/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Cohere Arts website'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -70,21 +71,35 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the '
+        text: 'All workshops are completely FREE to attend, and booking is not required but if you would like to find out more, please email us at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.wolseytheatre.co.uk/shows/wolsey-writers-2024/#prices'
+              href: 'mailto:coherearts@gmail.com'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'New Wolsey Theatre website'
+        text: coherearts@gmail.com
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: ' to book your ticket.'
+        text: 'Or get in touch with Agnieszka Jeffery, Suffolk Sight’s Social Club and Volunteer Co-ordinator by emailing '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:a.jeffery@suffolksight.org.uk'
+              rel: 'noreferrer noopener'
+              target: _blank
+              title: null
+        text: a.jeffery@suffolksight.org.uk
   -
     type: heading
     attrs:
@@ -145,22 +160,22 @@ content_area:
               title: null
         text: 'Suffolk Onboard.'
 cta: |-
-  This event is based at the New Wolsey Theatre
+  This event is run by Cohere Arts
 
-  [https://www.wolseytheatre.co.uk/](https://www.wolseytheatre.co.uk/)
+  [https://coherearts.org/](https://coherearts.org/)
 
-  [tickets@wolseytheatre.co.uk](mailto:tickets@wolseytheatre.co.uk)
-
-  [01473 295900](tel:01473295900)
-accessibility_information: '- Wheelchair access'
+  [coherearts@gmail.com](mailto:coherearts@gmail.com)
+accessibility_information: |-
+  - Wheelchair access
+  - Guide dogs welcome
 latitude: '52.05887879991613'
 longitude: '1.1479524547198736'
 address_line_1: 'New Wolsey Theatre'
 address_line_2: 'Civic Drive'
 postcode: 'IP1 2AS'
 duplicated_from: 69ef8cde-974d-4e6d-9485-825607d68a44
-booking_link: 'https://www.wolseytheatre.co.uk/shows/wolsey-writers-2024/#prices'
-cost_details: 'Pay as you feel'
-attendance_information: '- Ages 16 +'
+attendance_information: '-  adults and young people living with visual impairment'
+organisers:
+  - cohere-arts
 ---
-Wolsey Writers is a creative writing group based at New Wolsey Theatre since 2015.
+A series of arts workshops for adults and young people living with visual impairment across Suffolk.
