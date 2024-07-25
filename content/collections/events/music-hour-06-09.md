@@ -1,5 +1,6 @@
 ---
 id: a0fb71b2-ab1c-4250-8f13-a057c55614bb
+published: false
 blueprint: events
 title: 'The Music Hour'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
