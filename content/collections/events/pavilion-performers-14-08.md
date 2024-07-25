@@ -1,14 +1,13 @@
 ---
 id: 5bc09a75-594c-4733-b3c4-e335d89c8be0
-published: false
 blueprint: events
-title: 'Live Music - Heidi Marie (Duplicated)'
+title: 'Pavilion Performers Open Session'
 event_categories:
   - music
 organisers:
   - east-point-pavilion
-start_date: '2024-08-10 19:30'
-end_date: '2024-08-10 21:30'
+start_date: '2024-08-24 19:30'
+end_date: '2024-08-24 21:30'
 free: true
 virtual: false
 accessibility_information: |-
@@ -36,7 +35,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Heidi is a solo covers singer hailing from mid-Suffolk and covers a wide selection of genres from pop to rock to country to jazz and many more!'
+        text: 'Hosted by local musician and experienced facilitator, Greg Powles, the evening will begin with a “turn up and play” where anyone under the age of 18 can bring a song and perform with an instrument or backing track. Then, we’ll open the floor to musicians of any age who would like to share a song and the evening will be rounded off with a showcase performance by one of our First Light Festival New Dawn youth performers.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Pavilion Performers Open Sessions is an inclusive, friendly space led by experienced practitioners and everyone is welcome!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Hot drinks and soft drinks will be available and we look forward to seeing you there!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '7pm – Turn up and play for under 18’s'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '8pm – Turn up and play for al- comers'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '9pm – New Dawn showcase performance'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '9.30 - End'
   -
     type: heading
     attrs:
@@ -107,8 +139,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721906491
+updated_at: 1721906682
 duplicated_from: c6f8e622-46e4-4201-9160-0dc152a6aa40
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 ---
-Join Heidi Marie at East Point Pavilion for free live music!
+Pavilion Performers Open Sessions is a new monthly opportunity for local musicians to perform and connect.
