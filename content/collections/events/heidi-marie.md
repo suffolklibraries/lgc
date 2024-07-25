@@ -1,14 +1,13 @@
 ---
 id: c6f8e622-46e4-4201-9160-0dc152a6aa40
-published: false
 blueprint: events
-title: 'Live Music - Ben Wragg (Duplicated)'
+title: 'Live Music - Heidi Marie'
 event_categories:
   - music
 organisers:
   - east-point-pavilion
-start_date: '2024-07-20 19:30'
-end_date: '2024-07-20 21:30'
+start_date: '2024-08-10 19:30'
+end_date: '2024-08-10 21:30'
 free: true
 virtual: false
 accessibility_information: |-
@@ -36,34 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Ben is an aspiring artist from Suffolk. He started making music at a young age and he released his first single ‘'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Telephone Talk'
-      -
-        type: text
-        text: '’ in late August 2023. Since then, he has released a 6 song EP titled ‘'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Nighttime Nostalgia’'
-      -
-        type: text
-        text: ' and a single called ‘'
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: Motel’
-      -
-        type: text
-        text: '. He takes great inspiration from artists such as Dominic Fike, Bakar and Declan McKenna.'
+        text: 'Heidi is a solo covers singer hailing from mid-Suffolk and covers a wide selection of genres from pop to rock to country to jazz and many more!'
   -
     type: heading
     attrs:
@@ -134,8 +106,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720020058
+updated_at: 1721906491
 duplicated_from: faab3f08-ebb8-43a6-bc4d-14eaa16c1759
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 ---
-Fresh from his performance at this year’s First Light Festival, Ben Wegg returns to East Point Pavilion.
+Join Heidi Marie at East Point Pavilion for free live music!
