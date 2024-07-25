@@ -1,13 +1,12 @@
 ---
 id: 0fdbb7a6-c941-4a3a-a0fc-1a07af0a95b0
-published: false
 blueprint: events
-title: 'Ukulele Group (Duplicated)'
+title: 'Ukulele Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721916957
-start_date: '2024-09-18 18:30'
-end_date: '2024-09-18 20:00'
+updated_at: 1721917001
+start_date: '2024-09-25 18:30'
+end_date: '2024-09-25 20:00'
 event_categories:
   - music
   - early-years
