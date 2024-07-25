@@ -1,11 +1,10 @@
 ---
 id: b122af1d-fd12-464a-9a0e-d4a556ef342a
-published: false
 blueprint: events
 title: 'Clockwork Dance - Style Trial'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721890402
+updated_at: 1721890582
 start_date: '2024-08-10 09:10'
 end_date: '2024-08-10 10:10'
 event_categories:
@@ -44,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: "For more detail message Larne Patrick at\_"
+        text: "For more details and to book message Larne Patrick at\_"
       -
         type: text
         marks:
@@ -58,7 +57,7 @@ content_area:
         text: larnepatrick3@gmail.com
       -
         type: text
-        text: "\_or go to our "
+        text: "\_or go to their "
       -
         type: text
         marks:
