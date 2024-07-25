@@ -1,13 +1,12 @@
 ---
 id: dde09499-c06d-45d2-a60b-ce46c4eab444
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Art (Duplicated)'
+title: 'VI Arts Taster Programme - Drama'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721914761
-start_date: '2024-08-28 14:30'
-end_date: '2024-08-28 16:30'
+updated_at: 1721915086
+start_date: '2024-09-03 10:30'
+end_date: '2024-09-03 12:30'
 event_categories:
   - literature
   - drama
@@ -16,8 +15,8 @@ event_categories:
   - music
 free: true
 virtual: false
-town: Haverhill
-featured_image: offthepressimages/new_resized_images/VisualArts.png
+town: 'Bury Saint Edmunds'
+featured_image: offthepressimages/new_resized_images/Theatre.png
 content_area:
   -
     type: heading
@@ -114,35 +113,21 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest parking is the Meadows car park and you can find details on the '
+        text: "St John's Community Centre has onsite car parking and the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/haverhill-car-parks.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Gov website'
-      -
-        type: text
-        text: ' and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/place/Stour+Valley+Road/@52.0788864,0.4443564,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d85eedcfeaaaab:0x6e35891df546047c!2sHaverhill+Bowls+Club,+Manor+Rd,+Haverhill+CB9+0EP!2m2!1d0.4473716!2d52.0796009!1m6!1m2!1s0x47d85eee6f415147:0x8f1a0c55c0e2249e!2sStour+Valley+Road,+Haverhill+CB9+8QN!2m2!1d0.447074!2d52.078049!3e2!3m5!1s0x47d85eee6f415147:0x8f1a0c55c0e2249e!8m2!3d52.078049!4d0.447074!16s%2Fg%2F11mr2y4r3k?entry=ttu'
+              href: "https://www.google.com/maps/dir/St+John's+Community+Centre,+St+John's+Cl,+Mildenhall,+Bury+St+Edmunds,+Bury+Saint+Edmunds+IP28+7NX/Clare+Close,+Mildenhall,+Bury+Saint+Edmunds+IP28+7NW/@52.3506528,0.5188653,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d8476595253a6f:0xd3063c73c38ad4b8!2m2!1d0.5180235!2d52.3506945!1m5!1m1!1s0x47d847655275ff7f:0x1ed2ae3d37a4da78!2m2!1d0.522241!2d52.350208!3e2?entry=ttu"
               rel: null
               target: _blank
               title: null
         text: 'closest bus stop'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: ' is a five minute walk away.'
   -
     type: paragraph
     content:
@@ -171,9 +156,9 @@ accessibility_information: |-
   - Guide dogs welcome
 latitude: '52.10588840719979'
 longitude: '1.331017097259445'
-address_line_1: 'Haverhill Bowls and Cricket Club'
-address_line_2: 'Manor Road'
-postcode: 'CB9 0EP'
+address_line_1: "St John's Community Centre"
+address_line_2: "St John's Close, Mildenhall"
+postcode: 'IP28 7NX'
 duplicated_from: d6c8ea88-06d5-460a-b79d-1cc9462f620f
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
