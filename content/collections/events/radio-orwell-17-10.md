@@ -1,21 +1,20 @@
 ---
 id: 5c0125ae-83b9-473d-960d-e9b8120d077c
-published: false
 blueprint: events
-title: 'Remembering Radio Orwell (Duplicated) (Duplicated)'
+title: 'Remembering Radio Orwell'
 organisers:
   - suffolk-archives
   - cohere-arts
-start_date: '2024-10-10 13:00'
-end_date: '2024-10-10 16:00'
+start_date: '2024-10-17 13:00'
+end_date: '2024-10-17 16:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
-latitude: '52.05322071930784'
-longitude: '1.1636764272050126'
-address_line_1: 'The Hold'
+latitude: '52.06333346360425'
+longitude: '1.1373039051974707'
+address_line_1: 'The Eastern Angles Centre'
 town: Ipswich
-postcode: 'IP4 1LN'
+postcode: 'IP1 2LQ'
 content_area:
   -
     type: heading
@@ -149,13 +148,27 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to get there'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Hold is a four minute walk from the nearest bus stop - see the latest bus timetables '
+        text: 'There is a free car park on-site, which you can enter using the large blue gates located on the right-hand side of Gatacre Road. Other car parks nearby which are pay and display include: South Street Car Park (10 min walk to theatre), Portman Road Car Park (16 min walk to theatre). The closest '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Sir+John+Mills+Theatre/@52.0631843,1.1376062,19.75z/data=!4m12!1m6!3m5!1s0x47d9a1b5f34a8ddd:0xe05bc781d84ef4dd!2sEastern+Angles+Centre!8m2!3d52.0631422!4d1.13732!3m4!1s0x47d9a1b5f9a67d49:0x8856208cee78829a!8m2!3d52.063236!4d1.137275'
+              rel: null
+              target: null
+              title: null
+        text: 'bus stop'
+      -
+        type: text
+        text: ' is one minute away, see the latest bus timetables '
       -
         type: text
         marks:
@@ -169,58 +182,9 @@ content_area:
         text: here
       -
         type: text
-        text: '. The nearest car park is at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ipserv.co.uk/car-parks/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Duke Street'
-      -
-        type: text
-        text: ' car park a five minute walk away or '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Crown car park'
-      -
-        type: text
-        text: ' a six minute walk away. There are two accessible carpark spaces for blue badge holders in The Hold car park.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Plan your journey using '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Onboard'
-      -
-        type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721908278
+updated_at: 1721908443
 duplicated_from: 6504fda2-0ef2-4a9c-82cc-047cd3b9b495
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 cta: |-
@@ -229,6 +193,6 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-address_line_2: '131 Fore Street'
+address_line_2: 'Gatacre Road'
 ---
 Do you remember the heyday of Ipswich’s beloved local radio station Radio Orwell 257?
