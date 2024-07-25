@@ -1,13 +1,12 @@
 ---
 id: b6020699-2f40-4417-8031-d6b51d3697bb
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Seated Yoga (Duplicated)'
+title: 'VI Arts Taster Programme - Singing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721910553
-start_date: '2024-10-17 10:30'
-end_date: '2024-10-17 12:00'
+updated_at: 1721914451
+start_date: '2024-08-21 14:30'
+end_date: '2024-08-21 16:00'
 event_categories:
   - literature
   - drama
@@ -16,8 +15,8 @@ event_categories:
   - music
 free: true
 virtual: false
-town: Ipswich
-featured_image: offthepressimages/new_resized_images/support.png
+town: Woodbridge
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 content_area:
   -
     type: heading
@@ -114,35 +113,21 @@ content_area:
     content:
       -
         type: text
-        text: 'There are two carparks very close to the theatre - '
+        text: "The Burness Parish Rooms have their own car park. The nearest bus stop is a minute's walk away. Melton rail station is a 10 minute walk away and you can find up to date times on the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_spiral/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/mes'
               rel: null
               target: _blank
               title: null
-        text: 'Spiral Car Park'
+        text: 'Greater Anglia website'
       -
         type: text
-        text: ' and '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_wolsey/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Wolsey Car Park'
-      -
-        type: text
-        text: '. The nearest bus stop is a three minute walk away. Ipswich rail station is a 15 minute walk from the theatre.'
+        text: .
   -
     type: paragraph
     content:
@@ -169,11 +154,11 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Guide dogs welcome
-latitude: '52.05887879991613'
-longitude: '1.1479524547198736'
-address_line_1: 'New Wolsey Theatre'
-address_line_2: 'Civic Drive'
-postcode: 'IP1 2AS'
+latitude: '52.10588840719979'
+longitude: '1.331017097259445'
+address_line_1: 'Burness Parish Rooms'
+address_line_2: '38 The Street, Melton'
+postcode: 'IP12 1PW'
 duplicated_from: ede9883c-95c4-487e-b96a-157f001bf040
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
