@@ -4,9 +4,9 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716896314
+updated_at: 1721889354
 start_date: '2024-08-02 10:00'
-end_date: '2024-08-02 11:15'
+end_date: '2024-08-02 11:30'
 event_categories:
   - dance
   - later-life
@@ -31,13 +31,13 @@ content_area:
     content:
       -
         type: text
-        text: 'A chance to meet people, move together and enjoy refreshments and a chat afterwards.'
+        text: 'By encouraging more people to enjoy dance as a sociable activity, Lowestoft Movers offers the opportunity to get moving in an informal way and to have fun whilst doing so. The class includes one hour of movement followed by some social time with tea, coffee and biscuits.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Classes will include an hour of movement with time to socialise at the end with tea, coffee and biscuits.'
+        text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health, and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
   -
     type: heading
     attrs:
@@ -90,7 +90,7 @@ content_area:
     content:
       -
         type: text
-        text: "Lowestoft movers meets at St Margaret's Hall and The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest "
+        text: 'Lowestoft Movers meets at The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest '
       -
         type: text
         marks:
