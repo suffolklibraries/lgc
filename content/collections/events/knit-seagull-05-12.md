@@ -1,13 +1,12 @@
 ---
 id: 65394804-0e2f-46b8-936a-00cfa8d6da25
-published: false
 blueprint: events
-title: 'Knit and Natter (Duplicated) (2)'
+title: 'Knit and Natter'
 organisers:
   - the-seagull-theatre
 featured_image: offthepressimages/olderpeople.png
-start_date: '2024-11-21 10:00'
-end_date: '2024-11-21 12:00'
+start_date: '2024-12-05 10:00'
+end_date: '2024-12-05 12:00'
 free: true
 virtual: false
 latitude: '52.45680368528646'
@@ -126,7 +125,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721905733
+updated_at: 1721905888
 duplicated_from: 2c05498b-3814-42e4-8066-2e90c65474e1
 event_categories:
   - later-life
