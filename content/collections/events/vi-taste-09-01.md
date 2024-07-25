@@ -2,12 +2,12 @@
 id: ae425762-4771-4b90-a162-bf9e42285b49
 published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Drama (Duplicated)'
+title: 'VI Arts Taster Programme - Drama'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721915086
-start_date: '2024-09-03 10:30'
-end_date: '2024-09-03 12:30'
+updated_at: 1721916417
+start_date: '2025-01-09 10:00'
+end_date: '2025-01-09 12:00'
 event_categories:
   - literature
   - drama
@@ -16,7 +16,7 @@ event_categories:
   - music
 free: true
 virtual: false
-town: 'Bury Saint Edmunds'
+town: 'Hadleigh, Ipswich'
 featured_image: offthepressimages/new_resized_images/Theatre.png
 content_area:
   -
@@ -114,7 +114,7 @@ content_area:
     content:
       -
         type: text
-        text: "St John's Community Centre has onsite car parking and the "
+        text: 'Magdalen House Care Home has onsite car parking and the '
       -
         type: text
         marks:
@@ -128,7 +128,7 @@ content_area:
         text: 'closest bus stop'
       -
         type: text
-        text: ' is a five minute walk away.'
+        text: ' is a two minute walk away.'
   -
     type: paragraph
     content:
@@ -155,11 +155,11 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Guide dogs welcome
-latitude: '52.10588840719979'
-longitude: '1.331017097259445'
-address_line_1: "St John's Community Centre"
-address_line_2: "St John's Close, Mildenhall"
-postcode: 'IP28 7NX'
+latitude: '52.043693946474875'
+longitude: '0.9554444260915123'
+address_line_1: 'Magdalen House Care House'
+address_line_2: 'Magdalen Road'
+postcode: 'IP7 5AD'
 duplicated_from: dde09499-c06d-45d2-a60b-ce46c4eab444
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
