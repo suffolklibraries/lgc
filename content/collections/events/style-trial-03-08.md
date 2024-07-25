@@ -1,24 +1,20 @@
 ---
 id: b267099f-dfa4-4594-9c98-cc9bed2a0ba1
-published: false
 blueprint: events
-title: 'Lowestoft Movers (Duplicated)'
+title: 'Clockwork Dance - Style Trial'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721889799
-start_date: '2024-12-13 10:00'
-end_date: '2024-12-13 11:30'
+updated_at: 1721890284
+start_date: '2024-08-03 09:10'
+end_date: '2024-08-03 10:10'
 event_categories:
   - dance
-  - later-life
 free: false
 virtual: false
 organisers:
-  - alysha-hudson-dance-yoga-movement
-  - dance-east
+  - clockwork-dance-company
 town: Lowestoft
 featured_image: offthepressimages/new_resized_images/Dance.png
-attendance_information: '- Age 55+'
 content_area:
   -
     type: heading
@@ -33,13 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'By encouraging more people to enjoy dance as a sociable activity, Lowestoft Movers offers the opportunity to get moving in an informal way and to have fun whilst doing so. The class includes one hour of movement followed by some social time with tea, coffee and biscuits.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health, and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
+        text: 'Clockwork Dance Company is a contemporary dance and theatre training provider, operating from The Seagull Theatre, Lowestoft.'
   -
     type: heading
     attrs:
@@ -53,32 +43,35 @@ content_area:
     content:
       -
         type: text
-        text: 'For further information and to book your place please contact community dance artist Alysha Hudson by email '
+        text: "For more detail message Larne Patrick at\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:alysha1990@hotmail.co.uk'
+              href: 'mailto:larnepatrick3@gmail.com'
               rel: null
               target: null
               title: null
-        text: alysha1990@hotmail.co.uk
+        text: larnepatrick3@gmail.com
       -
         type: text
-        text: ' or phone '
+        text: "\_or go to our "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07984756499'
+              href: 'https://www.facebook.com/clockworkdc2017/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: '07984 756499'
+        text: 'Facebook page'
+      -
+        type: text
+        text: .
   -
     type: heading
     attrs:
@@ -92,7 +85,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lowestoft Movers meets at The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest '
+        text: 'Clockwork Dance meets at The Seagull Theatre in Lowestoft. The Seagull is located minutes away from the Pakefield Beach. The nearest '
       -
         type: text
         marks:
@@ -137,14 +130,11 @@ content_area:
               title: null
         text: 'Plan your journey using Suffolk Onboard.'
 cta: |-
-  Please contact Alysha Hudson:
+  This event is organised by Clockwork Dance
 
-  [https://www.alyshahudson.co.uk/](https://www.alyshahudson.co.uk/)
+  [https://www.facebook.com/clockworkdc2017/](https://www.facebook.com/clockworkdc2017/)
 
-  [alysha1990@hotmail.com](mailto:alysha1990@hotmail.com)
-
-  [07984 756499](tel:07984756499)
-accessibility_information: '- Wheelchair access'
+  [larnepatrick3@gmail.com](mailto:larnepatrick3@gmail.com)
 cost_details: £4
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
@@ -153,4 +143,4 @@ address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 28d7109f-683b-40c8-a75c-7a58a1587842
 ---
-Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Lowestoft.
+Come and try our weekly dance classes in Lowestoft led by a friendly instructor.
