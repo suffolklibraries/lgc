@@ -4,9 +4,9 @@ blueprint: events
 title: 'The Music Hour'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714389080
-start_date: '2024-09-27 13:30'
-end_date: '2024-09-27 15:00'
+updated_at: 1721917191
+start_date: '2024-07-30 13:30'
+end_date: '2024-07-30 15:00'
 event_categories:
   - music
   - later-life
@@ -234,7 +234,7 @@ address_line_1: 'Marina Theatre'
 address_line_2: Marina
 postcode: 'NR32 1HH'
 duplicated_from: 8d85537e-fbc2-4b31-ae30-f020100b027b
-cost_details: '£3 per session'
+cost_details: '£5 per session'
 attendance_information: '- People with dementia and their carers'
 accessibility_information: '- Event space only accessible by stairs'
 ---
