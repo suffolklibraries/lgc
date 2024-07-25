@@ -4,9 +4,9 @@ blueprint: events
 title: 'Clockwork Dance - Style Trial'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721890524
-start_date: '2024-09-07 09:10'
-end_date: '2024-09-07 10:10'
+updated_at: 1721890571
+start_date: '2024-09-21 09:10'
+end_date: '2024-09-21 10:10'
 event_categories:
   - dance
 free: false
