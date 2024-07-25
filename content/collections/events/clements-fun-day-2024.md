@@ -1,5 +1,6 @@
 ---
 id: 6da8cd0a-b8ca-47d2-9fee-555f2eb1d6c6
+published: false
 blueprint: events
 title: 'Clements Fun Day'
 organisers:
