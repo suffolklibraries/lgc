@@ -1,21 +1,20 @@
 ---
 id: 6504fda2-0ef2-4a9c-82cc-047cd3b9b495
-published: false
 blueprint: events
-title: 'Remembering Radio Orwell (Duplicated)'
+title: 'Remembering Radio Orwell'
 organisers:
   - suffolk-archives
   - cohere-arts
-start_date: '2024-10-10 13:00'
-end_date: '2024-10-10 16:00'
+start_date: '2024-10-24 13:00'
+end_date: '2024-10-24 16:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
-latitude: '52.05322071930784'
-longitude: '1.1636764272050126'
-address_line_1: 'The Hold'
+latitude: '52.05887879991613'
+longitude: '1.1479524547198736'
+address_line_1: 'New Wolsey Theatre'
 town: Ipswich
-postcode: 'IP4 1LN'
+postcode: 'IP1 2AS'
 content_area:
   -
     type: heading
@@ -149,59 +148,44 @@ content_area:
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'How to get there'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Hold is a four minute walk from the nearest bus stop - see the latest bus timetables '
+        text: 'There are two carparks very close to the theatre - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
-              rel: null
-              target: null
-              title: null
-        text: here
-      -
-        type: text
-        text: '. The nearest car park is at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ipserv.co.uk/car-parks/'
+              href: 'https://en.parkopedia.co.uk/parking/carpark/the_spiral/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
               rel: null
               target: _blank
               title: null
-        text: 'Duke Street'
+        text: 'Spiral Car Park'
       -
         type: text
-        text: ' car park a five minute walk away or '
+        text: ' and '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              href: 'https://en.parkopedia.co.uk/parking/carpark/the_wolsey/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
               rel: null
               target: _blank
               title: null
-        text: 'Crown car park'
+        text: 'Wolsey Car Park'
       -
         type: text
-        text: ' a six minute walk away. There are two accessible carpark spaces for blue badge holders in The Hold car park.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: '. The nearest bus stop is a three minute walk away. Ipswich rail station is a 15 minute walk from the theatre.'
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'Plan your journey using '
@@ -215,12 +199,9 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard'
-      -
-        type: text
-        text: .
+        text: 'Suffolk Onboard.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721908278
+updated_at: 1721908364
 duplicated_from: 5d2142a3-8e9e-4270-8328-e747b52b9e0a
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 cta: |-
@@ -229,6 +210,6 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-address_line_2: '131 Fore Street'
+address_line_2: 'Civic Drive'
 ---
 Do you remember the heyday of Ipswich’s beloved local radio station Radio Orwell 257?
