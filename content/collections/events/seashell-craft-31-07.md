@@ -1,17 +1,15 @@
 ---
 id: 1f01653a-73ea-4e51-9c30-d0583ddfb0c9
-published: false
 blueprint: events
-title: "Angie's Curious Creatures Presents: Snail Story, Craft & Handling Session! (Duplicated)"
+title: 'Seashell Craft Activity'
 event_categories:
-  - literature
   - art
   - family-friendly
 organisers:
   - east-point-pavilion
-start_date: '2024-08-01 11:00'
-end_date: '2024-08-01 12:00'
-free: false
+start_date: '2024-07-31 15:00'
+end_date: '2024-07-31 16:00'
+free: true
 virtual: false
 accessibility_information: |-
   - Wheelchair access
@@ -38,9 +36,10 @@ content_area:
     content:
       -
         type: text
-        text: "Share an exciting story and take part in  fun snail-themed activities. You will even meet a real Giant African Land Snail! \_"
-      -
-        type: hardBreak
+        text: 'Transform an ordinary seashell into a beautiful hanging decoration!'
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: "\_"
@@ -48,7 +47,9 @@ content_area:
         type: hardBreak
       -
         type: text
-        text: 'Children must remain supervised by an adult throughout the session. Some activities may take place outside in our garden during the session.'
+        text: 'Children must remain supervised by an adult throughout the session. '
+  -
+    type: paragraph
   -
     type: heading
     attrs:
@@ -62,21 +63,23 @@ content_area:
     content:
       -
         type: text
-        text: 'You can book your ticket via the '
+        text: 'Tickets are free but booking is essential. You can book your ticket via the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-snail-story-craft-handling-session/2024-08-01/d-wvolxysmzkmpp'
+              href: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/seashell-craft-activity/2024-07-31/15:00/t-krxanlm'
               rel: null
               target: _blank
               title: null
         text: 'Ticket Source website'
       -
         type: text
-        text: .
+        text: '. '
+  -
+    type: paragraph
   -
     type: heading
     attrs:
@@ -135,10 +138,10 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720021171
+updated_at: 1721906419
 duplicated_from: 7d29d2c3-2566-4062-acee-0d59da13b071
-featured_image: offthepressimages/new_resized_images/VisualArts.png
-cost_details: '£3 per child'
-booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/angies-curious-creatures-presents-snail-story-craft-handling-session/2024-08-01/d-wvolxysmzkmpp'
+featured_image: eastpointpavilion/seashell-eastpoint.png
+booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/east-point-pavilion/seashell-craft-activity/2024-07-31/15:00/t-krxanlm'
+attendance_information: '- Ages 6+'
 ---
-Join animal expert Angie for this super snail-themed session.
+Join free and fun craft activities at East Point Pavilion this summer!
