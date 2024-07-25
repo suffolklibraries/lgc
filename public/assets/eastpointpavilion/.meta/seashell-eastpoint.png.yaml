@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Photo of seashells'
 size: 1181083
 last_modified: 1721906210
 width: 735
