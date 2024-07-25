@@ -1,13 +1,12 @@
 ---
 id: ede9883c-95c4-487e-b96a-157f001bf040
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Singing (Duplicated)'
+title: 'VI Arts Taster Programme - Seated Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721910072
-start_date: '2024-09-12 10:30'
-end_date: '2024-09-12 12:00'
+updated_at: 1721910553
+start_date: '2024-10-17 10:30'
+end_date: '2024-10-17 12:00'
 event_categories:
   - literature
   - drama
@@ -17,7 +16,7 @@ event_categories:
 free: true
 virtual: false
 town: Ipswich
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+featured_image: offthepressimages/new_resized_images/support.png
 content_area:
   -
     type: heading
