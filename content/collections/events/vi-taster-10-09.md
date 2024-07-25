@@ -1,13 +1,12 @@
 ---
 id: 98b1c21a-b38b-4689-b6ea-dca8126b59da
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Seated Yoga (Duplicated)'
+title: 'VI Arts Taster Programme - Seated Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721910553
-start_date: '2024-10-17 10:30'
-end_date: '2024-10-17 12:00'
+updated_at: 1721915275
+start_date: '2024-09-10 11:00'
+end_date: '2024-09-10 13:00'
 event_categories:
   - literature
   - drama
@@ -16,7 +15,7 @@ event_categories:
   - music
 free: true
 virtual: false
-town: Ipswich
+town: 'Bury St Edmunds'
 featured_image: offthepressimages/new_resized_images/support.png
 content_area:
   -
@@ -114,35 +113,89 @@ content_area:
     content:
       -
         type: text
-        text: 'There are two carparks very close to the theatre - '
+        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_spiral/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
               rel: null
               target: _blank
               title: null
-        text: 'Spiral Car Park'
+        text: 'Suffolk Onboard website'
       -
         type: text
-        text: ' and '
+        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_wolsey/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
               rel: null
               target: _blank
               title: null
-        text: 'Wolsey Car Park'
+        text: 'Greater Anglia website'
       -
         type: text
-        text: '. The nearest bus stop is a three minute walk away. Ipswich rail station is a 15 minute walk from the theatre.'
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is car parking at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Arc shopping centre'
+      -
+        type: text
+        text: ', which a six minute walk away from the library, and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'St Andrews Flexi-Stay car park'
+      -
+        type: text
+        text: ', which is a five minute walk.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for Bury St Edmunds Library on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
+              rel: null
+              target: _blank
+              title: null
+        text: AccessAble
+      -
+        type: text
+        text: '. '
   -
     type: paragraph
     content:
@@ -159,7 +212,10 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard.'
+        text: 'Suffolk Onboard'
+      -
+        type: text
+        text: .
 cta: |-
   This event is run by Cohere Arts
 
@@ -169,11 +225,11 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Guide dogs welcome
-latitude: '52.05887879991613'
-longitude: '1.1479524547198736'
-address_line_1: 'New Wolsey Theatre'
-address_line_2: 'Civic Drive'
-postcode: 'IP1 2AS'
+latitude: '52.248150770555625'
+longitude: '0.7114614702830845'
+address_line_1: 'Bury St Edmunds Library'
+address_line_2: "2B St Andrew's Street North"
+postcode: 'IP33 1TZ'
 duplicated_from: ede9883c-95c4-487e-b96a-157f001bf040
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
