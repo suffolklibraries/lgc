@@ -1,13 +1,12 @@
 ---
 id: 5f72694d-d044-4bf3-9ef1-e8b7d503cb99
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Singing (Duplicated)'
+title: 'VI Arts Taster Programme - Seated Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721915622
-start_date: '2024-10-01 10:00'
-end_date: '2024-10-01 12:00'
+updated_at: 1721916266
+start_date: '2024-11-05 10:00'
+end_date: '2024-11-05 12:00'
 event_categories:
   - literature
   - drama
@@ -17,7 +16,7 @@ event_categories:
 free: true
 virtual: false
 town: 'Bury Saint Edmunds'
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+featured_image: offthepressimages/wellbeing.png
 content_area:
   -
     type: heading
