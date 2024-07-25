@@ -1,12 +1,13 @@
 ---
-id: 1141e045-ccb1-4c38-8a6e-e526c7caf840
+id: 299cbfe4-dadf-4afe-b432-4e1120c20a63
+published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Singing'
+title: 'VI Arts Taster Programme - Art (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721915304
-start_date: '2024-09-12 10:30'
-end_date: '2024-09-12 12:00'
+updated_at: 1721914761
+start_date: '2024-08-28 14:30'
+end_date: '2024-08-28 16:30'
 event_categories:
   - literature
   - drama
@@ -15,8 +16,8 @@ event_categories:
   - music
 free: true
 virtual: false
-town: Ipswich
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+town: Haverhill
+featured_image: offthepressimages/new_resized_images/VisualArts.png
 content_area:
   -
     type: heading
@@ -113,35 +114,35 @@ content_area:
     content:
       -
         type: text
-        text: 'There are two carparks very close to the theatre - '
+        text: 'The nearest parking is the Meadows car park and you can find details on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_spiral/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/haverhill-car-parks.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'Spiral Car Park'
+        text: 'Suffolk Gov website'
       -
         type: text
-        text: ' and '
+        text: ' and the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_wolsey/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
+              href: 'https://www.google.com/maps/place/Stour+Valley+Road/@52.0788864,0.4443564,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d85eedcfeaaaab:0x6e35891df546047c!2sHaverhill+Bowls+Club,+Manor+Rd,+Haverhill+CB9+0EP!2m2!1d0.4473716!2d52.0796009!1m6!1m2!1s0x47d85eee6f415147:0x8f1a0c55c0e2249e!2sStour+Valley+Road,+Haverhill+CB9+8QN!2m2!1d0.447074!2d52.078049!3e2!3m5!1s0x47d85eee6f415147:0x8f1a0c55c0e2249e!8m2!3d52.078049!4d0.447074!16s%2Fg%2F11mr2y4r3k?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'Wolsey Car Park'
+        text: 'closest bus stop'
       -
         type: text
-        text: '. The nearest bus stop is a three minute walk away. Ipswich rail station is a 15 minute walk from the theatre.'
+        text: ' is a three minute walk away.'
   -
     type: paragraph
     content:
@@ -168,12 +169,12 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Guide dogs welcome
-latitude: '52.05887879991613'
-longitude: '1.1479524547198736'
-address_line_1: 'New Wolsey Theatre'
-address_line_2: 'Civic Drive'
-postcode: 'IP1 2AS'
-duplicated_from: 69ef8cde-974d-4e6d-9485-825607d68a44
+latitude: '52.10588840719979'
+longitude: '1.331017097259445'
+address_line_1: 'Haverhill Bowls and Cricket Club'
+address_line_2: 'Manor Road'
+postcode: 'CB9 0EP'
+duplicated_from: d6c8ea88-06d5-460a-b79d-1cc9462f620f
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
   - cohere-arts
