@@ -1,13 +1,12 @@
 ---
 id: 8908c6d5-7e6b-4034-bb95-2181a4d6af4f
-published: false
 blueprint: events
-title: 'Clockwork Dance - Contemporary Technique (Duplicated)'
+title: 'Clockwork Dance - Contemporary Technique'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721891769
-start_date: '2024-10-05 10:10'
-end_date: '2024-10-05 11:10'
+updated_at: 1721891857
+start_date: '2024-10-19 10:10'
+end_date: '2024-10-19 11:10'
 event_categories:
   - dance
 free: false
