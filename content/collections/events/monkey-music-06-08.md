@@ -4,9 +4,9 @@ blueprint: events
 title: 'Marina Monkey Music'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714385795
-start_date: '2024-08-06 13:30'
-end_date: '2024-08-06 14:30'
+updated_at: 1721916619
+start_date: '2024-08-06 10:30'
+end_date: '2024-08-06 11:30'
 event_categories:
   - music
   - early-years
