@@ -1,13 +1,12 @@
 ---
 id: 33c68038-c835-4e51-b1e9-c239aff397fc
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Singing (Duplicated)'
+title: 'VI Arts Taster Programme - Junior Drama'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721915304
-start_date: '2024-09-12 10:30'
-end_date: '2024-09-12 12:00'
+updated_at: 1721916100
+start_date: '2024-11-02 10:30'
+end_date: '2024-11-02 12:30'
 event_categories:
   - literature
   - drama
@@ -16,8 +15,8 @@ event_categories:
   - music
 free: true
 virtual: false
-town: Ipswich
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+town: Stowmarket
+featured_image: offthepressimages/new_resized_images/Theatre.png
 content_area:
   -
     type: heading
@@ -114,35 +113,35 @@ content_area:
     content:
       -
         type: text
-        text: 'There are two carparks very close to the theatre - '
+        text: 'Red Gables has onsite car parking. The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_spiral/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
+              href: 'https://www.google.com/maps/dir/Red+Gables+(MSVOF),+Red+Gables,+Ipswich+Rd,+Stowmarket+IP14+1BE/Lime+Tree+Place,+Stowmarket+IP14+1BQ/@52.1838259,0.9964854,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a5345156e699:0xe559e8c4a9c00bef!2m2!1d0.9986374!2d52.1840583!1m5!1m1!1s0x47d9a53443520c51:0x2af5337a7fdfa5ea!2m2!1d0.999334!2d52.18364!3e2?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'Spiral Car Park'
+        text: 'nearest bus stop'
       -
         type: text
-        text: ' and '
+        text: ' is a one minute walk away. Stowmarket rail station is an 11 minute walk from Red Gables and you can find up to date times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/the_wolsey/ip1/ipswich/?arriving=202404081230&leaving=202404081430'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/smk'
               rel: null
               target: _blank
               title: null
-        text: 'Wolsey Car Park'
+        text: 'Greater Anglia website'
       -
         type: text
-        text: '. The nearest bus stop is a three minute walk away. Ipswich rail station is a 15 minute walk from the theatre.'
+        text: .
   -
     type: paragraph
     content:
@@ -169,11 +168,11 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Guide dogs welcome
-latitude: '52.05887879991613'
-longitude: '1.1479524547198736'
-address_line_1: 'New Wolsey Theatre'
-address_line_2: 'Civic Drive'
-postcode: 'IP1 2AS'
+latitude: '52.18420289404635'
+longitude: '0.9986292682803894'
+address_line_1: 'Red Gables'
+address_line_2: 'Ipswich Road'
+postcode: 'IP14 1BE'
 duplicated_from: 1141e045-ccb1-4c38-8a6e-e526c7caf840
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
