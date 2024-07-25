@@ -1,13 +1,12 @@
 ---
 id: 969a2244-5fcb-48ca-9499-a0ce12ef5898
-published: false
 blueprint: events
-title: 'VI Arts Taster Programme - Drama (Duplicated)'
+title: 'VI Arts Taster Programme - Singing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721915086
-start_date: '2024-09-03 10:30'
-end_date: '2024-09-03 12:30'
+updated_at: 1721915622
+start_date: '2024-10-01 10:00'
+end_date: '2024-10-01 12:00'
 event_categories:
   - literature
   - drama
@@ -17,7 +16,7 @@ event_categories:
 free: true
 virtual: false
 town: 'Bury Saint Edmunds'
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: offthepressimages/new_resized_images/Music_singing.png
 content_area:
   -
     type: heading
