@@ -1,28 +1,29 @@
 ---
 id: c4d696d1-df94-4450-b96c-881aa9e147ad
-published: false
 blueprint: events
-title: 'Blank Page - Chantry (Duplicated)'
+title: 'Nature Launch Pad'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720007121
+updated_at: 1722280883
 latitude: '52.04421576122085'
 longitude: '1.1204861971073565'
-start_date: '2024-07-22 09:45'
+start_date: '2024-08-22 11:00'
 event_categories:
   - art
-  - computing
-  - music
+  - early-years
+  - family-friendly
+  - nature
 free: true
 virtual: false
 organisers:
   - suffolk-libraries
+  - make-play
 address_line_1: 'Chantry Library'
 address_line_2: 'Hawthorn Drive'
 town: Ipswich
 postcode: 'IP2 0QY'
-featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+featured_image: offthepressimages/new_resized_images/Nature.png
+attendance_information: '- Family friendly'
 content_area:
   -
     type: heading
@@ -37,33 +38,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
+        text: 'Join us at Chantry Library for a day family fun and celebrating nature! Get hands-on exploring nature, use high tech equipment to listen to plants grow, and discover more about the world around us.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
+        text: "We'll be joined by Make Play, local arts organisation, who are bringing their garden-inspired playscape created just for children under 5. Drop-in to ignite young imaginations and promote creative play - our garden for tots is nothing you’ve seen before!\_"
   -
     type: heading
     attrs:
@@ -77,21 +58,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: .
+        text: 'No booking required, just drop-in.'
   -
     type: heading
     attrs:
@@ -151,9 +118,7 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
-  - SEND support available
-end_date: '2024-08-15 15:30'
+end_date: '2024-08-22 15:00'
 duplicated_from: f710d11e-c6d2-4c35-ab0f-c8e01ea70965
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+Join us at Chantry Library for a day family fun and celebrating nature!
