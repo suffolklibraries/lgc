@@ -1,5 +1,6 @@
 ---
 id: f99a9551-9f2c-4cc3-9830-b7295cbb7709
+published: false
 blueprint: events
 title: 'Quietnote: music and mindfulness'
 latitude: '52.16397679077819'
