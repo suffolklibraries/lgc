@@ -1,5 +1,6 @@
 ---
 id: 1e7cf3c5-a0c4-4224-a98c-91175509dc67
+published: false
 blueprint: events
 title: 'Ipswich Museum Young Associates Launch'
 event_categories:
