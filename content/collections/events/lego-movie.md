@@ -1,5 +1,6 @@
 ---
 id: 48c21482-b8ce-416c-9716-34eda659e753
+published: false
 blueprint: events
 title: 'Cinema Club – LEGO® Movie'
 event_categories:
