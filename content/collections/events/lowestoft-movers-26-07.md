@@ -1,5 +1,6 @@
 ---
 id: 3f0c2b38-e86b-490e-adf1-1e0e3f52e5d5
+published: false
 blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
