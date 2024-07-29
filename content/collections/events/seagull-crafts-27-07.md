@@ -1,5 +1,6 @@
 ---
 id: 12e255a0-95ce-4609-b466-627d4d833990
+published: false
 blueprint: events
 title: 'Arts and Crafts Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
