@@ -1,5 +1,6 @@
 ---
 id: 412cb2df-3a43-433c-a827-fdad8a47fc1c
+published: false
 blueprint: events
 title: 'Picnic in the Park'
 organisers:
