@@ -1,5 +1,6 @@
 ---
 id: 6d91aa29-5038-42d4-b686-00e1443bae4d
+published: false
 blueprint: events
 title: 'Clay Faces Workshop'
 event_categories:
