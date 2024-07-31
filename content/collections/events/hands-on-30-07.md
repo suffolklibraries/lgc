@@ -1,5 +1,6 @@
 ---
 id: 507a6bc9-43ca-4abe-b71f-c315669f7d9d
+published: false
 blueprint: events
 title: 'Hands On: Conservation in Practice'
 event_categories:
