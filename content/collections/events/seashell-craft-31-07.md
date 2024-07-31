@@ -1,5 +1,6 @@
 ---
 id: 1f01653a-73ea-4e51-9c30-d0583ddfb0c9
+published: false
 blueprint: events
 title: 'Seashell Craft Activity'
 event_categories:
