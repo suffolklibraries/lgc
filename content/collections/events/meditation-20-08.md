@@ -1,16 +1,15 @@
 ---
 id: c51c75bc-a64c-4204-9857-7df9536f32f8
-published: false
 blueprint: events
-title: 'Mindfulness and Meditation for Beginners (Duplicated)'
+title: 'Mindfulness and Meditation for Beginners'
 event_categories:
   - community
   - wellbeing
 organisers:
   - karibu
 featured_image: offthepressimages/new_resized_images/support.png
-start_date: '2024-08-13 19:30'
-end_date: '2024-08-13 21:00'
+start_date: '2024-08-20 19:30'
+end_date: '2024-08-20 21:00'
 free: true
 virtual: true
 content_area:
@@ -106,7 +105,7 @@ cta: |-
 
   [karibu_wsg@yahoo.co.uk](mailto:karibu_wsg@yahoo.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1722439915
+updated_at: 1722440061
 duplicated_from: 90621e48-bab3-407b-b4b0-7ddfa1e3809a
 ---
 Join Imani Sorhaindo for meditation and mindfulness.
