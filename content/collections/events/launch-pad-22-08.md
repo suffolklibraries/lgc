@@ -4,7 +4,7 @@ blueprint: events
 title: 'Nature Launch Pad'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1722280925
+updated_at: 1722420231
 latitude: '52.04421576122085'
 longitude: '1.1204861971073565'
 start_date: '2024-08-22 11:00'
@@ -38,13 +38,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at Chantry Library for a day of family fun and celebrating nature! Get hands-on exploring nature, use high tech equipment to listen to plants grow, and discover more about the world around us.'
+        text: 'Join us for a day of family fun and celebrating nature! Get hands-on with crafts, use high tech equipment to listen to plants grow, and discover more about the world around us.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "We'll be joined by Make Play, local arts organisation, who are bringing their garden-inspired playscape created just for children under 5. Drop-in to ignite young imaginations and promote creative play - our garden for tots is nothing you’ve seen before!\_"
+        text: 'Tots can explore a garden playscape designed just for children under 5. Come along to ignite young imaginations and promote creative play - our garden is nothing you’ve seen before!'
   -
     type: heading
     attrs:
