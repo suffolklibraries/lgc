@@ -1,23 +1,17 @@
 ---
 id: 90621e48-bab3-407b-b4b0-7ddfa1e3809a
-published: false
 blueprint: events
-title: 'Mindfulness and Breathwork Session for Stress Reduction (Duplicated)'
+title: 'Mindfulness and Meditation for Beginners'
 event_categories:
   - community
+  - wellbeing
 organisers:
   - karibu
-featured_image: offthepressimages/new_resized_images/Later_Nature.png
-start_date: '2024-03-19 10:30'
-end_date: '2024-03-19 12:00'
+featured_image: offthepressimages/new_resized_images/support.png
+start_date: '2024-08-13 19:30'
+end_date: '2024-08-13 21:00'
 free: true
-virtual: false
-latitude: '52.054993508103074'
-longitude: '1.1529981905613025'
-address_line_1: 'CHIP Community Hub'
-address_line_2: '47 St. Nicholas Street'
-town: Ipswich
-postcode: 'IP1 1TW'
+virtual: true
 content_area:
   -
     type: heading
@@ -32,7 +26,13 @@ content_area:
     content:
       -
         type: text
-        text: 'The session is a gentle and informal introduction to mindfulness practice which assists people to understand how to reduce the stress response in a host of life situations.'
+        text: 'Free online mindfulness and meditation for beginners with Imani, a qualitied mindfulness trainer.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Active Communities is a funding programme for local people with great ideas about how to help create fairer places to grow, live, work and age well.'
   -
     type: heading
     attrs:
@@ -46,41 +46,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Phone '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07909516343'
-              rel: null
-              target: null
-              title: null
-        text: '07909 5163243'
-      -
-        type: text
-        text: ' to book.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you cannot make it, but feel these sessions would be group for you or your community group, then please contact  '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07909516343'
-              rel: null
-              target: null
-              title: null
-        text: '07909 516343'
-      -
-        type: text
-        text: ' or email '
+        text: 'To book contact Lara - '
       -
         type: text
         marks:
@@ -91,10 +57,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'karibu_wsg@yahoo.co.uk '
-      -
-        type: text
-        text: .
+        text: karibu_wsg@yahoo.co.uk
   -
     type: heading
     attrs:
@@ -138,11 +101,11 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Karibu -
+  This event is organised by Karibu 
 
-  [07909 516343](tel:07909516343)
   [karibu_wsg@yahoo.co.uk](mailto:karibu_wsg@yahoo.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710256816
+updated_at: 1722439915
 duplicated_from: a096dd8f-9f02-4fc3-a054-773cda39f2a1
 ---
+Join Imani Sorhaindo for meditation and mindfulness.
