@@ -2,16 +2,14 @@
 id: 79b5b2be-3de7-41ad-b07b-b22b04df072d
 published: false
 blueprint: events
-title: 'Blank Page - Gainsborough (Duplicated)'
+title: 'Dance Launch Pad'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720007332
+updated_at: 1722421132
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
-start_date: '2024-08-01 09:45'
+start_date: '2024-08-20 10:30'
 event_categories:
-  - art
-  - computing
   - music
 free: true
 virtual: false
@@ -21,8 +19,8 @@ address_line_1: 'Gainsborough Library'
 address_line_2: 'Clapgate Lane'
 town: Ipswich
 postcode: 'IP3 0RL'
-featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+featured_image: offthepressimages/Music.png
+attendance_information: '- Ages 7+'
 content_area:
   -
     type: heading
@@ -37,33 +35,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
+        text: 'Learn new moves and have fun moving your body, whilst accompanied by live drumming from Kitwana.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
+        text: "\_Suitable for ages 7 +, children must be accompanied by an adult."
   -
     type: heading
     attrs:
@@ -148,12 +126,7 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-30 15:30'
+end_date: '2024-08-20 13:10'
 duplicated_from: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+Join Imani, our friendly instructor, as she takes you through the moves to learn African and Caribbean dance steps.
