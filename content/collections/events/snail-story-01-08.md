@@ -1,5 +1,6 @@
 ---
 id: 7d29d2c3-2566-4062-acee-0d59da13b071
+published: false
 blueprint: events
 title: "Angie's Curious Creatures Presents: Snail Story, Craft & Handling Session!"
 event_categories:
