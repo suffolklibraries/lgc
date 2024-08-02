@@ -1,5 +1,6 @@
 ---
 id: 7393c23c-f315-4c28-8756-9edc14f5581a
+published: false
 blueprint: events
 title: 'Mosaics at Haverhill Carers Group'
 organisers:
