@@ -1,5 +1,6 @@
 ---
 id: 11cdf886-c602-4e03-8a77-f4e1bec4e26b
+published: false
 blueprint: events
 title: 'ActivSingers - Woodbridge'
 event_categories:
