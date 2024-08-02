@@ -1,5 +1,6 @@
 ---
 id: b31437eb-1e1d-4462-8581-7ba0c49b8748
+published: false
 blueprint: events
 title: 'Make Suffolk out of LEGO® Bricks'
 event_categories:
