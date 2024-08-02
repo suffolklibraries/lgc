@@ -1,5 +1,6 @@
 ---
 id: f88d273b-4919-4ef8-a3e7-da52f885b34f
+published: false
 blueprint: events
 title: 'Craft Camp'
 latitude: '52.20786470253335'
