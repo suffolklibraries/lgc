@@ -1,5 +1,6 @@
 ---
 id: 94551800-2024-4ba8-ba16-db3affbe7d40
+published: false
 blueprint: events
 title: 'Family Fun Days'
 organisers:
