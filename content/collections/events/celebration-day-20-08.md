@@ -4,7 +4,7 @@ blueprint: events
 title: 'Beyond the Bassline Celebration Day'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1722497452
+updated_at: 1723017753
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
 start_date: '2024-08-20 10:30'
@@ -35,6 +35,104 @@ content_area:
       -
         type: text
         text: 'Come along to Gainsborough Library for a day of celebrating Beyond the Bassline, an exhibition on display in Ipswich County Library. '
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Little Storymakers '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Join us for a Black and British themed story and craft session for children aged between 18 months to five years.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Session runs between 10.30am - 11.30am. We have limited spaces, so please book by contacting us on'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473927270'
+              rel: null
+              target: null
+              title: null
+        text: "\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473927270'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: '01473 927270'
+      -
+        type: text
+        text: "\_or email "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:gainsborough.library@suffolklibraries.co.uk'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: gainsborough.library@suffolklibraries.co.uk
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "Build Gainsborough's Nightclub - Creative Play Workshop"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you could create a nightclub or music venue on Gainsborough estate, what would it look like? What would the name be? How many floors would it have? What music would be playing?'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Help us build Gainsborough’s Nightclub using cardboard bricks decorated with your own unique vision and assemble them again and again to imagine your very own party palace!'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Drop in and stay for as long or as little as you like between 11.30am - 3pm. No booking required.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Suitable for ages 7+'
   -
     type: paragraph
   -
@@ -145,6 +243,54 @@ content_area:
       -
         type: text
         text: 'How to book'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Book Little Storymakers by  contacting us on'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473927270'
+              rel: null
+              target: null
+              title: null
+        text: "\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473927270'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: '01473 927270'
+      -
+        type: text
+        text: "\_or email "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:gainsborough.library@suffolklibraries.co.uk'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: gainsborough.library@suffolklibraries.co.uk
+  -
+    type: paragraph
   -
     type: paragraph
     content:
