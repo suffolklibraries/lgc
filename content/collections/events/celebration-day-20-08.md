@@ -4,7 +4,7 @@ blueprint: events
 title: 'Beyond the Bassline Celebration Day'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723017753
+updated_at: 1723019612
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
 start_date: '2024-08-20 10:30'
@@ -324,7 +324,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/events/events/beyond-the-bassline-music-remixing-production-workshop-with-eli-turay'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'https://www.suffolklibraries.co.uk/events/events/beyond-the-bassline-music-remixing-production-workshop-with-eli-turay'
   -
