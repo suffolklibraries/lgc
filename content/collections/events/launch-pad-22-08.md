@@ -4,7 +4,7 @@ blueprint: events
 title: 'Nature Launch Pad'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1722496338
+updated_at: 1723113511
 latitude: '52.04421576122085'
 longitude: '1.1204861971073565'
 start_date: '2024-08-22 11:00'
@@ -38,7 +38,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a day of family fun and celebrating nature! Get hands-on with crafts, use high tech equipment to listen to plants grow, and discover more about the world around us.'
+        text: 'Get hands-on with crafts, use high tech equipment to listen to plants grow, and discover more about the world around us.'
   -
     type: paragraph
     content:
@@ -135,4 +135,4 @@ accessibility_information: |-
 end_date: '2024-08-22 15:00'
 duplicated_from: f710d11e-c6d2-4c35-ab0f-c8e01ea70965
 ---
-Join us at Chantry Library for a day family fun and celebrating nature!
+Join us at Chantry Library for a day of family fun and celebrating nature!
