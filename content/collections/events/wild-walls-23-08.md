@@ -203,7 +203,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723626929
+updated_at: 1723627162
 cta: |-
   This event is organised by Wild Walls Festival
 
