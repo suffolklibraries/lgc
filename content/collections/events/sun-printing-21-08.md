@@ -1,19 +1,18 @@
 ---
 id: 28963826-45e5-4496-aa88-e39d337245db
-published: false
 blueprint: events
-title: 'Amazing Animals (Duplicated)'
+title: 'Sun Printing Workshop'
 event_categories:
   - museums
   - nature
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/our-animal-world-1-1.jpg
-start_date: '2024-08-19 10:30'
-end_date: '2024-08-19 16:00'
+featured_image: ipswichmuseums/sun-print-1.png
+start_date: '2024-08-21 10:30'
+end_date: '2024-08-21 16:00'
 free: false
 virtual: false
-attendance_information: '- Suitable for ages 3+'
+attendance_information: '- Suitable for ages 5+'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -34,13 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn about various animals, how they adapt and survive in their environments, and how humans impact their worlds. This week’s theme is Scales and Slime.'
+        text: 'By placing materials, such as dried flowers, onto a specially coated (non-toxic) light-sensitive paper you will create beautiful images as the sunlight changes the colour of the paper. We will rinse the print in water and hang it up to dry. This is where history, art and science meet and the results are magical! You will take away some mini-prints and a keyring as a keepsake.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Please note that only the Great Hall will be open to event visitors. The rest of the Mansion will not be open as we are closed to the public on Mondays.'
+        text: 'Suitable for ages 5+. Younger children are welcome but may not be able to fully take part in the session. Parents/carers must remain with their children throughout the event.'
   -
     type: heading
     attrs:
@@ -54,19 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Everyone aged three and older, including adults, will require a ticket. Children under three are welcome free of charge, but due to health and safety guidelines, they will not be able to touch the animals. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "This is a family event for children accompanied by parents/carers, who must remain with their children throughout.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tickets are available for 10:30am, 11:30am, 12:30pm, 2pm, and 3pm.'
+        text: 'Each session will last 45 minutes. The bookable times are 10 AM, 11 AM, 12 PM, 2 PM, and 3 PM.'
   -
     type: paragraph
     content:
@@ -79,7 +66,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://ipswichtheatres.co.uk/whats-on/amazing-animals/'
+              href: 'https://ipswich.cimuseums.org.uk/events/sun-printing/'
               rel: null
               target: _blank
               title: null
@@ -132,6 +119,13 @@ content_area:
         type: hardBreak
       -
         type: text
+        text: 'The workshop will take place in the Lower Tudor Room, which is accessible for all and located on the ground floor, as well as outside the front of the building. All materials will be supplied by the artist with instruction and support provided.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
         text: 'For useful information, such as how to find us and what facilities Christchurch Mansion has, we recommend reading our Access information: '
       -
         type: text
@@ -153,10 +147,10 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721059598
+updated_at: 1723629124
 duplicated_from: 9569d11a-70fc-4841-876d-b3b018cc3277
-cost_details: '£6 per person'
-accessibility_information: '- wheel-chair accessible'
-booking_link: 'https://ipswichtheatres.co.uk/whats-on/amazing-animals/'
+cost_details: '£5 per person'
+accessibility_information: '- wheelchair accessible'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/sun-printing/'
 ---
-The live animals are back!
+Learn how to create one of the earliest forms of photography.
