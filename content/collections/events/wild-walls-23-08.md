@@ -1,16 +1,15 @@
 ---
 id: 81b747f0-fc0d-48f8-b768-159006914f8a
-published: false
 blueprint: events
-title: 'Mural Design Workshops (Duplicated)'
+title: 'Mural Design Workshops'
 event_categories:
   - teen
   - art
   - activism
 organisers:
   - wild-walls-festival
-start_date: '2024-08-22 10:00'
-end_date: '2024-08-22 15:30'
+start_date: '2024-08-23 10:00'
+end_date: '2024-08-23 15:30'
 free: true
 virtual: false
 attendance_information: '- For people aged 14 - 30'
@@ -204,7 +203,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723626876
+updated_at: 1723626929
 cta: |-
   This event is organised by Wild Walls Festival
 
