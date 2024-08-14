@@ -1,18 +1,17 @@
 ---
 id: 5ad7ddba-5f10-40e7-8a3f-139781d3629f
-published: false
 blueprint: events
-title: 'Gentle Yoga (Duplicated)'
+title: 'Gentle Yoga - Woodbridge'
 event_categories:
   - later-life
   - dance
 organisers:
   - cohere-arts
-start_date: '2024-07-26 10:30'
+start_date: '2024-09-06 10:30'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713287184
+updated_at: 1723632476
 attendance_information: |-
   - Beginners welcome
   - Older people
@@ -170,7 +169,7 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2024-07-26 11:30'
+end_date: '2024-09-06 11:30'
 duplicated_from: c6443bc1-6e1d-4c9c-a370-6dc4afb158ea
 featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
 latitude: '52.090114528571'
