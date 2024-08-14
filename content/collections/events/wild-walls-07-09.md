@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - wild-walls-festival
 start_date: '2024-09-07 10:00'
-end_date: '2024-08-23 17:00'
+end_date: '2024-09-07 17:00'
 free: true
 virtual: false
 latitude: '52.05231396621552'
@@ -151,7 +151,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723628261
+updated_at: 1723628372
 cta: |-
   This event is organised by Wild Walls Festival
 
