@@ -1,5 +1,6 @@
 ---
 id: a8fe4212-30df-45a6-8a26-9870e0713da3
+published: false
 blueprint: events
 title: 'Summer Holiday Activities with The Art Station'
 event_categories:
