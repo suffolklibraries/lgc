@@ -1,8 +1,7 @@
 ---
 id: 18c0cf31-0d76-4578-afc2-a3cde03410ad
-published: false
 blueprint: events
-title: 'Compassionate Garden Group (Duplicated) (2)'
+title: 'Compassionate Garden Group'
 event_categories:
   - nature
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - home-instead
 featured_image: offthepressimages/gardentools.png
-start_date: '2024-08-28 10:00'
-end_date: '2024-11-27 13:00'
+start_date: '2024-10-23 10:00'
+end_date: '2024-10-23 13:00'
 free: true
 virtual: false
 latitude: '52.08833124100656'
@@ -138,7 +137,7 @@ cta: |-
 
   https://www.homeinstead.co.uk/](https://www.homeinstead.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723630394
+updated_at: 1723630884
 duplicated_from: ee11644e-5074-452e-a4c1-950f7b0bcf57
 ---
 Light gardening and a cup of tea for free

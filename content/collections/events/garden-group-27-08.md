@@ -11,7 +11,7 @@ organisers:
   - home-instead
 featured_image: offthepressimages/gardentools.png
 start_date: '2024-08-28 10:00'
-end_date: '2024-11-27 13:00'
+end_date: '2024-08-28 13:00'
 free: true
 virtual: false
 latitude: '52.08833124100656'
@@ -137,7 +137,7 @@ cta: |-
 
   https://www.homeinstead.co.uk/](https://www.homeinstead.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723630394
+updated_at: 1723630884
 duplicated_from: 42b54881-9974-4cac-9ffb-9d38922df5eb
 ---
 Light gardening and a cup of tea for free
