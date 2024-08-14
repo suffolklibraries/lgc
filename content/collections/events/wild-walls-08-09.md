@@ -1,16 +1,15 @@
 ---
 id: 82b8d12e-87c1-4d87-830c-8a66c2f6475e
-published: false
 blueprint: events
-title: 'Art Market (Duplicated)'
+title: 'Art Market'
 event_categories:
   - art
   - community
   - festival
 organisers:
   - wild-walls-festival
-start_date: '2024-09-07 10:00'
-end_date: '2024-08-23 17:00'
+start_date: '2024-09-08 10:00'
+end_date: '2024-09-08 17:00'
 free: true
 virtual: false
 latitude: '52.05231396621552'
@@ -152,7 +151,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723628261
+updated_at: 1723628338
 cta: |-
   This event is organised by Wild Walls Festival
 
