@@ -172,12 +172,13 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723626275
+updated_at: 1723626438
 cta: |-
   This event is organised by Wild Walls Festival
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 duplicated_from: f2667efd-2e9e-4bc3-aecb-23226e3a5000
 booking_link: 'https://wildwallsfestival.com/whats-on/'
+featured_image: wild_walls_festival/kb-mural-design.jpg
 ---
 Take part in FREE creative workshops with Kirsty and Brittany and help them to design a new mural for Ipswich.
