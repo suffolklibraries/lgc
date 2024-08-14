@@ -1,5 +1,6 @@
 ---
 id: 958014e9-7eeb-405d-a612-9646a39e5b0d
+published: false
 blueprint: events
 title: 'Crafts at the Archives'
 organisers:
