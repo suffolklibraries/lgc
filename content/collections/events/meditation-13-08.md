@@ -1,5 +1,6 @@
 ---
 id: 90621e48-bab3-407b-b4b0-7ddfa1e3809a
+published: false
 blueprint: events
 title: 'Mindfulness and Meditation for Beginners'
 event_categories:
