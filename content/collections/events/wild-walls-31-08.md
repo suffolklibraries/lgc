@@ -62,11 +62,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.eventbrite.co.uk/e/vr-workshop-tickets-978380280757'
+              href: 'https://www.eventbrite.co.uk/e/vr-workshop-tickets-990254928147'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'https://www.eventbrite.co.uk/e/vr-workshop-tickets-978380280757'
+        text: 'https://www.eventbrite.co.uk/e/vr-workshop-tickets-990254928147'
   -
     type: paragraph
   -
@@ -190,7 +190,7 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723625822
+updated_at: 1723626197
 duplicated_from: 27f4231e-9ab2-4c4f-acbc-aa9a1511af6f
 accessibility_information: '- wheelchair accessible'
 attendance_information: '- For people aged 14 - 30 years'
