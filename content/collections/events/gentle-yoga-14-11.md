@@ -11,7 +11,7 @@ start_date: '2024-11-14 13:00'
 free: true
 virtual: true
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723632230
+updated_at: 1723632282
 attendance_information: |-
   - Beginners welcome
   - Older people
