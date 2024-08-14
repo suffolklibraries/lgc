@@ -4,7 +4,7 @@ blueprint: events
 title: 'Nature Launch Pad'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723113511
+updated_at: 1723651917
 latitude: '52.04421576122085'
 longitude: '1.1204861971073565'
 start_date: '2024-08-22 11:00'
@@ -38,13 +38,10 @@ content_area:
     content:
       -
         type: text
-        text: 'Get hands-on with crafts, use high tech equipment to listen to plants grow, and discover more about the world around us.'
+        text: "Get hands-on with crafts and discover more about the world around us. Running throughout the day, we've got all kinds of eco activities, including -"
   -
     type: paragraph
     content:
-      -
-        type: text
-        text: "We'll be joined by "
       -
         type: text
         marks:
@@ -58,7 +55,38 @@ content_area:
         text: 'Make Play'
       -
         type: text
-        text: ' who are bringing their history-inspired garden. This playscape is a unique play experience for families with children under 5. Designed to ignite young imaginations, this garden is like nothing you’ve seen before!'
+        text: ' are bringing their history-inspired garden. This playscape is a unique play experience for families with children under 5. Designed to ignite young imaginations, this garden is like nothing you’ve seen before!'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: "Martin, Suffolk Libraries' environmentalist-in-residence, will be using high tech equipment so you can listen to the secret noise of plants as they grow. "
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'The Woodcraft Folk will be running a drop-in activity throughout the day encouraging you to get crafty using nature and your imagination. '
+      -
+        type: hardBreak
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "As well as a mini tiki bar, basketball sessions, and more. Best of all, it's all "
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: free
+      -
+        type: text
+        text: '!'
   -
     type: heading
     attrs:
