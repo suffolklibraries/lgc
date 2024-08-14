@@ -1,8 +1,7 @@
 ---
 id: 39bc5df6-9dee-4124-a9cb-539bdc4407db
-published: false
 blueprint: events
-title: 'VR Street Art Workshop (Duplicated)'
+title: 'VR Street Art Workshop'
 event_categories:
   - computing
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - wild-walls-festival
 featured_image: wild_walls_festival/vr-workshop.png
-start_date: '2024-08-18 13:00'
-end_date: '2024-08-18 15:30'
+start_date: '2024-08-31 11:00'
+end_date: '2024-08-31 14:00'
 free: true
 virtual: false
 latitude: '52.05879312178225'
@@ -191,7 +190,7 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723625731
+updated_at: 1723625822
 duplicated_from: 27f4231e-9ab2-4c4f-acbc-aa9a1511af6f
 accessibility_information: '- wheelchair accessible'
 attendance_information: '- For people aged 14 - 30 years'
