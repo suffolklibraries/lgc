@@ -11,7 +11,7 @@ start_date: '2024-11-08 10:30'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723632817
+updated_at: 1723633803
 attendance_information: |-
   - Beginners welcome
   - Older people
@@ -178,5 +178,6 @@ address_line_1: 'Woodbridge Community Hall'
 address_line_2: 'Station Road'
 town: Woodbridge
 postcode: 'IP12 4AU'
+booking_link: 'https://coherearts.org/gentle/'
 ---
 Our popular Gentle seated yoga is an accessible activity suitable for people living with a range of mobility and/or health challenges.
