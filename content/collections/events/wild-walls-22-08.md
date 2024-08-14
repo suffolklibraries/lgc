@@ -1,25 +1,24 @@
 ---
 id: ccded85e-e8df-4a9c-997b-7aec455dd529
-published: false
 blueprint: events
-title: 'Mural Design Workshops (Duplicated)'
+title: 'Mural Design Workshops'
 event_categories:
   - teen
   - art
   - activism
 organisers:
   - wild-walls-festival
-start_date: '2024-08-20 10:00'
-end_date: '2024-08-20 15:30'
+start_date: '2024-08-22 10:00'
+end_date: '2024-08-22 15:30'
 free: true
 virtual: false
 attendance_information: '- For people aged 14 - 30'
-latitude: '52.06103514537215'
-longitude: '1.1447969943168634'
-address_line_1: 'The Hive'
-address_line_2: '27-29 Norwich Road'
+latitude: '52.05322071930784'
+longitude: '1.1636764272050126'
+address_line_1: 'The Hold'
+address_line_2: '131 Fore Street'
 town: Ipswich
-postcode: 'IP1 2ET'
+postcode: 'IP4 1LN'
 content_area:
   -
     type: heading
@@ -67,18 +66,34 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://kbdesign.uk/'
-              rel: null
-              target: null
-              title: null
-        text: 'https://kbdesign.uk/'
+        text: 'ATMA is an international street artist, mural painter and designer driven by upliftism.'
       -
         type: text
-        text: ' Two young and prolific female mural artists making a splash in the urban art world. Graphic design graduates turned mural artists Kirsty and Brittany have a lot to offer to inspire a new generation of artists.'
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: 'Through his use of bright colours, sharp lines and universal language, he tells positive stories in large scale.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'ATMA is a celebrated specialist of collaborative murals, inviting participants to contribute to the design & painting of the pieces. To engage, impact and transform.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'His work transcends locations & status: you can find his signature in (and on) council estates, private homes, motorways, high streets, hidden corners, capitals, cities, villages, restaurants, corporate offices, community centres, schools, art galleries & museums, across 10 countries.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'ATMA is the Sanskrit word for ‘Soul’.'
   -
     type: heading
     attrs:
@@ -99,11 +114,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.eventbrite.co.uk/e/free-mural-design-workshop-with-kb-designs-tickets-967890766337'
+              href: 'https://www.eventbrite.co.uk/e/free-mural-design-workshop-with-atma-tickets-967869191807'
               rel: null
               target: null
               title: null
-        text: 'https://www.eventbrite.co.uk/e/free-mural-design-workshop-with-kb-designs-tickets-967890766337'
+        text: 'https://www.eventbrite.co.uk/e/free-mural-design-workshop-with-atma-tickets-967869191807'
   -
     type: paragraph
     content:
@@ -123,38 +138,53 @@ content_area:
     content:
       -
         type: text
-        text: 'The Hive is Situated on Norwich Road, one of the main roads into Ipswich, with the closest parking being the '
+        text: 'The Hold is a four minute walk from the nearest bus stop - see the latest bus timetables '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/South+Street+Car+Park/@52.0612384,1.143093,18.06z/data=!4m22!1m16!4m15!1m6!1m2!1s0x47d9a110e1d478a5:0x43897233bab1bdf4!2sThe+Hive+Ipswich+CIC,+Norwich+Road,+Ipswich!2m2!1d1.144487!2d52.0610108!1m6!1m2!1s0x47d9a1cc7b806739:0x689ee9824284fede!2sGranville+Street,+Ipswich+IP1+2NL!2m2!1d1.1441074!2d52.0613377!3e3!3m4!1s0x0:0x30a88646622494df!8m2!3d52.061446!4d1.1448369'
+              href: 'https://www.suffolkonboard.com/buses/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'South Street Car Park'
+        text: here
       -
         type: text
-        text: '. Ipswich also has a rail station a 16-minute walk away and a '
+        text: '. The nearest car park is at the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Granville+Street/@52.0612707,1.1435665,18.69z/data=!4m5!3m4!1s0x47d9a1cc7b806739:0x689ee9824284fede!8m2!3d52.0613377!4d1.1441074'
+              href: 'https://www.ipserv.co.uk/car-parks/'
               rel: null
               target: _blank
               title: null
-        text: 'bus stop on Granville Street'
+        text: 'Duke Street'
       -
         type: text
-        text: ', which is one minute away from The Hive.'
-  -
-    type: paragraph
-    content:
+        text: ' car park a five minute walk away or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Crown car park'
+      -
+        type: text
+        text: ' a six minute walk away. There are two accessible carpark spaces for blue badge holders in The Hold car park.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
         text: 'Plan your journey using '
@@ -173,13 +203,13 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723626438
+updated_at: 1723626876
 cta: |-
   This event is organised by Wild Walls Festival
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 duplicated_from: 3f610a74-d052-4ab7-a0f2-1bdda5138953
 booking_link: 'https://wildwallsfestival.com/whats-on/'
-featured_image: wild_walls_festival/kb-mural-design.jpg
+featured_image: wild_walls_festival/atma-mural-workshop.jpg
 ---
 Take part in FREE creative workshops with Kirsty and Brittany and help them to design a new mural for Ipswich.
