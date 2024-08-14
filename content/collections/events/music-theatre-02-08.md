@@ -1,5 +1,6 @@
 ---
 id: 1e9f11e0-8145-4a50-a670-4e5189ae53ce
+published: false
 blueprint: events
 title: 'Aldeburgh Young Musicians: Music Theatre'
 latitude: '52.16397679077819'
