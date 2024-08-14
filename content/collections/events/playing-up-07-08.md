@@ -1,5 +1,6 @@
 ---
 id: 2ebb9c05-e4e3-44cb-804b-c11f4e5cc578
+published: false
 blueprint: events
 title: 'Playing Up - Drama Classes'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
