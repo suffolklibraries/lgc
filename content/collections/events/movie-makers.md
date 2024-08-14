@@ -1,5 +1,6 @@
 ---
 id: 1bb2eb34-f56b-409d-b2bc-a0c0e427b4de
+published: false
 blueprint: events
 title: 'Mobile Movie Makers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
