@@ -1,18 +1,17 @@
 ---
 id: 7d0799c0-918f-4e78-a311-bf74ff7ed9b0
-published: false
 blueprint: events
-title: 'Gentle Yoga - virtual (Duplicated)'
+title: 'Gentle Yoga - virtual'
 event_categories:
   - later-life
   - dance
 organisers:
   - cohere-arts
-start_date: '2024-10-10 13:00'
+start_date: '2024-10-31 13:00'
 free: true
 virtual: true
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723632105
+updated_at: 1723632182
 attendance_information: |-
   - Beginners welcome
   - Older people
@@ -91,7 +90,7 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2024-10-10 14:00'
+end_date: '2024-10-31 14:00'
 duplicated_from: f9ac5210-ed74-4ec7-918e-5cf9d6911fe2
 featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
 booking_link: 'https://coherearts.org/gentle/'
