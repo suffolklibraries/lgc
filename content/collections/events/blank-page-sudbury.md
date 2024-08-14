@@ -1,5 +1,6 @@
 ---
 id: 46578f2b-d22b-4f9e-a201-837fb3667ee6
+published: false
 blueprint: events
 title: 'Blank Page - Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
