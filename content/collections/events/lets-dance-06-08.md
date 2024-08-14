@@ -1,5 +1,6 @@
 ---
 id: e93b2511-091d-4ba5-bf15-4b971b7b3a69
+published: false
 blueprint: events
 title: 'Let’s Dance! Holiday Club'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
