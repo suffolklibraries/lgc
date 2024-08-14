@@ -1,18 +1,18 @@
 ---
 id: 3f610a74-d052-4ab7-a0f2-1bdda5138953
-published: false
 blueprint: events
-title: 'Woman 2 Woman Radio (Duplicated)'
+title: 'Mural Design Workshops'
 event_categories:
-  - languages
-  - computing
+  - teen
+  - art
+  - activism
 organisers:
-  - future-female-society
-start_date: '2024-08-29 12:30'
-end_date: '2024-08-29 14:30'
+  - wild-walls-festival
+start_date: '2024-08-20 10:00'
+end_date: '2024-08-20 15:30'
 free: true
 virtual: false
-attendance_information: '- Migrant, refugee and asylum-seeking women'
+attendance_information: '- For people aged 14 - 30'
 latitude: '52.06103514537215'
 longitude: '1.1447969943168634'
 address_line_1: 'The Hive'
@@ -33,47 +33,51 @@ content_area:
     content:
       -
         type: text
-        text: 'Woman 2 Woman Radio uses radio to build confidence and teach new skills to migrants, refugee, and asylum seeking women.'
+        text: 'Each creative workshop will explore ideas for a new large mural in Ipswich. Participants will be given the opportunity to get creative and have fun exploring street art with guidance and support. (NO experience necessary)'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'If English is your second language and you want to learn a new skill, come on down!'
+        text: 'Participants will be provided with FREE food and refreshments at each workshop.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "For more details\_visit the "
+        text: 'We want to hear what young people have to say.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'All materials included, just bring yourself and your friends.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'About the Artists'
+  -
+    type: paragraph
+    content:
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.futurefemalesociety.org/woman-2-woman'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Future Female Society website'
-      -
-        type: text
-        text: ' or call '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473852552'
+              href: 'https://kbdesign.uk/'
               rel: null
               target: null
               title: null
-        text: '01473852552'
+        text: 'https://kbdesign.uk/'
       -
         type: text
-        text: .
+        text: ' Two young and prolific female mural artists making a splash in the urban art world. Graphic design graduates turned mural artists Kirsty and Brittany have a lot to offer to inspire a new generation of artists.'
   -
     type: heading
     attrs:
@@ -87,21 +91,24 @@ content_area:
     content:
       -
         type: text
-        text: 'Please fill in a referral form on the Future Female Society website or call '
+        text: 'Book your free place via the Wild Walls Festival website - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473852552'
+              href: 'https://www.eventbrite.co.uk/e/free-mural-design-workshop-with-kb-designs-tickets-967890766337'
               rel: null
               target: null
               title: null
-        text: '01473852552'
+        text: 'https://www.eventbrite.co.uk/e/free-mural-design-workshop-with-kb-designs-tickets-967890766337'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: '. '
+        text: 'Workshops last 90 minutes and start at 10am and 2pm.'
   -
     type: heading
     attrs:
@@ -165,14 +172,12 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712747685
+updated_at: 1723626275
 cta: |-
-  This event is run by the Future Female Society:
+  This event is organised by Wild Walls Festival
 
-  [https://www.futurefemalesociety.org/](https://www.futurefemalesociety.org/)
-
-  [01473852552](tel:01473852552)
+  [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 duplicated_from: f2667efd-2e9e-4bc3-aecb-23226e3a5000
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+booking_link: 'https://wildwallsfestival.com/whats-on/'
 ---
-Build confidence, learn the ins and outs of radio, create your own show, connect with other women, grow your skills.
+Take part in FREE creative workshops with Kirsty and Brittany and help them to design a new mural for Ipswich.
