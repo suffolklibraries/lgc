@@ -1,16 +1,15 @@
 ---
 id: 93f7f1e0-d653-438c-a33d-0ec0124f48e7
-published: false
 blueprint: events
-title: 'Mural Design Workshops (Duplicated)'
+title: 'Mural Design Workshops'
 event_categories:
   - teen
   - art
   - activism
 organisers:
   - wild-walls-festival
-start_date: '2024-08-20 10:00'
-end_date: '2024-08-20 15:30'
+start_date: '2024-08-21 10:00'
+end_date: '2024-08-21 15:30'
 free: true
 virtual: false
 attendance_information: '- For people aged 14 - 30'
@@ -173,12 +172,13 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723626275
+updated_at: 1723626472
 cta: |-
   This event is organised by Wild Walls Festival
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 duplicated_from: 3f610a74-d052-4ab7-a0f2-1bdda5138953
 booking_link: 'https://wildwallsfestival.com/whats-on/'
+featured_image: wild_walls_festival/kb-mural-design.jpg
 ---
 Take part in FREE creative workshops with Kirsty and Brittany and help them to design a new mural for Ipswich.
