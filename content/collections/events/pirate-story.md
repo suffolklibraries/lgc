@@ -1,5 +1,6 @@
 ---
 id: cd09e257-8bef-40bc-afcb-ced355b36e08
+published: false
 blueprint: events
 title: 'Pirates Story & Crafts'
 event_categories:
