@@ -1,15 +1,16 @@
 ---
 id: 27f4231e-9ab2-4c4f-acbc-aa9a1511af6f
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'VR Street Art Workshop'
 event_categories:
-  - literature
+  - computing
+  - teen
+  - art
 organisers:
-  - suffolk-libraries
-featured_image: suffolklibrariesimages/reading-with-dementia.png
-start_date: '2024-08-05 14:15'
-end_date: '2024-08-05 15:15'
+  - wild-walls-festival
+featured_image: wild_walls_festival/vr-workshop.png
+start_date: '2024-08-18 13:00'
+end_date: '2024-08-18 15:30'
 free: true
 virtual: false
 latitude: '52.05879312178225'
@@ -32,25 +33,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Reading with Dementia is a new programme developed by Suffolk Libraries, with The Reading Agency, to support people living with dementia and their carers.'
+        text: 'Using the VR Graffiti simulator you will use a virtual spray can as your creative tool; enabling you to spray virtually onto trains, subways, alleyways and rooftops, the choice is yours!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Join our weekly book group to be together, share support, and find out about resources available. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We are particularly keen to welcome people from the LGBTQIA+ community, people with learning disabilities and people from ethnic minority backgrounds.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Reading with Dementia groups also meet in Lowestoft Library and Newmarket Library.'
+        text: 'All training and demonstrations are provided and VR experience is not necessary.'
   -
     type: paragraph
   -
@@ -66,35 +55,18 @@ content_area:
     content:
       -
         type: text
-        text: 'For more information and to book contact Kayleigh via telephone on '
+        text: 'Book your free place via the Wild Walls Festival website - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07380187733'
+              href: 'https://www.eventbrite.co.uk/e/vr-workshop-tickets-978380280757'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: '07380 187733'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:kayleigh.kent@suffolklibraries.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: kayleigh.kent@suffolklibraries.co.uk
-      -
-        type: text
-        text: .
+        text: 'https://www.eventbrite.co.uk/e/vr-workshop-tickets-978380280757'
   -
     type: paragraph
   -
@@ -214,16 +186,14 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Wild Walls Festival
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
-
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
+  [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712832795
+updated_at: 1723625731
 duplicated_from: 61c687e2-31c7-4af3-8886-417348684ce8
-accessibility_information: '- Dementia friendly'
+accessibility_information: '- wheelchair accessible'
+attendance_information: '- For people aged 14 - 30 years'
+booking_link: 'https://wildwallsfestival.com/whats-on/'
 ---
-Weekly reading group for people living with Dementia and their families and carers.
+These fun and relaxed sessions will enable you to create your next digital masterpiece.
