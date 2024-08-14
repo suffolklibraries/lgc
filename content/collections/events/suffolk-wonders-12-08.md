@@ -1,5 +1,6 @@
 ---
 id: 4e8de6ec-2ed1-4522-9a42-cb658c278fc2
+published: false
 blueprint: events
 title: "Let's Get Crafty - Suffolk Wonders"
 event_categories:
