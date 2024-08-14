@@ -1,12 +1,11 @@
 ---
 id: fa002db7-b629-410c-b663-5940cbe5ba1a
-published: false
 blueprint: events
-title: 'Tonic - Singing for Health (Duplicated)'
+title: 'Tonic - Singing for Health'
 organisers:
   - cohere-arts
-start_date: '2024-10-03 10:30'
-end_date: '2024-10-03 12:00'
+start_date: '2024-10-10 10:30'
+end_date: '2024-10-10 12:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair accessible'
@@ -172,7 +171,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723635729
+updated_at: 1723635779
 duplicated_from: 7dac813f-ce0e-4b28-938c-8f0b3415cf53
 featured_image: offthepressimages/music.png
 cta: |-
@@ -184,6 +183,8 @@ cta: |-
 address_line_2: 'Gatacre Road'
 event_categories:
   - later-life
+  - music
+  - wellbeing
 attendance_information: '- people living with complex health challenges'
 booking_link: 'https://coherearts.org/home/tonic-singing-for-health/#'
 ---
