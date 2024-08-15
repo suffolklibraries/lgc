@@ -4,7 +4,7 @@ blueprint: events
 title: 'Beyond the Bassline Celebration Day'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723019612
+updated_at: 1723707523
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
 start_date: '2024-08-20 10:30'
@@ -385,7 +385,7 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-end_date: '2024-08-20 13:10'
+end_date: '2024-08-20 15:00'
 duplicated_from: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
 ---
 Come along and join in the celebrations with African and Caribbean dance workshops and music production sessions.
