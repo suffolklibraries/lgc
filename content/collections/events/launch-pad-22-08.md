@@ -4,7 +4,7 @@ blueprint: events
 title: 'Nature Launch Pad'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723652009
+updated_at: 1723736344
 latitude: '52.04421576122085'
 longitude: '1.1204861971073565'
 start_date: '2024-08-22 11:00'
@@ -65,16 +65,56 @@ content_area:
         type: hardBreak
       -
         type: text
-        text: "Martin, Suffolk Libraries' environmentalist-in-residence, will be using high tech equipment so you can listen to the secret noise of plants as they grow. "
+        text: 'Martin,'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://sites.google.com/recastmusiceducation.com/homesounds/projects/s-o-s-at-suffolk-libraries'
+              rel: null
+              target: _blank
+              title: null
+        text: " Suffolk Libraries' environmentalist-in-residence"
+      -
+        type: text
+        text: ', will be using high tech equipment so you can listen to the secret noise of plants as they grow. '
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'The Woodcraft Folk will be running a drop-in activity throughout the day encouraging you to get crafty using nature and your imagination. '
+        text: 'Local artists from '
       -
-        type: hardBreak
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.rockpaperscissors.org.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Rock Paper Scissors'
+      -
+        type: text
+        text: ' and environmental group the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://woodcraft.org.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Woodcraft Folk'
+      -
+        type: text
+        text: ' will be running a drop-in activities throughout the day encouraging you to get crafty using nature and your imagination. '
   -
     type: paragraph
     content:
