@@ -1,5 +1,6 @@
 ---
 id: 8fd66c21-b616-4ef9-b4c4-848705fb8696
+published: false
 blueprint: events
 title: 'Blank Page - Bury St Edmunds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
