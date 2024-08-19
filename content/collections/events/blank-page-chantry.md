@@ -1,5 +1,6 @@
 ---
 id: f710d11e-c6d2-4c35-ab0f-c8e01ea70965
+published: false
 blueprint: events
 title: 'Blank Page - Chantry'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
