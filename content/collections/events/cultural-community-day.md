@@ -1,5 +1,6 @@
 ---
 id: e1171132-56a6-4f85-994e-29e22eab5374
+published: false
 blueprint: events
 title: 'Cultural Community Day'
 event_categories:
