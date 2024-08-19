@@ -1,5 +1,6 @@
 ---
 id: b4cad599-1267-49e4-b4e2-c2b262a91f48
+published: false
 blueprint: events
 title: 'Haverhill in the Park'
 organisers:
