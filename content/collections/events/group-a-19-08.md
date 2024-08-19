@@ -1,5 +1,6 @@
 ---
 id: 21253e9c-698f-491d-9425-eced761b77c2
+published: false
 blueprint: events
 title: 'Group A at Aldeburgh Carnival'
 latitude: '52.16397679077819'
