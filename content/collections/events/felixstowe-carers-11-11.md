@@ -1,13 +1,12 @@
 ---
 id: 46a3aa73-79dd-4167-92ef-9cd6c511a9b4
-published: false
 blueprint: events
-title: 'Felixstowe and Villages Family Carers Group (Duplicated)'
+title: 'Felixstowe and Villages Family Carers Group'
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-10-14 13:00'
-end_date: '2024-10-14 15:00'
+start_date: '2024-11-11 13:00'
+end_date: '2024-11-11 15:00'
 free: true
 virtual: false
 content_area:
@@ -160,7 +159,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724234057
+updated_at: 1724234217
 duplicated_from: 91b3feee-15ed-410a-8825-4e1c7b93db6a
 attendance_information: '- Adult family carers'
 event_categories:
@@ -173,6 +172,6 @@ address_line_1: 'Old Felixstowe Community Centre'
 address_line_2: 'Ferry Road'
 town: Felixstowe
 postcode: 'IP11 9NB'
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/felixstowe-folklore-sculptures/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/felixstowe-folklore-sculptures-2/'
 ---
 Alice-Andrea Ewing will be joining us to create individual ceramic sculptures inspired by Folklore.
