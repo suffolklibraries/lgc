@@ -1,13 +1,12 @@
 ---
 id: 51d99402-5552-4c00-858a-b437ef335504
-published: false
 blueprint: events
-title: 'Friends Around the Table - Haverhill Carers Group (Duplicated)'
+title: 'Friends Around the Table - Haverhill Carers Group'
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-09-05 13:00'
-end_date: '2024-09-05 15:00'
+start_date: '2024-10-03 13:00'
+end_date: '2024-10-03 15:00'
 free: true
 virtual: false
 content_area:
@@ -24,15 +23,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along and learn weaving techniques and take home your own Willow Angel or Willow Bird feeder.'
+        text: 'Experiment with colour and materials to make your own prints to take home. Join us later in the month to make us of any spare prints and learn how to fold small paper vessels during the regular Haverhill Carers support group.'
   -
     type: paragraph
     content:
       -
         type: text
         text: 'Haverhill Carers Group Family Carers group has been formed and is run by family carers or those with caring experience who understand the challenges of caring for a loved one. The group provides opportunity to meet with other carers to share friendship, experiences and discussion in a welcoming and friendly environment.'
-  -
-    type: paragraph
   -
     type: heading
     attrs:
@@ -196,7 +193,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724231492
+updated_at: 1724231550
 duplicated_from: 32d8fef8-4409-47cb-bab8-f1216e1fdbc8
 attendance_information: '- Adult family carers'
 event_categories:
@@ -209,6 +206,6 @@ address_line_1: 'Burton Centre (St Nicholas Hospice / Haverhill Library)'
 address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/willow-at-haverhill-carers-group/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/natural-prints-at-haverhill-carers-group/'
 ---
-Willow Phoenix will be joining the group to share their skills and provide the group with the opportunity to learn the art of Willow Weaving.
+Join Jac Campbell to create your own prints using natural materials, water based inks and a printing press.
