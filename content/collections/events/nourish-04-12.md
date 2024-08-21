@@ -1,16 +1,15 @@
 ---
 id: 9c4d23ed-8874-4049-ad90-4bd24ffb6c11
-published: false
 blueprint: events
-title: 'Nourish (Duplicated) (Duplicated) (Duplicated)'
+title: Nourish
 event_categories:
   - wellbeing
   - community
   - dance
 organisers:
   - eastern-angles
-start_date: '2024-11-06 10:30'
-end_date: '2024-11-06 12:30'
+start_date: '2024-12-04 10:30'
+end_date: '2024-12-04 12:30'
 free: true
 virtual: false
 latitude: '52.06333346360425'
@@ -125,7 +124,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724235542
+updated_at: 1724235657
 featured_image: offthepressimages/wellbeing.png
 duplicated_from: 8660df02-8ad3-4aa7-b4c6-5d55624abeb2
 accessibility_information: '- accessible toilets'
