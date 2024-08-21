@@ -1,15 +1,14 @@
 ---
 id: 63f04482-069f-40d9-b8d7-62ad0bad158b
-published: false
 blueprint: events
-title: 'Homework Club (Duplicated)'
+title: 'Homework Club'
 event_categories:
   - languages
   - teen
 organisers:
   - eastern-angles
-start_date: '2024-11-20 15:30'
-end_date: '2024-11-20 17:00'
+start_date: '2024-12-03 15:30'
+end_date: '2024-12-03 17:00'
 free: true
 virtual: false
 latitude: '52.06333346360425'
@@ -157,7 +156,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724239590
+updated_at: 1724239689
 featured_image: offthepressimages/otpillustrations/Literature.png
 duplicated_from: 825cb56b-69c2-4601-bc39-18cf4fdbcadd
 ---
