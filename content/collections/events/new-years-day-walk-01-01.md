@@ -1,16 +1,15 @@
 ---
 id: e181b130-0406-43ce-8e08-7092e7c8ce2c
-published: false
 blueprint: events
-title: 'Winter Waders Guided Walk (Duplicated)'
+title: 'New Years Day Guided Walk'
 event_categories:
   - community
   - nature
   - family-friendly
 organisers:
   - suffolk-wildlife-trust
-start_date: '2024-11-14 10:00'
-end_date: '2024-11-14 12:30'
+start_date: '2025-01-01 10:00'
+end_date: '2025-01-01 13:30'
 free: false
 virtual: false
 attendance_information: '- Suitable for adults'
@@ -33,13 +32,19 @@ content_area:
     content:
       -
         type: text
-        text: "Explore the reserve with one of our knowledgeable wildlife guides and discover the variety of waders, ducks and geese that choose Carlton Marshes as their winter home, from lapwing, redshank, black-tailed godwits, wigeon and much more.\_"
+        text: 'Kickstart your New Years Birds Lists by taking a walk around Carlton Marshes to see all the wintering birds led by one of our knowledgeable wildlife guides. Then warm up at the visitor centre with soup and hot drinks.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Bring binoculars and scopes or if you don't have any there are binoculars available to hire from our visitor centre.\_"
+        text: "You do not need to be a bird expert to enjoy this walk, we welcome beginners and experienced birders. Please bring along binoculars if you have them or you can hire them for £4 from the centre.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "We will meet at the visitor centre then walk along the red Peto's trail before returning to the visitor centre at around 12:30pm for lunch."
   -
     type: heading
     attrs:
@@ -60,7 +65,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events/2024-11-14-winter-waders-guided-walk-carlton-marshes'
+              href: 'https://www.suffolkwildlifetrust.org/events/2025-01-01-new-years-day-guided-walk'
               rel: null
               target: _blank
               title: null
@@ -142,10 +147,10 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724242852
+updated_at: 1724243085
 duplicated_from: c303b741-756d-4277-9406-5affe94b4d67
 featured_image: offthepressimages/new_resized_images/Nature.png
-cost_details: '£5 per person'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-11-14-winter-waders-guided-walk-carlton-marshes'
+cost_details: '£12 per person'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-01-01-new-years-day-guided-walk'
 ---
-Join one of our wildlife guides for a walk around the reserve to see the wintering waders.
+Start your New Years Bird List with a guided walk around Carlton Marshes.
