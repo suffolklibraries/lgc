@@ -7,8 +7,8 @@ event_categories:
   - teen
 organisers:
   - eastern-angles
-start_date: '2024-10-01 15:30'
-end_date: '2024-10-02 17:00'
+start_date: '2024-10-08 15:30'
+end_date: '2024-10-08 17:00'
 free: true
 virtual: false
 latitude: '52.06333346360425'
@@ -156,7 +156,7 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724239046
+updated_at: 1724239057
 featured_image: offthepressimages/otpillustrations/Literature.png
 duplicated_from: 22f3f6fd-fcf9-4495-a8f3-c3b0b4a5cdad
 ---
