@@ -135,7 +135,7 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724242633
+updated_at: 1724242673
 duplicated_from: f8da1904-4c77-45ea-b479-b6e78e1c8828
 featured_image: offthepressimages/new_resized_images/Nature.png
 cost_details: '£5 per person'
