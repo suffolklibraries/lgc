@@ -1,16 +1,15 @@
 ---
 id: de31f4e1-3a0f-4620-b3a0-891c49a6545e
-published: false
 blueprint: events
-title: 'Autumn Migration at Carlton Marshes (Duplicated)'
+title: 'Sunset Walk at Carlton Marshes'
 event_categories:
   - community
   - nature
   - later-years
 organisers:
   - suffolk-wildlife-trust
-start_date: '2024-09-02 10:00'
-end_date: '2024-09-02 13:00'
+start_date: '2024-11-30 15:00'
+end_date: '2024-11-30 17:30'
 free: false
 virtual: false
 attendance_information: '- Suitable for adults'
@@ -33,7 +32,13 @@ content_area:
     content:
       -
         type: text
-        text: "Discover Carlton Marshes on a guided walk from one of our knowledgeable wildlife guides. Come along whether you are a keen birdwatcher or are looking to improve your bird ID skills, to see the autumn migrants as they stop off at Carlton Marshes.\_\_"
+        text: "Enjoy a guided walk around Carlton Marshes at sunset with one of our wildlife guides to (hopefully) see marsh harriers roosting, barn owls hunting and the sounds of dusk.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "Suitable for adults, both beginner and expert wildlife enthusiasts.\_"
   -
     type: heading
     attrs:
@@ -54,7 +59,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events/2024-09-02-autumn-migration-carlton-marshes'
+              href: 'https://www.suffolkwildlifetrust.org/events/2024-11-30-sunset-walk-carlton-marshes'
               rel: null
               target: _blank
               title: null
@@ -136,10 +141,10 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724242673
+updated_at: 1724242960
 duplicated_from: 9f99f1c8-97e0-414c-8e70-9296e152337b
 featured_image: offthepressimages/new_resized_images/Nature.png
 cost_details: '£5 per person'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-09-02-autumn-migration-carlton-marshes'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-11-30-sunset-walk-carlton-marshes'
 ---
-Join one of our wildlife guides for a walk around the reserve to see the autumn migrants.
+See Carlton Marshes at Sunset on this guided walk.
