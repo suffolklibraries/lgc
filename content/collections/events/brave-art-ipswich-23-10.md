@@ -1,16 +1,15 @@
 ---
 id: 8aa7ced1-019e-49e5-b5a6-ecb0eed46970
-published: false
 blueprint: events
-title: 'Brave Art - Ipswich (Duplicated)'
+title: 'Brave Art - Ipswich'
 event_categories:
   - art
   - exhibition
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-10-16 10:00'
-end_date: '2024-10-16 13:00'
+start_date: '2024-10-23 10:00'
+end_date: '2024-10-23 13:00'
 free: false
 virtual: false
 latitude: '52.06333346360425'
@@ -182,7 +181,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724233775
+updated_at: 1724233797
 duplicated_from: be164274-6e05-4755-b12b-ae4291ed7c94
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-ips-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
