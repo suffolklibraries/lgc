@@ -1,16 +1,15 @@
 ---
 id: 2d2c7002-4f11-4e56-98da-cf9c5a47547d
-published: false
 blueprint: events
-title: 'Brave Art - Bury St Edmunds (Duplicated) (2)'
+title: 'Brave Art - Bury St Edmunds'
 event_categories:
   - art
   - exhibition
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-10-08 10:00'
-end_date: '2024-10-08 15:00'
+start_date: '2024-10-22 10:00'
+end_date: '2024-10-22 15:00'
 free: false
 virtual: false
 latitude: '52.249199457229814'
@@ -208,7 +207,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724232400
+updated_at: 1724233284
 duplicated_from: 33ed43f5-cbde-4297-b95f-5fc0941323fa
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-bse-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
