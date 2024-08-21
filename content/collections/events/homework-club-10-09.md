@@ -1,14 +1,13 @@
 ---
 id: 4b6f891c-5ebd-46fa-ba36-88e736e42c60
-published: false
 blueprint: events
-title: 'Homework Club (Duplicated)'
+title: 'Homework Club'
 event_categories:
   - languages
 organisers:
   - eastern-angles
-start_date: '2024-03-27 15:30'
-end_date: '2024-03-27 17:00'
+start_date: '2024-09-10 15:30'
+end_date: '2024-09-10 17:00'
 free: true
 virtual: false
 latitude: '52.06333346360425'
@@ -57,49 +56,41 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://s3-eu-west-1.amazonaws.com/easternangles/Eastern-Angles-Centre/Homework-Club-Sign-Up-Form.word.docx'
-              rel: null
-              target: null
-              title: null
-        text: "Click here to download the Homework Club sign up form.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "All attendees, parents and guardians are also asked to read\_our Homework Club Terms & Conditions and our Behaviour Policy which can be views on the following links:"
-  -
-    type: paragraph
-    content:
+        text: 'Visit the Eastern Angles website to download a copy of the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://s3-eu-west-1.amazonaws.com/easternangles/Document-Downloads/Eastern-Angles-Homework-Club-Terms-and-Conditions-wall-edit.pdf'
+              href: 'https://easternangles.co.uk/homework-club'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Homework Club Terms & Conditions'
+        text: 'Homework Club sign up form'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
+      -
+        type: text
+        text: "All attendees, parents and guardians are also asked to read\_our Homework Club Terms & Conditions and our Behaviour Policy which can be viewed on the"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://s3-eu-west-1.amazonaws.com/easternangles/Eastern-Angles-Centre/Eastern-Angles-Behaviour-Policy-Homework-Club.pdf'
+              href: 'https://easternangles.co.uk/homework-club'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Eastern Angles Behaviour Policy'
+        text: ' Eastern Angles website'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -154,17 +145,17 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://easternangles.co.uk/event/homework-club-1'
+booking_link: 'https://easternangles.co.uk/homework-club'
 cta: |-
-  This event is organised by Eastern Angles:
+  This event is organised by Eastern Angles
 
-  [https://easternangles.co.uk/event/homework-club-1](https://easternangles.co.uk/event/homework-club-1) 
+  [https://easternangles.co.uk/](https://easternangles.co.uk/) 
 
-  [callum@easternangles.co.uk](mailto:callum@easternangles.co.uk)
+  [admin@easternangles.co.uk ](mailto:admin@easternangles.co.uk)
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1710779483
+updated_at: 1724236225
 featured_image: offthepressimages/otpillustrations/Literature.png
 duplicated_from: f7279711-5fdf-498b-b1f7-1c09c9bee163
 ---
