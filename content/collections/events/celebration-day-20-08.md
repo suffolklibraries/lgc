@@ -1,5 +1,6 @@
 ---
 id: 79b5b2be-3de7-41ad-b07b-b22b04df072d
+published: false
 blueprint: events
 title: 'Beyond the Bassline Celebration Day'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
