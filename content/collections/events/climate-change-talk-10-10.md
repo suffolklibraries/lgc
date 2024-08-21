@@ -1,23 +1,21 @@
 ---
 id: a12a3399-6204-49d6-a5de-de04826adfd1
-published: false
 blueprint: events
-title: 'A year in the life of the badger (Duplicated)'
+title: 'A changing climate: why do I need to do anything?'
 event_categories:
   - community
   - nature
-  - later-years
 organisers:
   - suffolk-wildlife-trust
-start_date: '2024-11-27 19:30'
-end_date: '2024-11-27 20:30'
+start_date: '2024-10-10 19:30'
+end_date: '2024-10-10 20:30'
 free: true
 virtual: false
-latitude: '52.05780470809873'
-longitude: '1.1503350836157509'
-address_line_1: 'Museum Street Methodist Church'
-town: Ipswich
-postcode: 'IP1 2EF'
+latitude: '52.32868422014345'
+longitude: '1.6801929971254665'
+address_line_1: 'Southwold Arts Centre'
+town: Southwold
+postcode: 'IP18 6JP'
 content_area:
   -
     type: heading
@@ -32,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: "The biology and the behaviour of Britains largest predatory land mammal.\_ Although legally protected in Suffolk, it still faces many threats to its existence,"
+        text: 'The climate emergency is making us think, or at least it should do. This presentation will have illustrations but also questions and discussions. If it’s an ‘emergency’, are we really approaching it with sufficient effort? This may not be the most comfortable of topics but somehow we need to make the step changes necessary.'
   -
     type: heading
     attrs:
@@ -60,55 +58,63 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a small amount of parking by the Methodist Church. The closest public car park is '
+        text: 'Parking can be limited near Southwold Arts Centre but free on-street parking can often be found on nearby Stradbroke Road or Marlborough Road. The'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-tower-ramparts/'
+              href: 'https://www.apcoa.co.uk/parking-in/southwold/southwold-pier-southwold/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'NCP Tower Ramparts'
-      -
-        type: text
-        text: ' on Crown Street (IP1 3DH), which is open 24 hours a day, Monday to Sunday.  The council-run '
+        text: ' '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              href: 'https://www.apcoa.co.uk/parking-in/southwold/southwold-pier-southwold/'
               rel: null
               target: _blank
               title: null
-        text: 'Crown Street Car Par'
+        text: 'town’s main car park'
       -
         type: text
-        text: 'k (IP1 3HS) also offers ample parking, just a couple of minutes walk away, and is open from 8am until 6.30pm (with a later closing time of 11.30pm on Friday and Saturday). '
+        text: ' at the pier has over 250 spaces and is a 5-minute walk away. Alternatively, a second car park is found on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/gardner_road_southwold/?arriving=202408211400&leaving=202408211600'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Gardner Road on Southwold common.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The church is located 5-6 minutes walk from '
+        text: 'The nearest bus stop is a five minute walk away at the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Tower+Ramparts+bus+station/@52.0593409,1.1498441,17z/data=!3m1!4b1!4m6!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
+              href: "https://www.google.com/maps/dir/Southwold+Arts+Centre,+St+Edmund's+Hall,+Cumberland+Road,+Southwold+IP18+6JP/Market+Place,+Southwold+IP18+6DS/@52.3273861,1.6765619,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47da22187a1576b9:0x13919c56394c9568!2m2!1d1.680193!2d52.32854!1m5!1m1!1s0x47da222244ea9a25:0xc6d1921aa366baaa!2m2!1d1.678496!2d52.326405!3e2?entry=ttu"
               rel: null
               target: _blank
               title: null
-        text: 'Tower Ramparts Bus Station'
+        text: 'market place'
       -
         type: text
-        text: ', a hub for bus routes from all around Ipswich and the surrounding areas.'
+        text: .
   -
     type: paragraph
     content:
@@ -138,15 +144,15 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724243459
+updated_at: 1724243839
 duplicated_from: d5d7bc28-1c74-4b18-82d6-1e485723704c
 featured_image: offthepressimages/new_resized_images/Nature.png
-cost_details: '£3 per person, under 25s free'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-11-27-year-life-badger'
+cost_details: '£4 per person, under 25s free'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-10-10-talk-changing-climate-why-do-i-need-do-anything'
 accessibility_information: |-
   - wheelchair accessible
   - hearing loop available
   - accesible toilet
-address_line_2: '17 Black Horse Lane'
+address_line_2: "St Edmund's Hall, Cumberland Road"
 ---
-Join Adrian Hinchcliffe, from Suffolk Mammal Group for this fascinating talk.
+Talk and discussion by Simon Hooton.
