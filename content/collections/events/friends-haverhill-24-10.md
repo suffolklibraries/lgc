@@ -193,7 +193,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724234120
+updated_at: 1724234139
 duplicated_from: 51d99402-5552-4c00-858a-b437ef335504
 attendance_information: '- Adult family carers'
 event_categories:
@@ -206,6 +206,6 @@ address_line_1: 'Burton Centre (St Nicholas Hospice / Haverhill Library)'
 address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/natural-prints-at-haverhill-carers-group/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/paper-vessels-at-haverhill-carers-group/'
 ---
 Join Jac Campbell to create your own prints using natural materials, water based inks and a printing press.
