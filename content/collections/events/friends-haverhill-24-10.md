@@ -1,13 +1,12 @@
 ---
 id: 1a44a26d-8916-4667-af36-0fff5226f26e
-published: false
 blueprint: events
-title: 'Friends Around the Table - Haverhill Carers Group (Duplicated)'
+title: 'Friends Around the Table - Haverhill Carers Group'
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-10-03 13:00'
-end_date: '2024-10-03 15:00'
+start_date: '2024-10-24 13:00'
+end_date: '2024-10-24 15:00'
 free: true
 virtual: false
 content_area:
@@ -24,7 +23,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Experiment with colour and materials to make your own prints to take home. Join us later in the month to make us of any spare prints and learn how to fold small paper vessels during the regular Haverhill Carers support group.'
+        text: 'We invite you to join in as part of the regular Haverhill Family Carers support group so there will be plenty of time for conversation alongside our creative activity.'
   -
     type: paragraph
     content:
@@ -194,7 +193,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724231550
+updated_at: 1724234120
 duplicated_from: 51d99402-5552-4c00-858a-b437ef335504
 attendance_information: '- Adult family carers'
 event_categories:
