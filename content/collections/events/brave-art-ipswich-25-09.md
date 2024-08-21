@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-10-25 10:00'
-end_date: '2024-10-25 15:00'
+start_date: '2024-09-25 10:00'
+end_date: '2024-09-25 13:00'
 free: false
 virtual: false
 latitude: '52.06333346360425'
@@ -181,7 +181,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724233600
+updated_at: 1724233680
 duplicated_from: b9010ca3-7b95-40f2-a959-daf3ac74c488
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-ips-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
