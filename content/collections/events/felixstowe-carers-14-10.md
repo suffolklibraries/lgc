@@ -1,13 +1,12 @@
 ---
 id: 91b3feee-15ed-410a-8825-4e1c7b93db6a
-published: false
 blueprint: events
-title: 'Digital Journals at Felixstowe and Villages Family Carers Group (Duplicated)'
+title: 'Felixstowe and Villages Family Carers Group'
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/otpillustrations/Literature.png
-start_date: '2024-07-10 13:00'
-end_date: '2024-07-10 15:00'
+featured_image: offthepressimages/support.png
+start_date: '2024-10-14 13:00'
+end_date: '2024-10-14 15:00'
 free: true
 virtual: false
 content_area:
@@ -24,21 +23,13 @@ content_area:
     content:
       -
         type: text
-        text: 'You will have a chance to try out creative tasks as part of the group and take away inspirational ideas and prompts of how to find and capture the creative moments in your everyday.'
+        text: 'Working with terracotta clay and wax resist methods each participant will have the opportunity to create their own design which will be taken away and fired before being return the following month when participants will be able to glaze them'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Felixstowe and Villages Family Carers group has been formed and is run by family carers or those with caring experience who understand the challenges of caring for a loved one. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The group provides opportunity to meet with other carers to share friendship, experiences and discussion in a welcoming and friendly environment.'
-  -
-    type: paragraph
+        text: 'Felixstowe and Villages Family Carers group has been formed and is run by family carers or those with caring experience who understand the challenges of caring for a loved one. The group provides opportunity to meet with other carers to share friendship, experiences and discussion in a welcoming and friendly environment.'
   -
     type: heading
     attrs:
@@ -168,7 +159,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715324859
+updated_at: 1724234057
 duplicated_from: 77031b98-50d7-4486-a07b-995e8c0bf6bd
 attendance_information: '- Adult family carers'
 event_categories:
@@ -181,5 +172,6 @@ address_line_1: 'Old Felixstowe Community Centre'
 address_line_2: 'Ferry Road'
 town: Felixstowe
 postcode: 'IP11 9NB'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/felixstowe-folklore-sculptures/'
 ---
-Work with artist Johann Don-Daniel who will share ideas, tips and techniques for using your own phone or tablet to create a personal digital creative journal.
+Alice-Andrea Ewing will be joining us to create individual ceramic sculptures inspired by Folklore.
