@@ -1,13 +1,12 @@
 ---
 id: 7dff4c7a-6c34-44ca-8d30-a33530d9930e
-published: false
 blueprint: events
-title: 'Mosaics at Stowmarket Friends Around the Table Craft Group (Duplicated)'
+title: 'Friends Around the Table Craft Group'
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/new_resized_images/LGC-VA.png
-start_date: '2024-07-10 10:30'
-end_date: '2024-07-10 12:15'
+start_date: '2024-10-09 10:30'
+end_date: '2024-10-09 12:15'
 free: false
 virtual: false
 content_area:
@@ -24,21 +23,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Friends Around the Table Craft group is a welcoming and relaxed group who meet on a monthly basis to share in a variety of creative activities, a chat and a cuppa! '
+        text: 'Working with terracotta clay and wax resist methods each participant will have the opportunity to create their own design which will be taken away and fired before being return the following month when participants will be able to glaze them'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'No previous experience necessary, everybody welcome.'
+        text: 'Friends Around the Table Craft group is a welcoming and relaxed group who meet on a monthly basis to share in a variety of creative activities, a chat and a cuppa! No previous experience necessary, everybody welcome.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Meetings take place every 2nd Wednesday of the month'
-  -
-    type: paragraph
+        text: 'Meetings take place on the 2nd Wednesday of each month.'
   -
     type: heading
     attrs:
@@ -157,7 +154,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1715324821
+updated_at: 1724231664
 duplicated_from: df3012fb-f1d0-4e88-abaf-8085807ede84
 attendance_information: '- Adult family carers'
 event_categories:
@@ -171,5 +168,6 @@ address_line_2: Hillside
 town: Stowmarket
 postcode: 'IP14 2BD'
 cost_details: £3
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/stowmarket-folklore-sculptures/'
 ---
-Jac Campbell will be working with the group to create individual mosaics. Design and make your own mosaic using glass tiles to produce a colourful and unique design for you to keep!
+Alice-Andrea Ewing will be joining us to create individual ceramic sculptures inspired by Folklore.
