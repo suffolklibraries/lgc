@@ -1,24 +1,23 @@
 ---
 id: 2c083888-c28e-4328-97d0-0aa1b24f9f6d
-published: false
 blueprint: events
-title: 'Brave Art - Bury St Edmunds (Duplicated)'
+title: 'Brave Art - Ipswich'
 event_categories:
   - art
   - exhibition
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-11-19 10:00'
-end_date: '2024-11-19 15:00'
+start_date: '2024-10-25 10:00'
+end_date: '2024-10-25 15:00'
 free: false
 virtual: false
-latitude: '52.249199457229814'
-longitude: '0.7212111186308693'
-address_line_1: 'Bury Town Football Club'
-address_line_2: 'Ram Meadow, Cotton Lane'
-town: 'Bury St Edmunds'
-postcode: 'IP33 1XT'
+latitude: '52.06333346360425'
+longitude: '1.1373039051974707'
+address_line_1: 'The Eastern Angles Centre'
+address_line_2: 'Gatacre Road'
+town: Ipswich
+postcode: 'IP1 2LQ'
 content_area:
   -
     type: heading
@@ -124,61 +123,35 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest bus stop is a six minute walk away, and you can access up-to-date timetables on the '
+        text: 'There is a free car park on-site, which you can enter using the large blue gates located on the right-hand side of Gatacre Road. Other car parks nearby which are pay and display include: South Street Car Park (10 min walk to theatre), Portman Road Car Park (16 min walk to theatre). The closest '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
+              href: 'https://www.google.co.uk/maps/place/Sir+John+Mills+Theatre/@52.0631843,1.1376062,19.75z/data=!4m12!1m6!3m5!1s0x47d9a1b5f34a8ddd:0xe05bc781d84ef4dd!2sEastern+Angles+Centre!8m2!3d52.0631422!4d1.13732!3m4!1s0x47d9a1b5f9a67d49:0x8856208cee78829a!8m2!3d52.063236!4d1.137275'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'bus stop'
       -
         type: text
-        text: '. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is disabled parking at Bury Town Football Club and pay and display parking a three minute walk away at '
+        text: ' is one minute away, see the latest bus timetables '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/near/abbey-gardens-2/?arriving=202408211030&leaving=202408211230'
+              href: 'https://www.suffolkonboard.com/buses/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Abbey Gardens car park'
+        text: here
       -
         type: text
-        text: '. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Bury St Edmunds railway station is a 15 minute walk away and you can find the train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: '. '
+        text: .
   -
     type: paragraph
     content:
@@ -208,14 +181,14 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724233410
+updated_at: 1724233600
 duplicated_from: b9010ca3-7b95-40f2-a959-daf3ac74c488
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-bse-24/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-ips-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
 attendance_information: '- Adults with learning disabilities'
 accessibility_information: |-
   - Disabled parking available
-  - -Wheelchair accessible
+  - Wheelchair accessible
   - Adapted toilet
 ---
 Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.
