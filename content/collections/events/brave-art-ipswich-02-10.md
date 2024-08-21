@@ -181,7 +181,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724233667
+updated_at: 1724233686
 duplicated_from: 2c083888-c28e-4328-97d0-0aa1b24f9f6d
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-ips-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
