@@ -207,7 +207,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724232370
+updated_at: 1724233327
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-bse-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
