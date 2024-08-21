@@ -9,7 +9,7 @@ organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
 start_date: '2024-09-24 10:00'
-end_date: '2024-08-24 15:00'
+end_date: '2024-08-24 13:00'
 free: false
 virtual: false
 latitude: '52.249199457229814'
@@ -207,7 +207,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724233626
+updated_at: 1724233750
 duplicated_from: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-bse-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
