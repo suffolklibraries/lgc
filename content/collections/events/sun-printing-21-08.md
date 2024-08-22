@@ -1,5 +1,6 @@
 ---
 id: 28963826-45e5-4496-aa88-e39d337245db
+published: false
 blueprint: events
 title: 'Sun Printing Workshop'
 event_categories:
