@@ -1,5 +1,6 @@
 ---
 id: ccded85e-e8df-4a9c-997b-7aec455dd529
+published: false
 blueprint: events
 title: 'Mural Design Workshops'
 event_categories:
