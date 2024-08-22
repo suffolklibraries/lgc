@@ -1,5 +1,6 @@
 ---
 id: 95c79c24-1d15-44d6-81e7-9875b86a7e4b
+published: false
 blueprint: events
 title: 'Blank Page - Bungay'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
