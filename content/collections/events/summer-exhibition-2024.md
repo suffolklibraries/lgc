@@ -9,7 +9,7 @@ organisers:
   - suffolk-artlink
 featured_image: suffolkartlinkimages/brave-art-exhibition.jpg
 start_date: '2024-08-07 10:30'
-end_date: '2024-07-15 15:30'
+end_date: '2024-08-31 15:30'
 free: true
 virtual: false
 latitude: '52.32025130563182'
@@ -130,7 +130,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724230922
+updated_at: 1724312742
 duplicated_from: a3b6dd84-fda9-4cad-b24a-96601ef4c95d
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/brave-art-exhibiton/'
 ---
