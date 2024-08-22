@@ -1,5 +1,6 @@
 ---
 id: 225d66a1-3480-4da8-a4cc-6094fdc9f367
+published: false
 blueprint: events
 title: 'Newmarket Summer Events'
 start_date: '2024-08-22 13:00'
