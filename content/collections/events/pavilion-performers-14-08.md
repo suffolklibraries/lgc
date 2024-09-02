@@ -1,5 +1,6 @@
 ---
 id: 5bc09a75-594c-4733-b3c4-e335d89c8be0
+published: false
 blueprint: events
 title: 'Pavilion Performers Open Session'
 event_categories:
