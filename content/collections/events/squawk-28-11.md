@@ -4,9 +4,9 @@ blueprint: events
 title: Squawk
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725301597
-start_date: '2024-11-21 10:00'
-end_date: '2024-11-21 15:00'
+updated_at: 1725301619
+start_date: '2024-11-28 10:00'
+end_date: '2024-11-28 15:00'
 free: true
 virtual: false
 organisers:
