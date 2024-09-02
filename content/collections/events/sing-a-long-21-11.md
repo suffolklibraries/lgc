@@ -1,13 +1,12 @@
 ---
 id: 2a992189-3c71-4cd3-a432-a6c9329dbc7d
-published: false
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated)'
+title: 'Seagull Sing-a-Long'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725290890
-start_date: '2024-11-07 12:30'
-end_date: '2024-11-07 14:00'
+updated_at: 1725290981
+start_date: '2024-11-21 12:30'
+end_date: '2024-11-21 14:00'
 free: true
 virtual: false
 organisers:
@@ -146,6 +145,7 @@ postcode: 'NR33 0JH'
 duplicated_from: c83af3ac-e2c1-4513-9633-6533d3aeee42
 event_categories:
   - community
-  - music
+  - music-and-singing
+  - wellbeing
 ---
 A fun weekly group for people and families living with dementia.
