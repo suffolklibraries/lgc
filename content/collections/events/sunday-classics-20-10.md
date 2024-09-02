@@ -1,13 +1,12 @@
 ---
 id: 7f43ea90-00e7-4652-851f-471cbdd46c72
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club (Duplicated)'
+title: 'Sunday Classics Film Club - Lullaby of Broadway'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716899923
-start_date: '2024-06-09 14:30'
-end_date: '2024-06-09 16:00'
+updated_at: 1725288804
+start_date: '2024-10-20 14:30'
+end_date: '2024-10-20 16:00'
 free: true
 virtual: false
 organisers:
@@ -164,5 +163,8 @@ postcode: 'NR33 0JH'
 duplicated_from: e424d08a-a22c-4f0a-b7c5-afa260e45f49
 event_categories:
   - film
+  - community
+  - wellbeing
+booking_link: 'https://theseagull.co.uk/community_events/sunday-classics-film-club/'
 ---
 A free accessible film screening designs for those living with dementia and their families.
