@@ -1,5 +1,6 @@
 ---
 id: d6c8ea88-06d5-460a-b79d-1cc9462f620f
+published: false
 blueprint: events
 title: 'VI Arts Taster Programme - Art'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
