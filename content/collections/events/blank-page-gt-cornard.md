@@ -1,5 +1,6 @@
 ---
 id: 87970162-561d-4f88-914c-4e6ad3b7438e
+published: false
 blueprint: events
 title: 'Blank Page - Great Cornard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
