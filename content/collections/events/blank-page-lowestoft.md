@@ -1,5 +1,6 @@
 ---
 id: 73e351a7-7933-4269-ba74-1e26369fee8b
+published: false
 blueprint: events
 title: 'Blank Page - Lowestoft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
