@@ -1,8 +1,7 @@
 ---
 id: 094c577b-9587-487b-8228-5452ebfa07f7
-published: false
 blueprint: events
-title: 'Wild Walls Festival: Street Art Workshop (Duplicated)'
+title: 'Wild Walls Festival: Street Art Workshop'
 event_categories:
   - teen
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - wild-walls-festival
 featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2024-09-07 10:00'
-end_date: '2024-09-07 13:00'
+start_date: '2024-09-07 14:00'
+end_date: '2024-09-07 17:00'
 free: true
 virtual: false
 latitude: '52.05251865001243'
@@ -61,11 +60,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.eventbrite.co.uk/e/free-live-street-art-workshops-with-eyesaw-tickets-1006690607707?aff=ebdsoporgprofile'
+              href: 'https://www.eventbrite.co.uk/e/free-live-street-art-workshops-with-eyesaw-tickets-1006712202297?aff=ebdssbdestsearch'
               rel: null
               target: _blank
               title: null
-        text: 'https://www.eventbrite.co.uk/e/free-live-street-art-workshops-with-eyesaw-tickets-1006690607707?aff=ebdsoporgprofile'
+        text: 'https://www.eventbrite.co.uk/e/free-live-street-art-workshops-with-eyesaw-tickets-1006712202297?aff=ebdssbdestsearch'
   -
     type: heading
     attrs:
@@ -207,7 +206,7 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725284321
+updated_at: 1725285547
 duplicated_from: 039add6c-80ae-4f2d-ab2c-4026481ecd4b
 booking_link: 'https://wildwallsfestival.com/whats-on/'
 ---
