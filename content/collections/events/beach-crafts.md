@@ -1,5 +1,6 @@
 ---
 id: cfad7014-d2ee-4283-a7e5-8228bcacade8
+published: false
 blueprint: events
 title: 'Beach Crafts'
 event_categories:
