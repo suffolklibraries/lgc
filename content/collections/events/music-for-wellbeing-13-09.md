@@ -1,13 +1,12 @@
 ---
 id: 111e72c9-6586-4eb1-b909-8c54d9cff4cf
-published: false
 blueprint: events
-title: 'Music for Wellbeing (Duplicated)'
+title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716897610
-start_date: '2024-09-06 13:30'
-end_date: '2024-09-06 15:00'
+updated_at: 1725289550
+start_date: '2024-09-13 13:30'
+end_date: '2024-09-13 15:00'
 free: true
 virtual: false
 organisers:
@@ -138,7 +137,9 @@ address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 0053a401-79b3-4aac-827c-b2db8ed595ea
 event_categories:
-  - music
   - wellbeing
+  - music-and-singing
+  - community
+booking_link: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
 ---
-An activity for anyone who enjoys music.
+An activity for anyone who enjoys music!
