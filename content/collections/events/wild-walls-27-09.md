@@ -1,16 +1,15 @@
 ---
 id: e9173899-6708-40a1-bf2e-b36b4f5e8d98
-published: false
 blueprint: events
-title: 'Wild Walls Festival: Wild Style (Duplicated)'
+title: 'Wild Walls Festival: Exit Through the Gift Shop'
 event_categories:
   - teen
   - film
 organisers:
   - wild-walls-festival
 featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2024-09-13 18:00'
-end_date: '2024-07-13 19:30'
+start_date: '2024-09-27 18:00'
+end_date: '2024-09-27 19:30'
 free: true
 virtual: false
 latitude: '52.05749510430892'
@@ -33,15 +32,13 @@ content_area:
     content:
       -
         type: text
-        text: "Wild Style (1982), directed by Charlie Ahearn and introduced by DJ Jimmy Green, is the story of how hip-hop came to be from the perspective of the actual hip-hop pioneers, playing themselves in the film. The film is a landmark cinematic representation of the \"Five Elements\" of Hip-Hop (MCing, Breakdancing, DJing, Graffiti and Knowledge of the Movement ).\_ Featuring DJ Grandmaster Flash, writer and MC Fab Five Freddy, Graffiti writers Lady Pink, Zephyr, Breakdancers The Rock Steady, MC's The Cold Crush Brothers and Queen Lisa Lee of the Universal Zulu Nation."
-  -
-    type: paragraph
+        text: 'Exit Through the Gift Shop (2010) directed by Banksy and narrated by Rhys Ifans, tells the story of Thierry Guetta, a French immigrant in Los Angeles who, over the course of several years, filmed a host of street artists at work, including Shepard Fairey and Banksy, but failed to do anything with the footage. Eventually, Banksy decided to use the footage to make a documentary, which includes new footage depicting Guetta''s rise to fame as the artist "Mr. Brainwash". The story is largely related by a disguised Banksy who keeps us guessing whether the Oscar nominated film is a genuine documentary or a mockumentary.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Director: Charlie Ahearn'
+        text: 'Director: Banksy'
   -
     type: paragraph
     content:
@@ -54,8 +51,6 @@ content_area:
       -
         type: text
         text: 'Running Time: 82 minutes'
-  -
-    type: paragraph
   -
     type: heading
     attrs:
@@ -76,11 +71,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://kingstreetcinema.co.uk/programmes/wild-walls-festival-wild-style/'
+              href: 'https://kingstreetcinema.co.uk/programmes/wild-walls-festival-exit-through-the-gift-shop/'
               rel: null
               target: _blank
               title: null
-        text: 'https://kingstreetcinema.co.uk/programmes/wild-walls-festival-wild-style/'
+        text: 'https://kingstreetcinema.co.uk/programmes/wild-walls-festival-exit-through-the-gift-shop/'
   -
     type: heading
     attrs:
@@ -163,7 +158,7 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725283542
+updated_at: 1725283677
 duplicated_from: 363d1a10-a704-4a2f-b64e-0f97727f2632
 attendance_information: '- For people aged 15 and over'
 booking_link: 'https://wildwallsfestival.com/whats-on/'
