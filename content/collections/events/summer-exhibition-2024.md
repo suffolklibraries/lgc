@@ -1,5 +1,6 @@
 ---
 id: 6ee1777b-9056-44f3-a0fd-a34e2f51a527
+published: false
 blueprint: events
 title: 'Brave Art Summer Exhibition'
 event_categories:
