@@ -1,13 +1,12 @@
 ---
 id: 1b9fbabb-e8df-46f1-aaa7-339e1e5baadc
-published: false
 blueprint: events
-title: 'Arts and Crafts Group (Duplicated) (2) (Duplicated) (Duplicated)'
+title: 'Arts and Crafts Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725291854
-start_date: '2024-09-14 14:00'
-end_date: '2024-09-07 15:00'
+updated_at: 1725292119
+start_date: '2024-10-05 14:00'
+end_date: '2024-10-05 15:00'
 event_categories:
   - art
 free: true
