@@ -1,5 +1,6 @@
 ---
 id: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
+published: false
 blueprint: events
 title: 'Blank Page - Gainsborough'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
