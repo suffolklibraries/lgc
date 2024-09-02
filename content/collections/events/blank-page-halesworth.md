@@ -1,5 +1,6 @@
 ---
 id: 5cdf968a-f57a-4107-a858-5dc390909048
+published: false
 blueprint: events
 title: 'Blank Page - Halesworth'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
