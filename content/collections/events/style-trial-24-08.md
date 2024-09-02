@@ -1,5 +1,6 @@
 ---
 id: 9e92c637-58e3-4f12-a12e-a178fabda74f
+published: false
 blueprint: events
 title: 'Clockwork Dance - Style Trial'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
