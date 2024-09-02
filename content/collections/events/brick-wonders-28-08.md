@@ -1,5 +1,6 @@
 ---
 id: 8db21e9a-eb04-46ad-b5a3-d53d66030cef
+published: false
 blueprint: events
 title: "Let's Get Crafty - Brick Wonders"
 event_categories:
