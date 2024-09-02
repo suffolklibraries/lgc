@@ -1,13 +1,12 @@
 ---
 id: 137cf632-b08e-4e7f-b250-d95f7b376d42
-published: false
 blueprint: events
-title: 'Squawk (Duplicated) (Duplicated) (Duplicated)'
+title: Squawk
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725301297
-start_date: '2024-09-26 10:00'
-end_date: '2024-09-26 15:00'
+updated_at: 1725301391
+start_date: '2024-10-24 10:00'
+end_date: '2024-10-24 15:00'
 free: true
 virtual: false
 organisers:
