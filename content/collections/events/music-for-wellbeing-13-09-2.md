@@ -1,8 +1,8 @@
 ---
-id: 2912191e-ffb0-48a3-83a2-f178e688f38d
+id: 10ee63ca-c03f-401c-bca5-822dedc38473
 published: false
 blueprint: events
-title: 'Music for Wellbeing (Duplicated)'
+title: 'Music for Wellbeing (Duplicated) (2)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1725289550
