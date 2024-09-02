@@ -1,13 +1,12 @@
 ---
-id: 4cc239b6-c96d-4291-ac81-3762393cdd5c
-published: false
+id: deadfd6d-fd3a-4ac4-b363-c1c14c8f7b1b
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated)'
+title: 'Seagull Sing-a-Long'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725290981
-start_date: '2024-11-21 12:30'
-end_date: '2024-11-21 14:00'
+updated_at: 1725291557
+start_date: '2024-12-19 12:30'
+end_date: '2024-12-19 14:00'
 free: true
 virtual: false
 organisers:
@@ -143,7 +142,7 @@ longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
-duplicated_from: 2a992189-3c71-4cd3-a432-a6c9329dbc7d
+duplicated_from: 2f7fbbb2-0551-4962-8862-76c8bd5e3c09
 event_categories:
   - community
   - music-and-singing
