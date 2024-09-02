@@ -1,5 +1,6 @@
 ---
 id: feb5b990-f7ca-47b6-b57d-c7f64180da8f
+published: false
 blueprint: events
 title: 'Dorothy Back in Oz'
 start_date: '2024-08-16 11:00'
