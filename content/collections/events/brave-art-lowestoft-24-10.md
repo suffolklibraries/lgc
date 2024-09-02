@@ -1,24 +1,24 @@
 ---
 id: 862ced1d-54a7-4bcc-9658-1309b4b7c3eb
-published: false
 blueprint: events
-title: 'Brave Art - Ipswich (Duplicated)'
+title: 'Brave Art - Lowestoft'
 event_categories:
+  - community
   - art
-  - exhibition
+  - wellbeing
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-11-06 10:00'
-end_date: '2024-11-06 13:00'
+start_date: '2024-10-24 10:00'
+end_date: '2024-10-24 15:00'
 free: false
 virtual: false
-latitude: '52.06333346360425'
-longitude: '1.1373039051974707'
-address_line_1: 'The Eastern Angles Centre'
-address_line_2: 'Gatacre Road'
-town: Ipswich
-postcode: 'IP1 2LQ'
+latitude: '52.47741190408752'
+longitude: '1.7532664684460586'
+address_line_1: 'Battery of Ideas'
+address_line_2: '119-125 London Road North'
+town: Lowestoft
+postcode: 'NR32 1LZ'
 content_area:
   -
     type: heading
@@ -45,7 +45,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Our experienced Project Officer Charlie Meyer will, as usual, create a safe and welcoming space where everyone can be creative and make new friends.'
+        text: 'Courses are based in community spaces in Bury St Edmunds, Ipswich and Lowestoft.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Our experienced Project Officer Fran Speight will, as usual, create a safe and welcoming space where everyone can be creative and make new friends.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Our 8 creative sessions are led by talented artist Johann Don-Daniel: “'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: "Hello Brave Artists, As a former assistant head teacher, I have seen the transformative power of the creative arts. My teaching roles have included Art, Design and Technology, and Computing. I am excited to bring my experience and creativity to explore the ideas of others in order to build confidence and self-expression in myself and others.\_Following an MA in Fine Art, my work has evolved into sculpture, new technologies, drumming, and sound. I am passionate about exploring new mediums and techniques.”"
   -
     type: heading
     attrs:
@@ -76,7 +94,18 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: ' Suffolk Artlink website'
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-low-24/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Artlink website'
       -
         type: text
         text: .
@@ -124,35 +153,55 @@ content_area:
     content:
       -
         type: text
-        text: 'There is a free car park on-site, which you can enter using the large blue gates located on the right-hand side of Gatacre Road. Other car parks nearby which are pay and display include: South Street Car Park (10 min walk to theatre), Portman Road Car Park (16 min walk to theatre). The closest '
+        text: 'It is within 160m of Lowestoft Bus Station and 500m of '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/Sir+John+Mills+Theatre/@52.0631843,1.1376062,19.75z/data=!4m12!1m6!3m5!1s0x47d9a1b5f34a8ddd:0xe05bc781d84ef4dd!2sEastern+Angles+Centre!8m2!3d52.0631422!4d1.13732!3m4!1s0x47d9a1b5f9a67d49:0x8856208cee78829a!8m2!3d52.063236!4d1.137275'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'bus stop'
-      -
-        type: text
-        text: ' is one minute away, see the latest bus timetables '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
-              rel: null
-              target: null
-              title: null
-        text: here
+        text: 'Lowestoft Train Station'
       -
         type: text
         text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Clapham Road Car Park 300m away is free for 30 mins with parking available for up to 4 hours - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.apcoa.co.uk/parking-in/lowestoft/clapham-road-lowestoft/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'https://www.apcoa.co.uk/parking-in/lowestoft/clapham-road-lowestoft/'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Britten Centre Car Park 400m away and has all day parking available - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.apcoa.co.uk/parking-in/lowestoft/britten-centre-lowestoft/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'https://www.apcoa.co.uk/parking-in/lowestoft/britten-centre-lowestoft/'
   -
     type: paragraph
     content:
@@ -182,14 +231,13 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724233842
+updated_at: 1725287438
 duplicated_from: a5563883-295f-40e4-a935-7a8a5f7dcb71
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-ips-24/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-low-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
 attendance_information: '- Adults with learning disabilities'
 accessibility_information: |-
-  - Disabled parking available
   - Wheelchair accessible
-  - Adapted toilet
+  - Accessible toilet
 ---
 Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.
