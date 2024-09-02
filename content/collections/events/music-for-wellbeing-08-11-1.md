@@ -1,10 +1,11 @@
 ---
-id: bfc21f48-d0a6-4ecd-96e5-01c599e1e5fb
+id: 4685d4d9-d0ca-4622-b2ed-5bd5fbe4e184
+published: false
 blueprint: events
-title: 'Music for Wellbeing'
+title: 'Music for Wellbeing (Duplicated)'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725290084
+updated_at: 1725290038
 start_date: '2024-11-08 13:30'
 end_date: '2024-11-08 15:00'
 free: true
@@ -135,7 +136,7 @@ longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
-duplicated_from: 00513a5f-edf9-420f-ae41-93b2d36e7630
+duplicated_from: bfc21f48-d0a6-4ecd-96e5-01c599e1e5fb
 event_categories:
   - wellbeing
   - music-and-singing
