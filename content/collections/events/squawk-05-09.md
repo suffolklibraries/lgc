@@ -1,13 +1,12 @@
 ---
 id: eb741e31-1556-4d06-b659-bb5c139f8eeb
-published: false
 blueprint: events
 title: Squawk
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716899167
-start_date: '2024-07-18 10:00'
-end_date: '2024-07-18 15:00'
+updated_at: 1725293449
+start_date: '2024-09-05 10:00'
+end_date: '2024-09-05 15:00'
 free: true
 virtual: false
 organisers:
@@ -134,6 +133,8 @@ postcode: 'NR33 0JH'
 duplicated_from: bfb5e815-57d2-4b90-b821-2b1f6ee7a138
 event_categories:
   - community
-  - music
+  - music-and-singing
+  - wellbeing
+booking_link: 'https://theseagull.co.uk/community_events/2924/'
 ---
 Musical theathre workshops for adults with learning disabilities.
