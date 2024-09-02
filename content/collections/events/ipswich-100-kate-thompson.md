@@ -1,5 +1,6 @@
 ---
 id: 7f340577-8586-4f78-8737-2ed3788be380
+published: false
 blueprint: events
 title: 'Ipswich 100: author event with Kate Thompson'
 organisers:
