@@ -1,5 +1,6 @@
 ---
 id: e3f7a53a-3400-4cc4-b142-d945925ba27c
+published: false
 blueprint: events
 title: 'Blank Page - Haverhill'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
