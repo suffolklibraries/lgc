@@ -1,13 +1,12 @@
 ---
 id: e8e5a70c-3c37-4dab-aa2c-e8b913a9b14f
-published: false
 blueprint: events
-title: 'Friends Around the Table - Online Carers Session (Duplicated)'
+title: 'Friends Around the Table - Online Carers Session'
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2024-10-29 18:30'
-end_date: '2024-10-29 20:30'
+start_date: '2024-11-12 18:30'
+end_date: '2024-11-12 20:00'
 free: true
 virtual: true
 content_area:
@@ -87,7 +86,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.tickettailor.com/checkout/view-event/id/4536049/chk/8456/?modal_widget=true&widget=true'
+              href: 'https://www.tickettailor.com/checkout/view-event/id/4536188/chk/8bd7/?modal_widget=true&widget=true'
               rel: null
               target: _blank
               title: null
@@ -104,13 +103,13 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725286942
+updated_at: 1725287075
 duplicated_from: 1c970d66-2f2a-4204-a6b7-64ad431f1747
 attendance_information: '- Adult family carers'
 event_categories:
   - art
   - community
   - wellbeing
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/online-carers-session-1/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/online-carers-session-2/'
 ---
 Take your imagination for a ride this this autumn with three evening sessions of creative exercises and conversation led by poet Dean Parkin.
