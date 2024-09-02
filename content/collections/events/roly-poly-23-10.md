@@ -1,20 +1,21 @@
 ---
 id: d4568ca5-5a8f-4265-992b-1ce8d52eda58
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club - Lullaby of Broadway (Duplicated)'
+title: 'Roly Poly'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725288804
-start_date: '2024-10-20 14:30'
-end_date: '2024-10-20 16:00'
+updated_at: 1725289044
+start_date: '2024-10-23 10:30'
+end_date: '2024-10-23 14:15'
 free: true
 virtual: false
 organisers:
   - the-seagull-theatre
+  - magic-acorns
+  - roly-poly
 town: Lowestoft
-featured_image: offthepressimages/Film.png
-attendance_information: '- Dementia friendly'
+featured_image: offthepressimages/new_resized_images/Early-Years.png
+attendance_information: '- Under 2s'
 content_area:
   -
     type: heading
@@ -29,37 +30,37 @@ content_area:
     content:
       -
         type: text
-        text: "Seagull Theatre's Film Club is so much more than a cinema visit! "
+        text: 'Light projections and sounds immerse the audience in a maze of corrugated cardboard, where children’s exploration is accompanied by two playful performers who bring clarinet, movement and music.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Each month we screen a classic musical or drama and accompany it with an interactive performance from our team of talented singers. The whole event is themed with costumes and interaction from the moment our guests arrive and is designed to stimulate reminiscence and provoke memory. '
+        text: 'Very young children explore the world through all their senses, moving around and focusing on unpredictable things; this is their creative strength, and we encourage little ones to move and play however they wish throughout the performance.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Your visit to the film club will start with our team welcoming you at any time between 1.30pm and 2.30pm. During this initial hour there is complimentary tea and biscuits available along with plenty of time and space to for guests to familiarise themselves with the surroundings and settle any anxiety. '
+        text: "Roly Poly holds children's expression at its heart; this is a space to simply be as you are. Audiences found the experience relaxing, warm, mesmerising, engaging and authentically child-led; parents and carers enjoyed seeing their little ones explore and interact with the performers and environment."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Our team of friendly performers will put you at your ease and there is plenty of opportunity for a nice chat. At 2.30pm we open up the theatre and guests can take a seat. There is no rush and we keep the lights up in the auditorium throughout the screening so that you can see your way. There is plenty of room on the stage for wheelchairs and we can provide extra chairs if carers want to sit beside their guest. '
+        text: 'Please arrive 10 minutes before the start time to settle in.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This is a relaxed screening so during the film we welcome our guests chatting and commenting as well as moving around to visit the loo or stretch their legs. Members of our team remain in the foyer to ensure that no guest becomes lost or is left unattended. '
+        text: 'Performances last 45 minutes and start at 10.30am or 1.30pm.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'After the film has finished, we welcome our performer team back on stage and they will lead everyone in a singalong of songs relevant to the movie or period. We put the words up on a screen to help you join in – or you can just clap along. Our guests tell us this is the part of the show they enjoy the most! '
+        text: 'This performance is only for children under the age of two. Each child must be accompanied by one or more parent/carer.'
   -
     type: heading
     attrs:
@@ -73,21 +74,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Email '
+        text: 'Book online via the Seagull website - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:community@theseagull.co.uk'
+              href: 'https://theseagull.co.uk/seagull_shows/roly-poly/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: community@theseagull.co.uk
-      -
-        type: text
-        text: ' for more information and to book.'
+        text: 'https://theseagull.co.uk/seagull_shows/roly-poly/'
   -
     type: heading
     attrs:
@@ -166,6 +164,7 @@ event_categories:
   - film
   - community
   - wellbeing
-booking_link: 'https://theseagull.co.uk/community_events/sunday-classics-film-club/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/roly-poly/'
+cost_details: 'voluntary donations'
 ---
-A free accessible film screening designs for those living with dementia and their families.
+Participatory musical playscape for under-twos to explore and enjoy with their grown-ups.
