@@ -1,8 +1,8 @@
 ---
-id: b38b3c67-849b-4d08-bb67-4e184deeb292
+id: 25e329fb-247e-4437-a91f-3aa5ba58d4c2
 published: false
 blueprint: events
-title: 'Brave Art - Lowestoft (Duplicated) (2) (Duplicated)'
+title: 'Brave Art - Lowestoft (Duplicated) (2) (Duplicated) (Duplicated)'
 event_categories:
   - community
   - art
@@ -233,7 +233,7 @@ cta: |-
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1725287438
-duplicated_from: fb081b55-49ee-4345-80e5-7c95311627af
+duplicated_from: b38b3c67-849b-4d08-bb67-4e184deeb292
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-low-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
 attendance_information: '- Adults with learning disabilities'
