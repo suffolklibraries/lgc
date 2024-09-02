@@ -1,25 +1,24 @@
 ---
 id: 2782390f-f9b4-424e-9e96-ca7a2f44b1f2
-published: false
 blueprint: events
-title: 'Wild Walls Festival: Street Art Workshop (Duplicated)'
+title: "Wild Walls Festival: 'It's A Wrap' Walkshop"
 event_categories:
   - teen
   - art
   - activism
 organisers:
   - wild-walls-festival
-featured_image: offthepressimages/new_resized_images/VisualArts.png
-start_date: '2024-09-07 14:00'
-end_date: '2024-09-07 17:00'
+featured_image: wild_walls_festival/vr-workshop.png
+start_date: '2024-10-05 16:00'
+end_date: '2024-10-05 18:30'
 free: true
 virtual: false
-latitude: '52.05251865001243'
-longitude: '1.1557403571923393'
-address_line_1: 'Mill Courtyard'
-address_line_2: 'Behind Jerwood DanceHouse, Foundry Lane'
+latitude: '52.05246111431321'
+longitude: '1.1541759530769624'
+address_line_1: 'Digby the Octopus mural, R&W Paul Building'
+address_line_2: 'University Avenue'
 town: Ipswich
-postcode: 'IP4 1DW'
+postcode: 'IP2 8EU'
 content_area:
   -
     type: heading
@@ -34,13 +33,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Well-known Colchester street artist Eyesaw will be travelling into the neighbouring county to join the Ipswich Wild Walls Festival.'
+        text: 'It’s a wrap! Street Art & the Unexpected… Your last chance to join walking artist Sara Hayes and guests for a guided walk of her favourite spots, taking an in-depth look at some the artworks created for the Wild Walls project, and ending at the Wrap Party location; SPILL Think Tank, High Street ('
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'book your wrap ticket in advance for entry'
+      -
+        type: text
+        text: ') With some surprises along the way!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Come and try your hand at producing street art of your own. All equipment will be provided and everyone is welcome to come and join in the fun. Free food and refreshments provided.'
+        text: 'Meeting Point: Digby the Octopus, R&W Paul Building, Ipswich IP2 8EU'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '2.5 Miles approx.'
   -
     type: heading
     attrs:
@@ -61,11 +75,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.eventbrite.co.uk/e/free-live-street-art-workshops-with-eyesaw-tickets-1006712202297?aff=ebdssbdestsearch'
+              href: 'https://www.eventbrite.co.uk/e/wild-walls-festival-free-its-a-wrap-walkshop-tickets-999053414657?aff=ebdsoporgprofile'
               rel: null
               target: _blank
               title: null
-        text: 'https://www.eventbrite.co.uk/e/free-live-street-art-workshops-with-eyesaw-tickets-1006712202297?aff=ebdssbdestsearch'
+        text: 'https://www.eventbrite.co.uk/e/wild-walls-festival-free-its-a-wrap-walkshop-tickets-999053414657?aff=ebdsoporgprofile'
   -
     type: heading
     attrs:
@@ -207,8 +221,8 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725285547
+updated_at: 1725285815
 duplicated_from: 094c577b-9587-487b-8228-5452ebfa07f7
 booking_link: 'https://wildwallsfestival.com/whats-on/'
 ---
-Come and work with well known grafitti artist Eyesaw.
+Final Wild Walls Free guided walk exploring the street art of Ipswich.
