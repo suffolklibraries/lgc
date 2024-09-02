@@ -1,5 +1,6 @@
 ---
 id: c4d696d1-df94-4450-b96c-881aa9e147ad
+published: false
 blueprint: events
 title: 'Nature Launch Pad'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
