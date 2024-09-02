@@ -1,5 +1,6 @@
 ---
 id: 153c3d71-e279-46b5-bfcc-392fc32224bc
+published: false
 blueprint: events
 title: 'Woolly’s Summer Holiday Trail'
 event_categories:
