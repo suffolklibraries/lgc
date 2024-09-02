@@ -4,7 +4,7 @@ blueprint: events
 title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725290025
+updated_at: 1725290348
 start_date: '2024-11-15 13:30'
 end_date: '2024-11-15 15:00'
 free: true
