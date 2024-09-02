@@ -1,22 +1,22 @@
 ---
 id: b8a54484-97a0-43be-90ab-8d5bdf96ee8c
-published: false
 blueprint: events
-title: 'Wild Walls Festival: Exit Through the Gift Shop (Duplicated)'
+title: 'Wild Walls Festival: Graffiti Workshop'
 event_categories:
   - teen
-  - film
+  - art
+  - activism
 organisers:
   - wild-walls-festival
-featured_image: offthepressimages/new_resized_images/Film_resized.png
-start_date: '2024-09-27 18:00'
-end_date: '2024-09-27 19:30'
+featured_image: offthepressimages/new_resized_images/VisualArts.png
+start_date: '2024-09-21 11:00'
+end_date: '2024-09-21 13:00'
 free: true
 virtual: false
-latitude: '52.05749510430892'
-longitude: '1.152332739379867'
-address_line_1: 'King Street Cinema'
-address_line_2: 'Corn Exchange, King Street'
+latitude: '52.057891607844326'
+longitude: '1.1525512691680304'
+address_line_1: 'Town Hall'
+address_line_2: 'Corn Hill'
 town: Ipswich
 postcode: 'IP1 1DH'
 content_area:
@@ -33,25 +33,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Exit Through the Gift Shop (2010) directed by Banksy and narrated by Rhys Ifans, tells the story of Thierry Guetta, a French immigrant in Los Angeles who, over the course of several years, filmed a host of street artists at work, including Shepard Fairey and Banksy, but failed to do anything with the footage. Eventually, Banksy decided to use the footage to make a documentary, which includes new footage depicting Guetta''s rise to fame as the artist "Mr. Brainwash". The story is largely related by a disguised Banksy who keeps us guessing whether the Oscar nominated film is a genuine documentary or a mockumentary.'
+        text: 'Join artist Sara Hayes for a walk from the town centre to the street art workshop area in the Mill Courtyard behind Dance East, with the chance to have a go at stencilling your own piece of art.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Director: Banksy'
+        text: 'Meeting Point: Ipswich Town Hall, Cornhill, Ipswich IP1 1DH'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Certificate: 15'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Running Time: 82 minutes'
+        text: 'The walk will be 1.7 Miles approximately. '
   -
     type: heading
     attrs:
@@ -65,18 +59,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your free place via the King Street Cinema website - '
+        text: 'Book your free place via the Eventbrite website - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://kingstreetcinema.co.uk/programmes/wild-walls-festival-exit-through-the-gift-shop/'
+              href: 'https://www.eventbrite.co.uk/e/wild-walls-festival-free-graffiti-walkshop-tickets-999045180027'
               rel: null
               target: _blank
               title: null
-        text: 'https://kingstreetcinema.co.uk/programmes/wild-walls-festival-exit-through-the-gift-shop/'
+        text: 'https://www.eventbrite.co.uk/e/wild-walls-festival-free-graffiti-walkshop-tickets-999045180027'
   -
     type: heading
     attrs:
@@ -90,7 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'King Street Cinema is a four minute walk from Tower Ramparts bus station in the town centre - see the latest bus timetables '
+        text: 'The Town Hall is a four minute walk from Tower Ramparts bus station in the town centre - see the latest bus timetables '
       -
         type: text
         marks:
@@ -159,9 +153,8 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725283677
+updated_at: 1725283927
 duplicated_from: e9173899-6708-40a1-bf2e-b36b4f5e8d98
-attendance_information: '- For people aged 15 and over'
 booking_link: 'https://wildwallsfestival.com/whats-on/'
 ---
-Free film screenings as part of the Wild Walls Festival Programme.
+Free guided walk exploring the street art of Ipswich with the opportunity to have a go at stencilling.
