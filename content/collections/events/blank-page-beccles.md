@@ -1,5 +1,6 @@
 ---
 id: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
+published: false
 blueprint: events
 title: 'Blank Page - Beccles'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
