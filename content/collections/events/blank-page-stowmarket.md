@@ -1,5 +1,6 @@
 ---
 id: 901425aa-4fd4-4458-8823-a25c990a2f2a
+published: false
 blueprint: events
 title: 'Blank Page - Stowmarket'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
