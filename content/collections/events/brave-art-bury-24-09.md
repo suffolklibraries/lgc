@@ -1,5 +1,6 @@
 ---
 id: 25824ec9-ee53-4811-b59e-c438876ca14e
+published: false
 blueprint: events
 title: 'Brave Art - Bury St Edmunds'
 event_categories:
