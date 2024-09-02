@@ -1,12 +1,11 @@
 ---
 id: a90db6ec-46cc-473d-ae2c-3d620977d70e
-published: false
 blueprint: events
-title: 'Arts and Crafts Group (Duplicated)'
+title: 'Arts and Crafts Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716890611
-start_date: '2024-09-07 14:00'
+updated_at: 1725291854
+start_date: '2024-09-14 14:00'
 end_date: '2024-09-07 15:00'
 event_categories:
   - art
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A free Arts and Crafts group for young people who need support with building their confidence and/or who have experienced bullying. The group is led by an experienced SEMH practitioner and is particularly suited to young people who have additional needs.'
+        text: 'A free arts and crafts group for young people who need support with building their confidence and/or who have experienced bullying. The group is led by an experienced SEMH practitioner and is particularly suited to young people who have additional needs.'
   -
     type: heading
     attrs:
@@ -44,21 +43,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free but booking is recommended. '
+        text: 'Places are free but booking is recommended. Email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:community@theseagull.co.uk'
+              href: 'mailto:bookings@well-child.co.uk'
               rel: null
               target: null
               title: null
-        text: 'Email community@theseagull.co.uk'
+        text: bookings@well-child.co.uk
       -
         type: text
-        text: ' for more information or to book. '
+        text: ' to find out more and reserve your place.'
   -
     type: heading
     attrs:
@@ -116,6 +115,9 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 99a9311a-3443-4aa8-879b-ab642339ae74
-attendance_information: '- young people with additional needs'
+attendance_information: |-
+  - young people with additional needs
+  - young people at risk of bullying
+booking_link: 'https://theseagull.co.uk/community_events/arts-and-crafts-group/'
 ---
 Support for young people at risk of bullying
