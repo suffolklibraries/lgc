@@ -1,8 +1,7 @@
 ---
 id: 7d792653-4135-490a-9d1d-4ea2cdcdbf14
-published: false
 blueprint: events
-title: 'Wild Walls Festival: VR Street Art Exhibition (Duplicated)'
+title: 'Wild Walls Festival: Guided Walkshop'
 event_categories:
   - teen
   - art
@@ -10,17 +9,17 @@ event_categories:
   - exhibition
 organisers:
   - wild-walls-festival
-featured_image: wild_walls_festival/vr-workshop.png
-start_date: '2024-09-12 10:00'
-end_date: '2024-09-15 17:00'
+featured_image: wild_walls_festival/atma-mural-workshop.jpg
+start_date: '2024-09-13 16:15'
+end_date: '2024-09-13 17:45'
 free: true
 virtual: false
-latitude: '52.05231396621552'
-longitude: '1.1628878405371088'
+latitude: '52.05060094210213'
+longitude: '1.1637508682718785'
 address_line_1: 'University of Suffolk'
-address_line_2: 'Atrium Building, 19 Neptune Quay'
+address_line_2: 'James Hehir Building'
 town: Ipswich
-postcode: 'IP4 1QJ'
+postcode: 'IP3 0FS'
 content_area:
   -
     type: heading
@@ -35,25 +34,49 @@ content_area:
     content:
       -
         type: text
+        text: 'Join Sara Hayes for a guided walk around some of the Street Art of Ipswich in the Quay area. We invite you to explore the area in new ways, and you can always take in our free film* at the end of your walk! Open to all, walking at a leisurely pace.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Meeting Point: James Hehir Building, University Ave, Ipswich IP3 0FS'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '1.5 Miles approx.'
+  -
+    type: paragraph
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: '*Wild Style (1983), directed by Charlie Ahearn and introduced by DJ Jimmy Green, is the story of how hip-hop came to be from the perspective of the actual hip-hop pioneers, playing themselves in the film. The film is a landmark cinematic representation of the "Five Elements" of Hip-Hop (MCing, Breakdancing, DJing, Graffiti and Knowledge of the Movement ).'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: "Featuring DJ Grandmaster Flash, writer and MC Fab Five Freddy, Graffiti writers Lady Pink, Zephyr, Breakdancers The Rock Steady, MC's The Cold Crush Brothers and Queen Lisa Lee of the Universal Zulu Nation."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Book direct with King St Cinema '
+      -
+        type: text
         marks:
           -
             type: link
             attrs:
-              href: 'http://www.wildwallsfestival.com/'
-              rel: 'nofollow noopener noreferrer'
+              href: 'https://kingstreetcinema.co.uk/'
+              rel: null
               target: _blank
-              title: 'http://www.wildwallsfestival.com/'
-        text: 'Wild Walls'
-      -
-        type: text
-        text: " promises to be a bonanza of visual arts and street art and as part of the event we are hosting a VR Graffiti Art Exhibition at the University of Suffolk's stunning waterfront building."
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'The FREE to attend event will be open from 10am-5pm on Thursday the 12th until Sunday the 15th of Sept.'
+              title: null
+        text: 'https://kingstreetcinema.co.uk/'
   -
     type: heading
     attrs:
@@ -74,11 +97,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.eventbrite.co.uk/e/vr-street-art-exhibition-tickets-1004769762407?aff=ebdsoporgprofile'
+              href: 'https://www.eventbrite.co.uk/e/wild-walls-festival-free-guided-walkshop-tickets-999044066697?aff=ebdsoporgprofile'
               rel: null
               target: _blank
               title: null
-        text: 'https://www.eventbrite.co.uk/e/vr-street-art-exhibition-tickets-1004769762407?aff=ebdsoporgprofile'
+        text: 'https://www.eventbrite.co.uk/e/wild-walls-festival-free-guided-walkshop-tickets-999044066697?aff=ebdsoporgprofile'
   -
     type: heading
     attrs:
@@ -92,7 +115,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Located at the Marina, the University of Suffolk is only a two-minute walk from a '
+        text: 'Located at the Marina, the James Hehir Building is at the University of Suffolk. It is only a five-minute walk from a '
       -
         type: text
         marks:
@@ -106,7 +129,7 @@ content_area:
         text: 'bus stop'
       -
         type: text
-        text: ' and a five-minute walk to from the '
+        text: ' and a eight-minute walk to from the '
       -
         type: text
         marks:
@@ -174,9 +197,8 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725284938
+updated_at: 1725285214
 duplicated_from: 130952e6-f144-4b70-8ff6-e38db72a4d2c
 booking_link: 'https://wildwallsfestival.com/whats-on/'
-accessibility_information: '- wheelchair accessible'
 ---
-Make your own VR art and view the work created by young people in Ipswich.
+Free guided walk exploring the street art of Ipswich.
