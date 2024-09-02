@@ -9,7 +9,7 @@ organisers:
   - wild-walls-festival
 featured_image: offthepressimages/new_resized_images/Film_resized.png
 start_date: '2024-09-13 18:00'
-end_date: '2024-07-13 19:30'
+end_date: '2024-09-13 19:30'
 free: true
 virtual: false
 latitude: '52.05749510430892'
@@ -162,7 +162,7 @@ cta: |-
 
   [https://wildwallsfestival.com/](https://wildwallsfestival.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725283542
+updated_at: 1725283703
 duplicated_from: 39bc5df6-9dee-4124-a9cb-539bdc4407db
 attendance_information: '- For people aged 15 and over'
 booking_link: 'https://wildwallsfestival.com/whats-on/'
