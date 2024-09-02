@@ -1,5 +1,6 @@
 ---
 id: 41abac5f-9126-43eb-9c2e-7b57afa402e9
+published: false
 blueprint: events
 title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
