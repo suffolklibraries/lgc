@@ -1,5 +1,6 @@
 ---
 id: 39bc5df6-9dee-4124-a9cb-539bdc4407db
+published: false
 blueprint: events
 title: 'VR Street Art Workshop'
 event_categories:
