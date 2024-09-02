@@ -1,13 +1,12 @@
 ---
 id: a6869df8-e71a-40ef-b5fd-ac1865b546d3
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club - Lullaby of Broadway (Duplicated)'
+title: 'Sunday Classics Film Club - Hairspray'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725288804
-start_date: '2024-10-20 14:30'
-end_date: '2024-10-20 16:00'
+updated_at: 1725289125
+start_date: '2024-11-24 14:30'
+end_date: '2024-11-24 16:00'
 free: true
 virtual: false
 organisers:
