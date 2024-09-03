@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'The Big Knit'
 event_categories:
-  - festival
   - community
 organisers:
   - first-light-festival

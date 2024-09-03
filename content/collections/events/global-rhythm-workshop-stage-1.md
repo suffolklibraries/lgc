@@ -5,7 +5,6 @@ blueprint: events
 title: 'Global Rhythm Workshops'
 event_categories:
   - community
-  - festival
   - music
 organisers:
   - global-rhythms

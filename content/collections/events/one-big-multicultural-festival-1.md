@@ -5,7 +5,6 @@ blueprint: events
 title: 'One Big Multicultural Festival (Duplicated)'
 event_categories:
   - community
-  - festival
   - music
 organisers:
   - festival-of-suffolk

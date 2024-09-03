@@ -139,7 +139,6 @@ cta: |-
   [www.felixstowebookfestival.co.uk](www.felixstowebookfestival.co.uk)
 event_categories:
   - literature
-  - festival
 end_date: '2022-06-26 17:00'
 attendance_information: 'Booklovers & budding writers'
 accessibility_information: |-

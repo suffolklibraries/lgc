@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'First Light Festival - Baby Bounce on the Beach'
 event_categories:
-  - festival
   - early-years
 organisers:
   - first-light-festival

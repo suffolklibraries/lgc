@@ -115,7 +115,5 @@ accessibility_information: |-
   - Wheelchair access
   - Hearing loop available
 address_line_2: 'Royal Plain'
-event_categories:
-  - festival
 ---
 S9 Events has curated a lineup of DJs guaranteed to have you moving all night long to the sounds of house, garage and everything in between at First Light Festival’s pre-festival party.

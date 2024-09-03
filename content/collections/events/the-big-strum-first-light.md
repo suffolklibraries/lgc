@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'First Light Festival - The Big Strum'
 event_categories:
-  - festival
   - art
   - music
 organisers:

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Saxmundham Arts Festival (Duplicated)'
 event_categories:
   - community
-  - festival
 organisers:
   - the-art-station
 start_date: '2023-06-10 11:00'

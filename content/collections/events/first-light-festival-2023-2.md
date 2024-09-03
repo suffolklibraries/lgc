@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival 2023 (Duplicated) (2)'
 event_categories:
   - art
-  - festival
   - music
 organisers:
   - first-light-festival

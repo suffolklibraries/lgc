@@ -3,8 +3,6 @@ id: 886c1aad-6548-4198-93dd-28eda56305f4
 published: false
 blueprint: events
 title: 'Suffolk Shorts - Short Film Festival (Duplicated)'
-event_categories:
-  - festival
 organisers:
   - the-riverside
 start_date: '2022-10-08 14:00'

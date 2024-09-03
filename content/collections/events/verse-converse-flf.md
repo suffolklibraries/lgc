@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Verse Converse'
 event_categories:
-  - festival
   - music
 organisers:
   - first-light-festival

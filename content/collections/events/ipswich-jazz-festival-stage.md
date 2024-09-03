@@ -5,7 +5,6 @@ blueprint: events
 title: 'Ipswich Jazz Festival Stage'
 event_categories:
   - community
-  - festival
   - music
 organisers:
   - global-rhythms

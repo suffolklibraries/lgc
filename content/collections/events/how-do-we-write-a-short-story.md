@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'How do we write a short story'
 event_categories:
-  - festival
   - literature
 featured_image: offthepressimages/new_resized_images/Literature.png
 start_date: '2022-06-26 13:30'

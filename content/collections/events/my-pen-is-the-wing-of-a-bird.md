@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'My Pen is the Wing of a Bird'
 event_categories:
-  - festival
   - literature
 organisers:
   - felixstowe-book-festival

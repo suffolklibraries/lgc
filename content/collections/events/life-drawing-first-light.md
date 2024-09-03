@@ -5,7 +5,6 @@ blueprint: events
 title: 'First Light Festival - Life Drawing with Will Teather'
 event_categories:
   - art
-  - festival
   - visual-arts
 organisers:
   - first-light-festival

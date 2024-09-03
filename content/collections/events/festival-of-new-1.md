@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Festival of New (Duplicated)'
 event_categories:
-  - festival
   - music
 organisers:
   - britten-pears-arts

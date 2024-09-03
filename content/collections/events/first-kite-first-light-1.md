@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'First Light Festival - First Kite (Duplicated)'
 event_categories:
-  - festival
   - art
 organisers:
   - first-light-festival

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Like a Tree'
 event_categories:
-  - festival
   - literature
 organisers:
   - first-light-festival

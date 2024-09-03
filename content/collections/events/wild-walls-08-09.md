@@ -5,7 +5,6 @@ title: 'Art Market'
 event_categories:
   - art
   - community
-  - festival
 organisers:
   - wild-walls-festival
 start_date: '2024-09-08 10:00'

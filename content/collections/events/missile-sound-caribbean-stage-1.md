@@ -5,7 +5,6 @@ blueprint: events
 title: 'Missile Sound Caribbean Stage'
 event_categories:
   - community
-  - festival
   - music
 organisers:
   - global-rhythms

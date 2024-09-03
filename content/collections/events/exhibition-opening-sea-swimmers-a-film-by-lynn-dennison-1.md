@@ -10,7 +10,6 @@ updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1646232818
 event_categories:
   - art
-  - festival
 organisers:
   - pier-projects-art-agency
 featured_image: miscellaneous/pierprojectsartsagency/Exhibition-Opening-Sea-Swimmers-a-film-by-Lynn-Dennison.jfif

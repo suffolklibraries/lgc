@@ -5,7 +5,6 @@ blueprint: events
 title: 'Urban Animal Mask Making Workshop (Duplicated)'
 event_categories:
   - art
-  - festival
 organisers:
   - first-light-festival
 start_date: '2023-06-01 13:00'

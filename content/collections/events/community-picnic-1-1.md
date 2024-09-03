@@ -5,7 +5,6 @@ blueprint: events
 title: 'Community Picnic (Duplicated) (Duplicated)'
 event_categories:
   - community
-  - festival
   - food
   - music
 organisers:

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Nautical Craft Morning (Duplicated)'
 event_categories:
-  - festival
   - art
 organisers:
   - woodbridge-tide-mill

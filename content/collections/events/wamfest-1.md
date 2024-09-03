@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'WAMFest (Duplicated)'
 event_categories:
-  - festival
   - art
   - community
   - music

@@ -3,8 +3,6 @@ id: 5663dc7b-8061-48ae-a1f4-d9576535bb88
 published: false
 blueprint: events
 title: 'First Light Festival - Opening Parade: Winds of Change'
-event_categories:
-  - festival
 organisers:
   - first-light-festival
 start_date: '2022-06-18 11:00'

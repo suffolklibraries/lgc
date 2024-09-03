@@ -3,8 +3,6 @@ id: 249fecef-1e3d-43e1-a8a5-4710f55dff5b
 published: false
 blueprint: events
 title: 'The Old Green Time Machine'
-event_categories:
-  - festival
 organisers:
   - first-light-festival
 start_date: '2023-06-17 16:00'

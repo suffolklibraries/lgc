@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Martin Burley Peppery Stage (Duplicated)'
 event_categories:
   - community
-  - festival
   - music
 organisers:
   - global-rhythms

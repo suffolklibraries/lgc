@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Suffolk Connected by the Sea (Duplicated)'
 event_categories:
-  - festival
   - literature
 organisers:
   - felixstowe-book-festival

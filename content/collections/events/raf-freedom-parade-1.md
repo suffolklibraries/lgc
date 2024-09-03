@@ -5,7 +5,6 @@ blueprint: events
 title: 'RAF Freedom Parade and Platinum Jubilee Parade (Duplicated)'
 event_categories:
   - parade
-  - festival
 organisers:
   - raf-honington
 start_date: '2022-06-09 18:45'

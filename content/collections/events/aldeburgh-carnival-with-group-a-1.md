@@ -5,7 +5,6 @@ blueprint: events
 title: 'Aldeburgh Carnival with Group A (Duplicated)'
 event_categories:
   - community
-  - festival
 organisers:
   - britten-pears-arts
 start_date: '2022-08-13 10:00'
