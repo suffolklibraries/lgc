@@ -8,8 +8,6 @@ free: false
 virtual: false
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1644856682
-event_categories:
-  - drama
 organisers:
   - theatre-royal-bury-st-edmunds
 featured_image: miscellaneous/Queer-as-folk.png

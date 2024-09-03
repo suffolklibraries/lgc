@@ -133,8 +133,6 @@ cta: |-
   [chloe@themixstowmarket.co.uk](mailto:chloe@themixstowmarket.co.uk)
 
   [07775 778228.](tel:07775778228.)
-event_categories:
-  - drama
 booking_link: '#'
 featured_image: miscellaneous/themix/Drama-at-the-Mix.jpg
 duplicated_from: abffe914-9950-4f58-aa28-f64c8ff85af4

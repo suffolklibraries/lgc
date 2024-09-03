@@ -3,8 +3,6 @@ id: d6342d28-d45b-448d-b1c5-dd87ba15bb6b
 published: false
 blueprint: events
 title: 'Performance Workshops with Hocus Pocus Theatre'
-event_categories:
-  - drama
 organisers:
   - hocus-pocus-theatre
 start_date: '2022-06-13 16:30'

@@ -10,7 +10,6 @@ start_date: '2024-08-21 14:30'
 end_date: '2024-08-21 16:00'
 event_categories:
   - literature
-  - drama
   - art
   - wellbeing
   - music

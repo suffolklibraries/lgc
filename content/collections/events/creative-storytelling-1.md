@@ -3,8 +3,6 @@ id: bbfd7f20-64e4-41db-a1c3-644135960e1f
 published: false
 blueprint: events
 title: 'Creative Storytelling Programme (Duplicated)'
-event_categories:
-  - drama
 organisers:
   - eastern-angles
 start_date: '2022-12-19 09:30'

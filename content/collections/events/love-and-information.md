@@ -5,7 +5,6 @@ blueprint: events
 title: 'Love and Information'
 event_categories:
   - community
-  - drama
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Theatre.png

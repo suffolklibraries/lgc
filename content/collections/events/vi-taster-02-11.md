@@ -9,7 +9,6 @@ start_date: '2024-11-02 10:30'
 end_date: '2024-11-02 12:30'
 event_categories:
   - literature
-  - drama
   - art
   - wellbeing
   - music

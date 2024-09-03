@@ -3,8 +3,6 @@ id: 0d990567-1f3d-4b17-a706-eb42b77c19aa
 published: false
 blueprint: events
 title: 'The Prisoner of Zenda (Duplicated)'
-event_categories:
-  - drama
 organisers:
   - quill-inkling-theatre-company
 start_date: '2022-07-17 15:00'

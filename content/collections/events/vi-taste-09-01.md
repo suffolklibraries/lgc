@@ -9,7 +9,6 @@ start_date: '2025-01-09 10:00'
 end_date: '2025-01-09 12:00'
 event_categories:
   - literature
-  - drama
   - art
   - wellbeing
   - music
