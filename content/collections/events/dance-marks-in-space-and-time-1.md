@@ -3,8 +3,6 @@ id: 7f8964b2-73ce-48bd-81e4-e2b31b8663b4
 published: false
 blueprint: events
 title: 'Dance Marks in Space and Time: a 24 hour fund raising marathon (Duplicated)'
-event_categories:
-  - fundraiser
 organisers:
   - the-cut
 featured_image: miscellaneous/The-Cut.jpg
