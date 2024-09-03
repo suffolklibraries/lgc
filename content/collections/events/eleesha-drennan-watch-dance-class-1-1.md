@@ -13,7 +13,6 @@ event_categories:
   - dance
   - later-life
   - art
-  - combined-arts
   - performance
 free: true
 virtual: false
