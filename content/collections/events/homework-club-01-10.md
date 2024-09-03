@@ -4,7 +4,6 @@ blueprint: events
 title: 'Homework Club'
 event_categories:
   - languages
-  - teen
 organisers:
   - eastern-angles
 start_date: '2024-10-01 15:30'

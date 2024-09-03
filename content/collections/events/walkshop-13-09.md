@@ -3,7 +3,6 @@ id: 7d792653-4135-490a-9d1d-4ea2cdcdbf14
 blueprint: events
 title: 'Wild Walls Festival: Guided Walkshop'
 event_categories:
-  - teen
   - art
   - activism
   - exhibition

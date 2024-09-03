@@ -3,7 +3,6 @@ id: 363d1a10-a704-4a2f-b64e-0f97727f2632
 blueprint: events
 title: 'Wild Walls Festival: Wild Style'
 event_categories:
-  - teen
   - film
 organisers:
   - wild-walls-festival

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Mural Design Workshops'
 event_categories:
-  - teen
   - art
   - activism
 organisers:

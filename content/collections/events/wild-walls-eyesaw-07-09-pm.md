@@ -3,7 +3,6 @@ id: 094c577b-9587-487b-8228-5452ebfa07f7
 blueprint: events
 title: 'Wild Walls Festival: Street Art Workshop'
 event_categories:
-  - teen
   - art
   - activism
 organisers:

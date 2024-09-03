@@ -5,7 +5,6 @@ blueprint: events
 title: 'VR Street Art Workshop'
 event_categories:
   - computing
-  - teen
   - art
 organisers:
   - wild-walls-festival

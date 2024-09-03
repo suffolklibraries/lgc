@@ -3,7 +3,6 @@ id: b8a54484-97a0-43be-90ab-8d5bdf96ee8c
 blueprint: events
 title: 'Wild Walls Festival: Graffiti Workshop'
 event_categories:
-  - teen
   - art
   - activism
 organisers:

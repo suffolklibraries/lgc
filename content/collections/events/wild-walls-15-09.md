@@ -3,7 +3,6 @@ id: 130952e6-f144-4b70-8ff6-e38db72a4d2c
 blueprint: events
 title: 'Wild Walls Festival: VR Street Art Exhibition'
 event_categories:
-  - teen
   - art
   - activism
   - exhibition

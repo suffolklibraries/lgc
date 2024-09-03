@@ -8,8 +8,6 @@ updated_at: 1721851284
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2024-11-01 10:00'
-event_categories:
-  - teen
 free: true
 virtual: false
 organisers:
