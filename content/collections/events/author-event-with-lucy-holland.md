@@ -3,8 +3,6 @@ id: 91efc03b-46c5-4d0d-83bc-7567a3e240aa
 published: false
 blueprint: events
 title: 'Online author event with Lucy Holland'
-event_categories:
-  - story
 organisers:
   - suffolk-libraries
 start_date: '2022-06-08 18:00'
