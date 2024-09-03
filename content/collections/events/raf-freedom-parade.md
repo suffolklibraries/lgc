@@ -3,8 +3,6 @@ id: 929222c4-3d4e-479f-a191-bad8949cddf6
 published: false
 blueprint: events
 title: 'RAF Freedom Parade and Platinum Jubilee Parade'
-event_categories:
-  - parade
 organisers:
   - raf-honington
 start_date: '2022-06-09 18:45'
