@@ -12,7 +12,6 @@ start_date: '2022-02-21 10:00'
 end_date: '2022-02-21 11:30'
 event_categories:
   - early-years
-  - toddler
   - art
 free: true
 virtual: false
