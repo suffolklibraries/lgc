@@ -6,7 +6,6 @@ title: 'Weird and wonderful wildlife in Ipswich (Duplicated)'
 event_categories:
   - community
   - nature
-  - dance
 organisers:
   - suffolk-wildlife-trust
 start_date: '2023-02-22 19:30'

@@ -8,8 +8,6 @@ updated_at: 1720018286
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2024-10-30 10:00'
-event_categories:
-  - dance
 free: true
 virtual: false
 organisers:

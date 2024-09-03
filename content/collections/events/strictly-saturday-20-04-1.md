@@ -3,8 +3,6 @@ id: 6852f1d6-bd24-49e4-9180-1b20a3af2742
 published: false
 blueprint: events
 title: 'Strictly Saturdays (Duplicated)'
-event_categories:
-  - dance
 organisers:
   - the-apex
 featured_image: offthepressimages/new_resized_images/Dance.png

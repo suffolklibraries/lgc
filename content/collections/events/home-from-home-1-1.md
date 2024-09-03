@@ -3,8 +3,6 @@ id: ad10884b-f131-4d78-8a3d-171dcb306279
 published: false
 blueprint: events
 title: 'Home from Home'
-event_categories:
-  - dance
 organisers:
   - encoreeast
 featured_image: offthepressimages/new_resized_images/Dance.png

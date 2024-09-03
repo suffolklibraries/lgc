@@ -5,7 +5,6 @@ blueprint: events
 title: 'Suffolk Walking Festival: Lackford Lakes (Duplicated) (2)'
 event_categories:
   - nature
-  - dance
 organisers:
   - suffolk-walking-festival
 start_date: '2023-05-25 10:45'

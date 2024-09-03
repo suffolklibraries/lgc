@@ -7,8 +7,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1721891244
 start_date: '2024-11-02 09:10'
 end_date: '2024-11-02 10:10'
-event_categories:
-  - dance
 free: false
 virtual: false
 organisers:

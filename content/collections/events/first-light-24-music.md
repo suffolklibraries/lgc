@@ -157,7 +157,6 @@ cta: |-
 event_categories:
   - music
   - early-years
-  - dance
 duplicated_from: 9d4bb2c2-85a6-4e9a-95d0-a4f744e8d749
 featured_image: 'firstlightfestival/first-light-festival-2023,-mykola-romanovsky-(393).jpg'
 ---

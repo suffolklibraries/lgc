@@ -5,7 +5,6 @@ blueprint: events
 title: 'Free yoga in the Memorial Gardens'
 event_categories:
   - community
-  - dance
   - nature
 organisers:
   - newmarket-town-council

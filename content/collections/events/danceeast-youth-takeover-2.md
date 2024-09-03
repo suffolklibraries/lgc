@@ -5,7 +5,6 @@ blueprint: events
 title: 'DanceEast Youth Takeover (Duplicated) (2)'
 event_categories:
   - art
-  - dance
   - drama
   - performance
 organisers:

@@ -11,7 +11,6 @@ longitude: '1.155455996323043'
 start_date: '2022-03-19 14:30'
 end_date: '2022-03-19 15:30'
 event_categories:
-  - dance
   - performance
   - movement
 free: true

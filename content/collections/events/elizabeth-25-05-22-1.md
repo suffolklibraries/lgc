@@ -3,8 +3,6 @@ id: 0b1e3c3a-af87-445b-9a60-a4ca94b27f9d
 published: false
 blueprint: events
 title: 'Elizabeth! (Duplicated)'
-event_categories:
-  - dance
 organisers:
   - dance-east
 featured_image: offthepressimages/new_resized_images/Dance.png

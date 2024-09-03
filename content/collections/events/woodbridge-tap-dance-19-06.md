@@ -8,8 +8,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1713511425
 start_date: '2024-06-19 09:45'
 end_date: '2024-06-19 10:20'
-event_categories:
-  - dance
 free: false
 virtual: false
 organisers:

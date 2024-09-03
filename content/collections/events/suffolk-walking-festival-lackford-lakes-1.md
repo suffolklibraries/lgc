@@ -5,7 +5,6 @@ blueprint: events
 title: 'Suffolk Walking Festival: Breathe in the Brecks'
 event_categories:
   - nature
-  - dance
 organisers:
   - suffolk-walking-festival
 start_date: '2023-05-26 10:00'

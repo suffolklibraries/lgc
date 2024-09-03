@@ -5,7 +5,6 @@ blueprint: events
 title: 'Family walks (Duplicated)'
 event_categories:
   - nature
-  - dance
 organisers:
   - the-art-station
 start_date: '2023-03-04 10:00'

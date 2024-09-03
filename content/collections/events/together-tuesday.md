@@ -5,7 +5,6 @@ blueprint: events
 title: 'Together Tuesday'
 event_categories:
   - community
-  - dance
   - later-life
 organisers:
   - abbeycroft-leisure

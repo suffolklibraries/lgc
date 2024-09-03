@@ -201,7 +201,6 @@ event_categories:
   - music
   - art
   - exhibition
-  - dance
 duplicated_from: c3f03a34-b292-4461-895f-cd9ccb0a1aa8
 featured_image: 'firstlightfestival/first-light-festival-2023,-mykola-romanovsky-(218).jpg'
 ---

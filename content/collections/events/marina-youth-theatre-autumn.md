@@ -9,7 +9,6 @@ start_date: '2024-09-06 09:30'
 end_date: '2024-12-20 12:30'
 event_categories:
   - music
-  - dance
 free: false
 virtual: false
 organisers:

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Dancing in the Parks (Duplicated)'
 event_categories:
-  - dance
   - performance
   - community
   - early-years

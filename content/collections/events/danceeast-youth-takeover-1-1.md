@@ -5,7 +5,6 @@ blueprint: events
 title: 'DanceEast Youth Festival (Duplicated)'
 event_categories:
   - art
-  - dance
   - performance
   - festival
   - music

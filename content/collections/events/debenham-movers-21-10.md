@@ -10,7 +10,6 @@ longitude: '1.1697874596611926'
 start_date: '2024-10-21 10:00'
 event_categories:
   - later-life
-  - dance
 free: false
 virtual: false
 organisers:

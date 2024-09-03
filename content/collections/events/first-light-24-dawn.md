@@ -235,7 +235,6 @@ event_categories:
   - music
   - art
   - exhibition
-  - dance
 duplicated_from: 1c10c79f-c1e1-4781-8810-c224bbdb30e9
 featured_image: 'firstlightfestival/first-light-festival-sunrise,-adam-barnes-2.jpg'
 ---

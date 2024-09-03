@@ -2,8 +2,6 @@
 id: e44eca6f-fcce-4bf3-be58-c8e72a44d8ff
 blueprint: events
 title: 'Strictly Saturdays'
-event_categories:
-  - dance
 organisers:
   - the-apex
 featured_image: offthepressimages/new_resized_images/Dance.png

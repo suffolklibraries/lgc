@@ -5,7 +5,6 @@ blueprint: events
 title: 'Suffolk Wildlife Trust: 50 Nature Reserves (Duplicated)'
 event_categories:
   - languages
-  - dance
   - nature
 organisers:
   - suffolk-wildlife-trust

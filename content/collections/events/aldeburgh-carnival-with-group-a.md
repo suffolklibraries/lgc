@@ -6,7 +6,6 @@ title: 'Aldeburgh Carnival with Group A'
 event_categories:
   - community
   - festival
-  - dance
 organisers:
   - britten-pears-arts
 start_date: '2022-08-13 10:00'

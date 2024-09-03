@@ -3,8 +3,6 @@ id: 4d728c8a-802d-4261-8781-bcd160d22387
 published: false
 blueprint: events
 title: 'Disco in the Park (Duplicated)'
-event_categories:
-  - dance
 organisers:
   - wherstead-park-events
 featured_image: offthepressimages/Music_clear.png

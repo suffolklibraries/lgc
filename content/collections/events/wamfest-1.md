@@ -7,7 +7,6 @@ event_categories:
   - festival
   - art
   - community
-  - dance
   - music
 start_date: '2023-03-04 10:00'
 end_date: '2023-03-04 23:00'

@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Old Green Time Machine (Duplicated)'
 event_categories:
   - festival
-  - dance
 organisers:
   - first-light-festival
 start_date: '2023-06-17 16:00'

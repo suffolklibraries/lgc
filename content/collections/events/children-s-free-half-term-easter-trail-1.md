@@ -5,7 +5,6 @@ blueprint: events
 title: "Children's FREE Half Term Easter Trail (Duplicated)"
 event_categories:
   - food
-  - dance
 organisers:
   - the-cock-horse-inn
 start_date: '2023-04-03 10:00'

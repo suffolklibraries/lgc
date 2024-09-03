@@ -10,7 +10,6 @@ latitude: '52.05271516726272'
 longitude: '1.1553475160520688'
 start_date: '2022-04-17 09:30'
 event_categories:
-  - dance
   - later-life
   - art
   - performance

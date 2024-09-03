@@ -10,8 +10,6 @@ latitude: '52.05228203728405'
 longitude: '1.155455996323043'
 start_date: '2021-12-08 13:00'
 end_date: '2021-12-08 13:00'
-event_categories:
-  - dance
 free: false
 virtual: false
 organisers:

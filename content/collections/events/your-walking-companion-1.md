@@ -5,7 +5,6 @@ blueprint: events
 title: 'Your Walking Companion (Duplicated)'
 event_categories:
   - nature
-  - dance
 start_date: '2022-02-23 12:00'
 free: true
 virtual: false

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Baby Loves to Boogie (Duplicated)'
 event_categories:
   - art
-  - dance
   - early-years
 organisers:
   - danceeast

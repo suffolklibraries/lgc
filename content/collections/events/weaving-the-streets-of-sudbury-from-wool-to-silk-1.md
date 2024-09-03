@@ -3,8 +3,6 @@ id: 282f9030-85b8-4db6-8a89-fa02995ef4bb
 published: false
 blueprint: events
 title: 'Weaving the streets of Sudbury: from wool to silk (Duplicated)'
-event_categories:
-  - dance
 organisers:
   - sudbury-town-council
 start_date: '2022-09-17 11:00'

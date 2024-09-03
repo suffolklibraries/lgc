@@ -3,8 +3,6 @@ id: 3cbbe89d-7cbf-41f7-b614-e2833cb2a319
 published: false
 blueprint: events
 title: 'Walks: Westside Story (Duplicated)'
-event_categories:
-  - dance
 organisers:
   - the-hold
   - ipswich-tourist-guide-association

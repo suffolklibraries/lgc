@@ -12,7 +12,6 @@ start_date: '2022-06-19 10:00'
 end_date: '2022-06-19 12:00'
 event_categories:
   - early-years
-  - dance
   - performance
 free: true
 virtual: false

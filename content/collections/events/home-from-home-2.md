@@ -3,8 +3,6 @@ id: cf2c0086-e0a1-4773-a69c-74e816aed146
 published: false
 blueprint: events
 title: 'Home from Home (Duplicated) (2)'
-event_categories:
-  - dance
 organisers:
   - encoreeast
 start_date: '2023-05-18 18:30'

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Circuits (Duplicated)'
 event_categories:
-  - dance
   - later-life
 organisers:
   - suffolk-libraries

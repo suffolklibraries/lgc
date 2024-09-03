@@ -11,7 +11,6 @@ longitude: '1.338361103263136'
 start_date: '2023-05-22 13:00'
 event_categories:
   - later-life
-  - dance
 free: false
 virtual: false
 organisers:

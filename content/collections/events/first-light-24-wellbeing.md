@@ -351,7 +351,6 @@ event_categories:
   - music
   - art
   - exhibition
-  - dance
 duplicated_from: c3db2116-f099-4ed5-a338-d82c90bda30d
 featured_image: 'firstlightfestival/first-light-festival,-adam-barnes-(27).jpg'
 ---

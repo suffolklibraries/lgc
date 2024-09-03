@@ -3,8 +3,6 @@ id: 530e953a-f959-498e-bf66-b6e2eb087bda
 published: false
 blueprint: events
 title: 'An introduction to jazz dance style (Duplicated)'
-event_categories:
-  - dance
 organisers:
   - the-seagull-theatre
 featured_image: offthepressimages/new_resized_images/Dance.png

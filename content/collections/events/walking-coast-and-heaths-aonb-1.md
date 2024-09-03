@@ -6,7 +6,6 @@ title: 'Walking: Coast and Heaths AONB (Duplicated)'
 event_categories:
   - languages
   - nature
-  - dance
 start_date: '2022-09-01 09:00'
 end_date: '2022-09-30 17:00'
 free: true

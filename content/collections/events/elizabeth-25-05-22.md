@@ -3,8 +3,6 @@ id: 34f8f2fd-8ff2-4a55-a8cb-ffd312494f73
 published: false
 blueprint: events
 title: Elizabeth!
-event_categories:
-  - dance
 organisers:
   - dance-east
 featured_image: offthepressimages/new_resized_images/Dance.png

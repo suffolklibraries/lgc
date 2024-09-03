@@ -6,7 +6,6 @@ title: 'First Light Festival 2023 (Duplicated)'
 event_categories:
   - art
   - festival
-  - dance
   - music
   - performance
 organisers:

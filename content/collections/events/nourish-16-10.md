@@ -5,7 +5,6 @@ title: Nourish
 event_categories:
   - wellbeing
   - community
-  - dance
 organisers:
   - eastern-angles
 start_date: '2024-10-16 10:30'

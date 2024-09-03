@@ -5,7 +5,6 @@ blueprint: events
 title: 'Bluebells in Bradfield Woods (Duplicated)'
 event_categories:
   - nature
-  - dance
 organisers:
   - suffolk-wildlife-trust
 start_date: '2023-04-26 10:00'

@@ -9,7 +9,6 @@ updated_at: 1680716574
 start_date: '2022-11-17 11:00'
 end_date: '2022-11-17 12:00'
 event_categories:
-  - dance
   - later-life
 free: false
 virtual: false

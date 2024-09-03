@@ -12,7 +12,6 @@ start_date: '2022-02-26 11:00'
 end_date: '2022-02-26 14:00'
 event_categories:
   - early-years
-  - dance
 free: false
 virtual: false
 organisers:

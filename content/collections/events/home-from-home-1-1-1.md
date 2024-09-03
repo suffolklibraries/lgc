@@ -3,8 +3,6 @@ id: 93c8d44c-a172-4aa9-9544-8f70f8dddc7a
 published: false
 blueprint: events
 title: 'Home from Home (Duplicated)'
-event_categories:
-  - dance
 organisers:
   - encoreeast
 featured_image: offthepressimages/new_resized_images/Dance.png

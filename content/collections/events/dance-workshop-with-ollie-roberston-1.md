@@ -3,8 +3,6 @@ id: 79a0fbc4-c1f9-4593-af8a-8dfc80ef2ea5
 published: false
 blueprint: events
 title: 'Dance workshop with Ollie Robertston (Duplicated)'
-event_categories:
-  - dance
 start_date: '2023-03-26 13:00'
 free: false
 virtual: false

@@ -3,8 +3,6 @@ id: 45b6df6f-630e-4d4d-8f02-6e343d0e7261
 published: false
 blueprint: events
 title: 'Home from Home'
-event_categories:
-  - dance
 organisers:
   - encoreeast
 start_date: '2023-06-29 18:30'

@@ -10,7 +10,6 @@ latitude: '52.04263865596861'
 longitude: '0.9547349579000611'
 start_date: '2023-04-18 09:15'
 event_categories:
-  - dance
   - early-years
 free: true
 virtual: false

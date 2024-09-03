@@ -5,7 +5,6 @@ blueprint: events
 title: 'Young Creatives'
 event_categories:
   - art
-  - dance
 organisers:
   - inside-out-community
   - suffolk-libraries

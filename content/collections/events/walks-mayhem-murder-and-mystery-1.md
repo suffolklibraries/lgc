@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Mayhem, Murder and Mystery (Duplicated)'
 event_categories:
-  - dance
   - museums
   - languages
 organisers:

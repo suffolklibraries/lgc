@@ -9,7 +9,6 @@ updated_at: 1712216848
 start_date: '2024-05-10 10:00'
 end_date: '2024-05-10 11:15'
 event_categories:
-  - dance
   - later-life
 free: false
 virtual: false

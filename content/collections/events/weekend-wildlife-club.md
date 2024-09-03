@@ -5,7 +5,6 @@ blueprint: events
 title: 'Weekend Wildlife Club'
 event_categories:
   - nature
-  - dance
 organisers:
   - suffolk-wildlife-trust
 start_date: '2022-08-07 10:00'

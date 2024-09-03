@@ -5,7 +5,6 @@ blueprint: events
 title: 'Gentle Yoga'
 event_categories:
   - later-life
-  - dance
 organisers:
   - cohere-arts
 start_date: '2024-05-14 10:30'

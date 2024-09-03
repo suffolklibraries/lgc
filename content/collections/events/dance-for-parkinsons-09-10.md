@@ -9,7 +9,6 @@ latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2024-10-09 17:30'
 event_categories:
-  - dance
   - later-life
 free: true
 virtual: false

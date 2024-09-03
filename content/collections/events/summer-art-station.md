@@ -6,7 +6,6 @@ title: 'Summer Holiday Activities with The Art Station'
 event_categories:
   - art
   - wellbeing
-  - dance
   - performance
 organisers:
   - the-art-station

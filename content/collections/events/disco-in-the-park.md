@@ -3,8 +3,6 @@ id: 42e68d32-b466-4a50-9fb5-dabb7531567d
 published: false
 blueprint: events
 title: 'Disco in the Park'
-event_categories:
-  - dance
 organisers:
   - wherstead-park-events
 featured_image: offthepressimages/Music_clear.png
