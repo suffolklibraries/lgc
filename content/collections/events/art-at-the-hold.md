@@ -6,7 +6,6 @@ title: 'Exhibition: Art at the Heart of Ipswich'
 event_categories:
   - art
   - exhibition
-  - museums
 organisers:
   - suffolk-archives
 featured_image: offthepressimages/new_resized_images/Exhibition.png

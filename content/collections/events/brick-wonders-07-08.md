@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Let's Get Crafty - Brick Wonders"
 event_categories:
-  - museums
   - art
 organisers:
   - suffolk-archives

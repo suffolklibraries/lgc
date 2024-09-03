@@ -155,7 +155,6 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 event_categories:
   - music
-  - museums
 booking_link: 'https://brittenpearsarts.org/events/participate-leiston-2'
 featured_image: offthepressimages/new_resized_images/Music_Drum.png
 duplicated_from: 9ba1c2bc-3397-444f-a721-e8d21c076fdc

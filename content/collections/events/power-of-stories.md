@@ -5,7 +5,6 @@ blueprint: events
 title: 'Power of Stories Exhibition at Snape Maltings'
 event_categories:
   - exhibition
-  - museums
 organisers:
   - britten-pears-arts
 start_date: '2022-10-22 10:00'

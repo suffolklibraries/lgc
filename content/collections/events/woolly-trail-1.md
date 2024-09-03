@@ -5,7 +5,6 @@ blueprint: events
 title: "Woolly's Spring Trail (Duplicated)"
 event_categories:
   - exhibition
-  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/online-spring-trail-image.png

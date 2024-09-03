@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Amazing Animals'
 event_categories:
-  - museums
   - nature
 organisers:
   - ipswich-museums

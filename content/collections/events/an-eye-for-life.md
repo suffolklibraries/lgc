@@ -4,7 +4,6 @@ blueprint: events
 title: 'An Eye For Life: Photography By John Ferguson'
 event_categories:
   - exhibition
-  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/jf-exhibition-1080-x-675.png

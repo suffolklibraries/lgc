@@ -5,7 +5,6 @@ blueprint: events
 title: 'Ipswich Solar Party'
 event_categories:
   - family-friendly
-  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/solar-party.png

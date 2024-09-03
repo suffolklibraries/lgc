@@ -6,7 +6,6 @@ title: 'Nautical Craft Morning (Duplicated)'
 event_categories:
   - festival
   - art
-  - museums
 organisers:
   - woodbridge-tide-mill
 start_date: '2022-08-29 10:00'

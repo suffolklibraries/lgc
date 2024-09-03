@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'The Suffolk Holiday Activity Programme (Duplicated)'
 event_categories:
-  - museums
   - food
 organisers:
   - the-national-horse-racing-museum

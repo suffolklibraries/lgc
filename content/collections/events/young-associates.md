@@ -5,7 +5,6 @@ blueprint: events
 title: 'Ipswich Museum Young Associates Launch'
 event_categories:
   - exhibition
-  - museums
 organisers:
   - ipswich-museums
 featured_image: offthepressimages/new_resized_images/Craft_Museum.png

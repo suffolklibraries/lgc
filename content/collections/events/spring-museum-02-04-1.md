@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Spring Into Spring Craft Workshop (Duplicated)'
 event_categories:
-  - museums
   - art
 organisers:
   - ipswich-museums

@@ -3,8 +3,6 @@ id: f7df26fd-d50b-4a5b-9423-5002b3e862f0
 published: false
 blueprint: events
 title: 'Party at the Palace (Duplicated)'
-event_categories:
-  - museums
 organisers:
   - national-horse-racing-museum
 start_date: '2022-07-23 11:00'

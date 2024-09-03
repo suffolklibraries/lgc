@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Cartoon Drawing Styles in 20th Century Magazines'
 event_categories:
-  - museums
   - art
 organisers:
   - suffolk-archives

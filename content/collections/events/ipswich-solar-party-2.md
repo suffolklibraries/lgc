@@ -5,7 +5,6 @@ blueprint: events
 title: 'Ipswich Solar Party (Duplicated) (2)'
 event_categories:
   - languages
-  - museums
 organisers:
   - ipswich-museums
 start_date: '2023-06-03 10:00'

@@ -11,7 +11,6 @@ longitude: '0.7128176254149738'
 start_date: '2021-10-23 00:00'
 end_date: '2022-01-30 00:00'
 event_categories:
-  - museums
   - art
   - exhibition
 free: false

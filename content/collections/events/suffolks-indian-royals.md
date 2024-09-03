@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Talk: Maharajah Duleep Singh: Suffolk's Indian Royals"
 event_categories:
-  - museums
   - languages
 organisers:
   - suffolk-archives

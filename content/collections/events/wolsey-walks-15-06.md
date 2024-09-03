@@ -3,8 +3,6 @@ id: ba018053-ffca-4537-849b-b40fdc0c53c3
 published: false
 blueprint: events
 title: 'Wolsey Walks: Ipswich in the Middles Ages'
-event_categories:
-  - museums
 organisers:
   - thomas-wolsey-550
 start_date: '2024-06-15 14:00'

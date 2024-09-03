@@ -3,8 +3,6 @@ id: 51db1730-e280-495b-8627-3f04b812f9b3
 published: false
 blueprint: events
 title: "Dance Like It's 1578!"
-event_categories:
-  - museums
 organisers:
   - curious-spark
 start_date: '2022-10-28 10:30'

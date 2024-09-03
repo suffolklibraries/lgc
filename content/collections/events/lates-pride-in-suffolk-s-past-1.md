@@ -3,8 +3,6 @@ id: 180f05a0-8b71-482f-ad17-0725c3c3fbc2
 published: false
 blueprint: events
 title: "Lates: Pride in Suffolk's Past (Duplicated)"
-event_categories:
-  - museums
 organisers:
   - suffolk-archives
 start_date: '2023-02-23 19:00'

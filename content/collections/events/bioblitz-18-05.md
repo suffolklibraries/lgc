@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Bury BioBlitz'
 event_categories:
-  - museums
   - art
 organisers:
   - bury-water-meadows-group

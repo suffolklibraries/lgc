@@ -3,8 +3,6 @@ id: 34c79b04-0e20-4492-b205-ba995558ebaf
 published: false
 blueprint: events
 title: 'West Stow - A Celebration (Duplicated)'
-event_categories:
-  - museums
 organisers:
   - west-stow-anglo-saxon-village
 featured_image: miscellaneous/0e0dacab-ff8d-43e3-ab46-788e0fab15dc.jpg

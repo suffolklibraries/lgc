@@ -152,7 +152,6 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 event_categories:
   - music
-  - museums
 booking_link: 'https://brittenpearsarts.org/events/participate-woodbridge'
 featured_image: offthepressimages/new_resized_images/Music_Drum.png
 duplicated_from: 22a8fa1a-8e34-4675-a2f0-0c0860a84453

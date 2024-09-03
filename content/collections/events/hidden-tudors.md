@@ -3,8 +3,6 @@ id: bbcfb152-38f7-4b51-8398-9a0faf93d7c6
 published: false
 blueprint: events
 title: 'Hidden Tudors - Uncovering Black History'
-event_categories:
-  - museums
 organisers:
   - thomas-wolsey-550
 start_date: '2024-07-04 19:00'

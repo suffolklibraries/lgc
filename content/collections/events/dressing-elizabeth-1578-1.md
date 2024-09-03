@@ -6,7 +6,6 @@ title: 'Dressing Elizabeth 1578 (Duplicated)'
 event_categories:
   - art
   - languages
-  - museums
 organisers:
   - curious-spark
 start_date: '2022-10-29 10:30'

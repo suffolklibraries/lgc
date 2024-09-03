@@ -3,8 +3,6 @@ id: d4ada657-95f6-4867-8b10-af4a5ec9c946
 published: false
 blueprint: events
 title: 'Free Family Fun (Duplicated)'
-event_categories:
-  - museums
 organisers:
   - national-horse-racing-museum
 start_date: '2022-07-27 11:00'

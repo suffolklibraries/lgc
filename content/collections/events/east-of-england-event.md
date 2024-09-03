@@ -83,8 +83,6 @@ content_area:
         text: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1645189479
-event_categories:
-  - museums
 featured_image: miscellaneous/migrationnetwork/Migration-Network-1644229641.png
 attendance_information: 18+
 booking_link: 'https://www.eventbrite.co.uk/e/migration-network-east-of-england-event-tickets-255991295857'

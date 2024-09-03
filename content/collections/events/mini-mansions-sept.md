@@ -3,7 +3,6 @@ id: 44d7f6b1-42b2-49a0-8f30-bc2b7fd41d52
 blueprint: events
 title: 'Mini Mansions'
 event_categories:
-  - museums
   - art
   - early-years
 organisers:

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Clay Faces Workshop'
 event_categories:
-  - museums
   - art
 organisers:
   - ipswich-museums

@@ -6,7 +6,6 @@ title: 'Recreating Constable'
 event_categories:
   - art
   - exhibition
-  - museums
 organisers:
   - ipswich-museum
 start_date: '2022-07-07 10:00'

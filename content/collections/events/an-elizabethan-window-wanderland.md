@@ -5,7 +5,6 @@ blueprint: events
 title: 'An Elizabethan Window Wanderland'
 event_categories:
   - art
-  - museums
 organisers:
   - curious-spark
 start_date: '2022-10-22 10:00'

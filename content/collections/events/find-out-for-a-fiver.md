@@ -6,7 +6,6 @@ title: 'Find Out For a Fiver'
 event_categories:
   - exhibition
   - languages
-  - museums
 organisers:
   - national-horse-racing-museum
 start_date: '2023-02-22 10:00'

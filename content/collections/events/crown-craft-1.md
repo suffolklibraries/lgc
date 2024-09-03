@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Easter Crown Craft Bags (Duplicated)'
 event_categories:
-  - museums
   - art
 organisers:
   - ipswich-museums

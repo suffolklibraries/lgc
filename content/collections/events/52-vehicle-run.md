@@ -110,8 +110,6 @@ cta: |-
   [https://www.ipswichtransportmuseum.co.uk/](https://www.ipswichtransportmuseum.co.uk/)
 
   [enquiries@ipswichtransportmuseum.co.uk](mailto:enquiries@ipswichtransportmuseum.co.uk)
-event_categories:
-  - museums
 featured_image: offthepressimages/new_resized_images/Museum.png
 duplicated_from: 72a1333f-e3c7-429d-94e4-2a8c947db911
 address_line_2: 'Bolton Lane'

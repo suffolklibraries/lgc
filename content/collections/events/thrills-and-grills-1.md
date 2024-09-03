@@ -6,7 +6,6 @@ title: 'Thrills and Grills (Duplicated)'
 event_categories:
   - food
   - languages
-  - museums
 organisers:
   - the-food-museum
 featured_image: offthepressimages/new_resized_images/Food_Nature.png

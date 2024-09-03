@@ -2,8 +2,6 @@
 id: f528884d-c223-456a-b00c-f0d42ac80290
 blueprint: events
 title: 'Heritage Open Days - Behind the Scenes Tours of the Hold'
-event_categories:
-  - museums
 organisers:
   - suffolk-archives
 start_date: '2024-09-07 10:30'

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Virtual Black History Month Lecture 2022 (Duplicated)'
 event_categories:
   - literature
-  - museums
 organisers:
   - university-of-oxford-bme-staff-network
 start_date: '2022-10-20 17:30'

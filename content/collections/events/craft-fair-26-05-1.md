@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Craft Fayre & WW2 Operations Room Open Day (Duplicated)'
 event_categories:
-  - museums
   - art
 organisers:
   - bury-st-edmunds-guildhall

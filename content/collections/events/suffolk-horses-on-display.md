@@ -80,8 +80,6 @@ content_area:
         text: here
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1662133890
-event_categories:
-  - museums
 organisers:
   - national-horse-racing-museum
 cost_details: 'Free with a general admission ticket'

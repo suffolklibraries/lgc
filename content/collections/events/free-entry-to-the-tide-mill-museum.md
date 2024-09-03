@@ -3,8 +3,6 @@ id: 9ce05593-684e-4729-b979-39086a49f107
 published: false
 blueprint: events
 title: 'Free entry to the Tide Mill Museum'
-event_categories:
-  - museums
 organisers:
   - woodbridge-tide-mill
 start_date: '2022-08-01 11:00'

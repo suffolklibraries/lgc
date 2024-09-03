@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Mini Mansions'
 event_categories:
-  - museums
   - art
   - early-years
 organisers:

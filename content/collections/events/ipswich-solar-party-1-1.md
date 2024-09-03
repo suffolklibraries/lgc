@@ -5,7 +5,6 @@ blueprint: events
 title: 'Mini Mansions (Duplicated)'
 event_categories:
   - languages
-  - museums
   - art
 organisers:
   - ipswich-museums

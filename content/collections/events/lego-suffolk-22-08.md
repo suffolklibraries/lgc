@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Make Suffolk out of LEGO® Bricks'
 event_categories:
-  - museums
   - art
 organisers:
   - suffolk-archives

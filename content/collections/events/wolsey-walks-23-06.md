@@ -3,8 +3,6 @@ id: 5035ad9c-61b7-43cd-86af-221111d70d48
 published: false
 blueprint: events
 title: 'Wolsey Walks: Thomas Wolsey, the Man Behind the King'
-event_categories:
-  - museums
 organisers:
   - thomas-wolsey-550
 start_date: '2024-06-23 14:00'

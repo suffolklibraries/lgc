@@ -5,7 +5,6 @@ blueprint: events
 title: 'Mini Monks I-Spy Trail (Duplicated)'
 event_categories:
   - languages
-  - museums
 organisers:
   - suffolk-county-council
   - bury-st-edmunds-beyond

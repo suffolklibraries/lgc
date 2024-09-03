@@ -138,7 +138,6 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 event_categories:
   - music
-  - museums
 booking_link: 'https://brittenpearsarts.org/events/participate-kesgrave'
 featured_image: offthepressimages/new_resized_images/Music_Drum.png
 duplicated_from: 4880a654-3857-42e1-9c57-938764e682da

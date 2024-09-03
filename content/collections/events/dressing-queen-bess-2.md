@@ -5,7 +5,6 @@ blueprint: events
 title: 'Dressing Queen Bess (Duplicated) (2)'
 event_categories:
   - languages
-  - museums
 organisers:
   - suffolk-archives
 start_date: '2023-05-17 10:30'

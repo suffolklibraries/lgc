@@ -20,8 +20,6 @@ address_line_2: 'Palace Street'
 town: Newmarket
 postcode: 'CB8 8EP'
 booking_link: 'https://www.nhrm.co.uk/event/twilight-with-the-museum-the-wow-the-weird-and-the-wonderful/'
-event_categories:
-  - museums
 attendance_information: 'Family friendly'
 accessibility_information: '- Indoor venue'
 content_area:

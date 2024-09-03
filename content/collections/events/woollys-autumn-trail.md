@@ -3,7 +3,6 @@ id: a54b38c0-9ce7-49d1-a528-47a7bad3f40c
 blueprint: events
 title: 'Woolly’s Autumn Trail'
 event_categories:
-  - museums
   - art
   - early-years
 organisers:

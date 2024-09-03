@@ -5,7 +5,6 @@ blueprint: events
 title: 'Animals in the Art Gallery (Duplicated)'
 event_categories:
   - exhibition
-  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/animals-in-the-art-gallery.jpg

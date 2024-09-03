@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Let's Get Crafty - Suffolk Wonders"
 event_categories:
-  - museums
   - art
 organisers:
   - suffolk-archives

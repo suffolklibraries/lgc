@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Hands On: Conservation in Practice'
 event_categories:
-  - museums
   - family-friendly
 organisers:
   - ipswich-museums

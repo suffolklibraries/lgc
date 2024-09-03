@@ -6,7 +6,6 @@ title: "Let's Get Crafty: Children's Stories"
 event_categories:
   - art
   - literature
-  - museums
 organisers:
   - suffolk-archives
 start_date: '2022-08-17 10:30'

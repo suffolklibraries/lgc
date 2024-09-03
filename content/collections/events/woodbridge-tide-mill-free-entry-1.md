@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Woodbridge Tide Mill Museum - Free Entry (Duplicated)'
 event_categories:
-  - museums
   - languages
 organisers:
   - woodbridge-tide-mill

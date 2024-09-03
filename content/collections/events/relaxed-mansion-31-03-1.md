@@ -5,7 +5,6 @@ blueprint: events
 title: 'Christchurch Mansion - Relaxed Visits (Duplicated)'
 event_categories:
   - exhibition
-  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg

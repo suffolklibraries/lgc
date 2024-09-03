@@ -155,7 +155,6 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 event_categories:
   - music
-  - museums
 booking_link: 'https://brittenpearsarts.org/events/participate-saxmundham-2'
 featured_image: offthepressimages/new_resized_images/Music_Drum.png
 duplicated_from: 8a06567a-6e01-46d9-9d9b-79138685bc0f

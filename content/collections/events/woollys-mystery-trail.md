@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Woolly’s Mystery Trail'
 event_categories:
-  - museums
   - art
   - early-years
 organisers:

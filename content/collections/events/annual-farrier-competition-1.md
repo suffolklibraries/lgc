@@ -5,7 +5,6 @@ blueprint: events
 title: 'Annual Farrier Competition (Duplicated)'
 event_categories:
   - languages
-  - museums
 organisers:
   - national-horse-racing-museum
 start_date: '2022-08-06 11:00'

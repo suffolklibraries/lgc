@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Sun Printing Workshop'
 event_categories:
-  - museums
   - nature
 organisers:
   - ipswich-museums
