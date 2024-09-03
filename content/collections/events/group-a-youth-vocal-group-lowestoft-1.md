@@ -6,7 +6,6 @@ title: 'Group A - Youth Vocal Group in Lowestoft (Duplicated)'
 event_categories:
   - languages
   - music
-  - performance
 organisers:
   - britten-pears-arts
 start_date: '2023-01-12 16:15'

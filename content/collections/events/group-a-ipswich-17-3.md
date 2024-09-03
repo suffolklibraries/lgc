@@ -204,6 +204,5 @@ cta: |-
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
 event_categories:
   - music
-  - performance
 ---
 An extended half term session of the free singing and vocal group for young people in Ipswich

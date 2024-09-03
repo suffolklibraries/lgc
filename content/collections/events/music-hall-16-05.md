@@ -8,8 +8,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1712159715
 start_date: '2024-05-16 19:30'
 end_date: '2024-05-16 21:00'
-event_categories:
-  - performance
 free: false
 virtual: false
 organisers:

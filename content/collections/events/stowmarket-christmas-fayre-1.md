@@ -6,7 +6,6 @@ title: 'Stowmarket Christmas Fayre (Duplicated)'
 event_categories:
   - community
   - food
-  - performance
   - art
 organisers:
   - stowmarket-town-council

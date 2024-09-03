@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Storytelling: Yarnsmith of Norwich'
 event_categories:
-  - performance
   - museums
   - literature
 organisers:

@@ -6,7 +6,6 @@ title: 'Chinese New Year Celebration'
 event_categories:
   - community
   - languages
-  - performance
 organisers:
   - anglo-chinese-cultural-exchange
   - suffolk-libraries

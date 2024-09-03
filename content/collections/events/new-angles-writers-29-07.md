@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'New Angles Writers Club'
 event_categories:
-  - performance
   - literature
 organisers:
   - eastern-angles

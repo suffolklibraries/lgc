@@ -5,7 +5,6 @@ blueprint: events
 title: 'Holiday Club'
 event_categories:
   - community
-  - performance
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Theatre.png

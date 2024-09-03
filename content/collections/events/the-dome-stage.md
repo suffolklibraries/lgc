@@ -6,7 +6,6 @@ title: 'The Dome Stage'
 event_categories:
   - festival
   - music
-  - performance
 organisers:
   - britten-pears-arts
 start_date: '2022-08-03 17:30'

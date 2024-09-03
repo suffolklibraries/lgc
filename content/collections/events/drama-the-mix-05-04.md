@@ -135,7 +135,6 @@ cta: |-
   [07775 778228.](tel:07775778228.)
 event_categories:
   - drama
-  - performance
 booking_link: '#'
 featured_image: miscellaneous/themix/Drama-at-the-Mix.jpg
 ---

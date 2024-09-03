@@ -8,7 +8,6 @@ updated_at: 1716988543
 start_date: '2024-09-11 10:30'
 end_date: '2024-09-11 11:30'
 event_categories:
-  - performance
   - later-life
 free: true
 virtual: false

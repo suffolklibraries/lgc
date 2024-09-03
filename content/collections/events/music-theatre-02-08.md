@@ -135,7 +135,6 @@ cta: |-
   [01728687127](tel:01728687127)
 event_categories:
   - music
-  - performance
 booking_link: 'https://www.brittenpearsarts.org/events/aldeburgh-young-musicians-musical-theatre'
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: f99a9551-9f2c-4cc3-9830-b7295cbb7709

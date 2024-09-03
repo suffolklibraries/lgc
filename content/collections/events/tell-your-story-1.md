@@ -5,7 +5,6 @@ blueprint: events
 title: 'Tell Your Story (Duplicated)'
 event_categories:
   - exhibition
-  - performance
 organisers:
   - new-wolsey-theatre
 featured_image: offthepressimages/new_resized_images/VisualArts.png

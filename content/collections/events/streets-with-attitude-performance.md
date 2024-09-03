@@ -64,8 +64,6 @@ content_area:
         text: 'This is a drop in event so no booking is required.'
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1652266089
-event_categories:
-  - performance
 organisers:
   - art-eat-events
 featured_image: offthepressimages/new_resized_images/Teen.png

@@ -10,7 +10,6 @@ latitude: '52.05282504038894'
 longitude: '1.1552529352396133'
 start_date: '2022-05-21 09:30'
 event_categories:
-  - performance
   - movement
 free: true
 virtual: false

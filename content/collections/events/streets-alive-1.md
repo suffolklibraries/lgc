@@ -3,8 +3,6 @@ id: 956a4349-6d0f-4a99-b4fe-bfcffa573594
 published: false
 blueprint: events
 title: 'Streets Alive! (Duplicated)'
-event_categories:
-  - performance
 organisers:
   - eastern-angles
 start_date: '2022-07-09 11:00'

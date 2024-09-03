@@ -11,7 +11,6 @@ longitude: '1.155455996323043'
 start_date: '2024-03-23 14:30'
 end_date: '2024-03-23 15:30'
 event_categories:
-  - performance
   - movement
 free: true
 virtual: false

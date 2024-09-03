@@ -199,6 +199,5 @@ cta: |-
   [https://brittenpearsarts.org/take-part/families-young-people/group-a ](https://brittenpearsarts.org/take-part/families-young-people/group-a )
 event_categories:
   - music
-  - performance
 ---
 Join Group A for a half term session in Lowestoft.

@@ -12,7 +12,6 @@ start_date: '2022-04-17 09:30'
 event_categories:
   - later-life
   - art
-  - performance
 free: true
 virtual: false
 organisers:

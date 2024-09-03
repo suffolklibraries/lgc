@@ -5,7 +5,6 @@ blueprint: events
 title: 'Creative Storytelling Programme (Duplicated)'
 event_categories:
   - drama
-  - performance
 organisers:
   - eastern-angles
 start_date: '2022-12-19 09:30'

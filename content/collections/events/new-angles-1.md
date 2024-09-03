@@ -3,8 +3,6 @@ id: fb7fcbd6-a1d6-4c69-ad1b-513eba1c796c
 published: false
 blueprint: events
 title: 'New Angles (Duplicated)'
-event_categories:
-  - performance
 organisers:
   - eastern-angles
 featured_image: offthepressimages/Theatre.png

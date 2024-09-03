@@ -6,7 +6,6 @@ title: 'The Wind in the Willows Christmas Show (Duplicated)'
 event_categories:
   - community
   - literature
-  - performance
 organisers:
   - red-rose-chain-theatre-company
 start_date: '2022-12-09 19:00'

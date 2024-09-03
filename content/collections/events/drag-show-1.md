@@ -3,8 +3,6 @@ id: f9c47119-46b3-4807-9eef-b78a7f626f99
 published: false
 blueprint: events
 title: 'Drag Show (Duplicated)'
-event_categories:
-  - performance
 organisers:
   - the-wiff-waff-bar
 start_date: '2022-06-19 19:00'

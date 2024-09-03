@@ -6,7 +6,6 @@ title: 'Group A - Youth Vocal Group in Ipswich'
 event_categories:
   - languages
   - music
-  - performance
 organisers:
   - britten-pears-arts
 start_date: '2023-01-19 16:15'

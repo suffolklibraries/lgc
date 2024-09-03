@@ -6,7 +6,6 @@ title: 'Concert of Light Classics and Music from the Shows'
 event_categories:
   - community
   - music
-  - performance
 organisers:
   - community-light-orchestra
 start_date: '2022-11-20 14:30'

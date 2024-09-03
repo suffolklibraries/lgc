@@ -5,7 +5,6 @@ blueprint: events
 title: 'Suffolk Shorts - Short Film Festival (Duplicated)'
 event_categories:
   - festival
-  - performance
 organisers:
   - the-riverside
 start_date: '2022-10-08 14:00'

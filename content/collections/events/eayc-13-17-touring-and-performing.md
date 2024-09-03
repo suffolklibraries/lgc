@@ -5,7 +5,6 @@ blueprint: events
 title: 'EAYC (13-17): Touring & Performing'
 event_categories:
   - languages
-  - performance
 organisers:
   - eastern-angles
 start_date: '2023-04-03 09:30'

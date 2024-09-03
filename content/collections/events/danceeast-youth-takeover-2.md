@@ -6,7 +6,6 @@ title: 'DanceEast Youth Takeover (Duplicated) (2)'
 event_categories:
   - art
   - drama
-  - performance
 organisers:
   - danceeast
 start_date: '2022-07-09 10:00'

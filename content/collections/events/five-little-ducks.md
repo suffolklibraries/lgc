@@ -202,7 +202,6 @@ updated_at: 1721136032
 duplicated_from: 7f340577-8586-4f78-8737-2ed3788be380
 event_categories:
   - literature
-  - performance
   - early-years
 featured_image: offthepressimages/new_resized_images/Early-Years.png
 cta: |-

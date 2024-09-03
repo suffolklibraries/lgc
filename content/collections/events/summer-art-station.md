@@ -6,7 +6,6 @@ title: 'Summer Holiday Activities with The Art Station'
 event_categories:
   - art
   - wellbeing
-  - performance
 organisers:
   - the-art-station
 start_date: '2024-07-31 09:30'

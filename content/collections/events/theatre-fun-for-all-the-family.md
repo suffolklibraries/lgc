@@ -7,7 +7,6 @@ event_categories:
   - art
   - community
   - literature
-  - performance
 organisers:
   - cambridge-touring-productions
   - suffolk-libraries

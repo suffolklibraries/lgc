@@ -6,7 +6,6 @@ title: 'The Whole Shebang Open Mic Night (Duplicated)'
 event_categories:
   - literature
   - music
-  - performance
 organisers:
   - john-peel-centre
 start_date: '2022-12-16 19:30'

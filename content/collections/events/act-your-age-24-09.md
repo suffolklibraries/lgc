@@ -8,7 +8,6 @@ virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1721848827
 event_categories:
-  - performance
   - later-life
 organisers:
   - theatre-royal

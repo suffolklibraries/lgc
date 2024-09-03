@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Stowmarket Youth Theatre's Twelfth Night"
 event_categories:
-  - performance
   - community
   - family-friendly
 start_date: '2024-07-14 14:00'

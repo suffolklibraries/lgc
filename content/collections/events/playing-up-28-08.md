@@ -10,7 +10,6 @@ start_date: '2024-08-28 13:30'
 end_date: '2024-08-28 15:30'
 event_categories:
   - languages
-  - performance
 free: true
 virtual: false
 organisers:

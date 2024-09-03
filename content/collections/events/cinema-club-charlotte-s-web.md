@@ -5,7 +5,6 @@ blueprint: events
 title: "Cinema Club: Charlotte's Web"
 event_categories:
   - literature
-  - performance
 organisers:
   - suffolk-archives
 start_date: '2022-08-21 10:30'

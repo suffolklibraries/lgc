@@ -8,7 +8,6 @@ updated_at: 1716893676
 start_date: '2024-09-04 13:30'
 end_date: '2024-09-04 15:30'
 event_categories:
-  - performance
   - languages
 free: true
 virtual: false

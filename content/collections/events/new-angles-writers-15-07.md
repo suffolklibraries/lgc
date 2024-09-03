@@ -3,8 +3,6 @@ id: eabc6c02-cd78-4436-9926-ed11f5832357
 published: false
 blueprint: events
 title: 'New Angles Writers Club'
-event_categories:
-  - performance
 organisers:
   - eastern-angles
 featured_image: offthepressimages/new_resized_images/Literature.png

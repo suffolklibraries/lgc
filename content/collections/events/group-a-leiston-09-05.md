@@ -6,7 +6,6 @@ title: 'Group A - Youth Vocal Group in Leiston'
 event_categories:
   - languages
   - music
-  - performance
 organisers:
   - britten-pears-arts
 start_date: '2024-05-09 16:30'

@@ -7,7 +7,6 @@ event_categories:
   - art
   - festival
   - music
-  - performance
 organisers:
   - first-light-festival
 start_date: '2023-06-17 12:00'

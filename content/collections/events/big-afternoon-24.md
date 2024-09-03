@@ -9,7 +9,6 @@ updated_at: 1712575131
 start_date: '2024-05-25 14:00'
 end_date: '2024-05-25 16:00'
 event_categories:
-  - performance
   - music
 free: true
 virtual: false
