@@ -3,8 +3,6 @@ id: ae935e5e-1ebb-4799-a241-ab648e48a230
 published: false
 blueprint: events
 title: 'Walks: Ipswich Theatres and Halls (Duplicated)'
-event_categories:
-  - history
 organisers:
   - ipswich-tourist-guide-association
 featured_image: offthepressimages/new_resized_images/Teen.png

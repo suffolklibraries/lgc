@@ -3,8 +3,6 @@ id: ad73a0d5-5765-4461-963a-4306fdbd094b
 published: false
 blueprint: events
 title: 'Walks: East of Ipswich (Duplicated) (2)'
-event_categories:
-  - history
 organisers:
   - ipswich-tourist-guide-association
 start_date: '2023-05-30 14:00'

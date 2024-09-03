@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Springtime Family Activities'
 event_categories:
-  - history
   - art
 organisers:
   - st-edmundsbury-cathedral

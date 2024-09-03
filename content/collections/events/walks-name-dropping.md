@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Name Dropping'
 event_categories:
-  - history
   - languages
 organisers:
   - ipswich-tourist-guide-association

@@ -3,8 +3,6 @@ id: f7b071f5-a195-4728-86bf-f8acb2febb9c
 published: false
 blueprint: events
 title: 'Walks: Waterfront Wander (Duplicated)'
-event_categories:
-  - history
 organisers:
   - ipswich-tourist-guide-association
 start_date: '2023-06-06 14:00'

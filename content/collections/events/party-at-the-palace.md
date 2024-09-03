@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Party at the Palace'
 event_categories:
-  - history
   - museums
 organisers:
   - national-horse-racing-museum

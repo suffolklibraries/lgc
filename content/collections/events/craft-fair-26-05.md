@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Craft Fayre & WW2 Operations Room Open Day'
 event_categories:
-  - history
   - museums
   - art
 organisers:

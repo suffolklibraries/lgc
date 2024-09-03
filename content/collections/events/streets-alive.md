@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Streets Alive!'
 event_categories:
-  - history
   - performance
 organisers:
   - eastern-angles

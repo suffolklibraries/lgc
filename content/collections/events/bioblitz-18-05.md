@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Bury BioBlitz'
 event_categories:
-  - history
   - museums
   - art
 organisers:

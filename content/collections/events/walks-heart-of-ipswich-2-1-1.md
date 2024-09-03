@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Ipswich UK to Ipswich USA (Duplicated)'
 event_categories:
-  - history
   - languages
 organisers:
   - ipswich-tourist-guide-association

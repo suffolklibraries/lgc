@@ -5,7 +5,6 @@ blueprint: events
 title: 'The Work Furnace: Workshop (Duplicated)'
 event_categories:
   - art
-  - history
 organisers:
   - eastern-angles
 start_date: '2023-05-31 10:00'

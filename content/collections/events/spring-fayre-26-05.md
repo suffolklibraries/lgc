@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Our Bury St Edmunds Spring Fayre'
 event_categories:
-  - history
   - art
   - community
 organisers:

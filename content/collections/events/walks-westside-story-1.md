@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Westside Story'
 event_categories:
-  - history
   - dance
 organisers:
   - the-hold

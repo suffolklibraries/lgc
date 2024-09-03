@@ -5,7 +5,6 @@ blueprint: events
 title: 'Father’s Day Model Railway Show'
 event_categories:
   - exhibition
-  - history
 start_date: '2022-06-19 10:00'
 end_date: '2022-06-19 16:00'
 free: false

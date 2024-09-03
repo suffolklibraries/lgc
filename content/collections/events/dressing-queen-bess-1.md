@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: "Let's Get Crafty: Environment"
 event_categories:
-  - history
   - art
   - nature
 organisers:

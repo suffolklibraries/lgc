@@ -3,8 +3,6 @@ id: bdbcc568-aa7d-448b-9bbd-f2a88e891103
 published: false
 blueprint: events
 title: 'Suffolk Archives - Behind the Scenes Tour at The Hold (Duplicated)'
-event_categories:
-  - history
 organisers:
   - the-hold
   - suffolk-archives

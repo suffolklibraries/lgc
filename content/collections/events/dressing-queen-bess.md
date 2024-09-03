@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Dressing Queen Bess'
 event_categories:
-  - history
   - languages
   - museums
 organisers:

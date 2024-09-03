@@ -58,7 +58,6 @@ content_area:
 updated_by: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_at: 1648033808
 event_categories:
-  - history
   - movement
 featured_image: offthepressimages/Outside-Venue-1521-x-834.png
 end_date: '2022-03-26 14:00'

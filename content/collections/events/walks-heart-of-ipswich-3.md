@@ -3,8 +3,6 @@ id: ad0eb78d-d296-4d2f-992e-c45c97e27f97
 published: false
 blueprint: events
 title: 'Walks: Heart Of Ipswich (Duplicated) (3)'
-event_categories:
-  - history
 organisers:
   - ipswich-tourist-guide-association
 featured_image: offthepressimages/new_resized_images/Teen.png

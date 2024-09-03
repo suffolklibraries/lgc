@@ -3,8 +3,6 @@ id: fbb14072-a726-42ab-9d49-21f0da3aa720
 published: false
 blueprint: events
 title: 'Walks: To Holywells Park'
-event_categories:
-  - history
 organisers:
   - ipswich-tourist-guide-association
 start_date: '2023-05-11 14:00'

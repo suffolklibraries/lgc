@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'West Stow - A Celebration'
 event_categories:
-  - history
   - museums
 organisers:
   - west-stow-anglo-saxon-village

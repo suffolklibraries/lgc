@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'May Half-Term in the Yard'
 event_categories:
-  - history
   - art
   - family-friendly
 organisers:

@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Walks: Did Thomas Wolsey Drink Here?'
 event_categories:
-  - history
   - languages
 organisers:
   - ipswich-tourist-guide-association
