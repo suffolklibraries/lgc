@@ -5,7 +5,6 @@ blueprint: events
 title: 'Our Day Out - Sessions for Seniors (Duplicated)'
 event_categories:
   - art
-  - later-life
   - community
 organisers:
   - creative-arts-east

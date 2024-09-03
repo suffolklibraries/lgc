@@ -128,8 +128,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1716895168
 duplicated_from: a774c751-be2d-40e8-82f9-346e87f9feeb
-event_categories:
-  - later-life
 accessibility_information: '- Wheelchair access'
 ---
 A free and relaxing knit and natter

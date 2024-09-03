@@ -5,7 +5,6 @@ blueprint: events
 title: 'One Minute Volume Ten (Duplicated)'
 event_categories:
   - exhibition
-  - later-life
   - art
 organisers:
   - 303-projects-cic

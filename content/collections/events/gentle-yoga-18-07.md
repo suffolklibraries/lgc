@@ -3,8 +3,6 @@ id: 3e630a55-6f5d-4def-a8ca-35a9959a1305
 published: false
 blueprint: events
 title: 'Gentle Yoga'
-event_categories:
-  - later-life
 organisers:
   - cohere-arts
 start_date: '2024-07-18 13:00'

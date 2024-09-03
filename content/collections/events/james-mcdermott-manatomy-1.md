@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'James McDermott: Manatomy (Duplicated)'
 event_categories:
-  - later-life
   - literature
 organisers:
   - suffolk-libraries

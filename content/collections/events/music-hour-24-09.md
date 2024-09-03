@@ -9,7 +9,6 @@ start_date: '2024-09-24 13:30'
 end_date: '2024-09-24 15:00'
 event_categories:
   - music
-  - later-life
 free: false
 virtual: false
 organisers:

@@ -9,8 +9,6 @@ updated_at: 1680766622
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2023-04-17 13:00'
-event_categories:
-  - later-life
 free: false
 virtual: false
 organisers:

@@ -3,8 +3,6 @@ id: 09d0955b-1ff8-4613-96a3-489eb2de8d17
 published: false
 blueprint: events
 title: 'Dance Workshop for Older and Younger Dancers (Duplicated)'
-event_categories:
-  - later-life
 organisers:
   - danceeast
 start_date: '2022-12-04 10:00'

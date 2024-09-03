@@ -10,7 +10,6 @@ updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
 updated_at: 1683795173
 event_categories:
   - nature
-  - later-life
   - community
 organisers:
   - eastern-angles

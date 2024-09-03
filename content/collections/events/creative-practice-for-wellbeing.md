@@ -6,7 +6,6 @@ title: 'Creative Practice for Wellbeing'
 event_categories:
   - art
   - community
-  - later-life
 organisers:
   - rock-paper-scissors
 start_date: '2022-12-06 10:30'

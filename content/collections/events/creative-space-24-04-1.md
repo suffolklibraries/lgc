@@ -3,8 +3,6 @@ id: 6bc357c4-c083-4a1c-becc-f082b344ddbc
 published: false
 blueprint: events
 title: 'Creative Space - Creative Writing (Duplicated)'
-event_categories:
-  - later-life
 organisers:
   - cohere-arts
 start_date: '2024-04-24 18:00'

@@ -5,7 +5,6 @@ blueprint: events
 title: "What's Next for Stowmarket Exhibition (Duplicated)"
 event_categories:
   - community
-  - later-life
   - exhibition
 organisers:
   - mid-suffolk-district-council

@@ -7,8 +7,6 @@ free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1721848806
-event_categories:
-  - later-life
 organisers:
   - theatre-royal
 featured_image: offthepressimages/new_resized_images/Theatre.png

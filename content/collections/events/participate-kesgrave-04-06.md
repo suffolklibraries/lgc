@@ -137,7 +137,6 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 event_categories:
-  - later-life
   - music
   - museums
 booking_link: 'https://brittenpearsarts.org/events/participate-kesgrave'

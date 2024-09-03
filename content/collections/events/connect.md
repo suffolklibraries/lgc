@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: CONNECT
 event_categories:
-  - later-life
   - nature
 organisers:
   - suffolk-wildlife-trust

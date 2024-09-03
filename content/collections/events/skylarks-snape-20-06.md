@@ -167,7 +167,6 @@ cta: |-
 
   [01728687127](tel:01728687127)
 event_categories:
-  - later-life
   - music
 booking_link: 'https://brittenpearsarts.org/events/skylarks-2024-snape'
 featured_image: offthepressimages/new_resized_images/Music_singing.png

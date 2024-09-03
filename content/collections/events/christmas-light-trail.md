@@ -6,7 +6,6 @@ title: 'Christmas Light Trail'
 event_categories:
   - exhibition
   - nature
-  - later-life
 organisers:
   - national-horse-racing-museum
 start_date: '2022-12-15 16:00'

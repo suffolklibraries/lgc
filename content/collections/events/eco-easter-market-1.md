@@ -5,7 +5,6 @@ blueprint: events
 title: 'Eco Easter Market (Duplicated)'
 event_categories:
   - art
-  - later-life
 organisers:
   - suffolk-archives
 start_date: '2023-04-01 10:00'

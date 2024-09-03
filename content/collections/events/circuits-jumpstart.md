@@ -3,8 +3,6 @@ id: 4f3684fd-4107-44b0-8e32-f7230f190fc3
 published: false
 blueprint: events
 title: Circuits
-event_categories:
-  - later-life
 organisers:
   - suffolk-libraries
 start_date: '2023-01-19 11:00'

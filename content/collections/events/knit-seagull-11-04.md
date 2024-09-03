@@ -134,8 +134,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1712833066
 duplicated_from: d86fc786-2e9f-47f7-ac62-cd4523dac679
-event_categories:
-  - later-life
 accessibility_information: '- Wheelchair access'
 booking_link: 'https://theseagull.co.uk/2020/07/15/knit-and-natter/'
 ---

@@ -2,8 +2,6 @@
 id: 69f7afa4-326a-4fd9-93da-244ad5212e26
 blueprint: events
 title: 'Gentle Yoga - Woodbridge'
-event_categories:
-  - later-life
 organisers:
   - cohere-arts
 start_date: '2024-12-06 10:30'

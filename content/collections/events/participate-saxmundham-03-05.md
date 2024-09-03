@@ -156,7 +156,6 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 event_categories:
-  - later-life
   - music
 booking_link: 'https://brittenpearsarts.org/events/participate-2023-saxmundham'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'

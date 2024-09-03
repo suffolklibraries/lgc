@@ -8,8 +8,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1712216527
 start_date: '2024-04-26 10:00'
 end_date: '2024-04-26 11:15'
-event_categories:
-  - later-life
 free: false
 virtual: false
 organisers:

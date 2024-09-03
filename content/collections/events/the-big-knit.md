@@ -6,7 +6,6 @@ title: 'The Big Knit'
 event_categories:
   - art
   - languages
-  - later-life
 organisers:
   - first-light-festival
 start_date: '2023-04-12 10:00'

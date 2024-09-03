@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Gentle Seated Yoga to Music'
 event_categories:
-  - later-life
   - community
 organisers:
   - cohere-arts

@@ -6,7 +6,6 @@ title: 'Creative Lives: Purple Foliate Faces with Lois (Duplicated)'
 event_categories:
   - art
   - community
-  - later-life
 start_date: '2023-02-22 14:00'
 end_date: '2023-02-22 16:00'
 free: true

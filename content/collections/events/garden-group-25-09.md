@@ -6,7 +6,6 @@ event_categories:
   - nature
   - community
   - wellbeing
-  - later-life
 organisers:
   - home-instead
 featured_image: offthepressimages/gardentools.png

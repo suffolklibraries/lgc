@@ -3,8 +3,6 @@ id: d11bdbae-a432-4111-9557-3f380a44e3ba
 published: false
 blueprint: events
 title: 'Creative Space - Visual Art'
-event_categories:
-  - later-life
 organisers:
   - cohere-arts
 start_date: '2024-04-19 13:30'

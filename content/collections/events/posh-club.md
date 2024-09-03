@@ -6,7 +6,6 @@ title: 'The Posh Club'
 event_categories:
   - community
   - food
-  - later-life
 organisers:
   - spill-festival
 start_date: '2024-06-04 12:00'

@@ -5,7 +5,6 @@ blueprint: events
 title: 'Together Tuesday'
 event_categories:
   - community
-  - later-life
 organisers:
   - abbeycroft-leisure
 start_date: '2022-09-20 14:00'

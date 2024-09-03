@@ -5,7 +5,6 @@ blueprint: events
 title: "It's Not Over Yet. Exhibition opening by Duncan McAfee."
 event_categories:
   - exhibition
-  - later-life
   - art
 organisers:
   - 303-projects-cic

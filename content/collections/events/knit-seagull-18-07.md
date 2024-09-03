@@ -129,7 +129,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1716895563
 duplicated_from: a08ee4a2-0aaf-4f9f-b879-71872c072570
 event_categories:
-  - later-life
   - art
 accessibility_information: '- Wheelchair access'
 ---

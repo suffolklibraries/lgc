@@ -6,7 +6,6 @@ title: 'Computers For Beginners - Free evening course (Duplicated)'
 event_categories:
   - computing
   - languages
-  - later-life
 organisers:
   - west-suffolk-college
 start_date: '2023-01-12 18:00'

@@ -8,8 +8,6 @@ updated_by: d0ee360c-4db7-4ecf-9024-8e35603daaef
 updated_at: 1684830835
 start_date: '2023-05-26 10:00'
 end_date: '2023-05-26 11:30'
-event_categories:
-  - later-life
 free: false
 virtual: false
 organisers:

@@ -3,8 +3,6 @@ id: 06144d6c-0d13-4955-802c-3914d23f5a34
 published: false
 blueprint: events
 title: 'Circuits (Duplicated)'
-event_categories:
-  - later-life
 organisers:
   - suffolk-libraries
 start_date: '2023-01-19 11:00'

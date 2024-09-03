@@ -10,7 +10,6 @@ start_date: '2024-06-21 13:30'
 end_date: '2024-06-21 15:00'
 event_categories:
   - music
-  - later-life
 free: false
 virtual: false
 organisers:

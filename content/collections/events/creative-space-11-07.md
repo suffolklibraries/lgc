@@ -3,8 +3,6 @@ id: c8be3f9c-e3f8-4413-8500-36552495709b
 published: false
 blueprint: events
 title: 'Creative Space - Singing and Breath Work'
-event_categories:
-  - later-life
 organisers:
   - cohere-arts
 start_date: '2024-07-11 18:30'

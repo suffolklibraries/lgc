@@ -155,7 +155,6 @@ cta: |-
 
   [01728687127](tel:01728687127)
 event_categories:
-  - later-life
   - music
 booking_link: 'https://brittenpearsarts.org/events/skylarks-2023-snape'
 featured_image: 'brittenpearsartsimages/Participate,-November-2021,-By-Marcus-Roth,-Britten-Pears-Arts-(59)-1642176901.jpg'

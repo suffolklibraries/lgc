@@ -4,7 +4,6 @@ published: false
 blueprint: events
 title: 'Talking shop - Meet the agent'
 event_categories:
-  - later-life
   - languages
   - literature
 organisers:

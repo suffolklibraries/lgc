@@ -2,8 +2,6 @@
 id: bf1af10e-370a-4ac6-af37-8a932abe70a7
 blueprint: events
 title: 'Gentle Yoga - virtual'
-event_categories:
-  - later-life
 organisers:
   - cohere-arts
 start_date: '2024-10-17 13:00'

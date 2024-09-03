@@ -8,8 +8,6 @@ updated_by: a7fabfbc-be93-4390-9bfe-3a08c02f87a1
 updated_at: 1680716574
 start_date: '2022-11-17 11:00'
 end_date: '2022-11-17 12:00'
-event_categories:
-  - later-life
 free: false
 virtual: false
 organisers:
