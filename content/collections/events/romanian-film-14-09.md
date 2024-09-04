@@ -1,12 +1,11 @@
 ---
 id: 203c23dc-3bd3-4b49-b08b-98295c7074aa
-published: false
 blueprint: events
-title: 'Romanian Film Festival - Chuck Norris vs Communism (Duplicated)'
+title: 'Romanian Film Festival - Two Lottery Tickets'
 organisers:
   - suffolk-libraries
-start_date: '2024-09-13 19:00'
-end_date: '2024-09-13 21:00'
+start_date: '2024-09-14 19:00'
+end_date: '2024-09-14 21:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
@@ -39,7 +38,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About '
+        text: "About\_"
       -
         type: text
         marks:
@@ -47,40 +46,19 @@ content_area:
             type: bold
           -
             type: italic
-        text: 'Chuck Norris vs Communism:'
+        text: 'Two Lottery Tickets:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "In communist Romania, thousands of Western films on bootleg VHS tapes — mostly Hollywood action movies \_— were smuggled behind the Iron Curtain, opening a window into the free world."
+        text: "When Dinel and his friends – Pompiliu, a lazy official and Sile, a gambler – win the lottery jackpot, everything seems to change for the three of them, until some wannabe gangsters get their hands on Dinel’s bag with the lottery ticket still inside. Stripped of their fortune, they ask the police for help, but are not taken seriously. The three unlucky fellows have no choice but to hunt down the mobsters on their own.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Under President Nicolae Ceaușescu, Romania was culturally isolated and ideologically censored. Images of life outside its borders were cut off and TV was reduced to propaganda bulletins. From the drab concrete housing blocks to the food ration lines, the threat of surveillance prevented people from stepping out of line.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'But in the mid-1980s, under the nose of the Securitate, Ceaușescu’s secret police, thousands of Hollywood films were smuggled into the country by an underground operative named Zamfir, and they were all covertly dubbed by Irina Nistor, a courageous translator whose distinct voice captivated the nation and became a symbol of freedom.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "As we see through evocative re-creations in\_"
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Chuck Norris vs Communism'
-      -
-        type: text
-        text: ', a network of secret screening rooms sprung up across Romania as families, friends, and neighbors gathered to watch action heroes like Norris, Van Damme, and Stallone, along with romantic comedies, dramas, and Hollywood epics. While the stories captured the imagination, it was the lavish settings and backdrops that mesmerized the audience.'
+        text: 'With his low-budget film, Director Paul Negoescu delivers a highly-entertaining road movie, which not only identifies all kinds of social shortcomings along the way, but also gives deep insight into the Romanian soul. No surprise that Two Lottery Tickets became a crowdpleaser in its country of origin!'
   -
     type: paragraph
     content:
@@ -91,13 +69,13 @@ content_area:
             type: bold
           -
             type: italic
-        text: 'Chuck Norris vs. Communism'
+        text: 'Two Lottery Tickets'
       -
         type: text
         marks:
           -
             type: bold
-        text: ' is rated 12+.'
+        text: ' has a suggested rating of 15+.'
   -
     type: paragraph
     content:
@@ -130,14 +108,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-chuck-norris-vs-communism-2015'
+              href: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-two-lottery-tickets-2018'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: .
+        text: 'Suffolk Libraries website.'
   -
     type: paragraph
     content:
@@ -261,7 +236,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725434839
+updated_at: 1725435187
 duplicated_from: f72bd143-5112-43cd-adea-04fba73c1898
 event_categories:
   - film
@@ -275,6 +250,6 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-chuck-norris-vs-communism-2015'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-two-lottery-tickets-2018'
 ---
-Join us for a screening of the documentary Chuck Norris vs. Communism (2015), as part of our Romanian Film Festival!
+Join us for a screening of the comedy film Two Lottery Tickets (2018), as part of our Romanian Film Festival!
