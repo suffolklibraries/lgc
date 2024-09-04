@@ -1,12 +1,11 @@
 ---
 id: e9851cd9-b80f-4261-a551-e2608d55857d
-published: false
 blueprint: events
-title: 'Romanian Film Festival - Two Lottery Tickets (Duplicated)'
+title: 'Romanian Film Festival - The Oak'
 organisers:
   - suffolk-libraries
-start_date: '2024-09-14 19:00'
-end_date: '2024-09-14 21:00'
+start_date: '2024-09-15 16:30'
+end_date: '2024-09-15 18:30'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
@@ -39,7 +38,7 @@ content_area:
         marks:
           -
             type: bold
-        text: "About\_"
+        text: 'About '
       -
         type: text
         marks:
@@ -47,19 +46,19 @@ content_area:
             type: bold
           -
             type: italic
-        text: 'Two Lottery Tickets:'
+        text: 'The Oak:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "When Dinel and his friends – Pompiliu, a lazy official and Sile, a gambler – win the lottery jackpot, everything seems to change for the three of them, until some wannabe gangsters get their hands on Dinel’s bag with the lottery ticket still inside. Stripped of their fortune, they ask the police for help, but are not taken seriously. The three unlucky fellows have no choice but to hunt down the mobsters on their own.\_"
+        text: "Apocalypse is now in this edgy, extravagant and savagely funny depiction of Romania in the last stages of Ceauşescu’s monstrous Communist dictatorship. The beautiful and recklessly defiant Nela, whose secret police father has just died, sets off into the desolate countryside with the father’s ashes in a coffee jar. When she arrives at a run-down, overcrowded hospital, Nela embarks on a makeshift love affair with a brilliant, rude and irreverent doctor.\_"
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'With his low-budget film, Director Paul Negoescu delivers a highly-entertaining road movie, which not only identifies all kinds of social shortcomings along the way, but also gives deep insight into the Romanian soul. No surprise that Two Lottery Tickets became a crowdpleaser in its country of origin!'
+        text: 'Iconic director Lucian Pintilie is often called "the godfather of the Romanian New Wave" (Guardian).'
   -
     type: paragraph
     content:
@@ -70,25 +69,13 @@ content_area:
             type: bold
           -
             type: italic
-        text: 'Two Lottery Tickets'
+        text: "The Oak\_"
       -
         type: text
         marks:
           -
             type: bold
-        text: ' has a suggested rating of 15+.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "This event has been organised in collaboration with the Ipswich Romanian Community and has been generously funded by The Europe Challenge.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Please arrive on the Ground Floor of the library at 7PM for a drinks reception and talks with guest speakers.'
+        text: 'has a suggested rating of 15+.'
   -
     type: heading
     attrs:
@@ -109,7 +96,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-two-lottery-tickets-2018'
+              href: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-the-oak-1992'
               rel: null
               target: _blank
               title: null
@@ -237,7 +224,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725435187
+updated_at: 1725435452
 duplicated_from: 203c23dc-3bd3-4b49-b08b-98295c7074aa
 event_categories:
   - film
@@ -251,6 +238,6 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-two-lottery-tickets-2018'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-the-oak-1992'
 ---
-Join us for a screening of the comedy film Two Lottery Tickets (2018), as part of our Romanian Film Festival!
+Join us for a screening of the comedy drama film The Oak (1992), as part of our Romanian Film Festival!
