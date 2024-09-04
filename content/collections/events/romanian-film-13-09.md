@@ -1,13 +1,12 @@
 ---
 id: f72bd143-5112-43cd-adea-04fba73c1898
-published: false
 blueprint: events
-title: 'Ipswich 100: author event with Kate Thompson (Duplicated)'
+title: 'Romanian Film Festival - Chuck Norris vs Communism'
 organisers:
   - suffolk-libraries
-start_date: '2024-08-27 19:30'
-end_date: '2024-08-27 20:30'
-free: false
+start_date: '2024-09-13 19:00'
+end_date: '2024-09-13 21:00'
+free: true
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
 latitude: '52.05888302273206'
@@ -30,81 +29,86 @@ content_area:
     content:
       -
         type: text
-        text: 'Kate will be talking to us about her career so far and her two novels, '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3150297'
-              rel: null
-              target: null
-              title: null
-          -
-            type: italic
-        text: 'The Little Wartime Library'
-      -
-        type: text
-        text: ' and '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://suffolk.spydus.co.uk/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=&BRN=3444918'
-              rel: null
-              target: null
-              title: null
-          -
-            type: italic
-        text: 'The Wartime Book Club'
-      -
-        type: text
-        text: .
+        text: 'Celebrate Romanian cinema and culture with a selection of films and documentaries at Ipswich County Library over the weekend.'
   -
     type: paragraph
     content:
       -
         type: text
+        marks:
+          -
+            type: bold
         text: 'About '
       -
         type: text
         marks:
           -
+            type: bold
+          -
             type: italic
-        text: 'The Little Wartime Library'
-      -
-        type: text
-        text: ':'
+        text: 'Chuck Norris vs Communism:'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Clara Button is no ordinary librarian. While the world remains at war, in East London Clara has created the country's only underground library, built over the tracks in the disused Bethnal Green tube station. Down here a secret community thrives: with thousands of bunk beds, a nursery, a café and a theatre offering shelter, solace and escape from the bombs that fall above."
+        text: "In communist Romania, thousands of Western films on bootleg VHS tapes — mostly Hollywood action movies \_— were smuggled behind the Iron Curtain, opening a window into the free world."
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Along with her glamorous best friend and library assistant Ruby Munroe, Clara ensures the library is the beating heart of life underground. But as the war drags on, the women's determination to remain strong in the face of adversity is tested to the limits when it seems it may come at the price of keeping those closest to them alive."
+        text: 'Under President Nicolae Ceaușescu, Romania was culturally isolated and ideologically censored. Images of life outside its borders were cut off and TV was reduced to propaganda bulletins. From the drab concrete housing blocks to the food ration lines, the threat of surveillance prevented people from stepping out of line.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Based on true events, '
+        text: 'But in the mid-1980s, under the nose of the Securitate, Ceaușescu’s secret police, thousands of Hollywood films were smuggled into the country by an underground operative named Zamfir, and they were all covertly dubbed by Irina Nistor, a courageous translator whose distinct voice captivated the nation and became a symbol of freedom.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "As we see through evocative re-creations in\_"
       -
         type: text
         marks:
           -
             type: italic
-        text: 'The Little Wartime Library'
+        text: 'Chuck Norris vs Communism'
       -
         type: text
-        text: ' is a gripping and heart-wrenching page-turner that remembers one of the greatest resistance stories of the war.'
+        text: ', a network of secret screening rooms sprung up across Romania as families, friends, and neighbors gathered to watch action heroes like Norris, Van Damme, and Stallone, along with romantic comedies, dramas, and Hollywood epics. While the stories captured the imagination, it was the lavish settings and backdrops that mesmerized the audience.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'Chuck Norris vs. Communism'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' is rated 12+.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "This event has been organised in collaboration with the Ipswich Romanian Community and has been generously funded by The Europe Challenge.\_"
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please arrive on the Ground Floor of the library at 7PM for a drinks reception and talks with guest speakers.'
   -
     type: heading
     attrs:
@@ -118,14 +122,14 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your ticket on the '
+        text: 'Booking is required - reserve your space via the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/whats-on/ipswich-100-author-event-with-kate-thompson'
+              href: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-chuck-norris-vs-communism-2015'
               rel: null
               target: _blank
               title: null
@@ -133,6 +137,12 @@ content_area:
       -
         type: text
         text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'All screenings will be free to attend, but donations to Ipswich Romanian Community and Suffolk Libraries are welcome. '
   -
     type: heading
     attrs:
@@ -250,11 +260,12 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1714657166
+updated_at: 1725434839
 duplicated_from: 7f340577-8586-4f78-8737-2ed3788be380
 event_categories:
-  - literature
-featured_image: offthepressimages/new_resized_images/Literature.png
+  - film
+  - community
+featured_image: offthepressimages/new_resized_images/Film_resized.png
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -263,7 +274,6 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-cost_details: £5
-booking_link: 'https://www.suffolklibraries.co.uk/whats-on/ipswich-100-author-event-with-kate-thompson'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/film-screening-of-chuck-norris-vs-communism-2015'
 ---
-Join us for an author event with Kate Thompson as part of Ipswich 100, a celebration of Ipswich Library's centenary!
+Join us for a screening of the documentary Chuck Norris vs. Communism (2015), as part of our Romanian Film Festival!
