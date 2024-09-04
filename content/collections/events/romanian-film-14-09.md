@@ -4,8 +4,8 @@ blueprint: events
 title: 'Romanian Film Festival - Two Lottery Tickets'
 organisers:
   - suffolk-libraries
-start_date: '2024-09-14 19:00'
-end_date: '2024-09-14 21:00'
+start_date: '2024-09-14 17:30'
+end_date: '2024-09-14 19:00'
 free: true
 virtual: false
 accessibility_information: '- Wheelchair Friendly'
@@ -82,12 +82,6 @@ content_area:
       -
         type: text
         text: "This event has been organised in collaboration with the Ipswich Romanian Community and has been generously funded by The Europe Challenge.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Please arrive on the Ground Floor of the library at 7PM for a drinks reception and talks with guest speakers.'
   -
     type: heading
     attrs:
@@ -236,7 +230,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725435187
+updated_at: 1725435499
 duplicated_from: f72bd143-5112-43cd-adea-04fba73c1898
 event_categories:
   - film
