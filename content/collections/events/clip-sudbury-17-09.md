@@ -1,27 +1,27 @@
 ---
 id: c134d9d5-03c4-483c-a5ed-f2c14c41409d
-published: false
 blueprint: events
-title: 'Blank Page - Sudbury (Duplicated)'
+title: 'CLIP Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720005355
-latitude: '52.038186464611634'
-longitude: '0.7299956222161745'
-start_date: '2024-07-22 09:45'
+updated_at: 1725549036
+latitude: '52.03876816283207'
+longitude: '0.7313807819119865'
+start_date: '2024-09-19 17:30'
 event_categories:
-  - art
+  - music
   - computing
+  - teen
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
-address_line_1: 'Sudbury Library'
+  - clip
+address_line_1: 'Sudbury Arts Centre'
 address_line_2: 'Market Hill'
 town: Sudbury
-postcode: 'CO10 2EN'
-featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+postcode: 'CO10 2EA'
+featured_image: offthepressimages/music.png
+attendance_information: '- Ages 11 - 19'
 content_area:
   -
     type: heading
@@ -36,33 +36,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
+        text: 'A weekly club for young musicians to experiment with musical tech, play sound and music games and work collaboratively in a fun and supportive musical environment.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
+        text: 'Absolutely no musical experience or equipment needed - just bring yourself!'
   -
     type: heading
     attrs:
@@ -76,18 +56,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Choose your workshop and book your place through the '
+        text: 'For more information, please contact'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
+              href: 'mailto:info@clipsoundandmusic.uk'
+              rel: noopener
+              target: null
+              title: 'mailto:info@clipsoundandmusic.uk'
+        text: ' info@clipsoundandmusic.uk'
       -
         type: text
         text: .
@@ -104,7 +84,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury Library is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Sudbury Arts Centre is a one minute walk from the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: "https://www.google.com/maps/place/Post+Office/@52.0390059,0.7290549,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d85572debceccf:0xe403bdb3949223c3!2sPost+Office,+Sudbury+CO10+1RF!2m2!1d0.731874!2d52.039402!1m6!1m2!1s0x47d855731b7ce873:0x7277a1b5616dca22!2sSudbury+Arts+Centre,+Arts+Centre+(St+Peter's,+Market+Hill,+Sudbury+CO10+2EA!2m2!1d0.7314094!2d52.0386735!3e2!3m5!1s0x47d85572debceccf:0xe403bdb3949223c3!8m2!3d52.039402!4d0.731874!16s%2Fg%2F1q67mf02b?entry=ttu&g_ep=EgoyMDI0MDkwMi4xIKXMDSoASAFQAw%3D%3D"
+              rel: null
+              target: _blank
+              title: null
+        text: 'nearest bus stop'
+      -
+        type: text
+        text: ', and you can find up-to-date times on the '
       -
         type: text
         marks:
@@ -124,7 +118,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
+        text: 'Sudbury railway station is an eight minute walk away and you can find times on the '
       -
         type: text
         marks:
@@ -144,7 +138,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The nearest paid parking is a seven minute walk away at'
+        text: 'The nearest paid parking is a three minute walk away at'
       -
         type: text
         marks:
@@ -180,18 +174,12 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by CLIP
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://www.clipsoundandmusic.uk/](https://www.clipsoundandmusic.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-end_date: '2024-08-12 15:30'
+  [info@clipsoundandmusic.uk](mailto:info@clipsoundandmusic.uk)
+end_date: '2024-09-19 19:30'
 duplicated_from: 46578f2b-d22b-4f9e-a201-837fb3667ee6
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+A weekly club for young musicians to play with musical tech!
