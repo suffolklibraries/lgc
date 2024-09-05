@@ -4,10 +4,10 @@ blueprint: events
 title: 'CLIP Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725549300
+updated_at: 1725549415
 latitude: '52.03876816283207'
 longitude: '0.7313807819119865'
-start_date: '2024-10-29 17:30'
+start_date: '2024-12-03 17:30'
 event_categories:
   - music
   - computing
@@ -179,7 +179,7 @@ cta: |-
   [https://www.clipsoundandmusic.uk/](https://www.clipsoundandmusic.uk/) 
 
   [info@clipsoundandmusic.uk](mailto:info@clipsoundandmusic.uk)
-end_date: '2024-10-29 19:30'
+end_date: '2024-11-05 19:30'
 duplicated_from: 4bc6db2d-0809-43ef-bfa9-2b2162ebaf0a
 ---
 A weekly club for young musicians to play with musical tech!
