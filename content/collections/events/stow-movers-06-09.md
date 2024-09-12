@@ -1,5 +1,6 @@
 ---
 id: bed97be8-6c45-413f-91d9-cb958f7c77a8
+published: false
 blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
