@@ -1,5 +1,6 @@
 ---
 id: 32d8fef8-4409-47cb-bab8-f1216e1fdbc8
+published: false
 blueprint: events
 title: 'Friends Around the Table - Haverhill Carers Group'
 organisers:
