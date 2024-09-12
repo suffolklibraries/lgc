@@ -1,5 +1,6 @@
 ---
 id: a0da9b59-e78d-46c9-aa1d-de19863d1f4f
+published: false
 blueprint: events
 title: 'Art Market'
 event_categories:
