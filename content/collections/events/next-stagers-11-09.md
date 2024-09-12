@@ -1,5 +1,6 @@
 ---
 id: 4f716ac0-c964-4907-a499-5612adadec31
+published: false
 blueprint: events
 title: 'Next Stagers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
