@@ -1,5 +1,6 @@
 ---
 id: 98b1c21a-b38b-4689-b6ea-dca8126b59da
+published: false
 blueprint: events
 title: 'VI Arts Taster Programme - Seated Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
