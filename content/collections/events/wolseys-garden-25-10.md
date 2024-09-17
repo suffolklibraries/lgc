@@ -35,6 +35,9 @@ content_area:
     content:
       -
         type: text
+        text: 'Join us as '
+      -
+        type: text
         marks:
           -
             type: link
@@ -170,7 +173,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1726570946
+updated_at: 1726570978
 duplicated_from: fe7d9c0a-a391-406b-9b7f-39834b6a30ea
 event_categories:
   - nature
