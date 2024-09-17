@@ -1,5 +1,6 @@
 ---
 id: e3a97468-251e-4682-adaf-26814f1a1161
+published: false
 blueprint: events
 title: 'Strictly Saturdays'
 organisers:
