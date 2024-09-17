@@ -1,5 +1,6 @@
 ---
 id: 6c18531b-ea4a-4062-9d06-037f58158e4e
+published: false
 blueprint: events
 title: 'Rock Paper Stitch'
 event_categories:
