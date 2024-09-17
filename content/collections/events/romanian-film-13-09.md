@@ -1,5 +1,6 @@
 ---
 id: f72bd143-5112-43cd-adea-04fba73c1898
+published: false
 blueprint: events
 title: 'Romanian Film Festival - Chuck Norris vs Communism'
 organisers:
