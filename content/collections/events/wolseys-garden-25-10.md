@@ -49,7 +49,7 @@ content_area:
         text: 'Make Play'
       -
         type: text
-        text: ', local arts organisation, are bringing their history-inspired garden. This playscape is a unique play experience for families with children under 5 to explore. '
+        text: ', local arts organisation, are bring their history-inspired garden. This playscape is a unique play experience for families with children under 5 to explore. '
   -
     type: paragraph
     content:
@@ -173,7 +173,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1726570978
+updated_at: 1726571531
 duplicated_from: fe7d9c0a-a391-406b-9b7f-39834b6a30ea
 event_categories:
   - nature
