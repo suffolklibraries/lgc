@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <img class="max-w-xs mx-auto pt-20" src="/img/logo.svg" alt="Suffolk Libraries Logo" />
+    <img class="max-w-xs mx-auto pt-20" src="/img/logo.png" alt="Suffolk Libraries Logo" />
     <h1 class="mb-6 text-center text-gray-800" style="padding-top:20px">{{ $title }}</h1>
 
 
