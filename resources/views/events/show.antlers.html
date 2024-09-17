@@ -102,7 +102,24 @@
 
   <div class="o-flow o-flow--l">
     {{ if featured_image }}
-        {{ glide:featured_image width="1251" height="834" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}
+        <picture>
+            <source
+                src="{{ glide:featured_image h="550" w="821" q="80" fit="contain" format="webp" }}"
+                type="image/webp"
+            />
+            <source
+                src="{{ glide:featured_image h="550" w="821" q="80" fit="contain" format="jpg" }}"
+                type="image/jpg"
+            />
+            <img
+                src="{{ glide:featured_image h="550" w="821" q="80" fit="contain" }}"
+                alt="{{ featured_image:alt }}"
+                loading="eager"
+                height="821"
+                width="1251"
+                class="tw-bg-slate-200"
+            >
+        </picture>
     {{ else }}
         <img
             src="https://place-hold.it/1251x834&fontsize=32"

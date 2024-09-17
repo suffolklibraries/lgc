@@ -1,9 +1,9 @@
 <header class="c-page-header c-page-header--with-content c-page-header--standfirst">
   <div class="o-wrap">
-    
+
     <div class="headline o-flow">
       <h1>{{ title }}</h1>
-      
+
       <div class="u-flow step-1 o-wrap--prose">
         {{ content }}
       </div>
@@ -14,11 +14,26 @@
       {{ spotlights }}
         <div class="c-page-header_content">
           {{ if featured_image }}
-            {{ glide:featured_image width="1251" height="834" }}
-              <figure class="c-page-header_content-image">
-                <img src="{{ url }}" alt="{{ alt }}" />
-              </figure>
-            {{ /glide:featured_image }}
+            <figure class="c-page-header_content-image">
+                <picture>
+                    <source
+                        src="{{ glide:featured_image h="490" w="730" q="80" fit="contain" format="webp" }}"
+                        type="image/webp"
+                    />
+                    <source
+                        src="{{ glide:featured_image h="490" w="730" q="80" fit="contain" format="jpg" }}"
+                        type="image/jpg"
+                    />
+                    <img
+                        src="{{ glide:featured_image h="490" w="730" q="80" fit="contain" }}"
+                        alt="{{ featured_image:alt }}"
+                        loading="eager"
+                        height="490"
+                        width="730"
+                        class="tw-bg-slate-200"
+                    >
+                </picture>
+            </figure>
           {{ /if }}
           <div class="o-flow o-flow--xs c-page-header_content-wrapper">
             <header>
