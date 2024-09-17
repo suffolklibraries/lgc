@@ -1,7 +1,7 @@
 ---
 id: 26c77eb2-04bb-409c-bba4-540119537016
 blueprint: events
-title: 'Sensory Play Day (Duplicated)'
+title: "Wolsey's Garden"
 organisers:
   - suffolk-libraries
 start_date: '2024-10-25 10:00'
@@ -170,7 +170,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1726570413
+updated_at: 1726570946
 duplicated_from: fe7d9c0a-a391-406b-9b7f-39834b6a30ea
 event_categories:
   - nature
