@@ -2,14 +2,15 @@
 
 namespace App\Http\Controllers;
 
-use App\Http\Requests\SavedAddress\DeleteRequest;
 use Statamic\View\View;
 use Illuminate\Support\Str;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Http\RedirectResponse;
+use Statamic\Modifiers\CoreModifiers;
 use Statamic\Taxonomies\LocalizedTerm;
 use App\Http\Requests\SavedAddress\StoreRequest;
+use App\Http\Requests\SavedAddress\DeleteRequest;
 use App\Http\Requests\SavedAddress\UpdateRequest;
 
 class SavedAddressController extends Controller
@@ -66,6 +67,7 @@ class SavedAddressController extends Controller
             'postcode' => $request->postcode,
             'lat' => $request->lat,
             'lng' => $request->lng,
+            'directions' => $request->directions,
         ];
 
         $addresses = $org->get('addresses');
@@ -90,12 +92,21 @@ class SavedAddressController extends Controller
         $org = $this->getOrganisation();
         $address = $this->getAddress($org, $id);
 
+        if(is_array($address['directions'])) {
+            $coreModifiers = new CoreModifiers();
+            $directionContent = $coreModifiers->bardHtml($address['directions']);
+
+        } else {
+            $directionContent = $address['directions'];
+        }
+
         return (new View)
             ->layout('layout')
             ->template('users.dashboard.saved-addresses.edit')
             ->with([
                 'title' => "Dashboard",
-                'address' => $address
+                'address' => $address,
+                'directionContent' => $directionContent
             ]);
     }
 
@@ -114,6 +125,7 @@ class SavedAddressController extends Controller
             'postcode' => $request->postcode,
             'lat' => $request->lat,
             'lng' => $request->lng,
+            'directions' => $request->directions
         ]);
 
         $org->set('addresses', $addresses);

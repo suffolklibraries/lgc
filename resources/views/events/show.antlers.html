@@ -61,6 +61,14 @@
             <span>Virtual event</span>
           </li>
         {{ /if }}
+
+        {{ if additional_access_information }}
+            <li class="c-twi c-twi--left">
+                {{ partial src="global/icon" id="info" }}
+                <span>{{ additional_access_information }}</span>
+            </li>
+        {{ /if }}
+
       </ol>
       {{ if latitude and longitude }}
         <div class="c-map">
@@ -74,11 +82,13 @@
         {{ partial src="global/twi" label="Book your place" icon="arrow-right" }}
       </a>
     {{ /if }}
+
     {{ if cta }}
       <div class="o-prose o-flow o-flow--xs c-event-cta js-link-icons">
         {{ cta }}
       </div>
     {{ /if }}
+
     <button
         type="button"
         class="tw-flex tw-gap-3 tw-items-center tw-text-brand-pink tw-font-bold tw-text-lg !tw-mt-4"
@@ -92,7 +102,15 @@
 
   <div class="o-flow o-flow--l">
     {{ if featured_image }}
-      {{ glide:featured_image width="1251" height="834" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}
+        {{ glide:featured_image width="1251" height="834" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}
+    {{ else }}
+        <img
+            src="https://place-hold.it/1251x834&fontsize=32"
+            alt="{{ alt }}"
+            width="1251"
+            height="834"
+            loading="eager"
+        />
     {{ /if }}
 
     {{ partial src="global/content_area" }}

@@ -64,3 +64,7 @@
 @import "tailwindcss/utilities";
 
 [x-cloak] { display: none !important; }
+
+.field-description a {
+    @apply tw-text-blue-500 tw-underline motion-safe:tw-transition-colors hover:tw-text-[#EB9257];
+}

@@ -29,6 +29,7 @@ class StoreRequest extends FormRequest
             'postcode' => ['required'],
             'lat' => [],
             'lng' => [],
+            'directions' => []
         ];
     }
 }

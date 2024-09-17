@@ -11,7 +11,7 @@
     <div
         x-data='{
             saveDraft: false,
-            addresses: {{ org_addresses ? {org_addresses | to_json} : '[]' }},
+            addresses: {{ partial:users/dashboard/address_json }},
             saveAsDraft() {
                 this.saveDraft = true
             },
@@ -25,6 +25,18 @@
                 this.$refs.form.querySelector("#postcode").value = address.postcode
                 this.$refs.form.querySelector("#lat").value = address.lat
                 this.$refs.form.querySelector("#lng").value = address.lng
+                this.$refs.form.querySelector(`input[name="directions"]`).value = address.directions
+
+                let customEvent = new CustomEvent("updateTipTapContent", {
+                    detail: {
+                        value: address.directions,
+                        field: "directions"
+                    },
+                    bubbles: true
+                });
+
+                this.$el.dispatchEvent(customEvent);
+
             },
             handleSubmit(event) {
                 if(this.saveDraft) {
@@ -70,7 +82,11 @@
             {{ partial:event-submission-form/section section_title="Event Information" }}
                 {{ partial:event-submission-form/text field_label="Event Title*" field_name="title"  }}
 
-                {{ partial:event-submission-form/textarea field_label="Description" field_name="description"  field_description="Sub-headline for the event" }}
+                {{ partial:event-submission-form/textarea
+                    field_label="Description"
+                    field_name="description"
+                    field_description="A short sentence to promote your event, e.g. Join us at Chantry Library for a day of family fun and celebrating nature."
+                }}
 
                 <div class="tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
                     {{ partial:event-submission-form/datetime
@@ -96,20 +112,50 @@
 
                 {{ partial:event-submission-form/toggle field_label="Virtual Event" field_name="virtual" }}
 
-                {{ partial:event-submission-form/text field_label="Cost Details" field_name="cost_details" field_description="e.g. £5" }}
+                {{ partial:event-submission-form/text field_label="Cost Details" field_name="cost_details" field_description="e.g. £5 per person, £40 per term, £4 including refreshments" }}
 
-                {{ partial:event-submission-form/textarea field_label="Audience Information" field_name="attendance_information" field_description="e.g. Age range" }}
+                {{ partial:event-submission-form/textarea field_label="Audience Information" field_name="attendance_information" field_description="Who is your event for? E.g. Family friendly, toddlers and their care-givers, over 18s only" }}
 
-                {{ partial:event-submission-form/textarea field_label="Accessibility Information" field_name="accessibility_information" }}
+
+                <div>
+                    <label
+                        class="tw-text-brand-grey tw-text-base tw-font-medium"
+                        for="accessibility_information"
+                    >
+                        Accessibility Information
+                    </label>
+                    <div class="tw-flex tw-flex-col tw-gap-2">
+                        {{ foreach:accessibility_info_options as="option|label" }}
+                            <label class="tw-text-base tw-flex tw-items-center tw-justify-start tw-gap-1 tw-w-max">
+                                <input
+                                    type="checkbox"
+                                    name="accessibility_information[]"
+                                    value="{{ option }}"
+                                    {{ if old:accessibility_information|in_array:option }}checked{{ /if }}
+                                    class="custom tw-w-auto"
+                                >
+                                {{ label !== null ? label : option }}
+                            </label>
+                        {{ /foreach:accessibility_info_options }}
+                    </div>
+                </div>
+
+
+                {{ partial:event-submission-form/textarea
+                    field_label="Additional access information"
+                    field_name="additional_access_information"
+                    field_description="Describe any additional access information, e.g. Please note the event is only accessible via a steep staircase, this event is outdoors so the ground may be uneven"
+                }}
+
 
             {{ /partial:event-submission-form/section }}
 
             {{ partial:event-submission-form/section section_title="Location" }}
-                {{ if org_addresses }}
-                    {{ partial:event-submission-form/section
-                        section_title="Saved Addresses"
-                        class="tw-border tw-border-brand-grey/30 tw-px-4 tw-py-4"
-                    }}
+                {{ partial:event-submission-form/section
+                    section_title="Saved Addresses"
+                    class="tw-border tw-border-brand-grey/30 tw-px-4 tw-py-4"
+                }}
+                    {{ if org_addresses }}
                         <table>
                             <thead class="tw-border-b tw-border-brand-grey/30">
                                 <th class="tw-text-base tw-font-semibold">Name</th>
@@ -141,9 +187,11 @@
                                 </template>
                             </tbody>
                         </table>
+                    {{ /if }}
 
-                    {{ /partial:event-submission-form/section }}
-                {{ /if }}
+                    <p class="tw-text-base tw-text-brand-grey/80">To add a saved address click on 'Addresses' on the menu at the top left of this page</p>
+                {{ /partial:event-submission-form/section }}
+
 
                 {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
 
@@ -172,16 +220,39 @@
                     {{ /if }}
                 >
 
+                <div>
+                    <label
+                    class="tw-text-brand-grey tw-text-base tw-font-medium"
+                    for="editorjs"
+                    >
+                        How to get here
+                    </label>
+
+                    {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="directions" field_label="Directions" placeholder="" :value="directionContent" }}
+
+                    <p class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">
+                        Please give a short explanation of how participants can travel to your event. You could include bus routes, nearby train stations, if parking is available on site, nearby parking availability, and other useful information. E.g. The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the <a href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/" target="_blank">Suffolk Onboard website</a>. Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the <a href="https://www.greateranglia.co.uk/travel-information/station-information/bse" target="_blank">Greater Anglia website</a>. There is car parking at the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm" target="_blank">Arc shopping centre</a>, which a six-minute walk away from the library, and the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm" target="_blank">St Andrews Flexi-Stay car park</a>, which is a five-minute walk. Plan your journey using <a href="https://www.suffolkonboard.com/" target="_blank">Suffolk Onboard</a>.
+                    </p>
+
+                </div>
             {{ /partial:event-submission-form/section }}
 
             {{ partial:event-submission-form/section section_title="Content" }}
                 {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}
+
+                <p class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">
+                    Write about your event here - make sure to include what participants can expect, a schedule for the day, if refreshments are included, any anything else they need to know to feel confident in attending.
+                </p>
             {{ /partial:event-submission-form/section }}
 
 
-            {{ partial:event-submission-form/section section_title="Call to action" }}
+            {{ partial:event-submission-form/section section_title="How to book" }}
                 {{ partial:event-submission-form/url field_label="Booking Link" field_name="booking_link" placeholder="https://example.com" }}
-                {{ partial:event-submission-form/textarea field_label="How to Book" field_name="cta" }}
+                {{ partial:event-submission-form/textarea
+                    field_label="Booking instructions"
+                    field_name="cta"
+                    field_description="Explain if participants need to book or just drop-in, different ways to book, and any other information. E.g. Book your free ticket via our website www.suffolklibraries.co.uk or phone 01473 927260 to speak to a member of staff."
+                }}
             {{ /partial:event-submission-form/section }}
 
             {{ partial:event-submission-form/section section_title="Event Categories" }}
@@ -207,7 +278,7 @@
                 {{ partial:event-submission-form/text
                     field_label="Image Alternative Text"
                     field_name="alternative_text"
-                    field_description="Alternative text is a brief description of the image for accessibility and SEO purposes. It helps people who can't see the image understand its content. If left blank, it will default to the event title."
+                    field_description="Alternative text is a brief description of the image for people who use a screen reader. If you leave this space blank, the alternative text will be the image file name."
                 }}
             {{ /partial:event-submission-form/section }}
 

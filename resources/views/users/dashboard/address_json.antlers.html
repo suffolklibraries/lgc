@@ -1,0 +1,19 @@
+{{ if org_addresses }}
+    [
+        {{ org_addresses }}
+            {
+                "id": "{{ id }}",
+                "name": "{{ name }}",
+                "address_line_1": "{{ address_line_1 }}",
+                "address_line_2": "{{ address_line_2 }}",
+                "town": "{{ town }}",
+                "postcode": "{{ postcode }}",
+                "lat": "{{ lat }}",
+                "lng": "{{ lng }}",
+                "directions": "{{ directions | bard_html }}",
+            }{{ unless last }},{{ /unless }}
+        {{ /org_addresses }}
+    ]
+{{ else }}
+    []
+{{ /if }}

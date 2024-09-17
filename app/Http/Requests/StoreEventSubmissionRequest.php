@@ -23,7 +23,7 @@ class StoreEventSubmissionRequest extends FormRequest
     {
 
         return [
-            'title' => ['required'],
+            'title' => ['required', 'max:50'],
             'description' => [],
             'start' => ['required', 'date', 'after_or_equal:tomorrow'],
             'end' => ['required', 'date', 'after:start'],
@@ -36,6 +36,7 @@ class StoreEventSubmissionRequest extends FormRequest
             'address_line_2' => [],
             'town' => ['required_without:virtual'],
             'postcode' => ['required_without:virtual'],
+            'directions' => [],
             'lat' => [],
             'lng' => [],
             'content' => [],
@@ -47,6 +48,7 @@ class StoreEventSubmissionRequest extends FormRequest
             'alternative_text' => [],
             'name' => ['required'],
             'email' => ['required', 'email'],
+            'directions' => [],
         ];
     }
 

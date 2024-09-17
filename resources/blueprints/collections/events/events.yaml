@@ -9,6 +9,7 @@ tabs:
             handle: title
             field:
               type: text
+              required: true
               validate:
                 - required
           -
@@ -64,7 +65,6 @@ tabs:
               max_files: 1
               display: 'Featured Image'
               type: assets
-              icon: assets
               listable: hidden
               instructions_position: above
   event_options:
@@ -84,7 +84,6 @@ tabs:
               rows: 1
               display: 'Start Date'
               type: date
-              icon: date
               width: 50
               listable: hidden
               instructions_position: above
@@ -102,7 +101,6 @@ tabs:
               rows: 1
               display: 'End date'
               type: date
-              icon: date
               width: 50
               listable: hidden
               instructions_position: above
@@ -112,7 +110,6 @@ tabs:
               default: false
               display: Free
               type: toggle
-              icon: toggle
               width: 50
               listable: hidden
               instructions_position: above
@@ -123,7 +120,6 @@ tabs:
               antlers: false
               display: 'Cost details'
               type: text
-              icon: text
               width: 50
               listable: hidden
               instructions_position: above
@@ -133,7 +129,6 @@ tabs:
               default: false
               display: Virtual
               type: toggle
-              icon: toggle
               width: 50
               listable: hidden
               instructions_position: above
@@ -148,11 +143,32 @@ tabs:
               antlers: false
               display: 'Attendance Information'
               type: markdown
-              icon: markdown
               listable: hidden
               instructions_position: above
           -
             handle: accessibility_information
+            field:
+              options:
+                'Wheelchair accessible': 'Wheelchair accessible'
+                'Hearing loop available': 'Hearing loop available'
+                'Quiet space available': 'Quiet space available'
+                'Dementia friendly': 'Dementia friendly'
+                'Autism friendly': 'Autism friendly'
+                'BSL interpretation provided': 'BSL interpretation provided'
+                'Accessible toilets': 'Accessible toilets'
+                'Accessible parking spaces': 'Accessible parking spaces'
+                'Relaxed performance': 'Relaxed performance'
+                'Drop-in event': 'Drop-in event'
+              inline: false
+              type: checkboxes
+              display: 'Accessibility information'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
+            handle: additional_access_information
             field:
               restrict: false
               automatic_line_breaks: true
@@ -160,11 +176,24 @@ tabs:
               escape_markup: false
               smartypants: false
               antlers: false
-              display: 'Accessibility information'
+              display: 'Additional access information'
               type: markdown
-              icon: markdown
               listable: hidden
               instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              buttons:
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - quote
+                - link
+                - image
+                - table
+              heading_anchors: false
+              table_of_contents: false
+              hide_display: false
   location:
     display: Location
     sections:
@@ -175,7 +204,6 @@ tabs:
             field:
               display: Location
               type: section
-              icon: section
               instructions: 'Find the lat/lng using [Google Maps](https://www.google.co.uk/maps)'
               listable: hidden
               instructions_position: above
@@ -186,7 +214,6 @@ tabs:
               antlers: false
               display: Latitude
               type: text
-              icon: text
               instructions: 'e.g. 52.058836'
               width: 50
               listable: hidden
@@ -198,7 +225,6 @@ tabs:
               antlers: false
               display: Longitude
               type: text
-              icon: text
               instructions: 'e.g. 1.156518'
               width: 50
               listable: hidden
@@ -210,7 +236,6 @@ tabs:
               antlers: false
               display: 'Address Line 1'
               type: text
-              icon: text
               width: 50
               listable: hidden
               instructions_position: above
@@ -221,7 +246,6 @@ tabs:
               antlers: false
               display: 'Address Line 2'
               type: text
-              icon: text
               width: 50
               listable: hidden
               instructions_position: above
@@ -232,7 +256,6 @@ tabs:
               antlers: false
               display: Town
               type: text
-              icon: text
               width: 50
               listable: hidden
               instructions_position: above
@@ -243,10 +266,49 @@ tabs:
               antlers: false
               display: Postcode
               type: text
-              icon: text
               width: 50
               listable: hidden
               instructions_position: above
+          -
+            handle: directions
+            field:
+              buttons:
+                - h2
+                - h3
+                - bold
+                - italic
+                - unorderedlist
+                - orderedlist
+                - removeformat
+                - quote
+                - anchor
+                - image
+                - table
+              smart_typography: false
+              save_html: false
+              inline: false
+              toolbar_mode: fixed
+              reading_time: false
+              word_count: false
+              fullscreen: true
+              allow_source: true
+              enable_input_rules: true
+              enable_paste_rules: true
+              remove_empty_nodes: false
+              antlers: false
+              link_noopener: false
+              link_noreferrer: false
+              target_blank: false
+              always_show_set_button: false
+              collapse: false
+              previews: true
+              type: bard
+              display: Directions
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
   content:
     display: Content
     sections:
@@ -266,7 +328,6 @@ tabs:
               antlers: false
               display: 'Booking Link'
               type: text
-              icon: text
               listable: hidden
               instructions_position: above
           -
@@ -280,7 +341,6 @@ tabs:
               antlers: false
               display: CTA
               type: markdown
-              icon: markdown
               listable: hidden
               instructions_position: above
   submitter_details:
@@ -295,7 +355,6 @@ tabs:
               antlers: false
               type: text
               display: Name
-              icon: text
               listable: hidden
               instructions_position: above
               visibility: read_only
@@ -308,7 +367,6 @@ tabs:
               antlers: false
               type: text
               display: 'Email Address'
-              icon: text
               listable: hidden
               instructions_position: above
               visibility: read_only
@@ -321,7 +379,6 @@ tabs:
               mode: select
               type: users
               display: 'Created By'
-              icon: users
               instructions: 'When the event is created by a user, they will appear here.'
               listable: hidden
               instructions_position: above
