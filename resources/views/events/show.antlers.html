@@ -127,6 +127,13 @@
 
     {{ partial src="global/content_area" }}
 
+    {{ if directions }}
+        <div class="o-prose o-flow o-prose--pull-up-image js-link-icons">
+            <h3>How to get here</h3>
+            {{ directions }}
+        </div>
+    {{ /if }}
+
     {{ partial src="global/disclaimer" }}
   </div>
 
