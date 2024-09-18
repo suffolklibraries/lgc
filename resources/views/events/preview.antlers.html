@@ -1,23 +1,26 @@
 <article class="c-event-card c-event-card--{{ orientation or 'horizontal' }}">
   <a class="c-event-card__link" href="{{ url }}">
     <figure class="c-event-card__image">
-      {{ if featured_image }}
+    {{ img = featured_image ?? global:placeholder_image }}
+
+    {{ if img }}
         <picture>
             <source
-                src="{{ glide:featured_image h="265" w="400" q="80" fit="contain" format="webp" }}"
+                src="{{ glide:img h="265" w="400" q="80" fit="contain" format="webp" }}"
                 type="image/webp"
             />
             <source
-                src="{{ glide:featured_image h="265" w="400" q="80" fit="contain" format="jpg" }}"
+                src="{{ glide:img h="265" w="400" q="80" fit="contain" format="jpg" }}"
                 type="image/jpg"
             />
             <img
-                src="{{ glide:featured_image h="265" w="400" q="80" fit="contain" }}"
-                alt="{{ featured_image:alt }}"
+                src="{{ glide:img h="265" w="400" q="80" fit="contain" }}"
+                {{ if featured_image:alt }}
+                    alt="{{ featured_image:alt }}"
+                {{ /if }}
                 loading="lazy"
                 height="265"
                 width="400"
-                class=""
             >
         </picture>
       {{ else }}
