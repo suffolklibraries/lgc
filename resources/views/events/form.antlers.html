@@ -27,18 +27,21 @@
       </select>
     </div>
 
-    <ul class="c-tags">
-      <li>
-        <input type="checkbox" name="category-clear" value="" id="category-clear" {{ if !get:category }}checked{{ /if }} />
-        <label class="c-tag c-tag--blue" for="category-clear">All categories</label>
-      </li>
-      {{ taxonomy from="event_categories" }}
-        <li>
-          <input type="checkbox" name="category[]" value="{{ slug }}" id="category-{{ slug }}" {{ if get:category | contains:slug }}checked{{ /if }} />
-          <label class="c-tag c-tag--blue" for="category-{{ slug }}">{{ title }}</label>
-        </li>
-      {{ /taxonomy }}
-    </ul>
+    <fieldset>
+        <legend class="tw-sr-only">Filter Events By Category</legend>
+        <ul class="c-tags">
+          <li>
+            <input type="checkbox" name="category-clear" value="" id="category-clear" {{ if !get:category }}checked{{ /if }} />
+            <label class="c-tag c-tag--blue" for="category-clear">All categories</label>
+          </li>
+          {{ taxonomy from="event_categories" }}
+            <li>
+              <input type="checkbox" name="category[]" value="{{ slug }}" id="category-{{ slug }}" {{ if get:category | contains:slug }}checked{{ /if }} />
+              <label class="c-tag c-tag--blue" for="category-{{ slug }}">{{ title }}</label>
+            </li>
+          {{ /taxonomy }}
+        </ul>
+    </fieldset>
 
     <div class="o-flow o-flow--2xs">
       <p>
