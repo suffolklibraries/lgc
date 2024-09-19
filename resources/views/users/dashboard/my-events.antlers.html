@@ -71,7 +71,19 @@
                                     Edit Event
                                 </a>
 
-                                <form action="{{ route:user.dashboard.my-events.delete :entryId="id" }}" method="POST">
+                                <form
+                                    action="{{ route:user.dashboard.my-events.delete :entryId="id" }}"
+                                    method="POST"
+                                    x-data="{
+                                        saving: false,
+                                        submit () {
+                                            this.saving = true
+                                            this.$root.submit()
+                                        }
+                                    }"
+                                    @submit.prevent="submit"
+                                >
+                                    {{ partial:users/dashboard/loading-state }}
                                     {{ csrf_field }}
                                     {{ partial:partial/honeypot }}
                                     {{ partial:partial/form_method method="DELETE" }}

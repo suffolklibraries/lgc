@@ -9,8 +9,10 @@
     {{ /endif }}
 
     <div
+        class="tw-relative"
         x-data='{
             saveDraft: false,
+            saving: false,
             saveAsDraft() {
                 this.saveDraft = true
             },
@@ -18,6 +20,7 @@
                 this.saveDraft = false
             },
             handleSubmit(event) {
+                this.saving = true
                 if(this.saveDraft) {
                     this.$refs.form.action = "{{ route:user.dashboard.my-events.save-draft }}"
                 }
@@ -26,6 +29,7 @@
             }
         }'
     >
+        {{ partial:users/dashboard/loading-state }}
         <form
             action="{{ route:user.dashboard.my-events.store }}"
             method="POST"
@@ -178,7 +182,7 @@
 
             <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mt-10">
                 <button
-                    type="button"
+                    type="submit"
                     @click="saveAsDraft"
                     class="tw-bg-brand-grey/5 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-brand-grey tw-flex tw-gap-2 tw-items-center tw-border tw-border-brand-grey/10 hover:tw-bg-brand-grey/20 motion-safe:tw-transition-colors"
                 >

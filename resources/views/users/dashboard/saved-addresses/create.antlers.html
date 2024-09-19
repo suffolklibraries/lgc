@@ -8,8 +8,17 @@
     <form
         action="{{ route:user.dashboard.saved-addresses.store }}"
         method="POST"
-        class="event-submission-form tw-flex tw-flex-col tw-gap-10"
+        class="event-submission-form tw-flex tw-flex-col tw-gap-10 tw-relative"
+        @submit.prevent="submit"
+        x-data="{
+            saving: false,
+            submit () {
+                this.saving = true
+                this.$root.submit()
+            }
+        }"
     >
+        {{ partial:users/dashboard/loading-state }}
         {{ csrf_field }}
         {{ partial:partial/honeypot }}
 

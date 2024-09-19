@@ -183,7 +183,6 @@ class UserDashboardController extends Controller
 
         $start = Carbon::parse($request->start);
 
-
         $entry->slug(Str::slug(__(':name :start', [
             'name' => $request->title,
             'start' => $start->format('d-m-Y')
@@ -196,8 +195,18 @@ class UserDashboardController extends Controller
             $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
             $data['featured_image'] = $assetPath;
         } else {
-            $data['featured_image'] = $entry->featured_image->path;
+            $data['featured_image'] = $entry->featured_image?->path;
+
+            if($request->alternative_text) {
+                $asset = $entry->featured_image;
+
+                if($asset) {
+                    $asset->set('alt', $request->alternative_text);
+                    $asset->save();
+                }
+            }
         }
+
 
         $entry->data($data);
 
@@ -358,15 +367,28 @@ class UserDashboardController extends Controller
             ->slug(Str::slug(__(':name :start', [
                 'name' => $request->title,
                 'start' => $start->format('d-m-Y')
-            ])))
-            ->data(
-                $this->mapEventData($request, $user)
-            );
+            ])));
+
+        $data = $this->mapEventData($request, $user);
+
 
         if($request->file('image')) {
             $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
-            $entry->featured_image = $assetPath;
+            $data['featured_image'] = $assetPath;
+        } else {
+            $data['featured_image'] = $entry->featured_image?->path;
+
+            if($request->alternative_text) {
+                $asset = $entry->featured_image;
+
+                if($asset) {
+                    $asset->set('alt', $request->alternative_text);
+                    $asset->save();
+                }
+            }
         }
+
+        $entry->data($data);
 
         if($request->categories) {
             $entry->event_categories = $request->categories;

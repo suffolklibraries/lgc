@@ -11,11 +11,12 @@
     <form
         action="{{ route:user.dashboard.my-events.update :entryId="entry.id" }}"
         method="POST"
-        class="event-submission-form tw-flex tw-flex-col tw-gap-4"
+        class="event-submission-form tw-flex tw-flex-col tw-gap-4 tw-relative"
         enctype="multipart/form-data"
         x-data='{
             saveDraft: false,
             publish: false,
+            saving: false,
             saveAsDraft() {
                 this.saveDraft = true
                 this.publish = false
@@ -25,6 +26,7 @@
                 this.publish = true
             },
             handleSubmit(event) {
+                this.saving = true
                 if(this.saveDraft) {
                     this.$refs.form.action = "{{ route:user.dashboard.my-events.update-draft :entryId="entry.id" }}"
                 }
@@ -34,6 +36,8 @@
         x-ref="form"
         @submit.prevent="handleSubmit"
     >
+        {{ partial:users/dashboard/loading-state }}
+
         <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mb-10">
             <button
                 type="submit"
