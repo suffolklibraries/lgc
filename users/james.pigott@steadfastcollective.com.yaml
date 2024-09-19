@@ -2,6 +2,7 @@ name: 'James Pigott'
 super: true
 roles:
   - event_approver
+linked_organisations: steadfast-collective
 id: 05b16fef-ecb6-432d-89a0-1234fc8b3fa4
 password_hash: $2y$10$eQ5izE0Zx9SyivENHuSqB.D7vrIpioTrhdL7VSi0koNPsSe98YYPy
 preferences:
