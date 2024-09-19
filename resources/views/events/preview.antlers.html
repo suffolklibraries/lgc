@@ -6,11 +6,11 @@
     {{ if img }}
         <picture>
             <source
-                src="{{ glide:img h="265" w="400" q="80" fit="contain" format="webp" }}"
+                srcset="{{ glide:img h="265" w="400" q="80" fit="contain" format="webp" }}"
                 type="image/webp"
             />
             <source
-                src="{{ glide:img h="265" w="400" q="80" fit="contain" format="jpg" }}"
+                srcset="{{ glide:img h="265" w="400" q="80" fit="contain" format="jpg" }}"
                 type="image/jpg"
             />
             <img
