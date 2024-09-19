@@ -35,6 +35,7 @@ class StoreEventRequest extends FormRequest
             'address_line_2' => [],
             'town' => ['required_without:virtual'],
             'postcode' => ['required_without:virtual'],
+            'directions' => [],
             'lat' => [],
             'lng' => [],
             'content' => [],

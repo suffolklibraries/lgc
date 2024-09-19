@@ -58,6 +58,7 @@ export function initTipTap(element, placeholder) {
     document.addEventListener('updateTipTapContent', (e) => {
         if(e.detail.field === editorEl.getAttribute('data-field')) {
             editor.commands.setContent(e.detail.value)
+            field.value = e.detail.value
         }
     })
 

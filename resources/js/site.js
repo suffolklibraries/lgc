@@ -9,6 +9,7 @@ import EventSubmissionForm from './eventSubmissionForm';
 import Alpine from 'alpinejs'
 import focus from '@alpinejs/focus'
 import PasswordValidation from './passwordValidation';
+import './eventLocationForm'
 
 (() => {
   Menu();

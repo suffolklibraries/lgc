@@ -11,32 +11,11 @@
     <div
         x-data='{
             saveDraft: false,
-            addresses: {{ partial:users/dashboard/address_json }},
             saveAsDraft() {
                 this.saveDraft = true
             },
             publishEvent() {
                 this.saveDraft = false
-            },
-            apply(address) {
-                this.$refs.form.querySelector("#address_line_1").value = address.address_line_1
-                this.$refs.form.querySelector("#address_line_2").value = address.address_line_2
-                this.$refs.form.querySelector("#town").value = address.town
-                this.$refs.form.querySelector("#postcode").value = address.postcode
-                this.$refs.form.querySelector("#lat").value = address.lat
-                this.$refs.form.querySelector("#lng").value = address.lng
-                this.$refs.form.querySelector(`input[name="directions"]`).value = address.directions
-
-                let customEvent = new CustomEvent("updateTipTapContent", {
-                    detail: {
-                        value: address.directions,
-                        field: "directions"
-                    },
-                    bubbles: true
-                });
-
-                this.$el.dispatchEvent(customEvent);
-
             },
             handleSubmit(event) {
                 if(this.saveDraft) {
@@ -150,92 +129,7 @@
 
             {{ /partial:event-submission-form/section }}
 
-            {{ partial:event-submission-form/section section_title="Location" }}
-                {{ partial:event-submission-form/section
-                    section_title="Saved Addresses"
-                    class="tw-border tw-border-brand-grey/30 tw-px-4 tw-py-4"
-                }}
-                    {{ if org_addresses }}
-                        <table>
-                            <thead class="tw-border-b tw-border-brand-grey/30">
-                                <th class="tw-text-base tw-font-semibold">Name</th>
-                                <th class="tw-text-base tw-font-semibold">Address Line 1</th>
-                                <th class="tw-text-base tw-font-semibold">Address Line 2</th>
-                                <th class="tw-text-base tw-font-semibold">Town</th>
-                                <th class="tw-text-base tw-font-semibold">Postcode</th>
-                                <th></th>
-                            </thead>
-                            <tbody>
-                                <template x-for="address in addresses">
-                                    <tr>
-                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.name"></td>
-                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.address_line_1"></td>
-                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.address_line_2"></td>
-                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.town"></td>
-                                        <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.postcode"></td>
-                                        <td class="tw-py-1">
-                                            <button
-                                                type="button"
-                                                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
-                                                :aria-label="`Apply address '${address.name}'`"
-                                                @click="apply(address)"
-                                            >
-                                                Apply
-                                            </button>
-                                        </td>
-                                    </tr>
-                                </template>
-                            </tbody>
-                        </table>
-                    {{ /if }}
-
-                    <p class="tw-text-base tw-text-brand-grey/80">To add a saved address click on 'Addresses' on the menu at the top left of this page</p>
-                {{ /partial:event-submission-form/section }}
-
-
-                {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
-
-                <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
-                    {{ partial:event-submission-form/text field_label="Address Line 1*" field_name="address_line_1" autocomplete="off" }}
-                    {{ partial:event-submission-form/text field_label="Address Line 2" field_name="address_line_2" autocomplete="off" }}
-                    {{ partial:event-submission-form/text field_label="Town*" field_name="town" autocomplete="off" }}
-                    {{ partial:event-submission-form/text field_label="Post Code*" field_name="postcode" autocomplete="off" }}
-                </div>
-
-
-                <input
-                    type="hidden"
-                    id="lat"
-                    name="lat"
-                    {{ if old:lat }}
-                        value="{{ old:lat }}"
-                    {{ /if }}
-                >
-                <input
-                    type="hidden"
-                    id="lng"
-                    name="lng"
-                    {{ if old:lng }}
-                        value="{{ old:lng }}"
-                    {{ /if }}
-                >
-
-                <div>
-                    <label
-                    class="tw-text-brand-grey tw-text-base tw-font-medium"
-                    for="editorjs"
-                    >
-                        How to get here
-                    </label>
-
-                    {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="directions" field_label="Directions" placeholder="" :value="directionContent" }}
-
-                    <p class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">
-                        Please give a short explanation of how participants can travel to your event. You could include bus routes, nearby train stations, if parking is available on site, nearby parking availability, and other useful information. E.g. The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the <a href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/" target="_blank">Suffolk Onboard website</a>. Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the <a href="https://www.greateranglia.co.uk/travel-information/station-information/bse" target="_blank">Greater Anglia website</a>. There is car parking at the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm" target="_blank">Arc shopping centre</a>, which a six-minute walk away from the library, and the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm" target="_blank">St Andrews Flexi-Stay car park</a>, which is a five-minute walk. Plan your journey using <a href="https://www.suffolkonboard.com/" target="_blank">Suffolk Onboard</a>.
-                    </p>
-
-                </div>
-            {{ /partial:event-submission-form/section }}
+            {{ partial:users/dashboard/my-events-addresses }}
 
             {{ partial:event-submission-form/section section_title="Content" }}
                 {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}

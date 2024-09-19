@@ -92,6 +92,7 @@ class SavedAddressController extends Controller
         $org = $this->getOrganisation();
         $address = $this->getAddress($org, $id);
 
+
         if(is_array($address['directions'])) {
             $coreModifiers = new CoreModifiers();
             $directionContent = $coreModifiers->bardHtml($address['directions']);

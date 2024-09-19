@@ -151,7 +151,6 @@ class UserDashboardController extends Controller
         if(is_array($entry->directions)) {
             $coreModifiers = new CoreModifiers();
             $directionsContent = $coreModifiers->bardHtml($entry->directions);
-
         } else {
             $directionsContent = $entry->directions;
         }
