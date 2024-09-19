@@ -1,5 +1,6 @@
 ---
 id: 8f060c9b-58c6-44eb-9b76-56d1635fe438
+published: false
 blueprint: events
 title: 'Gentle Yoga - virtual'
 organisers:
