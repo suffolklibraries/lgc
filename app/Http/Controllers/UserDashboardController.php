@@ -189,13 +189,17 @@ class UserDashboardController extends Controller
             'start' => $start->format('d-m-Y')
         ])));
 
-        $entry->data($this->mapEventData($request, $user));
+        $data = $this->mapEventData($request, $user);
+
 
         if($request->file('image')) {
             $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
-            $entry->featured_image = $assetPath;
-            $file = $request->file('image');
+            $data['featured_image'] = $assetPath;
+        } else {
+            $data['featured_image'] = $entry->featured_image->path;
         }
+
+        $entry->data($data);
 
         if($request->categories) {
             $entry->event_categories = $request->categories;
