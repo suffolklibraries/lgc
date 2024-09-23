@@ -1,15 +1,15 @@
 ---
-id: c7f90994-4ea8-4d02-9196-39a0ef63deb8
+id: d013372a-04c2-4300-9162-dbe19885c176
 published: false
 blueprint: events
-title: 'Reading with Dementia - Newmarket'
+title: 'Reading with Dementia - Newmarket (Duplicated)'
 event_categories:
   - literature
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/reading-with-dementia.png
-start_date: '2024-08-02 10:30'
-end_date: '2024-08-02 11:30'
+start_date: '2024-09-27 10:30'
+end_date: '2024-09-27 11:30'
 free: true
 virtual: false
 latitude: '52.24489980767684'
@@ -222,8 +222,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712831860
-duplicated_from: f719f130-fc17-4274-8cfe-26276f006817
+updated_at: 1712832221
+duplicated_from: 3e11a87d-0674-49e3-9a7b-82dbf571f40c
 accessibility_information: '- Dementia friendly'
 ---
 Weekly reading group for people living with Dementia and their families and carers.
