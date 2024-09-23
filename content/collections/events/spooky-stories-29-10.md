@@ -47,7 +47,7 @@ content_area:
         text: 'Rock Paper Scissors'
       -
         type: text
-        text: ' to create your own spooky stop-motion animation. Create your story out of Lego, plasticine, and other crafty fun.'
+        text: ' to create your own spooky stop motion animation. Create your story out of Lego, plasticine, and other crafty fun.'
   -
     type: paragraph
     content:
@@ -197,8 +197,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727109864
+updated_at: 1727109891
 duplicated_from: f719f130-fc17-4274-8cfe-26276f006817
 attendance_information: '- Family friendly'
 ---
-Join Rock Paper Scissors at Newmarket Library to make your own Hallowe'en inspired stop-motion animation.
+Join Rock Paper Scissors at Newmarket Library to make your own Hallowe'en inspired stop motion animation.
