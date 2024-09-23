@@ -2,24 +2,25 @@
 id: 22615f45-9dfc-47ce-9cb6-e03ab7862c10
 published: false
 blueprint: events
-title: 'Wonderous and Magical Tales (Duplicated)'
+title: 'Step into Fairytale Land'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727114417
+updated_at: 1727114741
 latitude: '52.34518367493906'
 longitude: '1.5019647124699333'
-start_date: '2024-11-01 12:00'
+start_date: '2024-11-01 11:00'
 event_categories:
   - literature
+  - early-years
 free: true
-virtual: false
+virtual: true
 organisers:
   - suffolk-libraries
 address_line_1: 'Halesworth Library'
 address_line_2: 'Bridge Street'
 town: Halesworth
 postcode: 'IP19 8AD'
-featured_image: suffolklibrariesimages/dave-tonge-photo-(2).jpg
+featured_image: offthepressimages/new_resized_images/Early-Years.png
 attendance_information: '- Family Friendly'
 content_area:
   -
@@ -35,44 +36,35 @@ content_area:
     content:
       -
         type: text
-        text: "The summer is over, autumn is with us, and soon Mother Winter will wrap herself about the land like a great icy cloak.\_Her long freezing fingers reaching inside one and all, tickling their ribs and chilling them to the bone.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "And so it is a time to gather together, to warm our hands and hearts with some stories from Dave Tonge, the Yarnsmith of Norwich.\_"
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Come one, come all - draw close and listen as Dave tells wondrous and magical tales about dark and dangerous dragons, wily wicked wolves, lazy long limbed lads, poor penniless peddlers, and a radish that was worth 100 gold coins!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "Storytelling starts at\_12pm, 1.30pm and 3pm."
-  -
-    type: paragraph
-  -
-    type: paragraph
-  -
-    type: paragraph
-    content:
+        text: 'Join Pauline, from '
       -
         type: text
         marks:
           -
-            type: bold
-        text: 'Artist Biography'
+            type: link
+            attrs:
+              href: 'https://growingtogetherearlyyears.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Growing Together'
+      -
+        type: text
+        text: ', to step into a magical fairytale land. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: "Dave Tonge, also known as the Yarnsmith of Norwich has been telling stories for over 25 years, and performs at festivals, museums, heritage sites, schools and libraries all over England and beyond. From Lindisfarne Holy Island in the north, to Arundel Castle in the south, he works regularly for English Heritage and national museums like the Ashmolean and British Museum. He has written three books, Tudor Folk Tales,\_Norfolk Folk tales for Children\_and\_Medieval Folk tales for Children, with a fourth, Trickster Tales from Many Lands, due out in 2025. Dave likes to tell riddles and stories of magic and mystery, myths and monsters and also comic tales about the 'common folk’, the poorer people of long ago."
+        text: "Together, we'll meet the three little pigs as they build their homes and try porridge with Goldilocks. There will be lots of activities suitable for children aged under 5 based on well-loved traditional tales. "
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sessions last 50 minutes and start at 11am, 12.30pm, and 2pm.'
+  -
+    type: paragraph
   -
     type: heading
     attrs:
@@ -86,7 +78,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just drop-in.'
+        text: 'Book your place via the Suffolk Libraries website.'
   -
     type: paragraph
   -
@@ -202,7 +194,7 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
-end_date: '2024-11-01 15:30'
+end_date: '2024-11-01 14:50'
 duplicated_from: 2f37f855-59ce-4a73-80f9-4b8c2a2142b7
 ---
-Come one, come all - draw close and listen as Dave tells wondrous and magical tales about dark and dangerous dragons, wily wicked wolves, lazy long limbed lads, poor penniless peddlers, and a radish that was worth 100 gold coins!
+A story time to engage all your senses!
