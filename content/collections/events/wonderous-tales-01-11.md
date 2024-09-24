@@ -4,7 +4,7 @@ blueprint: events
 title: 'Wonderous and Magical Tales'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727114417
+updated_at: 1727167232
 latitude: '52.34518367493906'
 longitude: '1.5019647124699333'
 start_date: '2024-11-01 12:00'
@@ -55,6 +55,10 @@ content_area:
         text: "Storytelling starts at\_12pm, 1.30pm and 3pm."
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'Suitable for ages 7+'
   -
     type: paragraph
   -
@@ -72,6 +76,8 @@ content_area:
       -
         type: text
         text: "Dave Tonge, also known as the Yarnsmith of Norwich has been telling stories for over 25 years, and performs at festivals, museums, heritage sites, schools and libraries all over England and beyond. From Lindisfarne Holy Island in the north, to Arundel Castle in the south, he works regularly for English Heritage and national museums like the Ashmolean and British Museum. He has written three books, Tudor Folk Tales,\_Norfolk Folk tales for Children\_and\_Medieval Folk tales for Children, with a fourth, Trickster Tales from Many Lands, due out in 2025. Dave likes to tell riddles and stories of magic and mystery, myths and monsters and also comic tales about the 'common folk’, the poorer people of long ago."
+  -
+    type: paragraph
   -
     type: heading
     attrs:
