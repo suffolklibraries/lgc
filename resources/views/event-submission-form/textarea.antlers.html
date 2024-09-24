@@ -16,7 +16,7 @@
     >{{ if old[field_name] }}{{ old[field_name] }}{{ elseif value }}{{ value }}{{ /if }}</textarea>
 
     {{ if field_description }}
-        <span class="tw-text-brand-grey/80 tw-text-sm">{{ field_description }}</span>
+        <span class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">{{ field_description }}</span>
     {{ /if }}
 
     {{ get_error:{field_name} }}

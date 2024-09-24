@@ -136,11 +136,13 @@
             {{ partial:users/dashboard/my-events-addresses }}
 
             {{ partial:event-submission-form/section section_title="Content" }}
-                {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}
+                <div>
+                    {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="content" field_label="Content Area" }}
 
-                <p class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">
-                    Write about your event here - make sure to include what participants can expect, a schedule for the day, if refreshments are included, any anything else they need to know to feel confident in attending.
-                </p>
+                    <p class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">
+                        Write about your event here - make sure to include what participants can expect, a schedule for the day, if refreshments are included, any anything else they need to know to feel confident in attending.
+                    </p>
+                </div>
             {{ /partial:event-submission-form/section }}
 
 
