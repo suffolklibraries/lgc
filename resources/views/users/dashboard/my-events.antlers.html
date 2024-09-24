@@ -57,16 +57,16 @@
                                 </ul>
                             </div>
 
-                            <div class="tw-flex tw-gap-3 tw-px-6">
+                            <div class="tw-flex tw-justify-end tw-items-end tw-flex-wrap xl:tw-flex-nowrap tw-gap-3 tw-px-6">
 
                                 {{ if published }}
-                                    <a href="{{ url }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                                    <a href="{{ url }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 tw-items-center tw-shrink-0 tw-w-max">
                                         {{ svg:arrow-right class="tw-w-4 tw-h-4 tw-text-white" }}
                                         View event
                                     </a>
                                 {{ /if}}
 
-                                <a href="{{ route:user.dashboard.my-events.edit :entryId="id" }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                                <a href="{{ route:user.dashboard.my-events.edit :entryId="id" }}" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 tw-items-center tw-shrink-0 tw-w-max">
                                     {{ svg:edit class="tw-w-4 tw-h-4" }}
                                     Edit Event
                                 </a>
@@ -87,7 +87,7 @@
                                     {{ csrf_field }}
                                     {{ partial:partial/honeypot }}
                                     {{ partial:partial/form_method method="DELETE" }}
-                                    <button type="submit" class="tw-bg-brand-grey/70 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white tw-flex tw-gap-2 tw-items-center">
+                                    <button type="submit" class="tw-bg-brand-grey/70 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 tw-items-center tw-shrink-0 tw-w-max">
                                         {{ svg:trash class="tw-w-4 tw-h-4" }}
                                         Delete Event
                                     </button>
