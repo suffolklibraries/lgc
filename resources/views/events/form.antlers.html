@@ -1,5 +1,15 @@
-<form method="GET" action="/" class="js-search js-search--{{ full ? 'full' : 'simple' }} o-flow">
-  <h3 class="h4">Search all events and activities</h3>
+<form method="GET" action="/" class="js-search js-search--{{ full ? 'full' : 'simple' }} o-flow tw-relative">
+    <div
+        class="tw-hidden tw-absolute tw-z-[99] tw-top-0 tw-left-0 tw-w-full tw-h-full tw-bg-brand-teal/30 tw-flex tw-justify-center tw-items-center"
+        id="loading-state"
+    >
+        <svg class="tw-animate-spin tw-h-12 tw-w-12 tw-text-brand-pink" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <circle class="tw-opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+            <path class="tw-opacity-100" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+        </svg>
+    </div>
+
+    <h3 class="h4">Search all events and activities</h3>
 
   <div class="c-alert js-hidden js-map-alert">
     <p></p>
@@ -25,8 +35,9 @@
         <option value="10" {{ get:radius == '10' ? 'selected' : '' }}>10 miles</option>
         <option value="30" {{ get:radius == '30' ? 'selected' : '' }}>30 miles</option>
       </select>
-    </div>
 
+      <span class="tw-block tw-w-full tw-text-center tw-italic tw-text-sm tw-mt-1">(driving distance)</span>
+    </div>
     <fieldset>
         <legend class="tw-sr-only">Filter Events By Category</legend>
         <ul class="c-tags">
