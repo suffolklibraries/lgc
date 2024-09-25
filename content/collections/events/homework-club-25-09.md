@@ -1,5 +1,6 @@
 ---
 id: f5aa805c-76a9-4fc0-910e-21c8aad9faad
+published: false
 blueprint: events
 title: 'Homework Club'
 event_categories:
