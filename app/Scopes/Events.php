@@ -75,51 +75,53 @@ class Events extends Scope
         $lng = $hasLng ? $values['longitude'] : 1.156518;
 
 
-        $radius = !empty($values['radius']) ? $values['radius'] : 99;
+        $radius = !empty($values['radius']) ? $values['radius'] : false;
 
-        // Convert radius from miles to meters
-        $radiusInMetres = $radius * 1609.344;
+        if($radius) {
+            // Convert radius from miles to meters
+            $radiusInMetres = $radius * 1609.344;
 
-        $cacheKey = "distance_matrix_{$lat}_{$lng}_{$radiusInMetres}_". md5(json_encode($entries));
+            $cacheKey = "distance_matrix_{$lat}_{$lng}_{$radiusInMetres}_". md5(json_encode($entries));
 
-        $filteredIds =  Cache::remember($cacheKey, now()->addHours(24), function () use ($entries, $lat, $lng, $radiusInMetres) {
-            $destinationChunks = $entries
-                ->map(function($item) {
-                    return "{$item['lat']},{$item['lng']}";
-                })
-                ->chunk(20);
+            $filteredIds =  Cache::remember($cacheKey, now()->addHours(24), function () use ($entries, $lat, $lng, $radiusInMetres) {
+                $destinationChunks = $entries
+                    ->map(function($item) {
+                        return "{$item['lat']},{$item['lng']}";
+                    })
+                    ->chunk(20);
 
-            $results = [];
+                $results = [];
 
-            $destinationChunks->each(function($chunk, $chunkIndex) use ($lat, $lng, &$results, &$queries) {
+                $destinationChunks->each(function($chunk, $chunkIndex) use ($lat, $lng, &$results, &$queries) {
 
-                $destinations = $chunk->implode("|");
+                    $destinations = $chunk->implode("|");
 
-                $response = Http::get(
-                    "https://maps.googleapis.com/maps/api/distancematrix/json",
-                    [
-                        "origins" => "{$lat},{$lng}",
-                        "destinations" => $destinations,
-                        "key" => config("app.google_maps"),
-                        'units' => 'imperial'
-                    ]
-                );
+                    $response = Http::get(
+                        "https://maps.googleapis.com/maps/api/distancematrix/json",
+                        [
+                            "origins" => "{$lat},{$lng}",
+                            "destinations" => $destinations,
+                            "key" => config("app.google_maps"),
+                            'units' => 'imperial'
+                        ]
+                    );
 
-                $results = array_merge($results, $response->json()['rows'][0]['elements']);
+                    $results = array_merge($results, $response->json()['rows'][0]['elements']);
+                });
+
+                $filteredIds = [];
+
+                foreach($results as $index => $result) {
+                    if($result['distance']['value'] <= round($radiusInMetres)) {
+                        $filteredIds[] = $entries[$index]['id'];
+                    }
+                }
+
+                return $filteredIds;
             });
 
-            $filteredIds = [];
 
-            foreach($results as $index => $result) {
-                if($result['distance']['value'] <= round($radiusInMetres)) {
-                    $filteredIds[] = $entries[$index]['id'];
-                }
-            }
-
-            return $filteredIds;
-        });
-
-
-        $query->whereIn('id', $filteredIds);
+            $query->whereIn('id', $filteredIds);
+        }
     }
 }
