@@ -21,6 +21,15 @@ function Events() {
 
   window.addEventListener('event-json-updated', ({detail}) => events = detail);
 
+  window.addEventListener('toggle-pagination', () => {
+    let pagination = document.querySelector('.js-pagination')
+    let count = document.querySelector('.js-search-header')
+
+    count.classList.toggle('tw-hidden')
+    pagination.classList.toggle('tw-hidden')
+
+  });
+
   const markers = [];
   let map;
   let infowindow;
@@ -103,8 +112,8 @@ function Events() {
       detail: events
     }));
   }
-  window.loadGoogleMaps = loadGoogleMaps;
 
+  window.loadGoogleMaps = loadGoogleMaps;
 
   function updateMesage(message = "", type = "info") {
     const el = document.querySelector(".js-map-alert");
