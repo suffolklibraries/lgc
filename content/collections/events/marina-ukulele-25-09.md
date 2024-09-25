@@ -1,5 +1,6 @@
 ---
 id: 0fdbb7a6-c941-4a3a-a0fc-1a07af0a95b0
+published: false
 blueprint: events
 title: 'Ukulele Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
