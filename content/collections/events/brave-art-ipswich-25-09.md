@@ -1,5 +1,6 @@
 ---
 id: 2c083888-c28e-4328-97d0-0aa1b24f9f6d
+published: false
 blueprint: events
 title: 'Brave Art - Ipswich'
 event_categories:
