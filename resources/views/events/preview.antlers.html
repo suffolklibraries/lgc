@@ -23,7 +23,10 @@
             >
         </picture>
       {{ else }}
-        <img src="/img/image-fallback.svg" />
+        <img
+          src="/img/image-fallback.svg"
+          class="md:tw-w-[400px] tw-h-auto tw-object-cover"
+        />
       {{ /if }}
     </figure>
     <div class="c-event-card__content o-flow o-flow--xs step--1">
