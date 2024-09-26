@@ -1,26 +1,25 @@
 <article class="c-event-card c-event-card--{{ orientation or 'horizontal' }}">
   <a class="c-event-card__link" href="{{ url }}">
-    <figure class="c-event-card__image">
+    <figure class="c-event-card__image tw-flex tw-items-center">
     {{ img = featured_image ?? global:placeholder_image }}
 
     {{ if img }}
         <picture>
             <source
-                srcset="{{ glide:img h="265" w="400" q="80" fit="contain" format="webp" }}"
+                srcset="{{ glide:img h="265" w="400" q="80" dpr="2" fit="crop_focal" format="webp" }}"
                 type="image/webp"
             />
             <source
-                srcset="{{ glide:img h="265" w="400" q="80" fit="contain" format="jpg" }}"
+                srcset="{{ glide:img h="265" w="400" q="80" dpr="2" fit="crop_focal" format="jpg" }}"
                 type="image/jpg"
             />
             <img
-                src="{{ glide:img h="265" w="400" q="80" fit="contain" }}"
+                src="{{ glide:img h="265" w="400" q="80" dpr="2" fit="crop_focal" }}"
                 {{ if featured_image:alt }}
                     alt="{{ featured_image:alt }}"
                 {{ /if }}
                 loading="lazy"
-                height="265"
-                width="400"
+                class="tw-w-[400px] tw-h-auto tw-object-cover"
             >
         </picture>
       {{ else }}
@@ -29,7 +28,7 @@
     </figure>
     <div class="c-event-card__content o-flow o-flow--xs step--1">
       <header>
-        <h2 class="h4 tw-leading-none">{{ title }}</h2>
+        <h2 class="h4 tw-leading-[1.1]">{{ title }}</h2>
         {{ if organisers | length }}
           <p class="u-dark-grey">By {{ organisers }}{{ index !== 0 ? ' & ' : '' }}{{ title }}{{ /organisers }}</p>
         {{ /if }}
@@ -38,18 +37,29 @@
       <div>
         {{ content }}
       </div>
-      <ul class="c-event-card__meta">
-        <li>
+      <ul class="c-event-card__meta tw-flex-col">
+        <li class="tw-flex tw-items-center tw-gap-1">
+          {{ partial src="global/icon" id="calendar" }}
           {{ if start_date | format:Ymd === end_date | format:Ymd }}
             {{ start_date format="D j M Y" }}
           {{ else }}
             {{ start_date format="D j M" }} - {{ end_date format="D j M Y" }}</li>
           {{ /if }}
         </li>
+
         {{ if address_line_1 }}
-        <li>{{ address_line_1 }}{{ town ? ', ' : '' }}{{ town }}</li>
+          <li class="tw-flex tw-items-center tw-gap-1">
+            {{ partial src="global/icon" id="map-pin" }}
+            {{ address_line_1 }}{{ town ? ', ' : '' }}{{ town }}
+          </li>
         {{ /if }}
-        {{ if virtual }}<li>Virtual event</li>{{ /if }}
+
+        {{ if virtual }}
+          <li class="tw-flex tw-items-center tw-gap-1">
+            {{ partial src="global/icon" id="map-pin" }}
+            Virtual event
+          </li>
+        {{ /if }}
       </ul>
     </div>
   </a>
