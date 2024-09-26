@@ -2,7 +2,16 @@ function Search() {
   const searchForm = document.querySelector('.js-search');
   if (!searchForm) return;
 
-  searchForm.addEventListener('change', onChange);
+  const excludedInputs = ['place', 'lat', 'lng'];
+
+  searchForm.addEventListener('change', function(event) {
+    if (excludedInputs.includes(event.target.name)) {
+      event.stopPropagation();
+    } else {
+      onChange(event);
+    }
+  });
+
   searchForm.addEventListener('submit', onSubmit);
 }
 
@@ -21,7 +30,7 @@ function onChange(e) {
     }
 
     setTimeout(() => {
-      form.dispatchEvent(new Event("submit")); 
+      form.dispatchEvent(new Event("submit"));
     }, 100);
 
     return;
@@ -35,14 +44,14 @@ function onChange(e) {
 
   if (form.classList.contains('js-search--simple')) {
     setTimeout(() => {
-      form.submit(); 
+      form.submit();
     }, 100);
     return true;
   }
 
   if (e.target.name === 'place') {
     setTimeout(() => {
-      form.dispatchEvent(new Event("submit")); 
+      form.dispatchEvent(new Event("submit"));
     }, 100);
     return;
   }
@@ -51,9 +60,12 @@ function onChange(e) {
 }
 
 function onSubmit(e) {
-  if (e.currentTarget.classList.contains('js-search--simple')) { 
+  if (e.currentTarget.classList.contains('js-search--simple')) {
     return;
   }
+
+  let loader = e.currentTarget.querySelector('#loading-state')
+  loader.classList.remove('tw-hidden')
 
   e.preventDefault();
   const formData = new FormData(e.currentTarget);
@@ -86,7 +98,7 @@ function onSubmit(e) {
     .then((response) => {
       const results = document.createElement('div');
       results.innerHTML = response;
-      
+
       const newEvents = results.querySelector('.js-events');
       const oldEvents = document.querySelector('.js-events');
       if (newEvents && oldEvents) {
@@ -100,18 +112,34 @@ function onSubmit(e) {
       }
 
       const newPagination = results.querySelector('.js-pagination');
+      console.log(newPagination)
       const oldPagination = document.querySelector('.js-pagination');
       if (newPagination && oldPagination) {
         oldPagination.innerHTML = newPagination.innerHTML;
       }
 
+      if(!newPagination) {
+        oldPagination.innerHTML = null
+      }
+
       const newJSON = results.querySelector('#json-events');
+      const oldJSON = document.querySelector('#json-events');
+
+      if(newJSON && oldJSON) {
+        oldJSON.innerHTML = newJSON.innerHTML;
+
+        window.dispatchEvent(new CustomEvent('event-json-updated', {
+          detail: JSON.parse(newJSON.innerHTML)
+        }));
+      }
 
       if (newJSON) {
         window.dispatchEvent(new CustomEvent('render-markers', {
           detail: JSON.parse(newJSON.innerHTML)
         }));
       }
+
+      loader.classList.add('tw-hidden')
 
       window.history.replaceState('', '', url);
     })

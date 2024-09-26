@@ -10,12 +10,25 @@ function Events() {
   let autocompleteEl = document.querySelector(".js-map-autocomplete");
   let eventsJSON = document.getElementById("json-events");
   let mapEl = document.getElementById("map");
+  let form = document.querySelector('.js-search');
+
   if (!autocompleteEl) return;
 
   const settings = window._maps;
   let events = [];
-  
+
   loadGoogleMapsScript(settings.api, "loadGoogleMaps");
+
+  window.addEventListener('event-json-updated', ({detail}) => events = detail);
+
+  window.addEventListener('toggle-pagination', () => {
+    let pagination = document.querySelector('.js-pagination')
+    let count = document.querySelector('.js-search-header')
+
+    count.classList.toggle('tw-hidden')
+    pagination.classList.toggle('tw-hidden')
+
+  });
 
   const markers = [];
   let map;
@@ -33,7 +46,6 @@ function Events() {
   };
 
   function loadGoogleMaps() {
-    
     if (mapEl) {
       events = JSON.parse(eventsJSON.innerHTML);
 
@@ -71,7 +83,7 @@ function Events() {
         updateMesage("");
         locate(
           place.geometry.location.lat(),
-          place.geometry.location.lng()
+          place.geometry.location.lng(),
         );
       });
     }
@@ -85,7 +97,7 @@ function Events() {
     map.addListener("click", function (e) {
       infowindow.close();
     });
-    
+
     window.addEventListener('render-markers', ({ detail }) => {
       bounds = new google.maps.LatLngBounds();
 
@@ -100,8 +112,8 @@ function Events() {
       detail: events
     }));
   }
-  window.loadGoogleMaps = loadGoogleMaps;
 
+  window.loadGoogleMaps = loadGoogleMaps;
 
   function updateMesage(message = "", type = "info") {
     const el = document.querySelector(".js-map-alert");
@@ -120,12 +132,11 @@ function Events() {
     const latEl = document.querySelector('[name="lat"]');
     const lngEl = document.querySelector('[name="lng"]');
     if (!latEl || !lngEl) return;
-    
+
     latEl.value = lat;
     lngEl.value = lng;
-    
-    latEl.dispatchEvent(new Event('change', { bubbles: true }));
-    lngEl.dispatchEvent(new Event('change', { bubbles: true }));
+
+    form.dispatchEvent(new Event('submit'));
   }
 
 

@@ -28,7 +28,7 @@ class UpdateEventRequest extends FormRequest
     public function rules(): array
     {
         return [
-            'title' => ['required'],
+            'title' => ['required', 'max:50'],
             'description' => [],
             'start' => ['required', 'date', 'after_or_equal:tomorrow'],
             'end' => ['required', 'date', 'after:start'],
@@ -41,10 +41,11 @@ class UpdateEventRequest extends FormRequest
             'address_line_2' => [],
             'town' => ['required_without:virtual'],
             'postcode' => ['required_without:virtual'],
+            'directions' => [],
             'lat' => [],
             'lng' => [],
             'content' => [],
-            'booking_link' => ['url:https,http'],
+            'booking_link' => ['sometimes', 'nullable', 'url:https,http'],
             'cta' => ['max:1000'],
             'categories' => ['required_without:save_draft', 'array', 'min:1'],
             'organisers' => ['required', 'array', 'min:1'],

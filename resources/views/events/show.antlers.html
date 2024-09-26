@@ -61,6 +61,14 @@
             <span>Virtual event</span>
           </li>
         {{ /if }}
+
+        {{ if additional_access_information }}
+            <li class="c-twi c-twi--left">
+                {{ partial src="global/icon" id="info" }}
+                <span>{{ additional_access_information }}</span>
+            </li>
+        {{ /if }}
+
       </ol>
       {{ if latitude and longitude }}
         <div class="c-map">
@@ -74,11 +82,13 @@
         {{ partial src="global/twi" label="Book your place" icon="arrow-right" }}
       </a>
     {{ /if }}
+
     {{ if cta }}
       <div class="o-prose o-flow o-flow--xs c-event-cta js-link-icons">
         {{ cta }}
       </div>
     {{ /if }}
+
     <button
         type="button"
         class="tw-flex tw-gap-3 tw-items-center tw-text-brand-pink tw-font-bold tw-text-lg !tw-mt-4"
@@ -91,11 +101,38 @@
   </aside>
 
   <div class="o-flow o-flow--l">
-    {{ if featured_image }}
-      {{ glide:featured_image width="1251" height="834" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:featured_image }}
+    {{ img = featured_image ?? global:placeholder_image }}
+    {{ if img }}
+        <picture>
+            <source
+                srcset="{{ glide:img h="550" w="821" q="80" fit="contain" format="webp" }}"
+                type="image/webp"
+            />
+            <source
+                srcset="{{ glide:img h="550" w="821" q="80" fit="contain" format="jpg" }}"
+                type="image/jpg"
+            />
+            <img
+                src="{{ glide:img h="550" w="821" q="80" fit="contain" }}"
+                {{ if featured_image:alt }}
+                    alt="{{ featured_image:alt }}"
+                {{ /if }}
+                loading="eager"
+                height="821"
+                width="1251"
+                class="tw-bg-slate-200"
+            >
+        </picture>
     {{ /if }}
 
     {{ partial src="global/content_area" }}
+
+    {{ if directions }}
+        <div class="o-prose o-flow o-prose--pull-up-image js-link-icons">
+            <h3>How to get here</h3>
+            {{ directions }}
+        </div>
+    {{ /if }}
 
     {{ partial src="global/disclaimer" }}
   </div>

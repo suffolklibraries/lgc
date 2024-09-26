@@ -52,7 +52,7 @@ select {
 }
 
 [type='radio'],
-[type='checkbox']:not(#remember) {
+[type='checkbox']:not(#remember, .custom) {
   clip: rect(1px, 1px, 1px, 1px);
   clip-path: inset(50%);
   height: 1px;

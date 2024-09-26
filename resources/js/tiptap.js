@@ -55,6 +55,13 @@ export function initTipTap(element, placeholder) {
         }
     })
 
+    document.addEventListener('updateTipTapContent', (e) => {
+        if(e.detail.field === editorEl.getAttribute('data-field')) {
+            editor.commands.setContent(e.detail.value)
+            field.value = e.detail.value
+        }
+    })
+
     const BoldButton = element.querySelector('.buttons .text-bold');
     const ItalicButton = element.querySelector('.buttons .text-italic')
     const UnderlineButton = element.querySelector('.buttons .text-underline')
@@ -216,7 +223,8 @@ export function initTipTap(element, placeholder) {
         }
 
         editor.chain().focus().extendMarkRange('link').setLink({
-            href: linkModalUrlField.value
+            href: linkModalUrlField.value,
+            target: '_blank'
         }).run()
 
         closeLinkModal()

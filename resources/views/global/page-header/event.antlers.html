@@ -1,6 +1,6 @@
 <header class="c-page-header c-page-header--events {{ if standfirst or event_start_date }}c-page-header--with-content{{ /if }} {{ if standfirst }}c-page-header--standfirst{{ else }}c-page-header--simple{{ /if }} {{ if colour or hero-colour }} c-page-header--{{ colour or hero-colour }}{{ /if }} {{ if breadcrumb and breadcrumbLink != '/' }}c-page-header--breadcrumb{{ /if }}">
   <div class="o-wrap">
-    
+
     <div class="o-grid o-grid--page">
       <div class="headline o-flow o-flow--xs">
         <h1>{{ title }}</h1>
@@ -13,11 +13,14 @@
           </div>
         {{ /if }}
       </div>
-
-      {{ if accessibility_information }}
+      {{ if accessibility_information | count >= 1 }}
         <div class="c-tick-list step--1">
           <h3 class="u-screen-reader-only">Accessibility information</h3>
-          {{ accessibility_information }}
+          <ul>
+              {{ accessibility_information }}
+                <li>{{ value }}</li>
+              {{ /accessibility_information }}
+          </ul>
         </div>
       {{ /if }}
     </div>

@@ -34,16 +34,18 @@
           <div>
             <div>
               <div class="c-footer-listing o-flow o-flow--xs step--1">
-                <h3 class="step-0">{{ listing_section_title }}</h3>
+                <h3 class="step-0 tw-text-3xl">{{ listing_section_title }}</h3>
                 <ul>
                     <li>
                         <a
                             href="{{ logged_in ? {route:user.dashboard.index} : {route:login} }}"
+                            class="tw-text-2xl"
                         >
                             Organisation Login
                         </a>
                     </li>
                 </ul>
+                <p class="tw-text-base">Register your organisation to list events</p>
               </div>
             </div>
             <a href="https://www.artscouncil.org.uk/" class="c-footer_arts">

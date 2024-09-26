@@ -8,8 +8,18 @@
     <form
         action="{{ route:user.dashboard.saved-addresses.update :id="address.id" }}"
         method="POST"
-        class="event-submission-form tw-flex tw-flex-col tw-gap-10"
+        class="event-submission-form tw-flex tw-flex-col tw-gap-10 tw-relative"
+        @submit.prevent="submit"
+        x-data="{
+            saving: false,
+            submit () {
+                this.saving = true
+                this.$root.submit()
+            }
+        }"
     >
+        {{ partial:users/dashboard/loading-state }}
+
         {{ csrf_field }}
         {{ partial:partial/honeypot }}
 
@@ -23,7 +33,6 @@
             {{ partial:event-submission-form/text field_label="Town*" field_name="town" autocomplete="off" :value="address.town" }}
             {{ partial:event-submission-form/text field_label="Post Code*" field_name="postcode" autocomplete="off" :value="address.postcode" }}
         </div>
-
 
         <input
             type="hidden"
@@ -43,6 +52,23 @@
                 value="{{ address.lng }}"
             {{ /if }}
         >
+
+        <div>
+            <label
+            class="tw-text-brand-grey tw-text-base tw-font-medium"
+            for="editorjs"
+            >
+                How to get here
+            </label>
+
+            {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="directions" field_label="Directions" placeholder="" value="{{ directionContent | entities }}" }}
+
+            <p class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">
+                Please give a short explanation of how participants can travel to your event. You could include bus routes, nearby train stations, if parking is available on site, nearby parking availability, and other useful information. E.g. The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the <a href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/" target="_blank">Suffolk Onboard website</a>. Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the <a href="https://www.greateranglia.co.uk/travel-information/station-information/bse" target="_blank">Greater Anglia website</a>. There is car parking at the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm" target="_blank">Arc shopping centre</a>, which a six-minute walk away from the library, and the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm" target="_blank">St Andrews Flexi-Stay car park</a>, which is a five-minute walk. Plan your journey using <a href="https://www.suffolkonboard.com/" target="_blank">Suffolk Onboard</a>.
+            </p>
+
+        </div>
+
 
         <button type="submit" class="tw-bg-brand-pink motion-safe:tw-transition-colors hover:tw-bg-brand-pink-dark tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
             Save Address

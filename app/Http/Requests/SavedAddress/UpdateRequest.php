@@ -50,6 +50,7 @@ class UpdateRequest extends FormRequest
             'postcode' => ['required'],
             'lat' => [],
             'lng' => [],
+            'directions' => []
         ];
     }
 }

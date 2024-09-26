@@ -10,6 +10,7 @@ use Statamic\Facades\Asset;
 use Statamic\Facades\Entry;
 use Illuminate\Http\Request;
 use Illuminate\Support\Carbon;
+use Statamic\Facades\Collection;
 use Mews\Purifier\Facades\Purifier;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;
@@ -147,6 +148,19 @@ class UserDashboardController extends Controller
             $eventContent = $entry->content_area;
         }
 
+        if(is_array($entry->directions)) {
+            $coreModifiers = new CoreModifiers();
+            $directionsContent = $coreModifiers->bardHtml($entry->directions);
+        } else {
+            $directionsContent = $entry->directions;
+        }
+
+        $accessibilityInfoOptions = Collection::find('events')
+            ->entryBlueprint()
+            ->field('accessibility_information')
+            ->get('options');
+
+
         return (new View)
             ->layout('layout')
             ->template('users.dashboard.my-events-edit')
@@ -156,7 +170,9 @@ class UserDashboardController extends Controller
                 'categories' => $categories,
                 'event_organisers' => $eventOrganisers,
                 'event_content' => $eventContent,
-                'org_addresses' => $orgAddresses
+                'org_addresses' => $orgAddresses,
+                'directions_content' => $directionsContent,
+                'accessibility_info_options' => $accessibilityInfoOptions
             ]);
     }
 
@@ -167,52 +183,32 @@ class UserDashboardController extends Controller
 
         $start = Carbon::parse($request->start);
 
-
         $entry->slug(Str::slug(__(':name :start', [
             'name' => $request->title,
             'start' => $start->format('d-m-Y')
         ])));
 
-        $entry->data([
-            'title' => $request->title,
-            'content' => $request->description,
-            'start_date' => $start,
-            'end_date' => Carbon::parse($request->end),
-            'free' => $request->free === 'on' ? true : false,
-            'virtual' => $request->virtual === 'on' ? true : false,
-            'attendance_information' => $request->attendance_information,
-            'accessibility_information' => $request->accessibility_information,
-            'latitude' => $request->lat,
-            'longitude' => $request->lng,
-            'address_line_1' => $request->address_line_1,
-            'address_line_2' => $request->address_line_2,
-            'town' => $request->town,
-            'postcode' => $request->postcode,
-            'content_area' => Purifier::clean($request->content),
-            'booking_link' => $request->booking_link,
-            'cta' => $request->cta,
-            'cost_details' => $request->cost_details,
-            'created_by' => $user ? $user->id : null
-        ]);
+        $data = $this->mapEventData($request, $user);
+
 
         if($request->file('image')) {
+            $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
+            $data['featured_image'] = $assetPath;
+        } else {
+            $data['featured_image'] = $entry->featured_image?->path;
 
-            $file = $request->file('image');
+            if($request->alternative_text) {
+                $asset = $entry->featured_image;
 
-            $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
-                'name' => $file->getClientOriginalName()
-            ]));
-
-            $asset->data([
-                'alt' => $request->alternative_text ?? $request->title
-            ]);
-
-            $asset->upload($file);
-
-            $asset->save();
-
-            $entry->featured_image = $asset->path;
+                if($asset) {
+                    $asset->set('alt', $request->alternative_text);
+                    $asset->save();
+                }
+            }
         }
+
+
+        $entry->data($data);
 
         if($request->categories) {
             $entry->event_categories = $request->categories;
@@ -265,13 +261,19 @@ class UserDashboardController extends Controller
 
         $orgAddresses = Auth::user()->linked_organisations?->get('addresses');
 
+        $accessibilityInfoOptions = Collection::find('events')
+            ->entryBlueprint()
+            ->field('accessibility_information')
+            ->get('options');
+
         return (new View)
             ->layout('layout')
             ->template('users.dashboard.my-events-create')
             ->with([
                 'title' => "Dashboard",
                 'default_org' => $defaultOrg,
-                'org_addresses' => $orgAddresses
+                'org_addresses' => $orgAddresses,
+                'accessibility_info_options' => $accessibilityInfoOptions,
             ]);
     }
 
@@ -288,45 +290,13 @@ class UserDashboardController extends Controller
                 'name' => $request->title,
                 'start' => $start->format('d-m-Y')
             ])))
-            ->data([
-                'title' => $request->title,
-                'content' => $request->description,
-                'start_date' => $start,
-                'end_date' => Carbon::parse($request->end),
-                'free' => $request->free === 'on' ? true : false,
-                'virtual' => $request->virtual === 'on' ? true : false,
-                'attendance_information' => $request->attendance_information,
-                'accessibility_information' => $request->accessibility_information,
-                'latitude' => $request->lat,
-                'longitude' => $request->lng,
-                'address_line_1' => $request->address_line_1,
-                'address_line_2' => $request->address_line_2,
-                'town' => $request->town,
-                'postcode' => $request->postcode,
-                'content_area' => Purifier::clean($request->content),
-                'booking_link' => $request->booking_link,
-                'cta' => $request->cta,
-                'cost_details' => $request->cost_details,
-                'created_by' => $user ? $user->id : null
-            ]);
+            ->data(
+                $this->mapEventData($request, $user)
+            );
 
         if($request->file('image')) {
-
-            $file = $request->file('image');
-
-            $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
-                'name' => $file->getClientOriginalName()
-            ]));
-
-            $asset->data([
-                'alt' => $request->alternative_text ?? $request->title
-            ]);
-
-            $asset->upload($file);
-
-            $asset->save();
-
-            $entry->featured_image = $asset->path;
+            $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
+            $entry->featured_image = $assetPath;
         }
 
         if($request->categories) {
@@ -360,45 +330,13 @@ class UserDashboardController extends Controller
                 'name' => $request->title,
                 'start' => $start->format('d-m-Y')
             ])))
-            ->data([
-                'title' => $request->title,
-                'content' => $request->description,
-                'start_date' => $start,
-                'end_date' => Carbon::parse($request->end),
-                'free' => $request->free === 'on' ? true : false,
-                'virtual' => $request->virtual === 'on' ? true : false,
-                'attendance_information' => $request->attendance_information,
-                'accessibility_information' => $request->accessibility_information,
-                'latitude' => $request->lat,
-                'longitude' => $request->lng,
-                'address_line_1' => $request->address_line_1,
-                'address_line_2' => $request->address_line_2,
-                'town' => $request->town,
-                'postcode' => $request->postcode,
-                'content_area' => Purifier::clean($request->content),
-                'booking_link' => $request->booking_link,
-                'cta' => $request->cta,
-                'cost_details' => $request->cost_details,
-                'created_by' => $user ? $user->id : null
-            ]);
+            ->data(
+                $this->mapEventData($request, $user)
+            );
 
         if($request->file('image')) {
-
-            $file = $request->file('image');
-
-            $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
-                'name' => $file->getClientOriginalName()
-            ]));
-
-            $asset->data([
-                'alt' => $request->alternative_text ?? $request->title
-            ]);
-
-            $asset->upload($file);
-
-            $asset->save();
-
-            $entry->featured_image = $asset->path;
+            $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
+            $entry->featured_image = $assetPath;
         }
 
         if($request->categories) {
@@ -429,47 +367,28 @@ class UserDashboardController extends Controller
             ->slug(Str::slug(__(':name :start', [
                 'name' => $request->title,
                 'start' => $start->format('d-m-Y')
-            ])))
-            ->data([
-                'title' => $request->title,
-                'content' => $request->description,
-                'start_date' => $start,
-                'end_date' => Carbon::parse($request->end),
-                'free' => $request->free === 'on' ? true : false,
-                'virtual' => $request->virtual === 'on' ? true : false,
-                'attendance_information' => $request->attendance_information,
-                'accessibility_information' => $request->accessibility_information,
-                'latitude' => $request->lat,
-                'longitude' => $request->lng,
-                'address_line_1' => $request->address_line_1,
-                'address_line_2' => $request->address_line_2,
-                'town' => $request->town,
-                'postcode' => $request->postcode,
-                'content_area' => Purifier::clean($request->content),
-                'booking_link' => $request->booking_link,
-                'cta' => $request->cta,
-                'cost_details' => $request->cost_details,
-                'created_by' => $user ? $user->id : null
-            ]);
+            ])));
+
+        $data = $this->mapEventData($request, $user);
+
 
         if($request->file('image')) {
+            $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
+            $data['featured_image'] = $assetPath;
+        } else {
+            $data['featured_image'] = $entry->featured_image?->path;
 
-            $file = $request->file('image');
+            if($request->alternative_text) {
+                $asset = $entry->featured_image;
 
-            $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
-                'name' => $file->getClientOriginalName()
-            ]));
-
-            $asset->data([
-                'alt' => $request->alternative_text ?? $request->title
-            ]);
-
-            $asset->upload($file);
-
-            $asset->save();
-
-            $entry->featured_image = $asset->path;
+                if($asset) {
+                    $asset->set('alt', $request->alternative_text);
+                    $asset->save();
+                }
+            }
         }
+
+        $entry->data($data);
 
         if($request->categories) {
             $entry->event_categories = $request->categories;
@@ -496,5 +415,48 @@ class UserDashboardController extends Controller
         }
 
         return $entry;
+    }
+
+    protected function saveImage($file, $altText = null): string
+    {
+        $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
+            'name' => $file->getClientOriginalName()
+        ]));
+
+        $asset->data([
+            'alt' => $altText ?? $file->getClientOriginalName()
+        ]);
+
+        $asset->upload($file);
+
+        $asset->save();
+
+        return $asset->path;
+    }
+
+    protected function mapEventData($request, $user) {
+        return [
+            'title' => $request->title,
+            'content' => $request->description,
+            'start_date' => Carbon::parse($request->start),
+            'end_date' => Carbon::parse($request->end),
+            'free' => $request->free === 'on' ? true : false,
+            'virtual' => $request->virtual === 'on' ? true : false,
+            'attendance_information' => $request->attendance_information,
+            'accessibility_information' => $request->accessibility_information,
+            'additional_access_information' => $request->additional_access_information,
+            'latitude' => $request->lat,
+            'longitude' => $request->lng,
+            'address_line_1' => $request->address_line_1,
+            'address_line_2' => $request->address_line_2,
+            'town' => $request->town,
+            'postcode' => $request->postcode,
+            'directions' => Purifier::clean($request->directions),
+            'content_area' => Purifier::clean($request->content),
+            'booking_link' => $request->booking_link,
+            'cta' => $request->cta,
+            'cost_details' => $request->cost_details,
+            'created_by' => $user ? $user->id : null
+        ];
     }
 }

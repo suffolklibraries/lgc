@@ -34,7 +34,16 @@
             method="POST"
             action="{{ route:user.logout }}"
             class="tw-w-full"
+            @submit.prevent="submit"
+            x-data="{
+                saving: false,
+                submit () {
+                    this.saving = true
+                    this.$root.submit()
+                }
+            }"
         >
+            {{ partial:users/dashboard/loading-state }}
             {{ csrf_field }}
             <button type="submit" class="tw-w-full tw-px-3 tw-py-4 tw-flex tw-gap-2 tw-items-center tw-text-xl">
                 {{ svg:logout class="tw-h-5 tw-w-5" }}

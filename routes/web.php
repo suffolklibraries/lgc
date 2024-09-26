@@ -11,6 +11,7 @@ use App\Http\Controllers\UserDashboardController;
 use App\Http\Controllers\EventSubmissionController;
 use App\Http\Controllers\InappropriateContentReportController;
 use App\Http\Controllers\SavedAddressController;
+use App\Http\Controllers\Api\SavedAddressController as ApiSavedAddressController;
 use App\Http\Middleware\MustBeLoggedIn;
 
 /*
@@ -67,6 +68,8 @@ Route::group(['as' => 'user.'], function(){
                 Route::post('update/{id}', [SavedAddressController::class, 'update'])->name('update');
                 Route::delete('delete/{id}', [SavedAddressController::class, 'delete'])->name('delete');
             });
+
+            Route::get('api/index', [ApiSavedAddressController::class, 'index'])->name('api.index');
 
         });
     });

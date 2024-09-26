@@ -5,7 +5,21 @@
         </div>
     {{ /endif }}
 
-    <form action="{{ route:user.dashboard.my-organisation.update }}" method="POST" class="tw-flex tw-flex-col tw-gap-4">
+    <form
+        action="{{ route:user.dashboard.my-organisation.update }}"
+        method="POST"
+        class="tw-flex tw-flex-col tw-gap-4 tw-relative"
+        @submit.prevent="submit"
+        x-data="{
+            saving: false,
+            submit () {
+                this.saving = true
+                this.$root.submit()
+            }
+        }"
+    >
+        {{ partial:users/dashboard/loading-state }}
+
         {{ csrf_field }}
         {{ partial:partial/honeypot }}
         <input type="hidden" name="org" value="{{ organisation.id }}">

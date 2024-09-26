@@ -35,12 +35,14 @@ class EventSubmissionController extends Controller
                 'virtual' => $request->virtual === 'on' ? true : false,
                 'attendance_information' => $request->attendance_information,
                 'accessibility_information' => $request->accessibility_information,
+                'additional_access_information' => $request->additional_access_information,
                 'latitude' => $request->lat,
                 'longitude' => $request->lng,
                 'address_line_1' => $request->address_line_1,
                 'address_line_2' => $request->address_line_2,
                 'town' => $request->town,
                 'postcode' => $request->postcode,
+                'directions' => Purifier::clean($request->directions),
                 'content_area' => Purifier::clean($request->content),
                 'booking_link' => $request->booking_link,
                 'cta' => $request->cta,
@@ -50,22 +52,8 @@ class EventSubmissionController extends Controller
             ]);
 
         if($request->file('image')) {
-
-            $file = $request->file('image');
-
-            $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
-                'name' => $file->getClientOriginalName()
-            ]));
-
-            $asset->data([
-                'alt' => $request->alternative_text ?? $request->title
-            ]);
-
-            $asset->upload($file);
-
-            $asset->save();
-
-            $entry->featured_image = $asset->path;
+            $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
+            $entry->featured_image = $assetPath;
         }
 
         if($request->categories) {
@@ -83,5 +71,22 @@ class EventSubmissionController extends Controller
         return redirect()
             ->back()
             ->with('success', "Thank you for your submission.");
+    }
+
+    protected function saveImage($file, $altText = null): string
+    {
+        $asset = Asset::make()->container('assets')->path(__('user-events/:name', [
+            'name' => $file->getClientOriginalName()
+        ]));
+
+        $asset->data([
+            'alt' => $altText ?? $file->getClientOriginalName()
+        ]);
+
+        $asset->upload($file);
+
+        $asset->save();
+
+        return $asset->path;
     }
 }
