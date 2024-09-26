@@ -2,16 +2,16 @@
 id: b928b7da-244b-42c4-8367-5102a12ef054
 published: false
 blueprint: events
-title: 'Blank Page - Beccles (Duplicated)'
+title: 'Halloween Prints'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720005291
+updated_at: 1727346139
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
-start_date: '2024-07-23 09:45'
+start_date: '2024-10-26 10:30'
 event_categories:
   - art
-  - computing
+  - family-friendly
 free: true
 virtual: false
 organisers:
@@ -20,8 +20,8 @@ address_line_1: 'Beccles Library'
 address_line_2: Blyburgate
 town: Beccles
 postcode: 'NR34 9TB'
-featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+featured_image: suffolklibrariesimages/2024.10---holly-scholfield-event-image-(2).jpg
+attendance_information: '- Ages 7 and up'
 content_area:
   -
     type: heading
@@ -36,33 +36,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
+        text: 'Learn to draw, create and print your own beautiful Halloween-inspired Tetra Pak prints!'
   -
     type: paragraph
     content:
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
+        text: 'During this fast, fun and environmentally friendly workshop, we will be exploring the traditional printing process of dry point etching, the tools, the inks, the press and the whole process from start to finish.'
   -
     type: heading
     attrs:
@@ -76,21 +56,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: .
+        text: 'Choose your workshop and book your place through the Suffolk Libraries website.'
   -
     type: heading
     attrs:
@@ -187,12 +153,9 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-27 15:30'
+accessibility_information: '- Wheelchair access'
+end_date: '2024-10-26 15:00'
 duplicated_from: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
 booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+Come and join artist Holly Scholfield for a FREE Halloween printmaking workshop!
