@@ -41,8 +41,8 @@
         {{ content }}
       </div>
       <ul class="c-event-card__meta tw-flex-col">
-        <li class="tw-flex tw-items-center tw-gap-1">
-          {{ partial src="global/icon" id="calendar" }}
+        <li class="tw-flex tw-items-start tw-gap-1">
+          {{ partial src="global/icon" id="calendar" class="tw-mt-1" }}
           {{ if start_date | format:Ymd === end_date | format:Ymd }}
             {{ start_date format="D j M Y" }}
           {{ else }}
@@ -51,15 +51,15 @@
         </li>
 
         {{ if address_line_1 }}
-          <li class="tw-flex tw-items-center tw-gap-1">
-            {{ partial src="global/icon" id="map-pin" }}
+          <li class="tw-flex tw-items-start tw-gap-1">
+            {{ partial src="global/icon" id="map-pin" class="tw-mt-1" }}
             {{ address_line_1 }}{{ town ? ', ' : '' }}{{ town }}
           </li>
         {{ /if }}
 
         {{ if virtual }}
-          <li class="tw-flex tw-items-center tw-gap-1">
-            {{ partial src="global/icon" id="map-pin" }}
+          <li class="tw-flex tw-items-start tw-gap-1">
+            {{ partial src="global/icon" id="map-pin" class="tw-mt-1" }}
             Virtual event
           </li>
         {{ /if }}
