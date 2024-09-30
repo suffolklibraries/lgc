@@ -21,6 +21,12 @@ document.addEventListener('alpine:init', () => {
             this.$root.querySelector("#lat").value = address.lat
             this.$root.querySelector("#lng").value = address.lng
 
+            if(address.building_name) {
+                this.$root.querySelector("#building_name").value = address.building_name
+            } else {
+                this.$root.querySelector("#building_name").value = null
+            }
+
             let customEvent = new CustomEvent("updateTipTapContent", {
                 detail: {
                     value: address.directions,

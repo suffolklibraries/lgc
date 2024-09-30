@@ -29,8 +29,8 @@ function EventSubmissionForm () {
                 })
 
                 autocomplete.addListener("place_changed", function () {
-
                     const place = autocomplete.getPlace()
+                    console.log(place)
 
                     if (!place.geometry) {
                         return;
@@ -71,11 +71,13 @@ function EventSubmissionForm () {
         const addressLine2El = form.querySelector('[name="address_line_2"]')
         const townEl = form.querySelector('[name="town"]')
         const postcodeEl = form.querySelector('[name="postcode"]')
+        const buildingNameEl = form.querySelector('[name="building_name"')
 
         addressLine1El.value = null
         addressLine2El.value = null
         townEl.value = null
         postcodeEl.value = null
+        buildingNameEl.value = null
 
         let addressLine1, addressLine2, town, postcode
 
@@ -99,10 +101,13 @@ function EventSubmissionForm () {
             }
         });
 
+        if(!place.types.includes('street_address')) {
+            buildingNameEl.value = place.name
+        }
+
         if(!addressLine1) {
             addressLine1 = place.formatted_address.split(',')[0].trim()
         }
-
 
         if(addressLine1) {
             addressLine1El.value = addressLine1
