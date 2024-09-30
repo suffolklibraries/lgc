@@ -27,6 +27,7 @@
         {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
 
         <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+            {{ partial:event-submission-form/text field_label="Building Name" field_name="building_name" autocomplete="off" }}
             {{ partial:event-submission-form/text field_label="Address Line 1*" field_name="address_line_1" autocomplete="off" }}
             {{ partial:event-submission-form/text field_label="Address Line 2" field_name="address_line_2" autocomplete="off" }}
             {{ partial:event-submission-form/text field_label="Town*" field_name="town" autocomplete="off" }}

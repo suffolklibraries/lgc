@@ -37,6 +37,7 @@ class UpdateEventRequest extends FormRequest
             'cost_details' => ['max:255'],
             'attendance_information' => [],
             'accessibility_information' => [],
+            'building_name' => [],
             'address_line_1' => ['required_without:virtual'],
             'address_line_2' => [],
             'town' => ['required_without:virtual'],

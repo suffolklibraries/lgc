@@ -38,6 +38,7 @@ class EventSubmissionController extends Controller
                 'additional_access_information' => $request->additional_access_information,
                 'latitude' => $request->lat,
                 'longitude' => $request->lng,
+                'building_name' => $request->building_name ?? null,
                 'address_line_1' => $request->address_line_1,
                 'address_line_2' => $request->address_line_2,
                 'town' => $request->town,

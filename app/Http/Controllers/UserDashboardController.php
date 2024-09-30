@@ -449,6 +449,7 @@ class UserDashboardController extends Controller
             'longitude' => $request->lng,
             'address_line_1' => $request->address_line_1,
             'address_line_2' => $request->address_line_2,
+            'building_name' => $request->building_name ?? null,
             'town' => $request->town,
             'postcode' => $request->postcode,
             'directions' => Purifier::clean($request->directions),

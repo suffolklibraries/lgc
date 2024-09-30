@@ -230,6 +230,19 @@ tabs:
               listable: hidden
               instructions_position: above
           -
+            handle: building_name
+            field:
+              input_type: text
+              antlers: false
+              type: text
+              display: 'Building Name'
+              width: 50
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false
+          -
             handle: address_line_1
             field:
               input_type: text

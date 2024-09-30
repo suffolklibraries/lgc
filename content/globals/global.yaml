@@ -15,11 +15,11 @@ data:
       icon: facebook
     -
       id: 7CwqZNJw
-      link: 'https://twitter.com/BLOC_Arts'
+      link: 'https://twitter.com/suffolklibrary'
       icon: twitter
     -
       id: eRLZbFNc
-      link: 'https://www.instagram.com/bloc_arts/'
+      link: 'https://www.instagram.com/suffolklibraries'
       icon: instagram
     -
       id: M7Wmbw0C
@@ -33,8 +33,14 @@ data:
   footer_links:
     -
       id: 0KNlpwA1
-      text: 'Privacy and cookies'
-      url: 'https://www.suffolklibraries.co.uk/about/legal-information/privacy-and-cookies'
+      text: 'Cookie Policy'
+      url: 'https://www.suffolklibraries.co.uk/legal/cookie-policy'
+      type: new_set
+      enabled: true
+    -
+      id: m1oy4d95
+      text: 'Privacy Policy'
+      url: 'https://www.suffolklibraries.co.uk/legal/full-privacy-notice'
       type: new_set
       enabled: true
     -
@@ -50,15 +56,16 @@ data:
       type: new_set
       enabled: true
   newsletter_embed: |-
-    <form action="https://suffolklibraries.us5.list-manage.com/subscribe/post?u=39d6c8527f75e31c9e770c6a4&amp;id=99bfb72dfd" method="post" name="mc-embedded-subscribe-form" target="_blank">
+    <form action="https://suffolklibraries.us4.list-manage.com/subscribe" method="get" name="mc-embedded-subscribe-form" target="_blank">
+      <input type="hidden" name="u" value="8fdb8e824d6cb5f95be2c5b88" />
+      <input type="hidden" name="id" value="6911de9aaa" />
       <div class="u-flex o-flow-x">
         <p class="u-flex-1">
           <label class="u-screen-reader-only" for="newsletter-email">Email address</label>
-          <input type="email" value="" name="EMAIL" class="u-bg-white" id="newsletter-email" placeholder="Email address" required />
+          <input type="email" value="" name="MERGE0" class="u-bg-white" id="newsletter-email" placeholder="Email address" required />
         </p>
-        <input type="submit" class="button button--orange" name="subscribe" value="Subscribe" />
+        <input type="submit" class="button button--orange" value="Subscribe" />
       </div>
-      <div style="position: absolute; left: -5000px; width: 0;" aria-hidden="true"><input type="text" name="b_39d6c8527f75e31c9e770c6a4_99bfb72dfd" tabindex="-1" value=""></div>
     </form>
     <p>We never spam. Unsubscribe at any time. <!-- <a href="#">View the latest edition</a> --></p>
   header_scripts: |-

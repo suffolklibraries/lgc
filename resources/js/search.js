@@ -112,6 +112,7 @@ function onSubmit(e) {
       }
 
       const newPagination = results.querySelector('.js-pagination');
+      console.log(newPagination)
       const oldPagination = document.querySelector('.js-pagination');
       if (newPagination && oldPagination) {
         oldPagination.innerHTML = newPagination.innerHTML;

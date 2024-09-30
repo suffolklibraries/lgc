@@ -68,6 +68,7 @@ class SavedAddressController extends Controller
             'lat' => $request->lat,
             'lng' => $request->lng,
             'directions' => $request->directions,
+            'building_name' => $request->building_name,
         ];
 
         $addresses = $org->get('addresses');
