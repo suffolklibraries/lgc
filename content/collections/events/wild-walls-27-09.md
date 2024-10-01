@@ -1,5 +1,6 @@
 ---
 id: e9173899-6708-40a1-bf2e-b36b4f5e8d98
+published: false
 blueprint: events
 title: 'Wild Walls Festival: Exit Through the Gift Shop'
 event_categories:
