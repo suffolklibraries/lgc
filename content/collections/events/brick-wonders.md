@@ -1,5 +1,6 @@
 ---
 id: 09c9928d-25c3-4d12-aea4-5eb3bc69b48a
+published: false
 blueprint: events
 title: 'Exhibition: Brick Wonders - Around the World in LEGO® Bricks'
 event_categories:
