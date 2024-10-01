@@ -1,5 +1,6 @@
 ---
 id: f7013154-898d-41a9-9500-93e8027bbfae
+published: false
 blueprint: events
 title: 'Print Social'
 event_categories:
