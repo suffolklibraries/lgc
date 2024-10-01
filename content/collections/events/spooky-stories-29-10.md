@@ -53,6 +53,12 @@ content_area:
     content:
       -
         type: text
+        text: 'This experimental workshop will encourage participants to tell their own stories through moving image, by exploring 2D methods of animation using iPad technology. Participants will have the opportunity to create their own art work in different ways and learn how to work with stop frame animation techniques to make their own short film.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         text: "You don't need to bring anything with you but your imagination!"
   -
     type: paragraph
@@ -197,7 +203,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727114538
+updated_at: 1727783696
 duplicated_from: f719f130-fc17-4274-8cfe-26276f006817
 attendance_information: '- Family friendly'
 ---
