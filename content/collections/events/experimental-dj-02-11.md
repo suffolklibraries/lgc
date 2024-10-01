@@ -1,14 +1,13 @@
 ---
 id: 70d1ae82-6e80-482f-bac1-f5056870eb09
-published: false
 blueprint: events
-title: 'Blank Page - Haverhill (Duplicated)'
+title: 'Experimental DJ Workshop'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720006451
+updated_at: 1727801447
 latitude: '52.08323706363814'
 longitude: '0.4367866106022539'
-start_date: '2024-07-25 09:45'
+start_date: '2024-11-02 11:00'
 event_categories:
   - art
   - computing
@@ -21,8 +20,8 @@ address_line_1: 'Haverhill Library'
 address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
-featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+featured_image: offthepressimages/music.png
+attendance_information: '- Ages 10 - 19'
 content_area:
   -
     type: heading
@@ -37,33 +36,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
+        text: 'Get ready to explore the world of sound like never before with our Experimental DJ Workshop for ages 10-19! '
   -
     type: paragraph
     content:
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
+        text: "In this hands-on experience, you'll build your own devices to play vinyl records, create music using fruits and vegetables, and dive into DJing. "
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
+        text: 'Want to try Experimental Turntablism? Cut up records and craft your own beats as you remix tunes. '
+  -
+    type: paragraph
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
+        text: "Whether you're an aspiring musician or just curious about how sound works, this workshop will take you on an exciting journey into audio creativity."
   -
     type: heading
     attrs:
@@ -77,21 +68,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: .
+        text: 'No need to book, just drop-in between 11am - 3pm.'
   -
     type: heading
     attrs:
@@ -185,9 +162,7 @@ cta: |-
 accessibility_information: |-
   - Wheelchair access
   - Indoor venue
-  - SEND support available
-end_date: '2024-08-29 15:30'
+end_date: '2024-11-02 15:00'
 duplicated_from: e3f7a53a-3400-4cc4-b142-d945925ba27c
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+Create beats, remix tunes, and explore sound in this DJ workshop!
