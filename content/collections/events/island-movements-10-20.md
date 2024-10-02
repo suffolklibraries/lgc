@@ -1,15 +1,14 @@
 ---
 id: 9683ea6c-b6e0-48a1-a456-022f3d52ee9e
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Island Movements'
 event_categories:
-  - literature
+  - dance
 organisers:
-  - suffolk-libraries
-featured_image: suffolklibrariesimages/reading-with-dementia.png
-start_date: '2024-07-01 14:15'
-end_date: '2024-07-01 15:15'
+  - black-british-ballet
+featured_image: suffolklibrariesimages/island-movements.jpg
+start_date: '2024-10-10 12:00'
+end_date: '2024-10-10 13:15'
 free: true
 virtual: false
 latitude: '52.05879312178225'
@@ -32,25 +31,37 @@ content_area:
     content:
       -
         type: text
-        text: 'Reading with Dementia is a new programme developed by Suffolk Libraries, with The Reading Agency, to support people living with dementia and their carers.'
+        text: 'Island Movements is a short ballet that tells the story of Windrush, exploring the impact of this generation’s experiences on their families, communities and society.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Join our weekly book group to be together, share support, and find out about resources available. '
+        text: 'Beginning with a young Caribbean woman who volunteers to support the war effort in WW2 Britain, this moving tale follows her and her family through their life in the UK to the current day.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'We are particularly keen to welcome people from the LGBTQIA+ community, people with learning disabilities and people from ethnic minority backgrounds.'
+        text: "\_Darren Panton, the first black British dancer to graduate from the Royal Ballet School and Patrick Williams, who danced at Alvin Ailey and the Paris Opera developed the show. Greta Mendez MBE and Shevelle Dynott are choreographing."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Reading with Dementia groups also meet in Lowestoft Library and Newmarket Library.'
+        text: "\_Featuring original music by the groundbreaking Kinetika Bloco, the story is driven by a pulsating mix of reggae, calypso and contemporary black British music."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "\_The show will be followed by a Q&A with the dancers and creators."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'If you’ve never seen a ballet before, then this is the one for you!'
   -
     type: paragraph
   -
@@ -66,35 +77,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For more information and to book contact Kayleigh via telephone on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07380187733'
-              rel: null
-              target: null
-              title: null
-        text: '07380 187733'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:kayleigh.kent@suffolklibraries.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: kayleigh.kent@suffolklibraries.co.uk
-      -
-        type: text
-        text: .
+        text: 'No booking required, just come along.'
   -
     type: paragraph
   -
@@ -222,8 +205,9 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1712832531
+updated_at: 1727865718
 duplicated_from: 9e8b3f92-8696-48db-a688-671f14b3eabd
-accessibility_information: '- Dementia friendly'
+accessibility_information: '- Very limited seating available'
+attendance_information: '- Ages 7+'
 ---
-Weekly reading group for people living with Dementia and their families and carers.
+An epic tale of a Windrush family
