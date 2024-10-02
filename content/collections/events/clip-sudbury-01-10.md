@@ -1,5 +1,6 @@
 ---
 id: 68f6f39d-d3da-4050-810e-21c578aa6328
+published: false
 blueprint: events
 title: 'CLIP Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
