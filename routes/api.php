@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Api\EventController;
+use App\Http\Middleware\TokenAuthentication;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,4 +15,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/events', [EventController::class, 'index']);
+Route::middleware(TokenAuthentication::class)->group(function () {
+    Route::get('/events', [EventController::class, 'index']);
+});
