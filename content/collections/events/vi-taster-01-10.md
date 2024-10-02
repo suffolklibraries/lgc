@@ -1,5 +1,6 @@
 ---
 id: 969a2244-5fcb-48ca-9499-a0ce12ef5898
+published: false
 blueprint: events
 title: 'VI Arts Taster Programme - Singing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
