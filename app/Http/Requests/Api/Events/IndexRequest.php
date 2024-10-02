@@ -11,8 +11,7 @@ class IndexRequest extends FormRequest
      */
     public function authorize(): bool
     {
-        $apiKey = '123456';
-        return true;//$this->get('api_key') === $apiKey;
+        return true;
     }
 
     /**
@@ -23,7 +22,6 @@ class IndexRequest extends FormRequest
     public function rules(): array
     {
         return [
-            // 'api_key' => ['required', 'string'],
             'search' => ['nullable', 'string'],
             'status' => ['nullable', 'in:published,draft'],
             'category' => ['nullable', 'string'],
