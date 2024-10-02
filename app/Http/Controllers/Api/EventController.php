@@ -35,7 +35,7 @@ class EventController extends Controller
                 }
             })
             ->when($data['start_date'] ?? null, function ($query, $startDate) {
-                $query->where('start_date', $startDate);
+                $query->whereDate('start_date', $startDate);
             })
             ->orderBy('start_date', 'desc');
 
