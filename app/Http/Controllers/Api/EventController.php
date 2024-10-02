@@ -39,6 +39,6 @@ class EventController extends Controller
             })
             ->orderBy('start_date', 'desc');
 
-        return $events->paginate(1);
+        return $events->paginate(10);
     }
 }
