@@ -5,7 +5,7 @@ blueprint: events
 title: 'Halloween Prints'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727346139
+updated_at: 1727870169
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
 start_date: '2024-10-26 10:30'
@@ -56,7 +56,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Choose your workshop and book your place through the Suffolk Libraries website.'
+        text: 'Choose your workshop and book your place through the Suffolk Libraries website. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Please note children must be accompanied by a responsible adult.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Workshops last 50 minutes and start at 10am, 11.30am, and 1.30pm.'
   -
     type: heading
     attrs:
@@ -156,6 +168,5 @@ cta: |-
 accessibility_information: '- Wheelchair access'
 end_date: '2024-10-26 15:00'
 duplicated_from: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
 Come and join artist Holly Scholfield for a FREE Halloween printmaking workshop!
