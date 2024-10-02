@@ -23,7 +23,7 @@ class IndexRequest extends FormRequest
     {
         return [
             'search' => ['nullable', 'string'],
-            'status' => ['nullable', 'in:published,draft'],
+            'status' => ['nullable', 'string', 'in:published,draft'],
             'category' => ['nullable', 'string'],
             'type' => ['nullable', 'string', 'in:virtual,free'],
             'start_date' => ['nullable', 'date:Y-m-d'],
