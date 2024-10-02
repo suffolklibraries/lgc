@@ -1,11 +1,10 @@
 ---
 id: b928b7da-244b-42c4-8367-5102a12ef054
-published: false
 blueprint: events
 title: 'Halloween Prints'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727870169
+updated_at: 1727870374
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
 start_date: '2024-10-26 10:30'
