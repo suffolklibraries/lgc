@@ -6,14 +6,14 @@
                     <li class="prev">
                         <a href="{{ prev_page + {regular ? '#regular-events' : ''} }}" aria-label="Go to previous page - page {{ current_page - 1 }}">
                             {{ partial:global/icon id="arrow-left" class="u-green" }}
-                            <span>Previous</span>
+                            <span class="tw-hidden sm:tw-flex">Previous</span>
                         </a>
                     </li>
                 {{ else }}
                     <li class="prev disabled">
                         <span>
                             {{ partial:global/icon id="arrow-left" class="u-green" }}
-                            <span>Previous</span>
+                            <span class="tw-hidden sm:tw-flex">Previous</span>
                         </span>
                     </li>
                 {{ /if }}
@@ -75,14 +75,14 @@
                 {{ if next_page }}
                     <li class="next">
                         <a href="{{ next_page + {regular ? '#regular-events' : ''} }}" aria-label="Go to next page - page {{ current_page + 1 }}">
-                            <span>Next</span>
+                            <span class="tw-hidden sm:tw-flex">Next</span>
                             {{ partial:global/icon id="arrow-right" class="u-green" }}
                         </a>
                     </li>
                 {{ else }}
                     <li class="disabled next">
                         <span>
-                            <span>Next</span>
+                            <span class="tw-hidden sm:tw-flex">Next</span>
                             {{ partial:global/icon id="arrow-right" class="u-green" }}
                         </span>
                     </li>
