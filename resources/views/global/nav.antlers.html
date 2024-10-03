@@ -7,7 +7,17 @@
         {{ /spotlights }}
       {{ /collection:spotlights }}
     {{ else }}
-      <li><a href="{{ url }}">{{ title }}</a></li>
+      <li>
+        <a
+            {{ if handles_users }}
+                href="{{ logged_in ? {route:user.dashboard.index} : {route:login} }}"
+            {{ else }}
+                href="{{ url }}"
+            {{ /if }}
+        >
+            {{ title }}
+        </a>
+    </li>
     {{ /if }}
   {{ /nav:main }}
 </ul>

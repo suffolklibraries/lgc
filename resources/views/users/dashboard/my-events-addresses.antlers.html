@@ -1,0 +1,121 @@
+{{ partial:event-submission-form/section section_title="Location" }}
+    {{ slot:attributes }}
+        x-data="eventLocationForm"
+    {{ /slot:attributes }}
+
+
+    <div class="tw-flex tw-flex-col tw-gap-4 tw-border tw-border-brand-grey/30 tw-px-4 tw-py-4">
+        <h3 class="tw-text-2xl tw-mb-4">Saved Addresses</h3>
+
+        <template x-if="loading">
+            <table class="tw-table-auto motion-safe:tw-animate-pulse">
+                <thead class="tw-border-b tw-border-brand-grey/30">
+                    <th class="tw-text-base tw-font-semibold tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></th>
+                    <th class="tw-text-base tw-font-semibold tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></th>
+                    <th class="tw-text-base tw-font-semibold tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></th>
+                    <th class="tw-text-base tw-font-semibold tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></th>
+                    <th class="tw-text-base tw-font-semibold tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></th>
+                </thead>
+                <tbody>
+                    <template x-for="i in 3">
+                        <tr>
+                            <td class="tw-text-base tw-font-medium tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1"><span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block"></span></td>
+                            <td class="tw-py-1">
+                                <span class="tw-w-full tw-bg-slate-400 tw-rounded-full tw-h-3 tw-block">
+                            </td>
+                        </tr>
+                    </template>
+                </tbody>
+            </table>
+        </template>
+
+        <template x-if="!loading && addresses">
+            <table>
+                <thead class="tw-border-b tw-border-brand-grey/30">
+                    <th class="tw-text-base tw-font-semibold">Name</th>
+                    <th class="tw-text-base tw-font-semibold">Address Line 1</th>
+                    <th class="tw-text-base tw-font-semibold">Address Line 2</th>
+                    <th class="tw-text-base tw-font-semibold">Town</th>
+                    <th class="tw-text-base tw-font-semibold">Postcode</th>
+                    <th></th>
+                </thead>
+                <tbody>
+                    <template x-for="address in addresses">
+                        <tr>
+                            <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.name"></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.address_line_1"></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.address_line_2"></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.town"></td>
+                            <td class="tw-text-base tw-font-medium tw-py-1" x-text="address.postcode"></td>
+                            <td class="tw-py-1">
+                                <button
+                                    type="button"
+                                    class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
+                                    :aria-label="`Apply address '${address.name}'`"
+                                    @click="apply(address)"
+                                >
+                                    Apply
+                                </button>
+                            </td>
+                        </tr>
+                    </template>
+                </tbody>
+            </table>
+        </template>
+
+
+        <p class="tw-text-base tw-text-brand-grey/80">To add a saved address click on 'Addresses' on the menu at the top left of this page</p>
+    </div>
+
+    {{ partial:event-submission-form/text field_label="Search for a location..." field_name="location_autocomplete" }}
+
+    <div class="mt-4 tw-grid tw-grid-cols-1 md:tw-grid-cols-2 tw-gap-4">
+        {{ partial:event-submission-form/text field_label="Building Name" field_name="building_name" autocomplete="off" :value="entry.building_name" }}
+        {{ partial:event-submission-form/text field_label="Address Line 1*" field_name="address_line_1" autocomplete="off" :value="entry.address_line_1" }}
+        {{ partial:event-submission-form/text field_label="Address Line 2" field_name="address_line_2" autocomplete="off" :value="entry.address_line_2" }}
+        {{ partial:event-submission-form/text field_label="Town*" field_name="town" autocomplete="off" :value="entry.town" }}
+        {{ partial:event-submission-form/text field_label="Post Code*" field_name="postcode" autocomplete="off" :value="entry.postcode" }}
+    </div>
+
+    <input
+        type="hidden"
+        id="lat"
+        name="lat"
+        {{ if old:lat }}
+            value="{{ old:lat }}"
+        {{ elseif entry.lat }}
+            value="{{ entry.lat }}"
+        {{ /if }}
+    >
+    <input
+        type="hidden"
+        id="lng"
+        name="lng"
+        {{ if old:lng }}
+            value="{{ old:lng }}"
+        {{ elseif entry.lng }}
+            value="{{ entry.lng }}"
+        {{ /if }}
+    >
+
+
+    <div>
+        <label
+            class="tw-text-brand-grey tw-text-base tw-font-medium"
+            for="editorjs"
+        >
+            How to get here
+        </label>
+
+        {{ partial:event-submission-form/wysiwyg id="editorjs" field_name="directions" field_label="Directions" placeholder="" value="{{ directions_content | entities }}" }}
+
+        <p class="tw-text-brand-grey/80 tw-text-sm tw-mt-2 tw-block field-description">
+            Please give a short explanation of how participants can travel to your event. You could include bus routes, nearby train stations, if parking is available on site, nearby parking availability, and other useful information. E.g. The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the <a href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/" target="_blank">Suffolk Onboard website</a>. Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the <a href="https://www.greateranglia.co.uk/travel-information/station-information/bse" target="_blank">Greater Anglia website</a>. There is car parking at the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm" target="_blank">Arc shopping centre</a>, which a six-minute walk away from the library, and the <a href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm" target="_blank">St Andrews Flexi-Stay car park</a>, which is a five-minute walk. Plan your journey using <a href="https://www.suffolkonboard.com/" target="_blank">Suffolk Onboard</a>.
+        </p>
+
+    </div>
+{{ /partial:event-submission-form/section }}

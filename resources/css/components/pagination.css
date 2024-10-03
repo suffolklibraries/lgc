@@ -1,7 +1,63 @@
 .c-pagination {
   padding: 0 0 var(--space-m-l);
 
-  a {
-    color: var(--blue);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+
+  li {
+    margin-top: 0;
+    transition: all cubic-bezier(0.4, 0, 0.2, 1) 150ms;
+    height: 44px;
+    width: 44px;
+
+    &.disabled {
+        opacity: 0.6;
+        pointer-events: none;
+    }
+
+    a {
+        color: var(--blue);
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    &:not(.disabled) {
+        &:hover {
+            filter: brightness(0.6);
+        }
+    }
+
+    &.prev, &.next {
+
+        width: auto;
+
+        a, span {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            height: 100%;
+
+            i {
+                margin: 0;
+            }
+        }
+    }
+
+    &.active,
+    &.active a {
+        color: var(--black);
+    }
+
+    &.marker span{
+        width: 100%;
+        height: 100%;
+        display: block;
+        text-align: center;
+    }
   }
 }

@@ -1,0 +1,45 @@
+<div
+    x-show.important="flagContentModalOpen"
+    class="tw-fixed tw-top-0 tw-left-0 tw-w-full tw-h-full tw-bg-brand-grey/40 tw-flex tw-justify-center tw-items-center"
+>
+    <form
+        method="POST"
+        action="{{ route:report-content :entryId="id" }}"
+        class="tw-max-w-lg tw-w-full tw-bg-white tw-p-6 tw-flex tw-flex-col tw-gap-6 tw-relative tw-mx-6"
+        x-show.important="flagContentModalOpen"
+        x-transition
+    >
+        {{ if {session:has key="message"} }}
+            <div class="tw-text-lg tw-p-4 tw-border-2 tw-border-brand-teal">
+                {{ session:message }}
+            </div>
+        {{ /if }}
+
+        {{ csrf_field }}
+        {{ partial:partial/honeypot }}
+        {{ partial:partial/form_method method="POST" }}
+
+        <span class="tw-font-bold tw-text-2xl">Report Inappropriate Content</span>
+
+        {{ partial:event-submission-form/text
+            field_label="Reason"
+            field_name="reason"
+            :error=""
+        }}
+        {{ partial:event-submission-form/textarea field_label="Additional Comments" field_name="comments" }}
+        {{ partial:event-submission-form/text field_label="Your Email (Optional)" field_name="email" }}
+
+
+        <button type="submit" class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-ml-auto tw-mr-0 tw-text-white">
+            Submit
+        </button>
+
+        <button
+            type="button"
+            aria-label="Clost report inappropriate content form" class="tw-w-11 tw-h-11 tw-absolute tw-top-0 tw-right-0 tw-flex tw-justify-center tw-items-center"
+            @click="closeFlagContentModal()"
+        >
+            {{ svg:x }}
+        </button>
+    </form>
+</div>

@@ -4,6 +4,12 @@ import Map from './map';
 import Search from './search';
 import Tabs from './tabs';
 import LinkIcons from './linkIcons';
+import PageZoom from './page-zoom';
+import EventSubmissionForm from './eventSubmissionForm';
+import Alpine from 'alpinejs'
+import focus from '@alpinejs/focus'
+import PasswordValidation from './passwordValidation';
+import './eventLocationForm'
 
 (() => {
   Menu();
@@ -12,4 +18,12 @@ import LinkIcons from './linkIcons';
   Search();
   Tabs();
   LinkIcons();
+  PageZoom();
+  EventSubmissionForm();
+  PasswordValidation();
 })();
+
+window.Alpine = Alpine
+
+Alpine.plugin(focus)
+Alpine.start()

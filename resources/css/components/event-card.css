@@ -46,8 +46,8 @@
   }
 
   &__free.c-tag {
-    background: var(--lightest-green);
-    color: var(--accessible-green);
+    background: var(--green-dark);
+    color: var(--white);
     font-weight: 700;
     border-radius: 2em;
     margin-top: 0;
@@ -62,16 +62,11 @@
     color: var(--hot-pink);
     display: flex;
     flex-wrap: wrap;
-
-    & > :not(:last-child):after {
-      content: '•';
-      margin: 0 0.25em;
-    }
   }
 
   @media (min-width: 55em) {
     &--horizontal &__link {
-      flex-wrap: nowrap;  
+      flex-wrap: nowrap;
     }
 
     &--horizontal &__image {
@@ -79,14 +74,6 @@
       position: relative;
       flex-basis: 268px;
       flex-shrink: 0;
-
-      img {
-        position: absolute;
-        height: 100%;
-        left: 0;
-        top: 0;
-        object-fit: cover;
-      }
     }
   }
 }

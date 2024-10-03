@@ -16,6 +16,8 @@
           {{ partial src="events/preview" }}
         {{ /events }}
       </div>
+    {{ elseif type == 'event_submission_form' }}
+      {{ partial:partial/event_submission_form }}
     {{ /if }}
   {{ /content_area }}
 </div>

@@ -1,7 +1,7 @@
 function Tabs() {
   const tabTriggers = document.querySelectorAll('.c-tab-trigger');
   const tabs = document.querySelectorAll('.c-tab');
-  
+
   tabTriggers.forEach(trigger => {
     trigger.addEventListener('click', onClick);
   });
@@ -22,6 +22,13 @@ function Tabs() {
     if (currentTab.classList.contains('c-tab--map')) {
       setTimeout(() => {
         window.dispatchEvent(new Event('map-tab'));
+        window.dispatchEvent(new Event('toggle-pagination'));
+      }, 100);
+    }
+
+    if(currentTab.classList.contains('c-tab--list')) {
+      setTimeout(() => {
+        window.dispatchEvent(new Event('toggle-pagination'));
       }, 100);
     }
   }

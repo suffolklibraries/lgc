@@ -1,7 +1,7 @@
 {{ global }}
   <footer class="c-footer" role="contentinfo">
     <div class="c-footer_primary">
-      <div class="o-wrap"> 
+      <div class="o-wrap">
         <div class="o-grid o-grid--page-reverse">
           <div class="o-flow">
             <div class="o-flow o-flow--xs">
@@ -17,9 +17,44 @@
               </ul>
             </div>
 
-            <div class="o-flow o-flow--xs c-footer_newsletter">
+            <div class="o-flow o-flow--xs c-footer_newsletter tw-w-full md:tw-max-w-[616px]">
               <h3>Stay in the loop</h3>
-              {{ newsletter_embed }}
+              <form action="https://suffolklibraries.us4.list-manage.com/subscribe/post?u=8fdb8e824d6cb5f95be2c5b88&id=6911de9aaa&f_id=00da51ebf0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form validate" target="_blank">
+                <div class="tw-grid tw-grid-cols-1 sm:tw-grid-cols-2 tw-gap-4">
+                  <div class="mc-field-group tw-flex tw-flex-col">
+                    <label class="u-screen-reader-only" for="mce-EMAIL">Email address</label>
+                    <input type="email" value="" name="EMAIL" class="u-bg-white" id="mce-EMAIL" placeholder="Email address *"  />
+                  </div>
+
+                  <div class="mc-field-group u-flex-1">
+                    <label class="u-screen-reader-only" for="mce-FNAME">First Name</label>
+                    <input value="" name="FNAME" class="u-bg-white" id="mce-FNAME" placeholder="First Name" />
+                  </div>
+
+                  <div class="mc-field-group u-flex-1">
+                    <label class="u-screen-reader-only" for="mce-LNAME">Last Name</label>
+                    <input value="" name="LNAME" class="u-bg-white" id="mce-LNAME" placeholder="Last Name" />
+                  </div>
+
+                  <div class="mc-field-group u-flex-1">
+                    <label class="u-screen-reader-only" for="mce-MMERGE5">Postcode</label>
+                    <input value="" name="MMERGE5" class="u-bg-white" id="mce-MMERGE5" placeholder="Postcode" />
+                  </div>
+
+                  <div id="mce-responses">
+                    <div class="response" id="mce-error-response" style="display: none;"></div>
+                    <div class="response" id="mce-success-response" style="display: none;"></div>
+                  </div>
+
+                  <div aria-hidden="true" style="position: absolute; left: -5000px;"><input type="text" name="b_8fdb8e824d6cb5f95be2c5b88_6911de9aaa" tabindex="-1" value=""></div>
+
+                  <p class="sm:tw-col-span-2">We never spam. Unsubscribe at any time.</p>
+
+                  <input type="submit" class="button button--orange" value="Subscribe" />
+                </div>
+              </form>
+
+              <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[5]='MMERGE5';ftypes[5]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
             </div>
 
             <div class="o-flow o-flow--xs">
@@ -31,17 +66,22 @@
               </ul>
             </div>
           </div>
+
           <div>
             <div>
               <div class="c-footer-listing o-flow o-flow--xs step--1">
-                <h3 class="step-0">{{ listing_section_title }}</h3>
-                {{ listing_content }}
-                <figure class="c-footer-listing_image">
-                  {{ glide:listing_image width="132" height="132" }}<img src="{{ url }}" alt="{{ alt }}" />{{ /glide:listing_image }}
-                  <figcaption>
-                    <a href="mailto:{{ listing_email }}">{{ listing_call_to_action }}</a>
-                  </figcaption>
-                </figure>
+                <h3 class="step-0 tw-text-3xl">{{ listing_section_title }}</h3>
+                <ul>
+                    <li>
+                        <a
+                            href="{{ logged_in ? {route:user.dashboard.index} : {route:login} }}"
+                            class="tw-text-2xl"
+                        >
+                            Organisation Login
+                        </a>
+                    </li>
+                </ul>
+                <p class="tw-text-base">Register your organisation to list events</p>
               </div>
             </div>
             <a href="https://www.artscouncil.org.uk/" class="c-footer_arts">

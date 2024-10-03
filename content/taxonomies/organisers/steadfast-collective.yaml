@@ -1,0 +1,27 @@
+title: 'Steadfast Collective'
+email_address: hello@steadfastcollective.com
+telephone_number: '0123456789'
+website: 'https://steadfastcollective.com'
+updated_by: 05b16fef-ecb6-432d-89a0-1234fc8b3fa4
+updated_at: 1726568314
+addresses:
+  -
+    id: 2ddd21f6-9847-4295-99f4-2ff2dc719708
+    name: 'Test Address'
+    address_line_1: '11 Kingsway'
+    address_line_2: Tealby
+    town: 'Market Rasen'
+    postcode: 'LN8 3YA'
+    lat: '53.3985229'
+    lng: '-0.2627528'
+    directions: '<p>The nearest bus stop is a minute''s walk away, and you can access up-to-date timetables on the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/"><u>Suffolk Onboard website</u></a>. Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.greateranglia.co.uk/travel-information/station-information/bse"><u>Greater Anglia website</u></a>. There is car parking at the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm"><u>Arc shopping centre</u></a>, which a six-minute walk away from the library, and the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm"><u>St Andrews Flexi-Stay car park</u></a>, which is a five-minute walk. Plan your journey using <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/"><u>Suffolk Onboard</u></a>.</p>'
+  -
+    id: 083cc5f0-8229-4e89-adae-e98ac553c605
+    name: 'Prudence Nader'
+    address_line_1: 'Burghley House'
+    address_line_2: Peterborough
+    town: Stamford
+    postcode: 'PE9 3JY'
+    lat: '52.6424936'
+    lng: '-0.4525311'
+    directions: '<p>The nearest bus stop is a minute''s walk away, and you can access up-to-date timetables on the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/"><u>Suffolk Onboard website</u></a>. Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.greateranglia.co.uk/travel-information/station-information/bse"><u>Greater Anglia website</u></a>. There is car parking at the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm"><u>Arc shopping centre</u></a>, which a six-minute walk away from the library, and the <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm"><u>St Andrews Flexi-Stay car park</u></a>, which is a five-minute walk. Plan your journey using <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/"><u>Suffolk Onboard</u></a>.</p>'

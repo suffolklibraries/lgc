@@ -2,6 +2,9 @@
 
 namespace App\Console;
 
+use App\Jobs\PurgeCompletedContentReports;
+use App\Jobs\SendEventReminders;
+use App\Jobs\UnpublishPassedEvents;
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
@@ -24,8 +27,11 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-        // $schedule->command('inspire')
-        //          ->hourly();
+        $schedule->job(new UnpublishPassedEvents)->hourly();
+        $schedule->job(new PurgeCompletedContentReports)->daily();
+        $schedule->job(new SendEventReminders)
+            ->dailyAt('08:30')
+            ->timezone('Europe/London');
     }
 
     /**

@@ -1,0 +1,18 @@
+tabs:
+  main:
+    display: Main
+    sections:
+      -
+        fields:
+          -
+            handle: handles_users
+            field:
+              default: false
+              type: toggle
+              display: 'Handles Users?'
+              instructions: 'When logged in, this will link to the the user dashboard, otherwise it will link to the login page'
+              listable: hidden
+              instructions_position: above
+              visibility: visible
+              replicator_preview: true
+              hide_display: false

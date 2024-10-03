@@ -1,0 +1,12 @@
+x-data="{
+    flagContentModalOpen: {{ {session:has key="openModal"} ? 'true' : 'false' }},
+    openFlagContentModal() {
+        this.flagContentModalOpen = true
+        $el.classList.add('tw-overflow-y-hidden')
+    },
+    closeFlagContentModal() {
+        this.flagContentModalOpen = false
+        $el.classList.remove('tw-overflow-y-hidden')
+    }
+}"
+x-cloak

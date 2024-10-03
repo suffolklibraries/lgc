@@ -102,7 +102,7 @@ return [
     |
     */
 
-    'theme' => env('STATAMIC_THEME', 'rad'),
+    'theme' => env('STATAMIC_THEME', 'business'),
 
     /*
     |--------------------------------------------------------------------------
@@ -117,7 +117,9 @@ return [
 
     'custom_cms_name' => env('STATAMIC_CUSTOM_CMS_NAME', 'Statamic'),
 
-    'custom_logo_url' => env('STATAMIC_CUSTOM_LOGO_URL', null),
+    'custom_logo_url' => env('STATAMIC_CUSTOM_LOGO_URL', [
+        'outside' => '/img/logo.svg'
+    ]),
 
     'custom_favicon_url' => env('STATAMIC_CUSTOM_FAVICON_URL', null),
 
