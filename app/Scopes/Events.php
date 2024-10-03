@@ -92,8 +92,6 @@ class Events extends Scope
                     })
                     ->chunk(25);
 
-                    ddd($destinationChunks);
-
                 $filteredIds = [];
 
                 $destinationChunks->each(function($chunk, $chunkIndex) use ($lat, $lng, &$filteredIds, $radiusInMetres) {
