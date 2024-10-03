@@ -55,19 +55,6 @@ data:
       url: /accessibility-statement
       type: new_set
       enabled: true
-  newsletter_embed: |-
-    <form action="https://suffolklibraries.us4.list-manage.com/subscribe" method="get" name="mc-embedded-subscribe-form" target="_blank">
-      <input type="hidden" name="u" value="8fdb8e824d6cb5f95be2c5b88" />
-      <input type="hidden" name="id" value="6911de9aaa" />
-      <div class="u-flex o-flow-x">
-        <p class="u-flex-1">
-          <label class="u-screen-reader-only" for="newsletter-email">Email address</label>
-          <input type="email" value="" name="MERGE0" class="u-bg-white" id="newsletter-email" placeholder="Email address" required />
-        </p>
-        <input type="submit" class="button button--orange" value="Subscribe" />
-      </div>
-    </form>
-    <p>We never spam. Unsubscribe at any time. <!-- <a href="#">View the latest edition</a> --></p>
   header_scripts: |-
     <!-- Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -82,7 +69,7 @@ data:
   listing_call_to_action: 'Get in touch with Eleanor'
   listing_image: suffolklibrariesimages/2024-elle-root---bio-photo---low-res.jpg
   listing_email: Get.Creative@suffolklibraries.co.uk
-  placeholder_image: 1920x1080.jpg
+  placeholder_image: lgc-va.png
   library_cta:
     -
       type: heading
