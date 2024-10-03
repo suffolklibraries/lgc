@@ -8,7 +8,7 @@
     text-decoration: underline;
     color: var(--orange);
   }
-  
+
   &_primary {
     background: var(--black);
     padding: var(--space-l) 0 var(--space-m);
@@ -27,9 +27,8 @@
 
   &_newsletter {
     margin-bottom: var(--footer-spacing);
-    max-width: 616px;
 
-    & > p {
+    p {
       font-size: var(--step--1);
       color: var(--light-grey);
       font-style: italic;
@@ -43,7 +42,7 @@
     input {
       color: var(--black);
     }
-    
+
     @media (min-width: 50em) {
       margin-bottom: 0;
     }

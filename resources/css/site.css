@@ -68,3 +68,7 @@
 .field-description a {
     @apply tw-text-blue-500 tw-underline motion-safe:tw-transition-colors hover:tw-text-[#EB9257];
 }
+
+.mce_inline_error:not(input){
+    @apply tw-text-sm;
+}
