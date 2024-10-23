@@ -107,23 +107,27 @@ class Events extends Scope
                         ]
                     );
 
-                    foreach($response->json()['rows'][0]['elements'] as $index => $result) {
-                        if($result['distance']['value'] <= round($radiusInMetres)) {
-                            $coords = $destinations[$index];
+                    if(isset($response->json()['rows'][0])) {
+                        foreach($response->json()['rows'][0]['elements'] as $index => $result) {
+                            if($result['distance']['value'] <= round($radiusInMetres)) {
+                                $coords = $destinations[$index];
 
-                            if(isset($chunk[$coords])){
-                                $entriesForCoords = $chunk[$coords];
-                                $filteredIds = array_merge($filteredIds, $entriesForCoords->pluck('id')->values()->all());
+                                if(isset($chunk[$coords])){
+                                    $entriesForCoords = $chunk[$coords];
+                                    $filteredIds = array_merge($filteredIds, $entriesForCoords->pluck('id')->values()->all());
+                                }
                             }
                         }
                     }
+
                 });
 
                 return $filteredIds;
             });
 
-
-            $query->whereIn('id', $filteredIds);
+            if(count($filteredIds) > 0) {
+                $query->whereIn('id', $filteredIds);
+            }
         }
     }
 }
