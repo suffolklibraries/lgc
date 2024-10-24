@@ -10,6 +10,7 @@
         "laravel/horizon": "^5.24",
         "laravel/tinker": "^2.0",
         "mews/purifier": "^3.4",
+        "sentry/sentry-laravel": "^4.9",
         "spatie/laravel-honeypot": "^4.5",
         "statamic-rad-pack/runway": "6.7.1",
         "statamic/cms": "^4.0",
