@@ -3,6 +3,7 @@
 namespace App\Scopes;
 
 use Statamic\Query\Scopes\Scope;
+use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Http;
 use Illuminate\Support\Facades\Cache;
 
@@ -85,7 +86,7 @@ class Events extends Scope
             $radiusInMetres = $radius * 1609.344;
 
             $cacheKey = "distance_matrix_{$lat}_{$lng}_{$radiusInMetres}_". md5(json_encode($entries));
-            $filteredIds = Cache::remember($cacheKey, now()->addHours(24), function () use ($entries, $lat, $lng, $radiusInMetres) {
+            // $filteredIds = Cache::remember($cacheKey, now()->addHours(24), function () use ($entries, $lat, $lng, $radiusInMetres) {
                 $destinationChunks = $entries
                     ->map(function($item, $key) {
                         return [$key] = $item;
@@ -107,7 +108,12 @@ class Events extends Scope
                         ]
                     );
 
-                    if(isset($response->json()['rows'][0])) {
+                    if($response->json()['status'] === 'REQUEST_DENIED') {
+                        Log::error($response->json());
+                        return false;
+                    }
+
+                    if($response->json()['status'] != 'REQUEST_DENIED' && isset($response->json()['rows'][0])) {
                         foreach($response->json()['rows'][0]['elements'] as $index => $result) {
                             if($result['distance']['value'] <= round($radiusInMetres)) {
                                 $coords = $destinations[$index];
@@ -122,8 +128,8 @@ class Events extends Scope
 
                 });
 
-                return $filteredIds;
-            });
+                // return $filteredIds;
+            // });
 
             if(count($filteredIds) > 0) {
                 $query->whereIn('id', $filteredIds);
