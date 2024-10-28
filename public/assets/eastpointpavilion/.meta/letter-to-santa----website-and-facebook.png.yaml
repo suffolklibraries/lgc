@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'A letter to Santa surrounded by candy canes and wrapping paper'
 size: 1991925
 last_modified: 1730115407
 width: 1500
