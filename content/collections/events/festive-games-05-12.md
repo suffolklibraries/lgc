@@ -1,16 +1,15 @@
 ---
 id: bff553a3-9123-4d72-b7d9-f0ade7f26b86
-published: false
 blueprint: events
-title: 'Festive Drama Games (Duplicated)'
+title: 'Festive Drama Games'
 event_categories:
   - family-friendly
   - community
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/drama-games.png
-start_date: '2024-12-19 10:30'
-end_date: '2024-12-19 11:30'
+start_date: '2024-12-05 10:30'
+end_date: '2024-12-05 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -94,10 +93,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730114576
+updated_at: 1730115344
 duplicated_from: 1ced4925-0a3f-4c2b-a203-a6e124c0e5d5
 attendance_information: 'Home educated children aged 5-13 years'
 cost_details: £3
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/e-gxaygm'
+booking_link: 'https://www.eastpointpavilion.com/events/christmas-drama-games'
 ---
 Join the festive fun at East Point Pavilion!
