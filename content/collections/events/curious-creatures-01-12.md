@@ -1,8 +1,7 @@
 ---
 id: 9006ed76-907f-49f9-80f6-342c423001b7
-published: false
 blueprint: events
-title: "Angie's Curious Creatures (Duplicated)"
+title: "Angie's Curious Creatures"
 event_categories:
   - family-friendly
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2024-11-17 13:00'
-end_date: '2024-11-17 14:00'
+start_date: '2024-12-01 11:00'
+end_date: '2024-12-01 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -77,15 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: "Wrap up warm and join Angie on the beach for a pirate treasure hunt then back into the warmth of East Point Pavilion to meet some real life ‘curious creatures’\_ and a cosy up with a swashbuckling story.\_\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "Pirate fancy dress optional\_"
+        text: "Join animal expert, Angie, for an exciting animal handling session. Angie will bring along her menagerie of creatures for you to learn about and meet up close. There will be plenty of time to ask questions and lots of photo opportunities too!\_\_"
   -
     type: paragraph
     attrs:
@@ -101,7 +92,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Recommended age 3+'
+        text: 'Suggested age 3+.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -109,10 +100,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730115178
+updated_at: 1730115300
 duplicated_from: 9ee19ee6-b5ba-40f4-a442-bd39798d7b2f
 attendance_information: 'Family friendly'
-cost_details: '£4 plus booking fee'
-booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-beach-treasure-hunt-animal-handling-session'
+cost_details: '£5 plus booking fee'
+booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-full-animal-handling-experience'
 ---
-An educational talk and animal handling session.
+Animal handling experience!
