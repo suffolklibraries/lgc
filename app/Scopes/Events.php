@@ -86,7 +86,7 @@ class Events extends Scope
             $radiusInMetres = $radius * 1609.344;
 
             $cacheKey = "distance_matrix_{$lat}_{$lng}_{$radiusInMetres}_". md5(json_encode($entries));
-            // $filteredIds = Cache::remember($cacheKey, now()->addHours(24), function () use ($entries, $lat, $lng, $radiusInMetres) {
+            $filteredIds = Cache::remember($cacheKey, now()->addHours(24), function () use ($entries, $lat, $lng, $radiusInMetres) {
                 $destinationChunks = $entries
                     ->map(function($item, $key) {
                         return [$key] = $item;
@@ -128,12 +128,10 @@ class Events extends Scope
 
                 });
 
-                // return $filteredIds;
-            // });
+                return $filteredIds;
+            });
 
-            if(count($filteredIds) > 0) {
-                $query->whereIn('id', $filteredIds);
-            }
+            $query->whereIn('id', $filteredIds);
         }
     }
 }
