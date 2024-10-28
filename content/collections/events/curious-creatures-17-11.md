@@ -1,8 +1,7 @@
 ---
 id: 9ee19ee6-b5ba-40f4-a442-bd39798d7b2f
-published: false
 blueprint: events
-title: "Angie's Curious Creatures (Duplicated)"
+title: "Angie's Curious Creatures"
 event_categories:
   - family-friendly
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2024-11-05 13:00'
-end_date: '2024-11-05 14:00'
+start_date: '2024-11-17 13:00'
+end_date: '2024-11-17 14:00'
 free: false
 virtual: false
 accessibility_information:
@@ -77,15 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Animal expert, Angie is back! '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "This session is suitable for home educated children of all ages. Find out more about all of Angie’s curious creatures, ask questions, get up close & hands on with array of creatures, including Giant African Land Snails, Cockroaches, and more!\_"
+        text: "Wrap up warm and join Angie on the beach for a pirate treasure hunt then back into the warmth of East Point Pavilion to meet some real life ‘curious creatures’\_ and a cosy up with a swashbuckling story.\_\_"
   -
     type: paragraph
     attrs:
@@ -93,7 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The minimum age for this session is 5yrs. '
+        text: "Pirate fancy dress optional\_"
   -
     type: paragraph
     attrs:
@@ -102,6 +93,14 @@ content_area:
       -
         type: text
         text: "Children must be accompanied by an adult throughout the session.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Recommended age 3+'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -109,10 +108,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730115098
+updated_at: 1730115178
 duplicated_from: 1cbc96c5-a65c-4573-97f8-c176ca166cb0
-attendance_information: 'Home educating families'
-cost_details: '£5 plus booking fee'
-booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-1'
+attendance_information: 'Family friendly'
+cost_details: '£4 plus booking fee'
+booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-beach-treasure-hunt-animal-handling-session'
 ---
 An educational talk and animal handling session.
