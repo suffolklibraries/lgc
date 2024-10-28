@@ -8,7 +8,7 @@ event_categories:
   - family-friendly
 organisers:
   - suffolk-libraries
-featured_image: offthepressimages/Film.png
+featured_image: pelicanpelican-3x2/film_resized.png
 start_date: '2024-10-29 11:00'
 end_date: '2024-10-29 15:00'
 free: true
@@ -203,7 +203,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727783696
+updated_at: 1730124732
 duplicated_from: f719f130-fc17-4274-8cfe-26276f006817
 attendance_information: '- Family friendly'
 ---
