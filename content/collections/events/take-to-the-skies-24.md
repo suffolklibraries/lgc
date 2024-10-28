@@ -135,5 +135,6 @@ content_area:
 cta: 'No booking required, just join in.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1729775069
+published: false
 ---
 Discover artworks created by the local community in five different locations!
