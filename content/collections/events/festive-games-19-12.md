@@ -1,17 +1,16 @@
 ---
 id: 1ced4925-0a3f-4c2b-a203-a6e124c0e5d5
-published: false
 blueprint: events
-title: 'Letters from Santa - Special Delivery (Duplicated)'
+title: 'Festive Drama Games'
 event_categories:
   - family-friendly
   - community
 organisers:
   - east-point-pavilion
-featured_image: eastpointpavilion/letter-from-santa.png
-start_date: '2024-12-14 11:00'
-end_date: '2024-12-14 13:00'
-free: true
+featured_image: eastpointpavilion/drama-games.png
+start_date: '2024-12-19 10:30'
+end_date: '2024-12-19 11:30'
+free: false
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -76,15 +75,17 @@ content_area:
     content:
       -
         type: text
-        text: 'We’ve received a sack full of replies to all the letters posted into our EPP North Pole Express Mail Box last weekend!'
+        text: 'An hour of festive themed drama games with Drama Practitioner Honey-Rose.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
+        type: hardBreak
+      -
         type: text
-        text: 'Drop by between 11am and 1pm collect yours.'
+        text: 'These games are designed to provide a fun, creative, social experience, building confidence through teamwork, movement, voice & imagination!'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -92,8 +93,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730114314
+updated_at: 1730114576
 duplicated_from: a98da4dd-2084-4a52-904c-0264f3e4f2df
-attendance_information: 'Family friendly'
+attendance_information: 'Home educated children aged 5-13 years'
+cost_details: £3
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/e-gxaygm'
 ---
 Join the festive fun at East Point Pavilion!
