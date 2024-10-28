@@ -1,16 +1,15 @@
 ---
 id: a9b89fe6-8608-4550-9132-db2add600a08
-published: false
 blueprint: events
-title: 'Letters from Santa - Special Delivery (Duplicated)'
+title: 'Christmas Storytime and Crafts'
 event_categories:
   - family-friendly
   - community
 organisers:
   - east-point-pavilion
-featured_image: eastpointpavilion/letter-from-santa.png
-start_date: '2024-12-14 11:00'
-end_date: '2024-12-14 13:00'
+featured_image: eastpointpavilion/christmas-story-and-crafts-(1920-x-1080-px).png
+start_date: '2024-12-18 10:30'
+end_date: '2024-12-18 11:30'
 free: true
 virtual: false
 accessibility_information:
@@ -76,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We’ve received a sack full of replies to all the letters posted into our EPP North Pole Express Mail Box last weekend!'
+        text: 'A funny festive story time and social crafting session.'
   -
     type: paragraph
     attrs:
@@ -84,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop by between 11am and 1pm collect yours.'
+        text: 'Suitable for children of all ages.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -92,7 +91,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730114314
+updated_at: 1730114444
 duplicated_from: a98da4dd-2084-4a52-904c-0264f3e4f2df
 attendance_information: 'Family friendly'
 ---
