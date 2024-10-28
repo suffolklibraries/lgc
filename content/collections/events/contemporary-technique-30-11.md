@@ -4,7 +4,7 @@ blueprint: events
 title: 'Clockwork Dance - Contemporary Technique'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721892042
+updated_at: 1729793140
 start_date: '2024-11-30 10:10'
 end_date: '2024-11-30 11:10'
 free: false
@@ -12,7 +12,7 @@ virtual: false
 organisers:
   - clockwork-dance-company
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Dance.png
+featured_image: pelicanpelican-3x2/dance.png
 content_area:
   -
     type: heading

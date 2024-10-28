@@ -4,7 +4,7 @@ blueprint: events
 title: 'CLIP Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725549474
+updated_at: 1729795583
 latitude: '52.03876816283207'
 longitude: '0.7313807819119865'
 start_date: '2024-12-17 17:30'
@@ -20,7 +20,7 @@ address_line_1: 'Sudbury Arts Centre'
 address_line_2: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EA'
-featured_image: offthepressimages/music.png
+featured_image: pelicanpelican-3x2/music.png
 attendance_information: '- Ages 11 - 19'
 content_area:
   -

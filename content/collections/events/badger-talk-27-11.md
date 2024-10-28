@@ -137,15 +137,16 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724243884
+updated_at: 1729797000
 duplicated_from: de31f4e1-3a0f-4620-b3a0-891c49a6545e
-featured_image: offthepressimages/new_resized_images/Nature.png
+featured_image: pelicanpelican-3x2/nature.png
 cost_details: '£3 per person, under 25s free'
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-11-27-year-life-badger'
-accessibility_information: |-
-  - wheelchair accessible
-  - hearing loop available
-  - accesible toilet
+accessibility_information:
+  - |-
+    - wheelchair accessible
+    - hearing loop available
+    - accesible toilet
 address_line_2: '17 Black Horse Lane'
 ---
 Join Adrian Hinchcliffe, from Suffolk Mammal Group for this fascinating talk.

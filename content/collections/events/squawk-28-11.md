@@ -4,7 +4,7 @@ blueprint: events
 title: Squawk
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725301619
+updated_at: 1730113182
 start_date: '2024-11-28 10:00'
 end_date: '2024-11-28 15:00'
 free: true
@@ -12,7 +12,7 @@ virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/otpillustrations/music.png
+featured_image: pelicanpelican-3x2/music.png
 attendance_information: '- Adults with learning disabilities'
 content_area:
   -
@@ -124,7 +124,8 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [0333 666 3366](tel:03336663366)
-accessibility_information: '- Wheelchair access'
+accessibility_information:
+  - '- Wheelchair access'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
@@ -133,8 +134,8 @@ postcode: 'NR33 0JH'
 duplicated_from: 003c7fe2-42b4-4b19-aedd-bee2eaf6f449
 event_categories:
   - community
-  - music-and-singing
   - wellbeing
+  - music
 booking_link: 'https://theseagull.co.uk/community_events/2924/'
 ---
-Musical theathre workshops for adults with learning disabilities.
+Musical theatre workshops for adults with learning disabilities.

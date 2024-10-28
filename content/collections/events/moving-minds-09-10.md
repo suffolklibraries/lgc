@@ -1,5 +1,6 @@
 ---
 id: 10205349-66e3-4d8f-974a-3de762ddc0c5
+published: false
 blueprint: events
 title: 'Moving Minds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0

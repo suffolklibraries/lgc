@@ -1,5 +1,6 @@
 ---
 id: ca9035f1-7f5e-411c-a6be-a37bb908819d
+published: false
 blueprint: events
 title: 'Homework Club'
 event_categories:
@@ -155,8 +156,8 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724239340
-featured_image: offthepressimages/otpillustrations/Literature.png
+updated_at: 1729786019
+featured_image: pelicanpelican-3x2/literature.png
 duplicated_from: 7eb5d935-24c4-45cb-bca2-30f2c23794e5
 ---
 A safe space to do your homework and develop your education!

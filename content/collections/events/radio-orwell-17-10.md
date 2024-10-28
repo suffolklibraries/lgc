@@ -1,5 +1,6 @@
 ---
 id: 5c0125ae-83b9-473d-960d-e9b8120d077c
+published: false
 blueprint: events
 title: 'Remembering Radio Orwell'
 organisers:

@@ -147,9 +147,9 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724243085
+updated_at: 1729797017
 duplicated_from: c303b741-756d-4277-9406-5affe94b4d67
-featured_image: offthepressimages/new_resized_images/Nature.png
+featured_image: pelicanpelican-3x2/nature.png
 cost_details: '£12 per person'
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-01-01-new-years-day-guided-walk'
 ---

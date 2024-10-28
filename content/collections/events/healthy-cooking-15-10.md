@@ -1,5 +1,6 @@
 ---
 id: ad69de24-cc43-4cfb-af07-40ace3a1377b
+published: false
 blueprint: events
 title: 'Healthy Cooking on a Budget'
 organisers:

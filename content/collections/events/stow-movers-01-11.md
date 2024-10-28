@@ -4,7 +4,7 @@ blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721921363
+updated_at: 1729786945
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
 start_date: '2024-11-01 14:00'
@@ -17,7 +17,7 @@ address_line_1: 'John Peel Centre'
 address_line_2: 'Church Walk'
 town: Stowmarket
 postcode: 'IP14 1ET'
-featured_image: offthepressimages/new_resized_images/Dance.png
+featured_image: pelicanpelican-3x2/dance.png
 attendance_information: '- Age 55+'
 content_area:
   -
@@ -201,10 +201,11 @@ cta: |-
 
   [07751 891319](tel:07751891319)
 booking_link: 'mailto:karenlouisedance@gmail.com'
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
 cost_details: '£5 per session'
 end_date: '2024-11-01 15:30'
 duplicated_from: 407112c2-834b-4c47-9f04-56805b10d30e

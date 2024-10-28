@@ -1,5 +1,6 @@
 ---
 id: 7dff4c7a-6c34-44ca-8d30-a33530d9930e
+published: false
 blueprint: events
 title: 'Friends Around the Table Craft Group'
 organisers:
@@ -154,7 +155,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724231664
+updated_at: 1729786820
 duplicated_from: df3012fb-f1d0-4e88-abaf-8085807ede84
 attendance_information: '- Adult family carers'
 event_categories:

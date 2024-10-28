@@ -1,10 +1,11 @@
 ---
 id: 1804ceb2-7e50-4e9e-92a0-ee553fec27c6
+published: false
 blueprint: events
 title: 'Ukulele Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721917075
+updated_at: 1729786205
 start_date: '2024-10-16 18:30'
 end_date: '2024-10-16 20:00'
 event_categories:
@@ -15,7 +16,7 @@ virtual: false
 organisers:
   - marina-theatre
 town: Lowestoft
-featured_image: offthepressimages/Music_white.png
+featured_image: pelicanpelican-3x2/music.png
 content_area:
   -
     type: heading

@@ -136,7 +136,7 @@ content_area:
               title: null
         text: 'Suffolk Onboard.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721135227
+updated_at: 1729786907
 cta: |-
   This event is run by the Future Female Society:
 
@@ -144,7 +144,8 @@ cta: |-
 
   [01473852552](tel:01473852552)
 duplicated_from: a30066d6-e590-4229-a582-6e1e24b2678d
-featured_image: offthepressimages/coffee.png
-accessibility_information: '- wheelchair accessible'
+featured_image: pelicanpelican-3x2/coffee.png
+accessibility_information:
+  - '- wheelchair accessible'
 ---
 Coffee is free and so is the fun!

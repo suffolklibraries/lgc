@@ -1,5 +1,6 @@
 ---
 id: 3257df23-03a9-4d3d-8611-a8c11e5c14cd
+published: false
 blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0

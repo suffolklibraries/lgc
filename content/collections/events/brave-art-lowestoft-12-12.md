@@ -8,7 +8,7 @@ event_categories:
   - wellbeing
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/support.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 start_date: '2024-12-12 10:00'
 end_date: '2024-12-12 15:00'
 free: false
@@ -231,13 +231,14 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725287891
+updated_at: 1729785366
 duplicated_from: 25e329fb-247e-4437-a91f-3aa5ba58d4c2
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-low-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
 attendance_information: '- Adults with learning disabilities'
-accessibility_information: |-
-  - Wheelchair accessible
-  - Accessible toilet
+accessibility_information:
+  - |-
+    - Wheelchair accessible
+    - Accessible toilet
 ---
 Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.

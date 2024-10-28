@@ -4,7 +4,7 @@ blueprint: events
 title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725290458
+updated_at: 1730112961
 start_date: '2024-12-13 13:30'
 end_date: '2024-12-13 15:00'
 free: true
@@ -12,7 +12,7 @@ virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/otpillustrations/music.png
+featured_image: pelicanpelican-3x2/wellbeing.png
 content_area:
   -
     type: heading
@@ -129,7 +129,8 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [0333 666 3366](tel:03336663366)
-accessibility_information: '- Wheelchair access'
+accessibility_information:
+  - '- Wheelchair access'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 address_line_1: 'The Seagull Theatre'
@@ -138,8 +139,8 @@ postcode: 'NR33 0JH'
 duplicated_from: 4f9c8467-2d6e-445a-9de0-06948ce86ca8
 event_categories:
   - wellbeing
-  - music-and-singing
   - community
+  - music
 booking_link: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
 ---
 An activity for anyone who enjoys music!

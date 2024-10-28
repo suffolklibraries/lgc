@@ -1,5 +1,6 @@
 ---
 id: 07f90111-6452-444e-b546-46cf0ab938c1
+published: false
 blueprint: events
 title: 'ActivGardens - Gardening in Mind Autumn Course'
 event_categories:

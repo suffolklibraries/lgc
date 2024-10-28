@@ -4,7 +4,7 @@ blueprint: events
 title: 'VI Arts Taster Programme - Junior Drama'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721916100
+updated_at: 1729794227
 start_date: '2024-11-02 10:30'
 end_date: '2024-11-02 12:30'
 event_categories:
@@ -15,7 +15,7 @@ event_categories:
 free: true
 virtual: false
 town: Stowmarket
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: pelicanpelican-3x2/theatre.png
 content_area:
   -
     type: heading
@@ -164,9 +164,10 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-accessibility_information: |-
-  - Wheelchair access
-  - Guide dogs welcome
+accessibility_information:
+  - |-
+    - Wheelchair access
+    - Guide dogs welcome
 latitude: '52.18420289404635'
 longitude: '0.9986292682803894'
 address_line_1: 'Red Gables'

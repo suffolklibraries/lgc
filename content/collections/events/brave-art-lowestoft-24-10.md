@@ -1,5 +1,6 @@
 ---
 id: 862ced1d-54a7-4bcc-9658-1309b4b7c3eb
+published: false
 blueprint: events
 title: 'Brave Art - Lowestoft'
 event_categories:
@@ -8,7 +9,7 @@ event_categories:
   - wellbeing
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/support.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 start_date: '2024-10-24 10:00'
 end_date: '2024-10-24 15:00'
 free: false
@@ -231,13 +232,14 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725287438
+updated_at: 1729785393
 duplicated_from: a5563883-295f-40e4-a935-7a8a5f7dcb71
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-low-24/'
 cost_details: '£160 for course ticket, £25 per day ticket'
 attendance_information: '- Adults with learning disabilities'
-accessibility_information: |-
-  - Wheelchair accessible
-  - Accessible toilet
+accessibility_information:
+  - |-
+    - Wheelchair accessible
+    - Accessible toilet
 ---
 Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.

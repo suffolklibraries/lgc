@@ -155,8 +155,8 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724239658
-featured_image: offthepressimages/otpillustrations/Literature.png
+updated_at: 1729785869
+featured_image: pelicanpelican-3x2/literature.png
 duplicated_from: b0e53efc-96e0-4b52-ba40-7c1af6433738
 ---
 A safe space to do your homework and develop your education!

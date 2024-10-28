@@ -141,9 +141,9 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724242852
+updated_at: 1729796989
 duplicated_from: 9f99f1c8-97e0-414c-8e70-9296e152337b
-featured_image: offthepressimages/new_resized_images/Nature.png
+featured_image: pelicanpelican-3x2/nature.png
 cost_details: '£5 per person'
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-11-14-winter-waders-guided-walk-carlton-marshes'
 ---

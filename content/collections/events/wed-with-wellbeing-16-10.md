@@ -1,5 +1,6 @@
 ---
 id: 16686c4f-b386-4f80-8df0-7e3c3d0f8d8b
+published: false
 blueprint: events
 title: 'Wednesdays with Wellbeing - Five Ways Fairs'
 event_categories:
@@ -7,7 +8,7 @@ event_categories:
   - community
 organisers:
   - wellbeing-suffolk
-featured_image: offthepressimages/otpillustrations/support.png
+featured_image: pelicanpelican-3x2/support.png
 start_date: '2024-10-16 11:00'
 end_date: '2024-10-16 13:00'
 free: true
@@ -172,7 +173,7 @@ cta: |-
 
   [wellbeing.suffolk@nsft.nhs.uk](email:wellbeing.suffolk@nsft.nhs.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717668979
+updated_at: 1729785051
 duplicated_from: f8e5acaa-72c0-4d0e-9500-612c8a48fddd
 ---
 Join Wellbeing Suffolk to find out how we can help you live your life.

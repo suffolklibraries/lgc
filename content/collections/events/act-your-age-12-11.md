@@ -6,13 +6,14 @@ start_date: '2024-11-12 13:00'
 free: true
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721849010
+updated_at: 1729794413
 organisers:
   - theatre-royal
-featured_image: offthepressimages/new_resized_images/Theatre.png
+featured_image: pelicanpelican-3x2/theatre.png
 end_date: '2024-11-12 15:30'
 attendance_information: '- People aged 55 and older'
-accessibility_information: '- wheelchair accessible'
+accessibility_information:
+  - '- wheelchair accessible'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 address_line_1: 'Theatre Royal'

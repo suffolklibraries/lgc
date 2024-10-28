@@ -10,7 +10,8 @@ start_date: '2024-12-04 09:30'
 end_date: '2024-12-21 15:00'
 free: false
 virtual: false
-accessibility_information: '- Wheelchair accessible'
+accessibility_information:
+  - '- Wheelchair accessible'
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
 address_line_1: 'Ipswich Library'
@@ -198,12 +199,12 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721136032
+updated_at: 1729797386
 duplicated_from: 7f340577-8586-4f78-8737-2ed3788be380
 event_categories:
   - literature
   - early-years
-featured_image: offthepressimages/new_resized_images/Early-Years.png
+featured_image: pelicanpelican-3x2/early-years-(1).png
 cta: |-
   This event is organised by the New Wolsey Theatre
 

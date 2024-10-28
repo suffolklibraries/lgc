@@ -1,10 +1,11 @@
 ---
 id: e2deb580-c251-4577-a45d-8c5c537a8457
+published: false
 blueprint: events
 title: 'Sudbury Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721922373
+updated_at: 1729785560
 latitude: '52.03576875968241'
 longitude: '0.7231630550633815'
 start_date: '2024-10-09 10:00'
@@ -17,7 +18,7 @@ address_line_1: 'All Saints Church Hall'
 address_line_2: 'Church Street'
 town: Sudbury
 postcode: 'CO10 2BN'
-featured_image: offthepressimages/otpillustrations/DANCE_LATER.png
+featured_image: pelicanpelican-3x2/dance.png
 attendance_information: '- Age 55+'
 content_area:
   -
@@ -184,10 +185,11 @@ cta: |-
   [community-dance@hotmail.com](mailto:community-dance@hotmail.com)
 
   [07375024115](tel:07375024115)
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
 cost_details: '£6 per session'
 end_date: '2024-10-09 11:30'
 duplicated_from: bbfde077-c813-4ded-91ca-6c59efb621b9

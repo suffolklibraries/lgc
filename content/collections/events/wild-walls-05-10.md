@@ -1,5 +1,6 @@
 ---
 id: 2782390f-f9b4-424e-9e96-ca7a2f44b1f2
+published: false
 blueprint: events
 title: "Wild Walls Festival: 'It's A Wrap' Walkshop"
 event_categories:

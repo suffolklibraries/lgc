@@ -1,5 +1,6 @@
 ---
 id: 51d99402-5552-4c00-858a-b437ef335504
+published: false
 blueprint: events
 title: 'Friends Around the Table - Haverhill Carers Group'
 organisers:
@@ -193,7 +194,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724231550
+updated_at: 1729786810
 duplicated_from: 32d8fef8-4409-47cb-bab8-f1216e1fdbc8
 attendance_information: '- Adult family carers'
 event_categories:

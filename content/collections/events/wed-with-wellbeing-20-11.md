@@ -7,7 +7,7 @@ event_categories:
   - community
 organisers:
   - wellbeing-suffolk
-featured_image: offthepressimages/otpillustrations/support.png
+featured_image: pelicanpelican-3x2/support.png
 start_date: '2024-11-20 13:00'
 end_date: '2024-11-20 15:00'
 free: true
@@ -206,7 +206,7 @@ cta: |-
 
   [wellbeing.suffolk@nsft.nhs.uk](email:wellbeing.suffolk@nsft.nhs.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1717669617
+updated_at: 1729785031
 duplicated_from: b4aee26c-e664-4200-a9b9-65afb1d4ae48
 ---
 Join Wellbeing Suffolk to find out how we can help you live your life.

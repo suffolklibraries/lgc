@@ -4,7 +4,7 @@ blueprint: events
 title: 'Strictly Saturdays'
 organisers:
   - the-apex
-featured_image: offthepressimages/new_resized_images/Dance.png
+featured_image: pelicanpelican-3x2/dance.png
 start_date: '2024-11-23 14:30'
 end_date: '2024-11-23 16:30'
 free: true
@@ -161,7 +161,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713370135
+updated_at: 1729797094
 duplicated_from: e44eca6f-fcce-4bf3-be58-c8e72a44d8ff
 ---
 Dump the shopping and come dancing at The Apex in the upstairs bar!

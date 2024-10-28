@@ -123,9 +123,10 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724235706
-featured_image: offthepressimages/wellbeing.png
+updated_at: 1729785710
+featured_image: pelicanpelican-3x2/wellbeing.png
 duplicated_from: 73255b86-7436-4034-ae9d-20a9b3e46bf0
-accessibility_information: '- accessible toilets'
+accessibility_information:
+  - '- accessible toilets'
 ---
 Nourish provides a space to feed your mind, body and soul. From yoga and sound baths to daytime discos and mural painting, there’s lots to get involved in over the four-month programme.

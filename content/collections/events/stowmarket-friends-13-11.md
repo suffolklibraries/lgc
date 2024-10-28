@@ -4,7 +4,7 @@ blueprint: events
 title: 'Stowmarket Friends Around the Table Craft Group'
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/new_resized_images/LGC-VA.png
+featured_image: pelicanpelican-3x2/support.png
 start_date: '2024-11-13 10:30'
 end_date: '2024-11-13 12:15'
 free: false
@@ -162,7 +162,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724234322
+updated_at: 1729786846
 duplicated_from: df3012fb-f1d0-4e88-abaf-8085807ede84
 attendance_information: '- Adult family carers'
 event_categories:

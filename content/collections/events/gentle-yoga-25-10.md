@@ -1,5 +1,6 @@
 ---
 id: b46d19e6-5e4b-4daa-9fbb-9e78942512e2
+published: false
 blueprint: events
 title: 'Gentle Yoga - Woodbridge'
 organisers:

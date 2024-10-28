@@ -1,5 +1,6 @@
 ---
 id: 56b7d850-d9cb-4828-a04f-444c5fdb7323
+published: false
 blueprint: events
 title: Nourish
 event_categories:
@@ -123,9 +124,10 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724235497
-featured_image: offthepressimages/wellbeing.png
+updated_at: 1729785769
+featured_image: pelicanpelican-3x2/wellbeing.png
 duplicated_from: 6328791c-39de-4849-9336-7130314d6a82
-accessibility_information: '- accessible toilets'
+accessibility_information:
+  - '- accessible toilets'
 ---
 Nourish provides a space to feed your mind, body and soul. From yoga and sound baths to daytime discos and mural painting, there’s lots to get involved in over the four-month programme.

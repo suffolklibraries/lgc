@@ -1,5 +1,6 @@
 ---
 id: 8103585b-021d-49ef-9dc8-f9fac5d57e52
+published: false
 blueprint: events
 title: 'Quentin Blake: The Illustrated Hospital'
 event_categories:

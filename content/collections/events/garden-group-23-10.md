@@ -1,5 +1,6 @@
 ---
 id: 18c0cf31-0d76-4578-afc2-a3cde03410ad
+published: false
 blueprint: events
 title: 'Compassionate Garden Group'
 event_categories:

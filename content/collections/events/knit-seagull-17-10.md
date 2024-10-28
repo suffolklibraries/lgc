@@ -1,10 +1,11 @@
 ---
 id: e2ddd98b-5ee9-4c67-b494-970d6df1ecbc
+published: false
 blueprint: events
 title: 'Knit and Natter'
 organisers:
   - the-seagull-theatre
-featured_image: offthepressimages/olderpeople.png
+featured_image: pelicanpelican-3x2/olderpeople.png
 start_date: '2024-10-17 10:00'
 end_date: '2024-10-17 12:00'
 free: true
@@ -125,10 +126,11 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721905615
+updated_at: 1729786340
 duplicated_from: 78529410-b600-4b71-9290-0692db965c26
 event_categories:
   - art
-accessibility_information: '- Wheelchair access'
+accessibility_information:
+  - '- Wheelchair access'
 ---
 A free and relaxing knit and natter

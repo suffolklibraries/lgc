@@ -1,10 +1,11 @@
 ---
 id: 8b056196-d19a-4d31-ac1a-38c4844fc0a6
+published: false
 blueprint: events
 title: 'Mixed Ability Tap Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1713512466
+updated_at: 1729785479
 start_date: '2024-10-09 09:45'
 end_date: '2024-10-09 10:20'
 free: false
@@ -12,7 +13,7 @@ virtual: false
 organisers:
   - woodbridge-tap-dance
 town: Ipswich
-featured_image: offthepressimages/new_resized_images/Dance.png
+featured_image: pelicanpelican-3x2/dance.png
 content_area:
   -
     type: heading

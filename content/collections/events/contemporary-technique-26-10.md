@@ -1,10 +1,11 @@
 ---
 id: fe20871a-7d20-4289-8ecf-1974702682be
+published: false
 blueprint: events
 title: 'Clockwork Dance - Contemporary Technique'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721891884
+updated_at: 1729793128
 start_date: '2024-10-26 10:10'
 end_date: '2024-10-26 11:10'
 free: false
@@ -12,7 +13,7 @@ virtual: false
 organisers:
   - clockwork-dance-company
 town: Lowestoft
-featured_image: offthepressimages/new_resized_images/Dance.png
+featured_image: pelicanpelican-3x2/dance.png
 content_area:
   -
     type: heading

@@ -1,5 +1,6 @@
 ---
 id: cb050fdd-b64b-4971-8d11-2e0568b7ecbc
+published: false
 blueprint: events
 title: 'Springboard Juniors'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0

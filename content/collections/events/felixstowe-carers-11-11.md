@@ -4,7 +4,7 @@ blueprint: events
 title: 'Felixstowe and Villages Family Carers Group'
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/support.png
+featured_image: pelicanpelican-3x2/support.png
 start_date: '2024-11-11 13:00'
 end_date: '2024-11-11 15:00'
 free: true
@@ -159,7 +159,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724234217
+updated_at: 1729796816
 duplicated_from: 91b3feee-15ed-410a-8825-4e1c7b93db6a
 attendance_information: '- Adult family carers'
 event_categories:

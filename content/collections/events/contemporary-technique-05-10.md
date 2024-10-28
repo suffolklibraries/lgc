@@ -1,5 +1,6 @@
 ---
 id: 26144ac6-ccf7-405b-8e42-0c59a4a30342
+published: false
 blueprint: events
 title: 'Clockwork Dance - Contemporary Technique'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0

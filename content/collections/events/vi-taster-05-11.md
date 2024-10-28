@@ -4,7 +4,7 @@ blueprint: events
 title: 'VI Arts Taster Programme - Seated Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721916266
+updated_at: 1729794223
 start_date: '2024-11-05 10:00'
 end_date: '2024-11-05 12:00'
 event_categories:
@@ -15,7 +15,7 @@ event_categories:
 free: true
 virtual: false
 town: 'Bury Saint Edmunds'
-featured_image: offthepressimages/wellbeing.png
+featured_image: pelicanpelican-3x2/wellbeing.png
 content_area:
   -
     type: heading
@@ -150,9 +150,10 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-accessibility_information: |-
-  - Wheelchair access
-  - Guide dogs welcome
+accessibility_information:
+  - |-
+    - Wheelchair access
+    - Guide dogs welcome
 latitude: '52.10588840719979'
 longitude: '1.331017097259445'
 address_line_1: "St John's Community Centre"

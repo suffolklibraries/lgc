@@ -6,7 +6,7 @@ event_categories:
   - nature
 organisers:
   - activgardens
-featured_image: offthepressimages/new_resized_images/Food_Nature.png
+featured_image: pelicanpelican-3x2/food_nature-(1).png
 start_date: '2024-08-27 09:30'
 end_date: '2024-11-12 14:30'
 free: true
@@ -146,10 +146,11 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1719933458
+updated_at: 1729785133
 duplicated_from: 80a984ab-26a7-4307-b31b-9869bf8ed429
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '- 16 + years'
-accessibility_information: '- Accessible for wheelchair users and people with mobility issues'
+accessibility_information:
+  - '- Accessible for wheelchair users and people with mobility issues'
 ---
 Take part in our programme to develop practical skills and build confidence on your way to further learning, training or employment.

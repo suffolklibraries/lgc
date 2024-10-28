@@ -4,7 +4,7 @@ blueprint: events
 title: 'Friends Around the Table - Online Carers Session'
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/support.png
+featured_image: pelicanpelican-3x2/support.png
 start_date: '2024-10-29 18:30'
 end_date: '2024-10-29 20:00'
 free: true
@@ -103,7 +103,7 @@ cta: |-
 
   [01986 873955](tel:01986873955)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725287113
+updated_at: 1729786839
 duplicated_from: 1a44a26d-8916-4667-af36-0fff5226f26e
 attendance_information: '- Adult family carers'
 event_categories:
