@@ -1,5 +1,6 @@
 ---
 id: d464086c-45f8-42db-92b2-95bc9e6019f6
+published: false
 blueprint: events
 title: 'Spooky Stories Animation Workshop'
 event_categories:

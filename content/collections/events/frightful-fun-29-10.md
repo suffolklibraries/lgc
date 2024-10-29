@@ -1,5 +1,6 @@
 ---
 id: 0f925e17-81ad-4940-97b6-b6c2be78012d
+published: false
 blueprint: events
 title: 'Frightful Fun'
 event_categories:
@@ -178,6 +179,5 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1729865546
 duplicated_from: feb209d1-edf6-4092-b2db-af0111d69294
-published: false
 ---
 Prepare yourselves for a bigger, scarier, and more thrilling Halloween celebration than ever before in Lowestoft!
