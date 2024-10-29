@@ -4,7 +4,7 @@ blueprint: events
 title: 'Wonderous and Magical Tales'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1727167232
+updated_at: 1730130035
 latitude: '52.34518367493906'
 longitude: '1.5019647124699333'
 start_date: '2024-11-01 12:00'
@@ -18,7 +18,7 @@ address_line_1: 'Halesworth Library'
 address_line_2: 'Bridge Street'
 town: Halesworth
 postcode: 'IP19 8AD'
-featured_image: suffolklibrariesimages/dave-tonge-photo-(2).jpg
+featured_image: suffolklibrariesimages/ipswich-choral-society-festive-performance-(1).png
 attendance_information: '- Family Friendly'
 content_area:
   -
@@ -204,9 +204,10 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
+accessibility_information:
+  - |-
+    - Wheelchair access
+    - Indoor venue
 end_date: '2024-11-01 15:30'
 duplicated_from: 5cdf968a-f57a-4107-a858-5dc390909048
 ---

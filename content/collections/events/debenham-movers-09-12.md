@@ -4,7 +4,7 @@ blueprint: events
 title: 'Debenham Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721922964
+updated_at: 1730135073
 latitude: '52.22327511053906'
 longitude: '1.1697874596611926'
 start_date: '2024-12-09 10:00'
@@ -17,7 +17,7 @@ address_line_1: 'Debenham Sports and Leisure Centre'
 address_line_2: 'Gracechurch Street'
 town: Debenham
 postcode: 'IP14 6BL'
-featured_image: offthepressimages/otpillustrations/DANCE_LATER.png
+featured_image: pelicanpelican-3x2/dance.png
 attendance_information: '- Age 55+'
 content_area:
   -
@@ -152,10 +152,11 @@ cta: |-
   [community-dance@hotmail.com](mailto:community-dance@hotmail.com)
 
   [07375024115](tel:07375024115)
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
 cost_details: '£5 per session'
 end_date: '2024-12-09 11:30'
 duplicated_from: 23c8962a-4c85-41e5-b8fa-1c600adfaffc

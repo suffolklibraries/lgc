@@ -4,7 +4,7 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721921785
+updated_at: 1730135286
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2024-11-25 13:00'
@@ -17,7 +17,7 @@ address_line_1: 'Walton Community Hall'
 address_line_2: '274 High Street'
 town: 'Walton, Felixstowe'
 postcode: 'IP11 9DS'
-featured_image: offthepressimages/otpillustrations/DANCE_LATER.png
+featured_image: pelicanpelican-3x2/dance.png
 attendance_information: '- For adults aged 55+'
 content_area:
   -
@@ -172,10 +172,11 @@ cta: |-
   [karenlouisedance@gmail.com](mailto:karenlouisedance@gmail.com)
 
   [07751 891319](tel:07751891319)
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
 cost_details: '£5 per session'
 end_date: '2024-11-25 14:30'
 duplicated_from: a453e731-ba43-446a-928d-3bc52f8e71d2

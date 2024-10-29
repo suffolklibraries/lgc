@@ -4,7 +4,7 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1721922104
+updated_at: 1730135375
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2024-11-19 11:00'
@@ -17,7 +17,7 @@ address_line_1: 'Hadleigh Baptist Church'
 address_line_2: 'George Street'
 town: Hadleigh
 postcode: 'IP7 5BE'
-featured_image: offthepressimages/otpillustrations/DANCE_LATER.png
+featured_image: pelicanpelican-3x2/dance.png
 attendance_information: '- Age 55+'
 content_area:
   -
@@ -166,10 +166,11 @@ cta: |-
   [07751 891319](tel:07751891319)
 
   [https://karenlouisedance.com](https://karenlouisedance.com)
-accessibility_information: |-
-  - Autism friendly
-  - Wheelchair access
-  - Indoor venue
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
 cost_details: '£5 per session'
 end_date: '2024-11-19 12:30'
 duplicated_from: e4649bd5-de24-491f-9e81-8a501d122437
