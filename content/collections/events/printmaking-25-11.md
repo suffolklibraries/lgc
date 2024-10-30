@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-community-print-3x2.png
-start_date: '2024-11-18 09:30'
-end_date: '2024-11-18 14:30'
+start_date: '2024-11-25 09:30'
+end_date: '2024-11-25 14:30'
 free: true
 virtual: false
 attendance_information: |-
@@ -117,7 +117,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730298236
+updated_at: 1730298254
 duplicated_from: 0cee0448-dd30-4968-84f9-451fead5cd61
 ---
 Join Printmaker Sarah Nkugwa for a vibrant day of hands-on printmaking!
