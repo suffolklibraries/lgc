@@ -103,5 +103,6 @@ duplicated_from: 10f6c95b-4f1a-4fa6-bb67-a99ebddd1d66
 cost_details: '£3 per person'
 address_line_2: 'Royal Plain'
 booking_link: 'https://www.marinatheatre.co.uk/whatson-event/dayglo-indydarc/'
+published: false
 ---
 Prepare yourselves for a bigger, scarier, and more thrilling Halloween celebration than ever before in Lowestoft!
