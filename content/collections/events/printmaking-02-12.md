@@ -1,8 +1,7 @@
 ---
 id: 83f12f7f-f3d6-412c-9c67-a621d875132e
-published: false
 blueprint: events
-title: 'PRESS PLAY: Community Printmaking (Duplicated) (Duplicated) (Duplicated)'
+title: 'PRESS PLAY: Community Printmaking'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-community-print-3x2.png
-start_date: '2024-11-04 09:30'
-end_date: '2024-11-04 14:30'
+start_date: '2024-12-02 09:30'
+end_date: '2024-12-02 14:30'
 free: true
 virtual: false
 attendance_information: |-
@@ -118,7 +117,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730298174
+updated_at: 1730298282
 duplicated_from: 657afb12-9d3d-4d5a-95ff-cfc4ee6ed243
 ---
 Join Printmaker Sarah Nkugwa for a vibrant day of hands-on printmaking!
