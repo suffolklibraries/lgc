@@ -1,8 +1,7 @@
 ---
 id: 2d8cf868-c090-4581-b424-831430d928b1
-published: false
 blueprint: events
-title: 'Open Studio (Duplicated)'
+title: 'Creative Practice for Wellbeing'
 event_categories:
   - art
   - later-years
@@ -10,9 +9,9 @@ event_categories:
   - wellbeing
 organisers:
   - rock-paper-scissors
-featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2024-12-11 09:00'
-end_date: '2024-12-11 15:00'
+featured_image: rockpaperscissorsimages/rps-creative-practice-3x2.png
+start_date: '2024-11-07 10:00'
+end_date: '2024-11-07 12:00'
 free: true
 virtual: false
 attendance_information: 'open to all'
@@ -87,18 +86,15 @@ content_area:
     content:
       -
         type: text
-        text: 'If you are looking for a space to come and be creative or work, join us on Wednesdays at our Dove Street studio for a drop-in creative working session, anytime from 9-3 pm.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'We are supported by Ipswich Borough Council, with their help we aim to reduce isolation and promote mental wellness in adults through creativity and community. Each session will include a theme/prompt to work from or just come along with your own projects. Marie & Emma will be on hand to provide creative support and cups of tea!'
+        text: 'These workshops bring people together with a focus on developing their creative skills. No previous experience is necessary, this is a supportive environment to build confidence and feel relaxed.'
   -
     type: paragraph
     attrs:
       textAlign: left
+    content:
+      -
+        type: text
+        text: 'Our team are warm, friendly and experienced in teaching a wide range of creative skills, in our welcoming art studio.'
   -
     type: paragraph
     attrs:
@@ -127,7 +123,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730296492
+updated_at: 1730296741
 duplicated_from: 87baff22-198d-4a03-ada3-08562da2db6e
 ---
-Join us on Wednesdays at our Dove Street studio for a drop-in creative working session.
+Creative Practice for Wellbeing is our programme that support adults wellbeing through Art.
