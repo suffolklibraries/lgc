@@ -1,8 +1,7 @@
 ---
 id: 76b9ad26-1d84-4907-93c4-fd140b476a54
-published: false
 blueprint: events
-title: 'Creative Practice for Wellbeing (Duplicated) (Duplicated) (Duplicated)'
+title: 'Creative Practice for Wellbeing'
 event_categories:
   - art
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-creative-practice-3x2.png
-start_date: '2024-11-07 10:00'
-end_date: '2024-11-07 12:00'
+start_date: '2024-11-28 10:00'
+end_date: '2024-11-28 12:00'
 free: true
 virtual: false
 attendance_information: 'open to all'
@@ -124,7 +123,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730296741
+updated_at: 1730296813
 duplicated_from: ad990341-09b7-4b3f-ab10-c5ad0794432c
 ---
 Creative Practice for Wellbeing is our programme that support adults wellbeing through Art.
