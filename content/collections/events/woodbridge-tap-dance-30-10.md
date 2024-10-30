@@ -122,5 +122,6 @@ address_line_2: '6 Chapel Road, Otley,'
 postcode: 'IP6 9NT'
 duplicated_from: 90f95541-b997-43dd-b0c7-277402423e7e
 cost_details: '3.50'
+published: false
 ---
 Absolute beginners welcome to practice tap dance with Jill
