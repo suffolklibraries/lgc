@@ -128,5 +128,6 @@ featured_image: pelicanpelican-3x2/wellbeing.png
 duplicated_from: 6328791c-39de-4849-9336-7130314d6a82
 accessibility_information:
   - '- accessible toilets'
+published: false
 ---
 Nourish provides a space to feed your mind, body and soul. From yoga and sound baths to daytime discos and mural painting, there’s lots to get involved in over the four-month programme.
