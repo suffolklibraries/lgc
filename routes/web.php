@@ -50,8 +50,6 @@ Route::group(['as' => 'user.'], function(){
         Route::post('my-events/{entryId}/update', [UserDashboardController::class, 'updateEvent'])->name('my-events.update')->middleware(ProtectAgainstSpam::class);
         Route::delete('my-events/{entryId}/delete', [UserDashboardController::class, 'deleteEvent'])->name('my-events.delete')->middleware(ProtectAgainstSpam::class);
         Route::post('my-events/store', [UserDashboardController::class, 'storeEvent'])->name('my-events.store')->middleware(ProtectAgainstSpam::class);
-        Route::post('my-events/save-draft/{entryId?}', [UserDashboardController::class, 'saveDraft'])->name('my-events.save-draft')->middleware(ProtectAgainstSpam::class);
-        Route::post('my-events/{entryId}/update-draft', [UserDashboardController::class, 'updateDraft'])->name('my-events.update-draft')->middleware(ProtectAgainstSpam::class);
 
         Route::group([
             'prefix' => 'addresses',
