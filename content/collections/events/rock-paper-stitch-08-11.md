@@ -1,25 +1,19 @@
 ---
 id: c6acef7c-fcaf-4278-a703-98ef1ff05935
-published: false
 blueprint: events
-title: 'PRESS PLAY: Community Printmaking (Duplicated)'
+title: 'Rock Paper Stitch'
 event_categories:
   - art
   - community
   - wellbeing
 organisers:
   - rock-paper-scissors
-featured_image: rockpaperscissorsimages/rps-community-print-3x2.png
-start_date: '2024-12-16 09:30'
-end_date: '2024-12-16 14:30'
-free: true
+featured_image: rockpaperscissorsimages/rock-paper-stitch-3x2.png
+start_date: '2024-11-08 19:00'
+end_date: '2024-11-08 21:00'
+free: false
 virtual: false
-attendance_information: |-
-  emerging artists
-  students
-  creative freelancers
-accessibility_information:
-  - 'Drop-in event'
+attendance_information: adults
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 building_name: 'Dove Street Studio'
@@ -89,7 +83,37 @@ content_area:
     content:
       -
         type: text
-        text: "This 'Open Studio' workshop is an opportunity to explore a variety of printmaking methods under Sarah's expert eye."
+        text: 'Share the love for knitting, sewing, crocheting and any other needle crafts with like minded makers - with tea and cake!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'The group is hosted by Thaksala Haylock ('
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.instagram.com/inkyandthebears/?hl=en'
+              rel: null
+              target: _blank
+              title: null
+        text: '@inkyandthebears on Instagram'
+      -
+        type: text
+        text: )
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Please be aware that this is not an instructional session.'
   -
     type: paragraph
     attrs:
@@ -111,14 +135,15 @@ content_area:
         text: 'Rock Paper Scissors website'
       -
         type: text
-        text: ' to find out more and book your FREE place.'
+        text: ' to find out more and book your place.'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730298324
+updated_at: 1730368794
 duplicated_from: 79c40dc3-f050-4890-bcac-a31529aa6916
+cost_details: £5
 ---
-Join Printmaker Sarah Nkugwa for a vibrant day of hands-on printmaking!
+A monthly community group for adult makers to bring their own projects to work on.
