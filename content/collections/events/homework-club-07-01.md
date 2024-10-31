@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2024-12-03 15:30'
-end_date: '2024-12-03 17:00'
+start_date: '2025-01-07 15:30'
+end_date: '2025-01-07 17:00'
 free: true
 virtual: false
 attendance_information: 'young people'
@@ -109,7 +109,67 @@ content_area:
       -
         type: text
         text: "Need a quick space to do your homework? Join us at the Eastern Angles Centre for Homework Club! There'll be someone at each session to supervise and support you with your homework,\_ensuring all tasks set by their schools are completed on time. Free internet access, use of computers and printing will also be available, as well as free snacks!"
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Before making your first booking you will need to complete a sign up form. Visit the Eastern Angles website to download a copy of the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://easternangles.co.uk/homework-club'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Homework Club sign up form'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "All attendees, parents and guardians are also asked to read\_Homework Club Terms & Conditions and Behaviour Policy which can be viewed on the"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://easternangles.co.uk/homework-club'
+              rel: null
+              target: _blank
+              title: null
+        text: ' Eastern Angles website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Once we've got all the info from your sign up form, simply book your place online or over the phone on 01473 211498. Booking for each session will open one week before the session."
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730386430
+updated_at: 1730386568
+booking_link: 'https://easternangles.co.uk/after-school-club'
+cta: |-
+  This event is organised by Eastern Angles
+
+  [https://easternangles.co.uk/](https://easternangles.co.uk/) 
+
+  [admin@easternangles.co.uk ](mailto:admin@easternangles.co.uk)
+
+  [01473 211498](tel:01473211498)
 ---
 A safe space to do your homework and develop your education!
