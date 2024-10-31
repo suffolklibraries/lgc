@@ -1,18 +1,15 @@
 ---
 id: 793e0773-a015-4f7e-9c2e-4aa5649b1c68
-published: false
 blueprint: events
-title: 'Christmas Carols (Duplicated)'
+title: 'Mini Music Makers'
 event_categories:
-  - wellbeing
-  - community
-  - nature
   - music
+  - early-years
 organisers:
   - britten-pears-arts
-featured_image: brittenpearsartsimages/christmas-carols.png
-start_date: '2024-12-17 14:00'
-end_date: '2024-12-17 15:00'
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2024-11-15 10:00'
+end_date: '2024-11-15 11:30'
 free: true
 virtual: false
 latitude: '52.16397679077819'
@@ -62,33 +59,49 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for our annual carol singalong in The Red House garden – a fun session with mince pies, warm spiced drinks, and seasonal festive favourites.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        text: 'For 0–5-year-olds at The Red House, Aldeburgh. Join Joe and friends for singing and creative play; great for the little ones to learn social skills, turn-taking, sharing and of course, how to have fun'
       -
         type: text
-        text: 'Song sheets will be provided, so all you need to bring is your finest voice.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        marks:
+          -
+            type: bold
+        text: .
+      -
+        type: hardBreak
+        marks:
+          -
+            type: bold
+      -
+        type: hardBreak
+        marks:
+          -
+            type: bold
       -
         type: text
-        text: 'As the event will be outside, please wrap up warm for the weather. Limited shelter will be provided.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        text: "Joe Carr is our Community and Collection Curator based at The Red House as part of our Community Team. He aims to bring education and enrichment to people's lives by engaging them through music and heritage, working closely with schools, families and young people. He launched the first Mini Music Makers in 2017. As a guitarist he aims to bring a range of musical styles to Mini Music Makers sessions each week, from traditional nursery rhymes to blues, rock and roll, and new music."
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Suitable for all ages.'
+        text: Click
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.brittenpearsarts.org/events/mini-music-makers#dates-and-times'
+              rel: null
+              target: _blank
+              title: null
+        text: ' here to book your place via the Britten Pears Arts website'
+      -
+        type: text
+        text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730118335
+updated_at: 1730391230
 duplicated_from: 227eb5c1-5d4b-4f0c-ae66-ab7bfaa171f2
 cta: |-
   This event is organised by Britten Pears Arts
@@ -101,5 +114,7 @@ cta: |-
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+attendance_information: 'under 5s'
+booking_link: 'https://www.brittenpearsarts.org/events/mini-music-makers#dates-and-times'
 ---
-Get into the Christmas spirit with friends and neighbours!
+Friday morning session of fun music and play activities!
