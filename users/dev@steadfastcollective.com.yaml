@@ -11,3 +11,10 @@ preferences:
       - roles
       - last_login
       - linked_organisations
+  collections:
+    events:
+      columns:
+        - title
+        - slug
+        - status
+        - created_by
