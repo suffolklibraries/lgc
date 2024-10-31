@@ -132,7 +132,7 @@ content_area:
               title: null
         text: 'Access at Christchurch Mansion'
 cta: |-
-  This event is organised by Ipswich Museums:
+  This event is organised by Ipswich Museums
 
   [https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/](https://ipswich.cimuseums.org.uk/exhibitions/animalsintheartgallery/) 
 
@@ -140,7 +140,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1718285259
+updated_at: 1730367666
 duplicated_from: 9e31ffa6-ae96-4758-8941-2a374ecf7dde
 ---
 Celebrating themes of portraiture, identity and home, this new exhibition features photographs by John Ferguson, an internationally established documentary, lifestyle and portrait photographer who lives in Ipswich. His images tell stories which are approachable and intimate.
