@@ -1,8 +1,7 @@
 ---
 id: 6901e8eb-bb7c-4203-a7d3-235b4f5374e0
-published: false
 blueprint: events
-title: 'Rock Paper Stitch (Duplicated)'
+title: 'Rock Paper Stitch'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rock-paper-stitch-3x2.png
-start_date: '2024-11-08 19:00'
-end_date: '2024-11-08 21:00'
+start_date: '2024-12-13 19:00'
+end_date: '2024-12-13 21:00'
 free: false
 virtual: false
 attendance_information: adults
@@ -143,7 +142,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730368794
+updated_at: 1730368836
 duplicated_from: c6acef7c-fcaf-4278-a703-98ef1ff05935
 cost_details: £5
 ---
