@@ -1,19 +1,18 @@
 ---
 id: 286af783-a560-4bba-b169-e1fd55c92d25
-published: false
 blueprint: events
-title: 'Exhibition: The Snowman™ and The Snowdog (Duplicated)'
+title: 'Cinema Club: The Snowman™'
 event_categories:
   - family-friendly
-  - exhibition
   - museums
+  - film
 organisers:
   - suffolk-archives
 featured_image: suffolkarchives/snowman-3x2-(1).png
-start_date: '2024-10-25 10:00'
-end_date: '2025-01-18 16:00'
+start_date: '2024-11-30 11:30'
+end_date: '2024-11-30 12:00'
 free: true
-cost_details: 'Under 4s go free, tickets cost up to £5'
+cost_details: '£2 per ticket'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -103,24 +102,44 @@ content_area:
     content:
       -
         type: text
-        text: "The exhibition features over 40 original illustrations from the film, along with behind-the-scenes drawings and preparatory sketches. \_These unique pieces, based on characters created by Raymond Briggs, offer a fascinating insight into the creative processes involved in bringing The Snowman™ back to life for a new generation of viewers."
+        text: "The Snowman™, created and illustrated by Raymond Briggs, is one of the world's most popular and iconic festive stories which perfectly captures the wonder and innocence of childhood. This timeless and magical tale tells a story of imagination and friendship as well as love and loss."
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: "Suitable for all ages.\_"
+        text: "© Snowman Enterprises Ltd & Snowdog Enterprises Ltd \_\_"
       -
         type: hardBreak
       -
         type: text
-        text: 'Child ticket ages 4-16.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'http://www.thesno/'
+              rel: null
+              target: null
+              title: null
+        text: www.thesnowman.com
+      -
+        type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Children under 4 go free.'
+        text: 'Film Rating U'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: '£2 per child, adults free'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Run time 29 minutes'
   -
     type: paragraph
     attrs:
@@ -135,12 +154,12 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mbeoek&target=&iframe=true'
+              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkabgj&target=&iframe=true'
               rel: null
               target: _blank
               title: null
         text: "via Suffolk Archives' TicketSource website."
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mbeoek&target=&iframe=true'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkabgj&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -150,7 +169,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730374679
+updated_at: 1730388301
 duplicated_from: 85e3396b-6447-4257-a3cb-4d0edc7172e0
 ---
-This delightful exhibition is a visual treat for all ages.
+Join in the festive fun at Suffolk Archives!
