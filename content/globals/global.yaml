@@ -69,7 +69,7 @@ data:
   listing_call_to_action: 'Get in touch with Eleanor'
   listing_image: suffolklibrariesimages/2024-elle-root---bio-photo---low-res.jpg
   listing_email: Get.Creative@suffolklibraries.co.uk
-  placeholder_image: lgc-va.png
+  placeholder_image: lgc-va-(1).png
   library_cta:
     -
       type: heading
