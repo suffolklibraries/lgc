@@ -82,7 +82,7 @@ cta: |-
 
   [volunteer@usethehive.org.uk](mailto:volunteer@usethehive.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730371710
+updated_at: 1730371722
 duplicated_from: 70e90be1-9d29-4fde-9560-472002eef057
 ---
 Come along and join The Hive's sewing group.
