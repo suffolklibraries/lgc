@@ -1,11 +1,10 @@
 ---
 id: 5b233a93-70ac-4c7b-9fbb-4471186f7af3
-published: false
 blueprint: events
-title: 'Brandon Country Park’s Magical Holiday Trail (Duplicated)'
+title: 'Brandon Country Park’s Winter Holiday Trail'
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-10-31 10:00'
-end_date: '2024-11-03 16:00'
+start_date: '2024-12-20 10:00'
+end_date: '2025-01-06 16:00'
 free: false
 cost_details: £1.50
 virtual: false
@@ -72,14 +71,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Follow the trail, solving the clues along the way, to help find the special word and then return to the cafe to collect a small prize.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'Follow the trail, finding words along the way, fill them in to find the special word and then return to the café to collect your prize.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: 'No need to book, just come along.'
+        text: 'No need to book, just come along and pick up a puzzle sheet from the Copper Beech Café.'
 cta: |-
   This event is organised by West Suffolk Council
 
@@ -89,7 +89,12 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730389920
+updated_at: 1730390021
 duplicated_from: 3efc2fac-9ed8-4765-bdcd-4669185f164e
+event_categories:
+  - nature
+  - family-friendly
+organisers:
+  - west-suffolk-council
 ---
 Explore nature with a fun family-friendly trail.
