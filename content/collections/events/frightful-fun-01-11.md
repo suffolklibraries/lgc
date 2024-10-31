@@ -178,5 +178,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1729865962
 duplicated_from: 085e84a5-7444-4746-850c-5cd441bcb7dc
+published: false
 ---
 Prepare yourselves for a bigger, scarier, and more thrilling Halloween celebration than ever before in Lowestoft!
