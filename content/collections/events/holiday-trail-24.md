@@ -72,13 +72,14 @@ content_area:
       -
         type: text
         text: 'Follow the trail, solving the clues along the way, to help find the special word and then return to the cafe to collect a small prize.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: 'No need to book, just come along.'
+        text: 'No need to book, just come along and pick up a puzzle sheet from the Copper Beech Café.'
 cta: |-
   This event is organised by West Suffolk Council
 
@@ -88,6 +89,11 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730389920
+updated_at: 1730390047
+event_categories:
+  - nature
+  - family-friendly
+organisers:
+  - west-suffolk-council
 ---
 Explore nature with a fun family-friendly trail.
