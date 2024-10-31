@@ -134,7 +134,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730367919
+updated_at: 1730368032
 duplicated_from: 741a00b7-72eb-4105-8f89-37545b5e86d3
 ---
 Free music workshops for people in later life.
