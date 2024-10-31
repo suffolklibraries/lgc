@@ -3,3 +3,11 @@ super: true
 linked_organisations: steadfast-collective
 id: a720ec70-17d4-4534-b9e4-f0e078465928
 password_hash: $2y$10$UahRuhYfPXo.h0j0aIrh6O512qk9BOvoya0X29eWZPf4RraZGdpAm
+preferences:
+  users:
+    columns:
+      - email
+      - name
+      - roles
+      - last_login
+      - linked_organisations
