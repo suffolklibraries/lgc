@@ -1,8 +1,7 @@
 ---
 id: fa34cb82-6112-4669-ab61-907d224bcd08
-published: false
 blueprint: events
-title: 'Sewing Group (Duplicated) (Duplicated)'
+title: 'Sewing Group'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-hive
 featured_image: hive-ipswich/the-hive-sewing-group-3x2.png
-start_date: '2024-12-06 10:15'
-end_date: '2024-12-06 13:00'
+start_date: '2025-01-10 10:15'
+end_date: '2025-01-10 13:00'
 free: true
 virtual: false
 latitude: '52.06134059473968'
@@ -83,7 +82,7 @@ cta: |-
 
   [volunteer@usethehive.org.uk](mailto:volunteer@usethehive.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730371710
+updated_at: 1730371750
 duplicated_from: db9e424d-c665-4ea7-9cdc-b4e04a89940e
 ---
 Come along and join The Hive's sewing group.
