@@ -1,8 +1,7 @@
 ---
 id: 9365ea11-eb60-4a1a-9672-48742547e2dd
-published: false
 blueprint: events
-title: 'Cinema Club: Elf (Duplicated)'
+title: 'Cinema Club: How the Grinch Stole Christmas'
 event_categories:
   - family-friendly
   - museums
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2024-12-07 10:00'
-end_date: '2024-12-07 11:30'
+start_date: '2024-12-07 14:00'
+end_date: '2024-12-07 15:45'
 free: true
 cost_details: '£2 per child, adults free'
 virtual: false
@@ -103,24 +102,24 @@ content_area:
     content:
       -
         type: text
-        text: "Join Buddy the Elf on an adventure around New York City in search of his family, and on a quest to help Father Christmas save everyone's festive spirit."
+        text: 'The grumpy, green Grinch is determined to steal Christmas from the towns people of Whoville. But with the help of a little girl can the Grinch grow a heart and discover the true meaning of Christmas? With Jim Carrey as the Grinch.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Film Rating U'
+        text: 'Film rating PG'
       -
         type: hardBreak
       -
         type: text
-        text: '£2 per child, adults free'
+        text: '£2 per child/ adults free'
       -
         type: hardBreak
       -
         type: text
-        text: 'Run time 1 hour 30 minutes'
+        text: 'Run time 1 hour 45 minutes'
   -
     type: paragraph
     attrs:
@@ -135,12 +134,12 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkjqka&target=&iframe=true'
+              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-xjxzjp&target=&iframe=true'
               rel: null
               target: _blank
               title: null
         text: "via Suffolk Archives' TicketSource website."
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkjqka&target=&iframe=true'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-xjxzjp&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -150,7 +149,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730388498
+updated_at: 1730388576
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
 ---
 Join in the festive fun at Suffolk Archives!
