@@ -1,8 +1,7 @@
 ---
 id: b79ab231-0fff-4681-a3cf-39da29584993
-published: false
 blueprint: events
-title: 'Cinema Club: The Snowman™ (Duplicated)'
+title: 'Cinema Club: The Snowman™ and the Snowdog'
 event_categories:
   - family-friendly
   - museums
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: suffolkarchives/snowman-3x2-(1).png
-start_date: '2024-11-30 11:30'
-end_date: '2024-11-30 12:00'
+start_date: '2024-11-30 13:00'
+end_date: '2024-11-30 13:30'
 free: true
-cost_details: '£2 per ticket'
+cost_details: '£2 per child, adults free'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -103,7 +102,7 @@ content_area:
     content:
       -
         type: text
-        text: "The Snowman™, created and illustrated by Raymond Briggs, is one of the world's most popular and iconic festive stories which perfectly captures the wonder and innocence of childhood. This timeless and magical tale tells a story of imagination and friendship as well as love and loss."
+        text: 'In The Snowman™ and The Snowdog Billy discovers a secret box hidden under the floorboards – a snowman-making kit! Billy builds his snowman and, with a little spare snow, a Snowdog. At midnight, The Snowman and The Snowdog magically come to life, and together they fly off on a magical adventure to the North Pole.'
       -
         type: hardBreak
       -
@@ -119,7 +118,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'http://www.thesno/'
+              href: 'http://www.thesnowman.com/'
               rel: null
               target: null
               title: null
@@ -140,7 +139,7 @@ content_area:
         type: hardBreak
       -
         type: text
-        text: 'Run time 29 minutes'
+        text: 'Run time 24 minutes'
   -
     type: paragraph
     attrs:
@@ -155,12 +154,12 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkabgj&target=&iframe=true'
+              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-bvjody&target=&iframe=true'
               rel: null
               target: _blank
               title: null
         text: "via Suffolk Archives' TicketSource website."
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkabgj&target=&iframe=true'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-bvjody&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -170,7 +169,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730388301
+updated_at: 1730388382
 duplicated_from: 286af783-a560-4bba-b169-e1fd55c92d25
 ---
 Join in the festive fun at Suffolk Archives!
