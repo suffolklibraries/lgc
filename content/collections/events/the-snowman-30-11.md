@@ -12,7 +12,7 @@ featured_image: suffolkarchives/snowman-3x2-(1).png
 start_date: '2024-11-30 11:30'
 end_date: '2024-11-30 12:00'
 free: true
-cost_details: '£2 per ticket'
+cost_details: '£2 per ticket, adults free'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -169,7 +169,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730388301
+updated_at: 1730388403
 duplicated_from: 85e3396b-6447-4257-a3cb-4d0edc7172e0
 ---
 Join in the festive fun at Suffolk Archives!
