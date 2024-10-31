@@ -1,16 +1,15 @@
 ---
 id: 8450ba13-d6c8-4374-90be-2a5a53847882
-published: false
 blueprint: events
-title: 'Homework Club (Duplicated) (Duplicated)'
+title: 'Homework Club'
 event_categories:
   - teen
   - languages
 organisers:
   - eastern-angles
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-03-05 15:30'
-end_date: '2025-03-05 17:00'
+start_date: '2025-03-12 15:30'
+end_date: '2025-03-12 17:00'
 free: true
 virtual: false
 attendance_information: 'young people'
@@ -162,7 +161,7 @@ content_area:
         type: text
         text: "Once we've got all the info from your sign up form, simply book your place online or over the phone on 01473 211498. Booking for each session will open one week before the session."
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730387439
+updated_at: 1730387475
 booking_link: 'https://easternangles.co.uk/after-school-club'
 cta: |-
   This event is organised by Eastern Angles
