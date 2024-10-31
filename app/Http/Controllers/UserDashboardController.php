@@ -19,6 +19,7 @@ use Statamic\Modifiers\CoreModifiers;
 use App\Http\Requests\StoreEventRequest;
 use App\Http\Requests\DeleteEventRequest;
 use App\Http\Requests\UpdateEventRequest;
+use App\Jobs\NotifyEventApproversOfNewEvent;
 use App\Http\Requests\SaveEventAsDraftRequest;
 use App\Http\Requests\UpdateUserDetailsRequest;
 use App\Http\Requests\UpdateUserOrganisationRequest;
@@ -285,46 +286,6 @@ class UserDashboardController extends Controller
 
         $entry = Entry::make()
             ->collection('events')
-            ->published(true)
-            ->slug(Str::slug(__(':name :start', [
-                'name' => $request->title,
-                'start' => $start->format('d-m-Y')
-            ])))
-            ->data(
-                $this->mapEventData($request, $user)
-            );
-
-        if($request->file('image')) {
-            $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
-            $entry->featured_image = $assetPath;
-        }
-
-        if($request->categories) {
-            $entry->event_categories = $request->categories;
-        }
-
-        if($request->organisers) {
-            $entry->organisers = $request->organisers;
-        }
-
-        $entry->save();
-
-        return redirect(route('user.dashboard.my-events.index'))->with(
-            'success',
-            __("Event ':event' created successfully.", [
-                'event' => $entry->title
-            ])
-        );
-    }
-
-    public function saveDraft(SaveEventAsDraftRequest $request): RedirectResponse
-    {
-        $user = User::current();
-
-        $start = Carbon::parse($request->start);
-
-        $entry = Entry::make()
-            ->collection('events')
             ->published(false)
             ->slug(Str::slug(__(':name :start', [
                 'name' => $request->title,
@@ -349,60 +310,13 @@ class UserDashboardController extends Controller
 
         $entry->save();
 
-        return redirect(route('user.dashboard.my-events.edit', ['entryId' => $entry->id]))->with(
+        NotifyEventApproversOfNewEvent::dispatch($entry);
+
+        return redirect(route('user.dashboard.my-events.index'))->with(
             'success',
-            "Saved as draft."
-        );
-    }
-
-    public function updateDraft(string $entryId, SaveEventAsDraftRequest $request): RedirectResponse
-    {
-        $entry = $this->getEntry($entryId);
-
-        $user = User::current();
-
-        $start = Carbon::parse($request->start);
-
-        $entry->published(false)
-            ->slug(Str::slug(__(':name :start', [
-                'name' => $request->title,
-                'start' => $start->format('d-m-Y')
-            ])));
-
-        $data = $this->mapEventData($request, $user);
-
-
-        if($request->file('image')) {
-            $assetPath = $this->saveImage($request->file('image'), $request->alternative_text);
-            $data['featured_image'] = $assetPath;
-        } else {
-            $data['featured_image'] = $entry->featured_image?->path;
-
-            if($request->alternative_text) {
-                $asset = $entry->featured_image;
-
-                if($asset) {
-                    $asset->set('alt', $request->alternative_text);
-                    $asset->save();
-                }
-            }
-        }
-
-        $entry->data($data);
-
-        if($request->categories) {
-            $entry->event_categories = $request->categories;
-        }
-
-        if($request->organisers) {
-            $entry->organisers = $request->organisers;
-        }
-
-        $entry->save();
-
-        return redirect(route('user.dashboard.my-events.edit', ['entryId' => $entry->id]))->with(
-            'success',
-            "Draft updated."
+            __("Event ':event' created successfully.", [
+                'event' => $entry->title
+            ])
         );
     }
 

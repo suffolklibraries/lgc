@@ -27,9 +27,6 @@
             },
             handleSubmit(event) {
                 this.saving = true
-                if(this.saveDraft) {
-                    this.$refs.form.action = "{{ route:user.dashboard.my-events.update-draft :entryId="entry.id" }}"
-                }
                 this.$refs.form.submit()
             }
         }'
@@ -41,27 +38,15 @@
         <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mb-10">
             <button
                 type="submit"
-                @click="saveAsDraft"
-                class="tw-bg-brand-grey/5 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-brand-grey tw-flex tw-gap-2 tw-items-center tw-border tw-border-brand-grey/10 hover:tw-bg-brand-grey/20 motion-safe:tw-transition-colors"
+                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 tw-items-center hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
             >
                 {{ svg:save class="tw-w-3 tw-h-3" }}
-                Save as draft
-            </button>
-
-            <button
-                type="submit"
-                @click="publishEvent"
-                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
-            >
-                Publish Event
+                Save
             </button>
         </div>
         {{ csrf_field }}
         {{ partial:partial/form_method method="post" }}
         {{ partial:partial/honeypot }}
-
-        <input type="hidden" name="save_draft" x-model="saveDraft">
-        <input type="hidden" name="publish" x-model="publish">
 
 
         {{ partial:event-submission-form/section section_title="Event Information" }}
@@ -174,19 +159,10 @@
         <div class="tw-flex tw-gap-3 tw-items-center tw-justify-end tw-mb-10">
             <button
                 type="submit"
-                @click="saveAsDraft"
-                class="tw-bg-brand-grey/5 tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-brand-grey tw-flex tw-gap-2 tw-items-center tw-border tw-border-brand-grey/10 hover:tw-bg-brand-grey/20 motion-safe:tw-transition-colors"
+                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 tw-items-center hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
             >
                 {{ svg:save class="tw-w-3 tw-h-3" }}
-                Save as draft
-            </button>
-
-            <button
-                type="submit"
-                @click="publishEvent"
-                class="tw-bg-brand-pink tw-text-base tw-font-bold tw-py-2 tw-px-4 tw-rounded-full tw-text-white tw-flex tw-gap-2 hover:tw-bg-brand-pink-dark motion-safe:tw-transition-colors"
-            >
-                Publish Event
+                Save
             </button>
         </div>
     </form>
