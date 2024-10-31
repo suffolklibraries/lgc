@@ -101,7 +101,7 @@ content_area:
         type: text
         text: .
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730391555
+updated_at: 1730391565
 duplicated_from: 5b083cd0-b46d-4355-b8ee-d69c743d1bce
 cta: |-
   This event is organised by Britten Pears Arts
