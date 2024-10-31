@@ -7,8 +7,8 @@ event_categories:
   - later-years
   - music
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2024-11-14 10:30'
-end_date: '2024-11-14 12:00'
+start_date: '2024-11-15 10:30'
+end_date: '2024-11-15 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -134,7 +134,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730367845
+updated_at: 1730367953
 duplicated_from: d3f16132-af49-44aa-af8d-a3852208060a
 ---
 Free music workshops for people in later life.
