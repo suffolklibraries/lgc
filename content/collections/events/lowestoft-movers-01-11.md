@@ -149,5 +149,6 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 0ba4b763-2ba6-4355-ac67-40c7949ef0eb
+published: false
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Lowestoft.
