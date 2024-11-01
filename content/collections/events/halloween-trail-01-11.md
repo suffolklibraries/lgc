@@ -130,5 +130,6 @@ address_line_1: 'East Town Park'
 address_line_2: 'Coupals Road'
 town: Haverhill
 postcode: 'CB9 7UR'
+published: false
 ---
 Our popular Halloween Trail is back!
