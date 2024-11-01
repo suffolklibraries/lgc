@@ -303,5 +303,6 @@ attendance_information: '- Suitable for ages 4 - 11'
 duplicated_from: b8316009-658e-46f5-a9a6-7e05f53e22b7
 cost_details: '£25 but bursaries are available'
 booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-2/'
+published: false
 ---
 Our popular Once Upon a Dance is back this October half term and we’re partnering with Britten Pears Arts to provide an exciting, fun-filled day of moving, music-making, songwriting and creativity!

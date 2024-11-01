@@ -256,5 +256,6 @@ attendance_information: '- Suitable for boys aged 10 - 16'
 duplicated_from: f09d7a53-7c18-429f-a636-94031bd32eec
 cost_details: '£35 but bursaries are available'
 booking_link: 'https://www.danceeast.co.uk/workshops/project-b-in-partnership-with-the-royal-academy-of-dance-rad/'
+published: false
 ---
 Join us for a creative, high-energy day of workshops designed to build your coordination, strength, and alignment, led by experienced male teachers and live musical accompaniment.
