@@ -140,5 +140,6 @@ address_line_1: 'The Seagull Theatre'
 address_line_2: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 189404a0-acd2-4e1c-ba10-33d1acacfb20
+published: false
 ---
 Come and try our weekly dance classes in Lowestoft led by a friendly instructor.
