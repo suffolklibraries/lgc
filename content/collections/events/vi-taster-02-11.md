@@ -177,5 +177,6 @@ duplicated_from: 1141e045-ccb1-4c38-8a6e-e526c7caf840
 attendance_information: '-  adults and young people living with visual impairment'
 organisers:
   - cohere-arts
+published: false
 ---
 A series of arts workshops for adults and young people living with visual impairment across Suffolk.
