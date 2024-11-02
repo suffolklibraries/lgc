@@ -165,5 +165,6 @@ accessibility_information:
     - Indoor venue
 end_date: '2024-11-02 15:00'
 duplicated_from: e3f7a53a-3400-4cc4-b142-d945925ba27c
+published: false
 ---
 Create beats, remix tunes, and explore sound in this DJ workshop!

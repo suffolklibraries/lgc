@@ -119,5 +119,6 @@ attendance_information: |-
   - young people with additional needs
   - young people at risk of bullying
 booking_link: 'https://theseagull.co.uk/community_events/arts-and-crafts-group/'
+published: false
 ---
 Support for young people at risk of bullying
