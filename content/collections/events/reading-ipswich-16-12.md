@@ -1,16 +1,15 @@
 ---
 id: a808f882-ef1f-4d42-8b8b-cf309351db68
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Reading with Dementia - Ipswich'
 event_categories:
   - literature
   - wellbeing
   - community
   - later-years
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2024-12-09 14:15'
-end_date: '2024-12-09 15:15'
+start_date: '2024-12-16 14:15'
+end_date: '2024-12-16 15:15'
 free: true
 virtual: false
 attendance_information: |-
@@ -221,7 +220,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730731808
+updated_at: 1730731830
 duplicated_from: 25f42bf0-e20c-464c-a438-cf7df2b535c4
 ---
 Weekly reading group for people living with Dementia and their families and carers.
