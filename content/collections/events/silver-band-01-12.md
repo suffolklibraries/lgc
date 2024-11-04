@@ -1,25 +1,22 @@
 ---
 id: 3b67cd08-3fc5-41c0-8a84-bb8d3d5d90d9
-published: false
 blueprint: events
-title: 'Dementia Friendly Screening - Sister Act (Duplicated)'
+title: 'Haverhill Silver Band - Family Christmas Concert'
 event_categories:
-  - film
   - community
-  - wellbeing
-  - later-years
+  - music
+  - family-friendly
 organisers:
   - haverhill-arts-centre
-featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2024-11-12 13:30'
-end_date: '2024-11-12 15:00'
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2024-12-01 16:00'
+end_date: '2024-12-01 17:30'
 free: false
-cost_details: £5.50
+cost_details: '£10 for adults, £4 for under 18s'
 virtual: false
-attendance_information: 'people with dementia'
+attendance_information: 'family friendly'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Dementia friendly'
   - 'Accessible toilets'
 latitude: '52.080992393382395'
 longitude: '0.44072955678052805'
@@ -103,18 +100,40 @@ content_area:
     content:
       -
         type: text
-        text: 'When a nightclub singer is forced to take refuge from the mob in a convent, she ends up turning the convent choir into a soulful chorus complete with a Motown repertoire, until the sudden celebrity of the choir jeopardizes her identity. Starring Whoopi Goldberg, Maggie Smith, Harvey Keitel and Bill Nunn.'
-booking_link: 'https://haverhillartscentre.co.uk/performance/sister-act/'
+        text: 'Haverhill Silver Band are returning to Haverhill Arts Centre to get you in the mood for Christmas. Expect traditional festive music that the whole family can enjoy.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://haverhillartscentre.co.uk/performance/haverhill-silver-band-family-christmas-concert-2024/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'here to book your ticket'
+      -
+        type: text
+        text: ' via the Haverhill Arts Centre website.'
+booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-silver-band-family-christmas-concert-2024/'
 cta: |-
   This event is organised by Haverhill Arts Centre
 
   [https://haverhillartscentre.co.uk/](https://haverhillartscentre.co.uk/) 
 
-  [enquiries@suffolkartlink.org.uk](mail:enquiries@suffolkartlink.org.uk)
+  [boxoffice@haverhillartscentre.co.uk](mail:boxoffice@haverhillartscentre.co.uk)
 
   [01440 714140](tel:01440714140)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730738160
+updated_at: 1730738353
 duplicated_from: 46ea1a34-6a67-4a0d-a242-4e42670e9fd1
 ---
-Grab the popcorn and watch a classic film in a relaxed environment
+Join in the festive fun at Haverhill Arts Centre!
