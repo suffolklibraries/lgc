@@ -160,5 +160,6 @@ accessibility_information:
 cost_details: '£5 per session'
 end_date: '2024-11-04 11:30'
 duplicated_from: 6f563c16-8e78-4440-b0c9-e1a0a15224ba
+published: false
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Debenham.
