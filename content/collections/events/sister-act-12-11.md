@@ -109,10 +109,10 @@ cta: |-
 
   [https://haverhillartscentre.co.uk/](https://haverhillartscentre.co.uk/) 
 
-  [enquiries@suffolkartlink.org.uk](mail:enquiries@suffolkartlink.org.uk)
+  [boxoffice@haverhillartscentre.co.uk](mail:boxoffice@haverhillartscentre.co.uk)
 
   [01440 714140](tel:01440714140)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730738160
+updated_at: 1730738366
 ---
 Grab the popcorn and watch a classic film in a relaxed environment
