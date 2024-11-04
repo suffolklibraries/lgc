@@ -2,14 +2,15 @@
 
 namespace App\Jobs;
 
-use App\Notifications\NewUserEventCreated;
 use Statamic\Facades\User;
 use Statamic\Entries\Entry;
 use Illuminate\Bus\Queueable;
 use Illuminate\Queue\SerializesModels;
 use Illuminate\Queue\InteractsWithQueue;
+use App\Notifications\NewUserEventCreated;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
+use Illuminate\Support\Facades\Notification;
 use Illuminate\Contracts\Queue\ShouldBeUnique;
 
 class NotifyEventApproversOfNewEvent implements ShouldQueue
@@ -31,15 +32,7 @@ class NotifyEventApproversOfNewEvent implements ShouldQueue
      */
     public function handle(): void
     {
-        User::all()
-            ->filter(function($user) {
-                if(in_array('event_approver', $user->roles)) {
-                    return $user;
-                }
-            })
-            ->values()
-            ->each(function($user) {
-                $user->notify(new NewUserEventCreated($this->entry));
-            });
+        Notification::route('mail', env('EVENT_REVIEWER_EMAIL', 'get.creative@suffolklibraries.co.uk'))
+            ->notify(new NewUserEventCreated($this->entry));
     }
 }
