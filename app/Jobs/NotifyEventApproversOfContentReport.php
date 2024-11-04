@@ -2,14 +2,15 @@
 
 namespace App\Jobs;
 
-use App\Models\ContentReport;
-use App\Notifications\NewContentReport;
 use Statamic\Facades\User;
+use App\Models\ContentReport;
 use Illuminate\Bus\Queueable;
 use Illuminate\Queue\SerializesModels;
+use App\Notifications\NewContentReport;
 use Illuminate\Queue\InteractsWithQueue;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
+use Illuminate\Support\Facades\Notification;
 
 class NotifyEventApproversOfContentReport implements ShouldQueue
 {
@@ -32,15 +33,7 @@ class NotifyEventApproversOfContentReport implements ShouldQueue
             ->where('complete', false)
             ->get();
 
-        User::all()
-            ->filter(function($user) {
-                if(in_array('event_approver', $user->roles)) {
-                    return $user;
-                }
-            })
-            ->values()
-            ->each(function($user) use ($otherReports) {
-                $user->notify(new NewContentReport($this->report, $otherReports));
-            });
+        Notification::route('mail', env('EVENT_REVIEWER_EMAIL', 'get.creative@suffolklibraries.co.uk'))
+            ->notify(new NewContentReport($this->report, $otherReports));
     }
 }
