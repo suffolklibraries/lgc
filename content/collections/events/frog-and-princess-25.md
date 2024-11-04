@@ -1,7 +1,7 @@
 ---
 id: b2ca7817-5c50-4e2b-a3fd-117b80d9a00f
 blueprint: events
-title: '3 Little Pigs (Duplicated)'
+title: 'The Frog and the Princess'
 event_categories:
   - music
   - family-friendly
@@ -150,7 +150,7 @@ cta: |-
 
   [01440 714140](tel:01440714140)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730739011
+updated_at: 1730739455
 duplicated_from: 472bab4d-c0af-4edb-a2ed-3e5c252e06ed
 ---
 What if wishes were granted? What if magic was real? When a Storyteller appears everyone is enchanted…
