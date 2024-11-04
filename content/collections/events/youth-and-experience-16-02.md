@@ -1,8 +1,7 @@
 ---
 id: 5c9da489-3186-4971-a879-feb5872cfc0d
-published: false
 blueprint: events
-title: 'Haverhill Silver Band - Family Christmas Concert (Duplicated)'
+title: 'Haverhill Youth and Community Band Presents Youth and Experience'
 event_categories:
   - community
   - music
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - haverhill-arts-centre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-01 16:00'
-end_date: '2024-12-01 17:30'
+start_date: '2025-02-16 16:00'
+end_date: '2025-02-16 17:30'
 free: false
-cost_details: '£10 for adults, £4 for under 18s'
+cost_details: '£9 standard, £4 for under 18s'
 virtual: false
 attendance_information: 'family friendly'
 accessibility_information:
@@ -101,7 +100,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Haverhill Silver Band are returning to Haverhill Arts Centre to get you in the mood for Christmas. Expect traditional festive music that the whole family can enjoy.'
+        text: 'Haverhill Youth and Community Band, with special guests U3A Singing For Pleasure group, present a concert to raise funds for the Polished Brass Trust, which helps young Haverhill brass and percussion musicians with the cost of music exams.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Experience an afternoon of music to suit all tastes featuring many talented young players as soloists.'
   -
     type: paragraph
     attrs:
@@ -116,15 +123,15 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://haverhillartscentre.co.uk/performance/haverhill-silver-band-family-christmas-concert-2024/'
+              href: 'https://haverhillartscentre.co.uk/performance/haverhill-youth-community-band-2025/'
               rel: null
               target: _blank
               title: null
-        text: 'here to book your ticket'
+        text: 'here to book your ticket '
       -
         type: text
-        text: ' via the Haverhill Arts Centre website.'
-booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-silver-band-family-christmas-concert-2024/'
+        text: 'via the Haverhill Arts Centre website.'
+booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-youth-community-band-2025/'
 cta: |-
   This event is organised by Haverhill Arts Centre
 
@@ -134,7 +141,7 @@ cta: |-
 
   [01440 714140](tel:01440714140)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730738353
+updated_at: 1730739156
 duplicated_from: 3b67cd08-3fc5-41c0-8a84-bb8d3d5d90d9
 ---
-Join in the festive fun at Haverhill Arts Centre!
+A concert in aid of the Polished Brass Trust.
