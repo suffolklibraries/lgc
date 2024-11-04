@@ -1,19 +1,19 @@
 ---
 id: 472bab4d-c0af-4edb-a2ed-3e5c252e06ed
-published: false
 blueprint: events
-title: 'Haverhill Silver Band - Family Christmas Concert (Duplicated) (2)'
+title: '3 Little Pigs'
 event_categories:
-  - community
   - music
   - family-friendly
+  - theatre-and-performance
+  - early-years
 organisers:
   - haverhill-arts-centre
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-01 16:00'
-end_date: '2024-12-01 17:30'
+featured_image: haverhill_arts_centre/three-little-pigs.png
+start_date: '2025-02-19 11:00'
+end_date: '2025-02-19 12:30'
 free: false
-cost_details: '£10 for adults, £4 for under 18s'
+cost_details: '£8 standard, £7 concessions'
 virtual: false
 attendance_information: 'family friendly'
 accessibility_information:
@@ -109,6 +109,22 @@ content_area:
     content:
       -
         type: text
+        text: "A grumpy old wolf is a chef who wants some pigs’ tails for his soup.\_ Will the little pigs outwit the wolf and what kind of house will they build? \_A funny, warm-hearted and interactive rustic tale to make you squeal with laughter, bristling with puppets, live music and lots of joining in. Garlic Theatre entertain the whole family with beautifully crafted puppets, music and a garlicky French twist to the tale."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Devised and designed by the Company.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
         text: 'Click '
       -
         type: text
@@ -116,7 +132,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://haverhillartscentre.co.uk/performance/haverhill-silver-band-family-christmas-concert-2024/'
+              href: 'https://haverhillartscentre.co.uk/performance/3-little-pig-tails/'
               rel: null
               target: _blank
               title: null
@@ -124,7 +140,7 @@ content_area:
       -
         type: text
         text: ' via the Haverhill Arts Centre website.'
-booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-silver-band-family-christmas-concert-2024/'
+booking_link: 'https://haverhillartscentre.co.uk/performance/3-little-pig-tails/'
 cta: |-
   This event is organised by Haverhill Arts Centre
 
@@ -134,7 +150,7 @@ cta: |-
 
   [01440 714140](tel:01440714140)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730738353
+updated_at: 1730738852
 duplicated_from: 3b67cd08-3fc5-41c0-8a84-bb8d3d5d90d9
 ---
-Join in the festive fun at Haverhill Arts Centre!
+A wonderful retelling of the classic story of the three little pigs set in Paris.
