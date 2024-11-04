@@ -220,7 +220,9 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730731746
+updated_at: 1730731914
 duplicated_from: 807becd2-33e7-4d4f-83c3-605726919623
+organisers:
+  - suffolk-libraries
 ---
 Weekly reading group for people living with Dementia and their families and carers.
