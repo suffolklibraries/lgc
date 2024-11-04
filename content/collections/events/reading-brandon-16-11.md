@@ -1,16 +1,15 @@
 ---
 id: d68baa24-8f64-4768-8483-c15d9ab70eb7
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Reading with Dementia - Brandon'
 event_categories:
   - literature
   - wellbeing
   - community
   - later-years
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2024-12-16 14:15'
-end_date: '2024-12-16 15:15'
+start_date: '2024-12-16 13:00'
+end_date: '2024-12-16 14:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -20,44 +19,30 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
-latitude: '52.05879312178225'
-longitude: '1.1565072711648254'
-building_name: 'Ipswich County Library'
-address_line_1: 'Northgate Street'
-town: Ipswich
-postcode: 'IP1 3DE'
+latitude: '52.446741099537014'
+longitude: '0.6237182040511965'
+building_name: 'Brandon Library'
+address_line_1: 'Bury Road'
+town: Brandon
+postcode: 'IP27 0BQ'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ipswich '
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
+              href: 'https://www.google.com/maps/dir/Brandon+Library/Old+Forge+Court,+Brandon+IP27+0EL/@52.4470957,0.6203866,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d830d2c15df2cd:0xdc552d409cb4d6db!2m2!1d0.6236851!2d52.4466384!1m5!1m1!1s0x47d830cd7c3f92f1:0x4741b3397fe62ce!2m2!1d0.622214!2d52.447166!3e2?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'railway station'
-      -
-        type: text
-        text: ' is a 21 minute walk away, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Tower Ramparts bus station'
+        text: 'nearest bus stop'
       -
         type: text
         text: ' is a three minute walk away.'
@@ -66,35 +51,55 @@ directions:
     content:
       -
         type: text
-        text: 'There are several nearby carparks, including '
+        text: 'Brandon railway station is a '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              href: 'https://www.google.com/maps/dir/Brandon+Library/Brandon+IP27+0BA/@52.4506141,0.6133268,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d830d2c15df2cd:0xdc552d409cb4d6db!2m2!1d0.6236851!2d52.4466384!1m5!1m1!1s0x47d830d043af1e21:0x154869b833ced2e4!2m2!1d0.6246899!2d52.4539972!3e2?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'Crown Street car park'
+        text: '14 minute walk'
       -
         type: text
-        text: ' a six minute walk away and the '
+        text: ' away. You can find up to date train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.buttermarketipswich.com/Parking/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bnd'
               rel: null
               target: _blank
               title: null
-        text: Buttermarket
+        text: 'Greater Anglia website'
       -
         type: text
-        text: ' a seven minute walk away.'
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.brandonsuffolk.com/amenities/bury-road-car-park/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'nearest car park'
+      -
+        type: text
+        text: " is a minute's walk away on Bury Road."
   -
     type: paragraph
     content:
@@ -107,11 +112,11 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
+              href: 'https://www.accessable.co.uk/venues/brandon-library'
               rel: null
               target: _blank
               title: null
-        text: 'Ipswich County Library using AccessAble'
+        text: 'Brandon Library on AccessAble'
       -
         type: text
         text: .
@@ -159,7 +164,15 @@ content_area:
     content:
       -
         type: text
-        text: "This group meets every Monday at 2:15PM. Find out more about our\_"
+        text: 'This group meets every Monday from 1PM to 2PM. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Find out more about our\_"
       -
         type: text
         marks:
@@ -221,7 +234,9 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730731830
+updated_at: 1730732441
 duplicated_from: a808f882-ef1f-4d42-8b8b-cf309351db68
+organisers:
+  - suffolk-libraries
 ---
 Weekly reading group for people living with Dementia and their families and carers.
