@@ -1,16 +1,15 @@
 ---
 id: 306e22ca-b328-41af-8b91-35e7fa7b8f55
-published: false
 blueprint: events
-title: 'Reading with Dementia - Brandon (Duplicated)'
+title: 'Reading with Dementia - Stowmarket'
 event_categories:
   - literature
   - wellbeing
   - community
   - later-years
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2024-12-16 13:00'
-end_date: '2024-12-16 14:00'
+start_date: '2024-11-07 10:30'
+end_date: '2024-11-07 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -20,60 +19,46 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
-latitude: '52.446741099537014'
-longitude: '0.6237182040511965'
-building_name: 'Brandon Library'
-address_line_1: 'Bury Road'
-town: Brandon
-postcode: 'IP27 0BQ'
+latitude: '52.187988733605216'
+longitude: '0.9971791124598641'
+building_name: 'Stowmarket Library'
+address_line_1: 'Milton Road North'
+town: Stowmarket
+postcode: 'IP14 1EX'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The '
+        text: 'Stowmarket Library is a one minute walk from the nearest bus stop, and you can find up-to-date times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Brandon+Library/Old+Forge+Court,+Brandon+IP27+0EL/@52.4470957,0.6203866,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d830d2c15df2cd:0xdc552d409cb4d6db!2m2!1d0.6236851!2d52.4466384!1m5!1m1!1s0x47d830cd7c3f92f1:0x4741b3397fe62ce!2m2!1d0.622214!2d52.447166!3e2?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'nearest bus stop'
+        text: 'Suffolk Onboard website'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Brandon railway station is a '
+        text: 'Stowmarket railway station is a five minute walk away and you can find times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Brandon+Library/Brandon+IP27+0BA/@52.4506141,0.6133268,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d830d2c15df2cd:0xdc552d409cb4d6db!2m2!1d0.6236851!2d52.4466384!1m5!1m1!1s0x47d830d043af1e21:0x154869b833ced2e4!2m2!1d0.6246899!2d52.4539972!3e2?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-        text: '14 minute walk'
-      -
-        type: text
-        text: ' away. You can find up to date train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bnd'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/smk'
               rel: null
               target: _blank
               title: null
@@ -86,41 +71,35 @@ directions:
     content:
       -
         type: text
-        text: 'The '
+        text: 'There are a number of public and supermarket car parks close to the Stowmarket Library. The nearest car park is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.brandonsuffolk.com/amenities/bury-road-car-park/'
+              href: 'https://www.babergh.gov.uk/web/mid-suffolk/w/union-street-car-park-1'
               rel: null
               target: _blank
               title: null
-        text: 'nearest car park'
+        text: 'Union Street Car Park'
       -
         type: text
-        text: " is a minute's walk away on Bury Road."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for '
+        text: ', a four minute walk away or at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/brandon-library'
+              href: 'https://en.parkopedia.co.uk/parking/carpark/meadow_centre/ip14/stowmarket/?arriving=202405291430&leaving=202405291630#google_vignette'
               rel: null
               target: _blank
               title: null
-        text: 'Brandon Library on AccessAble'
+        text: ASDA
       -
         type: text
-        text: .
+        text: ' a five minute walk away.'
   -
     type: paragraph
     content:
@@ -165,15 +144,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This group meets every Monday from 1PM to 2PM. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Find out more about our\_"
+        text: "This group meets every Thursday from 10.30AM to 12PM. Find out more about our\_"
       -
         type: text
         marks:
@@ -190,6 +161,30 @@ content_area:
       -
         type: text
         text: "\_project."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "On the third Thursday of every month,\_we will be joined by representatives from\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://christiescare.com/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: 'Christies Care'
+      -
+        type: text
+        text: "\_to talk about caring for people with dementia and offering advice for anyone affected by it."
   -
     type: paragraph
     attrs:
@@ -235,7 +230,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730732606
+updated_at: 1730733496
 duplicated_from: ebedbe9e-8ee4-4966-b9cd-6917cb761e55
 organisers:
   - suffolk-libraries
