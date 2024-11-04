@@ -1,6 +1,5 @@
 ---
 id: b2ca7817-5c50-4e2b-a3fd-117b80d9a00f
-published: false
 blueprint: events
 title: '3 Little Pigs (Duplicated)'
 event_categories:
@@ -10,11 +9,11 @@ event_categories:
   - early-years
 organisers:
   - haverhill-arts-centre
-featured_image: haverhill_arts_centre/three-little-pigs.png
-start_date: '2025-02-19 11:00'
-end_date: '2025-02-19 12:30'
+featured_image: haverhill_arts_centre/frog-and-princess-1730738920.png
+start_date: '2025-03-08 11:30'
+end_date: '2025-03-08 13:00'
 free: false
-cost_details: '£8 standard, £7 concessions'
+cost_details: '£9.50 standard, £8.50 concessions'
 virtual: false
 attendance_information: 'family friendly'
 accessibility_information:
@@ -102,7 +101,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Haverhill Silver Band are returning to Haverhill Arts Centre to get you in the mood for Christmas. Expect traditional festive music that the whole family can enjoy.'
+        text: 'Beasts and breadcrumbs, wolves and witches, but all Froggy really wants is to hear a story starring someone like him. Head into the woods with Hansel & Gretel, help little elves make beautiful shoes, meet the princess who’s champion of hide-and-seek, and see if Froggy finally gets his wish!'
   -
     type: paragraph
     attrs:
@@ -110,7 +109,7 @@ content_area:
     content:
       -
         type: text
-        text: "A grumpy old wolf is a chef who wants some pigs’ tails for his soup.\_ Will the little pigs outwit the wolf and what kind of house will they build? \_A funny, warm-hearted and interactive rustic tale to make you squeal with laughter, bristling with puppets, live music and lots of joining in. Garlic Theatre entertain the whole family with beautifully crafted puppets, music and a garlicky French twist to the tale."
+        text: 'Box Tale Soup present a stunning adaptation of Grimm’s most magical tales, featuring wonderful puppets and spellbinding original music… Now let’s have a story about a Frog!'
   -
     type: paragraph
     attrs:
@@ -118,7 +117,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Devised and designed by the Company.'
+        text: '“They are wonderful.” The Times'
   -
     type: paragraph
     attrs:
@@ -126,22 +125,22 @@ content_area:
     content:
       -
         type: text
-        text: 'Click '
+        text: Click
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://haverhillartscentre.co.uk/performance/3-little-pig-tails/'
+              href: 'https://haverhillartscentre.co.uk/performance/the-frog-and-the-princess/'
               rel: null
               target: _blank
               title: null
-        text: 'here to book your ticket'
+        text: ' here to book your ticket '
       -
         type: text
-        text: ' via the Haverhill Arts Centre website.'
-booking_link: 'https://haverhillartscentre.co.uk/performance/3-little-pig-tails/'
+        text: 'via the Haverhill Arts Centre website.'
+booking_link: 'https://haverhillartscentre.co.uk/performance/the-frog-and-the-princess/'
 cta: |-
   This event is organised by Haverhill Arts Centre
 
@@ -151,7 +150,7 @@ cta: |-
 
   [01440 714140](tel:01440714140)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730738852
+updated_at: 1730739011
 duplicated_from: 472bab4d-c0af-4edb-a2ed-3e5c252e06ed
 ---
-A wonderful retelling of the classic story of the three little pigs set in Paris.
+What if wishes were granted? What if magic was real? When a Storyteller appears everyone is enchanted…
