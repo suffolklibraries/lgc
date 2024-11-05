@@ -1,16 +1,15 @@
 ---
 id: 4d0047e6-2f3a-473d-a0cf-ce0f2aae29f6
-published: false
 blueprint: events
-title: 'Bird Ringing at West Stow (Duplicated)'
+title: 'Bird Ringing at West Stow'
 event_categories:
   - nature
   - family-friendly
 organisers:
   - west-suffolk-council
 featured_image: west-stow-country-park/bird-ringing.png
-start_date: '2025-02-23 10:00'
-end_date: '2025-02-23 11:00'
+start_date: '2025-03-23 10:00'
+end_date: '2025-03-23 11:00'
 free: false
 cost_details: '£3 per person, under 16s free'
 virtual: false
@@ -130,7 +129,7 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730813840
+updated_at: 1730813867
 duplicated_from: 97d1a8bc-5ecc-4677-aa92-d5b8710c664f
 ---
 Explore the life of birds at West Stow Country Park.
