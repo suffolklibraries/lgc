@@ -1,8 +1,7 @@
 ---
 id: bb2dc568-4146-4d2c-80ba-6ad5c14f340d
-published: false
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
+title: 'Participate - Saxmundham'
 event_categories:
   - later-years
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-04 14:00'
-end_date: '2024-12-04 16:00'
+start_date: '2024-11-13 10:00'
+end_date: '2024-11-13 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -23,45 +22,45 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
-building_name: 'The Band Hall'
-address_line_1: '17, Victory Road'
-town: Leiston
-postcode: 'IP16 4DQ'
+building_name: 'The Market Hall'
+address_line_1: 'High Street'
+town: Saxmundham
+postcode: 'IP17 1AB'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Band Hall is a six minute away from a '
+        text: 'The Market Hall is only a two-minute walk away from the Saxmundham train station. If you are taking a bus, the closest '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: "https://www.google.com/maps/dir/''/17+Victory+Rd,+Leiston+IP16+4DQ/@52.205635,1.5714698,17.25z/data=!4m14!4m13!1m5!1m1!1s0x47da278d6a90ee4f:0x1c8327c2bac8a9cc!2m2!1d1.574273!2d52.203373!1m5!1m1!1s0x47da278c4b2e0693:0x78182c3470dcf8ec!2m2!1d1.5726813!2d52.205794!3e2?entry=ttu"
+              href: 'https://www.google.com/maps/place/Waitrose/@52.2135626,1.4922321,19.25z/data=!4m6!3m5!1s0x47d988e8810b7691:0x7377cb1e2437179b!8m2!3d52.213493!4d1.492838!16s%2Fg%2F1q67m87yp'
               rel: null
-              target: _blank
+              target: null
               title: null
         text: 'bus stop'
       -
         type: text
-        text: ', and a six minute walk from a pay-and-display '
+        text: ' is only two-minutes away. Alternatively, park at the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/High+Street+Car+Park/@52.2054471,1.5776241,18.5z/data=!4m6!3m5!1s0x47da279253c8a65b:0xf8b42b783536f8b!8m2!3d52.2050523!4d1.5785802!16s%2Fg%2F11tjbw6g22'
+              href: 'https://www.google.com/maps/place/Saxmundham+Station/@52.2148508,1.4912939,18.33z/data=!4m6!3m5!1s0x47d988e793a3d45b:0x2af9111fcd8fe6eb!8m2!3d52.2152199!4d1.4906056!16s%2Fg%2F11tjbv_rgp'
               rel: null
               target: null
               title: null
-        text: 'High Street Car Park'
+        text: 'Saxmundham Station Car Park'
       -
         type: text
-        text: '. '
+        text: ', nearby. '
   -
     type: paragraph
     content:
@@ -147,7 +146,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.brittenpearsarts.org/events/participate-leiston-2'
+              href: 'https://www.brittenpearsarts.org/events/participate-saxmundham-2'
               rel: null
               target: _blank
               title: null
@@ -155,7 +154,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.brittenpearsarts.org/events/participate-leiston-2'
+booking_link: 'https://www.brittenpearsarts.org/events/participate-saxmundham-2'
 cta: |-
   This event is organised by Britten Pears Arts:
 
@@ -163,9 +162,9 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730820838
+updated_at: 1730820971
 duplicated_from: a24270e0-b23d-4808-a84f-4e841637de1f
-latitude: '52.20591758071305'
-longitude: '1.5727273811032985'
+latitude: '52.2149703191624'
+longitude: '1.4923007463413769'
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians.
