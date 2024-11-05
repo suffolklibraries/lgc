@@ -1,22 +1,20 @@
 ---
 id: 8ce2158e-6b4c-4bec-974a-eb98bc1ed978
-published: false
 blueprint: events
-title: 'Heigh-ho, the Holly! (Duplicated)'
+title: 'Embody Your Beat'
 event_categories:
-  - later-years
   - community
   - music
+  - dance
 organisers:
   - the-cut
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-17 14:30'
-end_date: '2024-12-17 16:00'
+featured_image: pelicanpelican-3x2/support.png
+start_date: '2024-11-14 18:30'
+end_date: '2024-11-14 20:00'
 free: false
-cost_details: £4
+cost_details: £10
 virtual: false
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
 latitude: '52.34619384646034'
 longitude: '1.5038529040451039'
@@ -149,7 +147,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Featuring Hexachordia’s trademark blend of instrumental music, song and narrative, they will bring to life the winter season of times gone by. The trio play a range of authentic copies of old instruments including the gittern, vielle, crumhorn, lute, viol, recorder and bagpipes. '
+        text: 'Music and dance activate pleasure centres in the body and brain stimulating comfort, calm, relaxation, joy and empowerment as well as recalibrating the sensory and nervous systems. The class is inclusive and trauma informed.'
   -
     type: paragraph
     attrs:
@@ -157,9 +155,43 @@ content_area:
     content:
       -
         type: text
-        text: 'Many of today’s seasonal carols have their origins in the Medieval and Tudor eras, and so even if the instruments Hexachordia plays them on may be unfamiliar, some of the tunes will be known to many.'
+        text: 'A place where you can dance:'
+  -
+    type: bulletList
+    content:
       -
-        type: hardBreak
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Freely, without performing, following steps, routines or partnering with no expectations of what your dance should be or look like'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Safely, with a diverse group who enjoy grounded, conscious, freeform movement dancing on their own and together with consent and respect'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Creating space for yourself, moving from the inside out, engaging with others and sharing experiences which has a positive effect on mental and physical health and wellbeing'
   -
     type: paragraph
     attrs:
@@ -167,26 +199,30 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your ticket via '
+        text: 'You are welcome whatever your age, gender, culture, ability, experience, shape, fitness, physical and mental ability (under 16’s must be accompanied by an adult).'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Find out more on the Cut's website - "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/thecut/halesworth-u3a-heigh-ho-the-holly/e-eqymyo'
+              href: 'https://thecut.org.uk/events/embody-your-beat/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: "The Cut's TicketSource website"
-      -
-        type: text
-        text: .
+        text: 'https://thecut.org.uk/events/embody-your-beat/'
   -
     type: paragraph
     attrs:
       textAlign: left
-booking_link: 'https://www.ticketsource.co.uk/thecut/halesworth-u3a-heigh-ho-the-holly/e-eqymyo'
 cta: |-
   This event is organised by The Cut
 
@@ -196,7 +232,7 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730816579
+updated_at: 1730816757
 duplicated_from: 271291f3-c442-4781-b2c7-a202b87469e7
 ---
-A programme of mirth and merriment for the festive season
+If you don’t do your dance, who will?
