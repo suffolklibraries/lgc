@@ -1,8 +1,7 @@
 ---
 id: b1a61861-69d7-44f2-a6f2-2d5ec38d1506
-published: false
 blueprint: events
-title: 'Participate - Kesgrave (Duplicated)'
+title: 'Participate - Kesgrave'
 event_categories:
   - later-years
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-11-19 10:00'
-end_date: '2024-11-19 12:00'
+start_date: '2024-11-26 10:00'
+end_date: '2024-11-26 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -133,7 +132,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730820491
+updated_at: 1730820508
 duplicated_from: 3a8da75e-1852-4a6e-bd29-0aeb04901dbc
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians.
