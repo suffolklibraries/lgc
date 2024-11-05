@@ -1,8 +1,7 @@
 ---
 id: a092a3a6-40f7-4648-b54c-4d2089de4f22
-published: false
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
+title: 'Participate - Leiston'
 event_categories:
   - later-years
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-11-13 14:00'
-end_date: '2024-11-13 16:00'
+start_date: '2024-11-20 14:00'
+end_date: '2024-11-20 16:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -163,7 +162,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730820678
+updated_at: 1730820802
 duplicated_from: 64948d50-6932-4df8-a5ca-d7ea1e207968
 latitude: '52.20591758071305'
 longitude: '1.5727273811032985'
