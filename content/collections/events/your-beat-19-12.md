@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-cut
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2024-12-12 18:30'
-end_date: '2024-12-12 20:00'
+start_date: '2024-12-19 18:30'
+end_date: '2024-12-19 20:00'
 free: false
 cost_details: £10
 virtual: false
@@ -232,7 +232,7 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730817270
+updated_at: 1730817279
 duplicated_from: e56bdb3c-951e-4461-ac59-b54cdd356b13
 ---
 If you don’t do your dance, who will?
