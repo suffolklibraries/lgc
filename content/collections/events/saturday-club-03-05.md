@@ -1,6 +1,5 @@
 ---
 id: b20ae852-56eb-4435-8a27-1afdda11dee2
-published: false
 blueprint: events
 title: 'National Saturday Club'
 event_categories:
@@ -174,7 +173,7 @@ cta: |-
 
   [01787 372958](tel:01787372958)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730822853
+updated_at: 1730822887
 duplicated_from: 8d80bd7f-70ab-4f28-83d9-fca679638f6a
 ---
 Free art classes to 13–16 year olds who live, work or study in Sudbury and the surrounding areas.
