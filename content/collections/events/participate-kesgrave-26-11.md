@@ -39,7 +39,13 @@ directions:
     content:
       -
         type: text
-        text: 'The venue has free car parking. Plan your route using the '
+        text: 'The venue has free car parking. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Plan your journey using the '
       -
         type: text
         marks:
@@ -132,7 +138,9 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730820508
+updated_at: 1730820762
 duplicated_from: 3a8da75e-1852-4a6e-bd29-0aeb04901dbc
+latitude: '52.06142318998046'
+longitude: '1.2361450616997804'
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians.
