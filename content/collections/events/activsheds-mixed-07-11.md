@@ -1,24 +1,21 @@
 ---
 id: 7a64bc37-45c1-4384-ac36-60de15b4481b
-published: false
 blueprint: events
-title: 'ActivGardens - Beginner Beekeeping (Duplicated)'
+title: 'ActivSheds - mixed group'
 event_categories:
   - nature
   - community
   - wellbeing
 organisers:
   - activlives
-featured_image: activlives/beekeeping.png
-start_date: '2025-03-31 11:00'
-end_date: '2025-03-31 13:00'
-free: false
-cost_details: 'from £5 per person'
+featured_image: activlives/activsheds.png
+start_date: '2024-11-07 09:30'
+end_date: '2024-11-07 15:30'
+free: true
 virtual: false
-latitude: '52.03845056427872'
-longitude: '1.1481543616015653'
-building_name: 'The People’s Community Garden'
-address_line_1: 'Maidenhall Allotments'
+latitude: '52.03960215792138'
+longitude: '1.1462325482063196'
+building_name: 'CRESS Pavillion'
 address_line_2: 'Halifax Road'
 town: Ipswich
 postcode: 'IP2 8RE'
@@ -40,12 +37,6 @@ directions:
               target: _blank
               title: null
         text: 'Click here to get to the bus timetable.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The garden has its own pedestrian gate – from Halifax Road, walk down the roadway (not accessible to vehicles from either end), keeping the allotment site on your left and Bourne Vale Social Club on your right – the gate is a short walk along the pavement on the left hand side. From Wherstead Road, look out for Orwell’s furniture shop and turn into the roadway opposite, which leads under the railway bridge (if you are in a car, park between the trees – if you go under the bridge you may get stuck or have a long way to reverse), walk up the roadway, pass the main allotment gates, and our pedestrian gate will be on your right.'
   -
     type: paragraph
     content:
@@ -74,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: "If you would like to find out more about beekeeping, why not come along to our open sessions?\_This will give you excellent knowledge of bees and hands-on experience of how to keep them. Once you have gained confidence, you can borrow a suit and have a go yourself.\_"
+        text: 'Enjoy working shoulder to shoulder in our well-equipped sheds, making smaller items such as bird boxes, garden trugs or obelisks, as well as collaborating on bigger projects such as building raised beds and renovating garden furniture. '
   -
     type: paragraph
     attrs:
@@ -82,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To get a feel what it takes to handle bees, you can observe the hive being opened and checked from the safety of our hide. If you like what you see, you can borrow a suit and shadow our bee-keepers. If you would like to know more, sign up to become a regular member of our beekeeping team. This means you will be on the priority list for a share in the honey!'
+        text: 'The team have tried their hand at garden sofas made of pallets and a greenhouse made of plastic bottles, not to mention hedgehog homes and a mini Suffolk barn!'
   -
     type: paragraph
     attrs:
@@ -90,7 +81,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our regular Monday morning bee keeping sessions take place between 11am-1pm.'
+        text: 'This session welcomes people with illness, mental health issues or learning and/ or physical disabilities.'
   -
     type: paragraph
     attrs:
@@ -98,18 +89,18 @@ content_area:
     content:
       -
         type: text
-        text: 'To book your place at an open session, please contact Ian on '
+        text: 'For further information about joining this project, please contact Susannah on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07599951060'
+              href: 'tel:07530407302'
               rel: null
               target: null
               title: null
-        text: '07599 951060'
+        text: '07530 407302'
       -
         type: text
         text: ' or email '
@@ -119,11 +110,33 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:ian@activlives.org.uk'
+              href: 'mailto:susannah@activlives.org.uk'
               rel: null
               target: null
               title: null
-        text: ian@activlives.org.uk
+        text: susannah@activlives.org.uk
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Find out more about '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://activlives.org.uk/activgardens/activsheds/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'ActivSheds via their website'
       -
         type: text
         text: .
@@ -134,7 +147,14 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730802297
+updated_at: 1730803111
 duplicated_from: 41845457-3ed2-43c8-aee8-4f01980f737e
+attendance_information: |-
+  people with illness
+  people with mental health issues
+  people with learning disabilities
+  people with physical disabilities
+accessibility_information:
+  - 'Autism friendly'
 ---
-For people who would like to find out what beekeeping is all about!
+A practical project for people who would like to share knowledge, learn new skills, and pursue hobbies and interests!
