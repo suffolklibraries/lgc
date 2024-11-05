@@ -139,7 +139,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730804966
+updated_at: 1730804981
 duplicated_from: 5c7e4975-cf2f-4e4c-99b1-a36368163a0a
 attendance_information: 'session for men'
 ---
