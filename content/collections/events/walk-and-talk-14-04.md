@@ -183,7 +183,7 @@ cta: |-
 
   [014496 74980](tel:01449674980)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730798728
+updated_at: 1730798771
 duplicated_from: dbb84661-4a8a-45a2-9db1-e76c60e3a586
 organisers:
   - everyone-active
