@@ -1,8 +1,7 @@
 ---
 id: 4aa46917-c42a-4f10-8155-131fe95d10e7
-published: false
 blueprint: events
-title: 'Embody Your Beat (Duplicated)'
+title: 'Embody Your Beat'
 event_categories:
   - community
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-cut
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-03-13 18:30'
-end_date: '2025-03-13 20:00'
+start_date: '2025-03-20 18:30'
+end_date: '2025-03-20 20:00'
 free: false
 cost_details: £10
 virtual: false
@@ -233,7 +232,7 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730817561
+updated_at: 1730817584
 duplicated_from: 8df297e2-2ac6-4624-a7d4-1bd2953bcc7b
 ---
 If you don’t do your dance, who will?
