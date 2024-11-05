@@ -181,5 +181,6 @@ cta: |-
   [info@clipsoundandmusic.uk](mailto:info@clipsoundandmusic.uk)
 end_date: '2024-11-05 19:30'
 duplicated_from: 4bc6db2d-0809-43ef-bfa9-2b2162ebaf0a
+published: false
 ---
 A weekly club for young musicians to play with musical tech!
