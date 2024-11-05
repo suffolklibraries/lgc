@@ -66,7 +66,14 @@ function Events() {
         },
       });
 
+      autocompleteEl.addEventListener('keydown', (e) => {
+        if(e.key === 'Enter') {
+            e.preventDefault();
+        }
+      });
+
       autocomplete.addListener("place_changed", function () {
+
         if (infowindow) {
           infowindow.close();
         }
