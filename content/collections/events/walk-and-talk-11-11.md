@@ -183,6 +183,8 @@ cta: |-
 
   [014496 74980](tel:01449674980)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730797860
+updated_at: 1730798744
+organisers:
+  - everyone-active
 ---
 Get outdoor, meet new people, and do gentle exercise!
