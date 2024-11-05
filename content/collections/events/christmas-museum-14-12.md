@@ -1,20 +1,17 @@
 ---
 id: a318ee6c-6f9e-4b79-97d5-d226973de8b3
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Christmas at the Museum 2024'
 event_categories:
   - museums
-  - early-years
   - family-friendly
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-06-13 11:00'
-end_date: '2025-06-13 12:00'
-free: true
+featured_image: suffolklibrariesimages/christmas-generic.png
+start_date: '2024-12-14 10:00'
+end_date: '2024-12-14 16:00'
+free: false
 virtual: false
-attendance_information: 'suitable for pre-school children'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,7 +132,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: 'Enjoy a ride around the beautiful grounds of the Museum on Santa’s Horse and Carriage, as we welcome back the fabulous Suffolk Punches to provide an unforgettable experience. Have little ones with you? Why not head to our craft corner and get creative with our Museum Minis, Kizzy and Harry, and help decorate their stable as they look to celebrate their first Christmas here at the Museum.'
   -
     type: paragraph
     attrs:
@@ -143,7 +140,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
+        text: 'Enjoy carols in the courtyard, whilst enjoying a mince pie or two, as the Newmarket Community Choir joins us to get us into the festive spirit.'
   -
     type: paragraph
     attrs:
@@ -151,29 +148,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your pre-school place, please email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:info@nhrm.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: info@nhrm.co.uk
-      -
-        type: text
-        text: .
+        text: 'Tickets are available to purchase on the day.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -183,7 +158,8 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730815429
+updated_at: 1730815736
 duplicated_from: acd92a32-408d-4d09-80c2-30adf3e22768
+cost_details: '£6 adults, £4 children, under 5s go free'
 ---
-Free, creative play sessions, designed to educate and entertain!
+Join us for a festive day of Christmas fun!
