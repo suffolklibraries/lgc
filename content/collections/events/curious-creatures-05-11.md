@@ -113,5 +113,6 @@ duplicated_from: a98da4dd-2084-4a52-904c-0264f3e4f2df
 attendance_information: 'Home educating families'
 cost_details: '£5 plus booking fee'
 booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-1'
+published: false
 ---
 An educational talk and animal handling session.
