@@ -1,8 +1,7 @@
 ---
 id: cf26b3b4-477a-41e7-987b-2a061102b57d
-published: false
 blueprint: events
-title: 'National Saturday Club (Duplicated)'
+title: 'National Saturday Club'
 event_categories:
   - teen
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - gainsboroughs-house
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-03-22 10:00'
-end_date: '2025-03-22 12:00'
+start_date: '2025-03-29 10:00'
+end_date: '2025-03-29 12:00'
 free: true
 virtual: false
 attendance_information: 'suitable for 13 - 16 year olds'
@@ -174,7 +173,7 @@ cta: |-
 
   [01787 372958](tel:01787372958)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730822712
+updated_at: 1730822740
 duplicated_from: 7b0f63fa-8c63-4f95-86f9-189801c7a7f0
 ---
 Free art classes to 13–16 year olds who live, work or study in Sudbury and the surrounding areas.
