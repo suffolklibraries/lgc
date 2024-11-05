@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: activlives/activsheds.png
-start_date: '2024-11-08 09:30'
-end_date: '2024-11-08 15:30'
+start_date: '2024-11-08 10:00'
+end_date: '2024-11-08 15:00'
 free: true
 virtual: false
 latitude: '52.03960215792138'
@@ -139,7 +139,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730804231
+updated_at: 1730804308
 duplicated_from: 7a64bc37-45c1-4384-ac36-60de15b4481b
 attendance_information: 'session for men'
 ---
