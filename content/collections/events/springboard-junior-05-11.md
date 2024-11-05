@@ -319,5 +319,6 @@ end_date: '2024-11-05 17:30'
 attendance_information: '- Children aged 4 to 11 years with additional needs'
 duplicated_from: cb050fdd-b64b-4971-8d11-2e0568b7ecbc
 cost_details: '£5 per workshop or pay as you can'
+published: false
 ---
 Springboard Juniors is a fun, friendly and inclusive class for children and young people with additional needs, where they can move and explore their creativity in a safe and welcoming space.
