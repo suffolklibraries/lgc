@@ -1,8 +1,7 @@
 ---
 id: 8d8a7471-ec50-4dc2-b559-025e202d8512
-published: false
 blueprint: events
-title: 'ActivGardens - Beginner Beekeeping (Duplicated)'
+title: 'ActivGardens - Beginner Beekeeping'
 event_categories:
   - nature
   - community
@@ -11,7 +10,7 @@ organisers:
   - activlives
 featured_image: activlives/beekeeping.png
 start_date: '2025-02-17 11:00'
-end_date: '2025-02-17 13:00'
+end_date: '2025-02-24 13:00'
 free: false
 cost_details: 'from £5 per person'
 virtual: false
@@ -134,7 +133,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730802085
+updated_at: 1730802108
 duplicated_from: df653994-e599-4ea5-a1fa-fc8fd2d925d2
 ---
 For people who would like to find out what beekeeping is all about!
