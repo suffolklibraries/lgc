@@ -140,7 +140,7 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: " Saturday Art Club via Gainsborough's House website"
+        text: " Saturday Club via Gainsborough's House website"
       -
         type: text
         text: .
@@ -173,6 +173,6 @@ cta: |-
 
   [01787 372958](tel:01787372958)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730822407
+updated_at: 1730822427
 ---
 Free art classes to 13–16 year olds who live, work or study in Sudbury and the surrounding areas.
