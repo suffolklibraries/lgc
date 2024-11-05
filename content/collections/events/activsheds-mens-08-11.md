@@ -1,8 +1,7 @@
 ---
 id: 04d8e032-a9e3-4be0-b9c8-0806425a9cff
-published: false
 blueprint: events
-title: 'ActivSheds - mixed group (Duplicated)'
+title: "ActivSheds - men's group"
 event_categories:
   - nature
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: activlives/activsheds.png
-start_date: '2024-11-07 09:30'
-end_date: '2024-11-07 15:30'
+start_date: '2024-11-08 09:30'
+end_date: '2024-11-08 15:30'
 free: true
 virtual: false
 latitude: '52.03960215792138'
@@ -82,14 +81,6 @@ content_area:
     content:
       -
         type: text
-        text: 'This session welcomes people with illness, mental health issues or learning and/ or physical disabilities.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: 'For further information about joining this project, please contact Susannah on '
       -
         type: text
@@ -148,14 +139,8 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730803111
+updated_at: 1730804231
 duplicated_from: 7a64bc37-45c1-4384-ac36-60de15b4481b
-attendance_information: |-
-  people with illness
-  people with mental health issues
-  people with learning disabilities
-  people with physical disabilities
-accessibility_information:
-  - 'Autism friendly'
+attendance_information: 'session for men'
 ---
 A practical project for people who would like to share knowledge, learn new skills, and pursue hobbies and interests!
