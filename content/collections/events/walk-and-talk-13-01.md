@@ -1,15 +1,14 @@
 ---
 id: b7f96d5a-0542-428b-9a64-18f2484bae33
-published: false
 blueprint: events
-title: 'Walk and Talk (Duplicated)'
+title: 'Walk and Talk'
 event_categories:
   - later-years
   - wellbeing
   - community
 featured_image: pelicanpelican-3x2/wellbeing-1730796993.png
-start_date: '2024-12-09 10:00'
-end_date: '2024-12-09 10:45'
+start_date: '2025-01-13 10:00'
+end_date: '2025-01-13 10:45'
 free: true
 virtual: false
 latitude: '52.19543015422993'
@@ -184,7 +183,7 @@ cta: |-
 
   [014496 74980](tel:01449674980)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730798536
+updated_at: 1730798564
 duplicated_from: c7972c65-5823-408d-900e-11a7202c1370
 ---
 Get outdoor, meet new people, and do gentle exercise!
