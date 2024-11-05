@@ -1,8 +1,7 @@
 ---
 id: c33c35b0-ce35-46ec-bd9a-1986b9b24140
-published: false
 blueprint: events
-title: "ActivSheds - men's group (Duplicated) (Duplicated) (Duplicated)"
+title: "ActivSheds - men's group"
 event_categories:
   - nature
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: activlives/activsheds.png
-start_date: '2025-01-24 10:00'
-end_date: '2025-01-24 15:00'
+start_date: '2025-02-14 10:00'
+end_date: '2025-02-14 15:00'
 free: true
 virtual: false
 latitude: '52.03960215792138'
@@ -140,7 +139,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730804966
+updated_at: 1730805036
 duplicated_from: d7ce3255-329d-44e7-915f-0c3addf53915
 attendance_information: 'session for men'
 ---
