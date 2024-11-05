@@ -1,7 +1,7 @@
 ---
 id: 1d67c328-7028-4516-83fc-9ac6e1afec92
 blueprint: events
-title: 'Embody Your Beat ('
+title: 'Embody Your Beat'
 event_categories:
   - community
   - music
@@ -232,7 +232,7 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730817294
+updated_at: 1730817321
 duplicated_from: ee134745-731e-484b-8f59-ad9da0dc0e47
 ---
 If you don’t do your dance, who will?
