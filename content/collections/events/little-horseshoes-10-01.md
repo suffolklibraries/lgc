@@ -1,8 +1,7 @@
 ---
 id: 49319ae0-751f-4954-902c-b52c60fa7022
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Little Horseshoes’ Pre-School Creative Play Sessions'
 event_categories:
   - museums
   - early-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2024-12-13 11:00'
-end_date: '2024-12-13 12:00'
+start_date: '2025-01-10 11:00'
+end_date: '2025-01-10 12:00'
 free: true
 virtual: false
 attendance_information: 'suitable for pre-school children'
@@ -183,7 +182,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730815304
+updated_at: 1730815334
 duplicated_from: e88820ea-40d5-4565-802e-95ece0509664
 ---
 Free, creative play sessions, designed to educate and entertain!
