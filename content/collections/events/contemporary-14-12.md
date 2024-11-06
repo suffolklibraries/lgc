@@ -1,15 +1,14 @@
 ---
 id: c852bee8-37ac-4a1e-b302-865dd26f19dc
-published: false
 blueprint: events
-title: 'Clockwork Dance - Contemporary Technique (Duplicated)'
+title: 'Clockwork Dance - Contemporary Technique'
 event_categories:
   - dance
 organisers:
   - clockwork-dance-company
 featured_image: pelicanpelican-3x2/dance_ballet-(1).png
-start_date: '2024-12-07 09:10'
-end_date: '2024-12-07 10:10'
+start_date: '2024-12-14 09:10'
+end_date: '2024-12-14 10:10'
 free: false
 virtual: false
 accessibility_information:
@@ -124,7 +123,7 @@ cta: |-
 
   [larnepatrick3@gmail.com](mailto:larnepatrick3@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730889456
+updated_at: 1730889479
 duplicated_from: ab91fc6b-a352-4ef6-94d1-8e84257f7874
 cost_details: £4
 ---
