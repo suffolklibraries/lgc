@@ -1,21 +1,21 @@
 ---
 id: 8e04e168-83a7-46cd-8c70-41c84a0fd145
-published: false
 blueprint: events
-title: 'Bloom Festival - Directing Masterclass for Adults (Duplicated)'
+title: 'Bloom Festival - Morning Storytime'
 event_categories:
   - theatre-and-performance
-  - teen
-  - later-years
+  - literature
+  - early-years
+  - family-friendly
 organisers:
   - theatre-royal
-featured_image: theatre-royal/directing-masterclass-bloom.png
-start_date: '2025-04-14 19:00'
-end_date: '2025-04-14 21:00'
+featured_image: theatre-royal/storytime-bloom.png
+start_date: '2025-04-15 10:00'
+end_date: '2025-04-15 12:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'suitable for ages 18+'
+attendance_information: 'suitable for 2 - 6 years'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -123,17 +123,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our Artistic Director and CEO, Owen Calvert-Lyons, as he gives an insight into his process and techniques when directing Theatre Royal, Bury St Edmunds productions.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Throughout this workshop, Owen will take you through the different processes he uses when approaching a new production, exploring how he goes from the initial script to the final performance. '
+        text: 'Allow your toddler to explore the world around them through the power of stories. Here at the Theatre Royal, Bury St Edmunds join us to delve into new worlds as we explore the beauty of storytelling.'
   -
     type: paragraph
     attrs:
@@ -141,7 +131,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This workshop will also give the opportunity for participants to ask questions on how they can get into directing and learn from Owen about how they can also become directors.'
+        text: 'During this time, our Greene Room Bar will also be open for parents and caregivers to enjoy a tea/coffee whilst their young people enjoy the stories being told, sessions will also include a small craft activity.'
   -
     type: paragraph
     attrs:
@@ -156,7 +146,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/directing-masterclass-for-adults/'
+              href: 'https://theatreroyal.org/events/morning-storytime/'
               rel: null
               target: _blank
               title: null
@@ -164,7 +154,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/directing-masterclass-for-adults/'
+booking_link: 'https://theatreroyal.org/events/morning-storytime/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -174,7 +164,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730903468
+updated_at: 1730903643
 duplicated_from: 2be7428f-46d8-440b-bdda-e466f052eb42
 accessibility_information:
   - 'Wheelchair accessible'
