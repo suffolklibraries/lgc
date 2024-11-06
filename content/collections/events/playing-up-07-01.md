@@ -1,21 +1,20 @@
 ---
 id: b1a514e5-c59f-4e41-84ab-5a7730d49cf3
-published: false
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated)'
+title: 'Playing Up - Drama Classes'
 event_categories:
   - wellbeing
-  - music
+  - theatre-and-performance
+  - community
 organisers:
   - the-seagull-theatre
-featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-02-06 12:30'
-end_date: '2025-02-06 14:30'
+featured_image: pelicanpelican-3x2/theatre.png
+start_date: '2025-01-08 13:30'
+end_date: '2025-01-08 15:30'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Dementia friendly'
   - 'Accessible toilets'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
@@ -83,7 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We have a fun sing-a-long every Thursday between 12.30pm and 2.00pm.'
+        text: 'A free acting class for adult carers every other Wednesday at the Seagull Theatre.'
   -
     type: paragraph
     attrs:
@@ -91,7 +90,7 @@ content_area:
     content:
       -
         type: text
-        text: 'It’s a free, fun activity for people living with dementia and their families, with free tea and biscuits. '
+        text: 'All welcome, no experience required.'
   -
     type: paragraph
     attrs:
@@ -99,29 +98,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No musical experience or talent required, just come along and join in! '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:community@theseagull.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: 'community@theseagull.co.uk '
-      -
-        type: text
-        text: 'for more information and to book.'
+        text: 'No need to book, just come along.'
   -
     type: paragraph
     attrs:
@@ -135,8 +112,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730112625
+updated_at: 1730910864
 duplicated_from: 784dc695-65a3-469e-9358-0983db9970c1
-attendance_information: 'People living with dementia and their families'
+attendance_information: 'adult carers'
 ---
-A fun weekly group for people and families living with dementia.
+Free acting classes for adult carers.
