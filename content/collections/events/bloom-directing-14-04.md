@@ -1,21 +1,20 @@
 ---
 id: 2be7428f-46d8-440b-bdda-e466f052eb42
-published: false
 blueprint: events
-title: 'Bloom Festival - Improv Masterclass for Young People (Duplicated)'
+title: 'Bloom Festival - Directing Masterclass for Adults'
 event_categories:
   - theatre-and-performance
   - teen
   - later-years
 organisers:
   - theatre-royal
-featured_image: theatre-royal/yp-improv--bloom.png
-start_date: '2025-04-14 13:00'
-end_date: '2025-04-14 15:00'
+featured_image: theatre-royal/directing-masterclass-bloom.png
+start_date: '2025-04-14 19:00'
+end_date: '2025-04-14 21:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'suitable for ages 10 - 17'
+attendance_information: 'suitable for ages 18+'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -123,7 +122,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Want to dive into the world of improvisation? '
+        text: 'Join our Artistic Director and CEO, Owen Calvert-Lyons, as he gives an insight into his process and techniques when directing Theatre Royal, Bury St Edmunds productions.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Throughout this workshop, Owen will take you through the different processes he uses when approaching a new production, exploring how he goes from the initial script to the final performance. '
   -
     type: paragraph
     attrs:
@@ -131,7 +140,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This workshop for 10-17 year olds will explore the wonderful world of improvisation through practical activities, helping participants to trust their instincts and build on their skills as physical-led performers.'
+        text: 'This workshop will also give the opportunity for participants to ask questions on how they can get into directing and learn from Owen about how they can also become directors.'
   -
     type: paragraph
     attrs:
@@ -146,7 +155,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/improv-masterclass-for-young-people/'
+              href: 'https://theatreroyal.org/events/directing-masterclass-for-adults/'
               rel: null
               target: _blank
               title: null
@@ -154,7 +163,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/improv-masterclass-for-young-people/'
+booking_link: 'https://theatreroyal.org/events/directing-masterclass-for-adults/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -164,7 +173,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730903283
+updated_at: 1730903468
 duplicated_from: 949fa890-d895-420b-bbce-6a2ba7966f99
 accessibility_information:
   - 'Wheelchair accessible'
