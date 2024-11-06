@@ -1,22 +1,20 @@
 ---
 id: 27c3e53b-fc3e-4b7f-b667-6104fa3a09dc
-published: false
 blueprint: events
 title: 'Bloom Festival - Arts and Crafts (Duplicated)'
 event_categories:
   - theatre-and-performance
-  - family-friendly
   - teen
-  - art
+  - later-years
 organisers:
   - theatre-royal
-featured_image: theatre-royal/arts-bloom-festival.png
-start_date: '2025-04-10 10:00'
-end_date: '2025-04-10 11:00'
+featured_image: theatre-royal/improv-adults-bloom-(1).png
+start_date: '2025-04-10 13:00'
+end_date: '2025-04-10 15:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'family friendly'
+attendance_information: 'suitable for ages 18+'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -124,7 +122,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Let your creativity bloom with our Arts and Crafts session, suitable for ages 5+. Explore a range of crafting activities in a relaxed environment, and create a piece of art to take home.'
+        text: 'Want to dive into the world of improvisation? '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This workshop will explore the wonderful world of improvisation through practical activities, helping participants to trust their instincts and build on their skills as physical-led performers.'
   -
     type: paragraph
     attrs:
@@ -139,7 +145,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/arts-crafts/'
+              href: 'https://theatreroyal.org/events/improv-masterclass-for-adults/'
               rel: null
               target: _blank
               title: null
@@ -147,7 +153,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/arts-crafts/'
+booking_link: 'https://theatreroyal.org/events/improv-masterclass-for-adults/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -157,7 +163,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902660
+updated_at: 1730902871
 duplicated_from: 3ca0956f-84f0-41bd-9836-b681b1712f09
 accessibility_information:
   - 'Wheelchair accessible'
