@@ -263,5 +263,6 @@ end_date: '2024-11-06 11:45'
 attendance_information: '- All welcome'
 duplicated_from: ebf45fa5-7aa1-469b-a557-0c23f577ebf1
 cost_details: 'Donations welcome'
+published: false
 ---
 Run in association with Inside Out, Moving Minds is open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.
