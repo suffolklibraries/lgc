@@ -1,17 +1,16 @@
 ---
 id: 7765f95c-d55c-479f-8f72-68ca253ac10e
-published: false
 blueprint: events
-title: 'Bloom Festival - Playwrighting Masterclass for Young People (Duplicated)'
+title: 'Bloom Festival - Family Choir Workshop'
 organisers:
   - theatre-royal
-featured_image: theatre-royal/playwrighting-bloom.png
-start_date: '2025-04-16 13:00'
-end_date: '2025-04-16 15:00'
+featured_image: theatre-royal/family-choir-bloom.png
+start_date: '2025-04-17 10:00'
+end_date: '2025-04-17 12:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'suitable for 10 - 17'
+attendance_information: 'family friendly'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -119,31 +118,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Do you love theatre and want to try something new? Keen to write your first play, but aren’t sure where to start? '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'If you’re aged 10-17, this 2-hour workshop with playwright '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.eilishmullane.co.uk/'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'Eilish Mullane'
-      -
-        type: text
-        text: ' will give you the tools you need to get you creating characters, building a plot and bringing your story to life, resulting in a short play of your own – no previous experience necessary, but a love of writing is encouraged!'
+        text: 'Join us in a singing workshop here at Theatre Royal, Bury St Edmunds, taking you through singing exercises to get the most out your voice whilst helping you to perform songs you know and love.'
   -
     type: paragraph
     attrs:
@@ -158,15 +133,12 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/playwriting-masterclass-for-young-people/'
+              href: 'https://theatreroyal.org/events/family-singing-workshop/'
               rel: null
               target: _blank
               title: null
-        text: 'Theatre Royal website'
-      -
-        type: text
-        text: .
-booking_link: 'https://theatreroyal.org/events/playwriting-masterclass-for-young-people/'
+        text: 'Theatre Royal website.'
+booking_link: 'https://theatreroyal.org/events/family-singing-workshop/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -176,7 +148,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730904019
+updated_at: 1730904163
 duplicated_from: 10db6b70-1904-4bef-b638-e32b854b9fd2
 accessibility_information:
   - 'Wheelchair accessible'
