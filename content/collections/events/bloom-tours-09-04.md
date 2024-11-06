@@ -10,12 +10,12 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/family-tour.jpg
-start_date: '2025-04-09 13:00'
-end_date: '2025-04-09 13:45'
+start_date: '2025-04-09 10:30'
+end_date: '2025-04-09 11:30'
 free: false
 cost_details: 'From £5'
 virtual: false
-attendance_information: 'family friendly'
+attendance_information: 'suitable for ages 5+'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -172,7 +172,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730901961
+updated_at: 1730902061
 duplicated_from: be74a693-378a-49c1-8c66-aea3f312307b
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
