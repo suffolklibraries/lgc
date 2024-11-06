@@ -1,7 +1,7 @@
 ---
 id: f7c7f3d9-a559-4df5-bcdd-91a45e2c7a30
 blueprint: events
-title: 'Bloom Festival - Playwriting Masterclass for Adults'
+title: 'Bloom Festival - Playwrighting Masterclass for Adults'
 organisers:
   - theatre-royal
 featured_image: theatre-royal/playwrighting-bloom.png
@@ -172,7 +172,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730903874
+updated_at: 1730903901
 duplicated_from: 8e04e168-83a7-46cd-8c70-41c84a0fd145
 accessibility_information:
   - 'Wheelchair accessible'
