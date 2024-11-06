@@ -127,5 +127,6 @@ cta: |-
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730296341
+published: false
 ---
 Join us on Wednesdays at our Dove Street studio for a drop-in creative working session.
