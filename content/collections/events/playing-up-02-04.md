@@ -1,8 +1,7 @@
 ---
 id: aec5ec83-5b1b-4581-a32f-2f580b8c7d45
-published: false
 blueprint: events
-title: 'Playing Up - Drama Classes (Duplicated)'
+title: 'Playing Up - Drama Classes'
 event_categories:
   - wellbeing
   - theatre-and-performance
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-03-19 13:30'
-end_date: '2025-03-19 15:30'
+start_date: '2025-04-02 13:30'
+end_date: '2025-04-02 15:30'
 free: true
 virtual: false
 accessibility_information:
@@ -113,7 +112,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730910956
+updated_at: 1730910977
 duplicated_from: 2e70a2e1-f737-47bd-bf8e-3568c308c02f
 attendance_information: 'adult carers'
 ---
