@@ -1,17 +1,16 @@
 ---
 id: 10db6b70-1904-4bef-b638-e32b854b9fd2
-published: false
 blueprint: events
-title: 'Bloom Festival - Playwriting Masterclass for Adults (Duplicated)'
+title: 'Bloom Festival - Playwrighting Masterclass for Young People'
 organisers:
   - theatre-royal
 featured_image: theatre-royal/playwrighting-bloom.png
-start_date: '2025-04-15 19:00'
-end_date: '2025-04-15 21:00'
+start_date: '2025-04-16 13:00'
+end_date: '2025-04-16 15:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'suitable for 18+'
+attendance_information: 'suitable for 10 - 17'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -119,12 +118,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Want to take your first steps towards writing a play but aren’t sure where to start? Feel like trying a new skill? Maybe you’ve written before but want to learn a new approach to storytelling?'
-      -
-        type: hardBreak
+        text: 'Do you love theatre and want to try something new? Keen to write your first play, but aren’t sure where to start? '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: 'This two-hour workshop with playwright '
+        text: 'If you’re aged 10-17, this 2-hour workshop with playwright '
       -
         type: text
         marks:
@@ -140,7 +142,7 @@ content_area:
         text: 'Eilish Mullane'
       -
         type: text
-        text: ' will support you in generating ideas from a theme, creating characters and how to building a plot. No previous experience necessary!'
+        text: ' will give you the tools you need to get you creating characters, building a plot and bringing your story to life, resulting in a short play of your own – no previous experience necessary, but a love of writing is encouraged!'
   -
     type: paragraph
     attrs:
@@ -155,7 +157,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/playwriting-masterclass-for-adults/'
+              href: 'https://theatreroyal.org/events/playwriting-masterclass-for-young-people/'
               rel: null
               target: _blank
               title: null
@@ -163,7 +165,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/playwriting-masterclass-for-adults/'
+booking_link: 'https://theatreroyal.org/events/playwriting-masterclass-for-young-people/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -173,11 +175,15 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730903874
+updated_at: 1730904019
 duplicated_from: f7c7f3d9-a559-4df5-bcdd-91a45e2c7a30
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
+event_categories:
+  - literature
+  - theatre-and-performance
+  - teen
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
