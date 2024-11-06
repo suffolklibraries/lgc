@@ -1,22 +1,20 @@
 ---
 id: f10b35cc-b9a1-4612-90eb-c2e0993c4192
-published: false
 blueprint: events
-title: 'Bloom Festival - Family Theatre Tour (Duplicated)'
+title: 'Bloom Festival - Ginger Jones And The Sultan’s Eye & Wellington 24'
 event_categories:
   - theatre-and-performance
   - family-friendly
   - teen
-  - art
 organisers:
   - theatre-royal
-featured_image: theatre-royal/family-tour.jpg
-start_date: '2025-04-09 10:30'
-end_date: '2025-04-09 11:30'
+featured_image: theatre-royal/ginger-jones-bloom-festival.png
+start_date: '2025-04-08 18:00'
+end_date: '2025-04-08 20:00'
 free: false
 cost_details: 'From £5'
 virtual: false
-attendance_information: 'suitable for ages 5+'
+attendance_information: 'family friendly'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -118,29 +116,54 @@ directions:
         text: 'Suffolk Onboard.'
 content_area:
   -
-    type: paragraph
+    type: heading
     attrs:
-      textAlign: left
+      textAlign: start
+      level: 4
     content:
       -
         type: text
-        text: 'Led by our enthusiastic team of Tour Guides, travel around our vibrant 200-year-old theatre! Explore all aspects of the theatre from Front of House to the Behind the Scenes learning all about the last remaining working regency playhouse in the country. '
+        text: 'A double-bill – two plays performed by our fantastic Youth Theatre.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Join our tour guide as they tell you all about the historic building and the stories that they have to tell about those who have treaded our famous boards!'
+        text: 'Ginger Jones and The Sultan’s Eye – performed by our 8-11s, by Nick Lane.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Unfortunately, we are unable to provide accessible friendly tours due to the design of the theatre.'
+        text: 'A rip-roaring children’s adventure. It’s Indiana Jones meets Alice in Wonderland. . . with added silliness. Ginger Jones is a girl with a vivid imagination. Her stories are as wild as the hair on her head. So when her school enters a storytelling competition, there is no doubt as to whom they should turn for inspiration. . . except that Ginger Jones has lost her imagination! Join her best friend Stan West as he describes the extreme tale of their adventures during the summer holidays. Featuring talking camels, sultans and a possible ruby or two.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Wellington 24 – performed by our 12-16s, by Rachel Harper in association with Nick Hern Books'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'An upbeat and empowering wartime tale about teamwork, collaboration and beating the odds.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '​It’s 1943, World War II rages on, and the men are gone. It’s left to the ‘women in the workmen’s boots’ to pick up the pieces in the factory. They’re being relied upon to build the planes that could win the war, and they take the responsibility seriously. On this particular day, they’re attempting to build a Wellington bomber in record-breaking time: under twenty-four hours. As temperatures rise and prejudices bubble up, will they be able to pull together in time?'
   -
     type: paragraph
     attrs:
@@ -155,7 +178,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/family-theatre-tour/'
+              href: 'https://theatreroyal.org/events/ginger-jones-and-the-sultans-eye-wellington-24/'
               rel: null
               target: _blank
               title: null
@@ -163,7 +186,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/family-theatre-tour/'
+booking_link: 'https://theatreroyal.org/events/ginger-jones-and-the-sultans-eye-wellington-24/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -173,7 +196,11 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902061
+updated_at: 1730902343
 duplicated_from: cb34c76c-5323-4d8e-b813-e5f686e1f549
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Hearing loop available'
+  - 'Accessible toilets'
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
