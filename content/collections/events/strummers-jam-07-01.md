@@ -1,7 +1,7 @@
 ---
 id: bf9df430-4c19-4cfb-bc2b-a007a8c51b2f
 blueprint: events
-title: 'The Seagull Strummers - Ukelele Jam Session'
+title: 'The Seagull Strummers - Ukulele Jam Session'
 event_categories:
   - wellbeing
   - community
@@ -123,7 +123,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730909679
+updated_at: 1730909882
 duplicated_from: d29edf8d-ec4a-4499-b0f1-4a6f76d5b671
 attendance_information: 'suitable for ages 7+'
 ---
