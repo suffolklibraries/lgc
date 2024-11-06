@@ -8,7 +8,7 @@ event_categories:
   - later-years
 organisers:
   - theatre-royal
-featured_image: theatre-royal/improv-adults-bloom-(1).png
+featured_image: theatre-royal/yp-improv--bloom.png
 start_date: '2025-04-14 13:00'
 end_date: '2025-04-14 15:00'
 free: true
@@ -163,7 +163,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730903207
+updated_at: 1730903283
 duplicated_from: 27c3e53b-fc3e-4b7f-b667-6104fa3a09dc
 accessibility_information:
   - 'Wheelchair accessible'
