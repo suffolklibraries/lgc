@@ -1,17 +1,16 @@
 ---
 id: 3c753030-adf8-488b-913a-3820e22ca689
-published: false
 blueprint: events
-title: 'Bloom Festival - Improv Class (Duplicated)'
+title: 'Bloom Festival - Stage & Film Makeup Masterclass'
 event_categories:
   - theatre-and-performance
   - teen
-  - later-years
+  - art
 organisers:
   - theatre-royal
-featured_image: theatre-royal/improv-adults-bloom-(1).png
-start_date: '2025-04-10 13:00'
-end_date: '2025-04-10 15:00'
+featured_image: theatre-royal/make-up-bloom.png
+start_date: '2025-04-11 10:00'
+end_date: '2025-04-11 12:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
@@ -123,15 +122,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Want to dive into the world of improvisation? '
+        text: 'Ever wanted to be a zombie? How about an action hero? Just like getting messy? Learn how to create your own cuts, bruises and gory special effects makeup looks in this workshop.'
   -
     type: paragraph
     attrs:
       textAlign: left
     content:
       -
+        type: hardBreak
+      -
         type: text
-        text: 'This workshop will explore the wonderful world of improvisation through practical activities, helping participants to trust their instincts and build on their skills as physical-led performers.'
+        text: 'Please Note: Products used on skin may contain ingredients that some participants could be sensitive to. Latex will be used and so will makeup wipes / makeup remover. Please advise if your child has any latex or skin allergies or sensitivities.'
   -
     type: paragraph
     attrs:
@@ -146,7 +147,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/improv-masterclass-for-adults/'
+              href: 'https://theatreroyal.org/events/stage-film-makeup-masterclass/'
               rel: null
               target: _blank
               title: null
@@ -154,7 +155,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/improv-masterclass-for-adults/'
+booking_link: 'https://theatreroyal.org/events/stage-film-makeup-masterclass/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -164,7 +165,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902941
+updated_at: 1730903078
 duplicated_from: 27c3e53b-fc3e-4b7f-b667-6104fa3a09dc
 accessibility_information:
   - 'Wheelchair accessible'
