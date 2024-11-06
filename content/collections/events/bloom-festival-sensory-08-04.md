@@ -1,8 +1,7 @@
 ---
 id: be74a693-378a-49c1-8c66-aea3f312307b
-published: false
 blueprint: events
-title: 'Bloom Festival - SENsory Creative Play (Duplicated)'
+title: 'Bloom Festival - SENsory Creative Play'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -11,12 +10,12 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-sensory.png
-start_date: '2025-04-08 14:00'
-end_date: '2025-04-08 14:45'
+start_date: '2025-04-08 13:00'
+end_date: '2025-04-08 13:45'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'suitable for ages 13 - 18'
+attendance_information: 'suitable for ages 6 - 12'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -147,7 +146,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/sensory-creative-play-13-18/'
+              href: 'https://theatreroyal.org/events/sensory-creative-play-6-12/'
               rel: null
               target: _blank
               title: null
@@ -155,7 +154,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/sensory-creative-play-13-18/'
+booking_link: 'https://theatreroyal.org/events/sensory-creative-play-6-12/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -165,7 +164,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730901639
+updated_at: 1730901732
 duplicated_from: 99843bde-df79-4fd3-bcee-68d6d5f61606
 accessibility_information:
   - 'Wheelchair accessible'
