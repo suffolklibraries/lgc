@@ -1,17 +1,16 @@
 ---
 id: fa98444d-f386-4e95-a4e7-0e69c26cd2c9
-published: false
 blueprint: events
-title: 'Bloom Festival - Family Choir Workshop (Duplicated)'
+title: 'Bloom Festival - Songwriting Masterclass'
 organisers:
   - theatre-royal
-featured_image: theatre-royal/family-choir-bloom.png
-start_date: '2025-04-17 10:00'
-end_date: '2025-04-17 12:00'
+featured_image: theatre-royal/songwriting-bloom.png
+start_date: '2025-04-17 13:00'
+end_date: '2025-04-17 15:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'family friendly'
+attendance_information: 'suitable for ages 18+'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -119,7 +118,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us in a singing workshop here at Theatre Royal, Bury St Edmunds, taking you through singing exercises to get the most out your voice whilst helping you to perform songs you know and love.'
+        text: 'Want to try out a new way of writing? Love creating music but haven’t added the words? '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Come along and learn how to develop your own song writing abilities in a supportive and encouraging space.'
   -
     type: paragraph
     attrs:
@@ -134,12 +141,23 @@ content_area:
           -
             type: link
             attrs:
+              href: 'https://theatreroyal.org/events/songwriting-masterclass/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Theatre Royal website'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
               href: 'https://theatreroyal.org/events/family-singing-workshop/'
               rel: null
               target: _blank
               title: null
-        text: 'Theatre Royal website.'
-booking_link: 'https://theatreroyal.org/events/family-singing-workshop/'
+        text: .
+booking_link: 'https://theatreroyal.org/events/songwriting-masterclass/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -149,15 +167,15 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730904163
+updated_at: 1730904315
 duplicated_from: 7765f95c-d55c-479f-8f72-68ca253ac10e
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
 event_categories:
-  - literature
   - theatre-and-performance
   - teen
+  - music
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
