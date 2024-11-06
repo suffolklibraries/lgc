@@ -1,8 +1,7 @@
 ---
 id: 1fff90e2-d39d-4b26-b2e0-f960b3e6ae76
-published: false
 blueprint: events
-title: 'The Seagull Strummers - Ukelele Jam Session (Duplicated)'
+title: 'The Seagull Strummers - Ukelele Jam Session'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-01-21 20:00'
-end_date: '2025-01-21 21:00'
+start_date: '2025-02-04 20:00'
+end_date: '2025-02-04 21:00'
 free: true
 virtual: false
 accessibility_information:
@@ -124,7 +123,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730909703
+updated_at: 1730909726
 duplicated_from: cf8e5ad9-b4cf-44dd-928c-92c76435fb7c
 attendance_information: 'suitable for ages 7+'
 ---
