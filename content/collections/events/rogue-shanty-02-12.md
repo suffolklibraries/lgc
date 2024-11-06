@@ -1,8 +1,7 @@
 ---
 id: 1b8072b2-58e4-46fe-8932-d11a36b77319
-published: false
 blueprint: events
-title: 'The Rogue Shanty Chorus (Duplicated)'
+title: 'The Rogue Shanty Chorus'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-11-18 19:30'
-end_date: '2024-11-18 21:00'
+start_date: '2024-12-02 19:30'
+end_date: '2024-12-02 21:00'
 free: true
 virtual: false
 accessibility_information:
@@ -143,7 +142,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730910171
+updated_at: 1730910203
 duplicated_from: ee792e04-5ea4-431a-86df-389c24294456
 ---
 A free community choir!
