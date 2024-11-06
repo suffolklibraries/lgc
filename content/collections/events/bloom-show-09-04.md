@@ -1,8 +1,7 @@
 ---
 id: f3c27c47-f961-41c9-82ca-699a749a49b0
-published: false
 blueprint: events
-title: 'Bloom Festival - Ginger Jones And The Sultan’s Eye & Wellington 24 (Duplicated) (Duplicated) (Duplicated)'
+title: 'Bloom Festival - Ginger Jones And The Sultan’s Eye & Wellington 24'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/ginger-jones-bloom-festival.png
-start_date: '2025-04-08 18:00'
-end_date: '2025-04-08 20:00'
+start_date: '2025-04-09 18:00'
+end_date: '2025-04-09 20:00'
 free: false
 cost_details: 'From £5'
 virtual: false
@@ -197,7 +196,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902343
+updated_at: 1730902393
 duplicated_from: 8dcceb2e-3f64-440f-b140-e985774e742d
 accessibility_information:
   - 'Wheelchair accessible'
