@@ -104,7 +104,7 @@ directions:
     content:
       -
         type: text
-        text: 'Halesworth Railway Station is a three minute walk away and can find train times on the '
+        text: 'Halesworth Railway Station is a three minute walk away and you can find train times on the '
       -
         type: text
         marks:
@@ -232,7 +232,7 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730817146
+updated_at: 1730882628
 duplicated_from: 8ff15032-6789-4c0c-acf3-970123b471a8
 ---
 If you don’t do your dance, who will?
