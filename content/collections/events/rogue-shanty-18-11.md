@@ -1,8 +1,7 @@
 ---
 id: ee792e04-5ea4-431a-86df-389c24294456
-published: false
 blueprint: events
-title: 'The Seagull Strummers - Ukulele Jam Session (Duplicated)'
+title: 'The Rogue Shanty Chorus'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-04-01 20:00'
-end_date: '2025-04-01 21:00'
+start_date: '2024-11-18 19:30'
+end_date: '2024-11-18 21:00'
 free: true
 virtual: false
 accessibility_information:
@@ -84,7 +83,15 @@ content_area:
     content:
       -
         type: text
-        text: "Following the free Ukulele group at 7pm, you're invited to join this informal ukulele jam session led by our professional tutor. We can even provide a free instrument with which to practice!"
+        text: 'A free community choir - ideal for anyone with an interest in the local musical traditions of the fishing industry or just interested in singing. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Professionally led, the choir meets every other Tuesday evening.'
   -
     type: paragraph
     attrs:
@@ -111,7 +118,18 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: " Seagull Theatre's website"
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/rogue-shanty-chorus/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Seagull Theatre's website"
       -
         type: text
         text: .
@@ -124,8 +142,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730910008
+updated_at: 1730910171
 duplicated_from: 8b54f1cc-1661-49df-b2b4-a0f1dd4ac184
-attendance_information: 'suitable for ages 7+'
 ---
-Learn a musical skill with free ukulele workshops!
+A free community choir!
