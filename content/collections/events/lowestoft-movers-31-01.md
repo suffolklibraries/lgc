@@ -134,7 +134,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730888908
+updated_at: 1730889007
 duplicated_from: 95650f66-4931-40c1-8762-a408e12dccab
 cost_details: £4
 attendance_information: 'people aged 55+'
