@@ -1,8 +1,8 @@
 ---
-id: b88732b2-562d-4df5-83cc-2b170511dc85
+id: a8ace977-40f1-41e8-bd76-dedd3c0cb54d
 published: false
 blueprint: events
-title: 'Lowestoft Movers (Duplicated) (Duplicated)'
+title: 'Lowestoft Movers (Duplicated)'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +11,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/olderpeople.png
-start_date: '2025-02-21 10:00'
-end_date: '2025-02-21 11:15'
+start_date: '2025-03-07 10:00'
+end_date: '2025-03-07 11:15'
 free: false
 virtual: false
 accessibility_information:
@@ -135,8 +135,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730889066
-duplicated_from: df330004-cff0-4b25-8a66-f789c5d6dcb0
+updated_at: 1730889100
+duplicated_from: b88732b2-562d-4df5-83cc-2b170511dc85
 cost_details: £4
 attendance_information: 'people aged 55+'
 ---
