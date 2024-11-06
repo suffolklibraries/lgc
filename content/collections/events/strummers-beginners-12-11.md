@@ -1,23 +1,22 @@
 ---
 id: a45bda81-f5a8-437a-b2f7-127805acc2af
-published: false
 blueprint: events
-title: 'Knit and Natter (Duplicated)'
+title: 'The Seagull Strummers - Beginners Class'
 event_categories:
   - wellbeing
   - community
-  - later-years
+  - music
+  - teen
 organisers:
   - the-seagull-theatre
-featured_image: pelicanpelican-3x2/olderpeople.png
-start_date: '2025-03-27 10:00'
-end_date: '2025-03-27 12:00'
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2024-11-12 19:00'
+end_date: '2024-11-12 19:45'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 building_name: 'The Seagull Theatre'
@@ -84,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Every Thursday in our lovely foyer from 10am.'
+        text: 'A free Ukulele group suitable for beginners or the more experienced. Our professional tutor will support you to learn the Ukulele and we can even provide a free instrument with which to practice.'
   -
     type: paragraph
     attrs:
@@ -92,15 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along and make friends, bring your knitting and stay for a chat. The bar is open for teas/coffees. Pop in for 30 minutes or stay for two hours.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'This is a drop in event so no booking is required.'
+        text: 'No need to book, just come along.'
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -110,7 +101,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730887255
+updated_at: 1730908823
 duplicated_from: 955b6de8-2784-4cc3-8873-a684119cbd66
+attendance_information: 'suitable for ages 7+'
 ---
-A free and relaxing knit and natter.
+Learn a musical skill with free ukulele workshops!
