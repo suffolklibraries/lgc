@@ -1,7 +1,7 @@
 ---
 id: 27c3e53b-fc3e-4b7f-b667-6104fa3a09dc
 blueprint: events
-title: 'Bloom Festival - Improv Class'
+title: 'Bloom Festival - Improv Masterclass - 18+'
 event_categories:
   - theatre-and-performance
   - teen
@@ -163,7 +163,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902941
+updated_at: 1730903116
 duplicated_from: 3ca0956f-84f0-41bd-9836-b681b1712f09
 accessibility_information:
   - 'Wheelchair accessible'
