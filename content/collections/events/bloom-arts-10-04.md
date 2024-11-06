@@ -1,19 +1,19 @@
 ---
 id: 3ca0956f-84f0-41bd-9836-b681b1712f09
-published: false
 blueprint: events
-title: 'Bloom Festival - Ginger Jones And The Sultan’s Eye & Wellington 24 (Duplicated)'
+title: 'Bloom Festival - Arts and Crafts'
 event_categories:
   - theatre-and-performance
   - family-friendly
   - teen
+  - art
 organisers:
   - theatre-royal
-featured_image: theatre-royal/ginger-jones-bloom-festival.png
-start_date: '2025-04-09 18:00'
-end_date: '2025-04-09 20:00'
-free: false
-cost_details: 'From £5'
+featured_image: theatre-royal/arts-bloom-festival.png
+start_date: '2025-04-10 10:00'
+end_date: '2025-04-10 11:00'
+free: true
+cost_details: 'Pay as you can'
 virtual: false
 attendance_information: 'family friendly'
 latitude: '52.24082876567966'
@@ -117,54 +117,13 @@ directions:
         text: 'Suffolk Onboard.'
 content_area:
   -
-    type: heading
-    attrs:
-      textAlign: start
-      level: 4
-    content:
-      -
-        type: text
-        text: 'A double-bill – two plays performed by our fantastic Youth Theatre.'
-  -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Ginger Jones and The Sultan’s Eye – performed by our 8-11s, by Nick Lane.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'A rip-roaring children’s adventure. It’s Indiana Jones meets Alice in Wonderland. . . with added silliness. Ginger Jones is a girl with a vivid imagination. Her stories are as wild as the hair on her head. So when her school enters a storytelling competition, there is no doubt as to whom they should turn for inspiration. . . except that Ginger Jones has lost her imagination! Join her best friend Stan West as he describes the extreme tale of their adventures during the summer holidays. Featuring talking camels, sultans and a possible ruby or two.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Wellington 24 – performed by our 12-16s, by Rachel Harper in association with Nick Hern Books'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'An upbeat and empowering wartime tale about teamwork, collaboration and beating the odds.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: '​It’s 1943, World War II rages on, and the men are gone. It’s left to the ‘women in the workmen’s boots’ to pick up the pieces in the factory. They’re being relied upon to build the planes that could win the war, and they take the responsibility seriously. On this particular day, they’re attempting to build a Wellington bomber in record-breaking time: under twenty-four hours. As temperatures rise and prejudices bubble up, will they be able to pull together in time?'
+        text: 'Let your creativity bloom with our Arts and Crafts session, suitable for ages 5+. Explore a range of crafting activities in a relaxed environment, and create a piece of art to take home.'
   -
     type: paragraph
     attrs:
@@ -179,7 +138,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/ginger-jones-and-the-sultans-eye-wellington-24/'
+              href: 'https://theatreroyal.org/events/arts-crafts/'
               rel: null
               target: _blank
               title: null
@@ -187,7 +146,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/ginger-jones-and-the-sultans-eye-wellington-24/'
+booking_link: 'https://theatreroyal.org/events/arts-crafts/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -197,7 +156,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902393
+updated_at: 1730902660
 duplicated_from: f3c27c47-f961-41c9-82ca-699a749a49b0
 accessibility_information:
   - 'Wheelchair accessible'
