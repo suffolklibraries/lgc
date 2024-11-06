@@ -1,8 +1,7 @@
 ---
 id: 0130ba63-00d4-495f-abc5-a0b17679d2a9
-published: false
 blueprint: events
-title: 'The Seagull Strummers - Beginners Class (Duplicated)'
+title: 'The Seagull Strummers - Beginners Class'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-18 19:00'
-end_date: '2025-02-18 19:45'
+start_date: '2025-03-18 19:00'
+end_date: '2025-03-18 19:45'
 free: true
 virtual: false
 accessibility_information:
@@ -102,7 +101,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730908982
+updated_at: 1730909254
 duplicated_from: a31659ce-cd4b-4911-beec-98a4eef7ee6f
 attendance_information: 'suitable for ages 7+'
 ---
