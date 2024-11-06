@@ -1,8 +1,7 @@
 ---
 id: cb34c76c-5323-4d8e-b813-e5f686e1f549
-published: false
 blueprint: events
-title: 'Bloom Festival - SENsory Creative Play (Duplicated)'
+title: 'Bloom Festival - Family Theatre Tour'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -10,13 +9,13 @@ event_categories:
   - art
 organisers:
   - theatre-royal
-featured_image: theatre-royal/bloom-festival-sensory.png
-start_date: '2025-04-08 13:00'
-end_date: '2025-04-08 13:45'
-free: true
-cost_details: 'Pay as you can'
+featured_image: theatre-royal/family-tour.jpg
+start_date: '2025-04-09 13:00'
+end_date: '2025-04-09 13:45'
+free: false
+cost_details: 'From £5'
 virtual: false
-attendance_information: 'suitable for ages 6 - 12'
+attendance_information: 'family friendly'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -124,7 +123,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Dive into a world of imagination and play with our SEN (Special Educational Needs) Creative Play Workshop. This workshop is specially designed to celebrate diversity and cater to varying abilities and needs. '
+        text: 'Led by our enthusiastic team of Tour Guides, travel around our vibrant 200-year-old theatre! Explore all aspects of the theatre from Front of House to the Behind the Scenes learning all about the last remaining working regency playhouse in the country. '
   -
     type: paragraph
     attrs:
@@ -132,7 +131,15 @@ content_area:
     content:
       -
         type: text
-        text: 'We will immerse ourselves in the magic of creative play with hands-on activities. You will discover the power of expressive arts in enhancing communication and self-expression.'
+        text: 'Join our tour guide as they tell you all about the historic building and the stories that they have to tell about those who have treaded our famous boards!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Unfortunately, we are unable to provide accessible friendly tours due to the design of the theatre.'
   -
     type: paragraph
     attrs:
@@ -147,7 +154,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/sensory-creative-play-6-12/'
+              href: 'https://theatreroyal.org/events/family-theatre-tour/'
               rel: null
               target: _blank
               title: null
@@ -155,7 +162,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/sensory-creative-play-6-12/'
+booking_link: 'https://theatreroyal.org/events/family-theatre-tour/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -165,13 +172,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730901732
+updated_at: 1730901961
 duplicated_from: be74a693-378a-49c1-8c66-aea3f312307b
-accessibility_information:
-  - 'Wheelchair accessible'
-  - 'Autism friendly'
-  - 'BSL interpretation provided'
-  - 'Accessible toilets'
-  - 'Relaxed performance'
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
