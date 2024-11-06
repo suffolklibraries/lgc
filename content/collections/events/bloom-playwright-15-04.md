@@ -1,22 +1,16 @@
 ---
 id: f7c7f3d9-a559-4df5-bcdd-91a45e2c7a30
-published: false
 blueprint: events
-title: 'Bloom Festival - Morning Storytime (Duplicated)'
-event_categories:
-  - theatre-and-performance
-  - literature
-  - early-years
-  - family-friendly
+title: 'Bloom Festival - Playwriting Masterclass for Adults'
 organisers:
   - theatre-royal
-featured_image: theatre-royal/storytime-bloom.png
-start_date: '2025-04-15 10:00'
-end_date: '2025-04-15 12:00'
+featured_image: theatre-royal/playwrighting-bloom.png
+start_date: '2025-04-15 19:00'
+end_date: '2025-04-15 21:00'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'suitable for 2 - 6 years'
+attendance_information: 'suitable for 18+'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -124,15 +118,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Allow your toddler to explore the world around them through the power of stories. Here at the Theatre Royal, Bury St Edmunds join us to delve into new worlds as we explore the beauty of storytelling.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Want to take your first steps towards writing a play but aren’t sure where to start? Feel like trying a new skill? Maybe you’ve written before but want to learn a new approach to storytelling?'
+      -
+        type: hardBreak
       -
         type: text
-        text: 'During this time, our Greene Room Bar will also be open for parents and caregivers to enjoy a tea/coffee whilst their young people enjoy the stories being told, sessions will also include a small craft activity.'
+        text: 'This two-hour workshop with playwright '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.eilishmullane.co.uk/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: 'Eilish Mullane'
+      -
+        type: text
+        text: ' will support you in generating ideas from a theme, creating characters and how to building a plot. No previous experience necessary!'
   -
     type: paragraph
     attrs:
@@ -147,7 +154,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/morning-storytime/'
+              href: 'https://theatreroyal.org/events/playwriting-masterclass-for-adults/'
               rel: null
               target: _blank
               title: null
@@ -155,7 +162,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/morning-storytime/'
+booking_link: 'https://theatreroyal.org/events/playwriting-masterclass-for-adults/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -165,7 +172,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730903643
+updated_at: 1730903874
 duplicated_from: 8e04e168-83a7-46cd-8c70-41c84a0fd145
 accessibility_information:
   - 'Wheelchair accessible'
