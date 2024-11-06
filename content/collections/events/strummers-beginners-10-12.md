@@ -92,6 +92,28 @@ content_area:
       -
         type: text
         text: 'No need to book, just come along.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Find out more on the'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/the-seagull-strummers-ukulele-lessions/'
+              rel: null
+              target: _blank
+              title: null
+        text: " Seagull Theatre's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -101,7 +123,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730908876
+updated_at: 1730909455
 duplicated_from: bfafdd5e-c29d-461e-9b6b-79b1ed92e4f4
 attendance_information: 'suitable for ages 7+'
 ---
