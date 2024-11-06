@@ -1,8 +1,7 @@
 ---
 id: 71861ce6-04ff-48d6-965e-7126fc6e679f
-published: false
 blueprint: events
-title: 'The Seagull Strummers - Beginners Class (Duplicated)'
+title: 'The Seagull Strummers - Ukelele Jam Session'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-11-12 19:00'
-end_date: '2024-11-12 19:45'
+start_date: '2024-11-12 20:00'
+end_date: '2024-11-12 21:00'
 free: true
 virtual: false
 accessibility_information:
@@ -84,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A free Ukulele group suitable for beginners or the more experienced. Our professional tutor will support you to learn the Ukulele and we can even provide a free instrument with which to practice.'
+        text: "Following the free Ukulele group at 7pm, you're invited to join this informal ukulele jam session led by our professional tutor. We can even provide a free instrument with which to practice!"
   -
     type: paragraph
     attrs:
@@ -93,6 +92,28 @@ content_area:
       -
         type: text
         text: 'No need to book, just come along.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Find out more on the'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/the-seagull-strummers-ukulele-lessions/'
+              rel: null
+              target: _blank
+              title: null
+        text: " Seagull Theatre's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -102,7 +123,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730908823
+updated_at: 1730909409
 duplicated_from: a45bda81-f5a8-437a-b2f7-127805acc2af
 attendance_information: 'suitable for ages 7+'
 ---
