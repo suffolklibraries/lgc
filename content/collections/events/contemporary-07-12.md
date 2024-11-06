@@ -1,23 +1,18 @@
 ---
 id: ab91fc6b-a352-4ef6-94d1-8e84257f7874
-published: false
 blueprint: events
-title: 'Knit and Natter (Duplicated)'
+title: 'Clockwork Dance - Contemporary Technique'
 event_categories:
-  - wellbeing
-  - community
-  - later-years
+  - dance
 organisers:
-  - the-seagull-theatre
-featured_image: pelicanpelican-3x2/olderpeople.png
-start_date: '2025-03-27 10:00'
-end_date: '2025-03-27 12:00'
-free: true
+  - clockwork-dance-company
+featured_image: pelicanpelican-3x2/dance_ballet-(1).png
+start_date: '2024-12-07 09:10'
+end_date: '2024-12-07 10:10'
+free: false
 virtual: false
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 building_name: 'The Seagull Theatre'
@@ -84,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Every Thursday in our lovely foyer from 10am.'
+        text: 'Clockwork Dance Company is a contemporary dance and theatre training provider, operating from The Seagull Theatre, Lowestoft.'
   -
     type: paragraph
     attrs:
@@ -92,25 +87,44 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along and make friends, bring your knitting and stay for a chat. The bar is open for teas/coffees. Pop in for 30 minutes or stay for two hours.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: "For more detail message Larne Patrick at\_"
       -
         type: text
-        text: 'This is a drop in event so no booking is required.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:larnepatrick3@gmail.com'
+              rel: null
+              target: null
+              title: null
+        text: larnepatrick3@gmail.com
+      -
+        type: text
+        text: "\_or go to our "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.facebook.com/clockworkdc2017/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Facebook page'
+      -
+        type: text
+        text: .
 cta: |-
-  This event is organised by The Seagull Theatre
+  This event is organised by Clockwork Dance
 
-  [https://theseagull.co.uk/](https://theseagull.co.uk/)
+  [https://www.facebook.com/clockworkdc2017/](https://www.facebook.com/clockworkdc2017/)
 
-  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
-
-  [0333 666 3366](tel:03336663366)
+  [larnepatrick3@gmail.com](mailto:larnepatrick3@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730887255
+updated_at: 1730889456
 duplicated_from: 955b6de8-2784-4cc3-8873-a684119cbd66
+cost_details: £4
 ---
-A free and relaxing knit and natter.
+Come and try our weekly dance classes in Lowestoft led by a friendly instructor.
