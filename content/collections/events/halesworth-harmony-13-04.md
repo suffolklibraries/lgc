@@ -1,16 +1,15 @@
 ---
 id: 55441bb0-810f-4cbe-b9cf-fc2e228b0de3
-published: false
 blueprint: events
-title: 'Halesworth Harmony (Duplicated)'
+title: 'Halesworth Harmony'
 event_categories:
   - community
   - music
 organisers:
   - halesworth-harmony
 featured_image: halesworth-harmony/halesworth-harmony.png
-start_date: '2025-03-30 10:30'
-end_date: '2025-03-30 12:30'
+start_date: '2025-04-13 10:30'
+end_date: '2025-04-13 12:30'
 free: false
 cost_details: £7
 virtual: false
@@ -190,7 +189,7 @@ cta: |-
 
   [halesworth.harmony@gmail.com](mailto:halesworth.harmony@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730905455
+updated_at: 1730905486
 duplicated_from: c9c706c1-8bf0-4405-912d-0e2ba34638b2
 ---
 A friendly and supportive choir, welcoming all singers without an audition.
