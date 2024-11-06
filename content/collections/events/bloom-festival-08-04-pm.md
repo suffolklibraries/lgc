@@ -1,8 +1,7 @@
 ---
 id: 99843bde-df79-4fd3-bcee-68d6d5f61606
-published: false
 blueprint: events
-title: 'Bloom Festival - Introduction to Puppetry (Duplicated)'
+title: 'Bloom Festival - SENsory Creative Play'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -10,13 +9,13 @@ event_categories:
   - art
 organisers:
   - theatre-royal
-featured_image: theatre-royal/bloom-festival.png
-start_date: '2025-04-08 10:00'
-end_date: '2025-04-08 12:00'
+featured_image: theatre-royal/bloom-festival-sensory.png
+start_date: '2025-04-08 14:00'
+end_date: '2025-04-08 14:45'
 free: true
 cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'suitable for ages 10 - 17'
+attendance_information: 'suitable for ages 13 - 18'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -124,7 +123,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Want to learn how to create a character through puppetry? This two-hour workshop will teach you the basics of puppetry, so that you can bring your imagination to life.'
+        text: 'Dive into a world of imagination and play with our SEN (Special Educational Needs) Creative Play Workshop. This workshop is specially designed to celebrate diversity and cater to varying abilities and needs. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We will immerse ourselves in the magic of creative play with hands-on activities. You will discover the power of expressive arts in enhancing communication and self-expression.'
   -
     type: paragraph
     attrs:
@@ -139,15 +146,15 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/introduction-to-puppetry/'
+              href: 'https://theatreroyal.org/events/sensory-creative-play-13-18/'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'Theatre Royal website'
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/introduction-to-puppetry/'
+booking_link: 'https://theatreroyal.org/events/sensory-creative-play-13-18/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -157,10 +164,13 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730901394
+updated_at: 1730901639
 duplicated_from: d90380de-00b3-4824-87a1-632fb1495714
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
+  - 'BSL interpretation provided'
   - 'Accessible toilets'
+  - 'Relaxed performance'
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
