@@ -1,7 +1,7 @@
 ---
 id: be74a693-378a-49c1-8c66-aea3f312307b
 blueprint: events
-title: 'Bloom Festival - SENsory Creative Play'
+title: 'Bloom Festival - SENsory Creative Play - 6 - 12 years'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -164,12 +164,11 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730901732
+updated_at: 1730902003
 duplicated_from: 99843bde-df79-4fd3-bcee-68d6d5f61606
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
-  - 'BSL interpretation provided'
   - 'Accessible toilets'
   - 'Relaxed performance'
 ---
