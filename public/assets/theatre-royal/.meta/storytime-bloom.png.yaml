@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: "An open pop-up storybook with pirates and a ship. Text reads 'Bloom Festival'."
 size: 230404
 last_modified: 1730903611
 width: 591
