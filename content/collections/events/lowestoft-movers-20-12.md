@@ -1,23 +1,22 @@
 ---
 id: 05c08c5c-c107-4074-bf58-19e9bf312239
-published: false
 blueprint: events
-title: 'Knit and Natter (Duplicated)'
+title: 'Lowestoft Movers'
 event_categories:
   - wellbeing
   - community
   - later-years
+  - dance
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/olderpeople.png
-start_date: '2025-03-27 10:00'
-end_date: '2025-03-27 12:00'
-free: true
+start_date: '2024-12-20 10:00'
+end_date: '2024-12-20 11:15'
+free: false
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 building_name: 'The Seagull Theatre'
@@ -84,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Every Thursday in our lovely foyer from 10am.'
+        text: 'By encouraging more people to enjoy dance as a sociable activity, Lowestoft Movers offers the opportunity to get moving in an informal way and to have fun whilst doing so. The class includes one hour of movement followed by some social time with tea, coffee and biscuits.'
   -
     type: paragraph
     attrs:
@@ -92,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along and make friends, bring your knitting and stay for a chat. The bar is open for teas/coffees. Pop in for 30 minutes or stay for two hours.'
+        text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health, and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
   -
     type: paragraph
     attrs:
@@ -100,7 +99,32 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a drop in event so no booking is required.'
+        text: 'For further information and to book your place please contact community dance artist Alysha Hudson by email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:alysha1990@hotmail.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: alysha1990@hotmail.co.uk
+      -
+        type: text
+        text: ' or phone '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07984756499'
+              rel: null
+              target: null
+              title: null
+        text: '07984 756499'
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -110,7 +134,9 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730887255
+updated_at: 1730887573
 duplicated_from: 955b6de8-2784-4cc3-8873-a684119cbd66
+cost_details: £4
+attendance_information: 'people aged 55+'
 ---
-A free and relaxing knit and natter.
+Come and try our weekly movement classes for people over 55!
