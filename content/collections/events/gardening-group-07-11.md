@@ -104,5 +104,6 @@ cta: |-
   [info@brittenpearsarts.org](mailto:info@brittenpearsarts.org)
 
   [01728 451700](tel:01728451700)
+published: false
 ---
 Join us in the beautiful and peaceful surroundings of The Red House Garden.
