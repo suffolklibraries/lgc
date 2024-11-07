@@ -125,5 +125,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730297789
 duplicated_from: 2d8cf868-c090-4581-b424-831430d928b1
+published: false
 ---
 Creative Practice for Wellbeing is our programme that support adults wellbeing through Art.
