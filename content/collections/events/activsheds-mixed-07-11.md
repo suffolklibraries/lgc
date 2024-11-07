@@ -156,5 +156,6 @@ attendance_information: |-
   people with physical disabilities
 accessibility_information:
   - 'Autism friendly'
+published: false
 ---
 A practical project for people who would like to share knowledge, learn new skills, and pursue hobbies and interests!
