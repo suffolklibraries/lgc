@@ -176,5 +176,6 @@ address_line_2: 'Station Road'
 town: Woodbridge
 postcode: 'IP12 4AU'
 booking_link: 'https://coherearts.org/gentle/'
+published: false
 ---
 Our popular Gentle seated yoga is an accessible activity suitable for people living with a range of mobility and/or health challenges.
