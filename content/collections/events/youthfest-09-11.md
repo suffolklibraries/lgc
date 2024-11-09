@@ -266,5 +266,6 @@ cta: |-
 end_date: '2024-11-09 17:00'
 attendance_information: '- Suitable young people aged 14 - 25'
 duplicated_from: ccb05762-886d-43c0-9534-a32431b3f51d
+published: false
 ---
 DanceEast’s Youth Festival returns this autumn!
