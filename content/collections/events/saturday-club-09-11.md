@@ -174,5 +174,6 @@ cta: |-
   [01787 372958](tel:01787372958)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730822427
+published: false
 ---
 Free art classes to 13–16 year olds who live, work or study in Sudbury and the surrounding areas.
