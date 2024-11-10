@@ -230,5 +230,6 @@ attendance_information: '- Suitable for ages 0-5 and their adults'
 duplicated_from: 802bf011-3924-43ee-9ada-e5757eb5ce73
 cost_details: '0-12 months free, 1-5 years £4, adult £6'
 booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
+published: false
 ---
 Join us for our forest themed Baby Loves to Boogie, the best baby disco in town! You and your little ones will explore the woodland floor and dance with creatures of the forest.
