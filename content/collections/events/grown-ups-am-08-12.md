@@ -1,8 +1,7 @@
 ---
 id: de1a7ced-ed07-41d3-baec-ea8795708f97
-published: false
 blueprint: events
-title: 'Group for Grown-Ups of 1 to 2 year olds (Duplicated)'
+title: 'Group for Grown-Ups of 1 to 2 year olds'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - new-wolsey-theatre
 featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2024-12-18 10:30'
-end_date: '2024-12-18 11:30'
+start_date: '2025-01-08 10:30'
+end_date: '2025-01-08 11:30'
 free: true
 virtual: false
 accessibility_information:
@@ -160,7 +159,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731313965
+updated_at: 1731313985
 duplicated_from: 52906c4c-c8ee-48f1-ae0d-ce2f521656a4
 attendance_information: 'carers of 1 - 2 year olds'
 ---
