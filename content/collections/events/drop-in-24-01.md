@@ -1,8 +1,7 @@
 ---
 id: bdb1e7ac-70d7-424e-bb7a-28430709ddbe
-published: false
 blueprint: events
-title: 'Drop-In - years 7 to 11 (Duplicated)'
+title: 'Drop-In - years 7 to 11'
 event_categories:
   - teen
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-01-17 16:00'
-end_date: '2025-01-17 18:00'
+start_date: '2025-01-24 16:00'
+end_date: '2025-01-24 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 7 to 11'
@@ -130,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731326137
+updated_at: 1731326163
 duplicated_from: 205dc476-ec43-4f49-a659-d0d7371ec4f0
 ---
 Hang out in a chill and comfortable space.
