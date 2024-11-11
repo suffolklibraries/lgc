@@ -148,7 +148,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731322091
+updated_at: 1731322987
 duplicated_from: 90ef09ec-5052-4f84-b41d-c21286a920ef
 ---
 If you're home-educated and aged between 11-16 years old just drop-in!
