@@ -1,17 +1,16 @@
 ---
 id: f7f56b6e-1951-4382-bfc4-c06bb27ed900
-published: false
 blueprint: events
-title: 'Art Group (Duplicated)'
+title: 'Folk Night'
 event_categories:
-  - art
   - community
+  - music
 organisers:
   - the-bank
-featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2024-11-13 10:00'
-end_date: '2024-11-13 13:00'
-free: true
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2024-11-13 19:15'
+end_date: '2024-11-13 22:00'
+free: false
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -114,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join The Bank's weekly workshops to grow your creativity and meet new people. To see the full list of regular groups, visit "
+        text: "Join The Bank's regular workshops to grow your creativity and meet new people. To see the full list of groups, visit "
       -
         type: text
         marks:
@@ -136,7 +135,7 @@ content_area:
     content:
       -
         type: text
-        text: "Bring your own materials and meet like-minded creatives to The Bank's weekly art group."
+        text: "Bring your own instruments and take part or enjoy listening. All standards welcome and encouraged.\_"
   -
     type: paragraph
     attrs:
@@ -154,8 +153,8 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731315422
+updated_at: 1731316347
 duplicated_from: 249aae7a-9c12-4b4a-9f9c-ec25902a67f2
-cost_details: '£3 donation appreciated'
+cost_details: £3
 ---
-Weekly drop-in art group.
+Join us for an evening of acoustic music.
