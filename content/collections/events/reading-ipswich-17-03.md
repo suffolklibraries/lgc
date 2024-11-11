@@ -1,16 +1,15 @@
 ---
 id: fa9fb3ad-6ff7-4373-b632-26bfe07c16f4
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Reading with Dementia - Ipswich'
 event_categories:
   - literature
   - wellbeing
   - community
   - later-years
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-03-10 14:15'
-end_date: '2025-03-10 15:15'
+start_date: '2025-03-17 14:15'
+end_date: '2025-03-17 15:15'
 free: true
 virtual: false
 attendance_information: |-
@@ -221,7 +220,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731318778
+updated_at: 1731318794
 duplicated_from: aadb93df-9c13-4a5b-8d40-45f172350890
 organisers:
   - suffolk-libraries
