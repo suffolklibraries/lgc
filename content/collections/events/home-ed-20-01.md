@@ -1,8 +1,7 @@
 ---
 id: 3851f9df-e890-4a44-a1e1-937e145ad810
-published: false
 blueprint: events
-title: 'Home Ed Drop-In (Duplicated)'
+title: 'Home Ed Drop-In'
 event_categories:
   - teen
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-01-13 13:00'
-end_date: '2025-01-13 15:00'
+start_date: '2025-01-20 13:00'
+end_date: '2025-01-20 15:00'
 free: true
 virtual: false
 attendance_information: 'home education young people aged between 11 - 16 years'
@@ -149,7 +148,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731321701
+updated_at: 1731321927
 duplicated_from: 6b329fc9-a184-4e66-ad8e-b3e81ffad5f4
 ---
 If you're home-educated and aged between 11-16 years old just drop-in!
