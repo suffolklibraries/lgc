@@ -173,5 +173,6 @@ address_line_2: 'Ferry Road'
 town: Felixstowe
 postcode: 'IP11 9NB'
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/felixstowe-folklore-sculptures-2/'
+published: false
 ---
 Alice-Andrea Ewing will be joining us to create individual ceramic sculptures inspired by Folklore.

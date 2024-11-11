@@ -180,5 +180,6 @@ accessibility_information:
 cost_details: '£5 per session'
 end_date: '2024-11-11 14:30'
 duplicated_from: 0894e75f-0d91-4baa-9773-acf518f971c6
+published: false
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Felixstowe.
