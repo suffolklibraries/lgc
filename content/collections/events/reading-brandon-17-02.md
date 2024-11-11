@@ -1,16 +1,15 @@
 ---
 id: 8843ef99-cebc-4fa4-a830-70f11a5ecdcb
-published: false
 blueprint: events
-title: 'Reading with Dementia - Brandon (Duplicated)'
+title: 'Reading with Dementia - Brandon'
 event_categories:
   - literature
   - wellbeing
   - community
   - later-years
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-02-10 13:00'
-end_date: '2025-02-10 14:00'
+start_date: '2025-02-17 13:00'
+end_date: '2025-02-17 14:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -235,7 +234,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731319255
+updated_at: 1731319414
 duplicated_from: 8dec82e4-79fc-4bbf-8233-0e1607f047d5
 organisers:
   - suffolk-libraries
