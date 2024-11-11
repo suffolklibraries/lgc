@@ -1,8 +1,7 @@
 ---
 id: 11b495b8-7a32-412d-95e0-624bbd64b33a
-published: false
 blueprint: events
-title: 'Crafting Community Workshops (Duplicated)'
+title: 'Crafting Community Workshops'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - new-wolsey-theatre
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2024-11-12 10:30'
-end_date: '2024-11-12 12:30'
+start_date: '2024-11-19 10:30'
+end_date: '2024-11-19 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -160,7 +159,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731313487
+updated_at: 1731313507
 duplicated_from: 51ae25df-50d5-48f7-b725-32c1150c0f30
 ---
 Develop your creative skills!
