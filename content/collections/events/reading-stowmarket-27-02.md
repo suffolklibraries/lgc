@@ -8,7 +8,7 @@ event_categories:
   - community
   - later-years
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-02-20 10:30'
+start_date: '2025-02-27 10:30'
 end_date: '2025-02-27 12:00'
 free: true
 virtual: false
@@ -230,7 +230,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731319949
+updated_at: 1731319979
 duplicated_from: 957bf322-c3d6-455f-a4f2-1c4b1bcf30fe
 organisers:
   - suffolk-libraries
