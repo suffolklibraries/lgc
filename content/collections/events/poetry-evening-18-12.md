@@ -1,16 +1,15 @@
 ---
 id: 88f68faa-6b75-4b39-9784-8d79fcd7b684
-published: false
 blueprint: events
-title: 'Poetry Evening (Duplicated)'
+title: 'Poetry Evening'
 event_categories:
   - community
   - literature
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2024-11-20 19:00'
-end_date: '2024-11-20 21:00'
+start_date: '2024-12-18 19:00'
+end_date: '2024-12-18 21:00'
 free: true
 virtual: true
 accessibility_information:
@@ -81,7 +80,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731316744
+updated_at: 1731316771
 duplicated_from: 35d3a3f1-7933-4b38-8800-6247a2648319
 cost_details: 'donations welcome'
 ---
