@@ -1,17 +1,16 @@
 ---
 id: 9dd0a550-5b0e-4fc4-b3cf-b8639972add0
-published: false
 blueprint: events
-title: 'Crafting Community Workshops (Duplicated)'
+title: 'Group for Grown-Ups of 1 to 2 year olds'
 event_categories:
   - art
   - community
   - literature
 organisers:
   - new-wolsey-theatre
-featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2024-11-12 10:30'
-end_date: '2024-11-12 12:30'
+featured_image: pelicanpelican-3x2/early-years-(1).png
+start_date: '2024-11-27 10:30'
+end_date: '2024-11-27 11:30'
 free: true
 virtual: false
 accessibility_information:
@@ -120,7 +119,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and join our Crafting Community workshops, where you can build a community and work with a multi-disciplinary artist to develop different creative skills, such as writing and drawing. By the end of the sessions, you will create a beautiful booklet which reflects your passions and interests.'
+        text: 'These are a space to be creative with your little one and meet others sharing the same experience.'
   -
     type: paragraph
     attrs:
@@ -160,7 +159,8 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731313530
+updated_at: 1731313908
 duplicated_from: 51ae25df-50d5-48f7-b725-32c1150c0f30
+attendance_information: 'carers of 1 - 2 year olds'
 ---
-Develop your creative skills!
+Be creative with your little one!
