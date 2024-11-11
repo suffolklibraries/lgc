@@ -1,16 +1,15 @@
 ---
 id: d818f141-21ba-4433-a9c6-264feeafbbe4
-published: false
 blueprint: events
-title: 'Reading with Dementia - Stowmarket (Duplicated) (Duplicated)'
+title: 'Reading with Dementia - Stowmarket'
 event_categories:
   - literature
   - wellbeing
   - community
   - later-years
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-01-02 10:30'
-end_date: '2025-01-02 12:00'
+start_date: '2025-01-16 10:30'
+end_date: '2025-01-16 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -231,7 +230,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731319815
+updated_at: 1731319845
 duplicated_from: 79ceb654-840a-4cd7-bf85-ac54cc7028b3
 organisers:
   - suffolk-libraries
