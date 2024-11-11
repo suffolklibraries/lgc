@@ -1,8 +1,7 @@
 ---
 id: fd8329fb-0a0a-4599-a81c-bc1d8caf898e
-published: false
 blueprint: events
-title: 'Drop-In - year 7 and 8 (Duplicated)'
+title: 'Drop-In - years 7 to 11'
 event_categories:
   - teen
   - languages
@@ -10,21 +9,21 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2024-11-18 16:00'
-end_date: '2024-11-18 18:00'
+start_date: '2024-11-15 16:00'
+end_date: '2024-11-15 18:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 7 and 8'
+attendance_information: 'For young people in years 7 to 11'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Drop-in event'
-latitude: '52.18593337408477'
-longitude: '0.9993967685595039'
-building_name: 'The Mix'
-address_line_1: '127 Ipswich Street'
-town: Stowmarket
-postcode: 'IP14 1BB'
+latitude: '52.15366879125586'
+longitude: '1.0469979762348256'
+building_name: 'The Mix Hut'
+address_line_1: 'Crowley Road'
+town: 'Needham Market'
+postcode: 'IP6 8BJ'
 directions:
   -
     type: paragraph
@@ -51,18 +50,18 @@ directions:
     content:
       -
         type: text
-        text: 'Car parking is available a two minute walk away in '
+        text: 'Car parking is available an eleven minute walk away in '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.babergh.gov.uk/web/mid-suffolk/w/ipswich-street-car-park-1'
+              href: 'https://www.babergh.gov.uk/web/mid-suffolk/w/station-yard-car-park'
               rel: null
               target: _blank
               title: null
-        text: 'Ipswich Street car park'
+        text: 'Station Yard car park'
       -
         type: text
         text: '. '
@@ -71,18 +70,18 @@ directions:
     content:
       -
         type: text
-        text: 'Stowmarket train station is a ten minute walk away. Find up to date train times on the '
+        text: 'Needham Market train station is an eleven minute walk away. You can find up to date train times on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/smk'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/nmt'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: 'the Greater Anglia website'
       -
         type: text
         text: .
@@ -130,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731323864
+updated_at: 1731325794
 duplicated_from: 32262fa6-6fed-42ee-a49b-cf469d68e3bd
 ---
 Hang out in a chill and comfortable space.
