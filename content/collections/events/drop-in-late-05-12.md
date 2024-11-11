@@ -1,8 +1,7 @@
 ---
 id: ab6f9f9b-bf4f-4e81-a140-58f121ee8a9b
-published: false
 blueprint: events
-title: 'Drop-In - Late (Duplicated)'
+title: 'Drop-In - Late'
 event_categories:
   - teen
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2024-11-28 16:00'
-end_date: '2024-11-28 18:00'
+start_date: '2024-12-05 16:00'
+end_date: '2024-12-05 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people aged 16 to 19'
@@ -130,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731324732
+updated_at: 1731324750
 duplicated_from: e0456a30-6f8e-4c34-99c2-011d52ea317e
 ---
 Hang out in a chill and comfortable space.
