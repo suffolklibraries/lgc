@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2024-12-16 13:00'
-end_date: '2024-12-16 15:00'
+start_date: '2024-12-16 16:00'
+end_date: '2024-12-16 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 7 and 8'
@@ -129,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731323363
+updated_at: 1731323889
 duplicated_from: e02ecaab-9e89-4500-8e69-2fd719cb3ca9
 ---
 Hang out in a chill and comfortable space.
