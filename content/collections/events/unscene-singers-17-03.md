@@ -1,15 +1,14 @@
 ---
 id: 3f6caca0-9058-4ebf-8394-7d00b5f6559d
-published: false
 blueprint: events
-title: 'Unscene Singers (Duplicated)'
+title: 'Unscene Singers'
 event_categories:
   - music
   - community
   - wellbeing
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-03-10 14:00'
-end_date: '2025-03-10 16:00'
+start_date: '2025-03-17 14:00'
+end_date: '2025-03-17 16:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -186,7 +185,7 @@ cta: |-
 
   [07712 006852](tel:07712006852)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731332703
+updated_at: 1731332718
 duplicated_from: 8b26d454-e4fc-4309-b267-875197af5818
 ---
 Singing for wellbeing and for fun!
