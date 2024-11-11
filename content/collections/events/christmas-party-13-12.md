@@ -1,16 +1,15 @@
 ---
 id: 7ffdcf42-36de-4d4c-8839-03e0458e9704
-published: false
 blueprint: events
-title: 'Folk Night (Duplicated)'
+title: "The Bank's Christmas Party"
 event_categories:
   - community
   - music
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-11-13 19:15'
-end_date: '2024-11-13 22:00'
+start_date: '2024-12-13 19:30'
+end_date: '2024-12-13 22:00'
 free: false
 virtual: false
 accessibility_information:
@@ -114,37 +113,37 @@ content_area:
     content:
       -
         type: text
-        text: "Join The Bank's regular workshops to grow your creativity and meet new people. To see the full list of groups, visit "
+        text: 'Join regulars Average Funk Band for our annual Christmas Party, but with a twist! Joining them on lead vocals will be none other than Harry Issac Presley. A one off Christmas party where the tunes will be non stop bangers and the energy off the scale!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Limited seating available. Please get in touch for reservations.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'To book your ticket and find out more '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.thebankeye.org/groupsandactivities.html'
+              href: 'https://www.thebankeye.org/store/p54/onenightonlychristmas24.html'
               rel: null
               target: _blank
               title: null
-        text: "The Bank's website"
+        text: "visit The Bank's website"
       -
         type: text
         text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Bring your own instruments and take part or enjoy listening. All standards welcome and encouraged.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'No need to book, just drop-in.'
 cta: |-
   This event is organised by The Bank
 
@@ -154,8 +153,9 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731316347
+updated_at: 1731320458
 duplicated_from: f7f56b6e-1951-4382-bfc4-c06bb27ed900
-cost_details: £3
+cost_details: £8
+booking_link: 'https://www.thebankeye.org/store/p54/onenightonlychristmas24.html'
 ---
-Join us for an evening of acoustic music.
+Average Funk Band Christmas Party!
