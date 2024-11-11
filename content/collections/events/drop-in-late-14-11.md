@@ -1,8 +1,7 @@
 ---
 id: 48502b59-1013-41d0-8bda-7dcfb1cd64ba
-published: false
 blueprint: events
-title: 'Drop-In - year 9, 10 and 11 (Duplicated)'
+title: 'Drop-In - Late'
 event_categories:
   - teen
   - languages
@@ -14,7 +13,7 @@ start_date: '2024-11-14 16:00'
 end_date: '2024-11-14 18:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 9, 10 and 11'
+attendance_information: 'For young people aged 16 to 19'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -130,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731324097
+updated_at: 1731324674
 duplicated_from: c08f9263-c4ec-45ef-b663-094b1ef6e65d
 ---
 Hang out in a chill and comfortable space.
