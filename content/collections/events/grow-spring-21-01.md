@@ -1,8 +1,7 @@
 ---
 id: f6e62ea5-dd6b-4ecf-a33b-4d2d0bbfabc1
-published: false
 blueprint: events
-title: 'Grow Your Future - Tuesday Group (Duplicated)'
+title: 'Grow Your Future - Taster Day'
 event_categories:
   - nature
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-02-11 10:00'
-end_date: '2025-04-29 14:00'
+start_date: '2025-01-22 10:00'
+end_date: '2025-01-22 14:00'
 free: true
 virtual: false
 latitude: '52.05374972132314'
@@ -91,6 +90,14 @@ content_area:
     content:
       -
         type: text
+        text: 'Join this taster day for the Grow Your Future course to find out more.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
         text: 'If you are looking for a new direction, come and take part in our programme to develop practical skills and build confidence on your way to further learning, training or employment.'
   -
     type: paragraph
@@ -140,7 +147,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731412467
+updated_at: 1731412620
 attendance_information: 'ages 16+'
 duplicated_from: a4073603-87df-46ff-8f6f-b5835477516e
 ---
