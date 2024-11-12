@@ -1,16 +1,15 @@
 ---
 id: 83566044-ec38-4197-9552-bc4a48c0838e
-published: false
 blueprint: events
-title: "Men's Breakfast Hub (Duplicated) (Duplicated)"
+title: "Men's Breakfast Hub"
 event_categories:
   - community
   - wellbeing
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/coffee.png
-start_date: '2024-11-19 10:00'
-end_date: '2024-11-19 12:00'
+start_date: '2024-12-04 10:00'
+end_date: '2024-12-04 12:00'
 free: true
 cost_details: '£5 per person'
 virtual: false
@@ -119,6 +118,14 @@ content_area:
     content:
       -
         type: text
+        text: "The Men's Breakfast Hub meets every Wednesday between 10am - midday."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
         text: 'Volunteers and new attendees are very welcome. For more information call Alison Pearson on '
       -
         type: text
@@ -155,7 +162,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731411220
+updated_at: 1731411293
 duplicated_from: 30fb5608-b28e-4a16-809a-5f44aac79c33
 attendance_information: 'men aged over 45'
 ---
