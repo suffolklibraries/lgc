@@ -1,21 +1,23 @@
 ---
 id: 9cf8c24f-2951-4ec9-999c-3300822e8274
-published: false
 blueprint: events
-title: 'Beyond the Bassline Dance Workshops - Ipswich (Duplicated)'
+title: 'An Introduction to Oral Storytelling with Justine de Mierre'
 event_categories:
   - family-friendly
   - dance
   - music
 organisers:
   - suffolk-libraries
-featured_image: suffolklibrariesimages/martell-richards-3x2.png
-start_date: '2024-11-16 13:00'
-end_date: '2024-11-16 16:50'
+featured_image: suffolklibrariesimages/justine-de-m.png
+start_date: '2024-11-23 11:00'
+end_date: '2024-11-23 16:50'
 free: true
 virtual: false
-attendance_information: 'Family friendly'
+attendance_information: |-
+  suitable for ages 14+
+   attendees aged 14-16 must be accompanied by an adult
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Accessible toilets'
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
@@ -140,110 +142,60 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Martell Richards, friendly dance instructor, to explore the music from Beyond the Bassline!'
+        text: "Everyone's a storyteller - even if they don't know it yet! This workshop will start you on your journey to discovering the great talespinner you already are! Discover your authentic voice with exercises, skills development, expert tips, and story sharing."
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: "Together with Martell, you'll listen to music from\_"
+        text: "Justine\_de Mierre\_studied at Drama Studio London and founded the interactive performance company, Ladder to the Moon, before working with the Royal Albert Hall. Over the years as a teller, Justine has shared her craft at festivals, events and schools across the country, created story play sessions for under 5s and has been involved in story projects with prisoners and trained librarians in multi-sensory storytelling."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "For more information, speak to a member of staff or contact the library on\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/news/beyond-the-bassline-exhibition-celebrates-black-british-music'
+              href: 'tel:01473927260'
               rel: null
-              target: _blank
+              target: null
               title: null
-          -
-            type: underline
-        text: "Suffolk Libraries' Beyond the Bassline exhibition"
+        text: '01473 927260'
       -
         type: text
-        text: ', celebrating 500 years of Black British music. Using this as your inspiration, Martell will teach you some different dance moves and explore ways to move your body.'
+        text: ".\_"
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: "It's going to be high energy so make sure you bring your water bottle and get ready for some fun!\_You don't need to have any previous dance experience.\_You can check out Martell's dance moves via his\_"
+        text: 'Booking is required - reserve your free place via the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.instagram.com/mrd.dance?igsh=eGF6ejBkZDJ6aDc1'
+              href: 'https://www.suffolklibraries.co.uk/events/events/an-introduction-to-oral-storytelling-with-justine-de-mierre'
               rel: null
               target: _blank
               title: null
-          -
-            type: underline
-        text: Instagram
-      -
-        type: text
-        text: "\_and\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.facebook.com/share/GQyMfDkjiwTRrAaG/'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: Facebook
-      -
-        type: text
-        text: "\_pages."
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Workshops start at 1PM, 2.30PM and 4PM. Workshops will last 50 minutes. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Book your free place '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/events/events/beyond-the-bassline-dance-workshops-at-ipswich-county-library'
-              rel: null
-              target: _blank
-              title: null
-        text: 'via the Suffolk Libraries website'
+        text: "Suffolk Libraries' website"
       -
         type: text
         text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Children must be accompanied by a responsible adult at all times. Suitable for ages 7+.'
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/beyond-the-bassline-dance-workshops-at-ipswich-county-library'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/an-introduction-to-oral-storytelling-with-justine-de-mierre'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -253,7 +205,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730130902
+updated_at: 1731425883
 duplicated_from: 53ad4c3d-9fc0-411d-9e88-85544f21e284
 ---
-Join Martell Richards, friendly dance instructor, to explore the music from Beyond the Bassline!
+Learn about the ever-evolving tradition of oral storytelling!
