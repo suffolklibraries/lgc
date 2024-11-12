@@ -111,5 +111,6 @@ event_categories:
   - community
   - wellbeing
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/online-carers-session-2/'
+published: false
 ---
 Take your imagination for a ride this this autumn with three evening sessions of creative exercises and conversation led by poet Dean Parkin.
