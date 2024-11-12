@@ -90,6 +90,14 @@ content_area:
     content:
       -
         type: text
+        text: 'If you are looking for a new direction, come and take part in our programme to develop practical skills and build confidence on your way to further learning, training or employment.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
         text: 'In this free 12-week course, you will learn about gardening, horticulture and nature conservation in our safe, welcoming and inspiring community gardens. '
   -
     type: paragraph
@@ -131,7 +139,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731412382
+updated_at: 1731412467
 attendance_information: 'ages 16+'
 duplicated_from: f29b6b58-b6c6-46e9-881b-a23d60f83f7b
 ---
