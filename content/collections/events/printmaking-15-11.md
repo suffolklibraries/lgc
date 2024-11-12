@@ -1,16 +1,17 @@
 ---
 id: f70ee307-4108-4146-8bf8-7e2bb6fd648b
-published: false
 blueprint: events
-title: 'Folk Night (Duplicated)'
+title: Printmaking
 event_categories:
   - community
-  - music
+  - art
+  - later-years
+  - wellbeing
 organisers:
   - the-bank
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-11-13 19:15'
-end_date: '2024-11-13 22:00'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2024-11-15 19:15'
+end_date: '2024-11-15 22:00'
 free: false
 virtual: false
 accessibility_information:
@@ -136,7 +137,7 @@ content_area:
     content:
       -
         type: text
-        text: "Bring your own instruments and take part or enjoy listening. All standards welcome and encouraged.\_"
+        text: '​Learn collagraph and polyblock printmaking with local artist Emily Procner.'
   -
     type: paragraph
     attrs:
@@ -144,7 +145,47 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just drop-in.'
+        text: '£13 for two hours, £16 for three hours. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'To find out more and book contact Emily via'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:emilylady44@hotmail.com'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:emilylady44@hotmail.com'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: emilylady44@hotmail.com
+      -
+        type: text
+        marks:
+          -
+            type: underline
+        text: .
 cta: |-
   This event is organised by The Bank
 
@@ -154,8 +195,8 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731316347
+updated_at: 1731421668
 duplicated_from: f7f56b6e-1951-4382-bfc4-c06bb27ed900
-cost_details: £3
+cost_details: 'From £13'
 ---
-Join us for an evening of acoustic music.
+Come along and get creative!
