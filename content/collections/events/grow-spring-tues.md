@@ -1,8 +1,7 @@
 ---
 id: a4073603-87df-46ff-8f6f-b5835477516e
-published: false
 blueprint: events
-title: 'Grow Your Future - Tuesday Group (Duplicated)'
+title: 'Grow Your Future - Tuesday Group'
 event_categories:
   - nature
   - community
@@ -11,41 +10,58 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-02-11 09:30'
-end_date: '2025-04-29 14:30'
+start_date: '2025-02-11 10:00'
+end_date: '2025-04-29 14:00'
 free: true
 virtual: false
-latitude: '52.03845056427872'
-longitude: '1.1481543616015653'
-building_name: 'The People’s Community Garden'
-address_line_1: 'Maidenhall Allotments'
-address_line_2: 'Halifax Road'
+latitude: '52.05374972132314'
+longitude: '1.114999195204672'
+building_name: 'Chantry Walled Garden'
+address_line_1: 'Chantry Park'
+address_line_2: 'Hadleigh Road'
 town: Ipswich
-postcode: 'IP2 8RE'
+postcode: 'IP2 0BS'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can catch all buses from The Old Cattle Market, near The Buttermarket shopping mall. '
+        text: 'The nearest public car park is accessed off '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.travelineeastanglia.org.uk/ea/XSLT_TTB_REQUEST?language=en&dateDay=20130813&command=direct&net=suf&line=02016&sup=%20&project=y08&direction=R&contentFilter=TIMINGPOINTS&outputFormat=0&itdLPxx_displayHeader=false&itdLPxx_operatorCodeForTTB=731IB'
+              href: "https://www.google.com/maps/dir/''/Activlives+Chantry+Walled+Garden+Project,+Hadleigh+Road,+Ipswich+IP2+0BS/@52.0530892,1.1118038,17z/data=!4m14!4m13!1m5!1m1!1s0x47d9a0ff51c44235:0x363528d8d41271df!2m2!1d1.111974!2d52.053833!1m5!1m1!1s0x47d9a0537ccc80b1:0x301b11a6a9f017da!2m2!1d1.1150229!2d52.0536298!3e2?entry=ttu"
               rel: null
               target: _blank
               title: null
-        text: 'Click here to get to the bus timetable.'
+        text: 'Hadleigh Road'
+      -
+        type: text
+        text: ' – turn right at top of driveway as you face the mansion. After parking, walk along the path round to right, past Sue Ryder stable block café and bowls pavilion on left. Keep straight on, passing Ipswich Borough Council gate entrance (DO NOT enter!); you will walk along the outer wall of IBC yard with a flower border and green iron gate on right (ignore this entrance). Go through wooden orchard gate straight ahead, and you will find a boardwalk leading to a second green iron gate. Turn in here and turn right towards greenhouses. Follow shingle path round; if no-one is in greenhouses, go through double wooden gates on right, and turn left to Nursery Cottage.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The garden has its own pedestrian gate – from Halifax Road, walk down the roadway (not accessible to vehicles from either end), keeping the allotment site on your left and Bourne Vale Social Club on your right – the gate is a short walk along the pavement on the left hand side. From Wherstead Road, look out for Orwell’s furniture shop and turn into the roadway opposite, which leads under the railway bridge (if you are in a car, park between the trees – if you go under the bridge you may get stuck or have a long way to reverse), walk up the roadway, pass the main allotment gates, and our pedestrian gate will be on your right.'
+        text: 'To travel by bus take the'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://bustimes.org/services/91-ipswich-hadleigh-sudbury'
+              rel: null
+              target: _blank
+              title: null
+        text: ' number 91 (to Hadleigh and Sudbury)'
+      -
+        type: text
+        text: ', which leaves at regular intervals from Ipswich town centre. Ipswich buses run as far as Dickens Road. The site can be reached on foot from London Road.'
   -
     type: paragraph
     content:
@@ -115,7 +131,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731412251
+updated_at: 1731412382
 attendance_information: 'ages 16+'
 duplicated_from: f29b6b58-b6c6-46e9-881b-a23d60f83f7b
 ---
