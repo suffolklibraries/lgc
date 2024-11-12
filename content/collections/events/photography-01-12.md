@@ -1,25 +1,23 @@
 ---
 id: d95c4325-033c-4db8-9cb2-9643c38acdbd
-published: false
 blueprint: events
-title: 'An Introduction to Oral Storytelling with Justine de Mierre (Duplicated)'
+title: 'Photography Exhibition - Friends and Networks'
 event_categories:
   - family-friendly
-  - dance
-  - music
+  - exhibition
+  - art
+  - museums
 organisers:
-  - suffolk-libraries
-featured_image: suffolklibrariesimages/justine-de-m-(1).png
-start_date: '2024-11-23 11:00'
-end_date: '2024-11-23 13:00'
+  - suffolk-county-council
+featured_image: suffolklibrariesimages/gilllian-allard-photography.png
+start_date: '2024-11-17 09:00'
+end_date: '2024-12-01 17:00'
 free: true
 virtual: false
-attendance_information: |-
-  suitable for ages 14+
-   attendees aged 14-16 must be accompanied by an adult
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
+  - 'Drop-in event'
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
 building_name: 'Ipswich County Library'
@@ -143,7 +141,7 @@ content_area:
     content:
       -
         type: text
-        text: "Everyone's a storyteller - even if they don't know it yet! This workshop will start you on your journey to discovering the great talespinner you already are! Discover your authentic voice with exercises, skills development, expert tips, and story sharing."
+        text: "This photography exhibition is part of Suffolk County Council's Friends and Networks projects, and has been created by young people participating in the programme."
   -
     type: paragraph
     attrs:
@@ -151,7 +149,7 @@ content_area:
     content:
       -
         type: text
-        text: "Justine\_de Mierre\_studied at Drama Studio London and founded the interactive performance company, Ladder to the Moon, before working with the Royal Albert Hall. Over the years as a teller, Justine has shared her craft at festivals, events and schools across the country, created story play sessions for under 5s and has been involved in story projects with prisoners and trained librarians in multi-sensory storytelling."
+        text: 'During the 16 week programme, the young people worked on a range of tasks from using a pop-up studio and DSLR cameras to manipulating images using editing software. '
   -
     type: paragraph
     attrs:
@@ -159,21 +157,7 @@ content_area:
     content:
       -
         type: text
-        text: "For more information, speak to a member of staff or contact the library on\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473927260'
-              rel: null
-              target: null
-              title: null
-        text: '01473 927260'
-      -
-        type: text
-        text: ".\_"
+        text: "The group visited locations in Suffolk to develop their photography, including Jimmy's Farm, Ickworth House, and Pin Mill."
   -
     type: paragraph
     attrs:
@@ -181,32 +165,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking is required - reserve your free place via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/events/events/an-introduction-to-oral-storytelling-with-justine-de-mierre'
-              rel: null
-              target: _blank
-              title: null
-        text: "Suffolk Libraries' website"
-      -
-        type: text
-        text: .
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/an-introduction-to-oral-storytelling-with-justine-de-mierre'
+        text: 'The participants produced amazing results and we hope you enjoy viewing a selection of their work. '
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk County Council's Friends and Networks
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolklearning.com/inclusion/friends-and-networks/](https://suffolklearning.com/inclusion/friends-and-networks/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
+  [friendsandnetworks@suffolk.gov.uk](mailto:friendsandnetworks@suffolk.gov.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731426017
+updated_at: 1731426814
 duplicated_from: 9cf8c24f-2951-4ec9-999c-3300822e8274
 ---
-Learn about the ever-evolving tradition of oral storytelling!
+An exhibition of work by local young photographers, led by Gillian Allard.
