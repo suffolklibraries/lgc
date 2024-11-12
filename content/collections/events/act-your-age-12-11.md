@@ -192,5 +192,6 @@ cta: |-
   [https://theatreroyal.org/](https://theatreroyal.org/)
 duplicated_from: 8e0719a9-f43e-4d37-b294-ccec227e173d
 cost_details: '£75 per term, with bursaries available'
+published: false
 ---
 Join our friendly weekly theatre group at the Theatre Royal.
