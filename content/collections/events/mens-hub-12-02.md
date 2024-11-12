@@ -1,16 +1,15 @@
 ---
 id: df162e61-245a-40db-8513-71fea220453e
-published: false
 blueprint: events
-title: "Men's Breakfast Hub (Duplicated)"
+title: "Men's Breakfast Hub"
 event_categories:
   - community
   - wellbeing
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/coffee.png
-start_date: '2025-02-05 10:00'
-end_date: '2025-02-05 12:00'
+start_date: '2025-02-12 10:00'
+end_date: '2025-02-12 12:00'
 free: true
 cost_details: '£5 per person'
 virtual: false
@@ -163,7 +162,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731411447
+updated_at: 1731411466
 duplicated_from: 9b59bfe2-3580-4db7-94f1-a5158d3ca3b9
 attendance_information: 'men aged over 45'
 ---
