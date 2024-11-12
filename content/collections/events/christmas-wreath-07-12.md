@@ -1,18 +1,19 @@
 ---
 id: fd77cef7-19a2-4181-9f86-82ee810bfbf7
-published: false
 blueprint: events
-title: "Men's Breakfast Hub (Duplicated)"
+title: 'Christmas Wreath Workshop'
 event_categories:
   - community
   - wellbeing
+  - nature
+  - art
 organisers:
   - activlives
-featured_image: pelicanpelican-3x2/coffee.png
-start_date: '2024-11-20 10:00'
-end_date: '2024-11-20 12:00'
-free: true
-cost_details: '£5 per person'
+featured_image: suffolklibrariesimages/christmas-generic.png
+start_date: '2024-12-07 11:00'
+end_date: '2024-12-07 13:00'
+free: false
+cost_details: '£10 per person'
 virtual: false
 latitude: '52.03845056427872'
 longitude: '1.1481543616015653'
@@ -73,7 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A social, confidential support group for men aged 45 and over.'
+        text: 'Create your own festive Christmas wreath to decorate your door .'
   -
     type: paragraph
     attrs:
@@ -81,73 +82,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Do you want to try something new? Are you feeling isolated or lonely, does life feel like a struggle? Would you like to meet some likeminded people and have an informal chat over a cuppa and a bacon bap? '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Our friendly Breakfast Hub offers a friendly, safe environment for discussion and advice from qualified staff, volunteers and outside agencies. The Hub is supported by staff and volunteers who are happy to have a chat and provide advice if needed.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The Breakfast Hub is a great opportunity to link into many other'
+        text: 'Tickets are £10 per person, please call '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://activlives.org.uk/'
-              rel: null
-              target: _blank
-              title: null
-        text: ' ActivLives activities'
-      -
-        type: text
-        text: '. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Volunteers and new attendees are very welcome. For more information call Alison Pearson on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473 345350'
+              href: 'tel:01473345350'
               rel: null
               target: null
               title: null
         text: '01473 345350'
       -
         type: text
-        text: ' or email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:alison@activlives.org.uk'
-              rel: null
-              target: null
-              title: null
-        text: alison@activlives.org.uk
-      -
-        type: text
-        text: .
+        text: '  to register and pay.'
 cta: |-
   This event is organised by ActivLives
 
@@ -155,8 +104,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731411312
+updated_at: 1731411837
 duplicated_from: d39a6ff9-2aff-40b1-8274-baf3cdcb72bb
-attendance_information: 'men aged over 45'
 ---
-Meet up and have a chat over a cuppa and bacon roll!
+Make your own nature-inspired Christmas wreath.
