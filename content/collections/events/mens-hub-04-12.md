@@ -10,7 +10,7 @@ organisers:
 featured_image: pelicanpelican-3x2/coffee.png
 start_date: '2024-12-04 10:00'
 end_date: '2024-12-04 12:00'
-free: true
+free: false
 cost_details: '£5 per person'
 virtual: false
 latitude: '52.03845056427872'
@@ -162,7 +162,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731411293
+updated_at: 1731411875
 duplicated_from: 30fb5608-b28e-4a16-809a-5f44aac79c33
 attendance_information: 'men aged over 45'
 ---
