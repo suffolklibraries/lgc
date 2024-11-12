@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/coffee.png
-start_date: '2024-11-19 10:00'
-end_date: '2024-11-19 12:00'
+start_date: '2024-11-20 10:00'
+end_date: '2024-11-20 12:00'
 free: true
 cost_details: '£5 per person'
 virtual: false
@@ -154,7 +154,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731411220
+updated_at: 1731411312
 duplicated_from: b61ec34b-2977-4717-a56e-c42f44ef78e3
 attendance_information: 'men aged over 45'
 ---
