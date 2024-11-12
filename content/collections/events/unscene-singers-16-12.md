@@ -175,7 +175,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We are also looking for volunteers to support these sessions – please get in touch if you are interested!'
+        text: 'We are also looking for volunteers to support these sessions, in particular drivers who can offer transport for participants from the Sudbury and Bury area. Pease get in touch if you are interested!'
 cta: |-
   This event is organised by Unscene Suffolk
 
@@ -185,7 +185,7 @@ cta: |-
 
   [07712 006852](tel:07712006852)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731332506
+updated_at: 1731410154
 duplicated_from: bdc54fc8-227c-4f50-960e-4d261cd27fdb
 ---
 Singing for wellbeing and for fun!
