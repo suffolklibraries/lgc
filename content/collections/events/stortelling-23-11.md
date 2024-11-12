@@ -10,7 +10,7 @@ organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/justine-de-m-(1).png
 start_date: '2024-11-23 11:00'
-end_date: '2024-11-23 16:50'
+end_date: '2024-11-23 13:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -205,7 +205,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731425969
+updated_at: 1731426017
 duplicated_from: 53ad4c3d-9fc0-411d-9e88-85544f21e284
 ---
 Learn about the ever-evolving tradition of oral storytelling!
