@@ -95,7 +95,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and join our free12-week course, Mondays 10th February until 28th April 2025 10:00am–12:30pm'
+        text: 'Come and join our free 12-week course, Mondays 10th February until 28th April 2025 10:00am–12:30pm'
   -
     type: paragraph
     attrs:
@@ -217,7 +217,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731414078
+updated_at: 1731414143
 attendance_information: 'ages 16+'
 duplicated_from: f29b6b58-b6c6-46e9-881b-a23d60f83f7b
 ---
