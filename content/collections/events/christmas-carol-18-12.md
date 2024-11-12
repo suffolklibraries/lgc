@@ -1,16 +1,17 @@
 ---
 id: b569ae2f-1a60-4c1d-99df-27ce13acf191
-published: false
 blueprint: events
-title: 'Sudbury Society Monthly Talks (Duplicated)'
+title: 'Charles Dickens’ A Christmas Carol!'
 event_categories:
-  - later-years
   - literature
+  - later-years
+  - community
+  - music
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2024-11-28 19:00'
-end_date: '2024-11-28 20:00'
+start_date: '2024-12-18 17:30'
+end_date: '2024-12-18 20:00'
 free: false
-cost_details: £7
+cost_details: 'donations welcome'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -125,7 +126,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drawing on unparalleled access to letters, notebooks, published works, drafts, and conversations from decades of friendship, Ian Collins tells the full story of Ronald Blythe for the first time in his new book – Blythe Spirit: The Remarkable Life of Ronald Blythe. The result is a sensitive, revelatory portrait which celebrates a fascinating, complex man and casts new light on one of our greatest writers.'
+        text: 'Every year Dr Anthony Roberts, Director of the Colchester Arts Centre, generously donates a few of his performances of Charles Dickens’ A Christmas Carol to charity. We are over the moon that Anthony & Jamie are coming to the Arts Centre, to support the work we do to give adults with learning disabilities and autism meaningful work experience and performance opportunities at Sudbury Arts Centre.'
   -
     type: paragraph
     attrs:
@@ -133,7 +134,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Society monthly face-to-face meetings are a wonderful opportunity to socialise, catch up on community and Society news and to learn something new from one of our range of fascinating speakers!'
+        text: 'The reading, to music, will follow Christmas carols, both performed by Jamie Cunliffe. Mince Pies, Hot Chocolate and Mulled Wine will be available from our cafe/bar.'
   -
     type: paragraph
     attrs:
@@ -141,7 +142,29 @@ content_area:
     content:
       -
         type: text
-        text: 'Buy your ticket on the door.'
+        text: 'Tickets must be pre-booked and are available on a Pay What You Can basis. A minimum suggested £5 per adult donation (but you can donate more if you choose to), and kids from 11 to 16 go free!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Visit the'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://sudburyartscentre.com/event/charles-dickens-a-christmas-carol/'
+              rel: null
+              target: _blank
+              title: null
+        text: ' Sudbury Arts Centre website to book your ticket'
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by the Sudbury Arts Centre
 
@@ -151,7 +174,9 @@ cta: |-
 
   [https://sudburyartscentre.com/](https://sudburyartscentre.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731422517
+updated_at: 1731422664
 duplicated_from: 34830634-b950-4da4-9c2a-ccd33dd37bf1
+attendance_information: 'suitable for ages 11+'
+booking_link: 'https://sudburyartscentre.com/event/charles-dickens-a-christmas-carol/'
 ---
-Author Ian Collins on Blythe Spirit - The Remarkable Life of Ronald Blythe
+Join in the festive fun at Sudbury Arts Centre!
