@@ -1,8 +1,7 @@
 ---
 id: 7c81ea69-8bb1-4a40-90a2-82eebcdfe226
-published: false
 blueprint: events
-title: 'Grow Your Wellbeing (Duplicated)'
+title: 'Grow Your Wellbeing - Open Day'
 event_categories:
   - nature
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-02-10 10:00'
-end_date: '2025-04-28 12:30'
+start_date: '2025-01-20 10:00'
+end_date: '2025-01-20 12:30'
 free: true
 virtual: false
 latitude: '52.03758506760739'
@@ -96,7 +95,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and join our free12-week course, Mondays 10th February until 28th April 2025 10:00am–12:30pm'
+        text: 'Come and join this open day to find out about our free 12-week course, Mondays 10th February until 28th April 2025 10:00am–12:30pm'
   -
     type: paragraph
     attrs:
@@ -218,7 +217,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731414078
+updated_at: 1731414131
 attendance_information: 'ages 16+'
 duplicated_from: ebbcde75-01e0-4433-b3f6-dea51c98c55a
 ---
