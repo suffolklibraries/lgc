@@ -1,24 +1,22 @@
 ---
 id: d39a6ff9-2aff-40b1-8274-baf3cdcb72bb
-published: false
 blueprint: events
-title: 'ActivGardens - Beginner Beekeeping (Duplicated)'
+title: "Men's Breakfast Hub"
 event_categories:
-  - nature
   - community
   - wellbeing
 organisers:
   - activlives
-featured_image: activlives/beekeeping.png
-start_date: '2024-11-25 11:00'
-end_date: '2024-11-25 13:00'
-free: false
-cost_details: 'from £5 per person'
+featured_image: pelicanpelican-3x2/coffee.png
+start_date: '2024-11-19 10:00'
+end_date: '2024-11-19 12:00'
+free: true
+cost_details: '£5 per person'
 virtual: false
 latitude: '52.03845056427872'
 longitude: '1.1481543616015653'
-building_name: 'The People’s Community Garden'
-address_line_1: 'Maidenhall Allotments'
+building_name: 'CRESS Pavilion'
+address_line_1: 'The People’s Community Garden'
 address_line_2: 'Halifax Road'
 town: Ipswich
 postcode: 'IP2 8RE'
@@ -45,7 +43,7 @@ directions:
     content:
       -
         type: text
-        text: 'The garden has its own pedestrian gate – from Halifax Road, walk down the roadway (not accessible to vehicles from either end), keeping the allotment site on your left and Bourne Vale Social Club on your right – the gate is a short walk along the pavement on the left hand side. From Wherstead Road, look out for Orwell’s furniture shop and turn into the roadway opposite, which leads under the railway bridge (if you are in a car, park between the trees – if you go under the bridge you may get stuck or have a long way to reverse), walk up the roadway, pass the main allotment gates, and our pedestrian gate will be on your right.'
+        text: 'The Pavilion is right next door to our People’s Community Garden on Halifax Road. There is onsite parking.'
   -
     type: paragraph
     content:
@@ -74,7 +72,7 @@ content_area:
     content:
       -
         type: text
-        text: "If you would like to find out more about beekeeping, why not come along to our open sessions?\_This will give you excellent knowledge of bees and hands-on experience of how to keep them. Once you have gained confidence, you can borrow a suit and have a go yourself.\_"
+        text: 'A social, confidential support group for men aged 45 and over.'
   -
     type: paragraph
     attrs:
@@ -82,7 +80,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To get a feel what it takes to handle bees, you can observe the hive being opened and checked from the safety of our hide. If you like what you see, you can borrow a suit and shadow our bee-keepers. If you would like to know more, sign up to become a regular member of our beekeeping team. This means you will be on the priority list for a share in the honey!'
+        text: 'Do you want to try something new? Are you feeling isolated or lonely, does life feel like a struggle? Would you like to meet some likeminded people and have an informal chat over a cuppa and a bacon bap? '
   -
     type: paragraph
     attrs:
@@ -90,7 +88,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our regular Monday morning bee keeping sessions take place between 11am-1pm.'
+        text: 'Our friendly Breakfast Hub offers a friendly, safe environment for discussion and advice from qualified staff, volunteers and outside agencies. The Hub is supported by staff and volunteers who are happy to have a chat and provide advice if needed.'
   -
     type: paragraph
     attrs:
@@ -98,18 +96,40 @@ content_area:
     content:
       -
         type: text
-        text: 'To book your place at an open session, please contact Ian on '
+        text: 'The Breakfast Hub is a great opportunity to link into many other'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07599951060'
+              href: 'https://activlives.org.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: ' ActivLives activities'
+      -
+        type: text
+        text: '. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Volunteers and new attendees are very welcome. For more information call Alison Pearson on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473 345350'
               rel: null
               target: null
               title: null
-        text: '07599 951060'
+        text: '01473 345350'
       -
         type: text
         text: ' or email '
@@ -119,22 +139,23 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:ian@activlives.org.uk'
+              href: 'mailto:alison@activlives.org.uk'
               rel: null
               target: null
               title: null
-        text: ian@activlives.org.uk
+        text: alison@activlives.org.uk
       -
         type: text
         text: .
 cta: |-
-  This event is organised by ActivGardens:
+  This event is organised by ActivLives
 
-  [https://activlives.org.uk/activgardens/](https://activlives.org.uk/activgardens/) 
+  [https://activlives.org.uk/](https://activlives.org.uk/) 
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730801888
+updated_at: 1731411220
 duplicated_from: b61ec34b-2977-4717-a56e-c42f44ef78e3
+attendance_information: 'men aged over 45'
 ---
-For people who would like to find out what beekeeping is all about!
+Meet up and have a chat over a cuppa and bacon roll!
