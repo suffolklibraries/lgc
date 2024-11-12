@@ -1,5 +1,6 @@
 ---
 id: 890f2e74-b0de-42b0-ba57-7540d80ae4d6
+published: false
 blueprint: events
 title: 'Unscene Singers'
 event_categories:
@@ -175,7 +176,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We are also looking for volunteers to support these sessions – please get in touch if you are interested!'
+        text: 'We are also looking for volunteers to support these sessions, in particular drivers who can offer transport for participants from the Sudbury and Bury area. Pease get in touch if you are interested!'
 cta: |-
   This event is organised by Unscene Suffolk
 
@@ -185,7 +186,7 @@ cta: |-
 
   [07712 006852](tel:07712006852)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731332586
+updated_at: 1731410182
 duplicated_from: 9192e41f-9f5c-48d7-b605-0f46ee0970c8
 ---
 Singing for wellbeing and for fun!
