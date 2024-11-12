@@ -1,7 +1,7 @@
 ---
 id: f29b6b58-b6c6-46e9-881b-a23d60f83f7b
 blueprint: events
-title: 'Grow Your Future - Tuesday Group'
+title: 'Grow Your Future - Wednesday Group'
 event_categories:
   - nature
   - community
@@ -114,7 +114,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731412251
+updated_at: 1731412279
 attendance_information: 'ages 16+'
 ---
 Learn about gardening, horticulture and nature conservation!
