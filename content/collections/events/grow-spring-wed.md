@@ -1,18 +1,18 @@
 ---
 id: f29b6b58-b6c6-46e9-881b-a23d60f83f7b
 blueprint: events
-title: 'ActivGardens - Beginner Beekeeping'
+title: 'Grow Your Future - Tuesday Group'
 event_categories:
   - nature
   - community
   - wellbeing
+  - teen
 organisers:
   - activlives
-featured_image: activlives/beekeeping.png
-start_date: '2024-11-11 11:00'
-end_date: '2024-11-11 13:00'
-free: false
-cost_details: 'from £5 per person'
+featured_image: pelicanpelican-3x2/gardentools.png
+start_date: '2025-02-11 09:30'
+end_date: '2025-04-29 14:30'
+free: true
 virtual: false
 latitude: '52.03845056427872'
 longitude: '1.1481543616015653'
@@ -73,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: "If you would like to find out more about beekeeping, why not come along to our open sessions?\_This will give you excellent knowledge of bees and hands-on experience of how to keep them. Once you have gained confidence, you can borrow a suit and have a go yourself.\_"
+        text: 'In this free 12-week course, you will learn about gardening, horticulture and nature conservation in our safe, welcoming and inspiring community gardens. '
   -
     type: paragraph
     attrs:
@@ -81,34 +81,18 @@ content_area:
     content:
       -
         type: text
-        text: 'To get a feel what it takes to handle bees, you can observe the hive being opened and checked from the safety of our hide. If you like what you see, you can borrow a suit and shadow our bee-keepers. If you would like to know more, sign up to become a regular member of our beekeeping team. This means you will be on the priority list for a share in the honey!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Our regular Monday morning bee keeping sessions take place between 11am-1pm.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'To book your place at an open session, please contact Ian on '
+        text: 'To find out more and book please contact Susannah on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:07599951060'
+              href: 'tel:07530407302'
               rel: null
               target: null
               title: null
-        text: '07599 951060'
+        text: '07530 407302'
       -
         type: text
         text: ' or email '
@@ -118,14 +102,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:ian@activlives.org.uk'
+              href: 'mailto:susannah@activlives.org.uk'
               rel: null
               target: null
               title: null
-        text: ian@activlives.org.uk
-      -
-        type: text
-        text: .
+        text: susannah@activlives.org.uk
 cta: |-
   This event is organised by ActivGardens:
 
@@ -133,7 +114,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730801852
-published: false
+updated_at: 1731412251
+attendance_information: 'ages 16+'
 ---
-For people who would like to find out what beekeeping is all about!
+Learn about gardening, horticulture and nature conservation!
