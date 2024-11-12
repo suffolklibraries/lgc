@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2024-12-13 19:15'
-end_date: '2024-12-13 22:00'
+start_date: '2024-12-13 10:00'
+end_date: '2024-12-13 13:00'
 free: false
 virtual: false
 accessibility_information:
@@ -195,7 +195,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731421750
+updated_at: 1731421867
 duplicated_from: ad346a13-67e3-4262-a777-f2acd9ed13b2
 cost_details: 'From £13'
 ---
