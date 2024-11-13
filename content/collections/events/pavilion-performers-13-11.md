@@ -123,5 +123,6 @@ cta: |-
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730114117
+published: false
 ---
 Pavilion Performers Open Sessions is a monthly opportunity for local musicians to perform and connect.
