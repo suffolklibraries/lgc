@@ -147,5 +147,6 @@ booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '- 16 + years'
 accessibility_information:
   - '- Accessible for wheelchair users and people with mobility issues'
+published: false
 ---
 Take part in our programme to develop practical skills and build confidence on your way to further learning, training or employment.
