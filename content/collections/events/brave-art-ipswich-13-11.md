@@ -191,5 +191,6 @@ accessibility_information:
     - Disabled parking available
     - Wheelchair accessible
     - Adapted toilet
+published: false
 ---
 Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.

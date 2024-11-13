@@ -177,5 +177,6 @@ town: Stowmarket
 postcode: 'IP14 2BD'
 cost_details: £3
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/stowmarket-folklore-sculptures-2/'
+published: false
 ---
 Alice-Andrea Ewing will be joining us to create individual ceramic sculptures inspired by Folklore.
