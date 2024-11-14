@@ -137,5 +137,6 @@ event_categories:
   - wellbeing
   - music
 booking_link: 'https://theseagull.co.uk/community_events/2924/'
+published: false
 ---
 Musical theathre workshops for adults with learning disabilities.
