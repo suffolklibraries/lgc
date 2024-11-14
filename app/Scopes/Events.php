@@ -3,9 +3,6 @@
 namespace App\Scopes;
 
 use Statamic\Query\Scopes\Scope;
-use Illuminate\Support\Facades\Log;
-use Illuminate\Support\Facades\Http;
-use Illuminate\Support\Facades\Cache;
 
 class Events extends Scope
 {
@@ -28,6 +25,36 @@ class Events extends Scope
             $query->where('virtual', true);
         }
 
+        // Location filtering
+        $hasLat = !empty($values['latitude']);
+        $hasLng = !empty($values['longitude']);
+
+        if ($hasLat && $hasLng && !$isVirtual) {
+            $lat = $hasLat ? $values['latitude'] : 52.058836;
+            $lng = $hasLng ? $values['longitude'] : 1.156518;
+            $radius = !empty($values['radius']) ? $values['radius'] : 99;
+
+            // Convert radius from miles to kilometers
+            $radiusKm = $radius * 1.60934;
+
+            // Calculate min and max latitudes for the bounding box
+            $minLat = $lat - ($radius / 69);
+            $maxLat = $lat + ($radius / 69);
+
+            // Calculate the latitude difference for the bounding box
+            $deltaLon = asin(sin($radiusKm / 6371) / cos(deg2rad($lat)));
+
+            // Calculate min and max longitudes for the bounding box
+            $minLng = $lng - rad2deg($deltaLon);
+            $maxLng = $lng + rad2deg($deltaLon);
+
+            // Filter by latitude and longitude within the bounding box
+            $query->where('latitude', '>=', $minLat)
+                ->where('latitude', '<=', $maxLat)
+                ->where('longitude', '>=', $minLng)
+                ->where('longitude', '<=', $maxLng);
+        }
+
         // Category filtering
         $hasCat = !empty($_GET['category']);
         if ($hasCat) {
@@ -44,84 +71,6 @@ class Events extends Scope
         // Free filtering
         if (!empty($_GET['free'])) {
             $query->where('free', true);
-        }
-
-
-        // Location filtering
-        $hasLat = !empty($values['latitude']);
-        $hasLng = !empty($values['longitude']);
-
-        if ($hasLat && $hasLng && !$isVirtual) {
-            $this->applyLocationFiltering($query, $values, $hasLat, $hasLng);
-        }
-
-    }
-
-    private function applyLocationFiltering($query, $values, $hasLat, $hasLng)
-    {
-        $entries = $query->get()
-            ->filter(function($item) {
-                return $item->latitude && $item->longitude;
-            })
-            ->map(function($entry) {
-                return [
-                    'id' => $entry->id,
-                    'lat' => $entry->latitude,
-                    'lng' => $entry->longitude
-                ];
-            })
-            ->values();
-
-        $lat = $hasLat ? $values['latitude'] : 52.058836;
-        $lng = $hasLng ? $values['longitude'] : 1.156518;
-
-
-        $radius = !empty($values['radius']) ? $values['radius'] : false;
-
-        if($radius) {
-            // Convert radius from miles to meters
-            $radiusInMetres = $radius * 1609.344;
-
-            $cacheKey = "distance_matrix_{$lat}_{$lng}_{$radiusInMetres}_". md5(json_encode($entries));
-
-            $filteredIds =  Cache::remember($cacheKey, now()->addHours(24), function () use ($entries, $lat, $lng, $radiusInMetres) {
-                $destinationChunks = $entries
-                    ->map(function($item) {
-                        return "{$item['lat']},{$item['lng']}";
-                    })
-                    ->chunk(20);
-
-                $results = [];
-
-                $destinationChunks->each(function($chunk, $chunkIndex) use ($lat, $lng, &$results, &$queries) {
-
-                    $destinations = $chunk->implode("|");
-
-                    $response = Http::get(
-                        "https://maps.googleapis.com/maps/api/distancematrix/json",
-                        [
-                            "origins" => "{$lat},{$lng}",
-                            "destinations" => $destinations,
-                            "key" => config("app.google_maps"),
-                            'units' => 'imperial'
-                        ]
-                    );
-
-                    $results = array_merge($results, $response->json()['rows'][0]['elements']);
-                });
-
-                $filteredIds = [];
-
-                foreach($results as $index => $result) {
-                    if($result['distance']['value'] <= round($radiusInMetres)) {
-                        $filteredIds[] = $entries[$index]['id'];
-                    }
-                }
-
-                return $filteredIds;
-            });
-
-            $query->whereIn('id', $filteredIds);
         }
     }
 }
