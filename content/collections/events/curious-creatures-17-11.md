@@ -113,5 +113,6 @@ duplicated_from: 1cbc96c5-a65c-4573-97f8-c176ca166cb0
 attendance_information: 'Family friendly'
 cost_details: '£4 plus booking fee'
 booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-beach-treasure-hunt-animal-handling-session'
+published: false
 ---
 An educational talk and animal handling session.
