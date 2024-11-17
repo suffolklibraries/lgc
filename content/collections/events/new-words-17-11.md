@@ -112,5 +112,6 @@ cta: |-
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730106494
+published: false
 ---
 Bi-monthly performance platform for local poets and songwriters.
