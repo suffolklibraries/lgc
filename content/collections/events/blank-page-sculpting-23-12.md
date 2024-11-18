@@ -1,8 +1,7 @@
 ---
 id: 147789ab-980f-4093-be30-190740eb8a27
-published: false
 blueprint: events
-title: 'Blank Page: Original Character Design Workshop (Duplicated)'
+title: 'Blank Page: Sculpture & Casting Creations Workshop'
 event_categories:
   - family-friendly
   - art
@@ -19,33 +18,73 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Drop-in event'
-latitude: '52.034417883929024'
-longitude: '1.1827043375840662'
-building_name: 'Gainsborough County Library'
-address_line_1: 'Clapgate Lane'
-town: Ipswich
-postcode: 'IP3 0RL'
+latitude: '52.038186464611634'
+longitude: '0.7299956222161745'
+building_name: 'Sudbury Library'
+address_line_1: 'Market Hill'
+town: Sudbury
+postcode: 'CO10 2EN'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Gainsborough Library has on site car parking and the nearest'
+        text: 'Sudbury Library is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Cotman+Road/@52.0347317,1.1796921,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99fea5af611b5:0x4718b94a3008c570!2sGainsborough+Community+Library,+Clapgate+Ln,+Ipswich+IP3+0RL!2m2!1d1.1827311!2d52.0342691!1m6!1m2!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!2sCotman+Road,+Ipswich+IP3+0RG!2m2!1d1.181868!2d52.035336!3e2!3m5!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!8m2!3d52.035336!4d1.181868!16s%2Fg%2F1q67rd9sc?entry=ttu'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
+              rel: null
+              target: null
+              title: null
+        text: 'Suffolk Onboard website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
               rel: null
               target: _blank
               title: null
-        text: ' bus stop'
+        text: 'Greater Anglia website'
       -
         type: text
-        text: ' is a two minute walk away.'
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest paid parking is a seven minute walk away at'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.sudbury-tc.gov.uk/parking'
+              rel: null
+              target: _blank
+              title: null
+        text: ' Sudbury railway station'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -74,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn how to design your own original characters and bring them to life! This workshop is part of '
+        text: 'Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
       -
         type: text
         marks:
@@ -109,7 +148,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Whether this is the first time creating your own character or you already have existing characters, this workshop will support and level up your character designing skills! Eloise will first introduce some character design principles she uses in her own process with examples from animated media and comics. Throughout the day with different character designing activities, taking inspiration from objects, nature, as well as their own passions and interests, participants will explore how to practically incorporate these concepts when creating their original characters.'
+        text: 'This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques.'
   -
     type: paragraph
     attrs:
@@ -117,7 +156,7 @@ content_area:
     content:
       -
         type: text
-        text: 'By the end of the workshop, participants will go home with their character concepts & illustrations for the day, having created their characters and an idea for the world and story they live in.'
+        text: 'Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way.'
   -
     type: paragraph
     attrs:
@@ -127,10 +166,9 @@ content_area:
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
   -
-    type: heading
+    type: paragraph
     attrs:
       textAlign: left
-      level: 3
     content:
       -
         type: text
@@ -152,7 +190,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/3935'
+              href: 'https://eequ.org/experience/8280'
               rel: null
               target: _blank
               title: null
@@ -195,17 +233,16 @@ content_area:
         type: text
         text: .
   -
-    type: heading
+    type: paragraph
     attrs:
       textAlign: left
-      level: 3
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'About Eloise Cookson'
+        text: 'About Emma Denby'
   -
     type: paragraph
     attrs:
@@ -213,15 +250,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Eloise is a local artist who specialises in digital art. Her work takes inspiration from manga, graphic novels, video games and animation as well as alternative fashion communities she is a part of. She takes interest in visual storytelling broadly through character design, environmental storytelling, and creating atmosphere in a piece to convey an emotion or a message.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'As an artist who started drawing digitally from the age of 10, Eloise is also passionate about providing in-person resources and guiding young people interested in digital art and styles inspired by animated media.'
+        text: 'Based in Yorkshire, Emma is a neurodiverse artist specialising in sculpture, painting and installation. Working collaboratively and solo to create socially engaged projects, her practice is motivated by playfulness and celebrates curiosity.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -231,8 +260,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731942799
+updated_at: 1731942929
 duplicated_from: 4a68fe08-c726-4f71-beed-5dc97bf15994
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-sudbury'
 ---
-Join digital artist Eloise Cookson for this free creative workshop for 10-16 year olds.
+Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!
