@@ -1,17 +1,17 @@
 ---
 id: 161b9da5-e5ed-428e-a715-51c2f03eca45
-published: false
 blueprint: events
-title: 'Blank Page: Festive Photos Workshop (Duplicated)'
+title: 'Blank Page: Songwriting & Album Art Workshop'
 event_categories:
   - family-friendly
   - art
   - teen
+  - music
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-30 09:45'
-end_date: '2024-12-30 15:30'
+start_date: '2025-01-03 09:45'
+end_date: '2025-01-03 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -142,7 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Take colourful festive photos then make digital edits before framing your creations. This workshop is part of '
+        text: 'Explore your innate creativity to spontaneously create exciting and unique works or audio and visual art. This workshop is part of '
       -
         type: text
         marks:
@@ -177,23 +177,14 @@ content_area:
     content:
       -
         type: text
-        text: 'Our photography workshop will be in two parts. In part one, we will use the colour and sparkle of this festive time of year to make unusual  ‘close-up’ photographs. We will digitally manipulate those photographs using Pixlr on the iPads to add more colour.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Participants will go on a creative journey, writing and recording a song with Ben and creating the cover art with Catalina. In this workshop we will explore songwriting; rhythm, rhyming and harmony as well as visual arts. Together we will write a song by brainstorming ideas and using a variety of creative techniques and games. - Once created, we will then record the song in the space!'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'In part two, we will use projectors to superimpose our festive photos onto ourselves and our friends and photograph these combinations, to make photo-portraits that really pop!  Each person will frame their favourite image and to take home as wall art.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'If possible, please arrive in a light coloured t-shirt or top.'
+        text: 'We will also cocreate a piece of cover art to accompany the track. The completed tracks will be uploaded to Bandcamp as part of the Blank Page EP which will be downloadable for free (individual participants will not be named).'
   -
     type: paragraph
     attrs:
@@ -279,7 +270,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Gillian Allard'
+        text: 'About Ben Brown and Catalina Carvajal'
   -
     type: paragraph
     attrs:
@@ -287,7 +278,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Gillian Allard (she/her) is a photographic artist based in Suffolk. She has been a freelance photographer since the 90s and specialises in documentary photography. Gillian has been commissioned for a number of projects including photographing Sir Paul McCartney at his recording studio.'
+        text: 'Ben is a social musician and composer based in Manningtree. He is passionate about music making in all settings and with all groups of people. He believes everybody is musical and that anyone can make music with anyone else, and is privileged to be able to facilitate this process; it is a source of unending inspiration and enjoyment.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Catalina is a visual artist with a passion for illustration, murals, storytelling, and colour. She's also passionate about music and has designed a few album covers. You can find her mural work around East Anglia. Catalina enjoys working with digital and mixed media and takes inspiration from drawing in her sketchbooks, listening to music and observing the world. She is originally from Colombia and lived in Mexico before arriving in the UK seven years ago."
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -297,8 +296,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731944625
+updated_at: 1731946100
 duplicated_from: 2d8cccac-1a86-417a-bfbe-9a3acc723b76
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/festive-photos-workshop-with-gillian-allard'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/songwriting-album-art-workshop-bury-st-edmunds'
 ---
-Join photographic artist Gillian Allard for this free creative workshop for 10-16 year olds!
+Join musician Ben Brown and visual artist Catalina Carvajal for this free creative workshop for 10-16 year olds.
