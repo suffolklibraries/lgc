@@ -1,19 +1,19 @@
 ---
 id: 1dfa5c88-631d-4c86-84a4-ac7537069704
-published: false
 blueprint: events
-title: 'Cocoa, Crafts & Christmas Classics Movie Marathon (Duplicated)'
+title: 'Blank Page: Woolly Winter Warmers Workshop'
 event_categories:
   - family-friendly
   - art
+  - teen
 organisers:
   - suffolk-libraries
-featured_image: suffolklibrariesimages/cccc-activity-3x2.png
-start_date: '2024-12-08 10:15'
-end_date: '2024-12-08 15:45'
+featured_image: pelicanpelican-3x2/support.png
+start_date: '2024-12-23 09:45'
+end_date: '2024-12-23 15:30'
 free: true
 virtual: false
-attendance_information: 'Family friendly'
+attendance_information: 'children aged 10 to 16'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -141,34 +141,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Cosy up with loved ones and enjoy an enchanting lineup of holiday classics that are sure to warm your heart. We’ll kick things off with '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'The Polar Express'
-      -
-        type: text
-        text: ', a thrilling animated adventure that will transport you straight to the North Pole. Next, dive into the fun and heartwarming '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Arthur Christmas'
-      -
-        type: text
-        text: ', where Santa’s clumsy son races to save Christmas. Finally, laugh along with the delightful '
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: 'Muppets Christmas Carol'
-      -
-        type: text
-        text: ', a charming twist on the classic tale with all your favourite Muppet characters.'
+        text: 'Learn how to make your own winter warmers using upcycled materials! '
   -
     type: paragraph
     attrs:
@@ -176,19 +149,23 @@ content_area:
     content:
       -
         type: text
-        text: 'While the movies roll, indulge in delicious hot chocolate to keep you warm and toasty. Plus, between screenings, we’ll have festive craft activities that will inspire your Christmas creativity! Whether you want to make your own holiday decorations or create fun keepsakes, these activities are perfect for kids and adults alike.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'This workshop is part of '
       -
         type: text
-        text: 'Bring your festive spirit, comfy blankets, and get ready for a day of holiday cheer that will fill you with the magic of the season. Don’t miss out on this unforgettable family experience!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: 'The Blank Page Project'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -199,9 +176,73 @@ content_area:
         marks:
           -
             type: bold
+        text: 'Workshops take place from 9.45AM to 3.30PM and include a free lunch, drinks and snacks!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "This workshop will build confidence in a range of beginner techniques using yarn and fabrics, no previous knitting experience required. You will learn how to 'finger knit' to make a chunky yarn scarf, then progress onto using a knitting frame and stitching up upcycled fabrics to make simple woolly accessories. There will be the opportunity to try out other ways to customise your winter warmers, such as pom-poms, tassels, and stitching."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'By the end of the day you will have created some winter accessories such as scarves, beanie hats, leg warmers or fingerless mitts. You are welcome to bring old clothing or blankets to upcycle, ideal items include hoodies and fleeces.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ‍
+  -
+    type: heading
+    attrs:
+      textAlign: left
+      level: 3
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'How to book'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Workshops are completely free to attend but must be booked in advance. You can '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://eequ.org/experience/8281'
+              rel: null
+              target: _blank
+              title: null
           -
             type: underline
-        text: 'Run times'
+        text: 'book online via eequ'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -209,7 +250,7 @@ content_area:
     content:
       -
         type: text
-        text: '10:15am - The Polar Express (U)'
+        text: 'If your booking is made within 72 hours of the workshop, we may not be able to accommodate specific dietary requirements. Please get in touch with the library location for the workshop to discuss options. Please note that whilst we welcome all young people, our staff are not specifically SEND trained.'
   -
     type: paragraph
     attrs:
@@ -217,7 +258,35 @@ content_area:
     content:
       -
         type: text
-        text: '12:15pm - Arthur Christmas (U)'
+        text: 'This workshop is for 10-16 year olds only. If you feel your child requires additional support in the form of adult attendance in order to access this workshop, contact us by emailing '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:katie.puls@suffolklibraries.co.uk'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: katie.puls@suffolklibraries.co.uk
+      -
+        type: text
+        text: .
+  -
+    type: heading
+    attrs:
+      textAlign: left
+      level: 3
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'About Clare Sams'
   -
     type: paragraph
     attrs:
@@ -225,7 +294,7 @@ content_area:
     content:
       -
         type: text
-        text: '2:15pm – The Muppets Christmas Carol (PG)'
+        text: 'Clare is a textiles arts practitioner, lecturer and arts educator, and is Suffolk Libraries’ former Environmentalist in Residence. She has a master’s degree in Academic Practice for Art Design and Communication and holds a Guinness World Record for the largest crochet hook.'
   -
     type: paragraph
     attrs:
@@ -233,15 +302,7 @@ content_area:
     content:
       -
         type: text
-        text: "\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Suitable for all ages. This event is a drop-in relaxed screening and will be held in the Cosy Corner on the ground floor of the library.'
+        text: 'As a freelance educator, Clare facilitates creative arts activities for all ages and abilities, using accessible techniques and sustainable materials in a range of cultural, community and educational settings.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -251,7 +312,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730134508
+updated_at: 1731931889
 duplicated_from: f522fe47-08e9-4a04-ae42-631514069a8f
+booking_link: 'https://eequ.org/experience/8281'
 ---
-Take a break and recharge in-between Christmas shopping and join us for a magical Christmas Movie Marathon, perfect for the whole family!
+Join textiles artist Clare Sams for this free creative workshop for 10-16 year olds.
