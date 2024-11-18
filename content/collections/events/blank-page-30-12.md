@@ -8,7 +8,7 @@ event_categories:
   - teen
 organisers:
   - suffolk-libraries
-featured_image: pelicanpelican-3x2/support.png
+featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
 start_date: '2024-12-30 09:45'
 end_date: '2024-12-30 15:30'
 free: true
@@ -306,7 +306,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731931965
+updated_at: 1731942631
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/interactive-fiction-make-your-own-game-with-stacey-rezvan'
 ---
