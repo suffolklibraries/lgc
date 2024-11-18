@@ -1,8 +1,7 @@
 ---
 id: cccda3e2-8ec0-4115-9db9-294fc4251d29
-published: false
 blueprint: events
-title: 'Blank Page: Sculpture & Casting Creations Workshop (Duplicated)'
+title: 'Blank Page: A Year in a Box Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-23 09:45'
-end_date: '2024-12-23 15:30'
+start_date: '2024-12-30 09:45'
+end_date: '2024-12-30 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -114,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
+        text: 'Create and decorate your own memory box for the year ahead with a window for each season. This workshop is part of '
       -
         type: text
         marks:
@@ -123,7 +122,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: _blank
+              target: null
               title: null
           -
             type: underline
@@ -149,7 +148,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques.'
+        text: "During our workshop we'll each create a memory box for the year ahead, decorating the sides with a window on each season. Using collage and paper cut out techniques, we'll create beautiful outdoor scenes. We'll decorate the lid with a decorative numerals '2025.' Inside the box we'll make a reading journal so we can list books we have read and would like to read in 2025. We'll list our new year's resolutions, and then finally write a poem about the year that's gone, or the year ahead (or both if there's time)."
   -
     type: paragraph
     attrs:
@@ -157,7 +156,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way.'
+        text: 'Everyone can take their box home, and will be encouraged to keep it on display to reflect the changing seasons, then use it to store treasures they collect over the year, from pinecones and feathers, to pictures and postcards.'
   -
     type: paragraph
     attrs:
@@ -243,7 +242,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Emma Denby'
+        text: 'About Chris James'
   -
     type: paragraph
     attrs:
@@ -251,7 +250,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Based in Yorkshire, Emma is a neurodiverse artist specialising in sculpture, painting and installation. Working collaboratively and solo to create socially engaged projects, her practice is motivated by playfulness and celebrates curiosity.'
+        text: "Christopher James is a local poet, author, musician and artist. He's won the National Poetry Competition, The Bridport Prize and the Suffolk Poetry Competition. He's also written three Sherlock Holmes novels, including The Adventure of the Ruby Elephants. A Graduate of the MA in Creative Writing at University of East Anglia, he's also written plays, songs, and two musicals. He plays guitar, ukulele and piano, creates paper collage art, and had led many workshops for young people and adults."
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -261,8 +260,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731943595
+updated_at: 1731944412
 duplicated_from: 147789ab-980f-4093-be30-190740eb8a27
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-sudbury'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/a-year-in-a-box-workshop-with-chris-james'
 ---
-Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!
+Join local poet, author and musician Chris James for this free creative workshop for 10-16 year olds!
