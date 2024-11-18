@@ -1,8 +1,7 @@
 ---
 id: ff57a82c-c725-44e6-87a1-7609117e748f
-published: false
 blueprint: events
-title: 'Blank Page: Mosaic Positivity Plaques Workshop (Duplicated)'
+title: 'Blank Page: Unique Handmade Journal Workshop'
 event_categories:
   - family-friendly
   - art
@@ -19,30 +18,30 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.45422020110651'
-longitude: '1.439834952954272'
-building_name: 'Bungay Libary'
-address_line_1: 'Wharton Street'
-town: Bungay
-postcode: 'NR35 1EL'
+latitude: '52.187988733605216'
+longitude: '0.9971791124598641'
+building_name: 'Stowmarket Library'
+address_line_1: 'Milton Road North'
+town: Stowmarket
+postcode: 'IP14 1EX'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Bungay Library is a four minute walk from the '
+        text: 'Stowmarket Library is a one minute walk from the nearest bus stop, and you can find up-to-date times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Wingfield+Street/@52.4533183,1.4374242,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9f172009197c5:0x993943c81f1c157e!2sBungay+Community+Library,+Wharton+Street,+Bungay!2m2!1d1.4398431!2d52.4540823!1m6!1m2!1s0x47d9f16e1796f271:0xa591536df8fa9643!2sWingfield+Street,+Bungay+NR35+1BY!2m2!1d1.440778!2d52.45256!3e2!3m5!1s0x47d9f16e1796f271:0xa591536df8fa9643!8m2!3d52.45256!4d1.440778!16s%2Fg%2F1q67rjjml?entry=ttu'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'nearest bus stop'
+        text: 'Suffolk Onboard website'
       -
         type: text
         text: .
@@ -51,21 +50,55 @@ directions:
     content:
       -
         type: text
-        text: 'The nearest parking is '
+        text: 'Stowmarket railway station is a five minute walk away and you can find times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.apcoa.co.uk/parking-in/bungay/wharton-street-bungay/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/smk'
               rel: null
               target: _blank
               title: null
-        text: 'Wharton Street car park'
+        text: 'Greater Anglia website'
       -
         type: text
-        text: " and it is a minute's walk away."
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are a number of public and supermarket car parks close to the Stowmarket Library. The nearest car park is '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.babergh.gov.uk/web/mid-suffolk/w/union-street-car-park-1'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Union Street Car Park'
+      -
+        type: text
+        text: ', a four minute walk away or at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/meadow_centre/ip14/stowmarket/?arriving=202405291430&leaving=202405291630#google_vignette'
+              rel: null
+              target: _blank
+              title: null
+        text: ASDA
+      -
+        type: text
+        text: ' a five minute walk away.'
   -
     type: paragraph
     content:
@@ -94,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Design and create your own work of art, using a mixture of broken ceramic and glass pieces and other found objects, making a beautiful mosaic relief. This workshop is part of '
+        text: "Learn how to make personalised journals to plan ideas and create a positive mindset for the new year.\_This workshop is part of "
       -
         type: text
         marks:
@@ -129,23 +162,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You will start the day designing your plaque. The idea is to incorporate a quotation or words into the design that encourages a positive attitude going into the New Year. Emma will provide templates of motifs and lettering for you to trace and put together to create your piece promoting positive thinking.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "After this, you will create your mosaic piece using a whole range of colourful media; broken crockery, mirror pieces, coloured glass, tile offcuts, buttons, shells and more. It is a great way to recycle! You can bring along any old, broken ceramic pieces, small shells, odd jewellery items or gems, that you might like to incorporate into your mosaic too. (Remember, these things will be broken up and permanently cemented into your mosaic, so make sure that they are suitable for this purpose; no family heirlooms!) \_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Your work will be taken away at the end of the day to be grouted and polished. It will be delivered back to the library for you to collect at a later date (approx. 2 weeks).'
+        text: 'Through simple step-by-step demonstrations, you will learn the key processes for book-making. Then you will be free to choose papers, lay-outs and designs that reflect your personality. You will take home a carefully crafted journal in which to record your ideas and intentions for 2025 and you can continue to fill it with new plans and schemes in the months to come.'
   -
     type: paragraph
     attrs:
@@ -179,7 +196,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/3939'
+              href: 'https://eequ.org/experience/3923'
               rel: null
               target: _blank
               title: null
@@ -231,7 +248,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Emma Jayne Robertston'
+        text: 'About Hazel Garrity'
   -
     type: paragraph
     attrs:
@@ -239,15 +256,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Emma Jayne Robertson is a ceramic and applied artist and owner of EJaRt Creative at Grange Farm, Hasketon. She has a Masters in Contemporary Applied Arts and her ceramics have been exhibited across the UK. She has been involved in several local projects including the ‘Riverside 100th Birthday Plaque’ in 2015 and the ‘Remembrance Doves’ at Ipswich School, 2018.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Pattern and texture in the natural world are very influential in Emma’s work. Her ceramics also explore the concept of ‘The Contemporary Fossil’; this work reflects on the effect that our throw- away culture will have on the ‘Fossils of our Future’. She loves to share her passion for clay and creativity through teaching workshops, and is a bibliomaniac, with a huge collection of art and craft books.'
+        text: "Hazel's chief enthusiasms have always been words, books and making things. As a secondary school English teacher, she has worked with young people to give them the confidence to be creative with language. Now she wants to explore the possibilities offered by combining words with the traditional craft of constructing books in different forms and expressing ideas in different ways."
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -257,8 +266,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731945458
+updated_at: 1731945565
 duplicated_from: 5b00caf7-afdc-4543-83a0-462db7e30d4c
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/mosaic-positivity-plaques-workshop-bungay'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/unique-handmade-journal-workshop-with-hazel-garrity'
 ---
-Join ceramic artist Emma Jayne Robertson for this free creative workshop for 10-16 year olds!
+Join professional bookbinder Hazel Garrity for this free creative workshop for 10-16 year olds!
