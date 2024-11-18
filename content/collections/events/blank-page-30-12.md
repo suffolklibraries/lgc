@@ -1,8 +1,7 @@
 ---
 id: 8b06b74f-baa5-494a-a487-bdddeaf8d44b
-published: false
 blueprint: events
-title: 'Blank Page: Woolly Winter Warmers Workshop (Duplicated)'
+title: 'Blank Page: Interactive Video Game Fiction Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2024-12-23 09:45'
-end_date: '2024-12-23 15:30'
+start_date: '2024-12-30 09:45'
+end_date: '2024-12-30 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -142,15 +141,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn how to make your own winter warmers using upcycled materials! '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'This workshop is part of '
+        text: 'Create your very own online game using the software Twine. This workshop is part of '
       -
         type: text
         marks:
@@ -159,7 +150,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: null
+              target: _blank
               title: null
           -
             type: underline
@@ -185,7 +176,7 @@ content_area:
     content:
       -
         type: text
-        text: "This workshop will build confidence in a range of beginner techniques using yarn and fabrics, no previous knitting experience required. You will learn how to 'finger knit' to make a chunky yarn scarf, then progress onto using a knitting frame and stitching up upcycled fabrics to make simple woolly accessories. There will be the opportunity to try out other ways to customise your winter warmers, such as pom-poms, tassels, and stitching."
+        text: "Write and code your own story game in one day! This workshop is designed to give young people access to writing script, analysing stories and writing code. \_"
   -
     type: paragraph
     attrs:
@@ -193,7 +184,23 @@ content_area:
     content:
       -
         type: text
-        text: 'By the end of the day you will have created some winter accessories such as scarves, beanie hats, leg warmers or fingerless mitts. You are welcome to bring old clothing or blankets to upcycle, ideal items include hoodies and fleeces.'
+        text: 'The main goal will be to have participants create their very own interactive story which will be published on a public website for all to play. We will use flowcharts and brainstorming techniques to think about our ideas, and then we will use a mixture of creative writing and simple coding to create our game. In this workshop, participants will have the opportunity to create their own solo project or work together in a team.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Interactive fiction, also known as visual novels, are stories that can be read on a computer which are often supported with pictures and music. Most interactive fiction contain choices, which the reader can interact with resulting in the story to change. Interactive fiction is a fantastic opportunity for participants to consider different consequences to choices, as well as a myriad of skills in programming, art and creative writing.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'The skills participants will learn can be easily replicated at home at no cost. Participants will receive materials to further their learning if they wish to.'
   -
     type: paragraph
     attrs:
@@ -202,12 +209,6 @@ content_area:
       -
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ‍
   -
     type: heading
     attrs:
@@ -287,7 +288,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Clare Sams'
+        text: 'About Stacey Rezvan'
   -
     type: paragraph
     attrs:
@@ -295,15 +296,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Clare is a textiles arts practitioner, lecturer and arts educator, and is Suffolk Libraries’ former Environmentalist in Residence. She has a master’s degree in Academic Practice for Art Design and Communication and holds a Guinness World Record for the largest crochet hook.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'As a freelance educator, Clare facilitates creative arts activities for all ages and abilities, using accessible techniques and sustainable materials in a range of cultural, community and educational settings.'
+        text: "Stacey's joint love of gaming and creative writing inspired her to create a workshop, combining the two, on interactive story games. When she's not teaching, Stacey makes games in her spare time and is always finding new things to learn. Recently she's begun performing poetry, flash fiction and short stories at local open mic nights, and dreams of one day publishing her own poetry collection."
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -313,8 +306,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731931889
+updated_at: 1731931965
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
-booking_link: 'https://eequ.org/experience/8281'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/interactive-fiction-make-your-own-game-with-stacey-rezvan'
 ---
-Join textiles artist Clare Sams for this free creative workshop for 10-16 year olds.
+Join game creator Stacey Rezvan for this free creative workshop for 10-16 year olds
