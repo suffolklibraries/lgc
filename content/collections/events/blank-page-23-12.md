@@ -16,8 +16,8 @@ virtual: false
 attendance_information: 'children aged 10 to 16'
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
 building_name: 'Ipswich County Library'
@@ -312,7 +312,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731942620
+updated_at: 1731943573
 duplicated_from: f522fe47-08e9-4a04-ae42-631514069a8f
 booking_link: 'https://eequ.org/experience/8281'
 ---
