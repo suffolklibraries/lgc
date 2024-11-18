@@ -1,8 +1,7 @@
 ---
 id: 7345b087-2b96-497f-b355-ed065e73b6ba
-published: false
 blueprint: events
-title: 'Blank Page: Sculpture & Casting Creations Workshop (Duplicated)'
+title: 'Blank Page: Design, Print, Repeat Workshop'
 event_categories:
   - family-friendly
   - art
@@ -19,30 +18,78 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Drop-in event'
-latitude: '52.038186464611634'
-longitude: '0.7299956222161745'
-building_name: 'Sudbury Library'
-address_line_1: 'Market Hill'
-town: Sudbury
-postcode: 'CO10 2EN'
+latitude: '52.47693008464241'
+longitude: '1.7503664745347964'
+building_name: 'Lowestoft Library'
+address_line_1: 'Clapham Road South'
+town: Lowestoft
+postcode: 'NR32 1DR'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Sudbury Library is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Lowestoft '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'railway station'
+      -
+        type: text
+        text: ' is a seven minute walk away, and the'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Lowestoft+bus+station/@52.4770576,1.7497725,18z/data=!4m24!1m15!4m14!1m6!1m2!1s0x47da1af4dc6a0171:0xa9d78eb97007c720!2sLowestoft+Library!2m2!1d1.7503366!2d52.4768238!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+bus+station,+Lowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3m7!1s0x47da1af56d372b2b:0x7065be204d63f941!6m1!1v5!8m2!3d52.4773506!4d1.7519173!16s%2Fg%2F1q67mdqrk?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: ' bus station'
+      -
+        type: text
+        text: ' is a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is a one minute walk away at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/clapham_road/nr32/east_suffolk/?arriving=202404111030&leaving=202404111230'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Clapham Road car park'
+      -
+        type: text
+        text: ' or a three minute walk away at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://brittencentre.co.uk/getting-here/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Britten Centre'
       -
         type: text
         text: .
@@ -51,41 +98,18 @@ directions:
     content:
       -
         type: text
-        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
+        text: 'Find accessibility information for '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
+              href: 'https://www.accessable.co.uk/venues/lowestoft-library#224575f8-3516-404e-b08b-2b948939e7ad'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest paid parking is a seven minute walk away at'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.sudbury-tc.gov.uk/parking'
-              rel: null
-              target: _blank
-              title: null
-        text: ' Sudbury railway station'
-      -
-        type: text
-        text: .
+        text: 'Lowestoft Library using AccessAble.'
   -
     type: paragraph
     content:
@@ -114,7 +138,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
+        text: 'Design and carve your own printing block and create exciting repeat patterns you can print on paper and fabric. This workshop is part of '
       -
         type: text
         marks:
@@ -123,7 +147,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: _blank
+              target: null
               title: null
           -
             type: underline
@@ -149,7 +173,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques.'
+        text: "In this workshop we will be exploring the traditional craft of block printing using the technique of lino cutting. Each student will begin by drawing and creating their own repeat designs ready to transfer to the lino. They will carve blocks using the tools and make repeat patterns that can be printed onto fabric and paper. \_"
   -
     type: paragraph
     attrs:
@@ -157,7 +181,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way.'
+        text: 'Please feel free to bring in any old t-shirts/fabrics or items of your own form home that you might like to upcycle. Come and have a fun and busy day of printing!'
   -
     type: paragraph
     attrs:
@@ -191,7 +215,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/8280'
+              href: 'https://eequ.org/experience/3919'
               rel: null
               target: _blank
               title: null
@@ -243,7 +267,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Emma Denby'
+        text: 'About Holly Scholfield'
   -
     type: paragraph
     attrs:
@@ -251,7 +275,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Based in Yorkshire, Emma is a neurodiverse artist specialising in sculpture, painting and installation. Working collaboratively and solo to create socially engaged projects, her practice is motivated by playfulness and celebrates curiosity.'
+        text: "Holly Scholfield is a freelance artist, designer and teacher. Her expertise lies printmaking, drawing and textiles, with a particular interest in pattern and chaos. A love of drawing in museums and the natural world inspires new work. Through historical research, she makes intensely coloured work that is quietly feminist, rooted in both the past and the present. \_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Holly trained at Central St Martins in Fine Art and then completed an MA at NUA specialising in print and textiles. She regularly exhibits her work, has shown in the Royal Academy Summer Exhibition and illustrates for publications.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -261,8 +293,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731942929
+updated_at: 1731943242
 duplicated_from: 147789ab-980f-4093-be30-190740eb8a27
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-sudbury'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/design-print-repeat-workshop-with-holly-scholfield'
 ---
 Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!
