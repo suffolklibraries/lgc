@@ -16,8 +16,8 @@ virtual: false
 attendance_information: 'children aged 10 to 16'
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
 building_name: 'Lowestoft Library'
@@ -293,7 +293,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731943242
+updated_at: 1731943602
 duplicated_from: 147789ab-980f-4093-be30-190740eb8a27
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/design-print-repeat-workshop-with-holly-scholfield'
 ---
