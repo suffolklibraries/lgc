@@ -1,8 +1,7 @@
 ---
 id: ea14d852-5073-45c2-966c-7f625ba43bdc
-published: false
 blueprint: events
-title: 'Blank Page: Unique Handmade Journal Workshop (Duplicated)'
+title: 'Blank Page: Sculpture & Casting Creations Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2025-01-02 09:45'
-end_date: '2025-01-02 15:30'
+start_date: '2025-01-03 09:45'
+end_date: '2025-01-03 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -128,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: "Learn how to make personalised journals to plan ideas and create a positive mindset for the new year.\_This workshop is part of "
+        text: 'Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
       -
         type: text
         marks:
@@ -137,7 +136,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: null
+              target: _blank
               title: null
           -
             type: underline
@@ -163,7 +162,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Through simple step-by-step demonstrations, you will learn the key processes for book-making. Then you will be free to choose papers, lay-outs and designs that reflect your personality. You will take home a carefully crafted journal in which to record your ideas and intentions for 2025 and you can continue to fill it with new plans and schemes in the months to come.'
+        text: 'This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way.'
   -
     type: paragraph
     attrs:
@@ -249,7 +256,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Hazel Garrity'
+        text: 'About Emma Denby'
   -
     type: paragraph
     attrs:
@@ -257,7 +264,7 @@ content_area:
     content:
       -
         type: text
-        text: "Hazel's chief enthusiasms have always been words, books and making things. As a secondary school English teacher, she has worked with young people to give them the confidence to be creative with language. Now she wants to explore the possibilities offered by combining words with the traditional craft of constructing books in different forms and expressing ideas in different ways."
+        text: 'Based in Yorkshire, Emma is a neurodiverse artist specialising in sculpture, painting and installation. Working collaboratively and solo to create socially engaged projects, her practice is motivated by playfulness and celebrates curiosity.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -267,8 +274,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731945565
+updated_at: 1731945630
 duplicated_from: ff57a82c-c725-44e6-87a1-7609117e748f
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/unique-handmade-journal-workshop-with-hazel-garrity'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-stowmarket'
 ---
-Join professional bookbinder Hazel Garrity for this free creative workshop for 10-16 year olds!
+Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!
