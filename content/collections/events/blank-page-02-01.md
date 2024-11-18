@@ -1,17 +1,17 @@
 ---
 id: 322a4411-3562-479f-a9e9-293410a71abb
-published: false
 blueprint: events
-title: 'Blank Page: Interactive Video Game Fiction Workshop (Duplicated)'
+title: 'Blank Page: Lights! Camera! Action! Filmmaking Workshop'
 event_categories:
   - family-friendly
   - art
   - teen
+  - film
 organisers:
   - suffolk-libraries
 featured_image: pelicanpelican-3x2/support.png
 start_date: '2024-12-30 09:45'
-end_date: '2024-12-30 15:30'
+end_date: '2025-01-02 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -142,7 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Create your very own online game using the software Twine. This workshop is part of '
+        text: 'Create, shoot, edit and screen your very own movie trailer! This workshop is part of '
       -
         type: text
         marks:
@@ -177,31 +177,7 @@ content_area:
     content:
       -
         type: text
-        text: "Write and code your own story game in one day! This workshop is designed to give young people access to writing script, analysing stories and writing code. \_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The main goal will be to have participants create their very own interactive story which will be published on a public website for all to play. We will use flowcharts and brainstorming techniques to think about our ideas, and then we will use a mixture of creative writing and simple coding to create our game. In this workshop, participants will have the opportunity to create their own solo project or work together in a team.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Interactive fiction, also known as visual novels, are stories that can be read on a computer which are often supported with pictures and music. Most interactive fiction contain choices, which the reader can interact with resulting in the story to change. Interactive fiction is a fantastic opportunity for participants to consider different consequences to choices, as well as a myriad of skills in programming, art and creative writing.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The skills participants will learn can be easily replicated at home at no cost. Participants will receive materials to further their learning if they wish to.'
+        text: 'Come along to this fun and accessible workshop exploring the key elements of storytelling through filmmaking. In this hands on workshop you will play with lighting, sound, animation, acting, editing and much more!'
   -
     type: paragraph
     attrs:
@@ -210,6 +186,12 @@ content_area:
       -
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ‍
   -
     type: heading
     attrs:
@@ -289,7 +271,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Stacey Rezvan'
+        text: 'About Kirsty Tallent'
   -
     type: paragraph
     attrs:
@@ -297,7 +279,7 @@ content_area:
     content:
       -
         type: text
-        text: "Stacey's joint love of gaming and creative writing inspired her to create a workshop, combining the two, on interactive story games. When she's not teaching, Stacey makes games in her spare time and is always finding new things to learn. Recently she's begun performing poetry, flash fiction and short stories at local open mic nights, and dreams of one day publishing her own poetry collection."
+        text: "Kirsty (she/her) is a multi-sensory theatre maker and facilitator born and bred in Ipswich. Kirsty specialises in creating accessible work which is enjoyable and accessible for young people with disabilities and additional needs. Kirsty has worked in the past as Suffolk Libraries' Storyteller in Residence."
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -307,8 +289,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731931965
+updated_at: 1731932070
 duplicated_from: 8b06b74f-baa5-494a-a487-bdddeaf8d44b
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/interactive-fiction-make-your-own-game-with-stacey-rezvan'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/lights-camera-action-filmmaking-workshop-with-kirsty-tallent'
 ---
-Join game creator Stacey Rezvan for this free creative workshop for 10-16 year olds
+Join storyteller Kirsty Tallent for this free creative workshop for 10-16 year olds.
