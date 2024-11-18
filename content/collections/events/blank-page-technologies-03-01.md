@@ -1,8 +1,7 @@
 ---
 id: 8a7be2ee-f633-4902-9065-28fd114d3a1d
-published: false
 blueprint: events
-title: 'Blank Page: Future Animators: 2D Stop Frame Animation Workshop (Duplicated)'
+title: 'Blank Page: Creative Technologies Workshop'
 event_categories:
   - family-friendly
   - art
@@ -19,33 +18,33 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '51.963591029049454'
-longitude: '1.3506722105946423'
-building_name: 'Felixstowe Library'
-address_line_1: 'Crescent Road'
-town: Felixstowe
-postcode: 'IP11 7BY'
+latitude: '52.34518367493906'
+longitude: '1.5019647124699333'
+building_name: 'Halesworth Library'
+address_line_1: 'Bridge Street'
+town: Halesworth
+postcode: 'IP19 8AD'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The '
+        text: The
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Leopold+Road/@51.9634239,1.3477699,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9777cff0cc81f:0x9f3860b27bec7c07!2sLeopold+Road,+Felixstowe+IP11+7PD!2m2!1d1.3499852!2d51.9633712!1m6!1m2!1s0x47d9777da813e84b:0x18914f6ca1566d3b!2sFelixstowe+Library,+Crescent+Rd,+Felixstowe+IP11+7BY!2m2!1d1.3506955!2d51.9634387!3e2!3m5!1s0x47d9777cff0cc81f:0x9f3860b27bec7c07!8m2!3d51.9633712!4d1.3499852!16s%2Fg%2F1q67g9s_l?entry=ttu'
+              href: 'https://www.google.com/maps/dir/Halesworth+Library,+Bridge+Street,+Halesworth/Car+Park,+Halesworth+IP19+8BF/@52.3449212,1.5000528,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2m2!1d1.5019204!2d52.3450274!1m5!1m1!1s0x47d98b31303c7f8f:0xbf54f01bf856cf9f!2m2!1d1.5032912!2d52.3445208!3e2?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'closest bus stop '
+        text: ' closest bus stop '
       -
         type: text
-        text: "is a minute's walk away, and you can find the latest bus timetables on the "
+        text: 'is a two minute walk away, and you can find the latest bus timetables on the '
       -
         type: text
         marks:
@@ -72,27 +71,27 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.eastsuffolk.gov.uk/visitors/parking-services/car-parks/'
+              href: 'https://www.google.com/maps/place/Halesworth+Thoroughfare+Car+Park/@52.3445643,1.5001719,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2sHalesworth+Library,+Bridge+Street,+Halesworth!2m2!1d1.5019204!2d52.3450274!1m6!1m2!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!2sHalesworth+Thoroughfare+Car+Park,+Thoroughfare,+Halesworth+IP19+8AH!2m2!1d1.5028642!2d52.344223!3e2!3m5!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!8m2!3d52.344223!4d1.5028642!16s%2Fg%2F11d_8gq5bl?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'Crescent Road car park'
+        text: 'Thoroughfare car park'
       -
         type: text
-        text: " and is a minute's walk away."
+        text: ' and is a two minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Felixstowe Railway Station is a 10 minute walk away and can find train times on the '
+        text: 'Halesworth Railway Station is a six minute walk away and can find train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/has'
               rel: null
               target: _blank
               title: null
@@ -128,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join artist Lulu Horsfield for this free creative workshop for 10-16 year olds and learn how to create your own 2D stop frame animation. This workshop is part of '
+        text: 'Get hands-on with creative technology and crafting to explore what makes you uniquely you! This workshop is part of '
       -
         type: text
         marks:
@@ -163,15 +162,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This one day workshop will introduce future animators to 2D stop frame animation using their own ideas, artwork and storytelling skills.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'We will be encouraging participants to tell their own stories through moving image, by exploring 2D methods of animation using iPad technology. Participants will have the opportunity to create their own art work in different ways and learn how to work with stop frame animation techniques to make their own short film. The film will be sent home afterwards to showcase!'
+        text: 'Explore identity with creative technologies and crafting in this one day workshop. We’ll dive into what makes you uniquely you by experimenting with creative technologies and sensory materials. You’ll use a blend of drawing, collage, sound-making, and interactive tools to create multi-sensory collages that reflect your identity. As we collaborate, we’ll join our creations together, building a sensory sculpture that shares a story of our collective identity.'
   -
     type: paragraph
     attrs:
@@ -205,16 +196,13 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/6767'
+              href: 'https://eequ.org/experience/3941'
               rel: null
               target: _blank
               title: null
           -
             type: underline
-        text: 'book online via eequ'
-      -
-        type: text
-        text: .
+        text: 'book online via eequ.'
   -
     type: paragraph
     attrs:
@@ -257,7 +245,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Lulu Horsfield'
+        text: 'About Natalie Whitney'
   -
     type: paragraph
     attrs:
@@ -265,7 +253,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lulu is the Creative Director at local community arts organisation Rock Paper Scissors. She has been teaching Art and Design to all ages for over 20 years and worked as a Graphic Designer and Illustrator across different contexts such as Fashion, Textiles, Editorial, Music and Film. Lulu sold her illustrated fashion label through the House of Fraser and showcased a film she made with her husband at Tate Britain. Although her biggest project to date has been growing Rock Paper Scissors from seed with her amazing team, Lulu continues to lovingly work with paper, print and pattern. Sometimes these creations become textile designs, illustrations, moving images, typography, and sometimes they exist only in her favourite place to be, her sketchbook. Lulu is passionate about working with young people, providing a creative and inclusive space for all to shine.'
+        text: 'Nat is an audio-visual participatory artist working with creative technologies to construct interactive, sensory objects and spaces that invite curiosity and play. They believe play and co-creative spaces are incredibly important and that creative technologies are powerful tools for inquiry, learning and collaboration. They have facilitated spaces using creative technologies in playful ways with artists, students, families and early years across the East. Previously having worked for Collusion, Nat is currently an Associate Artist of Magic Acorns and co-produces the arts platform Young Artists in Suffolk, focusing on facilitating accessible creative space and supporting communities of emerging artists.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -275,8 +263,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731946218
+updated_at: 1731946506
 duplicated_from: 34035898-51e9-4fe1-abf6-cd304a4498bd
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/lulu-horsfield---future-animators-club-2d-stop-frame-animation'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/sonic-self-exploring-identity-with-creative-technologies-and-crafting-with-natalie-whitney'
 ---
-Join artist Lulu Horsfield for this free creative workshop for 10-16 year olds.
+Join artist Natalie Whitney for this free creative workshop for 10-16 year olds.
