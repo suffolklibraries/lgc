@@ -1,8 +1,7 @@
 ---
 id: 5b00caf7-afdc-4543-83a0-462db7e30d4c
-published: false
 blueprint: events
-title: 'Blank Page: Digital Billboards Workshop (Duplicated)'
+title: 'Blank Page: Mosaic Positivity Plaques Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-31 09:45'
-end_date: '2024-12-31 15:30'
+start_date: '2025-01-02 09:45'
+end_date: '2025-01-02 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -19,30 +18,30 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.038186464611634'
-longitude: '0.7299956222161745'
-building_name: 'Sudbury Library'
-address_line_1: 'Market Hill'
-town: Sudbury
-postcode: 'CO10 2EN'
+latitude: '52.45422020110651'
+longitude: '1.439834952954272'
+building_name: 'Bungay Libary'
+address_line_1: 'Wharton Street'
+town: Bungay
+postcode: 'NR35 1EL'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Sudbury Library is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Bungay Library is a four minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
+              href: 'https://www.google.com/maps/place/Wingfield+Street/@52.4533183,1.4374242,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9f172009197c5:0x993943c81f1c157e!2sBungay+Community+Library,+Wharton+Street,+Bungay!2m2!1d1.4398431!2d52.4540823!1m6!1m2!1s0x47d9f16e1796f271:0xa591536df8fa9643!2sWingfield+Street,+Bungay+NR35+1BY!2m2!1d1.440778!2d52.45256!3e2!3m5!1s0x47d9f16e1796f271:0xa591536df8fa9643!8m2!3d52.45256!4d1.440778!16s%2Fg%2F1q67rjjml?entry=ttu'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'nearest bus stop'
       -
         type: text
         text: .
@@ -51,41 +50,21 @@ directions:
     content:
       -
         type: text
-        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
+        text: 'The nearest parking is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
+              href: 'https://www.apcoa.co.uk/parking-in/bungay/wharton-street-bungay/'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: 'Wharton Street car park'
       -
         type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest paid parking is a seven minute walk away at'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.sudbury-tc.gov.uk/parking'
-              rel: null
-              target: _blank
-              title: null
-        text: ' Sudbury railway station'
-      -
-        type: text
-        text: .
+        text: " and it is a minute's walk away."
   -
     type: paragraph
     content:
@@ -114,7 +93,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Create your own digital billboard using text, collage materials and visual mixing techniques! This workshop is part of '
+        text: 'Design and create your own work of art, using a mixture of broken ceramic and glass pieces and other found objects, making a beautiful mosaic relief. This workshop is part of '
       -
         type: text
         marks:
@@ -123,7 +102,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: _blank
+              target: null
               title: null
           -
             type: underline
@@ -149,7 +128,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Through a hands-on process of building up a colourful collage using images, text, acrylic markers and collage papers you will create a design for your billboard that can be re-mixed and added to in Procreate on the iPad (supplied for use in the workshop). Your digital design will be uploaded into a mock-up app so that you can see your work displayed, in its full creative glory, in its street location (think bus stop display or large-scale advertising hoarding).'
+        text: 'You will start the day designing your plaque. The idea is to incorporate a quotation or words into the design that encourages a positive attitude going into the New Year. Emma will provide templates of motifs and lettering for you to trace and put together to create your piece promoting positive thinking.'
   -
     type: paragraph
     attrs:
@@ -157,7 +136,15 @@ content_area:
     content:
       -
         type: text
-        text: 'You can expect to come away from the day with skills in digital mixing, editing and an experience of working with layers and layer masks but, if you prefer just to collage, that is awesome too. You will still be able to create your own digital billboard! The session will include a playful exploration of words and text so that, if you like, you can get your message out there along with your awesome creativity via your billboard. Your digital designs will be shared digitally after the workshop and an A4 printed copy of your digital billboard will be given to you to take home.'
+        text: "After this, you will create your mosaic piece using a whole range of colourful media; broken crockery, mirror pieces, coloured glass, tile offcuts, buttons, shells and more. It is a great way to recycle! You can bring along any old, broken ceramic pieces, small shells, odd jewellery items or gems, that you might like to incorporate into your mosaic too. (Remember, these things will be broken up and permanently cemented into your mosaic, so make sure that they are suitable for this purpose; no family heirlooms!) \_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Your work will be taken away at the end of the day to be grouted and polished. It will be delivered back to the library for you to collect at a later date (approx. 2 weeks).'
   -
     type: paragraph
     attrs:
@@ -166,12 +153,6 @@ content_area:
       -
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ‍
   -
     type: paragraph
     attrs:
@@ -197,13 +178,13 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/8280'
+              href: 'https://eequ.org/experience/3939'
               rel: null
               target: _blank
               title: null
           -
             type: underline
-        text: 'book online via equ'
+        text: 'book online via eequ'
       -
         type: text
         text: .
@@ -249,7 +230,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Michelle Brace'
+        text: 'About Emma Jayne Robertston'
   -
     type: paragraph
     attrs:
@@ -257,7 +238,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Michelle Brace is a digital and media artist who uses moving image, natural materials, collage, mark making, text and photographic textures to build colourful visual compositions for digital media platforms and live projection. Michelle has a wealth of experience as a creative project producer, engagement coordinator and facilitator with regional arts organisations, and holds a degree in Arts Practice & the Community from Middlesex University. Her work continues to have a community focus with a current emphasis on developing her creative practice to support mental health and wellbeing.'
+        text: 'Emma Jayne Robertson is a ceramic and applied artist and owner of EJaRt Creative at Grange Farm, Hasketon. She has a Masters in Contemporary Applied Arts and her ceramics have been exhibited across the UK. She has been involved in several local projects including the ‘Riverside 100th Birthday Plaque’ in 2015 and the ‘Remembrance Doves’ at Ipswich School, 2018.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Pattern and texture in the natural world are very influential in Emma’s work. Her ceramics also explore the concept of ‘The Contemporary Fossil’; this work reflects on the effect that our throw- away culture will have on the ‘Fossils of our Future’. She loves to share her passion for clay and creativity through teaching workshops, and is a bibliomaniac, with a huge collection of art and craft books.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -267,8 +256,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731945095
+updated_at: 1731945458
 duplicated_from: f55e75fa-d305-4634-8c7c-7f84b3dbb74f
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-sudbury'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/mosaic-positivity-plaques-workshop-bungay'
 ---
-Join digital artist Michelle Brace for this free creative workshop for 10-16 year olds.
+Join ceramic artist Emma Jayne Robertson for this free creative workshop for 10-16 year olds!
