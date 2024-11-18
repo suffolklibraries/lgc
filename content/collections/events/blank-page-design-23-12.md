@@ -1,18 +1,16 @@
 ---
 id: 4a68fe08-c726-4f71-beed-5dc97bf15994
-published: false
 blueprint: events
-title: 'Blank Page: Lights! Camera! Action! Filmmaking Workshop (Duplicated)'
+title: 'Blank Page: Original Character Design Workshop'
 event_categories:
   - family-friendly
   - art
   - teen
-  - film
 organisers:
   - suffolk-libraries
-featured_image: pelicanpelican-3x2/support.png
-start_date: '2024-12-30 09:45'
-end_date: '2025-01-02 15:30'
+featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
+start_date: '2024-12-23 09:45'
+end_date: '2024-12-23 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -20,101 +18,33 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Drop-in event'
-latitude: '52.05888302273206'
-longitude: '1.1563992273587602'
-building_name: 'Ipswich County Library'
-address_line_1: 'Northgate Street'
+latitude: '52.034417883929024'
+longitude: '1.1827043375840662'
+building_name: 'Gainsborough County Library'
+address_line_1: 'Clapgate Lane'
 town: Ipswich
-postcode: 'IP1 3DE'
+postcode: 'IP3 0RL'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ipswich '
+        text: 'Gainsborough Library has on site car parking and the nearest'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
+              href: 'https://www.google.com/maps/place/Cotman+Road/@52.0347317,1.1796921,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99fea5af611b5:0x4718b94a3008c570!2sGainsborough+Community+Library,+Clapgate+Ln,+Ipswich+IP3+0RL!2m2!1d1.1827311!2d52.0342691!1m6!1m2!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!2sCotman+Road,+Ipswich+IP3+0RG!2m2!1d1.181868!2d52.035336!3e2!3m5!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!8m2!3d52.035336!4d1.181868!16s%2Fg%2F1q67rd9sc?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'railway station'
+        text: ' bus stop'
       -
         type: text
-        text: ' is a 21 minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Tower Ramparts bus station'
-      -
-        type: text
-        text: ' is a three minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are several nearby carparks, including '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Crown Street car park'
-      -
-        type: text
-        text: ' a six minute walk away and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.buttermarketipswich.com/Parking/'
-              rel: null
-              target: _blank
-              title: null
-        text: Buttermarket
-      -
-        type: text
-        text: ' a seven minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Ipswich County Library using AccessAble'
-      -
-        type: text
-        text: .
+        text: ' is a two minute walk away.'
   -
     type: paragraph
     content:
@@ -143,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Create, shoot, edit and screen your very own movie trailer! This workshop is part of '
+        text: 'Learn how to design your own original characters and bring them to life! This workshop is part of '
       -
         type: text
         marks:
@@ -178,7 +108,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along to this fun and accessible workshop exploring the key elements of storytelling through filmmaking. In this hands on workshop you will play with lighting, sound, animation, acting, editing and much more!'
+        text: 'Whether this is the first time creating your own character or you already have existing characters, this workshop will support and level up your character designing skills! Eloise will first introduce some character design principles she uses in her own process with examples from animated media and comics. Throughout the day with different character designing activities, taking inspiration from objects, nature, as well as their own passions and interests, participants will explore how to practically incorporate these concepts when creating their original characters.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'By the end of the workshop, participants will go home with their character concepts & illustrations for the day, having created their characters and an idea for the world and story they live in.'
   -
     type: paragraph
     attrs:
@@ -187,12 +125,6 @@ content_area:
       -
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ‍
   -
     type: heading
     attrs:
@@ -219,7 +151,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/8281'
+              href: 'https://eequ.org/experience/3935'
               rel: null
               target: _blank
               title: null
@@ -272,7 +204,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Kirsty Tallent'
+        text: 'About Eloise Cookson'
   -
     type: paragraph
     attrs:
@@ -280,7 +212,15 @@ content_area:
     content:
       -
         type: text
-        text: "Kirsty (she/her) is a multi-sensory theatre maker and facilitator born and bred in Ipswich. Kirsty specialises in creating accessible work which is enjoyable and accessible for young people with disabilities and additional needs. Kirsty has worked in the past as Suffolk Libraries' Storyteller in Residence."
+        text: 'Eloise is a local artist who specialises in digital art. Her work takes inspiration from manga, graphic novels, video games and animation as well as alternative fashion communities she is a part of. She takes interest in visual storytelling broadly through character design, environmental storytelling, and creating atmosphere in a piece to convey an emotion or a message.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'As an artist who started drawing digitally from the age of 10, Eloise is also passionate about providing in-person resources and guiding young people interested in digital art and styles inspired by animated media.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -290,8 +230,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731932070
+updated_at: 1731942799
 duplicated_from: 322a4411-3562-479f-a9e9-293410a71abb
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/lights-camera-action-filmmaking-workshop-with-kirsty-tallent'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
 ---
-Join storyteller Kirsty Tallent for this free creative workshop for 10-16 year olds.
+Join digital artist Eloise Cookson for this free creative workshop for 10-16 year olds.
