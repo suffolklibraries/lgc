@@ -1,13 +1,11 @@
 ---
 id: 34035898-51e9-4fe1-abf6-cd304a4498bd
-published: false
 blueprint: events
-title: 'Blank Page: Songwriting & Album Art Workshop (Duplicated)'
+title: 'Blank Page: Future Animators: 2D Stop Frame Animation Workshop'
 event_categories:
   - family-friendly
   - art
   - teen
-  - music
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
@@ -20,44 +18,44 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.248150770555625'
-longitude: '0.7114614702830845'
-building_name: 'Bury St Edmunds Library'
-address_line_1: "2B St Andrew's Street North"
-town: 'Bury Saint Edmunds'
-postcode: 'IP33 1TZ'
+latitude: '51.963591029049454'
+longitude: '1.3506722105946423'
+building_name: 'Felixstowe Library'
+address_line_1: 'Crescent Road'
+town: Felixstowe
+postcode: 'IP11 7BY'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
+              href: 'https://www.google.com/maps/place/Leopold+Road/@51.9634239,1.3477699,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9777cff0cc81f:0x9f3860b27bec7c07!2sLeopold+Road,+Felixstowe+IP11+7PD!2m2!1d1.3499852!2d51.9633712!1m6!1m2!1s0x47d9777da813e84b:0x18914f6ca1566d3b!2sFelixstowe+Library,+Crescent+Rd,+Felixstowe+IP11+7BY!2m2!1d1.3506955!2d51.9634387!3e2!3m5!1s0x47d9777cff0cc81f:0x9f3860b27bec7c07!8m2!3d51.9633712!4d1.3499852!16s%2Fg%2F1q67g9s_l?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'closest bus stop '
+      -
+        type: text
+        text: "is a minute's walk away, and you can find the latest bus timetables on the "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
               rel: null
               target: _blank
               title: null
         text: 'Suffolk Onboard website'
-      -
-        type: text
-        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
       -
         type: text
         text: .
@@ -66,55 +64,41 @@ directions:
     content:
       -
         type: text
-        text: 'There is car parking at the '
+        text: 'The nearest car park is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              href: 'https://www.eastsuffolk.gov.uk/visitors/parking-services/car-parks/'
               rel: null
               target: _blank
               title: null
-        text: 'Arc shopping centre'
+        text: 'Crescent Road car park'
       -
         type: text
-        text: ', which a six minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'St Andrews Flexi-Stay car park'
-      -
-        type: text
-        text: ', which is a five minute walk.'
+        text: " and is a minute's walk away."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Find accessibility information for Bury St Edmunds Library on '
+        text: 'Felixstowe Railway Station is a 10 minute walk away and can find train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
               rel: null
               target: _blank
               title: null
-        text: AccessAble
+        text: 'Greater Anglia website'
       -
         type: text
-        text: '. '
+        text: .
   -
     type: paragraph
     content:
@@ -143,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore your innate creativity to spontaneously create exciting and unique works or audio and visual art. This workshop is part of '
+        text: 'Join artist Lulu Horsfield for this free creative workshop for 10-16 year olds and learn how to create your own 2D stop frame animation. This workshop is part of '
       -
         type: text
         marks:
@@ -152,7 +136,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: null
+              target: _blank
               title: null
           -
             type: underline
@@ -178,14 +162,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Participants will go on a creative journey, writing and recording a song with Ben and creating the cover art with Catalina. In this workshop we will explore songwriting; rhythm, rhyming and harmony as well as visual arts. Together we will write a song by brainstorming ideas and using a variety of creative techniques and games. - Once created, we will then record the song in the space!'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'This one day workshop will introduce future animators to 2D stop frame animation using their own ideas, artwork and storytelling skills.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: 'We will also cocreate a piece of cover art to accompany the track. The completed tracks will be uploaded to Bandcamp as part of the Blank Page EP which will be downloadable for free (individual participants will not be named).'
+        text: 'We will be encouraging participants to tell their own stories through moving image, by exploring 2D methods of animation using iPad technology. Participants will have the opportunity to create their own art work in different ways and learn how to work with stop frame animation techniques to make their own short film. The film will be sent home afterwards to showcase!'
   -
     type: paragraph
     attrs:
@@ -219,7 +204,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/6766'
+              href: 'https://eequ.org/experience/6767'
               rel: null
               target: _blank
               title: null
@@ -271,7 +256,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Ben Brown and Catalina Carvajal'
+        text: 'About Lulu Horsfield'
   -
     type: paragraph
     attrs:
@@ -279,15 +264,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Ben is a social musician and composer based in Manningtree. He is passionate about music making in all settings and with all groups of people. He believes everybody is musical and that anyone can make music with anyone else, and is privileged to be able to facilitate this process; it is a source of unending inspiration and enjoyment.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Catalina is a visual artist with a passion for illustration, murals, storytelling, and colour. She's also passionate about music and has designed a few album covers. You can find her mural work around East Anglia. Catalina enjoys working with digital and mixed media and takes inspiration from drawing in her sketchbooks, listening to music and observing the world. She is originally from Colombia and lived in Mexico before arriving in the UK seven years ago."
+        text: 'Lulu is the Creative Director at local community arts organisation Rock Paper Scissors. She has been teaching Art and Design to all ages for over 20 years and worked as a Graphic Designer and Illustrator across different contexts such as Fashion, Textiles, Editorial, Music and Film. Lulu sold her illustrated fashion label through the House of Fraser and showcased a film she made with her husband at Tate Britain. Although her biggest project to date has been growing Rock Paper Scissors from seed with her amazing team, Lulu continues to lovingly work with paper, print and pattern. Sometimes these creations become textile designs, illustrations, moving images, typography, and sometimes they exist only in her favourite place to be, her sketchbook. Lulu is passionate about working with young people, providing a creative and inclusive space for all to shine.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -297,8 +274,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731946100
+updated_at: 1731946218
 duplicated_from: 161b9da5-e5ed-428e-a715-51c2f03eca45
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/songwriting-album-art-workshop-bury-st-edmunds'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/lulu-horsfield---future-animators-club-2d-stop-frame-animation'
 ---
-Join musician Ben Brown and visual artist Catalina Carvajal for this free creative workshop for 10-16 year olds.
+Join artist Lulu Horsfield for this free creative workshop for 10-16 year olds.
