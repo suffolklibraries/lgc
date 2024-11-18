@@ -1,8 +1,7 @@
 ---
 id: 24e9efc4-8a03-49b3-ace9-d9e7db3fab94
-published: false
 blueprint: events
-title: 'Blank Page: Original Character Design Workshop (Duplicated)'
+title: 'Blank Page: Vision Board Creation Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-23 09:45'
-end_date: '2024-12-23 15:30'
+start_date: '2024-12-27 09:45'
+end_date: '2024-12-27 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -74,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn how to design your own original characters and bring them to life! This workshop is part of '
+        text: 'Create your very own vision board for the new year! This workshop is part of '
       -
         type: text
         marks:
@@ -109,7 +108,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Whether this is the first time creating your own character or you already have existing characters, this workshop will support and level up your character designing skills! Eloise will first introduce some character design principles she uses in her own process with examples from animated media and comics. Throughout the day with different character designing activities, taking inspiration from objects, nature, as well as their own passions and interests, participants will explore how to practically incorporate these concepts when creating their original characters.'
+        text: 'During this 1-day workshop, you will get to creatively explore your goals and dreams for the year ahead, by making a vision board using drawing, collage and typography techniques.'
   -
     type: paragraph
     attrs:
@@ -117,7 +116,7 @@ content_area:
     content:
       -
         type: text
-        text: 'By the end of the workshop, participants will go home with their character concepts & illustrations for the day, having created their characters and an idea for the world and story they live in.'
+        text: 'This workshop is designed for young people to find and use their voices through exploring their own individual hopes and dreams. Activities will include intention setting for the coming year by drawing, painting and getting creative. We will refine our illustrations to create unique mood boards, followed by a group discussion reflecting on our creations from the day.'
   -
     type: paragraph
     attrs:
@@ -127,10 +126,9 @@ content_area:
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
   -
-    type: heading
+    type: paragraph
     attrs:
       textAlign: left
-      level: 3
     content:
       -
         type: text
@@ -195,17 +193,16 @@ content_area:
         type: text
         text: .
   -
-    type: heading
+    type: paragraph
     attrs:
       textAlign: left
-      level: 3
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: 'About Eloise Cookson'
+        text: 'About Lily from Uwu Studio'
   -
     type: paragraph
     attrs:
@@ -213,15 +210,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Eloise is a local artist who specialises in digital art. Her work takes inspiration from manga, graphic novels, video games and animation as well as alternative fashion communities she is a part of. She takes interest in visual storytelling broadly through character design, environmental storytelling, and creating atmosphere in a piece to convey an emotion or a message.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'As an artist who started drawing digitally from the age of 10, Eloise is also passionate about providing in-person resources and guiding young people interested in digital art and styles inspired by animated media.'
+        text: 'Lily is an illustrator working from her studio in rural Suffolk, having graduated with a first-class honours in illustration. Her practice spans the creative sector from working on a commission for Black History Month for the BBC to working in an East London studio.  Lily has a real passion for colour and pattern that feeds into her love of interior decor. In addition to her decorative work, Lily creates bright portraits, often having inspirational women from minority ethnic backgrounds as her subject focus. '
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -231,8 +220,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731943590
+updated_at: 1731943777
 duplicated_from: 4a68fe08-c726-4f71-beed-5dc97bf15994
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/vision-board-creation-with-lily-from-uwu-studio-gainsborough'
 ---
-Join digital artist Eloise Cookson for this free creative workshop for 10-16 year olds.
+Join artist Lily from Uwu Studio for this free creative workshop for 10-16 year olds.
