@@ -1,8 +1,7 @@
 ---
 id: ce2ef84c-015e-465c-b829-72635e61ed95
-published: false
 blueprint: events
-title: 'Blank Page: Vision Board Creation Workshop (Duplicated)'
+title: 'Blank Page: Build a Den, Build a Story Workshop'
 event_categories:
   - family-friendly
   - art
@@ -19,33 +18,67 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.034417883929024'
-longitude: '1.1827043375840662'
-building_name: 'Gainsborough County Library'
-address_line_1: 'Clapgate Lane'
-town: Ipswich
-postcode: 'IP3 0RL'
+latitude: '52.08323706363814'
+longitude: '0.4367866106022539'
+building_name: 'Haverhill Library'
+address_line_1: 'Camps Road'
+town: Haverhill
+postcode: 'CB9 8HB'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Gainsborough Library has on site car parking and the nearest'
+        text: 'The nearest parking is five minutes away at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Cotman+Road/@52.0347317,1.1796921,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99fea5af611b5:0x4718b94a3008c570!2sGainsborough+Community+Library,+Clapgate+Ln,+Ipswich+IP3+0RL!2m2!1d1.1827311!2d52.0342691!1m6!1m2!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!2sCotman+Road,+Ipswich+IP3+0RG!2m2!1d1.181868!2d52.035336!3e2!3m5!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!8m2!3d52.035336!4d1.181868!16s%2Fg%2F1q67rd9sc?entry=ttu'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/haverhill-car-parks.cfm'
               rel: null
               target: _blank
               title: null
-        text: ' bus stop'
+        text: 'Lower Downs Slade car park '
       -
         type: text
-        text: ' is a two minute walk away.'
+        text: 'or the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/haverhill-car-parks.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'South Car Park'
+      -
+        type: text
+        text: ', which is an eight minute walk away'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Haverhill Library is an eight minute walk from the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/dir/Haverhill+bus+station,+Haverhill+CB9+8DA/Haverhill+Library,+Camps+Rd,+Haverhill+CB9+8HB/@52.0830571,0.4363535,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d85ef311e5a4df:0x55b20007047ef32f!2m2!1d0.4410122!2d52.0821715!1m5!1m1!1s0x47d85ef4c0efb4ed:0x91671c082161bc85!2m2!1d0.4368685!2d52.0829965!3e2?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Bus Station on Jubilee Walk'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -74,7 +107,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Create your very own vision board for the new year! This workshop is part of '
+        text: 'Create your very own cosy den space to house your unique micro performance. This workshop is part of '
       -
         type: text
         marks:
@@ -109,15 +142,15 @@ content_area:
     content:
       -
         type: text
-        text: 'During this 1-day workshop, you will get to creatively explore your goals and dreams for the year ahead, by making a vision board using drawing, collage and typography techniques.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Calling all den builders and story makers! Join us to create a cosy den to house a unique performance of your own. We’ll be thinking up brand new stories based on our own ideas as we head into 2025 – think adventures, celebrations, hopes and dreams! Your den will become your very own stage, ready to tell whatever story you have in your imagination. We’ll be using theatre making techniques to get us thinking, '
       -
         type: text
-        text: 'This workshop is designed for young people to find and use their voices through exploring their own individual hopes and dreams. Activities will include intention setting for the coming year by drawing, painting and getting creative. We will refine our illustrations to create unique mood boards, followed by a group discussion reflecting on our creations from the day.'
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'but there’ll be no pressure to perform in front of others if you don’t want to.'
   -
     type: paragraph
     attrs:
@@ -151,7 +184,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/3935'
+              href: 'https://eequ.org/experience/3928'
               rel: null
               target: _blank
               title: null
@@ -203,7 +236,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Lily from Uwu Studio'
+        text: 'About Sian Burford-Thomas'
   -
     type: paragraph
     attrs:
@@ -211,7 +244,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Lily is an illustrator working from her studio in rural Suffolk, having graduated with a first-class honours in illustration. Her practice spans the creative sector from working on a commission for Black History Month for the BBC to working in an East London studio.  Lily has a real passion for colour and pattern that feeds into her love of interior decor. In addition to her decorative work, Lily creates bright portraits, often having inspirational women from minority ethnic backgrounds as her subject focus. '
+        text: 'Sian is a theatre maker and practitioner who works with young people and communities to share stories, explore identity and develop skills. She enjoys working with texts as well as devising original work and places the participants at the centre of the process. Sian is fascinated by what motivates us as human beings, exploring the catalysts for action and change, and the stories that make us who we are. Sian runs inclusive workshops that encourage laughter, teamwork and a positive shared experience.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -221,8 +254,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731943777
+updated_at: 1731944302
 duplicated_from: 24e9efc4-8a03-49b3-ace9-d9e7db3fab94
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/vision-board-creation-with-lily-from-uwu-studio-gainsborough'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/build-a-den-build-a-story-with-sian-burford-thomas'
 ---
-Join artist Lily from Uwu Studio for this free creative workshop for 10-16 year olds.
+Join theatre maker Sian Burford-Thomas for this free creative workshop for 10-16 year olds.
