@@ -1,8 +1,7 @@
 ---
 id: ddb8765d-78cc-4840-8f9f-6d72a413a12f
-published: false
 blueprint: events
-title: 'Tonic: Singing for Health (Duplicated)'
+title: 'Tonic: Singing for Health'
 event_categories:
   - music
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-01-15 10:30'
-end_date: '2025-01-15 12:00'
+start_date: '2025-01-22 10:30'
+end_date: '2025-01-22 12:00'
 free: true
 virtual: false
 attendance_information: 'all abilities welcome'
@@ -163,7 +162,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731947794
+updated_at: 1731947825
 duplicated_from: da5dedb5-7368-4d62-a72f-1c4100a7851e
 ---
 Free singing workshops for health and wellbeing.
