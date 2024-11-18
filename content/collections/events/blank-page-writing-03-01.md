@@ -1,17 +1,17 @@
 ---
 id: db5827d4-9f9c-413f-9502-2c5aee405271
-published: false
 blueprint: events
-title: 'Blank Page: Design, Print, Repeat Workshop (Duplicated)'
+title: 'Blank Page: Creative Writing Workshop:'
 event_categories:
   - family-friendly
   - art
   - teen
+  - literature
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-23 09:45'
-end_date: '2024-12-23 15:30'
+start_date: '2025-01-03 09:45'
+end_date: '2025-01-03 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -139,7 +139,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Design and carve your own printing block and create exciting repeat patterns you can print on paper and fabric. This workshop is part of '
+        text: 'Join writer and performer Poppy Stevens for this free creative workshop for 10-16 year olds and create a beautifully written and decorated poem, as well as a creative prompt jar to take with you into your new year! This workshop is part of '
       -
         type: text
         marks:
@@ -148,7 +148,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: null
+              target: _blank
               title: null
           -
             type: underline
@@ -174,15 +174,15 @@ content_area:
     content:
       -
         type: text
-        text: "In this workshop we will be exploring the traditional craft of block printing using the technique of lino cutting. Each student will begin by drawing and creating their own repeat designs ready to transfer to the lino. They will carve blocks using the tools and make repeat patterns that can be printed onto fabric and paper. \_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'So, what can you expect from this workshop? Some games, some writing, some crafting/making, some hot chocolate and a whole lot of creativity! We will be reflecting on this year and our hopes for the New Year through poetry. You will come away with a beautifully written and decorated poem, as well as a creative prompt jar to take with you into your new year to make it the most creative one yet. As well as this we will also be creating a display of little letters with big heart for the library. These little letters might be poems, positive affirmations or compliments that library users can pick up and take home to ignite their new year with a spark of joy. '
       -
         type: text
-        text: 'Please feel free to bring in any old t-shirts/fabrics or items of your own form home that you might like to upcycle. Come and have a fun and busy day of printing!'
+        marks:
+          -
+            type: bold
+          -
+            type: italic
+        text: 'No previous poetry writing experience necessary. This workshop will equip you with the skills to harness your creativity and get started.'
   -
     type: paragraph
     attrs:
@@ -222,10 +222,7 @@ content_area:
               title: null
           -
             type: underline
-        text: 'book online via eequ'
-      -
-        type: text
-        text: .
+        text: 'book online via eequ.'
   -
     type: paragraph
     attrs:
@@ -268,7 +265,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Holly Scholfield'
+        text: 'About Poppy Stevens'
   -
     type: paragraph
     attrs:
@@ -276,15 +273,7 @@ content_area:
     content:
       -
         type: text
-        text: "Holly Scholfield is a freelance artist, designer and teacher. Her expertise lies printmaking, drawing and textiles, with a particular interest in pattern and chaos. A love of drawing in museums and the natural world inspires new work. Through historical research, she makes intensely coloured work that is quietly feminist, rooted in both the past and the present. \_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Holly trained at Central St Martins in Fine Art and then completed an MA at NUA specialising in print and textiles. She regularly exhibits her work, has shown in the Royal Academy Summer Exhibition and illustrates for publications.'
+        text: 'Poppy Stevens is a community arts practitioner, poet and performer. Her writing has been commissioned and published by The National Centre for Writing, The Young Norfolk Arts Trust, TOAST Poetry, BBC Radio Norfolk & Suffolk & Atrium poetry. Poppy works within the community delivering creative workshops to a diverse range of people. Her work with children spans from EYFS to Key Stage 4 both in schools, alternative provisions, and community settings. Poppy runs a regular dyslexia inclusive writing club. These courses focus on taking the fear out of reading and writing and instead celebrate imagination, creativity, and storytelling. As someone with dyslexia, Poppy understands the importance of creating non-judgemental spaces for young neurodivergent people to express their ideas.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -294,8 +283,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731943602
+updated_at: 1731946593
 duplicated_from: 7345b087-2b96-497f-b355-ed065e73b6ba
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/design-print-repeat-workshop-with-holly-scholfield'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/creative-writing-workshop-spark-your-creativity-for-the-new-year-with-poppy-stevens'
 ---
-Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!
+Spark your creativity for the New Year with Poppy Stevens in this free creative workshop for 10-16 year olds!
