@@ -17,8 +17,8 @@ virtual: false
 attendance_information: 'children aged 10 to 16'
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
 building_name: 'Ipswich County Library'
@@ -289,7 +289,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731942640
+updated_at: 1731943585
 duplicated_from: 8b06b74f-baa5-494a-a487-bdddeaf8d44b
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/lights-camera-action-filmmaking-workshop-with-kirsty-tallent'
 ---
