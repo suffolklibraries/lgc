@@ -16,8 +16,8 @@ virtual: false
 attendance_information: 'children aged 10 to 16'
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
 building_name: 'Gainsborough County Library'
@@ -230,7 +230,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731942799
+updated_at: 1731943590
 duplicated_from: 322a4411-3562-479f-a9e9-293410a71abb
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
 ---
