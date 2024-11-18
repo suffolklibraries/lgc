@@ -8,7 +8,7 @@ event_categories:
   - teen
 organisers:
   - suffolk-libraries
-featured_image: pelicanpelican-3x2/support.png
+featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
 start_date: '2024-12-23 09:45'
 end_date: '2024-12-23 15:30'
 free: true
@@ -312,7 +312,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731931889
+updated_at: 1731942620
 duplicated_from: f522fe47-08e9-4a04-ae42-631514069a8f
 booking_link: 'https://eequ.org/experience/8281'
 ---
