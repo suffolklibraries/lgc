@@ -16,8 +16,8 @@ virtual: false
 attendance_information: 'children aged 10 to 16'
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
 building_name: 'Sudbury Library'
@@ -260,7 +260,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731942929
+updated_at: 1731943595
 duplicated_from: 4a68fe08-c726-4f71-beed-5dc97bf15994
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-sudbury'
 ---
