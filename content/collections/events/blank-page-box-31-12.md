@@ -1,8 +1,7 @@
 ---
 id: d617ecea-fe73-4dd1-92b7-dfbd0aaa310e
-published: false
 blueprint: events
-title: 'Blank Page: A Year in a Box Workshop (Duplicated)'
+title: 'Blank Page: Songwriting & Album Art Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-30 09:45'
-end_date: '2024-12-30 15:30'
+start_date: '2024-12-31 09:45'
+end_date: '2024-12-31 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -19,30 +18,30 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.038186464611634'
-longitude: '0.7299956222161745'
-building_name: 'Sudbury Library'
-address_line_1: 'Market Hill'
-town: Sudbury
-postcode: 'CO10 2EN'
+latitude: '52.45648425658775'
+longitude: '1.5657697817902454'
+building_name: 'Beccles Library'
+address_line_1: Blyburgate
+town: Beccles
+postcode: 'NR34 9TB'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Sudbury Library is a four minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Beccles Library is a two minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
+              href: 'https://www.google.com/maps/dir/Beccles+Library/Grove+Road,+Beccles+NR34+9TG/@52.4557532,1.5633626,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9f6182299c073:0x2d0c83895bb0b63a!2m2!1d1.5658127!2d52.456262!1m5!1m1!1s0x47d9f61836eabf2f:0xd313f809f0370fac!2m2!1d1.566326!2d52.455276!3e2?entry=ttu'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'nearest bus stop'
       -
         type: text
         text: .
@@ -51,7 +50,7 @@ directions:
     content:
       -
         type: text
-        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
+        text: 'Beccles railway station is six minute walk and you can find up to date timetables on the '
       -
         type: text
         marks:
@@ -71,21 +70,21 @@ directions:
     content:
       -
         type: text
-        text: 'The nearest paid parking is a seven minute walk away at'
+        text: 'The nearest parking is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.sudbury-tc.gov.uk/parking'
+              href: 'https://www.apcoa.co.uk/parking-in/beccles/blyburgate-beccles/'
               rel: null
               target: _blank
               title: null
-        text: ' Sudbury railway station'
+        text: 'Blyburgate car park'
       -
         type: text
-        text: .
+        text: ' and it is a five minute walk away.'
   -
     type: paragraph
     content:
@@ -114,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Create and decorate your own memory box for the year ahead with a window for each season. This workshop is part of '
+        text: 'Explore your innate creativity to spontaneously create exciting and unique works or audio and visual art. This workshop is part of '
       -
         type: text
         marks:
@@ -149,15 +148,14 @@ content_area:
     content:
       -
         type: text
-        text: "During our workshop we'll each create a memory box for the year ahead, decorating the sides with a window on each season. Using collage and paper cut out techniques, we'll create beautiful outdoor scenes. We'll decorate the lid with a decorative numerals '2025.' Inside the box we'll make a reading journal so we can list books we have read and would like to read in 2025. We'll list our new year's resolutions, and then finally write a poem about the year that's gone, or the year ahead (or both if there's time)."
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Participants will go on a creative journey, writing and recording a song with Ben and creating the cover art with Catalina. In this workshop we will explore songwriting; rhythm, rhyming and harmony as well as visual arts. Together we will write a song by brainstorming ideas and using a variety of creative techniques and games. Once created, we will then record the song in the space!'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Everyone can take their box home, and will be encouraged to keep it on display to reflect the changing seasons, then use it to store treasures they collect over the year, from pinecones and feathers, to pictures and postcards.'
+        text: 'We will also cocreate a piece of cover art to accompany the track. The completed tracks will be uploaded to Bandcamp as part of the Blank Page EP which will be downloadable for free (individual participants will not be named).'
   -
     type: paragraph
     attrs:
@@ -191,7 +189,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://eequ.org/experience/8280'
+              href: 'https://eequ.org/experience/3940'
               rel: null
               target: _blank
               title: null
@@ -243,7 +241,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Chris James'
+        text: 'About Ben Brown and Catalina Carvajal'
   -
     type: paragraph
     attrs:
@@ -251,7 +249,15 @@ content_area:
     content:
       -
         type: text
-        text: "Christopher James is a local poet, author, musician and artist. He's won the National Poetry Competition, The Bridport Prize and the Suffolk Poetry Competition. He's also written three Sherlock Holmes novels, including The Adventure of the Ruby Elephants. A Graduate of the MA in Creative Writing at University of East Anglia, he's also written plays, songs, and two musicals. He plays guitar, ukulele and piano, creates paper collage art, and had led many workshops for young people and adults."
+        text: 'Ben is a social musician and composer based in Manningtree. He is passionate about music making in all settings and with all groups of people. He believes everybody is musical and that anyone can make music with anyone else, and is privileged to be able to facilitate this process; it is a source of unending inspiration and enjoyment.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Catalina is a visual artist with a passion for illustration, murals, storytelling, and colour. She's also passionate about music and has designed a few album covers. You can find her mural work around East Anglia. Catalina enjoys working with digital and mixed media and takes inspiration from drawing in her sketchbooks, listening to music and observing the world. She is originally from Colombia and lived in Mexico before arriving in the UK seven years ago."
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -261,8 +267,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731944412
+updated_at: 1731944729
 duplicated_from: cccda3e2-8ec0-4115-9db9-294fc4251d29
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/a-year-in-a-box-workshop-with-chris-james'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/songwriting-album-art-workshop-beccles'
 ---
-Join local poet, author and musician Chris James for this free creative workshop for 10-16 year olds!
+Join musician Ben Brown and visual artist Catalina Carvajal for this free creative workshop for 10-16 year olds!
