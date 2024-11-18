@@ -10,7 +10,7 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2024-12-30 09:45'
+start_date: '2025-01-02 09:45'
 end_date: '2025-01-02 15:30'
 free: true
 virtual: false
@@ -289,7 +289,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731932070
+updated_at: 1731932229
 duplicated_from: 8b06b74f-baa5-494a-a487-bdddeaf8d44b
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/lights-camera-action-filmmaking-workshop-with-kirsty-tallent'
 ---
