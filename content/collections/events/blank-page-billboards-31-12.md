@@ -1,8 +1,7 @@
 ---
 id: f55e75fa-d305-4634-8c7c-7f84b3dbb74f
-published: false
 blueprint: events
-title: 'Blank Page: Sculpture & Casting Creations Workshop (Duplicated)'
+title: 'Blank Page: Digital Billboards Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-23 09:45'
-end_date: '2024-12-23 15:30'
+start_date: '2024-12-31 09:45'
+end_date: '2024-12-31 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -114,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
+        text: 'Create your own digital billboard using text, collage materials and visual mixing techniques! This workshop is part of '
       -
         type: text
         marks:
@@ -149,7 +148,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques.'
+        text: 'Through a hands-on process of building up a colourful collage using images, text, acrylic markers and collage papers you will create a design for your billboard that can be re-mixed and added to in Procreate on the iPad (supplied for use in the workshop). Your digital design will be uploaded into a mock-up app so that you can see your work displayed, in its full creative glory, in its street location (think bus stop display or large-scale advertising hoarding).'
   -
     type: paragraph
     attrs:
@@ -157,7 +156,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way.'
+        text: 'You can expect to come away from the day with skills in digital mixing, editing and an experience of working with layers and layer masks but, if you prefer just to collage, that is awesome too. You will still be able to create your own digital billboard! The session will include a playful exploration of words and text so that, if you like, you can get your message out there along with your awesome creativity via your billboard. Your digital designs will be shared digitally after the workshop and an A4 printed copy of your digital billboard will be given to you to take home.'
   -
     type: paragraph
     attrs:
@@ -166,6 +165,12 @@ content_area:
       -
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ‍
   -
     type: paragraph
     attrs:
@@ -197,7 +202,7 @@ content_area:
               title: null
           -
             type: underline
-        text: 'book online via eequ'
+        text: 'book online via equ'
       -
         type: text
         text: .
@@ -243,7 +248,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Emma Denby'
+        text: 'About Michelle Brace'
   -
     type: paragraph
     attrs:
@@ -251,7 +256,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Based in Yorkshire, Emma is a neurodiverse artist specialising in sculpture, painting and installation. Working collaboratively and solo to create socially engaged projects, her practice is motivated by playfulness and celebrates curiosity.'
+        text: 'Michelle Brace is a digital and media artist who uses moving image, natural materials, collage, mark making, text and photographic textures to build colourful visual compositions for digital media platforms and live projection. Michelle has a wealth of experience as a creative project producer, engagement coordinator and facilitator with regional arts organisations, and holds a degree in Arts Practice & the Community from Middlesex University. Her work continues to have a community focus with a current emphasis on developing her creative practice to support mental health and wellbeing.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -261,8 +266,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731943595
+updated_at: 1731945095
 duplicated_from: 147789ab-980f-4093-be30-190740eb8a27
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-sudbury'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-sudbury'
 ---
-Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!
+Join digital artist Michelle Brace for this free creative workshop for 10-16 year olds.
