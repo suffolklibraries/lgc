@@ -1,8 +1,7 @@
 ---
 id: 0903a3e0-5458-4902-99e6-d8100a01a80e
-published: false
 blueprint: events
-title: 'Blank Page: Build a Den, Build a Story Workshop (Duplicated)'
+title: 'Blank Page: Digital Billboards Workshop'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/the-blank-page-project-3x2-graphic.jpg
-start_date: '2024-12-27 09:45'
-end_date: '2024-12-27 15:30'
+start_date: '2025-01-03 09:45'
+end_date: '2025-01-03 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -108,7 +107,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Create your very own cosy den space to house your unique micro performance. This workshop is part of '
+        text: 'create your own digital billboard using text, collage materials and visual mixing techniques! This workshop is part of '
       -
         type: text
         marks:
@@ -143,15 +142,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Calling all den builders and story makers! Join us to create a cosy den to house a unique performance of your own. We’ll be thinking up brand new stories based on our own ideas as we head into 2025 – think adventures, celebrations, hopes and dreams! Your den will become your very own stage, ready to tell whatever story you have in your imagination. We’ll be using theatre making techniques to get us thinking, '
+        text: 'Through a hands-on process of building up a colourful collage using images, text, acrylic markers and collage papers you will create a design for your billboard that can be re-mixed and added to in Procreate on the iPad (supplied for use in the workshop). Your digital design will be uploaded into a mock-up app so that you can see your work displayed, in its full creative glory, in its street location (think bus stop display or large-scale advertising hoarding).'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        marks:
-          -
-            type: bold
-          -
-            type: italic
-        text: 'but there’ll be no pressure to perform in front of others if you don’t want to.'
+        text: 'You can expect to come away from the day with skills in digital mixing, editing and an experience of working with layers and layer masks but, if you prefer just to collage, that is awesome too. You will still be able to create your own digital billboard! The session will include a playful exploration of words and text so that, if you like, you can get your message out there along with your awesome creativity via your billboard. Your digital designs will be shared digitally after the workshop and an A4 printed copy of your digital billboard will be given to you to take home.'
   -
     type: paragraph
     attrs:
@@ -160,6 +159,12 @@ content_area:
       -
         type: text
         text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ‍
   -
     type: paragraph
     attrs:
@@ -191,7 +196,7 @@ content_area:
               title: null
           -
             type: underline
-        text: 'book online via eequ'
+        text: 'book online via equ'
       -
         type: text
         text: .
@@ -237,7 +242,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'About Sian Burford-Thomas'
+        text: 'About Michelle Brace'
   -
     type: paragraph
     attrs:
@@ -245,7 +250,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sian is a theatre maker and practitioner who works with young people and communities to share stories, explore identity and develop skills. She enjoys working with texts as well as devising original work and places the participants at the centre of the process. Sian is fascinated by what motivates us as human beings, exploring the catalysts for action and change, and the stories that make us who we are. Sian runs inclusive workshops that encourage laughter, teamwork and a positive shared experience.'
+        text: 'Michelle Brace is a digital and media artist who uses moving image, natural materials, collage, mark making, text and photographic textures to build colourful visual compositions for digital media platforms and live projection. Michelle has a wealth of experience as a creative project producer, engagement coordinator and facilitator with regional arts organisations, and holds a degree in Arts Practice & the Community from Middlesex University. Her work continues to have a community focus with a current emphasis on developing her creative practice to support mental health and wellbeing.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -255,8 +260,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731944302
+updated_at: 1731945930
 duplicated_from: ce2ef84c-015e-465c-b829-72635e61ed95
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/build-a-den-build-a-story-with-sian-burford-thomas'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-haverhill'
 ---
-Join theatre maker Sian Burford-Thomas for this free creative workshop for 10-16 year olds.
+Join digital artist Michelle Brace for this free creative workshop for 10-16 year olds.
