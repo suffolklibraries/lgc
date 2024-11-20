@@ -167,13 +167,13 @@ content_area:
 booking_link: 'https://musicinourbones.com/singing-groups/music-in-mind/'
 cta: |-
   This event is organised by Music in our Bones
-  [https://ipswich.cimuseums.org.uk/](https://ipswich.cimuseums.org.uk/) 
+  [http://musicinourbones.com/](http://musicinourbones.com/) 
 
   [musicinourbones@gmail.com](mailto:musicinourbones@gmail.com)
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732123808
+updated_at: 1732125134
 duplicated_from: f8715bff-e110-43bc-9941-625757c976bb
 ---
 A singing project with a focus on mental health.
