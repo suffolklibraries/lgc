@@ -157,5 +157,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731411869
 duplicated_from: b61ec34b-2977-4717-a56e-c42f44ef78e3
 attendance_information: 'men aged over 45'
+published: false
 ---
 Meet up and have a chat over a cuppa and bacon roll!
