@@ -1,8 +1,7 @@
 ---
 id: 8b439bad-80c1-4b65-8144-aef42e644d9a
-published: false
 blueprint: events
-title: 'Young Wardens at Carlton Marshes (Duplicated)'
+title: 'Holiday Club at Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-21 10:00'
-end_date: '2024-12-21 14:00'
-free: false
-cost_details: £7
+start_date: '2024-12-23 09:00'
+end_date: '2024-12-23 15:30'
+free: true
+cost_details: 'Free for children receiving free school meals'
 virtual: false
 attendance_information: 'suitable for young people aged 11 to 16'
 latitude: '52.467464593763445'
@@ -88,55 +87,15 @@ content_area:
     content:
       -
         type: text
-        text: "Please note that this months Young Wardens will be at Oulton Marshes not Carlton Marshes. The address is\_Church Avenue, Oulton NR32 5BQ."
+        text: "A healthy vegetarian lunch and snacks will be provided, that we will prepare together as part of the day. This will be a jacket potato with a choice of cheese, baked beans and salad. If you think your child will not like this please let us know in advance.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Please bring a packed lunch as will be having a lunch break.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Young Wardens can contribute to the volunteering or skills section of the Duke of Edinburgh Award. If you would like to attend Young Wardens for this reason, please get in touch to let us know: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:carlton.engagement@suffolkwildlifetrust.org'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: carlton.engagement@suffolkwildlifetrust.org
-      -
-        type: text
-        text: ".\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "All\_Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate."
+        text: "Activities will take place outside where possible so please ensure suitable clothing and footwear. It is advisable that children come in long trousers.\_"
   -
     type: paragraph
     attrs:
@@ -169,7 +128,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102426
+updated_at: 1732102553
 duplicated_from: e47b1d60-cf05-4256-9ae7-3a7ec133bf2c
+accessibility_information:
+  - 'Accessible toilets'
 ---
-Practical conservation and survey skills for teenagers aged 11-16.
+Holiday session involving outdoor activities, games, free play in the woods and crafts for 6-11 year olds.
