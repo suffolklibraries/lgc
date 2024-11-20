@@ -1,16 +1,15 @@
 ---
 id: 18d26383-195e-48ad-b353-c449b54e00b6
-published: false
 blueprint: events
-title: 'Realm of the polar bear (Duplicated)'
+title: 'Talk - Wildlife Sound & Conservation Technology In Suffolk'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-19 19:00'
-end_date: '2024-12-19 21:45'
+start_date: '2025-02-20 19:30'
+end_date: '2025-02-20 21:00'
 free: false
 cost_details: '£4, under 25s free'
 virtual: false
@@ -117,7 +116,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Keen photographer Chris shows us the birds, wild flowers and mammals seen during a cruise around the Arctic Svalbard.'
+        text: 'Woodbridge is at the forefront of citizen science bioacoustics monitoring! From ultrasound speakers to remote audio and cameras, come and hear about plans to arm Woodbridge’s wildlife enthusiasts with the means to monitor wildlife sounds as Suffolk Wildlife Trust and partners work to enhance our biodiversity.'
   -
     type: paragraph
     attrs:
@@ -139,7 +138,7 @@ content_area:
         text: 'Suffolk Wildlife Trust website'
       -
         type: text
-        text: ' to find out more and book.'
+        text: ' to find out more. No need to book, just come along.'
 booking_link: 'https://www.suffolkwildlifetrust.org/events'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
@@ -150,7 +149,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732117217
+updated_at: 1732117875
 duplicated_from: a28d8854-8506-4f72-b47c-31f3fd401729
 accessibility_information:
   - 'Wheelchair accessible'
@@ -158,4 +157,4 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 ---
-Join us for an illustrated talk by Chris Parfitt.
+Join us to find out more about our natural world
