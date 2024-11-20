@@ -1,7 +1,7 @@
 ---
 id: a28d8854-8506-4f72-b47c-31f3fd401729
 blueprint: events
-title: 'The land of the Polar Bear'
+title: 'Realm of the polar bear'
 event_categories:
   - nature
   - languages
@@ -149,7 +149,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732117151
+updated_at: 1732117217
 duplicated_from: e5e7fc79-260d-4d2f-88eb-f4ef278d4ab3
 accessibility_information:
   - 'Wheelchair accessible'
