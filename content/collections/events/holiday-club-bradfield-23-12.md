@@ -1,8 +1,7 @@
 ---
 id: 87d00ff0-ca18-48f4-acea-3656fcf656cc
-published: false
 blueprint: events
-title: 'Solstice lantern walk (Duplicated)'
+title: 'Holiday Club at Bradfield Woods'
 event_categories:
   - nature
   - teen
@@ -11,12 +10,12 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-20 16:30'
-end_date: '2024-12-20 18:00'
-free: false
-cost_details: 'from £3'
+start_date: '2024-12-23 09:00'
+end_date: '2024-12-23 15:30'
+free: true
+cost_details: 'Free for children receiving free school meals'
 virtual: false
-attendance_information: 'family friendly'
+attendance_information: 'suitable for children aged 6 - 11 years'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
 address_line_1: 'Bradfield Woods'
@@ -74,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us in this beautiful woodland undercover of dark.'
+        text: 'Outdoors, forest free play, seasonal woodland crafts and games with lunch included.'
   -
     type: paragraph
     attrs:
@@ -82,7 +81,20 @@ content_area:
     content:
       -
         type: text
-        text: 'Make a lantern for yourself, then follow a lantern lit trail through the woods, finishing with hot chocolate by the fire.'
+        text: 'For children in receipt of benefit related free school meals, there are funded places available on EEQU from 20 November: '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://eequ.org/experience/8747'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: 'https://eequ.org/experience/8747'
   -
     type: paragraph
     attrs:
@@ -90,7 +102,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please bring a clean glass jar to make your lantern (we have plenty of cans if you would prefer to make a tin can one.)'
+        text: 'All young people must be dropped off by an adult, who must confirm their emergency contact details and who will be collecting their child with the member of staff at the arrival point.'
   -
     type: paragraph
     attrs:
@@ -98,15 +110,7 @@ content_area:
     content:
       -
         type: text
-        text: "Please dress appropriately for the weather. Suitable for children aged 3\_years\_and above and all children must be accompanied."
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Booking is essential as places are limited. Visit the '
+        text: 'Visit the '
       -
         type: text
         marks:
@@ -131,7 +135,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732105296
+updated_at: 1732105514
 duplicated_from: 27730f8a-36d4-43f8-8c1d-6031312083d8
 accessibility_information:
   - 'Wheelchair accessible'
@@ -139,4 +143,4 @@ accessibility_information:
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
 ---
-Celebrate winter solstice in the woods.
+Holiday club for 6 - 11 year olds.
