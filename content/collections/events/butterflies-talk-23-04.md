@@ -1,8 +1,7 @@
 ---
 id: c3874496-bc77-4913-a10e-8dc56c2278f8
-published: false
 blueprint: events
-title: 'How has the ecology of our land changed over the past centuries? (Duplicated)'
+title: 'Butterflies in Suffolk Wildlife Reserves'
 event_categories:
   - nature
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-26 19:30'
-end_date: '2025-02-26 20:30'
+start_date: '2025-04-23 19:30'
+end_date: '2025-04-23 20:30'
 free: false
 cost_details: '£3, under 25s free'
 virtual: false
@@ -104,7 +103,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join us for an illustrated talk by Adrian Knowles.\_Become a detective and discover this by studying maps, place names, field patterns and much more. You may be surprised at what you find."
+        text: 'Steve will talk about the butterflies found on the Trust’s reserves, and the work being undertaken to support important populations of rarer species. He will consider the opportunities that rewilding creates for butterflies.'
   -
     type: paragraph
     attrs:
@@ -113,14 +112,6 @@ content_area:
       -
         type: text
         text: 'No booking required.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "We now have a card reader, and would prefer this to be used for entry donations if this is possible, but if not, cash is of course\_acceptable."
   -
     type: paragraph
     attrs:
@@ -142,7 +133,7 @@ content_area:
         text: 'Suffolk Wildlife Trust website'
       -
         type: text
-        text: ' to find out more and book.'
+        text: ' to find out more.'
 booking_link: 'https://www.suffolkwildlifetrust.org/events'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
@@ -153,7 +144,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732103644
+updated_at: 1732104751
 duplicated_from: eea98d3b-c68f-4e68-9e7c-9d44e31d4fb1
 accessibility_information:
   - 'Wheelchair accessible'
