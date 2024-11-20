@@ -1,15 +1,14 @@
 ---
 id: ebdd828d-e759-47a9-b706-77842870e5bd
-published: false
 blueprint: events
-title: 'Music in Mind (Duplicated)'
+title: 'Music in Mind'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-03 14:00'
-end_date: '2025-02-03 15:30'
+start_date: '2025-02-17 14:00'
+end_date: '2025-02-17 15:30'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -174,7 +173,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732123717
+updated_at: 1732123736
 duplicated_from: 3039ec78-aa14-4b64-8812-88f7edf94760
 ---
 A singing project with a focus on mental health.
