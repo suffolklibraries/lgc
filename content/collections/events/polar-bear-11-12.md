@@ -1,8 +1,7 @@
 ---
 id: b8736d1a-1871-4f24-8730-462163179781
-published: false
 blueprint: events
-title: 'How has the ecology of our land changed over the past centuries? (Duplicated)'
+title: 'The land of the Polar Bear'
 event_categories:
   - nature
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-26 19:30'
-end_date: '2025-02-26 20:30'
+start_date: '2024-12-11 19:30'
+end_date: '2024-12-11 20:30'
 free: false
 cost_details: '£3, under 25s free'
 virtual: false
@@ -104,7 +103,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join us for an illustrated talk by Adrian Knowles.\_Become a detective and discover this by studying maps, place names, field patterns and much more. You may be surprised at what you find."
+        text: "Local photographer\_Chris has visited Svalbard’ an archipelago half way between north Norway and the north pole, where it is dark for 4 months of the year and the temperature seldom rises above 5 degrees, even in summer. But much wildlife thrives, together with about 2,500 humans and 1,000 polar bears."
   -
     type: paragraph
     attrs:
@@ -112,7 +111,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required.'
+        text: 'No booking required, just come along. '
   -
     type: paragraph
     attrs:
@@ -153,7 +152,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732103644
+updated_at: 1732117416
 duplicated_from: eea98d3b-c68f-4e68-9e7c-9d44e31d4fb1
 accessibility_information:
   - 'Wheelchair accessible'
@@ -161,4 +160,4 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 ---
-Join us for an illustrated talk by Steve Aylward from Suffolk Wildlife Trust.
+Join us for an illustrated talk by Chris Parfitt.
