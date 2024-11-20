@@ -1,21 +1,19 @@
 ---
 id: 9bae0e85-78a1-400c-83f4-ed278921c6be
-published: false
 blueprint: events
-title: 'Young Wardens at Carlton Marshes (Duplicated)'
+title: 'World Wetland Day Guided Walk'
 event_categories:
   - nature
-  - teen
   - wellbeing
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-26 10:00'
-end_date: '2025-04-26 14:00'
+start_date: '2025-02-02 10:30'
+end_date: '2025-02-02 13:00'
 free: false
-cost_details: £7
+cost_details: £5
 virtual: false
-attendance_information: 'suitable for young people aged 11 to 16'
+attendance_information: 'suitable for adults'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
 building_name: 'Carlton Marshes Visitor Centre'
@@ -88,55 +86,23 @@ content_area:
     content:
       -
         type: text
-        text: "Please note that this months Young Wardens will be at Oulton Marshes not Carlton Marshes. The address is\_Church Avenue, Oulton NR32 5BQ."
+        text: "Enjoy a guided walk around Carlton Marshes with one of our reserve wardens to celebrate World Wetland Day.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
+        text: "The walk will focus on the importance of wetland habitats to wildlife and the environment, how they were created and how this incredibly important habitats are maintained.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: "Please bring a packed lunch as will be having a lunch break.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Young Wardens can contribute to the volunteering or skills section of the Duke of Edinburgh Award. If you would like to attend Young Wardens for this reason, please get in touch to let us know: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:carlton.engagement@suffolkwildlifetrust.org'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: carlton.engagement@suffolkwildlifetrust.org
-      -
-        type: text
-        text: ".\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "All\_Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate."
+        text: "Suitable for adults, both beginner and expert wildlife enthusiasts.\_"
   -
     type: paragraph
     attrs:
@@ -169,9 +135,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732104776
+updated_at: 1732111254
 duplicated_from: fc531a45-e702-4621-a092-87466642c4ed
 accessibility_information:
   - 'Accessible toilets'
+  - 'Accessible parking spaces'
 ---
-Practical conservation and survey skills for teenagers aged 11-16.
+Celebrate World Wetland Day by exploring Carlton Marshes
