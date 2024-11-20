@@ -1,15 +1,14 @@
 ---
 id: 735ca6eb-ba56-46ea-a7d3-8a4b381e52d2
-published: false
 blueprint: events
-title: 'HeartSong - Bury St Edmunds (Duplicated)'
+title: 'HeartSong - Bury St Edmunds'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-09-18 10:30'
-end_date: '2025-09-18 12:00'
+start_date: '2025-10-16 10:30'
+end_date: '2025-10-16 12:00'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -181,7 +180,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732125404
+updated_at: 1732125422
 duplicated_from: ac713959-5007-4979-95f0-be95013eeb60
 ---
 Join our friendly wellbeing singing group!
