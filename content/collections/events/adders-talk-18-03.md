@@ -1,16 +1,15 @@
 ---
 id: c6ebc9af-f808-4eed-ad5e-71548c19a4cd
-published: false
 blueprint: events
-title: 'Talk - Martlesham Wilds, an Update (Duplicated)'
+title: 'Talk - Adders'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-21 19:30'
-end_date: '2025-01-21 21:00'
+start_date: '2025-03-18 19:30'
+end_date: '2025-03-18 21:00'
 free: true
 cost_details: '£5, under 25s free'
 virtual: false
@@ -109,7 +108,15 @@ content_area:
     content:
       -
         type: text
-        text: "Join Suffolk Wildlife Trust's Charlie Zakss, for this fascinating talk on how the rewilding at Martlesham Wilds is progressing."
+        text: 'Adders are the UK’s only venomous snake and receive plenty of hysterical publicity in the press, despite the fact that many people have never even seen one. Yet they are fascinating creatures and deserve our understanding and respect rather than fear. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'In this illustrated talk we will look at the lives of the Adders at RSPB Minsmere, one of the best places to look for them in Suffolk.'
   -
     type: paragraph
     attrs:
@@ -142,10 +149,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732117134
+updated_at: 1732118477
 duplicated_from: b5d671d3-486f-4327-a0e9-da474abf1661
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
 ---
-Come along to find out more about our natural world
+Come along to find out more about our natural world.
