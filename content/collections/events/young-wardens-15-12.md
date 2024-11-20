@@ -1,8 +1,7 @@
 ---
 id: 040fa26d-ab83-45b2-915f-4d73705148aa
-published: false
 blueprint: events
-title: 'Weekend Wildlife Club (Duplicated)'
+title: 'Nature Champions: Young Wardens at Spring Wood'
 event_categories:
   - nature
   - wellbeing
@@ -10,56 +9,45 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-12 10:00'
-end_date: '2025-04-12 12:00'
+start_date: '2024-12-15 10:00'
+end_date: '2024-12-15 12:30'
 free: false
-cost_details: £5
+cost_details: £7
 virtual: false
-attendance_information: 'suitable for childrewn aged 6 - 11'
-latitude: '52.047052878935006'
-longitude: '1.171173244877561'
-building_name: 'Holywells Park'
-address_line_1: 'The Stable Block'
+attendance_information: 'suitable for young people aged 11 - 16'
+latitude: '52.03051607676116'
+longitude: '1.1248930926561227'
+building_name: 'Spring Wood'
+address_line_1: Pinewood
 town: Ipswich
-postcode: 'IP3 0PG'
+postcode: 'IP8 3TD'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Buses that stop near Holywells Park are 1, 2, 3, 3E, and 616. The nearest bus stop is six minute walk away, see the latest bus timetables '
+        text: 'The nearest bus stop is a '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
-              rel: null
-              target: null
-              title: null
-        text: here
-      -
-        type: text
-        text: '. The nearest car parking is a ten minute walk away at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/athena_hall/ip3/ipswich/?arriving=202403251700&leaving=202403251900'
+              href: 'https://www.google.com/maps/dir/Marbled+White+Dr,+Pinewood,+Ipswich/Nursery,+Pinewood,+Ipswich+IP8+3UJ/@52.0326441,1.1174834,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a066847772c1:0x81df7f7e9de5d8a9!2m2!1d1.120006!2d52.0319863!1m5!1m1!1s0x47d9a06694f74621:0x2d73d32d91c74e47!2m2!1d1.119735!2d52.033302!3e2?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'Athena Hall car park.'
+        text: 'three minute walk '
+      -
+        type: text
+        text: 'away. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Parking is available at the Cliff Lane entrance for Blue Badge and permit holders only.'
+        text: 'There is on road parking near the drop-off point.'
   -
     type: paragraph
     content:
@@ -88,19 +76,27 @@ content_area:
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Join us on every second Saturday of the month for our Weekend Wildlife Club, where we will have different wild themes for children aged 6 - 11 years old. '
+        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of green spaces in Ipswich; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities in our town.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'This club is for accompanied children, where the adults get to join in the fun too.'
+        text: "All\_Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Meeting point - entrance to Spring Wood off Marble White Drive, what.3.words - ///driftwood.surprised.smarter'
   -
     type: paragraph
     attrs:
@@ -133,7 +129,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732097242
+updated_at: 1732098005
 duplicated_from: 1daaabbf-20ca-42dd-9689-2208c723e011
 ---
-Meet new friends, get outdoors and earn awards.
+Looking for practical experience and chance to earn your DofE award whilst making friends? Then Nature Champions: Young Wardens is for you!
