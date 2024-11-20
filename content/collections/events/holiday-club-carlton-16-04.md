@@ -1,7 +1,7 @@
 ---
 id: 12f4531c-be61-4803-8f44-25663c79dc0e
 blueprint: events
-title: 'Holiday Club at Carlton Marshes (Duplicated)'
+title: 'Holiday Club at Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -136,7 +136,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732103377
+updated_at: 1732103663
 duplicated_from: f8c4bfb2-f10a-4944-8770-5db441885378
 accessibility_information:
   - 'Accessible toilets'
