@@ -87,7 +87,7 @@ directions:
         text: ' rail station'
       -
         type: text
-        text: '. There is free onsite parking after 6pm/'
+        text: '. There is free onsite parking after 6pm.'
   -
     type: paragraph
     content:
@@ -149,7 +149,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102383
+updated_at: 1732117151
 duplicated_from: e5e7fc79-260d-4d2f-88eb-f4ef278d4ab3
 accessibility_information:
   - 'Wheelchair accessible'
