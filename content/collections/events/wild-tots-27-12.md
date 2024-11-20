@@ -1,7 +1,7 @@
 ---
 id: 565e2e80-1191-40a5-b818-3d5d5f9198f0
 blueprint: events
-title: 'Wild Tots'
+title: 'Wild Tots in Holywells Park'
 event_categories:
   - nature
   - early-years
@@ -140,7 +140,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732095852
+updated_at: 1732095958
 duplicated_from: 203290d9-7918-4a93-96b5-a4f10939414d
 ---
 Wild play activities for children aged 18 months to 5 years.
