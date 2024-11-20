@@ -1,21 +1,20 @@
 ---
 id: fdd59071-3345-4294-ab9d-6fe1a0fe2979
-published: false
 blueprint: events
-title: 'Holiday Club at Carlton Marshes (Duplicated)'
+title: 'Drop-in Seed Bomb Making'
 event_categories:
   - nature
-  - teen
-  - wellbeing
+  - family-friendly
+  - art
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-09 09:00'
-end_date: '2025-04-09 15:30'
-free: true
-cost_details: 'Free for children receiving free school meals'
+start_date: '2025-03-01 10:00'
+end_date: '2025-03-01 15:00'
+free: false
+cost_details: '£3 per seed bomb'
 virtual: false
-attendance_information: 'suitable for young people aged 11 to 16'
+attendance_information: 'family friendly'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
 building_name: 'Carlton Marshes Visitor Centre'
@@ -88,23 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Holiday session involving outdoor activities, games, free play in the woods and crafts for 6-11 yr olds.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "A healthy vegetarian lunch and snacks will be provided, that we will prepare together as part of the day. This will be a jacket potato with a choice of cheese, baked beans and salad. If you think your child will not like this please let us know in advance.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "Activities will take place outside where possible so please ensure suitable clothing and footwear. It is advisable that children come in long trousers.\_"
+        text: 'Pop in to the visitor centre and make a newspaper wildflower seed bomb to take home and plant then watch the flowers grow. '
   -
     type: paragraph
     attrs:
@@ -112,22 +95,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the '
+        text: "Wildflowers are great sources of nectar for pollinators such as bees and butterflies so if you'd like to help these insects to thrive and attract them to your garden then come down to the visitor centre any weekend in March.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Wildlife Trust website'
-      -
-        type: text
-        text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+        text: 'No need to book, just come along.'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -137,9 +113,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732103277
+updated_at: 1732103774
 duplicated_from: f8c4bfb2-f10a-4944-8770-5db441885378
 accessibility_information:
   - 'Accessible toilets'
 ---
-Holiday session involving outdoor activities, games, free play in the woods and crafts for 6-11 year olds.
+Come and have a go at making a seed bomb to take home and watch the flowers grow.
