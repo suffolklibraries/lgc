@@ -1,20 +1,28 @@
 ---
 id: 78879b0d-fcf4-4d2a-a48b-8c2b4a605bdd
-published: false
 blueprint: events
-title: 'Talk: Suffolk Wildlife Trust engagement with energy infrastructure projects (Duplicated)'
+title: 'Talk: Otters and Water Voles'
 event_categories:
   - nature
   - languages
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-14 19:30'
-end_date: '2025-01-14 20:30'
+start_date: '2025-03-11 19:30'
+end_date: '2025-03-11 20:30'
 free: false
 cost_details: '£4, under 25s free'
 virtual: false
 content_area:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Alice’s talk will cover the ecology of otter and water vole, including habitats, diet, breeding, conservation status and legislation and we will also learn the field signs that each species leaves behind in the environment.'
   -
     type: paragraph
     attrs:
@@ -36,7 +44,7 @@ content_area:
         text: 'Suffolk Wildlife Trust website'
       -
         type: text
-        text: ' to find out more and book.'
+        text: ' to find out more. No need to book, just come along.'
 booking_link: 'https://www.suffolkwildlifetrust.org/events'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
@@ -47,7 +55,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732111038
+updated_at: 1732117975
 duplicated_from: 89637422-b2a9-4eb2-9cec-8746939686c5
 accessibility_information:
   - 'Wheelchair accessible'
@@ -120,4 +128,4 @@ directions:
         type: text
         text: .
 ---
-Illustrated talk by Rupert Masefield about the Trust’s engagement with energy infrastructure projects including Sizewell C.
+Illustrated talk by Alice Wickman about otter and water vole ecology and field signs.
