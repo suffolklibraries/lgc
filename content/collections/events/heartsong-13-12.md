@@ -118,13 +118,13 @@ content_area:
 booking_link: 'http://musicinourbones.com/singing-groups/heartsong-great-blakenhan/'
 cta: |-
   This event is organised by Music in our Bones
-  [https://ipswich.cimuseums.org.uk/](https://ipswich.cimuseums.org.uk/) 
+  [http://musicinourbones.com/](http://musicinourbones.com/) 
 
   [musicinourbones@gmail.com](mailto:musicinourbones@gmail.com)
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732124648
+updated_at: 1732125027
 duplicated_from: d5e78fa0-43ac-471f-8683-34e6c3fd7b63
 address_line_2: 'Rushmere St Andrew'
 ---
