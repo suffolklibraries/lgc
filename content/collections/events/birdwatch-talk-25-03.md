@@ -1,17 +1,15 @@
 ---
 id: 722c39a1-68fc-468d-b6b1-79f2116f1ba6
-published: false
 blueprint: events
-title: 'The land of the Polar Bear (Duplicated)'
+title: 'Talk - Thirty Years of Garden Birdwatch'
 event_categories:
   - nature
   - languages
-  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-11 19:30'
-end_date: '2024-12-11 20:30'
+start_date: '2025-03-25 19:30'
+end_date: '2025-03-25 20:30'
 free: false
 cost_details: '£3, under 25s free'
 virtual: false
@@ -104,15 +102,7 @@ content_area:
     content:
       -
         type: text
-        text: "Local photographer\_Chris has visited Svalbard’ an archipelago half way between north Norway and the north pole, where it is dark for 4 months of the year and the temperature seldom rises above 5 degrees, even in summer. But much wildlife thrives, together with about 2,500 humans and 1,000 polar bears."
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'No booking required, just come along. '
+        text: 'Thousands of people record the birds which visit their gardens each week and send their results to the BTO. Rob will explain how these data are used to monitor changes in populations, and to try to find reasons and suggest how modifications might be made.'
   -
     type: paragraph
     attrs:
@@ -142,7 +132,7 @@ content_area:
         text: 'Suffolk Wildlife Trust website'
       -
         type: text
-        text: ' to find out more and book.'
+        text: ' to find out more. No booking required, just come along. '
 booking_link: 'https://www.suffolkwildlifetrust.org/events'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
@@ -153,7 +143,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732117416
+updated_at: 1732118568
 duplicated_from: b8736d1a-1871-4f24-8730-462163179781
 accessibility_information:
   - 'Wheelchair accessible'
@@ -161,4 +151,4 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 ---
-Join us for an illustrated talk by Chris Parfitt.
+Join us for an illustrated talk by Rob Jacques.
