@@ -1,8 +1,7 @@
 ---
 id: aa84a3d6-bf47-4f19-a3ee-b730c08feaf8
-published: false
 blueprint: events
-title: 'Wild Tots in Holywells Park (Duplicated)'
+title: 'Wild Tots in Christchurch Park'
 event_categories:
   - nature
   - early-years
@@ -10,25 +9,45 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-21 10:00'
-end_date: '2025-02-21 11:30'
+start_date: '2024-12-24 10:00'
+end_date: '2024-12-24 11:30'
 free: false
 cost_details: £4.50
 virtual: false
 attendance_information: 'suitable for children aged 18 months to 5 years'
-latitude: '52.047052878935006'
-longitude: '1.171173244877561'
-building_name: 'Holywells Park'
-address_line_1: 'The Stable Block'
+latitude: '52.06161153059759'
+longitude: x1.1588483225206379
+building_name: 'The Reg Driver Centre'
+address_line_1: 'Christchurch Park'
 town: Ipswich
-postcode: 'IP3 0PG'
+postcode: 'IP4 2BX'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Buses that stop near Holywells Park are 1, 2, 3, 3E, and 616. The nearest bus stop is six minute walk away, see the latest bus timetables '
+        text: 'Car parks nearby, which are pay and display, include - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              rel: null
+              target: null
+              title: null
+        text: 'Crown Pools (five minute walk)'
+      -
+        type: text
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Reg Driver Centre is a five minute walk from Tower Ramparts bus station in the town centre - see the latest bus timetables '
       -
         type: text
         marks:
@@ -42,24 +61,7 @@ directions:
         text: here
       -
         type: text
-        text: '. The nearest car parking is a ten minute walk away at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/athena_hall/ip3/ipswich/?arriving=202403251700&leaving=202403251900'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Athena Hall car park.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Parking is available at the Cliff Lane entrance for Blue Badge and permit holders only.'
+        text: .
   -
     type: paragraph
     content:
@@ -141,7 +143,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732096164
+updated_at: 1732096377
 duplicated_from: d148abfe-1416-4f59-b60a-7c0e659e71b0
 ---
 Wild play activities for children aged 18 months to 5 years.
