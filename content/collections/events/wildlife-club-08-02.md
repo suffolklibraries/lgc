@@ -1,8 +1,7 @@
 ---
 id: f8f57b16-615b-4d94-9271-0c6f6970c3d5
-published: false
 blueprint: events
-title: 'Weekend Wildlife Club (Duplicated)'
+title: 'Weekend Wildlife Club'
 event_categories:
   - nature
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-11 10:00'
-end_date: '2025-01-11 12:00'
+start_date: '2025-02-08 10:00'
+end_date: '2025-02-08 12:00'
 free: false
 cost_details: £5
 virtual: false
@@ -133,7 +132,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732097131
+updated_at: 1732097185
 duplicated_from: e447fbc8-d207-431e-9f79-e01cf418def9
 ---
 Meet new friends, get outdoors and earn awards.
