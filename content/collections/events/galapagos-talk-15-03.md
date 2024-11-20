@@ -1,16 +1,15 @@
 ---
 id: e06c8578-c7de-427d-a9e2-17722a4ef43d
-published: false
 blueprint: events
-title: 'Talk - Martlesham Wilds, an Update (Duplicated)'
+title: 'Talk - Galapagos Islands'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-21 19:30'
-end_date: '2025-01-21 21:00'
+start_date: '2025-04-15 19:30'
+end_date: '2025-04-15 21:00'
 free: true
 cost_details: '£5, under 25s free'
 virtual: false
@@ -109,7 +108,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join Suffolk Wildlife Trust's Charlie Zakss, for this fascinating talk on how the rewilding at Martlesham Wilds is progressing."
+        text: 'Join Chris Parfitt for this fascinating talk about the Galapagos Islands.'
   -
     type: paragraph
     attrs:
@@ -142,10 +141,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732117134
+updated_at: 1732118631
 duplicated_from: b5d671d3-486f-4327-a0e9-da474abf1661
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
 ---
-Come along to find out more about our natural world
+Come along to find out more about our natural world.
