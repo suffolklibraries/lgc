@@ -1,17 +1,15 @@
 ---
 id: 252e9123-2370-4238-8d70-6de81a7da9ae
-published: false
 blueprint: events
-title: 'Talk: The Suffolk Hedgehog Hospital (Duplicated)'
+title: 'Talk: Nightjars'
 event_categories:
   - nature
   - languages
-  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-08 14:30'
-end_date: '2025-01-08 15:30'
+start_date: '2025-03-12 14:30'
+end_date: '2025-03-12 15:30'
 free: false
 cost_details: '£3, under 25s free'
 virtual: false
@@ -23,7 +21,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This presentation by the Suffolk Hedgehog Hospital will outline the work they do to help these beloved but increasingly scarce creatures.'
+        text: 'To experience the presence of nightjars nearby is one of the most uncanny and memorable sensations there can be had in a seemingly desolate Breckland landscape as the daylight fades.'
   -
     type: paragraph
     attrs:
@@ -56,7 +54,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732110662
+updated_at: 1732118061
 duplicated_from: a9c04001-e2b2-4803-b93f-1e3920325c11
 accessibility_information:
   - 'Wheelchair accessible'
@@ -116,4 +114,4 @@ directions:
         type: text
         text: .
 ---
-Come along and learn about hedgehogs and what you too might be able to do to help these friends of the gardener.
+Come to this talk and learn more about this most mysterious bird of the night.
