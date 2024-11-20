@@ -1,21 +1,20 @@
 ---
 id: 0f777c49-f7b0-4c23-80c4-6c42d7bcc088
-published: false
 blueprint: events
-title: 'Wild Tots in Holywells Park (Duplicated)'
+title: 'Weekend Wildlife Club'
 event_categories:
   - nature
-  - early-years
   - wellbeing
+  - teen
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-14 10:00'
-end_date: '2025-02-14 11:30'
+start_date: '2024-12-14 10:00'
+end_date: '2024-12-14 12:00'
 free: false
-cost_details: £4.50
+cost_details: £5
 virtual: false
-attendance_information: 'suitable for children aged 18 months to 5 years'
+attendance_information: 'suitable for childrewn aged 6 - 11'
 latitude: '52.047052878935006'
 longitude: '1.171173244877561'
 building_name: 'Holywells Park'
@@ -92,23 +91,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for outdoor discovery and play in the beautiful and historic Holywells Park.'
+        text: 'Join us on every second Saturday of the month for our Weekend Wildlife Club, where we will have different wild themes for children aged 6 - 11 years old. '
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Wild Tots gives children and their families the opportunity to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills and, importantly, create shared memories for children and adults.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session.'
+        text: 'This club is for accompanied children, where the adults get to join in the fun too.'
   -
     type: paragraph
     attrs:
@@ -141,7 +132,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732096140
+updated_at: 1732097097
 duplicated_from: 87049a4f-61ae-463a-a5ff-68045320fb5a
 ---
-Wild play activities for children aged 18 months to 5 years.
+Meet new friends, get outdoors and earn awards.
