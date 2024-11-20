@@ -1,8 +1,7 @@
 ---
 id: 565e2e80-1191-40a5-b818-3d5d5f9198f0
-published: false
 blueprint: events
-title: 'Wild Tots (Duplicated)'
+title: 'Wild Tots'
 event_categories:
   - nature
   - early-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-20 10:00'
-end_date: '2024-12-20 11:30'
+start_date: '2024-12-27 10:00'
+end_date: '2024-12-27 11:30'
 free: false
 cost_details: £4.50
 virtual: false
@@ -141,7 +140,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732095820
+updated_at: 1732095852
 duplicated_from: 203290d9-7918-4a93-96b5-a4f10939414d
 ---
 Wild play activities for children aged 18 months to 5 years.
