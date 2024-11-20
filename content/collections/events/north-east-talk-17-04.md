@@ -1,16 +1,15 @@
 ---
 id: e9df2527-6b95-4bda-a2cf-d10110a73c46
-published: false
 blueprint: events
-title: 'Talk: Nightjar ecology and movement (Duplicated)'
+title: 'Talk - North East Suffolk Reserves Round-Up'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-16 19:30'
-end_date: '2025-01-16 21:00'
+start_date: '2025-04-17 19:30'
+end_date: '2025-04-17 21:00'
 free: false
 cost_details: '£4, under 25s free'
 virtual: false
@@ -117,7 +116,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Dr Greg Conway from the BTO (British Trust for Ornithology) tells us more about nightjar research carried out by the BTO, covering population change and tracking of these fascinating birds.'
+        text: 'A chance to hear about Suffolk Wildlife Trust’s reserves in North East Suffolk including Hen Reedbeds and Reydon Woods. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Jamie will talk about how the reserves are managed for particular species, as well as giving background information, with plenty of photos and videos.'
   -
     type: paragraph
     attrs:
@@ -139,7 +146,7 @@ content_area:
         text: 'Suffolk Wildlife Trust website'
       -
         type: text
-        text: ' to find out more and book.'
+        text: ' to find out more. No need to book, just come along.'
 booking_link: 'https://www.suffolkwildlifetrust.org/events'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
@@ -150,7 +157,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732111152
+updated_at: 1732118723
 duplicated_from: f011b597-dfef-4b31-badd-9bf9beb11b76
 accessibility_information:
   - 'Wheelchair accessible'
@@ -158,4 +165,4 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 ---
-Join us for a talk to find out more about the world around us.
+Join us for a talk to find out more about the natural world.
