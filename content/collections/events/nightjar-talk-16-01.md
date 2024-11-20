@@ -1,16 +1,15 @@
 ---
 id: f011b597-dfef-4b31-badd-9bf9beb11b76
-published: false
 blueprint: events
-title: 'The land of the Polar Bear (Duplicated)'
+title: 'Talk: Nightjar ecology and movement'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-19 19:00'
-end_date: '2024-12-19 21:45'
+start_date: '2025-01-16 19:30'
+end_date: '2025-01-16 21:00'
 free: false
 cost_details: '£4, under 25s free'
 virtual: false
@@ -88,7 +87,7 @@ directions:
         text: ' rail station'
       -
         type: text
-        text: '. There is free onsite parking after 6pm/'
+        text: '. There is free onsite parking after 6pm.'
   -
     type: paragraph
     content:
@@ -117,7 +116,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Keen photographer Chris shows us the birds, wild flowers and mammals seen during a cruise around the Arctic Svalbard.'
+        text: 'Dr Greg Conway from the BTO (British Trust for Ornithology) tells us more about nightjar research carried out by the BTO, covering population change and tracking of these fascinating birds.'
   -
     type: paragraph
     attrs:
@@ -150,7 +149,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102383
+updated_at: 1732111152
 duplicated_from: a28d8854-8506-4f72-b47c-31f3fd401729
 accessibility_information:
   - 'Wheelchair accessible'
@@ -158,4 +157,4 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 ---
-Join us for an illustrated talk by Chris Parfitt.
+Join us for a talk to find out more about the world around us.
