@@ -1,16 +1,15 @@
 ---
 id: cd1b0062-5155-4caf-ae0c-e8bee8b7dd79
-published: false
 blueprint: events
-title: 'The land of the Polar Bear (Duplicated)'
+title: 'Talk: Adders an illustrated talk by Steve Everett'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-19 19:00'
-end_date: '2024-12-19 21:45'
+start_date: '2025-03-20 19:30'
+end_date: '2025-03-20 21:45'
 free: false
 cost_details: '£4, under 25s free'
 virtual: false
@@ -117,14 +116,6 @@ content_area:
     content:
       -
         type: text
-        text: 'Keen photographer Chris shows us the birds, wild flowers and mammals seen during a cruise around the Arctic Svalbard.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: 'Visit the '
       -
         type: text
@@ -139,7 +130,7 @@ content_area:
         text: 'Suffolk Wildlife Trust website'
       -
         type: text
-        text: ' to find out more and book.'
+        text: ' to find out more. No need to book, just come along.'
 booking_link: 'https://www.suffolkwildlifetrust.org/events'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
@@ -150,7 +141,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102383
+updated_at: 1732104148
 duplicated_from: a28d8854-8506-4f72-b47c-31f3fd401729
 accessibility_information:
   - 'Wheelchair accessible'
@@ -158,4 +149,4 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 ---
-Join us for an illustrated talk by Chris Parfitt.
+A talk packed full of information and some wonderful visuals on these fascinating reptiles.
