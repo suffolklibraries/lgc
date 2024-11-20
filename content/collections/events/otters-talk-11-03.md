@@ -54,13 +54,13 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732117975
+updated_by: a720ec70-17d4-4534-b9e4-f0e078465928
+updated_at: 1732121010
 duplicated_from: 89637422-b2a9-4eb2-9cec-8746939686c5
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-latitude: '52.20674969218829,'
+latitude: '52.20674969218829'
 longitude: '1.5775640260825754'
 building_name: 'Leiston United Reform Church'
 address_line_1: '45A High Street'
