@@ -1,24 +1,23 @@
 ---
 id: b7940e1d-ff36-460f-8225-5f37251eeaa9
-published: false
 blueprint: events
-title: 'Young Wardens at Foxburrow (Duplicated)'
+title: 'Family Christmas Woodland Adventure'
 event_categories:
   - nature
   - teen
   - wellbeing
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-11-24 10:00'
-end_date: '2024-11-24 14:00'
+start_date: '2024-12-22 10:30'
+end_date: '2024-12-22 12:30'
 free: false
-cost_details: £7
+cost_details: 'From £10 for one adult and child'
 virtual: false
-attendance_information: 'suitable for young people aged 11 to 16'
+attendance_information: 'family friendly'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
-building_name: 'Discovery Room'
 address_line_1: 'Foxburrow Nature Reserve'
 town: Melton
 postcode: 'IP12 1NA'
@@ -54,7 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Are you looking for hands on practical experience, an opportunity to get outdoors, a chance to earn your Duke of Edinburgh award or a way to meet new friends? If so, Young Wardens if the group for you!'
+        text: 'Start your Christmas holidays with a festive morning in the woods.'
   -
     type: paragraph
     attrs:
@@ -62,15 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "All\_Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate."
+        text: "Join Sophie as she takes you to explore our forest school with group activities, games, and fun free-flow stations.\_ Our festive morning will include making natural Christmas decorations, creating tin can lanterns to guide Santa to your home and building a den, play on the rope swing, go on a festive scavenger hunt, whittle a Christmas gnome, and more.\_"
   -
     type: paragraph
     attrs:
@@ -103,11 +94,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732100383
+updated_at: 1732100831
 duplicated_from: 6ffa49e9-1ce8-4811-843f-a183c92f2a03
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
 ---
-Practical conservation and survey skills for teenagers aged 11-16.
+Join us for a festive family adventure in the woods.
