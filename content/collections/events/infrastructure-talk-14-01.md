@@ -1,29 +1,19 @@
 ---
 id: 89637422-b2a9-4eb2-9cec-8746939686c5
-published: false
 blueprint: events
-title: 'Talk: The Suffolk Hedgehog Hospital (Duplicated)'
+title: 'Talk: Suffolk Wildlife Trust engagement with energy infrastructure projects'
 event_categories:
   - nature
   - languages
-  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-08 14:30'
-end_date: '2025-01-08 15:30'
+start_date: '2025-01-14 19:30'
+end_date: '2025-01-14 20:30'
 free: false
-cost_details: '£3, under 25s free'
+cost_details: '£4, under 25s free'
 virtual: false
 content_area:
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'This presentation by the Suffolk Hedgehog Hospital will outline the work they do to help these beloved but increasingly scarce creatures.'
   -
     type: paragraph
     attrs:
@@ -56,36 +46,35 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732110662
+updated_at: 1732111038
 duplicated_from: a9c04001-e2b2-4803-b93f-1e3920325c11
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Hearing loop available'
   - 'Accessible toilets'
-latitude: '52.076192365587275'
-longitude: '0.45860238374622314'
-building_name: 'East Town Park Centre'
-address_line_1: 'Coupals Road'
-town: Haverhill
-postcode: 'CB9 7UR'
+latitude: '52.20674969218829,'
+longitude: '1.5775640260825754'
+building_name: 'Leiston United Reform Church'
+address_line_1: '45A High Street'
+town: Leiston
+postcode: 'IP16 4EL'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The centre is a two minute away from the '
+        text: 'The Leiston United Reform Church is a three minute away from '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/East+Town+Park+Centre/Minerva+Close,+Haverhill+CB9+0NG/@52.0760737,0.4559953,17z/data=!4m14!4m13!1m5!1m1!1s0x47d85ee9ceafccfb:0x8b4c49f409acd5fb!2m2!1d0.4585702!2d52.0760737!1m5!1m1!1s0x47d85ec267d0a2ef:0x5ef4ec298a6bcaa0!2m2!1d0.458309!2d52.076923!3e2?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.com/maps/dir/United+Church+Leiston/Library,+Leiston+IP16+4ES/@52.2072535,1.5742794,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47da27921eb00b9d:0x3426b13c29653f09!2m2!1d1.5775167!2d52.2065932!1m5!1m1!1s0x47da2791fcf026bb:0x9ce184d59d19ae23!2m2!1d1.576197!2d52.207821!3e2?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'nearest bus stop'
+        text: 'the nearest bus stop'
       -
         type: text
         text: .
@@ -94,7 +83,21 @@ directions:
     content:
       -
         type: text
-        text: 'There is onsite parking at the centre.'
+        text: 'The closest pay and display car park is '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/valley_road/ip16/leiston/?arriving=202411201400&leaving=202411201600'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Valley Road Car Park'
+      -
+        type: text
+        text: ', a three minute walk away.'
   -
     type: paragraph
     content:
@@ -116,4 +119,4 @@ directions:
         type: text
         text: .
 ---
-Come along and learn about hedgehogs and what you too might be able to do to help these friends of the gardener.
+Illustrated talk by Rupert Masefield about the Trust’s engagement with energy infrastructure projects including Sizewell C.
