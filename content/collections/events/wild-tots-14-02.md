@@ -1,8 +1,7 @@
 ---
 id: 87049a4f-61ae-463a-a5ff-68045320fb5a
-published: false
 blueprint: events
-title: 'Wild Tots in Holywells Park (Duplicated)'
+title: 'Wild Tots in Holywells Park'
 event_categories:
   - nature
   - early-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-07 10:00'
-end_date: '2025-02-07 11:30'
+start_date: '2025-02-14 10:00'
+end_date: '2025-02-14 11:30'
 free: false
 cost_details: £4.50
 virtual: false
@@ -141,7 +140,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732096118
+updated_at: 1732096140
 duplicated_from: 1560a633-46b8-4908-8dbf-decf6a7bd9ba
 ---
 Wild play activities for children aged 18 months to 5 years.
