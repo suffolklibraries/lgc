@@ -1,8 +1,7 @@
 ---
 id: e47b1d60-cf05-4256-9ae7-3a7ec133bf2c
-published: false
 blueprint: events
-title: 'Young Wardens at Carlton Marshes (Duplicated)'
+title: 'Young Wardens at Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-11-23 10:00'
-end_date: '2024-11-23 14:00'
+start_date: '2024-12-21 10:00'
+end_date: '2024-12-21 14:00'
 free: false
 cost_details: £7
 virtual: false
@@ -169,7 +168,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732098913
+updated_at: 1732102426
 duplicated_from: 790fa79a-b710-4ed4-bed9-596e8ecb9f26
 ---
 Practical conservation and survey skills for teenagers aged 11-16.
