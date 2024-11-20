@@ -15,8 +15,8 @@ free: false
 cost_details: £4.50
 virtual: false
 attendance_information: 'suitable for children aged 18 months to 5 years'
-latitude: '52.06161153059759'
-longitude: '1.1588483225206379'
+latitude: '52.06168079102026'
+longitude: '1.1589502483014091'
 building_name: 'The Reg Driver Centre'
 address_line_1: 'Christchurch Park'
 town: Ipswich
@@ -142,8 +142,8 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: a720ec70-17d4-4534-b9e4-f0e078465928
-updated_at: 1732120689
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1732121481
 duplicated_from: aa84a3d6-bf47-4f19-a3ee-b730c08feaf8
 ---
 Wild play activities for children aged 18 months to 5 years.
