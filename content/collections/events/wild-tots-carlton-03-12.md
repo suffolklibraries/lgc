@@ -1,8 +1,7 @@
 ---
 id: e588f2d5-0f8f-4a91-ae17-e0e89f5bc6ab
-published: false
 blueprint: events
-title: 'Wild Tots at Carlton Marshes (Duplicated)'
+title: 'Wild Tots at Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-11-26 10:30'
-end_date: '2024-11-26 12:00'
+start_date: '2024-12-03 10:30'
+end_date: '2024-12-03 12:00'
 free: false
 cost_details: £5.50
 virtual: false
@@ -137,7 +136,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732099293
+updated_at: 1732099347
 duplicated_from: 783c7334-f4d2-45b3-8d22-9625006d6e89
 ---
 Wild play activities for children aged 18 months - 5 years.
