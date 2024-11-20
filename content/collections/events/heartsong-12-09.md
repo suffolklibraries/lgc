@@ -1,7 +1,7 @@
 ---
 id: 746b8f57-bace-48ce-bce0-0e8925d4f0ad
 blueprint: events
-title: HeartSong
+title: 'HeartSong - Ipswich'
 event_categories:
   - music
   - later-years
@@ -124,7 +124,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732124543
+updated_at: 1732124667
 duplicated_from: 7b6d6b41-63c8-4fb5-9454-feaecf1ab7c8
 address_line_2: 'Rushmere St Andrew'
 ---
