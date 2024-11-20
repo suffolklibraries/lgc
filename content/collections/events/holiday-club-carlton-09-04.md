@@ -1,8 +1,7 @@
 ---
 id: f8c4bfb2-f10a-4944-8770-5db441885378
-published: false
 blueprint: events
-title: 'Holiday Club at Carlton Marshes (Duplicated)'
+title: 'Holiday Club at Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-23 09:00'
-end_date: '2024-12-23 15:30'
+start_date: '2025-04-09 09:00'
+end_date: '2025-04-09 15:30'
 free: true
 cost_details: 'Free for children receiving free school meals'
 virtual: false
@@ -88,6 +87,14 @@ content_area:
     content:
       -
         type: text
+        text: 'Holiday session involving outdoor activities, games, free play in the woods and crafts for 6-11 yr olds.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
         text: "A healthy vegetarian lunch and snacks will be provided, that we will prepare together as part of the day. This will be a jacket potato with a choice of cheese, baked beans and salad. If you think your child will not like this please let us know in advance.\_"
   -
     type: paragraph
@@ -129,7 +136,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102553
+updated_at: 1732103277
 duplicated_from: 8b439bad-80c1-4b65-8144-aef42e644d9a
 accessibility_information:
   - 'Accessible toilets'
