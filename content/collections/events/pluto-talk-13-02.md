@@ -1,8 +1,7 @@
 ---
 id: 959d705c-fd89-45eb-8ff9-cfa82e8485ca
-published: false
 blueprint: events
-title: 'Young Wardens at Carlton Marshes (Duplicated)'
+title: 'Pluto - An Astronomy Talk'
 event_categories:
   - nature
   - teen
@@ -10,12 +9,12 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-01-25 10:00'
-end_date: '2025-01-25 14:00'
+start_date: '2025-02-13 19:00'
+end_date: '2025-02-13 20:30'
 free: false
-cost_details: £7
+cost_details: £5
 virtual: false
-attendance_information: 'suitable for young people aged 11 to 16'
+attendance_information: 'suitable for adults'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
 building_name: 'Carlton Marshes Visitor Centre'
@@ -88,55 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: "Please note that this months Young Wardens will be at Oulton Marshes not Carlton Marshes. The address is\_Church Avenue, Oulton NR32 5BQ."
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Please bring a packed lunch as will be having a lunch break.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Young Wardens can contribute to the volunteering or skills section of the Duke of Edinburgh Award. If you would like to attend Young Wardens for this reason, please get in touch to let us know: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:carlton.engagement@suffolkwildlifetrust.org'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: carlton.engagement@suffolkwildlifetrust.org
-      -
-        type: text
-        text: ".\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "All\_Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate."
+        text: "Learn more about Pluto with local astronomer Ian Hobson.\_"
   -
     type: paragraph
     attrs:
@@ -169,9 +120,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102767
+updated_at: 1732102962
 duplicated_from: de04153b-e60f-47d3-9387-643b29891fbd
 accessibility_information:
   - 'Accessible toilets'
 ---
-Practical conservation and survey skills for teenagers aged 11-16.
+Join experts to find out more about the world around us.
