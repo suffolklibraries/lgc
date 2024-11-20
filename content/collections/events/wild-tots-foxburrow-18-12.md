@@ -1,8 +1,7 @@
 ---
 id: 30170bd2-e487-401e-b23e-249c17fa753a
-published: false
 blueprint: events
-title: 'Wild Tots at Foxburrow (Duplicated)'
+title: 'Wild Tots at Foxburrow'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-11 10:00'
-end_date: '2024-12-11 11:30'
+start_date: '2024-12-18 10:00'
+end_date: '2024-12-18 11:30'
 free: false
 cost_details: £7
 virtual: false
@@ -94,7 +93,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732100564
+updated_at: 1732101294
 duplicated_from: b0048f9b-8564-4f9a-acb2-a2b7280cbf1e
 accessibility_information:
   - 'Wheelchair accessible'
