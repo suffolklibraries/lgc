@@ -1,6 +1,5 @@
 ---
 id: 12f4531c-be61-4803-8f44-25663c79dc0e
-published: false
 blueprint: events
 title: 'Holiday Club at Carlton Marshes (Duplicated)'
 event_categories:
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-09 09:00'
-end_date: '2025-04-09 15:30'
+start_date: '2025-04-16 09:00'
+end_date: '2025-04-16 15:30'
 free: true
 cost_details: 'Free for children receiving free school meals'
 virtual: false
@@ -137,7 +136,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732103277
+updated_at: 1732103377
 duplicated_from: f8c4bfb2-f10a-4944-8770-5db441885378
 accessibility_information:
   - 'Accessible toilets'
