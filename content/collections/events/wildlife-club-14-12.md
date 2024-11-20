@@ -14,7 +14,7 @@ end_date: '2024-12-14 12:00'
 free: false
 cost_details: £5
 virtual: false
-attendance_information: 'suitable for childrewn aged 6 - 11'
+attendance_information: 'suitable for children aged 6 - 11'
 latitude: '52.047052878935006'
 longitude: '1.171173244877561'
 building_name: 'Holywells Park'
@@ -132,7 +132,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732097097
+updated_at: 1732097427
 duplicated_from: 87049a4f-61ae-463a-a5ff-68045320fb5a
 ---
 Meet new friends, get outdoors and earn awards.
