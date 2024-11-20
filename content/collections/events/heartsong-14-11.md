@@ -1,15 +1,14 @@
 ---
 id: 08081a98-4ee8-4b10-b1ed-97892999ca9e
-published: false
 blueprint: events
-title: 'HeartSong (Duplicated)'
+title: HeartSong
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-10-10 13:30'
-end_date: '2025-10-10 15:00'
+start_date: '2025-11-14 13:30'
+end_date: '2025-11-14 15:00'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -125,7 +124,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732124562
+updated_at: 1732124584
 duplicated_from: e0a6da46-8499-4d3a-acd3-98d8890fb95c
 address_line_2: 'Rushmere St Andrew'
 ---
