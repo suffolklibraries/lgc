@@ -168,7 +168,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102767
+updated_at: 1732103070
 duplicated_from: e47b1d60-cf05-4256-9ae7-3a7ec133bf2c
 accessibility_information:
   - 'Accessible toilets'
