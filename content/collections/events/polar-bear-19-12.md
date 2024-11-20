@@ -8,72 +8,86 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-11 19:30'
-end_date: '2024-12-11 20:30'
+start_date: '2024-12-19 19:00'
+end_date: '2024-12-19 21:45'
 free: false
-cost_details: '£3, under 25s free'
+cost_details: '£4, under 25s free'
 virtual: false
-latitude: '52.05780470809873'
-longitude: '1.1503350836157509'
-building_name: 'Museum Street Methodist Church'
-address_line_1: '17 Black Horse Lane'
-town: Ipswich
-postcode: 'IP1 2EF'
+latitude: '52.090114528571'
+longitude: '1.3156934935566305'
+building_name: 'Woodbridge Community Hall'
+address_line_1: 'Station Road'
+town: Woodbridge
+postcode: 'IP12 4AU'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is a small amount of parking by the Methodist Church. The closest public car park is '
+        text: "The nearest bus stop is a minute's walk away - "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ncp.co.uk/find-a-car-park/car-parks/ipswich-tower-ramparts/'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/'
               rel: null
               target: _blank
               title: null
-        text: 'NCP Tower Ramparts'
+        text: 'click here to access up-to-date bus timetables'
       -
         type: text
-        text: ' on Crown Street (IP1 3DH), which is open 24 hours a day, Monday to Sunday.  The council-run '
+        text: '. Woodbridge Community Hall is a three minute walk from '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/wdb'
               rel: null
               target: _blank
               title: null
-        text: 'Crown Street Car Par'
+        text: 'Woodbridge rail station'
       -
         type: text
-        text: 'k (IP1 3HS) also offers ample parking, just a couple of minutes walk away, and is open from 8am until 6.30pm (with a later closing time of 11.30pm on Friday and Saturday). '
+        text: '. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The church is located 5-6 minutes walk from '
+        text: "The nearest pay and display car parking is a minute's walk away at "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Tower+Ramparts+bus+station/@52.0593409,1.1498441,17z/data=!3m1!4b1!4m6!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
+              href: 'https://en.parkopedia.co.uk/parking/carpark/deben/ip12/woodbridge/?arriving=202404151530&leaving=202404151730'
               rel: null
               target: _blank
               title: null
-        text: 'Tower Ramparts Bus Station'
+        text: 'Deben car park'
       -
         type: text
-        text: ', a hub for bus routes from all around Ipswich and the surrounding areas.'
+        text: ' or a two minute walk at the'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/the_station/ip12/woodbridge/?arriving=202404081500&leaving=202404081700'
+              rel: null
+              target: _blank
+              title: null
+        text: ' rail station'
+      -
+        type: text
+        text: '. There is free onsite parking after 6pm/'
   -
     type: paragraph
     content:
@@ -102,23 +116,7 @@ content_area:
     content:
       -
         type: text
-        text: "Local photographer\_Chris has visited Svalbard’ an archipelago half way between north Norway and the north pole, where it is dark for 4 months of the year and the temperature seldom rises above 5 degrees, even in summer. But much wildlife thrives, together with about 2,500 humans and 1,000 polar bears."
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "No booking required. We now have a card reader, and would prefer this to be used for entry donations if this is possible, but if not, cash is of course\_acceptable."
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'We look forward to seeing you all.'
+        text: 'Keen photographer Chris shows us the birds, wild flowers and mammals seen during a cruise around the Arctic Svalbard.'
   -
     type: paragraph
     attrs:
@@ -151,7 +149,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732101528
+updated_at: 1732102383
 duplicated_from: e5e7fc79-260d-4d2f-88eb-f4ef278d4ab3
 accessibility_information:
   - 'Wheelchair accessible'
