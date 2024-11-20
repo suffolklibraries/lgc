@@ -1,16 +1,15 @@
 ---
 id: d04b8a2f-6615-46f7-b751-10acb3940ae6
-published: false
 blueprint: events
-title: 'Wildlife Live Webinar - Geodiversity (Duplicated)'
+title: 'Wildlife Live Webinar - Historical Ecology'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-03 19:00'
-end_date: '2025-03-03 20:30'
+start_date: '2025-10-10 19:00'
+end_date: '2025-10-10 20:30'
 free: false
 cost_details: 'from £3'
 virtual: true
@@ -22,7 +21,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Intimately linked with biodiversity, geodiversity is the non-biological aspect of nature, the physical framework for all life. Often overlooked in nature conservation, it underpins and determines today’s landscape and habitat and provides crucial evidence for our understanding of the evolution of the planet and its wildlife.'
+        text: 'In this fascinating webinar, Adrian will reveal the starting point for vegetation in Britain and how early man influenced it. Drawing on his knowledge of history, Adrian will look at how the countryside has changed over the centuries and the clues to the past we can find in old maps, field patterns, place names etc.'
   -
     type: paragraph
     attrs:
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: "With many years' experience of project work in the environment and heritage sector in East Anglia, Tim is a founder member of the GeoSuffolk group and geosites co-ordinator for the Norfolk Geodiversity Partnership. He has published books, papers and reports on geological subjects, and has originated two Earth heritage trails. He is a tutor for the Biodiversity & Environmental Education Society; former honorary president of the Geological Society of Norfolk and of the Norfolk & Norwich Naturalists’ Society; winner of the David Wood National Landscape Award, 2021."
+        text: "Suffolk Recorder for Hymenoptera and also Hemiptera, Adrian had his interest in historical geography kindled back in 1987, when working for Hampshire County Council undertaking research on sites of ecological importance using parish tithe maps and similar documents.\_ This started a fascination with maps and place names and how our countryside has evolved, which Adrian developed during work with Essex Wildlife Trust."
   -
     type: paragraph
     attrs:
@@ -71,7 +70,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732104011
+updated_at: 1732105061
 duplicated_from: 49401d31-ede1-42bf-835c-d9de24da1725
 ---
-What’s special about Suffolk’s geodiversity? Join Tim Holt-Wilson in exploring the county's rich Earth heritage
+Enjoy an evening discovering how history has shaped the ecology and geography of Suffolk, with Adrian Knowles.
