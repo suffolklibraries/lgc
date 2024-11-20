@@ -1,8 +1,7 @@
 ---
 id: 857deca9-c5cc-4b1d-a0c6-1417641c6012
-published: false
 blueprint: events
-title: 'Wild Tots in Christchurch Park (Duplicated)'
+title: 'Wild Tots in Christchurch Park'
 event_categories:
   - nature
   - early-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-24 10:00'
-end_date: '2024-12-24 11:30'
+start_date: '2024-12-31 10:00'
+end_date: '2024-12-31 11:30'
 free: false
 cost_details: £4.50
 virtual: false
@@ -144,7 +143,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732096377
+updated_at: 1732096404
 duplicated_from: aa84a3d6-bf47-4f19-a3ee-b730c08feaf8
 ---
 Wild play activities for children aged 18 months to 5 years.
