@@ -1,8 +1,7 @@
 ---
 id: 4a0f7721-0b61-424d-9d31-10e3f61aee60
-published: false
 blueprint: events
-title: 'Drop-in Seed Bomb Making (Duplicated)'
+title: 'Drop-in Seed Bomb Making'
 event_categories:
   - nature
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-01 10:00'
-end_date: '2025-03-01 15:00'
+start_date: '2025-03-08 10:00'
+end_date: '2025-03-08 15:00'
 free: false
 cost_details: '£3 per seed bomb'
 virtual: false
@@ -114,7 +113,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732103774
+updated_at: 1732103793
 duplicated_from: fdd59071-3345-4294-ab9d-6fe1a0fe2979
 accessibility_information:
   - 'Accessible toilets'
