@@ -113,5 +113,6 @@ postcode: 'IP4 1NG'
 attendance_information: 18+
 duplicated_from: 4d6801db-10d3-4549-898c-f7718dba2ab2
 accessibility_information: 'Studio accessed by flight of stairs'
+published: false
 ---
 Sarah Nkugwa of Pop Print Studio hosts a Print Social on the 4th Friday of the month in our Dove Street Studio
