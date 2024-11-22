@@ -1,21 +1,18 @@
 ---
 id: a8ba9255-1886-4f40-97c3-10d01790819a
-published: false
 blueprint: events
-title: 'HeartSong - Ipswich (Duplicated) (2)'
+title: 'Musical Memories - Ipswich'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-13 13:30'
-end_date: '2024-12-13 15:00'
+start_date: '2024-12-05 14:00'
+end_date: '2024-12-05 15:30'
 free: true
 cost_details: 'donations welcome'
 virtual: false
-attendance_information: |-
-  family carers and their partners and friends
-  people managing mental or physical health issues
+attendance_information: 'people with memory loss and their partners, family members or close friends'
 latitude: '52.0694203786907'
 longitude: '1.1999689684027481'
 building_name: 'Rushmere Village Hall'
@@ -85,7 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These friendly sessions are facilitated by Tracy and Jenny and take place on the second Friday of the month.'
+        text: 'These friendly sessions are facilitated by Mark Coburn and Tracy Sharp and a team of wonderful singing volunteers. The sessions take place on the first and third Thursdays of the month.'
   -
     type: paragraph
     attrs:
@@ -125,8 +122,12 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732125027
+updated_at: 1732291862
 duplicated_from: 88d21ec8-b21f-49a6-8f84-6412d37c5170
 address_line_2: 'Rushmere St Andrew'
+organisers:
+  - music-in-our-bones
+accessibility_information:
+  - 'Dementia friendly'
 ---
 Join our friendly wellbeing singing group!
