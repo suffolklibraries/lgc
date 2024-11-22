@@ -7,8 +7,8 @@ event_categories:
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2026-04-24 10:30'
-end_date: '2026-04-24 12:00'
+start_date: '2025-04-25 10:30'
+end_date: '2025-04-25 12:00'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -159,7 +159,7 @@ cta: |-
 
   [http://musicinourbones.com/](http://musicinourbones.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732290477
+updated_at: 1732290629
 duplicated_from: a94d9b06-a82f-4a35-aecd-6d7a5c073542
 organisers:
   - music-in-our-bones
