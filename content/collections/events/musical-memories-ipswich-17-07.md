@@ -1,15 +1,14 @@
 ---
 id: 8d4c65aa-8bf1-4e01-9183-fd377f13ed66
-published: false
 blueprint: events
-title: 'Musical Memories - Ipswich (Duplicated)'
+title: 'Musical Memories - Ipswich'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-07-03 14:00'
-end_date: '2025-07-03 15:30'
+start_date: '2025-07-17 14:00'
+end_date: '2025-07-17 15:30'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -123,7 +122,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732292231
+updated_at: 1732292251
 duplicated_from: 36e856fd-c3a2-4db7-aa96-708a2f264e8e
 address_line_2: 'Rushmere St Andrew'
 organisers:
