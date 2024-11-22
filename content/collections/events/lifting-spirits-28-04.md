@@ -1,15 +1,14 @@
 ---
 id: accd0cfa-b706-425b-bfcf-aa185c2ee4c8
-published: false
 blueprint: events
-title: 'Lifting Spirits (Duplicated) (Duplicated)'
+title: 'Lifting Spirits'
 event_categories:
   - music
   - wellbeing
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-03-10 19:00'
-end_date: '2025-03-10 20:30'
+start_date: '2025-04-28 19:00'
+end_date: '2025-04-28 20:30'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -124,7 +123,7 @@ cta: |-
 
   [http://musicinourbones.com/](http://musicinourbones.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732291360
+updated_at: 1732291397
 duplicated_from: 1ad0b557-b444-4c04-88ce-87bbbfe8f2c3
 organisers:
   - music-in-our-bones
