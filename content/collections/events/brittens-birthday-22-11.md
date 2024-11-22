@@ -104,5 +104,6 @@ cta: |-
   [info@brittenpearsarts.org](mailto:info@brittenpearsarts.org)
 
   [01728 451700](tel:01728451700)
+published: false
 ---
 Celebrating Benjamin Britten’s birthday on St Cecilia’s Day!
