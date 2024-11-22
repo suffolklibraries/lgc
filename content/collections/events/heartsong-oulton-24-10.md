@@ -1,15 +1,14 @@
 ---
 id: 450a43c7-3002-4b74-93de-53da3dca8279
-published: false
 blueprint: events
-title: 'HeartSong - Oulton Broad (Duplicated) (Duplicated)'
+title: 'HeartSong - Oulton Broad'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-07-18 10:30'
-end_date: '2025-07-18 12:00'
+start_date: '2025-10-24 10:30'
+end_date: '2025-10-24 12:00'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -160,7 +159,7 @@ cta: |-
 
   [http://musicinourbones.com/](http://musicinourbones.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732290686
+updated_at: 1732290733
 duplicated_from: 4e4abdce-e211-4fac-906e-5c0d63eb35e0
 organisers:
   - music-in-our-bones
