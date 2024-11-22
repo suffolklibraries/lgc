@@ -105,7 +105,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'http://musicinourbones.com/singing-groups/heartsong-great-blakenhan/'
+              href: 'http://musicinourbones.com/singing-groups/musical-memories/'
               rel: null
               target: _blank
               title: null
@@ -113,7 +113,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'http://musicinourbones.com/singing-groups/heartsong-great-blakenhan/'
+booking_link: 'http://musicinourbones.com/singing-groups/musical-memories/'
 cta: |-
   This event is organised by Music in our Bones
   [http://musicinourbones.com/](http://musicinourbones.com/) 
@@ -122,7 +122,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732292403
+updated_at: 1732292900
 duplicated_from: e32d7dc7-b71b-4367-a88f-2e6f4f1c867e
 address_line_2: 'Rushmere St Andrew'
 organisers:
