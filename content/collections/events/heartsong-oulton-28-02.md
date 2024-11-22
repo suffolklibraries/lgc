@@ -149,7 +149,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'http://musicinourbones.com/singing-groups/heartsong/'
+booking_link: 'http://musicinourbones.com/singing-groups/heartsong-oulton-broad/'
 cta: |-
   This event is organised by Music in our Bones
 
@@ -159,7 +159,7 @@ cta: |-
 
   [http://musicinourbones.com/](http://musicinourbones.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732290593
+updated_at: 1732291117
 duplicated_from: 9327b894-3516-40da-a56b-421c3b3a6233
 organisers:
   - music-in-our-bones
