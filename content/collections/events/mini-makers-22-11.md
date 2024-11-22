@@ -116,5 +116,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 attendance_information: 'under 5s'
 booking_link: 'https://www.brittenpearsarts.org/events/mini-music-makers#dates-and-times'
+published: false
 ---
 Friday morning session of fun music and play activities!
