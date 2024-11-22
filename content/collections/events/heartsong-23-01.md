@@ -1,34 +1,47 @@
 ---
 id: 9327b894-3516-40da-a56b-421c3b3a6233
-published: false
 blueprint: events
-title: 'HeartSong - Bury St Edmunds (Duplicated) (Duplicated) (Duplicated)'
+title: 'HeartSong - Oulton Broad'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-10-16 10:30'
-end_date: '2025-10-16 12:00'
+start_date: '2026-01-23 10:30'
+end_date: '2026-01-23 12:00'
 free: true
 cost_details: 'donations welcome'
 virtual: false
 attendance_information: |-
   family carers and their partners and friends
   people managing mental or physical health issues
-latitude: '52.24847880693231'
-longitude: '0.7115133524196464'
-building_name: 'Quaker Meeting House'
-address_line_1: "St John's Street"
-town: 'Bury Saint Edmunds'
-postcode: 'IP33 1SJ'
+latitude: '52.47096872014458'
+longitude: '1.7090071530839683'
+building_name: 'St Mark’s Church Hall'
+address_line_1: 'Bridge Road'
+town: Lowestoft
+postcode: 'NR33 9JX'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
+        text: 'The nearest bus stop is a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/dir/St+Marks+C+Of+E+Church,+Bridge+Road,+Lowestoft/John+Lang+Court,+Lowestoft+NR33+9JU/@52.4710552,1.7071281,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47da1ba144bbb153:0x1ac922d71fbf48a0!2m2!1d1.7090231!2d52.4708432!1m5!1m1!1s0x47da1ba3e15c621f:0x3bafcb917adc27ee!2m2!1d1.708942!2d52.471279!3e2?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: "minute's walk away"
+      -
+        type: text
+        text: ', and you can access up-to-date timetables on the '
       -
         type: text
         marks:
@@ -48,14 +61,14 @@ directions:
     content:
       -
         type: text
-        text: 'Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
+        text: 'Oulton Broad South railway station is a three minute walk away and you can find the train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ous'
               rel: null
               target: _blank
               title: null
@@ -68,35 +81,7 @@ directions:
     content:
       -
         type: text
-        text: 'There is car parking at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Arc shopping centre'
-      -
-        type: text
-        text: ', which a six minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'St Andrews Flexi-Stay car park'
-      -
-        type: text
-        text: ', which is a five minute walk.'
+        text: 'There is onsite car parking.'
   -
     type: paragraph
     content:
@@ -133,7 +118,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These friendly sessions are facilitated by Tracy and Denise and take place once a month on Thursdays.'
+        text: 'These friendly sessions are facilitated by Tracy and Helen and take place once the fourth Friday of the month.'
   -
     type: paragraph
     attrs:
@@ -149,39 +134,35 @@ content_area:
     content:
       -
         type: text
-        text: 'The Quaker Meeting House is best accessed from St Andrew’s Street North.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'To join a session, please '
+        text: 'To join a session, please'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'http://musicinourbones.com/singing-groups/heartsong/'
+              href: 'http://musicinourbones.com/singing-groups/heartsong-oulton-broad/'
               rel: null
               target: _blank
               title: null
-        text: 'register your interest via the Music in our Bones website'
+        text: ' register your interest via the Music in our Bones website'
       -
         type: text
         text: .
 booking_link: 'http://musicinourbones.com/singing-groups/heartsong/'
 cta: |-
   This event is organised by Music in our Bones
-  [http://musicinourbones.com/](http://musicinourbones.com/) 
 
   [musicinourbones@gmail.com](mailto:musicinourbones@gmail.com)
 
   [07757 809297](tel:07757809297)
+
+  [http://musicinourbones.com/](http://musicinourbones.com/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732125422
+updated_at: 1732290388
 duplicated_from: 889d5c33-da50-4287-b0b6-c68deb85ae46
+organisers:
+  - music-in-our-bones
+address_line_2: 'Oulton Broad'
 ---
 Join our friendly wellbeing singing group!
