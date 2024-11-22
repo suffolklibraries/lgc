@@ -122,7 +122,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732292060
+updated_at: 1732292167
 duplicated_from: 6fb7f112-6693-42c1-b941-306d29fc4d11
 address_line_2: 'Rushmere St Andrew'
 organisers:
