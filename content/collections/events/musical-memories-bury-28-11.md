@@ -1,46 +1,45 @@
 ---
 id: b7296b86-7529-4039-900e-1138cdf29571
-published: false
 blueprint: events
-title: 'Musical Memories - Ipswich (Duplicated)'
+title: 'Musical Memories - Bury St Edmunds'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-05 14:00'
-end_date: '2024-12-05 15:30'
+start_date: '2024-11-28 14:00'
+end_date: '2024-11-28 15:30'
 free: true
 cost_details: 'donations welcome'
 virtual: false
 attendance_information: 'people with memory loss and their partners, family members or close friends'
-latitude: '52.0694203786907'
-longitude: '1.1999689684027481'
-building_name: 'Rushmere Village Hall'
-address_line_1: 'Humber Doucy Lane'
-town: Ipswich
-postcode: 'IP4 3PD'
+latitude: '52.24536500083972'
+longitude: '0.7406295242345349'
+building_name: 'Moreton Hall Community Centre'
+address_line_1: 'Symonds Road'
+town: 'Bury St Edmunds'
+postcode: 'IP32 7EE'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'You can access Rushmere Village Hall by using buses 65 or 66. The '
+        text: The
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Rushmere+Village+Hall/@52.0693029,1.1954632,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99f1ab05c3d81:0x9b2fdb1998414256!2sRushmere+Community+Hub!2m2!1d1.1999425!2d52.068996!1m6!1m2!1s0x47d99f053addd5e5:0x3db48323dc02f91b!2sPost+Box,+Rushmere+St+Andrew,+Ipswich+IP4+3PB!2m2!1d1.201398!2d52.067795!3e2!3m5!1s0x47d99f1abaf959bd:0xb3acc8eb7a3c4972!8m2!3d52.0692951!4d1.1999797!16s%2Fg%2F11bc73gqv3?entry=ttu&g_ep=EgoyMDI0MTExNy4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.com/maps/dir/Moreton+Hall+Community+Centre,+Symonds+Road,+Bury+Saint+Edmunds/Community+Centre,+Bury+Saint+Edmunds+IP32+7EW/@52.2447536,0.738068,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d84cf0f701181f:0x8364f7693e1071dc!2m2!1d0.7406939!2d52.2452862!1m5!1m1!1s0x47d84cefd628d5a9:0x3d443b091d8692a0!2m2!1d0.740046!2d52.244221!3e2?entry=ttu&g_ep=EgoyMDI0MTExOS4yIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'nearest bus stop'
+        text: ' nearest bus stop'
       -
         type: text
-        text: ' is a two minute walk away.'
+        text: ' is a tree minute walk away.'
   -
     type: paragraph
     content:
@@ -83,7 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These friendly sessions are facilitated by Mark Coburn and Tracy Sharp and a team of wonderful singing volunteers. The sessions take place on the first and third Thursdays of the month.'
+        text: 'These friendly sessions are facilitated by Mark Coburn and Tracy Sharp and a team of wonderful singing volunteers. The sessions take place on the second and fourth Thursdays of the month.'
   -
     type: paragraph
     attrs:
@@ -106,15 +105,12 @@ content_area:
           -
             type: link
             attrs:
-              href: 'http://musicinourbones.com/singing-groups/heartsong-great-blakenhan/'
+              href: 'http://musicinourbones.com/singing-groups/musical-memories/'
               rel: null
               target: _blank
               title: null
-        text: 'register your interest via the Music in our Bones website'
-      -
-        type: text
-        text: .
-booking_link: 'http://musicinourbones.com/singing-groups/heartsong-great-blakenhan/'
+        text: 'register your interest via the Music in our Bones website.'
+booking_link: 'http://musicinourbones.com/singing-groups/musical-memories/'
 cta: |-
   This event is organised by Music in our Bones
   [http://musicinourbones.com/](http://musicinourbones.com/) 
@@ -123,9 +119,8 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732291862
+updated_at: 1732292681
 duplicated_from: a8ba9255-1886-4f40-97c3-10d01790819a
-address_line_2: 'Rushmere St Andrew'
 organisers:
   - music-in-our-bones
 accessibility_information:
