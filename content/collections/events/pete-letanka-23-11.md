@@ -150,5 +150,6 @@ cta: |-
 
   [01728 451700](tel:01728451700)
 address_line_1: 'Snape Maltings'
+published: false
 ---
 A one-day dive into the traditions of jazz.
