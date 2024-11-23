@@ -142,5 +142,6 @@ content_area:
         text: 'No need to book, just come along.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730806525
+published: false
 ---
 Join the festive fun in Framlingham!
