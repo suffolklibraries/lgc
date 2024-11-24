@@ -129,5 +129,6 @@ cta: |-
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730124747
+published: false
 ---
 Join us on the last Sunday of the month for a more relaxed time.
