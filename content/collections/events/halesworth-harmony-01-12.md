@@ -191,5 +191,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730882580
 duplicated_from: 1cf1b9cb-d8f9-4e64-a647-01d8992ca56c
+published: false
 ---
 A friendly and supportive choir, welcoming all singers without an audition.
