@@ -167,5 +167,6 @@ event_categories:
   - community
   - wellbeing
 booking_link: 'https://theseagull.co.uk/community_events/sunday-classics-film-club/'
+published: false
 ---
 A free accessible film screening designs for those living with dementia and their families.
