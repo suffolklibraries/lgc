@@ -215,5 +215,6 @@ end_date: '2024-11-27 18:30'
 attendance_information: "- Adults with Parkinson's"
 duplicated_from: 4cda8d9f-a7d5-4d73-a9a7-2f59af9091ec
 cost_details: '£6 per session'
+published: false
 ---
 Our Dance for Parkinson’s sessions are delivered in partnership with English National Ballet. The sessions bring a unique opportunity for people with Parkinson’s in Ipswich and the surrounding areas to engage with high quality dance classes in our studio.
