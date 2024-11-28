@@ -1,15 +1,14 @@
 ---
 id: 3db0f263-6c68-41b3-a3c0-1257694383c2
-published: false
 blueprint: events
-title: 'Musical Memories - Bury St Edmunds (Duplicated)'
+title: 'Musical Memories - Bury St Edmunds'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-09-25 14:00'
-end_date: '2025-09-25 15:30'
+start_date: '2025-10-09 14:00'
+end_date: '2025-10-09 15:30'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -120,7 +119,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732804515
+updated_at: 1732804541
 duplicated_from: 46a5717c-fac5-4835-95c9-7f71fe684640
 organisers:
   - music-in-our-bones
