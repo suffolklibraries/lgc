@@ -96,5 +96,6 @@ updated_at: 1730106819
 duplicated_from: c203fc4a-9279-4b16-a231-4c9f720c950f
 attendance_information: '- family friendly'
 booking_link: 'https://theseagull.co.uk/seagull_shows/seagull-youth-theatre-present-a-showcase/'
+published: false
 ---
 Bi-monthly performance platform for local poets and songwriters.
