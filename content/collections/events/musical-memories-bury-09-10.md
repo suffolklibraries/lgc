@@ -119,7 +119,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732804541
+updated_at: 1732804565
 duplicated_from: 46a5717c-fac5-4835-95c9-7f71fe684640
 organisers:
   - music-in-our-bones
