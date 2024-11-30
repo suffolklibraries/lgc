@@ -143,5 +143,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730388179
 duplicated_from: 85e3396b-6447-4257-a3cb-4d0edc7172e0
 attendance_information: 'ages 4 -11'
+published: false
 ---
 Get stuck into festive fun!
