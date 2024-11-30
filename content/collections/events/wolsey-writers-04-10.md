@@ -1,8 +1,7 @@
 ---
 id: d5443927-23c2-4968-bfcb-5fa7b0674ee7
-published: false
 blueprint: events
-title: 'Wolsey Writers (Duplicated)'
+title: 'Wolsey Writers'
 event_categories:
   - literature
   - theatre-and-performance
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - new-wolsey-theatre
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-09-06 10:30'
-end_date: '2025-09-06 12:00'
+start_date: '2025-10-04 10:30'
+end_date: '2025-10-04 12:00'
 free: true
 cost_details: 'pay as you can'
 virtual: false
@@ -195,7 +194,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732962617
+updated_at: 1732962652
 duplicated_from: f09cf28b-8204-41c7-a6ae-cacf39a2e287
 ---
 Meet. Write. Share.
