@@ -150,5 +150,6 @@ address_line_1: 'Haverhill Arts Centre'
 address_line_2: 'High Street'
 town: Haverhill
 postcode: 'CB9 8AR'
+published: false
 ---
 Our Christmas fireworks display is back in November.
