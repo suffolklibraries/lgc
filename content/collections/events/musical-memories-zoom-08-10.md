@@ -1,16 +1,15 @@
 ---
 id: 82b1d20a-1bfc-41d5-8626-7e83d405b712
-published: false
 blueprint: events
-title: 'Musical Memories - Online (Duplicated)'
+title: 'Musical Memories - Online'
 event_categories:
   - music
   - later-years
   - wellbeing
   - computing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-09-24 14:00'
-end_date: '2025-09-24 15:00'
+start_date: '2025-10-08 14:00'
+end_date: '2025-10-08 15:00'
 free: true
 cost_details: 'donations welcome'
 virtual: true
@@ -76,7 +75,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732965402
+updated_at: 1732965427
 duplicated_from: 2defd464-9597-40d8-ac39-ec18dc974976
 organisers:
   - music-in-our-bones
