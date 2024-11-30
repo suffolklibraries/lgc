@@ -1,21 +1,18 @@
 ---
 id: 8dfeac7a-502b-4de3-bc85-e826a38e0df3
-published: false
 blueprint: events
-title: 'HeartSong - Ipswich (Duplicated) (2)'
+title: 'Stroke Songlines'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-13 13:30'
-end_date: '2024-12-13 15:00'
+start_date: '2024-12-04 14:30'
+end_date: '2024-12-04 16:00'
 free: true
 cost_details: 'donations welcome'
 virtual: false
-attendance_information: |-
-  family carers and their partners and friends
-  people managing mental or physical health issues
+attendance_information: 'stroke survivors with their friends and partners'
 latitude: '52.0694203786907'
 longitude: '1.1999689684027481'
 building_name: 'Rushmere Village Hall'
@@ -77,7 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please feel free to bring a friend, family member or support worker with you! '
+        text: 'Well known songs often enjoyed as well as new songs taught by ear. Please feel free to bring along a friend or family member!'
   -
     type: paragraph
     attrs:
@@ -85,7 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These friendly sessions are facilitated by Tracy and Jenny and take place on the second Friday of the month.'
+        text: 'These friendly sessions are facilitated by Mark Coburn and Tracy Sharp and take place on the first and third Wednesdays of the month.'
   -
     type: paragraph
     attrs:
@@ -93,7 +90,7 @@ content_area:
     content:
       -
         type: text
-        text: 'All our sessions are free but donations are welcome. '
+        text: 'All our sessions are free but donations are welcome. These sessions are run in partnership with the Stroke Association. '
   -
     type: paragraph
     attrs:
@@ -108,15 +105,12 @@ content_area:
           -
             type: link
             attrs:
-              href: 'http://musicinourbones.com/singing-groups/heartsong-great-blakenhan/'
+              href: 'http://musicinourbones.com/singing-groups/stroke-songlines/'
               rel: null
               target: _blank
               title: null
-        text: 'register your interest via the Music in our Bones website'
-      -
-        type: text
-        text: .
-booking_link: 'http://musicinourbones.com/singing-groups/heartsong-great-blakenhan/'
+        text: 'register your interest via the Music in our Bones website.'
+booking_link: 'http://musicinourbones.com/singing-groups/stroke-songlines/'
 cta: |-
   This event is organised by Music in our Bones
   [http://musicinourbones.com/](http://musicinourbones.com/) 
@@ -125,8 +119,10 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732125027
+updated_at: 1732963897
 duplicated_from: 88d21ec8-b21f-49a6-8f84-6412d37c5170
 address_line_2: 'Rushmere St Andrew'
+organisers:
+  - music-in-our-bones
 ---
-Join our friendly wellbeing singing group!
+Health and well-being singing sessions for stroke survivors
