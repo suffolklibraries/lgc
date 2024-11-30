@@ -221,5 +221,6 @@ cta: |-
   [https://wildpearcic.co.uk/](https://wildpearcic.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730907640
+published: false
 ---
 Explore your personal connection to the Lowestoft coastal and marine landscape at a small relaxed workshop.
