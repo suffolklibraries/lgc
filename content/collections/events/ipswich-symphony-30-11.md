@@ -142,5 +142,6 @@ cta: |-
   This event is organised by Ipswich Theatres
 
   [https://ipswichtheatres.co.uk/](https://ipswichtheatres.co.uk/)
+published: false
 ---
 Come and join the Ipswich Symphony Orchestra for a fantastic autumn concert.
