@@ -1,15 +1,14 @@
 ---
 id: 69b96bbf-8574-4b21-8bea-f52d260b311e
-published: false
 blueprint: events
-title: 'Stroke Songlines (Duplicated)'
+title: 'Stroke Songlines'
 event_categories:
   - music
   - later-years
   - wellbeing
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-07-16 14:30'
-end_date: '2025-07-16 16:00'
+start_date: '2025-09-03 14:30'
+end_date: '2025-09-03 16:00'
 free: true
 cost_details: 'donations welcome'
 virtual: false
@@ -120,7 +119,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732964319
+updated_at: 1732964359
 duplicated_from: 71c1baba-4686-498b-a481-a52e525b24f5
 address_line_2: 'Rushmere St Andrew'
 organisers:
