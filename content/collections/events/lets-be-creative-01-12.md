@@ -194,5 +194,6 @@ duplicated_from: ad58b9e8-b7f2-4cdf-a99a-da4b58570fc0
 organisers:
   - suffolk-libraries
 booking_link: 'https://www.eventbrite.co.uk/e/lets-be-creative-workshop-tickets-1084376030899'
+published: false
 ---
 Join our free creative workshop to celebrate Romania's National Day!
