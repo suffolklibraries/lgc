@@ -105,5 +105,6 @@ duplicated_from: 9ee19ee6-b5ba-40f4-a442-bd39798d7b2f
 attendance_information: 'Family friendly'
 cost_details: '£5 plus booking fee'
 booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-full-animal-handling-experience'
+published: false
 ---
 Animal handling experience!
