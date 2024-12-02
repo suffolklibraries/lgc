@@ -190,5 +190,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Offering family carers enjoyable creative get-togethers exploring food, culture and nature.
