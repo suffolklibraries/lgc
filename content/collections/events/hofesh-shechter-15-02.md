@@ -1,25 +1,22 @@
 ---
 id: 4d471504-e432-4e6f-b8ff-6bf81c301f96
-published: false
 blueprint: events
-title: "Let's Dance! Holiday Club (Duplicated)"
+title: 'Hofesh Shechter Dance Workshop'
 event_categories:
   - dance
+  - movement
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance_ballet-(1).png
-start_date: '2025-01-03 08:45'
-end_date: '2025-01-04 15:15'
+start_date: '2025-02-10 10:30'
+end_date: '2025-02-10 12:30'
 free: true
-cost_details: 'Free for children receiving free school meals'
+cost_details: '£12 with bursaries available'
 virtual: false
-attendance_information: 'ages 4 - 11'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Quiet space available'
-  - 'Autism friendly'
+  - 'Hearing loop available'
   - 'Accessible toilets'
-  - 'Accessible parking spaces'
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 building_name: DanceEast
@@ -155,7 +152,35 @@ content_area:
     content:
       -
         type: text
-        text: 'DanceEast will provide a nutritious hot lunch, healthy snack, and drink, as well as arts and crafts activities. It’s a great chance for young people to form new friendships, build confidence and develop fresh new skills.'
+        text: 'Hofesh Shechter is one of the UK’s most exciting contemporary artists. His unique style of choreography, infused with honesty and raw physicality has won Hofesh and his Company world-wide acclaim.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Led by a Hofesh Shechter Company dancer this workshop is an opportunity for dance teachers, students and professional dancers to explore the Company’s distinctive movement style – combining energy, emotion, floor work, groove and rhythm, at the heart of their dynamic choreography.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'The workshop will include a full warm up and use repertoire and imagery from Hofesh’s critically acclaimed work, to explore his creative process.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Don’t miss out on this exciting opportunity to gain an insight into the work of Hofesh Shechter and connect with like-minded dancers in a creative, inspiring environment.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
   -
     type: paragraph
     attrs:
@@ -165,8 +190,8 @@ content_area:
         type: text
         marks:
           -
-            type: italic
-        text: '“Everyone was so welcoming and friendly! Really positive experience! And so much fun was had! They couldn’t wait to go back again.”'
+            type: bold
+        text: BURSARIES
   -
     type: paragraph
     attrs:
@@ -174,87 +199,45 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: italic
-        text: '“This is one of the best holiday clubs I have found. Very happy.”'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Free places are available to those on income/benefit related Free School Meals.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Limited places are available for young people who identify as being “in need of provision” (indicators for this may include, for example, being on Universal Credit).'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: Click
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club/'
-              rel: null
-              target: _blank
-              title: null
-        text: ' here to book your place via the DanceEast website'
-      -
-        type: text
-        text: '. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'If you have any questions, or would like to book over the phone, please contact Hayley Lemon, Programme Coordinator on '
+        text: 'Young people aged 11-16 years old from low-income households may be eligible to access this class for free through the DanceEast Bursary Fund. Find out more about the DanceEast Bursary Fund and the necessary criteria '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:hayley.lemon@danceeast.co.uk'
+              href: 'https://www.danceeast.co.uk/news/the-danceeast-bursary-fund/'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: hayley.lemon@danceeast.co.uk
+        text: here
       -
         type: text
-        text: ' or call our Box Office on '
+        text: '. Places are limited and will be allocated on a first-come, first-served basis.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'If you are aged 16+ and would like to take part but face financial barriers, please contact '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473295230'
+              href: 'mailto:daisy.wyatt@danceeast.co.uk'
               rel: null
               target: null
               title: null
-        text: '01473 295230'
-      -
-        type: text
-        text: .
-booking_link: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club/'
+          -
+            type: underline
+        text: daisy.wyatt@danceeast.co.uk
+booking_link: 'https://www.danceeast.co.uk/workshops/hofesh-shecther-company-dance-workshop/'
 cta: |-
   This event is organised by Dance East
 
@@ -264,7 +247,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730389587
+updated_at: 1733158875
 duplicated_from: 77665443-e1fe-4eeb-b0e9-57d1ffa8791b
 ---
-A fun, energetic and imaginative way for children to express themselves through movement.
+Join us for an exciting workshop led by Hofesh Shechter Company, where you’ll dive into the raw, electrifying style that has made the company world-renowned.
