@@ -2,15 +2,15 @@
 id: 08796fd4-4b57-43b0-aac8-22207f5e43ff
 published: false
 blueprint: events
-title: 'Family Screening - Shaun the Sheep Farmageddon (Duplicated)'
+title: 'Family Screening - Chicken Run'
 event_categories:
   - family-friendly
   - film
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2024-12-22 10:30'
-end_date: '2024-12-22 12:00'
+start_date: '2024-12-29 10:30'
+end_date: '2024-12-29 12:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -114,7 +114,7 @@ content_area:
     content:
       -
         type: text
-        text: 'When an alien possessing strange powers crash-lands near Mossy Bottom Farm, Shaun the Sheep quickly makes a new friend. Together they must run from a dangerous organisation who wants to capture the intergalactic visitor.'
+        text: 'Award-winning DreamWorks animation from the Aardman team, telling the story of a band of chickens doomed to a life of egg-laying on a Yorkshire chicken farm. When a flamboyant American rooster arrives on the scene, the hens hope he can teach them to fly to freedom. However, when a chicken-pie making machine is installed, their need becomes urgent and they must devise other means of escape.'
   -
     type: paragraph
     attrs:
@@ -123,7 +123,7 @@ content_area:
       -
         type: text
         text: "Please Note:\_There are only 5 minutes of pre-show trailers, it is advisable to arrive before the time advertised."
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=7965441'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=7965495'
 cta: |-
   This event is organised by The Regal
 
@@ -133,7 +133,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733156851
+updated_at: 1733156892
 duplicated_from: 7ef25b94-a564-4073-9650-ca9f6082f709
 ---
 Come along for a relaxed, family friendly screening.
