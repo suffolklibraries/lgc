@@ -1,6 +1,5 @@
 ---
 id: 08796fd4-4b57-43b0-aac8-22207f5e43ff
-published: false
 blueprint: events
 title: 'Family Screening - Chicken Run'
 event_categories:
