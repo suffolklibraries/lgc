@@ -1,16 +1,15 @@
 ---
 id: b6c0e812-980f-4d0e-9346-b37814216fbf
-published: false
 blueprint: events
-title: 'Family Screening - Pirates! Band of Misfits (Duplicated)'
+title: 'Family Screening - Early Man'
 event_categories:
   - family-friendly
   - film
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-01-05 10:30'
-end_date: '2025-01-05 12:00'
+start_date: '2025-01-12 10:30'
+end_date: '2025-01-12 12:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -114,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: "Accompanied by his ragtag crew, an enthusiastic pirate captain (Hugh Grant) sails the high seas and dreams of besting his bitter rivals, Black Bellamy (Jeremy Piven) and Cutlass Liz (Salma Hayek), in a quest to win the coveted title of Pirate of the Year. The captain's quest takes him and his comrades from the exotic shores of Blood Island to Victorian London's foggy streets. Along the way, they battle a clever queen and join forces with a young scientist named Charles Darwin (David Tennant)."
+        text: 'A plucky cave man named Dug, his sidekick Hognob and the rest of their tribe face a grave threat to their simple existence. Lord Nooth plans to take over their land and transform it into a giant mine, forcing Dug and his clan to dig for precious metals. Not ready to go down without a fight, Dug and Hognob must unite their people in an epic quest to defeat a mighty enemy - the Bronze Age.'
   -
     type: paragraph
     attrs:
@@ -123,7 +122,7 @@ content_area:
       -
         type: text
         text: "Please Note:\_There are only 5 minutes of pre-show trailers, it is advisable to arrive before the time advertised."
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=7966631'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=7966690'
 cta: |-
   This event is organised by The Regal
 
@@ -133,7 +132,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733156947
+updated_at: 1733156991
 duplicated_from: dd8a4f54-768b-4066-ad96-100456074011
 ---
 Come along for a relaxed, family friendly screening.
