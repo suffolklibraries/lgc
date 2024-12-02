@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance_ballet-(1).png
-start_date: '2025-02-10 10:30'
-end_date: '2025-02-10 12:30'
+start_date: '2025-02-15 10:30'
+end_date: '2025-02-15 12:30'
 free: true
 cost_details: '£12 with bursaries available'
 virtual: false
@@ -247,7 +247,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733158875
+updated_at: 1733158915
 duplicated_from: 77665443-e1fe-4eeb-b0e9-57d1ffa8791b
 ---
 Join us for an exciting workshop led by Hofesh Shechter Company, where you’ll dive into the raw, electrifying style that has made the company world-renowned.
