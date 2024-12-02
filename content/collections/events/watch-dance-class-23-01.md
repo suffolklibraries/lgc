@@ -1,25 +1,21 @@
 ---
 id: e6125825-7704-4abe-8f80-92ebb8e70189
-published: false
 blueprint: events
-title: "Let's Dance! Holiday Club (Duplicated)"
+title: 'Watch Dance Class - Far From the Norm'
 event_categories:
   - dance
+  - movement
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance_ballet-(1).png
-start_date: '2025-01-03 08:45'
-end_date: '2025-01-04 15:15'
+start_date: '2025-01-23 12:00'
+end_date: '2025-01-23 13:00'
 free: true
-cost_details: 'Free for children receiving free school meals'
 virtual: false
-attendance_information: 'ages 4 - 11'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Quiet space available'
-  - 'Autism friendly'
+  - 'Hearing loop available'
   - 'Accessible toilets'
-  - 'Accessible parking spaces'
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 building_name: DanceEast
@@ -155,108 +151,66 @@ content_area:
     content:
       -
         type: text
-        text: 'DanceEast will provide a nutritious hot lunch, healthy snack, and drink, as well as arts and crafts activities. It’s a great chance for young people to form new friendships, build confidence and develop fresh new skills.'
+        text: "Discover the bold, high-energy world of\_"
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "Far From the Norm,\_"
+      -
+        type: text
+        text: 'one of the UK’s leading hip hop theatre companies. Join us for an exclusive opportunity to witness their dynamic rehearsal process. Watch as their innovative fusion of hip hop, contemporary dance and storytelling comes to life.'
   -
     type: paragraph
     attrs:
       textAlign: start
     content:
+      -
+        type: text
+        text: "*Tickets are free but must be booked with a ticket to one of the performances of\_"
       -
         type: text
         marks:
           -
             type: italic
-        text: '“Everyone was so welcoming and friendly! Really positive experience! And so much fun was had! They couldn’t wait to go back again.”'
+        text: 'Until We Sleep'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
       textAlign: start
     content:
+      -
+        type: text
+        text: "\_Find out more about Far From The Norm’s\_"
       -
         type: text
         marks:
           -
             type: italic
-        text: '“This is one of the best holiday clubs I have found. Very happy.”'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Free places are available to those on income/benefit related Free School Meals.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Limited places are available for young people who identify as being “in need of provision” (indicators for this may include, for example, being on Universal Credit).'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: Click
+        text: "Until We Sleep\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club/'
-              rel: null
-              target: _blank
-              title: null
-        text: ' here to book your place via the DanceEast website'
-      -
-        type: text
-        text: '. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'If you have any questions, or would like to book over the phone, please contact Hayley Lemon, Programme Coordinator on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:hayley.lemon@danceeast.co.uk'
+              href: 'https://www.danceeast.co.uk/performances/far-from-the-norm-until-we-sleep/'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: hayley.lemon@danceeast.co.uk
-      -
-        type: text
-        text: ' or call our Box Office on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473295230'
-              rel: null
-              target: null
-              title: null
-        text: '01473 295230'
+        text: here
       -
         type: text
         text: .
-booking_link: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club/'
+booking_link: 'https://www.danceeast.co.uk/workshops/watch-dance-class-far-from-the-norm/'
 cta: |-
-  This event is organised by Dance East
+  This event is organised by DanceEast
 
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
 
@@ -264,7 +218,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730389587
+updated_at: 1733158777
 duplicated_from: 77665443-e1fe-4eeb-b0e9-57d1ffa8791b
 ---
-A fun, energetic and imaginative way for children to express themselves through movement.
+Watch Dance Class is an open house, professional company class experience for dance students, artists, bloggers and anyone interested in peeking behind the scenes – you will be free to draw, paint, or simply observe.
