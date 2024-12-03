@@ -1,8 +1,7 @@
 ---
 id: 423bdea7-98e7-4e0a-b606-60ff51365ab4
-published: false
 blueprint: events
-title: 'High School Sketch Book Club (Duplicated) (Duplicated)'
+title: 'High School Sketch Book Club'
 event_categories:
   - art
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2024-12-07 12:00'
-end_date: '2024-12-07 13:30'
+start_date: '2024-12-14 12:00'
+end_date: '2024-12-14 13:30'
 free: false
 virtual: false
 latitude: '52.0563490706618'
@@ -100,7 +99,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733223523
+updated_at: 1733223545
 duplicated_from: 6aa4c5d7-a920-41d1-ae75-64bc7f0999af
 cost_details: £9
 accessibility_information:
