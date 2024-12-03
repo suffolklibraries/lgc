@@ -1,14 +1,13 @@
 ---
 id: 0a33cb15-d256-4cb4-b838-900c04a88dde
-published: false
 blueprint: events
-title: 'North Suffolk Youth Music Beginner Band (Duplicated)'
+title: 'North Suffolk Youth Music Beginner Band'
 event_categories:
   - music
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-01-24 16:30'
-end_date: '2025-02-07 17:45'
+start_date: '2025-02-14 16:30'
+end_date: '2025-02-14 17:45'
 free: true
 cost_details: 'bursaries available'
 virtual: false
@@ -151,7 +150,7 @@ cta: |-
 
   [https://suffolkcountymusicservice.co.uk/](https://suffolkcountymusicservice.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733222396
+updated_at: 1733222418
 organisers:
   - suffolk-county-music-service
 duplicated_from: 77cd501a-ebbc-41a1-9c87-9d6938d745ec
