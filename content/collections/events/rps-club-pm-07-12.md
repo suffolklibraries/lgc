@@ -1,16 +1,15 @@
 ---
 id: 4c5a6805-8fd6-4250-934c-8ec07d807c76
-published: false
 blueprint: events
-title: 'Saturday Art Club (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - art
   - family-friendly
 organisers:
   - rock-paper-scissors
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2024-12-07 10:00'
-end_date: '2024-12-07 11:30'
+start_date: '2024-12-07 14:00'
+end_date: '2024-12-07 15:30'
 free: false
 virtual: false
 latitude: '52.0563490706618'
@@ -89,10 +88,11 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733223277
+updated_at: 1733223372
 duplicated_from: 6332dcaf-9756-40ae-b520-56fa79fe114a
 cost_details: £9
 accessibility_information:
   - 'Autism friendly'
+attendance_information: 'children aged 5 - 10'
 ---
 Join our Weekly Art Club for 5-10-year-olds!
