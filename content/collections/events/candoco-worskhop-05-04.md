@@ -1,15 +1,14 @@
 ---
 id: 8801d23c-96ce-443d-85df-8a66737b7526
-published: false
 blueprint: events
-title: 'Baby Love to Boogie (Duplicated)'
+title: 'Candoco Inclusive Dance Workshop'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733214903
+updated_at: 1733215007
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-04-13 10:30'
-free: false
+start_date: '2025-04-05 11:00'
+free: true
 virtual: false
 organisers:
   - danceeast
@@ -26,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The coolest baby disco in town is here, and it’s all about moving, laughing and celebrating the magic of Spring together!'
+        text: 'Experience the joy of creative movement in an empowering and accessible environment. This workshop celebrates everybody’s unique potential, offering the freedom to explore and express through dance.'
   -
     type: paragraph
     attrs:
@@ -34,22 +33,20 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by our super fun dance expert you and your little ones (up to 4 years old!) will dive into playful dance games, explore props, and enjoy easy, feel-good dance moves.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        text: "Find out more about Candoco’s upcoming performance of\_"
       -
         type: text
-        text: 'We’ve got two awesome sessions: the first one is perfect for little movers aged 0-4 and their grown-ups, while the second session brings the energy for all ages but is especially great for families with young people aged 5-7. Find out more about Kids Love to Boogie '
+        marks:
+          -
+            type: italic
+        text: "Over and Over (and over) Again\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/kids-love-to-boogie/'
+              href: 'https://www.danceeast.co.uk/performances/candoco-over-and-over-and-over-again/'
               rel: null
               target: null
               title: null
@@ -59,14 +56,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'It’s the perfect chance to shake off those winter blues and let your family’s love of movement bloom. No dance experience needed – just come ready to have a blast!'
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -74,15 +63,12 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-04-13 12:30'
-attendance_information: 'suitable for 0-7 year olds'
+end_date: '2025-04-05 13:00'
 duplicated_from: c47b4a75-d15b-4bb8-926c-0b655952d550
-cost_details: '£5 for kids, £7 for adults'
+cost_details: '£12 with bursaries available'
 event_categories:
   - dance
   - movement
-  - family-friendly
-  - early-years
 accessibility_information:
   - 'Accessible toilets'
 directions:
@@ -197,6 +183,6 @@ directions:
               target: null
               title: null
         text: here.
-booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-6/'
+booking_link: 'https://www.danceeast.co.uk/workshops/candoco-inclusive-dance-workshop/'
 ---
-Get ready to groove with your family at our super fun Spring-themed Kids Love to Boogie!
+Join Candoco Dance Company, known for their innovative approach to inclusive dance, in a workshop for participants with disabilities.
