@@ -1,15 +1,14 @@
 ---
 id: 9d6b58c4-15ca-4cca-9ca3-623bcb1eeaf8
-published: false
 blueprint: events
-title: 'Melting Pot with Mana Art - Watercolour Card Making (Duplicated)'
+title: 'Melting Pot with Mana Art - Card Making with Stencils'
 event_categories:
   - art
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-02-12 11:00'
-end_date: '2025-02-12 13:00'
+start_date: '2025-02-22 11:00'
+end_date: '2025-02-22 13:00'
 free: false
 virtual: false
 accessibility_information:
@@ -75,7 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore water colour techniques while crafting personalised, hand painted cards.'
+        text: "You will learn how to make the most from stencils, try out lots of different techniques and take home a lovely selection of greetings cards you will be proud of.\_"
   -
     type: paragraph
     attrs:
@@ -83,15 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'All materials are provided along with the expertise of a professional artist.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Please bring an apron or wear clothing that you might not mind getting a few splatters of paint on.'
+        text: 'All equipment is supplied.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -99,9 +90,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733224375
+updated_at: 1733224453
 duplicated_from: a046cd51-e683-4845-984c-3408f9c29812
 cost_details: '£5 per person'
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-water-colour-card-making/e-bvdbxe'
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-card-making-with-stencils/e-gxgpvx'
 ---
-A creative and engaging watercolour card-making workshop, designed for beginners and enthusiasts alike.
+Come along to our card making with stencils workshop for 2 hours of creative fun.
