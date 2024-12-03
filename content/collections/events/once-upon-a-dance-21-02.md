@@ -232,5 +232,6 @@ directions:
               target: null
               title: null
         text: here.
+published: false
 ---
 An exciting, fun-filled day of moving, music-making, songwriting and creativity!
