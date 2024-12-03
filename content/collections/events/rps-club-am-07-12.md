@@ -1,20 +1,17 @@
 ---
 id: 6332dcaf-9756-40ae-b520-56fa79fe114a
-published: false
 blueprint: events
-title: 'Rock Paper Stitch (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - art
-  - community
-  - wellbeing
+  - family-friendly
 organisers:
   - rock-paper-scissors
-featured_image: rockpaperscissorsimages/rock-paper-stitch-3x2.png
-start_date: '2024-12-13 19:00'
-end_date: '2024-12-13 21:00'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2024-12-07 10:00'
+end_date: '2024-12-07 11:30'
 free: false
 virtual: false
-attendance_information: adults
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 building_name: 'Dove Street Studio'
@@ -84,67 +81,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Share the love for knitting, sewing, crocheting and any other needle crafts with like minded makers - with tea and cake!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The group is hosted by Thaksala Haylock ('
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.instagram.com/inkyandthebears/?hl=en'
-              rel: null
-              target: _blank
-              title: null
-        text: '@inkyandthebears on Instagram'
-      -
-        type: text
-        text: )
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Please be aware that this is not an instructional session.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.rockpaperscissors.org.uk/programme'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Rock Paper Scissors website'
-      -
-        type: text
-        text: ' to find out more and book your place.'
+        text: 'Ninety minutes of creative fun, and you can drop off your child with peace of mind – our staff are DBS checked, pediatric first aid qualified, and have safeguarding training.'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730368836
+updated_at: 1733223277
 duplicated_from: 6901e8eb-bb7c-4203-a7d3-235b4f5374e0
-cost_details: £5
+cost_details: £9
+accessibility_information:
+  - 'Autism friendly'
 ---
-A monthly community group for adult makers to bring their own projects to work on.
+Join our Weekly Art Club for 5-10-year-olds!
