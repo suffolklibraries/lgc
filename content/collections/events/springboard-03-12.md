@@ -314,5 +314,6 @@ end_date: '2024-12-03 18:30'
 attendance_information: '- Adults with additional needs'
 duplicated_from: 09967e08-64fd-4359-90e4-68aaa309b89a
 cost_details: '£6 per workshop or pay as you can'
+published: false
 ---
 Our fun, friendly and inclusive Springboard classes give adults with additional needs the opportunity to move and explore, using dance as a tool to develop skills.
