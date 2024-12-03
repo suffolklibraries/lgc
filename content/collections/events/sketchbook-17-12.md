@@ -1,15 +1,14 @@
 ---
 id: 138bbe8a-f5ca-449f-80f8-742e2f25f5b6
-published: false
 blueprint: events
-title: 'Grown Ups Sketchbook Club (Duplicated)'
+title: 'Grown Ups Sketchbook Club'
 event_categories:
   - wellbeing
   - art
   - community
 organisers:
   - rock-paper-scissors
-start_date: '2024-12-10 19:30'
+start_date: '2024-12-17 19:30'
 free: false
 virtual: true
 content_area:
@@ -57,9 +56,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733223036
+updated_at: 1733223065
 featured_image: pelicanpelican-3x2/lgc-va.png
-end_date: '2024-12-10 20:30'
+end_date: '2024-12-17 20:30'
 attendance_information: adults
 duplicated_from: 6ddf952e-fa19-484f-8a93-6c44acc32fa5
 cost_details: '£5 per household'
