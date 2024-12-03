@@ -1,15 +1,14 @@
 ---
 id: b568c777-c515-4fa4-9e7d-425b5db7b91c
-published: false
 blueprint: events
-title: 'Melting Pot with Mana Art - Card Making with Stencils (Duplicated)'
+title: 'Melting Pot with Mana Art - Jewellery Making'
 event_categories:
   - art
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-02-22 11:00'
-end_date: '2025-02-22 13:00'
+start_date: '2025-03-26 11:00'
+end_date: '2025-03-26 13:00'
 free: false
 virtual: false
 accessibility_information:
@@ -75,7 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: "You will learn how to make the most from stencils, try out lots of different techniques and take home a lovely selection of greetings cards you will be proud of.\_"
+        text: "Get creative and hands on\_learning the basics of jewellery making."
   -
     type: paragraph
     attrs:
@@ -83,7 +82,7 @@ content_area:
     content:
       -
         type: text
-        text: 'All equipment is supplied.'
+        text: 'Suitable for beginners. All materials provided.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -91,9 +90,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733224453
+updated_at: 1733224656
 duplicated_from: 9d6b58c4-15ca-4cca-9ca3-623bcb1eeaf8
 cost_details: '£5 per person'
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-card-making-with-stencils/e-gxgpvx'
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-jewellery-making/e-kogjxv'
 ---
-Come along to our card making with stencils workshop for 2 hours of creative fun.
+A relaxed jewellery making workshop with Donna of Mana Art.
