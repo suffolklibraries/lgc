@@ -1,15 +1,14 @@
 ---
 id: a046cd51-e683-4845-984c-3408f9c29812
-published: false
 blueprint: events
-title: 'Melting Pot with Mana Art - Beginners Lino Cutting (Duplicated)'
+title: 'Melting Pot with Mana Art - Watercolour Card Making'
 event_categories:
   - art
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-01-25 11:00'
-end_date: '2025-01-25 13:00'
+start_date: '2025-02-12 11:00'
+end_date: '2025-02-12 13:00'
 free: false
 virtual: false
 accessibility_information:
@@ -75,22 +74,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Experiment with lino-cutting tools and techniques for designing, carving and printing. By the end, participants create their own linocut prints, gaining skills they can use for other printmaking projects.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Please bring an apron or wear old clothes, as things might get inky! '
+        text: 'Explore water colour techniques while crafting personalised, hand painted cards.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All necessary equipment will be provided, and you will have the opportunity to take home your finished pieces.'
+        text: 'All materials are provided along with the expertise of a professional artist.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Please bring an apron or wear clothing that you might not mind getting a few splatters of paint on.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -98,9 +98,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733224309
+updated_at: 1733224375
 duplicated_from: c698a782-7edc-4815-b6a9-011a23e8e98e
 cost_details: '£5 per person'
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-beginners-lino-cutting/e-dmgyrd'
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-water-colour-card-making/e-bvdbxe'
 ---
-Mana Art will guide you step by step in creating your first piece of lino-printed artwork.
+A creative and engaging watercolour card-making workshop, designed for beginners and enthusiasts alike.
