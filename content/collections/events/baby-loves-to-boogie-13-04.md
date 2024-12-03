@@ -1,14 +1,13 @@
 ---
 id: c47b4a75-d15b-4bb8-926c-0b655952d550
-published: false
 blueprint: events
-title: 'Kids Love to Boogie (Duplicated)'
+title: 'Baby Love to Boogie'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733214654
+updated_at: 1733214903
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-04-13 13:30'
+start_date: '2025-04-13 10:30'
 free: false
 virtual: false
 organisers:
@@ -26,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The coolest family disco in town is here and it’s all about moving, laughing, and having a blast together.'
+        text: 'The coolest baby disco in town is here, and it’s all about moving, laughing and celebrating the magic of Spring together!'
   -
     type: paragraph
     attrs:
@@ -34,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Let by our fantastic dance expert this is an energetic, playful dance party for families to explore dance games, props, and fun, easy-to-follow dance moves.'
+        text: 'Led by our super fun dance expert you and your little ones (up to 4 years old!) will dive into playful dance games, explore props, and enjoy easy, feel-good dance moves.'
   -
     type: paragraph
     attrs:
@@ -42,14 +41,14 @@ content_area:
     content:
       -
         type: text
-        text: 'We’ve got two exciting sessions: the first is perfect for little movers aged 0-4 and their grown-ups. Find out more about Baby Loves to Boogie '
+        text: 'We’ve got two awesome sessions: the first one is perfect for little movers aged 0-4 and their grown-ups, while the second session brings the energy for all ages but is especially great for families with young people aged 5-7. Find out more about Kids Love to Boogie '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-6/'
+              href: 'https://www.danceeast.co.uk/workshops/kids-love-to-boogie/'
               rel: null
               target: null
               title: null
@@ -58,7 +57,7 @@ content_area:
         text: here
       -
         type: text
-        text: '. The second session is especially designed for young people aged 5-7 and their families, bringing the energy and fun to a whole new level.'
+        text: .
   -
     type: paragraph
     attrs:
@@ -66,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No dance experience is needed – just come ready to move, laugh and make amazing memories with your family.'
+        text: 'It’s the perfect chance to shake off those winter blues and let your family’s love of movement bloom. No dance experience needed – just come ready to have a blast!'
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -74,7 +73,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-04-13 15:30'
+end_date: '2025-04-13 12:30'
 attendance_information: 'suitable for 0-7 year olds'
 duplicated_from: 9999dc7b-66a0-4459-8ba9-e97c127cacfd
 cost_details: '£5 for kids, £7 for adults'
@@ -197,6 +196,6 @@ directions:
               target: null
               title: null
         text: here.
-booking_link: 'https://www.danceeast.co.uk/workshops/kids-love-to-boogie/'
+booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-6/'
 ---
 Get ready to groove with your family at our super fun Spring-themed Kids Love to Boogie!
