@@ -6,8 +6,8 @@ event_categories:
   - music
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-21 16:30'
-end_date: '2025-02-21 17:45'
+start_date: '2025-02-28 16:30'
+end_date: '2025-02-28 17:45'
 free: true
 cost_details: 'bursaries available'
 virtual: false
@@ -150,7 +150,7 @@ cta: |-
 
   [https://suffolkcountymusicservice.co.uk/](https://suffolkcountymusicservice.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733222442
+updated_at: 1733222453
 organisers:
   - suffolk-county-music-service
 duplicated_from: 0a33cb15-d256-4cb4-b838-900c04a88dde
