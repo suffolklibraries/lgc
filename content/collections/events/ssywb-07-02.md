@@ -1,14 +1,13 @@
 ---
 id: 5a6b1ab6-40d2-4e57-93a8-ffde86644053
-published: false
 blueprint: events
-title: 'South Suffolk Youth Wind Band (Duplicated)'
+title: 'South Suffolk Youth Wind Band'
 event_categories:
   - music
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-01-31 18:00'
-end_date: '2025-01-31 19:40'
+start_date: '2025-02-07 18:00'
+end_date: '2025-02-07 19:40'
 free: true
 cost_details: 'bursaries available'
 virtual: false
@@ -151,7 +150,7 @@ cta: |-
 
   [https://suffolkcountymusicservice.co.uk/](https://suffolkcountymusicservice.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733218590
+updated_at: 1733218634
 duplicated_from: c5d6010c-6381-4326-a54a-bc2591112f61
 organisers:
   - suffolk-county-music-service
