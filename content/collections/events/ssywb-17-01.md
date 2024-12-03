@@ -1,14 +1,13 @@
 ---
 id: 307061ae-ce24-4b60-a4eb-569cd1873b9c
-published: false
 blueprint: events
-title: 'South Suffolk Youth Jazz Ensemble (Duplicated)'
+title: 'South Suffolk Youth Wind Band'
 event_categories:
   - music
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-01-15 17:00'
-end_date: '2025-01-15 18:45'
+start_date: '2025-01-17 18:00'
+end_date: '2025-01-17 19:40'
 free: true
 cost_details: 'bursaries available'
 virtual: false
@@ -151,7 +150,7 @@ cta: |-
 
   [https://suffolkcountymusicservice.co.uk/](https://suffolkcountymusicservice.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733216581
+updated_at: 1733218003
 duplicated_from: 84e9bb27-21df-40d1-b527-fe10ace61bfe
 organisers:
   - suffolk-county-music-service
