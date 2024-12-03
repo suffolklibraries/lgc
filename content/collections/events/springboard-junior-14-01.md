@@ -1,14 +1,13 @@
 ---
 id: 62e38c5c-c2ad-4c20-b258-c6a9f76fb05c
-published: false
 blueprint: events
-title: 'Springboard Juniors (Duplicated)'
+title: 'Springboard Juniors'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729795325
+updated_at: 1733213807
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-12-03 16:45'
+start_date: '2025-01-14 16:45'
 free: true
 virtual: false
 organisers:
@@ -20,33 +19,33 @@ postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/dance_ballet-(1).png
 content_area:
   -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The class uses dance as a tool to develop motor skills and creativity through movement games, sensory props and structured exercises and routines.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'All classes are designed to encourage self-expression, build confidence, and develop social skills.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside children and young people with additional needs.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -59,6 +58,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -68,6 +69,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -77,6 +80,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -86,6 +91,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -95,6 +102,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -104,20 +113,16 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
                 text: 'To explore dance and movement using props'
   -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -138,49 +143,31 @@ content_area:
         text: '. If you are unsure whether the class is right for your child, you are welcome to book a taster session by contacting our sales team.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Springboard classes are offered as Pay As You Go '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: or
-      -
-        type: text
-        text: ' by booking a full-term course (with the option to pay in half termly installments). For more information, please call our sales team on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473 295230'
-              rel: null
-              target: null
-              title: null
-        text: '01473 295230'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Bookings will close each week on a Friday at midday. This is to allow us enough time to send out the required forms for you to complete so that we have all the necessary information about your child to share with the tutor before they participate in the class. If you are already an existing participant, you can still book on after this time by calling our sales team.'
-  -
-    type: paragraph
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
+cta: |-
+  This event is organised by Dance East
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+
+  [01473 295230](tel:01473295230)
+end_date: '2025-01-14 17:30'
+attendance_information: 'children aged 4 to 11 years with additional needs'
+duplicated_from: 669b37a8-2f77-4ebe-b317-3e62a2857733
+cost_details: '£5 per workshop'
+event_categories:
+  - wellbeing
+  - community
+  - dance
+  - movement
+accessibility_information:
+  - 'Accessible toilets'
+directions:
   -
     type: paragraph
     content:
@@ -265,18 +252,10 @@ content_area:
               rel: null
               target: null
               title: null
-          -
-            type: bold
         text: www.en.parkopedia.com
       -
         type: text
-        text: ' and enter the destination postcode as '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'IP4 1DW.'
+        text: ' and enter the destination postcode as IP4 1DW.'
   -
     type: paragraph
     content:
@@ -288,16 +267,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'See the latest bus timetables '
+        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently. See the latest bus timetables '
       -
         type: text
         marks:
@@ -309,16 +279,6 @@ content_area:
               target: null
               title: null
         text: here.
-cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
-
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
-
-  [01473 295230](tel:01473295230)
-end_date: '2024-12-03 17:30'
-attendance_information: '- Children aged 4 to 11 years with additional needs'
-duplicated_from: 669b37a8-2f77-4ebe-b317-3e62a2857733
-cost_details: '£5 per workshop or pay as you can'
+booking_link: 'https://www.danceeast.co.uk/classes/springboard-juniors-2/'
 ---
-Springboard Juniors is a fun, friendly and inclusive class for children and young people with additional needs, where they can move and explore their creativity in a safe and welcoming space.
+Springboard Juniors is a fun, friendly and inclusive class for children and young people with additional needs.
