@@ -150,7 +150,7 @@ cta: |-
 
   [https://suffolkcountymusicservice.co.uk/](https://suffolkcountymusicservice.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733218739
+updated_at: 1733218771
 duplicated_from: 9b6e59c5-f053-464c-855d-22037ae01aed
 organisers:
   - suffolk-county-music-service
