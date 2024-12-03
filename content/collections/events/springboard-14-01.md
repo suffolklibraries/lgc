@@ -1,52 +1,50 @@
 ---
 id: 9ad2ba93-4f29-4274-bf2a-cd60682773b3
-published: false
 blueprint: events
-title: 'Springboard for Adults (Duplicated)'
+title: 'Springboard for Adults'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729795402
+updated_at: 1733213471
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-12-03 17:30'
+start_date: '2025-01-14 17:30'
 free: true
 virtual: false
 organisers:
   - danceeast
-address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/dance.png
 content_area:
   -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The classes offer a safe and welcoming space, that includes creativity, movement games, sensory props and structured exercises and routines.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'All classes are designed to encourage self-expression, build confidence, and develop social skills.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside people with additional needs.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -59,6 +57,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -68,6 +68,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -77,6 +79,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -86,6 +90,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -95,6 +101,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -104,6 +112,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -113,69 +123,55 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
                 text: 'Learn dance routines'
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to book'
+      textAlign: left
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Springboard classes are offered as Pay As You Go '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: or
-      -
-        type: text
-        text: ' by booking a full-term course (with the option to pay in half termly instalments). For more information, please call our sales team on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01473 295230'
-              rel: null
-              target: null
-              title: null
-        text: '01473 295230'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Bookings will close each week on a Friday at midday. This is to allow us enough time to send out the required forms for you to complete so that we have all the necessary information to share with the tutor before you participate in the class. If you are already an existing participant, you can still book on after this time by calling our sales team.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'If you are unsure about coming along, you are welcome to book a taster session by getting in touch.'
   -
     type: paragraph
-  -
-    type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
+      textAlign: left
+cta: |-
+  This event is organised by DanceEast
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+
+  [01473 295230](tel:01473295230)
+end_date: '2025-01-14 00:00'
+attendance_information: 'adults with additional needs'
+duplicated_from: 432b1c4f-4f74-41a1-ab27-eef4d0beff8f
+cost_details: '£6 per workshop'
+event_categories:
+  - movement
+  - dance
+  - wellbeing
+accessibility_information:
+  - 'Accessible toilets'
+building_name: DanceEast
+directions:
   -
     type: paragraph
     content:
@@ -260,18 +256,10 @@ content_area:
               rel: null
               target: null
               title: null
-          -
-            type: bold
         text: www.en.parkopedia.com
       -
         type: text
-        text: ' and enter the destination postcode as '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'IP4 1DW.'
+        text: ' and enter the destination postcode as IP4 1DW.'
   -
     type: paragraph
     content:
@@ -283,16 +271,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'See the latest bus timetables '
+        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently. See the latest bus timetables '
       -
         type: text
         marks:
@@ -304,16 +283,6 @@ content_area:
               target: null
               title: null
         text: here.
-cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
-
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
-
-  [01473 295230](tel:01473295230)
-end_date: '2024-12-03 18:30'
-attendance_information: '- Adults with additional needs'
-duplicated_from: 432b1c4f-4f74-41a1-ab27-eef4d0beff8f
-cost_details: '£6 per workshop or pay as you can'
+booking_link: 'https://www.danceeast.co.uk/classes/springboard-adults-open/'
 ---
 Our fun, friendly and inclusive Springboard classes give adults with additional needs the opportunity to move and explore, using dance as a tool to develop skills.
