@@ -4,7 +4,7 @@ blueprint: events
 title: 'Once Upon a Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729787434
+updated_at: 1733215110
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2024-11-01 13:30'
@@ -16,18 +16,20 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: pelicanpelican-3x2/music_singing.png
+featured_image: pelicanpelican-3x2/dance_ballet-(1).png
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'DanceEast and Suffolk Libraries invite you to bring your favourite storybook characters to life in an exciting day of activities led by dance artists, storytellers and theatre practitioners. We believe in the power of stories and we love bringing stories to life through dance. Let your imagination run wild and get creative through movement.'
   -
     type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
@@ -40,129 +42,85 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
-                text: 'Get creative and bring your ideas to life through dance and music'
+                text: 'Share your favourite stories and characters'
       -
         type: listItem
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
-                text: 'Learn new skills and make new friends'
+                text: 'Learn how dance can bring stories and characters to life'
       -
         type: listItem
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
-                text: 'Work with a wonderful team of experienced dance artists and musicians'
+                text: 'Use your own ideas, and our wonderful selection of props, to explore movement and creative dance'
       -
         type: listItem
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
-                text: 'Share what you have created with your grown-ups at the end of the day.'
-          -
-            type: paragraph
+                text: 'Work as a group to create your very own Once Upon a Dance piece to share with your grown-ups.'
   -
     type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
-        text: 'We welcome everyone to join us – you don’t need to have any dance experience.'
+        text: 'We welcome everyone to join us – you don’t have to have any dance experience.'
   -
     type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
         marks:
           -
             type: italic
-        text: '“Fun, wonderful, amazing.”'
+        text: '“My daughter had a fantastic time and is still talking about it.”'
       -
         type: text
-        text: ' – previous half term activity attendee'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "\_If you would like to familiarise yourself with the building before your visit, you can download our "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.danceeast.co.uk/wp-content/uploads/2023/09/Full-building-Visual-Story.pdf'
-              rel: null
-              target: null
-              title: null
-        text: 'Visual Story here'
-      -
-        type: text
-        text: ' or take a '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.danceeast.co.uk/venue-hire/'
-              rel: null
-              target: null
-              title: null
-        text: 'Virtual Tour here'
-      -
-        type: text
-        text: .
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Book your place via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-2/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Dance East website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
+        text: ' – adult of previous half term activity attendee'
+cta: |-
+  This event is organised by Dance East
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+
+  [01473 295230](tel:01473295230)
+end_date: '2024-11-01 15:30'
+attendance_information: 'suitable for ages 4 - 11'
+duplicated_from: b8316009-658e-46f5-a9a6-7e05f53e22b7
+cost_details: '£25 with bursaries available'
+booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-3/'
+event_categories:
+  - movement
+  - dance
+accessibility_information:
+  - 'Accessible toilets'
+directions:
   -
     type: paragraph
     content:
@@ -247,18 +205,10 @@ content_area:
               rel: null
               target: null
               title: null
-          -
-            type: bold
         text: www.en.parkopedia.com
       -
         type: text
-        text: ' and enter the destination postcode as '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'IP4 1DW.'
+        text: ' and enter the destination postcode as IP4 1DW.'
   -
     type: paragraph
     content:
@@ -270,16 +220,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'See the latest bus timetables '
+        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently. See the latest bus timetables '
       -
         type: text
         marks:
@@ -291,18 +232,5 @@ content_area:
               target: null
               title: null
         text: here.
-cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
-
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
-
-  [01473 295230](tel:01473295230)
-end_date: '2024-11-01 15:30'
-attendance_information: '- Suitable for ages 4 - 11'
-duplicated_from: b8316009-658e-46f5-a9a6-7e05f53e22b7
-cost_details: '£25 but bursaries are available'
-booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-2/'
-published: false
 ---
-Our popular Once Upon a Dance is back this October half term and we’re partnering with Britten Pears Arts to provide an exciting, fun-filled day of moving, music-making, songwriting and creativity!
+An exciting, fun-filled day of moving, music-making, songwriting and creativity!
