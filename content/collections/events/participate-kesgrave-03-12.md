@@ -134,5 +134,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730820525
 duplicated_from: b1a61861-69d7-44f2-a6f2-2d5ec38d1506
+published: false
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians.
