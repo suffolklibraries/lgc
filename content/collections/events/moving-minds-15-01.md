@@ -1,14 +1,13 @@
 ---
 id: 415c7b44-e585-49b4-9b6b-0c8f5d1c91b2
-published: false
 blueprint: events
-title: 'Moving Minds (Duplicated)'
+title: 'Moving Minds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729797321
+updated_at: 1733214191
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-27 10:00'
+start_date: '2025-01-15 10:00'
 free: true
 virtual: false
 organisers:
@@ -20,67 +19,45 @@ postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/dance.png
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Run in association with '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.insideoutcommunity.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Inside Out'
-      -
-        type: text
-        text: ', Moving Minds is open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.'
-  -
-    type: paragraph
+      textAlign: left
     content:
       -
         type: text
         text: 'Suitable for beginners and improvers alike, the sessions aim to inspire members to move more freely, rhythmically, and expressively, both individually and with others in the group.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The sessions are led by Samantha Moss, an experienced DanceEast dance artist.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'We aim to create a safe and supportive space to give members the freedom to express themselves while having fun. There is no pressure on anyone to ‘perform’, with members encouraged to progress at their own pace and physical ability.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The session will start at 10.30am and end at 11.45am. Participants are welcome to arrive from 10am for refreshments and conversation. There will also be time for questions at the end of the session. '
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to book'
+      textAlign: left
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -115,18 +92,30 @@ content_area:
         text: .
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Parental consent is required for participants under 18 years of age.'
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
+cta: |-
+  This event is organised by Dance East
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+
+  [01473 295230](tel:01473295230)
+end_date: '2025-01-15 11:45'
+attendance_information: 'all welcome'
+duplicated_from: dc750720-aa3f-4829-85e5-69bf3718c799
+cost_details: 'donations welcome'
+event_categories:
+  - dance
+  - wellbeing
+  - movement
+accessibility_information:
+  - 'Accessible toilets'
+directions:
   -
     type: paragraph
     content:
@@ -214,13 +203,7 @@ content_area:
         text: www.en.parkopedia.com
       -
         type: text
-        text: ' and enter the destination postcode as '
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'IP4 1DW.'
+        text: ' and enter the destination postcode as IP4 1DW.'
   -
     type: paragraph
     content:
@@ -232,16 +215,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently.'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: ' '
-      -
-        type: text
-        text: 'See the latest bus timetables '
+        text: 'The Cattle Market Bus Station and the Tower Ramparts Bus Station are within 15 minutes’ walk and buses run frequently. See the latest bus timetables '
       -
         type: text
         marks:
@@ -253,16 +227,6 @@ content_area:
               target: null
               title: null
         text: here.
-cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
-
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
-
-  [01473 295230](tel:01473295230)
-end_date: '2024-11-27 11:45'
-attendance_information: '- All welcome'
-duplicated_from: dc750720-aa3f-4829-85e5-69bf3718c799
-cost_details: 'Donations welcome'
+booking_link: 'https://www.danceeast.co.uk/classes/moving-minds-3/'
 ---
-Run in association with Inside Out, Moving Minds is open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.
+Open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.
