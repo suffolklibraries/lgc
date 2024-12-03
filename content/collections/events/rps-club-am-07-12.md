@@ -88,10 +88,11 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733223277
+updated_at: 1733223389
 duplicated_from: 6901e8eb-bb7c-4203-a7d3-235b4f5374e0
 cost_details: £9
 accessibility_information:
   - 'Autism friendly'
+attendance_information: 'children aged 5 - 10 years'
 ---
 Join our Weekly Art Club for 5-10-year-olds!
