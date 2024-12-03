@@ -1,14 +1,13 @@
 ---
 id: 73de2522-03a8-41e6-8885-54ed576dbe34
-published: false
 blueprint: events
-title: 'Springboard Juniors (Duplicated) (Duplicated)'
+title: 'Springboard Juniors'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733213894
+updated_at: 1733214051
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-02-25 16:45'
+start_date: '2025-03-11 16:45'
 free: true
 virtual: false
 organisers:
@@ -157,7 +156,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-02-25 17:30'
+end_date: '2025-03-11 17:30'
 attendance_information: 'children aged 4 to 11 years with additional needs'
 duplicated_from: a5316503-4ff4-4df0-bb6a-abe8eb227a00
 cost_details: '£5 per workshop'
