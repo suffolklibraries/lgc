@@ -1,23 +1,22 @@
 ---
 id: 9adc1bb5-0182-469b-afaa-ec55706de34d
-published: false
 blueprint: events
-title: 'West Suffolk Junior Orchestra (Duplicated)'
+title: 'North Suffolk Youth Music Beginner Band'
 event_categories:
   - music
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-01-17 16:20'
-end_date: '2025-01-17 17:50'
+start_date: '2025-01-17 16:30'
+end_date: '2025-01-17 17:45'
 free: true
 cost_details: 'bursaries available'
 virtual: false
-latitude: '52.25223533734738'
-longitude: '0.6987901972682846'
-building_name: 'Abbeygate Sixth Form College'
-address_line_1: 'Beetons Way'
-town: 'Bury Saint Edmunds'
-postcode: 'IP33 3TT'
+latitude: '52.49676579871244'
+longitude: '1.7302861837906405'
+building_name: 'The Benjamin Britten Music Academy'
+address_line_1: 'Blyford Road'
+town: Lowestoft
+postcode: 'NR32 4PZ'
 directions:
   -
     type: paragraph
@@ -31,14 +30,14 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Leisure+Centre/@52.2520843,0.6962153,17z/data=!4m14!1m7!3m6!1s0x47d84c3f2cda8237:0x556f174a1966ab5c!2sAbbeygate+Sixth+Form+College!8m2!3d52.2520843!4d0.6987902!16s%2Fg%2F11hyxn98ft!3m5!1s0x47d84c3e03227d5b:0x86fe1b1287011b5e!8m2!3d52.252716!4d0.698149!16s%2Fg%2F1q67b42j_?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.com/maps/place/Rumburgh+Road/@52.4954625,1.7312116,18z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da1ae0115d4dab:0xd81fcb2b6cef18b0!2sThe+Benjamin+Britten+Music+Academy,+Blyford+Road,+Lowestoft!2m2!1d1.730254!2d52.496596!1m6!1m2!1s0x47da1ae0ee57dbdd:0x842997b8eea04d24!2sRumburgh+Road,+Lowestoft+NR32+4TJ!2m2!1d1.734666!2d52.49604!3e2!3m5!1s0x47da1ae0ee57dbdd:0x842997b8eea04d24!8m2!3d52.49604!4d1.734666!16s%2Fg%2F1q67qvsq4?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
         text: 'nearest bus stop'
       -
         type: text
-        text: " is a minute's walk away."
+        text: ' is a four minute walk away.'
   -
     type: paragraph
     content:
@@ -67,15 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Junior and Intermediate ensembles follow a programme of weekly rehearsals during school term times, leading to shared performances and concerts throughout the year.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "For musicians\_aged 7-18 who are playing/singing at a standard\_equivalent to grade 3+."
+        text: 'All musicians aged 7 - 12 years welcome!'
   -
     type: paragraph
     attrs:
@@ -159,12 +150,12 @@ cta: |-
 
   [https://suffolkcountymusicservice.co.uk/](https://suffolkcountymusicservice.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733221898
+updated_at: 1733222320
 organisers:
   - suffolk-county-music-service
 duplicated_from: 9dc9aa25-2646-40af-a4da-a12eee0b329b
-attendance_information: 'young people aged 7 - 18 years'
+attendance_information: 'young people aged 7 - 12 years'
 accessibility_information:
   - 'Wheelchair accessible'
 ---
-Junior and Intermediate ensembles follow a programme of weekly rehearsals.
+All musicians welcome!
