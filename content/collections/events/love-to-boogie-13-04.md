@@ -1,15 +1,14 @@
 ---
 id: 9999dc7b-66a0-4459-8ba9-e97c127cacfd
-published: false
 blueprint: events
-title: 'Moving Minds (Duplicated)'
+title: 'Kids Love to Boogie'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733214524
+updated_at: 1733214654
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-03-26 10:00'
-free: true
+start_date: '2025-04-13 13:30'
+free: false
 virtual: false
 organisers:
   - danceeast
@@ -17,7 +16,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: pelicanpelican-3x2/dance.png
+featured_image: pelicanpelican-3x2/dance_ballet-(1).png
 content_area:
   -
     type: paragraph
@@ -26,79 +25,47 @@ content_area:
     content:
       -
         type: text
-        text: 'Suitable for beginners and improvers alike, the sessions aim to inspire members to move more freely, rhythmically, and expressively, both individually and with others in the group.'
+        text: 'The coolest family disco in town is here and it’s all about moving, laughing, and having a blast together.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'The sessions are led by Samantha Moss, an experienced DanceEast dance artist.'
+        text: 'Let by our fantastic dance expert this is an energetic, playful dance party for families to explore dance games, props, and fun, easy-to-follow dance moves.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'We aim to create a safe and supportive space to give members the freedom to express themselves while having fun. There is no pressure on anyone to ‘perform’, with members encouraged to progress at their own pace and physical ability.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The session will start at 10.30am and end at 11.45am. Participants are welcome to arrive from 10am for refreshments and conversation. There will also be time for questions at the end of the session. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "For more information or to book a place, email\_"
+        text: 'We’ve got two exciting sessions: the first is perfect for little movers aged 0-4 and their grown-ups. Find out more about Baby Loves to Boogie '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:hello@insideoutcommunity.com'
+              href: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-6/'
               rel: null
               target: null
               title: null
-        text: hello@insideoutcommunity.com
-      -
-        type: text
-        text: "\_or telephone "
-      -
-        type: text
-        marks:
           -
-            type: link
-            attrs:
-              href: '01473563900'
-              rel: null
-              target: _blank
-              title: null
-        text: '01473 563900'
+            type: underline
+        text: here
       -
         type: text
-        text: .
+        text: '. The second session is especially designed for young people aged 5-7 and their families, bringing the energy and fun to a whole new level.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Parental consent is required for participants under 18 years of age.'
+        text: 'No dance experience is needed – just come ready to move, laugh and make amazing memories with your family.'
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -106,14 +73,15 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-03-26 11:45'
-attendance_information: 'all welcome'
+end_date: '2025-04-13 15:30'
+attendance_information: 'suitable for 0-7 year olds'
 duplicated_from: 52de1992-cbd4-4c28-971f-8d93dd23b92a
-cost_details: 'donations welcome'
+cost_details: '£5 for kids, £7 for adults'
 event_categories:
   - dance
-  - wellbeing
   - movement
+  - family-friendly
+  - early-years
 accessibility_information:
   - 'Accessible toilets'
 directions:
@@ -228,6 +196,6 @@ directions:
               target: null
               title: null
         text: here.
-booking_link: 'https://www.danceeast.co.uk/classes/moving-minds-3/'
+booking_link: 'https://www.danceeast.co.uk/workshops/kids-love-to-boogie/'
 ---
-Open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.
+Get ready to groove with your family at our super fun Spring-themed Kids Love to Boogie!
