@@ -1,8 +1,7 @@
 ---
 id: 739d896c-c69d-4251-bdb7-45650fc5377a
-published: false
 blueprint: events
-title: 'Seated Yoga (Duplicated) (Duplicated)'
+title: 'Seated Yoga'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-16 11:00'
-end_date: '2025-01-16 12:00'
+start_date: '2025-01-30 11:00'
+end_date: '2025-01-30 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -118,7 +117,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733319192
+updated_at: 1733319268
 duplicated_from: cf470a37-688f-4864-817b-fae6a7b7a753
 cost_details: £5
 ---
