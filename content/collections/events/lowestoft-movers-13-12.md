@@ -4,7 +4,7 @@ blueprint: events
 title: 'Lowestoft Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733317940
+updated_at: 1733318909
 start_date: '2024-12-13 10:00'
 end_date: '2024-12-13 11:30'
 free: false
@@ -19,6 +19,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -26,12 +27,16 @@ content_area:
         text: 'What to expect'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'By encouraging more people to enjoy dance as a sociable activity, Lowestoft Movers offers the opportunity to get moving in an informal way and to have fun whilst doing so. The class includes one hour of movement followed by some social time with tea, coffee and biscuits.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -39,6 +44,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -46,21 +52,23 @@ content_area:
         text: 'How to book'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'For further information and to book your place please contact community dance artist Alysha Hudson by email '
+        text: 'For further information and to book your place please contact Alysha by email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:alysha1990@hotmail.co.uk'
+              href: 'mailto:Alyshalouisehudson@outlook.com'
               rel: null
               target: null
               title: null
-        text: alysha1990@hotmail.co.uk
+        text: Alyshalouisehudson@outlook.com
       -
         type: text
         text: ' or phone '
@@ -78,6 +86,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -85,6 +94,8 @@ content_area:
         text: 'How to get there'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
