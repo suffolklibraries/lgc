@@ -11,7 +11,7 @@ organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/olderpeople.png
 start_date: '2024-12-20 10:00'
-end_date: '2024-12-20 11:15'
+end_date: '2024-12-20 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -134,9 +134,9 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730887573
+updated_at: 1733317968
 duplicated_from: 955b6de8-2784-4cc3-8873-a684119cbd66
-cost_details: £4
+cost_details: £5
 attendance_information: 'people aged 55+'
 ---
 Come and try our weekly movement classes for people over 55!
