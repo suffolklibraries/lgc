@@ -192,5 +192,6 @@ accessibility_information:
 cost_details: '£6 per session'
 end_date: '2024-12-04 11:30'
 duplicated_from: ee38fc48-8826-465a-9834-d82394ee102b
+published: false
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Sudbury.

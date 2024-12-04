@@ -154,5 +154,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1723629330
 duplicated_from: 3d04beff-5338-4535-a970-2d128d50ccb3
 cost_details: £3
+published: false
 ---
 Join our interactive sessions for children aged 2½  – 4 and their parents, grandparents and carers.
