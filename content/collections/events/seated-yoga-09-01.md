@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-09 10:00'
-end_date: '2025-01-09 11:15'
+start_date: '2025-01-09 11:00'
+end_date: '2025-01-09 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -117,7 +117,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733319077
+updated_at: 1733319202
 duplicated_from: a8ace977-40f1-41e8-bd76-dedd3c0cb54d
 cost_details: £5
 ---
