@@ -99,18 +99,18 @@ content_area:
     content:
       -
         type: text
-        text: 'For further information and to book your place please contact community dance artist Alysha Hudson by email '
+        text: 'For further information and to book your place please contact Alysha by email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:alysha1990@hotmail.co.uk'
+              href: 'mailto:Alyshalouisehudson@outlook.com'
               rel: null
               target: null
               title: null
-        text: alysha1990@hotmail.co.uk
+        text: Alyshalouisehudson@outlook.com
       -
         type: text
         text: ' or phone '
@@ -134,7 +134,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730889168
+updated_at: 1733318872
 duplicated_from: b88732b2-562d-4df5-83cc-2b170511dc85
 cost_details: £4
 attendance_information: 'people aged 55+'
