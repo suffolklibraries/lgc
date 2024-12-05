@@ -98,5 +98,6 @@ duplicated_from: 1ced4925-0a3f-4c2b-a203-a6e124c0e5d5
 attendance_information: 'Home educated children aged 5-13 years'
 cost_details: £3
 booking_link: 'https://www.eastpointpavilion.com/events/christmas-drama-games'
+published: false
 ---
 Join the festive fun at East Point Pavilion!

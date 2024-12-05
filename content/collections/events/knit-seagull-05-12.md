@@ -131,5 +131,6 @@ event_categories:
   - art
 accessibility_information:
   - '- Wheelchair access'
+published: false
 ---
 A free and relaxing knit and natter

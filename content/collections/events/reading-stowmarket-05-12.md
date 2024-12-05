@@ -234,5 +234,6 @@ updated_at: 1730733590
 duplicated_from: 7691e924-550a-4260-b22a-f1ebe385b84c
 organisers:
   - suffolk-libraries
+published: false
 ---
 Weekly reading group for people living with Dementia and their families and carers.
