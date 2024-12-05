@@ -1,8 +1,7 @@
 ---
 id: d3c87c31-5db7-46f2-8406-de9a1f8ab744
-published: false
 blueprint: events
-title: 'Emulate Social Club (Duplicated)'
+title: 'Emulate Social Club'
 event_categories:
   - community
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - ipswich-community-media
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-10 18:00'
-end_date: '2025-02-10 20:00'
+start_date: '2025-02-24 18:00'
+end_date: '2025-02-24 20:00'
 free: true
 virtual: false
 attendance_information: 'for young men aged 16 - 25'
@@ -184,7 +183,7 @@ cta: |-
 
   [https://www.ipswichcm.org.uk/](https://www.ipswichcm.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733402354
+updated_at: 1733402502
 duplicated_from: 7a18ea6b-949a-4692-a0d2-88041c04bb8b
 ---
 For young men interested in music, media, sport and community.
