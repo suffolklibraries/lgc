@@ -137,5 +137,6 @@ organisers:
   - music-in-our-bones
 accessibility_information:
   - 'Dementia friendly'
+published: false
 ---
 Join our friendly wellbeing singing group!
