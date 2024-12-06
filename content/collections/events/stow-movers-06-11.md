@@ -209,5 +209,6 @@ accessibility_information:
 cost_details: '£5 per session'
 end_date: '2024-12-06 15:30'
 duplicated_from: 3ec06094-3879-463b-a4fb-3ef88a291d90
+published: false
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Stowmarket.
