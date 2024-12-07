@@ -162,5 +162,6 @@ duplicated_from: b58f3b8c-6b16-4a50-a35f-162da3a76fa5
 booking_link: 'https://www.wolseytheatre.co.uk/shows/wolsey-writers-2024/#prices'
 cost_details: 'Pay as you feel'
 attendance_information: '- Ages 16 +'
+published: false
 ---
 Wolsey Writers is a creative writing group based at New Wolsey Theatre since 2015.
