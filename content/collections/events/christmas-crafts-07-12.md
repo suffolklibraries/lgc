@@ -102,5 +102,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730115468
 duplicated_from: a9b89fe6-8608-4550-9132-db2add600a08
 attendance_information: 'Family friendly'
+published: false
 ---
 Join the festive fun at East Point Pavilion!
