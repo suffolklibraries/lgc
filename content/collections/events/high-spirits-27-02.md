@@ -1,8 +1,7 @@
 ---
 id: 6cba8dd8-956a-4b75-bbe6-163963322e48
-published: false
 blueprint: events
-title: 'High Spirits VI Drama Workshops (Duplicated)'
+title: 'High Spirits VI Drama Workshops'
 event_categories:
   - wellbeing
   - later-years
@@ -10,7 +9,7 @@ event_categories:
 organisers:
   - cohere-arts
 featured_image: cohere/high-spirits-cohere.jpg
-start_date: '2025-02-20 13:00'
+start_date: '2025-02-27 13:00'
 end_date: '2025-02-20 16:00'
 free: false
 virtual: false
@@ -149,7 +148,7 @@ cta: |-
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733736600
+updated_at: 1733736625
 duplicated_from: 0aceca2a-ab7f-479c-9569-b8961922b63c
 cost_details: '£5 per person'
 ---
