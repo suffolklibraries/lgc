@@ -1,15 +1,14 @@
 ---
 id: f6f0b7b7-32a0-4384-bce5-f3941ffe9c8a
-published: false
 blueprint: events
-title: 'Gentle Yoga - virtual (Duplicated)'
+title: 'Gentle Yoga - virtual'
 organisers:
   - cohere-arts
-start_date: '2025-03-13 13:00'
+start_date: '2025-03-20 13:00'
 free: true
 virtual: true
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733737750
+updated_at: 1733737769
 attendance_information: 'beginners welcome'
 accessibility_information:
   - 'Wheelchair accessible'
@@ -74,7 +73,7 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2025-03-13 14:00'
+end_date: '2025-03-20 14:00'
 duplicated_from: 1da3399b-d44b-4fdd-8f3c-8ab44c111c34
 featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
 booking_link: 'https://coherearts.org/gentle/'
