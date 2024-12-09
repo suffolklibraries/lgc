@@ -1,16 +1,15 @@
 ---
 id: ccb8710e-e6aa-40fd-971d-d2bf8e2e9903
-published: false
 blueprint: events
-title: 'Camera Club (Duplicated)'
+title: 'Camera Club'
 event_categories:
   - community
   - art
 organisers:
   - mendlesham-camera-club
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-11-04 19:30'
-end_date: '2025-11-04 21:00'
+start_date: '2025-12-02 19:30'
+end_date: '2025-12-02 21:00'
 free: false
 cost_details: '£3 per person'
 virtual: false
@@ -111,7 +110,7 @@ cta: |-
 
   [mick@favager.co.uk](mailto:mick@favager.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733739348
+updated_at: 1733739364
 duplicated_from: e8818188-fac3-43fb-a928-8594f4fb451b
 ---
 Join our friendly camera club to share your photos with a welcoming group.
