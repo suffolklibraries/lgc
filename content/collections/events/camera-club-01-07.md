@@ -110,7 +110,7 @@ cta: |-
 
   [mick@favager.co.uk](mailto:mick@favager.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733739254
+updated_at: 1733739273
 duplicated_from: 8a56da26-5851-45e3-8159-c49dddd689cc
 ---
 Join our friendly camera club to share your photos with a welcoming group.
