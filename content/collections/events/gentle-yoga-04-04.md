@@ -1,15 +1,14 @@
 ---
 id: 2809dca5-f211-4093-9bfb-592ddfdae981
-published: false
 blueprint: events
-title: 'Gentle Yoga - Woodbridge (Duplicated) (Duplicated)'
+title: 'Gentle Yoga - Woodbridge'
 organisers:
   - cohere-arts
-start_date: '2025-03-21 10:30'
+start_date: '2025-04-04 10:30'
 free: false
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733737398
+updated_at: 1733737431
 attendance_information: 'beginners welcome'
 accessibility_information:
   - 'Wheelchair accessible'
@@ -65,7 +64,7 @@ cta: |-
   [https://coherearts.org/](https://coherearts.org/)
 
   [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2025-03-21 11:30'
+end_date: '2025-04-04 11:30'
 duplicated_from: 69be22df-4dc7-41a3-8131-6e12b2384a6c
 featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
 latitude: '52.090114528571'
