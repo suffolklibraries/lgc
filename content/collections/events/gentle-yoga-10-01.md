@@ -4,76 +4,83 @@ blueprint: events
 title: 'Gentle Yoga - Woodbridge'
 organisers:
   - cohere-arts
-start_date: '2024-11-15 10:30'
-free: true
+start_date: '2025-01-10 10:30'
+free: false
 virtual: false
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1723633820
-attendance_information: |-
-  - Beginners welcome
-  - Older people
-accessibility_information: '- Suitable for people living with a range of mobility and health challenges'
+updated_at: 1733737065
+attendance_information: 'beginners welcome'
+accessibility_information:
+  - 'Wheelchair accessible'
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Carefully designed to promote self-care whilst improving physical and mental wellbeing, the activity offers a gentle way to ease back into exercise.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'In each session, participants are led through gentle movements and poses to relaxing music, with all activity taking place seated on a chair. The lead practitioner will invite everyone to adapt how they engage according to their own individual need, offering a range of options to choose from. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Absolute beginners are warmly welcomed, and no special clothing or equipment is required. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Participants are welcome to bring along a partner, friend or carer.'
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'No booking required, just come along.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'We do not want cost to be a barrier to people attending but welcome a suggested donation of up to £5 per person, per session.'
+        text: 'We do not want cost to be a barrier to people attending but welcome a suggested donation of up to £5 per person, per session. No booking required, just come along.'
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+cta: |-
+  This event is organised by Cohere Arts
+
+  [https://coherearts.org/](https://coherearts.org/)
+
+  [coherearts@gmail.com](mailto:coherearts@gmail.com)
+end_date: '2025-01-10 11:30'
+duplicated_from: b46d19e6-5e4b-4daa-9fbb-9e78942512e2
+featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
+latitude: '52.090114528571'
+longitude: '1.3156934935566305'
+address_line_1: 'Station Road'
+town: Woodbridge
+postcode: 'IP12 4AU'
+booking_link: 'https://coherearts.org/gentle/'
+event_categories:
+  - later-years
+  - community
+  - wellbeing
+  - movement
+cost_details: '£5 suggested donation'
+building_name: 'Woodbridge Community Hall'
+directions:
   -
     type: paragraph
     content:
@@ -160,22 +167,5 @@ content_area:
     type: heading
     attrs:
       level: 3
-cta: |-
-  This event is run by Cohere Arts
-
-  [https://coherearts.org/](https://coherearts.org/)
-
-  [coherearts@gmail.com](mailto:coherearts@gmail.com)
-end_date: '2024-11-15 11:30'
-duplicated_from: b46d19e6-5e4b-4daa-9fbb-9e78942512e2
-featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
-latitude: '52.090114528571'
-longitude: '1.3156934935566305'
-address_line_1: 'Woodbridge Community Hall'
-address_line_2: 'Station Road'
-town: Woodbridge
-postcode: 'IP12 4AU'
-booking_link: 'https://coherearts.org/gentle/'
-published: false
 ---
 Our popular Gentle seated yoga is an accessible activity suitable for people living with a range of mobility and/or health challenges.
