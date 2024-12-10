@@ -174,5 +174,6 @@ accessibility_information:
 cost_details: '£5 per session'
 end_date: '2024-12-10 12:30'
 duplicated_from: b31c9e06-9b03-4b27-8a72-4fbd966315af
+published: false
 ---
 Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Haleigh.
