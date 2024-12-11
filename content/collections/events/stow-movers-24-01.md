@@ -1,14 +1,13 @@
 ---
 id: 2cb868aa-21ef-49a2-89e1-83db34f5c3da
-published: false
 blueprint: events
-title: 'Stow Movers (Duplicated) (Duplicated)'
+title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733932593
+updated_at: 1733932642
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
-start_date: '2025-01-10 14:00'
+start_date: '2025-01-24 14:00'
 free: false
 virtual: false
 organisers:
@@ -90,7 +89,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
 cost_details: '£5 per session'
-end_date: '2025-01-10 15:30'
+end_date: '2025-01-24 15:30'
 duplicated_from: ad1ce3a0-c8b9-47cf-a03c-b04b2fc23558
 event_categories:
   - dance
