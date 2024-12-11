@@ -4,60 +4,41 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730135265
+updated_at: 1733931710
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
-start_date: '2024-12-09 13:00'
+start_date: '2025-01-06 13:00'
 free: false
 virtual: false
 organisers:
   - danceeast
   - karen-louise-dance
-address_line_1: 'Walton Community Hall'
-address_line_2: '274 High Street'
-town: 'Walton, Felixstowe'
-postcode: 'IP11 9DS'
+address_line_1: '3 Falcon Street'
+town: Felixstowe
+postcode: 'IP11 9DR'
 featured_image: pelicanpelican-3x2/dance.png
-attendance_information: '- For adults aged 55+'
+attendance_information: 'For adults aged 55+'
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The class aims to make dance and movement more accessible by pairing the activity with the chance to meet new people in a friendly and relaxed environment. Led by a team of professional dance artists, the Movers classes gives people the opportunity to socialise and get moving in a fun and relaxed environment.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Is this class for me?'
-      -
-        type: hardBreak
       -
         type: text
         text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -91,19 +72,52 @@ content_area:
         type: text
         text: '. '
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+      textAlign: left
+cta: |-
+  This event is organised by Karen Louise Dance 
+
+  [https://karenlouisedance.com](https://karenlouisedance.com)
+
+  [karenlouisedance@gmail.com](mailto:karenlouisedance@gmail.com)
+
+  [07751 891319](tel:07751891319)
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
+cost_details: '£5 per session'
+end_date: '2025-01-06 14:30'
+duplicated_from: 8941cd9c-bdf2-4a20-984d-5de2e94f3c9b
+event_categories:
+  - dance
+  - movement
+  - later-years
+  - wellbeing
+building_name: 'Walton Community Hall'
+directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Felixstowe Community Centre is a one minute walk from the nearest bus stop, and you can find up-to-date times on the '
+        text: 'Walton Community Hall is a two minute walk from the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/dir/Walton+Community+Hall,+Falcon+Street,+Felixstowe/Half+Moon,+Felixstowe+IP11+9QJ/@51.9728858,1.3351344,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9779d9ee5a0c7:0x72b87b59cec28800!2m2!1d1.3384697!2d51.9727564!1m5!1m1!1s0x47d9779dc0ed8097:0xc3d0f58ee3ba9a74!2m2!1d1.33698!2d51.973145!3e2?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'nearest bus stop'
+      -
+        type: text
+        text: ', and you can find up-to-date times on the '
       -
         type: text
         marks:
@@ -123,14 +137,14 @@ content_area:
     content:
       -
         type: text
-        text: 'Felixstowe railway station is a 23 minute walk away and you can find times on the '
+        text: 'Trimley railway station is a 23 minute walk away and you can find times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/trm'
               rel: null
               target: _blank
               title: null
@@ -143,7 +157,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is free parking onsite and on nearby residential streets.'
+        text: 'There is free parking on nearby residential streets.'
   -
     type: paragraph
     content:
@@ -164,22 +178,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Karen Louise Dance. Please contact Karen Pratt:
-
-  [https://karenlouisedance.com](https://karenlouisedance.com)
-
-  [karenlouisedance@gmail.com](mailto:karenlouisedance@gmail.com)
-
-  [07751 891319](tel:07751891319)
-accessibility_information:
-  - |-
-    - Autism friendly
-    - Wheelchair access
-    - Indoor venue
-cost_details: '£5 per session'
-end_date: '2024-12-09 14:30'
-duplicated_from: 8941cd9c-bdf2-4a20-984d-5de2e94f3c9b
-published: false
 ---
-Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Felixstowe.
+Come and try our weekly movement classes for people over 55!
