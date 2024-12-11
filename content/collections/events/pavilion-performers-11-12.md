@@ -124,5 +124,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730114145
 duplicated_from: 33206a46-f5ab-49f2-a23d-1b4d4fd4a6ea
+published: false
 ---
 Pavilion Performers Open Sessions is a monthly opportunity for local musicians to perform and connect.
