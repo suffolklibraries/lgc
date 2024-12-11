@@ -4,60 +4,41 @@ blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729786958
+updated_at: 1733932593
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
-start_date: '2024-12-06 14:00'
+start_date: '2025-01-10 14:00'
 free: false
 virtual: false
 organisers:
   - dance-east
   - karen-louise-dance
-address_line_1: 'John Peel Centre'
 address_line_2: 'Church Walk'
 town: Stowmarket
 postcode: 'IP14 1ET'
 featured_image: pelicanpelican-3x2/dance.png
-attendance_information: '- Age 55+'
+attendance_information: 'age 55+'
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The class aims to make dance and movement more accessible by pairing the activity with the chance to meet new people in a friendly and relaxed environment. Led by a team of professional dance artists, the Movers classes gives people the opportunity to socialise and get moving in a fun and relaxed environment.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Is this class for me?'
-      -
-        type: hardBreak
       -
         type: text
         text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -91,13 +72,32 @@ content_area:
         type: text
         text: .
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+      textAlign: left
+cta: |-
+  This event is organised by Karen Louise Dance
+
+  [https://karenlouisedance.com](https://karenlouisedance.com)
+
+  [karenlouisedance@gmail.com](mailto:karenlouisedance@gmail.com)
+
+  [07751 891319](tel:07751891319)
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
+cost_details: '£5 per session'
+end_date: '2025-01-10 15:30'
+duplicated_from: 3ec06094-3879-463b-a4fb-3ef88a291d90
+event_categories:
+  - dance
+  - later-years
+  - wellbeing
+  - movement
+building_name: 'John Peel Centre'
+directions:
   -
     type: paragraph
     content:
@@ -192,23 +192,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Karen Louise Dance. Please contact Karen Pratt:
-
-  [https://karenlouisedance.com](https://karenlouisedance.com)
-
-  [karenlouisedance@gmail.com](mailto:karenlouisedance@gmail.com)
-
-  [07751 891319](tel:07751891319)
-booking_link: 'mailto:karenlouisedance@gmail.com'
-accessibility_information:
-  - |-
-    - Autism friendly
-    - Wheelchair access
-    - Indoor venue
-cost_details: '£5 per session'
-end_date: '2024-12-06 15:30'
-duplicated_from: 3ec06094-3879-463b-a4fb-3ef88a291d90
-published: false
 ---
-Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Stowmarket.
+Come and try our weekly movement classes for people over 55!
