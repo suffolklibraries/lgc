@@ -4,7 +4,7 @@ blueprint: events
 title: 'Stowupland Chair Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733933424
+updated_at: 1733933443
 latitude: '52.199279682677904'
 longitude: '1.029057297265083'
 start_date: '2025-01-06 10:30'
