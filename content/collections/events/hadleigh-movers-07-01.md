@@ -4,60 +4,41 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730135363
+updated_at: 1733932188
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
-start_date: '2024-12-10 11:00'
+start_date: '2025-01-07 11:00'
 free: false
 virtual: false
 organisers:
   - dance-east
   - karen-louise-dance
-address_line_1: 'Hadleigh Baptist Church'
-address_line_2: 'George Street'
+address_line_1: 'George Street'
 town: Hadleigh
 postcode: 'IP7 5BE'
 featured_image: pelicanpelican-3x2/dance.png
-attendance_information: '- Age 55+'
+attendance_information: 'age 55+'
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The class aims to make dance and movement more accessible by pairing the activity with the chance to meet new people in a friendly and relaxed environment. Led by a team of professional dance artists, the Movers classes gives people the opportunity to socialise and get moving in a fun and relaxed environment.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Is this class for me?'
-      -
-        type: hardBreak
       -
         type: text
         text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -89,15 +70,30 @@ content_area:
         text: '07751 891319'
       -
         type: text
-        text: '. '
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+        text: .
+cta: |-
+  This event is organised by Karen Louise Dance
+
+  [karenlouisedance@gmail.com ](mailto:karenlouisedance@gmail.com )
+
+  [07751 891319](tel:07751891319)
+
+  [https://karenlouisedance.com](https://karenlouisedance.com)
+accessibility_information:
+  - |-
+    - Autism friendly
+    - Wheelchair access
+    - Indoor venue
+cost_details: '£5 per session'
+end_date: '2025-01-07 12:30'
+duplicated_from: b31c9e06-9b03-4b27-8a72-4fbd966315af
+event_categories:
+  - dance
+  - movement
+  - later-years
+  - wellbeing
+building_name: 'Hadleigh Baptist Church'
+directions:
   -
     type: paragraph
     content:
@@ -158,22 +154,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Karen Louise Dance
-
-  [karenlouisedance@gmail.com ](mailto:karenlouisedance@gmail.com )
-
-  [07751 891319](tel:07751891319)
-
-  [https://karenlouisedance.com](https://karenlouisedance.com)
-accessibility_information:
-  - |-
-    - Autism friendly
-    - Wheelchair access
-    - Indoor venue
-cost_details: '£5 per session'
-end_date: '2024-12-10 12:30'
-duplicated_from: b31c9e06-9b03-4b27-8a72-4fbd966315af
-published: false
 ---
-Come and try our weekly movement classes for people over 55! Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Haleigh.
+Come and try our weekly movement classes for people over 55!
