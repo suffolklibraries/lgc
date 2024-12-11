@@ -2,21 +2,21 @@
 id: be84cad9-d58c-46b8-85e0-1f5237695e7c
 published: false
 blueprint: events
-title: 'Stowupland Chair Yoga (Duplicated)'
+title: 'Hadleigh Chair Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733933443
-latitude: '52.199279682677904'
-longitude: '1.029057297265083'
-start_date: '2025-01-06 10:30'
+updated_at: 1733933682
+latitude: '52.0426848527466'
+longitude: '0.9532103414348425'
+start_date: '2025-01-10 11:00'
 free: false
 virtual: false
 organisers:
   - dance-east
   - karen-louise-dance
-address_line_2: Stowupland
-town: Stowmarket
-postcode: 'IP14 4BG'
+address_line_2: Hadleigh
+town: Ipswich
+postcode: 'IP7 5DL'
 featured_image: pelicanpelican-3x2/wellbeing.png
 content_area:
   -
@@ -102,41 +102,17 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
 cost_details: '£7 per session'
-end_date: '2025-01-06 11:30'
+end_date: '2025-01-10 12:00'
 duplicated_from: 449a8984-5327-4fe3-8338-092cb9d849d9
 event_categories:
   - dance
   - later-years
   - wellbeing
   - movement
-building_name: 'Stowupland Village Hall'
+building_name: 'The Ansell Centre'
 directions:
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is onsite parking at Stowupland Village Hall. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/dir/Stowupland+Village+Hall,+Church+Road,+Stowupland,+Stowmarket/Primary+School,+Stowmarket+IP14+4BQ/@52.1994757,1.0275554,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9bb25afe12aa3:0xf82b484ada3b5a56!2m2!1d1.0290573!2d52.1992008!1m5!1m1!1s0x47d9bb25208d72fd:0x159d9e0f1b850563!2m2!1d1.031256!2d52.199936!3e2?entry=ttu&g_ep=EgoyMDI0MTIwOC4wIKXMDSoASAFQAw%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-        text: 'nearest bus stop'
-      -
-        type: text
-        text: ' is a three minute walk away.'
   -
     type: paragraph
     content:
@@ -157,6 +133,6 @@ directions:
       -
         type: text
         text: .
-address_line_1: '3 Church Road'
+address_line_1: 'Market Place'
 ---
 Discover the gentle power of chair yoga, ideal for older adults and those with health conditions.
