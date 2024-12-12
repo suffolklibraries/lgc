@@ -105,7 +105,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1734004550
+updated_at: 1734004782
 duplicated_from: 61eea688-6ce1-46eb-b684-487483cf7b50
 cost_details: '£5 per person'
 accessibility_information:
