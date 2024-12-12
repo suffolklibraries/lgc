@@ -1,22 +1,20 @@
 ---
-id: 66bd92d7-6f55-45c8-bfb8-0660bffee884
+id: fbac3a29-ecee-4488-a299-7af137b3fdd4
+published: false
 blueprint: events
-title: 'Creative Practice for Wellbeing'
+title: 'Home Ed Creative Workshop (Duplicated)'
 event_categories:
   - art
-  - later-years
-  - community
-  - wellbeing
+  - family-friendly
+  - languages
+  - teen
 organisers:
   - rock-paper-scissors
-featured_image: rockpaperscissorsimages/rps-creative-practice-3x2.png
-start_date: '2024-12-12 10:00'
-end_date: '2024-12-12 12:00'
-free: true
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-01-17 10:00'
+end_date: '2025-01-17 12:00'
+free: false
 virtual: false
-attendance_information: 'open to all'
-accessibility_information:
-  - 'Drop-in event'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 building_name: 'Dove Street Studio'
@@ -86,7 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These workshops bring people together with a focus on developing their creative skills. No previous experience is necessary, this is a supportive environment to build confidence and feel relaxed.'
+        text: 'Marie and Lulu run gently structured workshops, with a weekly theme with opportunities to make and create in different ways.'
   -
     type: paragraph
     attrs:
@@ -94,37 +92,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Our team are warm, friendly and experienced in teaching a wide range of creative skills, in our welcoming art studio.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Parents and guardians are welcome to stay if they get involved! '
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.rockpaperscissors.org.uk/programme'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Rock Paper Scissors website'
-      -
-        type: text
-        text: ' to find out more and book your FREE place.'
+        text: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730296857
-duplicated_from: e3f1b79b-604c-4fe6-883e-5b58f379d555
-published: false
+updated_at: 1734004798
+duplicated_from: 93d7ce3b-e719-440a-b290-ed2a84a24b52
+cost_details: '£5 per person'
+accessibility_information:
+  - 'Autism friendly'
+attendance_information: 'children aged 8 - 14 years'
 ---
-Creative Practice for Wellbeing is our programme that support adults wellbeing through Art.
+Home Educated young artists are invited to create with us in a calm and quiet inclusive space.
