@@ -1,11 +1,10 @@
 ---
 id: be84cad9-d58c-46b8-85e0-1f5237695e7c
-published: false
 blueprint: events
 title: 'Hadleigh Chair Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733933682
+updated_at: 1733992166
 latitude: '52.0426848527466'
 longitude: '0.9532103414348425'
 start_date: '2025-01-10 11:00'
@@ -50,7 +49,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The classes are taught by professional Dance Artist and qualified Chair Yoga Instructor, Karen Pratt'
+        text: 'The classes are taught by professional dance artist and qualified chair Yoga instructor, Karen Pratt'
   -
     type: paragraph
     attrs:
@@ -113,6 +112,64 @@ building_name: 'The Ansell Centre'
 directions:
   -
     type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Ansell Centre is on the left hand side of Market Place (when approached from the High Street) opposite the Corn Exchange and immediately before the Ram Public House. It is accessed through the garden of the United Reformed Church. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/dir/Ansell+Centre/Market+Place,+Hadleigh,+Ipswich+IP7+5AL/@52.0431354,0.9519755,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a86df4434df5:0x652263d813625f32!2m2!1d0.9531567!2d52.0425529!1m5!1m1!1s0x47d9a872045f27c5:0x5f6b00c950f2491d!2m2!1d0.954147!2d52.043743!3e2?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'nearest bus stop'
+      -
+        type: text
+        text: ' is a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is at the end of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.babergh.gov.uk/w/toppesfield-hall-car-park'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Market Place at the Health Centre'
+      -
+        type: text
+        text: '. A larger car park can be found in the'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.babergh.gov.uk/w/hadleigh-high-street-car-park'
+              rel: null
+              target: _blank
+              title: null
+        text: ' High Street (but accessed from Magdalen Road)'
+      -
+        type: text
+        text: '. Please note that both car parks are free but a ticket needs to be displayed at peak times.'
   -
     type: paragraph
     content:
