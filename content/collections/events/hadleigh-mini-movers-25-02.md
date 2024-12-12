@@ -1,14 +1,13 @@
 ---
 id: 6114e9b7-c79e-4b47-adb6-be0a166131b5
-published: false
 blueprint: events
-title: 'Hadleigh Mini Movers (Duplicated) (Duplicated)'
+title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733993179
+updated_at: 1733993332
 latitude: '52.04262545010293'
 longitude: '0.9547349567782285'
-start_date: '2025-02-04 09:15'
+start_date: '2025-02-25 09:15'
 free: false
 virtual: false
 organisers:
@@ -212,7 +211,7 @@ cta: |-
 
   [https://karenlouisedance.com](https://karenlouisedance.com)
 cost_details: '£5 per grown-up and child together, £2 per additional child'
-end_date: '2025-02-04 10:15'
+end_date: '2025-02-25 10:15'
 duplicated_from: 058004f0-977a-4c35-9750-81b432423638
 event_categories:
   - dance
