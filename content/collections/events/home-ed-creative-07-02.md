@@ -1,8 +1,7 @@
 ---
 id: d3c96665-2fdf-48c7-a543-4a15ad388aac
-published: false
 blueprint: events
-title: 'Home Ed Creative Workshop (Duplicated)'
+title: 'Home Ed Creative Workshop'
 event_categories:
   - art
   - family-friendly
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-01-31 10:00'
-end_date: '2025-01-31 12:00'
+start_date: '2025-02-07 10:00'
+end_date: '2025-02-07 12:00'
 free: false
 virtual: false
 latitude: '52.0563490706618'
@@ -106,7 +105,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1734004837
+updated_at: 1734004860
 duplicated_from: fca2fab8-1dc6-4488-8148-bddfa74cdd90
 cost_details: '£5 per person'
 accessibility_information:
