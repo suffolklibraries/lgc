@@ -1,15 +1,16 @@
 ---
 id: 6332dcaf-9756-40ae-b520-56fa79fe114a
 blueprint: events
-title: 'Saturday Art Club'
+title: 'Home Ed Creative Workshop'
 event_categories:
   - art
   - family-friendly
+  - languages
 organisers:
   - rock-paper-scissors
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2024-12-07 10:00'
-end_date: '2024-12-07 11:30'
+start_date: '2024-12-13 10:00'
+end_date: '2024-12-13 12:00'
 free: false
 virtual: false
 latitude: '52.0563490706618'
@@ -81,19 +82,33 @@ content_area:
     content:
       -
         type: text
-        text: 'Ninety minutes of creative fun, and you can drop off your child with peace of mind – our staff are DBS checked, pediatric first aid qualified, and have safeguarding training.'
+        text: 'Marie and Lulu run gently structured workshops, with a weekly theme with opportunities to make and create in different ways.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Parents and guardians are welcome to stay if they get involved! '
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733223389
+updated_at: 1734004484
 duplicated_from: 6901e8eb-bb7c-4203-a7d3-235b4f5374e0
-cost_details: £9
+cost_details: '£5 per person'
 accessibility_information:
   - 'Autism friendly'
-attendance_information: 'children aged 5 - 10 years'
-published: false
+attendance_information: 'children aged 8 - 14 years'
 ---
-Join our Weekly Art Club for 5-10-year-olds!
+Home Educated young artists are invited to create with us in a calm and quiet inclusive space.
