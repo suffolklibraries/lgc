@@ -91,5 +91,6 @@ end_date: '2024-12-12 14:00'
 duplicated_from: 0e716d2a-585b-4d94-aae2-7d70416a5b7a
 featured_image: cohere/gentle-seated-yoga---credit-cohere-arts.jpg
 booking_link: 'https://coherearts.org/gentle/'
+published: false
 ---
 Our popular Gentle seated yoga is an accessible activity suitable for people living with a range of mobility and/or health challenges.
