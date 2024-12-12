@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-03-14 11:00'
-end_date: '2025-03-14 13:00'
+start_date: '2025-03-14 13:00'
+end_date: '2025-03-14 15:00'
 free: false
 virtual: false
 accessibility_information:
@@ -232,7 +232,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1734005148
+updated_at: 1734005191
 duplicated_from: b568c777-c515-4fa4-9e7d-425b5db7b91c
 cost_details: '£10 per person'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-sculpting-in-clay-taster-session/e-mebxxj'
