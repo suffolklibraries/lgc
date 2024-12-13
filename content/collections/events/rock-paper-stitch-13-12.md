@@ -145,5 +145,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730368836
 duplicated_from: c6acef7c-fcaf-4278-a703-98ef1ff05935
 cost_details: £5
+published: false
 ---
 A monthly community group for adult makers to bring their own projects to work on.
