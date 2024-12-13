@@ -84,5 +84,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730371738
 duplicated_from: de9cf76f-b64f-4715-9060-fc50fc3d8465
+published: false
 ---
 Come along and join The Hive's sewing group.
