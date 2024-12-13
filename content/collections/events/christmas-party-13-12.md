@@ -157,5 +157,6 @@ updated_at: 1731320458
 duplicated_from: f7f56b6e-1951-4382-bfc4-c06bb27ed900
 cost_details: £8
 booking_link: 'https://www.thebankeye.org/store/p54/onenightonlychristmas24.html'
+published: false
 ---
 Average Funk Band Christmas Party!
