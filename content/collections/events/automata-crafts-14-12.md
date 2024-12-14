@@ -132,5 +132,6 @@ updated_at: 1730125673
 duplicated_from: 83bc9a79-caa9-4b76-b997-b9169a1dd86c
 cost_details: '£5 per child'
 booking_link: 'https://ipswichtheatres.co.uk/whats-on/christmas-automata-workshop/'
+published: false
 ---
 Create Christmas-inspired automata at this festive craft workshop.

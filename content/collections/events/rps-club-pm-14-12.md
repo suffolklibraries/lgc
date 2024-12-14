@@ -94,5 +94,6 @@ cost_details: £9
 accessibility_information:
   - 'Autism friendly'
 attendance_information: 'children aged 5 - 10'
+published: false
 ---
 Join our Weekly Art Club for 5-10-year-olds!
