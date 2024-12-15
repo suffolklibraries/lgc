@@ -141,5 +141,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730126112
 duplicated_from: 03543703-a453-41cd-9a99-4e98fa9a2b1f
+published: false
 ---
 Ipswich Choral Society is delighted to perform a selection of traditional carols.
