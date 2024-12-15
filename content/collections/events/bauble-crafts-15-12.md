@@ -127,5 +127,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1732096367
 duplicated_from: ac51c2b6-17a1-488d-bea8-53121c7eb202
 cost_details: '£2.50 per child'
+published: false
 ---
 Get creative and make your own Christmas bauble to adorn your Christmas tree.
