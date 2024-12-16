@@ -132,5 +132,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+published: false
 ---
 Join us for a special reveal of the 2025 Aldeburgh Festival
