@@ -134,5 +134,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730392108
 duplicated_from: 77665443-e1fe-4eeb-b0e9-57d1ffa8791b
+published: false
 ---
 Come and try our weekly movement classes for people over 55!
