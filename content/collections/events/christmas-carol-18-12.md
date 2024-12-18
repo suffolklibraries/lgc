@@ -178,5 +178,6 @@ updated_at: 1731422664
 duplicated_from: 34830634-b950-4da4-9c2a-ccd33dd37bf1
 attendance_information: 'suitable for ages 11+'
 booking_link: 'https://sudburyartscentre.com/event/charles-dickens-a-christmas-carol/'
+published: false
 ---
 Join in the festive fun at Sudbury Arts Centre!
