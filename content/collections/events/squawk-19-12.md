@@ -117,5 +117,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730112889
 duplicated_from: bf4540c7-fd0f-4cd4-a7c6-c214d5431af9
 attendance_information: '- adults with learning disabilities'
+published: false
 ---
 Musical theatre workshops for adults with learning disabilities.
