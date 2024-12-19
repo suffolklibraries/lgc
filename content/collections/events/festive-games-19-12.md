@@ -98,5 +98,6 @@ duplicated_from: a98da4dd-2084-4a52-904c-0264f3e4f2df
 attendance_information: 'Home educated children aged 5-13 years'
 cost_details: £3
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/e-gxaygm'
+published: false
 ---
 Join the festive fun at East Point Pavilion!
