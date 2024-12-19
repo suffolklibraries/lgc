@@ -148,5 +148,6 @@ event_categories:
   - community
   - wellbeing
   - music
+published: false
 ---
 A fun weekly group for people and families living with dementia.
