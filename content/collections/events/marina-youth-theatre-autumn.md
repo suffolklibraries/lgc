@@ -252,5 +252,6 @@ address_line_2: Marina
 postcode: 'NR32 1HH'
 duplicated_from: 3ae46669-7c04-42c9-8d80-15f806ed5a34
 attendance_information: '- 7 to 17 year olds'
+published: false
 ---
 For the first hour have fun playing theatre games and learning new skills.
