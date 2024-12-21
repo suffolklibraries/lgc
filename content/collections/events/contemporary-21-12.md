@@ -126,5 +126,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730889493
 duplicated_from: c852bee8-37ac-4a1e-b302-865dd26f19dc
 cost_details: £4
+published: false
 ---
 Come and try our weekly dance classes in Lowestoft led by a friendly instructor.
