@@ -105,5 +105,6 @@ cost_details: £9
 accessibility_information:
   - 'Autism friendly'
 attendance_information: 'young people aged 11 - 18 years'
+published: false
 ---
 Join our weekly sketchbook club!

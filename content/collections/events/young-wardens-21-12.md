@@ -170,5 +170,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1732102426
 duplicated_from: 790fa79a-b710-4ed4-bed9-596e8ecb9f26
+published: false
 ---
 Practical conservation and survey skills for teenagers aged 11-16.
