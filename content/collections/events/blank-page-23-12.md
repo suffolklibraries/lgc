@@ -315,5 +315,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731943573
 duplicated_from: f522fe47-08e9-4a04-ae42-631514069a8f
 booking_link: 'https://eequ.org/experience/8281'
+published: false
 ---
 Join textiles artist Clare Sams for this free creative workshop for 10-16 year olds.

@@ -263,5 +263,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731943595
 duplicated_from: 4a68fe08-c726-4f71-beed-5dc97bf15994
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-sudbury'
+published: false
 ---
 Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!

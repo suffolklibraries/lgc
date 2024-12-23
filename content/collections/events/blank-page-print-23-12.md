@@ -296,5 +296,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731943602
 duplicated_from: 147789ab-980f-4093-be30-190740eb8a27
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/design-print-repeat-workshop-with-holly-scholfield'
+published: false
 ---
 Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!

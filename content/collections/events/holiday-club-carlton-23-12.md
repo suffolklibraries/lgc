@@ -132,5 +132,6 @@ updated_at: 1732102553
 duplicated_from: e47b1d60-cf05-4256-9ae7-3a7ec133bf2c
 accessibility_information:
   - 'Accessible toilets'
+published: false
 ---
 Holiday session involving outdoor activities, games, free play in the woods and crafts for 6-11 year olds.

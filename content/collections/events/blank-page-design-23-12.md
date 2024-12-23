@@ -233,5 +233,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731943590
 duplicated_from: 322a4411-3562-479f-a9e9-293410a71abb
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
+published: false
 ---
 Join digital artist Eloise Cookson for this free creative workshop for 10-16 year olds.
