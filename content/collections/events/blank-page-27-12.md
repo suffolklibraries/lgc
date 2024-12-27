@@ -221,5 +221,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731943645
 duplicated_from: 7345b087-2b96-497f-b355-ed065e73b6ba
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/flat-pack-fauna-with-joel-millerchip---create-your-own-plantstallation'
+published: false
 ---
 Join illustrator Joel Millerchip for this free creative workshop for 10-16 year olds!

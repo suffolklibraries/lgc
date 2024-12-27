@@ -257,5 +257,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731944302
 duplicated_from: 24e9efc4-8a03-49b3-ace9-d9e7db3fab94
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/build-a-den-build-a-story-with-sian-burford-thomas'
+published: false
 ---
 Join theatre maker Sian Burford-Thomas for this free creative workshop for 10-16 year olds.
