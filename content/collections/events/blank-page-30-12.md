@@ -309,5 +309,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731943579
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/interactive-fiction-make-your-own-game-with-stacey-rezvan'
+published: false
 ---
 Join game creator Stacey Rezvan for this free creative workshop for 10-16 year olds

@@ -299,5 +299,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731944625
 duplicated_from: 24e9efc4-8a03-49b3-ace9-d9e7db3fab94
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/festive-photos-workshop-with-gillian-allard'
+published: false
 ---
 Join photographic artist Gillian Allard for this free creative workshop for 10-16 year olds!
