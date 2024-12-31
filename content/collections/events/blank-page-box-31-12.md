@@ -270,5 +270,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731944729
 duplicated_from: cccda3e2-8ec0-4115-9db9-294fc4251d29
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/songwriting-album-art-workshop-beccles'
+published: false
 ---
 Join musician Ben Brown and visual artist Catalina Carvajal for this free creative workshop for 10-16 year olds!

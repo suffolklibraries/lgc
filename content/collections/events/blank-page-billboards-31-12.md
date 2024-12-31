@@ -269,5 +269,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731945095
 duplicated_from: 147789ab-980f-4093-be30-190740eb8a27
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-sudbury'
+published: false
 ---
 Join digital artist Michelle Brace for this free creative workshop for 10-16 year olds.
