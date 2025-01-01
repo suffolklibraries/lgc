@@ -152,5 +152,6 @@ duplicated_from: c303b741-756d-4277-9406-5affe94b4d67
 featured_image: pelicanpelican-3x2/nature.png
 cost_details: '£12 per person'
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-01-01-new-years-day-guided-walk'
+published: false
 ---
 Start your New Years Bird List with a guided walk around Carlton Marshes.
