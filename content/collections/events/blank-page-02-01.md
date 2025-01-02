@@ -292,5 +292,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731943585
 duplicated_from: 8b06b74f-baa5-494a-a487-bdddeaf8d44b
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/lights-camera-action-filmmaking-workshop-with-kirsty-tallent'
+published: false
 ---
 Join storyteller Kirsty Tallent for this free creative workshop for 10-16 year olds.

@@ -259,5 +259,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731945458
 duplicated_from: f55e75fa-d305-4634-8c7c-7f84b3dbb74f
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/mosaic-positivity-plaques-workshop-bungay'
+published: false
 ---
 Join ceramic artist Emma Jayne Robertson for this free creative workshop for 10-16 year olds!

@@ -269,5 +269,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731945565
 duplicated_from: 5b00caf7-afdc-4543-83a0-462db7e30d4c
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/unique-handmade-journal-workshop-with-hazel-garrity'
+published: false
 ---
 Join professional bookbinder Hazel Garrity for this free creative workshop for 10-16 year olds!
