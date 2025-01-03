@@ -277,5 +277,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731946218
 duplicated_from: 161b9da5-e5ed-428e-a715-51c2f03eca45
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/lulu-horsfield---future-animators-club-2d-stop-frame-animation'
+published: false
 ---
 Join artist Lulu Horsfield for this free creative workshop for 10-16 year olds.

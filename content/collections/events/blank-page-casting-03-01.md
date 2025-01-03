@@ -277,5 +277,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731945630
 duplicated_from: ff57a82c-c725-44e6-87a1-7609117e748f
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-stowmarket'
+published: false
 ---
 Join professional sculptor Emma Denby for this free creative workshop for 10-16 year olds!

@@ -266,5 +266,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731946506
 duplicated_from: 34035898-51e9-4fe1-abf6-cd304a4498bd
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/sonic-self-exploring-identity-with-creative-technologies-and-crafting-with-natalie-whitney'
+published: false
 ---
 Join artist Natalie Whitney for this free creative workshop for 10-16 year olds.

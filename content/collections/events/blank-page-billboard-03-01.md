@@ -263,5 +263,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731945930
 duplicated_from: ce2ef84c-015e-465c-b829-72635e61ed95
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-haverhill'
+published: false
 ---
 Join digital artist Michelle Brace for this free creative workshop for 10-16 year olds.

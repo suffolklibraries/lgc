@@ -299,5 +299,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731946100
 duplicated_from: 2d8cccac-1a86-417a-bfbe-9a3acc723b76
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/songwriting-album-art-workshop-bury-st-edmunds'
+published: false
 ---
 Join musician Ben Brown and visual artist Catalina Carvajal for this free creative workshop for 10-16 year olds.

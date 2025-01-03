@@ -286,5 +286,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731946593
 duplicated_from: 7345b087-2b96-497f-b355-ed065e73b6ba
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/creative-writing-workshop-spark-your-creativity-for-the-new-year-with-poppy-stevens'
+published: false
 ---
 Spark your creativity for the New Year with Poppy Stevens in this free creative workshop for 10-16 year olds!
