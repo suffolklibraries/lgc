@@ -96,5 +96,6 @@ event_categories:
   - family-friendly
 organisers:
   - west-suffolk-council
+published: false
 ---
 Explore nature with a fun family-friendly trail.
