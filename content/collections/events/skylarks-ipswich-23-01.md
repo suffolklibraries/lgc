@@ -1,14 +1,13 @@
 ---
 id: 8c721357-435d-41e4-a752-ffaa540a7f36
-published: false
 blueprint: events
-title: 'East Suffolk Skylarks - Ipswich (Duplicated)'
-latitude: '52.0662303017994'
-longitude: '1.1841183199144334'
-start_date: '2025-01-30 10:30'
-end_date: '2025-01-30 12:00'
+title: 'East Suffolk Skylarks -Snape'
+latitude: '52.16396364890942'
+longitude: '1.4967351727076355'
+start_date: '2025-01-23 10:30'
+end_date: '2025-01-23 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736265308
+updated_at: 1736265799
 free: true
 virtual: false
 organisers:
@@ -59,9 +58,9 @@ content_area:
         type: text
         text: .
 attendance_information: 'older people living with Parkinsons'
-address_line_1: 'Sidegate Avenue'
-town: Ipswich
-postcode: 'IP4 4JJ'
+address_line_1: 'Snape Maltings'
+town: Snape
+postcode: 'IP17 1SP'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
@@ -82,21 +81,60 @@ event_categories:
 booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
 featured_image: offthepressimages/new_resized_images/Music_singing.png
 duplicated_from: 215d2c39-4c3b-4849-b0bd-19d4779654a8
-building_name: 'Ransomes Sports Pavilion'
+building_name: 'The Trask'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Parking is free at Ransomes Sports Pavilion. The nearest bus stop is a five minute walk away and is served by routes 6, 5E, and 11A. '
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'Parking is free at Snape Maltings.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: 'Plan your journey with the '
+        text: 'Katch, the on-demand taxi-bus service, provides easy access to Snape Maltings, connecting it to the towns of Framlingham, Parham, Hacheston, Wickham Market, Wickham Market Railway Station at Campsea Ashe, and Tunstall. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.brittenpearsarts.org/news/katch-a-taxi-bus-to-snape-maltings'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Click here'
+      -
+        type: text
+        text: ' to find out how to book and more.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The closest station is Saxmundham (4 miles) which is on the East Suffolk Ipswich on the Lowestoft train line. Wickham Market station (6 miles) is located in Campsea Ash on the same line. Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Greater Anglia website'
+      -
+        type: text
+        text: ' for up-to-date train times.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Plan your journey using '
       -
         type: text
         marks:
@@ -104,12 +142,12 @@ directions:
             type: link
             attrs:
               href: 'https://www.suffolkonboard.com/'
-              rel: 'noreferrer noopener'
+              rel: null
               target: _blank
               title: null
         text: 'Suffolk Onboard'
       -
         type: text
-        text: ' website.'
+        text: .
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
