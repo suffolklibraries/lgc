@@ -1,14 +1,13 @@
 ---
 id: f2d7138c-3070-4022-ba30-469dacf1ca8a
-published: false
 blueprint: events
-title: 'East Suffolk Skylarks - Ipswich (Duplicated)'
+title: 'East Suffolk Skylarks - Ipswich'
 latitude: '52.0662303017994'
 longitude: '1.1841183199144334'
-start_date: '2025-02-27 10:30'
-end_date: '2025-02-27 12:00'
+start_date: '2025-03-27 10:30'
+end_date: '2025-03-27 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736265363
+updated_at: 1736265401
 free: true
 virtual: false
 organisers:
