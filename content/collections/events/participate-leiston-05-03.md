@@ -1,8 +1,7 @@
 ---
 id: 70b52e57-b00f-4936-b87b-96445842384a
-published: false
 blueprint: events
-title: 'Participate - Leiston (Duplicated) (Duplicated)'
+title: 'Participate - Leiston'
 event_categories:
   - later-years
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-12 14:00'
-end_date: '2025-02-12 16:00'
+start_date: '2025-03-05 14:00'
+end_date: '2025-03-05 16:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -151,7 +150,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736266912
+updated_at: 1736266999
 duplicated_from: a2c46454-fd77-482b-81fd-e878634f7155
 latitude: '52.20591758071305'
 longitude: '1.5727273811032985'
