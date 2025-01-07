@@ -1,8 +1,7 @@
 ---
 id: 6854226f-fffd-4268-915d-78f2242b705a
-published: false
 blueprint: events
-title: 'Participate - Saxmundham (Duplicated)'
+title: 'Participate - Saxmundham'
 event_categories:
   - later-years
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-05 10:00'
-end_date: '2025-02-05 12:00'
+start_date: '2025-02-12 10:00'
+end_date: '2025-02-12 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -151,7 +150,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736267304
+updated_at: 1736267328
 duplicated_from: a60aa43d-565a-4e7a-8911-3ef328b277ac
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
