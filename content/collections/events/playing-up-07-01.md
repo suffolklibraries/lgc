@@ -115,5 +115,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730910864
 duplicated_from: 784dc695-65a3-469e-9358-0983db9970c1
 attendance_information: 'adult carers'
+published: false
 ---
 Free acting classes for adult carers.

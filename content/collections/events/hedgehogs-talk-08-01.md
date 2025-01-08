@@ -114,5 +114,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Come along and learn about hedgehogs and what you too might be able to do to help these friends of the gardener.
