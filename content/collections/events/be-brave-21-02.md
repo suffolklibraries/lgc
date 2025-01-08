@@ -2,19 +2,19 @@
 id: d464086c-45f8-42db-92b2-95bc9e6019f6
 published: false
 blueprint: events
-title: 'Spooky Stories Animation Workshop'
+title: 'Be Brave this Break at Newmarket'
 event_categories:
   - family-friendly
   - art
-  - computing
+  - literature
 organisers:
   - suffolk-libraries
-featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2024-10-29 11:00'
-end_date: '2024-10-29 15:00'
+featured_image: suffolklibrariesimages/ben-mac-p.png
+start_date: '2025-02-21 11:00'
+end_date: '2025-02-21 16:00'
 free: true
 virtual: false
-attendance_information: 'Family friendly'
+attendance_information: 'ages 7+'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -141,31 +141,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the friendly artists from '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.rockpaperscissors.org.uk/'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: 'Rock Paper Scissors'
-      -
-        type: text
-        text: "\_at Newmarket Library to create your own spooky stop motion animation. Create your story out of Lego, plasticine, and other crafty fun. You\_don't need to bring anything with you but your imagination!"
+        text: "Scared of spiders? Horrified by heights? Terrified of Tyrannosaurus Rexes? Bring along your worst fears and together we will make them silly things we can easily overcome.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'No booking required, just drop-in between 11AM and 3PM.'
+        text: "Get involved in games, craft activities and a little bit of writing as we face our fears this half term break. Workshops last 45 minutes and start at\_11AM 1.30PM and 3.15PM.\_Suitable for children aged 7+. Children must be accompanied by a responsible grown-up."
   -
     type: paragraph
     attrs:
@@ -176,8 +160,19 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Children must be accompanied by a responsible adult.'
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/mini-book-arts-workshop'
+        text: 'Book your free place via the Suffolk Libraries website - '
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "This workshop is facilitated by Ben MacPhearson.\_Ben is a playful poet and performer who makes work for all ages. He’s been heard on BBC Radio 2, 4extra and BBC Radio Suffolk. You might have seen him live at Latitude, the Edinburgh Fringe Festival or at any other number of live arts events around the country. Hist first book Serious Nonsense for Terribly Grown Up People came out in 2023 with his follow up Serious Nonsense for the Unbearably Festive following in Autumn 2024. He believe poetry is for everyone and when he isn’t writing and rhyming can be found playing with Lego.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -187,7 +182,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730129814
+updated_at: 1736349427
 duplicated_from: 7bbff4a8-3a00-49b2-8f97-cb32d0e81c2e
 ---
-Get stuck into free crafty fun with Suffolk Libraries this half-term!
+Come along to the library to play with poems this half-term!
