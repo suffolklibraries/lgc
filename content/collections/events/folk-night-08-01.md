@@ -156,5 +156,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731316523
 duplicated_from: 372e1419-8663-4fe0-955d-91368d9dcec8
 cost_details: £3
+published: false
 ---
 Join us for an evening of acoustic music.
