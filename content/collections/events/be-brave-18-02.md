@@ -5,7 +5,7 @@ blueprint: events
 title: 'Be Brave this Break at Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736349138
+updated_at: 1736349429
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
 start_date: '2025-02-18 11:00'
