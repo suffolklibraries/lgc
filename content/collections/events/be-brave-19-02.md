@@ -4,7 +4,7 @@ blueprint: events
 title: 'Be Brave this Break at Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736416919
+updated_at: 1736432210
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
 start_date: '2025-02-19 11:00'
@@ -70,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: "This workshop is facilitated by Ben MacPhearson.\_Ben is a playful poet and performer who makes work for all ages. He’s been heard on BBC Radio 2, 4extra and BBC Radio Suffolk. You might have seen him live at Latitude, the Edinburgh Fringe Festival or at any other number of live arts events around the country. Hist first book Serious Nonsense for Terribly Grown Up People came out in 2023 with his follow up Serious Nonsense for the Unbearably Festive following in Autumn 2024. He believe poetry is for everyone and when he isn’t writing and rhyming can be found playing with Lego.\_"
+        text: "This workshop is facilitated by Ben MacPherson.\_Ben is a playful poet and performer who makes work for all ages. He’s been heard on BBC Radio 2, 4extra and BBC Radio Suffolk. You might have seen him live at Latitude, the Edinburgh Fringe Festival or at any other number of live arts events around the country. Hist first book Serious Nonsense for Terribly Grown Up People came out in 2023 with his follow up Serious Nonsense for the Unbearably Festive following in Autumn 2024. He believe poetry is for everyone and when he isn’t writing and rhyming can be found playing with Lego.\_"
   -
     type: paragraph
     attrs:
