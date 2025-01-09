@@ -1,11 +1,10 @@
 ---
 id: 78a802f6-d4c0-4c21-8eda-f11977e6e583
-published: false
 blueprint: events
 title: 'Be Brave this Break at Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736349143
+updated_at: 1736416919
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
 start_date: '2025-02-19 11:00'
@@ -51,6 +50,19 @@ content_area:
           -
             type: bold
         text: 'Book your free place via the Suffolk Libraries website - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-felixstowe'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-felixstowe'
   -
     type: paragraph
     attrs:
@@ -171,5 +183,6 @@ directions:
       -
         type: text
         text: .
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-felixstowe'
 ---
 Come along to the library to play with poems this half-term!
