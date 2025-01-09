@@ -1,11 +1,10 @@
 ---
 id: c77ec61d-e73c-4fe9-824b-9f1a5b54659a
-published: false
 blueprint: events
 title: 'Be Brave this Break at Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736349429
+updated_at: 1736416621
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
 start_date: '2025-02-18 11:00'
@@ -51,6 +50,19 @@ content_area:
           -
             type: bold
         text: 'Book your free place via the Suffolk Libraries website - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolklibraries.co.uk/events/events/be-brave-this-break-at-sudbury'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'https://suffolklibraries.co.uk/events/events/be-brave-this-break-at-sudbury'
   -
     type: paragraph
     attrs:
@@ -157,5 +169,6 @@ directions:
       -
         type: text
         text: .
+booking_link: 'https://suffolklibraries.co.uk/events/events/be-brave-this-break-at-sudbury'
 ---
 Come along to the library to play with poems this half-term!
