@@ -1,16 +1,17 @@
 ---
 id: ddeb7e11-1520-4d3e-a4d0-76b34d6ad9e5
 blueprint: events
-title: 'Group for Grown-Ups of 0 to 1 year olds'
+title: "Creative Workshops - Let's Talk About Sleep"
 event_categories:
   - art
   - community
   - literature
+  - wellbeing
 organisers:
   - new-wolsey-theatre
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2024-12-04 12:00'
-end_date: '2024-12-04 13:00'
+featured_image: pelicanpelican-3x2/support.png
+start_date: '2025-01-14 10:30'
+end_date: '2025-01-14 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -119,7 +120,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These are a space to be creative with your little one and meet others sharing the same experience.'
+        text: 'Get creative, meet new people, and learn more about sleep, rest and wellbeing. '
   -
     type: paragraph
     attrs:
@@ -127,15 +128,7 @@ content_area:
     content:
       -
         type: text
-        text: "\_Free and open to anyone in receipt of benefits or engaging with the Jobcentre Plus."
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "\_Sign up by emailing "
+        text: 'Sign up by emailing '
       -
         type: text
         marks:
@@ -159,9 +152,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731314094
+updated_at: 1736784308
 duplicated_from: 14b8c9e8-d68e-4708-bc96-8585fe01d642
-attendance_information: 'carers of 0 - 1 year olds'
-published: false
 ---
-Be creative with your little one!
+Creative writing workshops all around the theme of sleep.
