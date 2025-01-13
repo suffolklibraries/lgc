@@ -1,7 +1,7 @@
 ---
 id: e7048b3d-3064-4eeb-89aa-d4ed6ed45a8a
 blueprint: events
-title: 'Beyond the Bassline Exhibition'
+title: 'Beyond the Bassline Exhibition - Newmarket'
 event_categories:
   - family-friendly
   - music
@@ -350,7 +350,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736784934
+updated_at: 1736784956
 duplicated_from: d464086c-45f8-42db-92b2-95bc9e6019f6
 ---
 Explore 500 years of black British music with our Beyond the Bassline exhibition.
