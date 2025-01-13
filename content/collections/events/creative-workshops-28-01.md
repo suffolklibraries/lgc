@@ -1,8 +1,7 @@
 ---
 id: 20e61ad5-15c7-4078-84ff-26c64facceb7
-published: false
 blueprint: events
-title: "Creative Workshops - Let's Talk About Sleep (Duplicated) (Duplicated)"
+title: "Creative Workshops - Let's Talk About Sleep"
 event_categories:
   - art
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - new-wolsey-theatre
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-01-14 10:30'
-end_date: '2025-01-14 12:30'
+start_date: '2025-01-28 10:30'
+end_date: '2025-01-28 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -153,7 +152,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736784308
+updated_at: 1736784344
 duplicated_from: c1655105-712b-432a-9d6a-e1352895b91f
 ---
 Creative writing workshops all around the theme of sleep.
