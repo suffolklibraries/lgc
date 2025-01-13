@@ -1,8 +1,7 @@
 ---
 id: 0cda1927-4911-425b-b346-079838ba8aab
-published: false
 blueprint: events
-title: 'Beyond the Bassline Exhibition (Duplicated)'
+title: 'Beyond the Bassline Exhibition - Elmswell'
 event_categories:
   - family-friendly
   - music
@@ -10,88 +9,46 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
-start_date: '2024-11-06 10:00'
-end_date: '2025-01-31 16:00'
+start_date: '2025-05-07 10:00'
+end_date: '2025-07-30 16:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-latitude: '52.24489980767684'
-longitude: '0.4052478410192164'
-building_name: 'Newmarket Library'
-address_line_1: '1a the Guineas'
-town: Newmarket
-postcode: 'CB8 8EQ'
+latitude: '52.23512090743485'
+longitude: '0.9139890261030663'
+building_name: 'Elmswell Library'
+address_line_1: 'Cooks Road'
+town: 'Bury Saint Edmunds'
+postcode: 'IB30 9BX'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Newmarket '
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/nmk'
-              rel: null
-              target: _blank
-              title: null
-        text: 'railway station'
-      -
-        type: text
-        text: ' is a 16 minute walk away, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://bustimes.org/stops/390020334'
+              href: 'https://www.google.com/maps/dir/Elmswell+Library,+Cooks+Road,+Bury+St+Edmunds,+Bury+Saint+Edmunds/Loch+Rannoch+Close,+Elmswell,+Bury+Saint+Edmunds+IP30+9BT/@52.2349128,0.9115508,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9b106e57ab3e3:0x6ec6bde16d4c9b48!2m2!1d0.9140069!2d52.2349912!1m5!1m1!1s0x47d9b10618fb1a9b:0x3ad69b0c04814d55!2m2!1d0.911653!2d52.234222!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: null
               title: null
         text: 'nearest bus station'
       -
         type: text
-        text: ' is a one minute walk away.'
+        text: ' is a four minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are several nearby carparks, including '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://theguineas-shopping.co.uk/information/car-parking.php'
-              rel: null
-              target: _blank
-              title: null
-        text: 'The Guineas car park'
-      -
-        type: text
-        text: ' a one minute walk away and '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/newmarket-car-parks.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Rous Road car park'
-      -
-        type: text
-        text: ' a six minute walk away.'
+        text: 'There is limited free onsite parking. '
   -
     type: paragraph
     content:
@@ -104,14 +61,11 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/newmarket-library'
+              href: 'https://www.accessable.co.uk/venues/elmswell-library'
               rel: null
               target: _blank
               title: null
-        text: 'Newmarket Library using AccessAbl'
-      -
-        type: text
-        text: e.
+        text: 'Elmswell Library on Accessable.'
   -
     type: paragraph
     content:
@@ -351,7 +305,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736784934
+updated_at: 1736785214
 duplicated_from: e7048b3d-3064-4eeb-89aa-d4ed6ed45a8a
+address_line_2: Elmswell
 ---
 Explore 500 years of black British music with our Beyond the Bassline exhibition.
