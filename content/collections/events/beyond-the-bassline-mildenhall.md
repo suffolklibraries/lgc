@@ -1,8 +1,7 @@
 ---
 id: 3f69b22a-8933-49f8-b2ec-89bac97eeb7b
-published: false
 blueprint: events
-title: 'Beyond the Bassline Exhibition - Glemsford (Duplicated)'
+title: 'Beyond the Bassline Exhibition - Mildenhall'
 event_categories:
   - family-friendly
   - music
@@ -11,19 +10,19 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
-start_date: '2025-08-07 10:00'
-end_date: '2025-10-28 16:00'
+start_date: '2025-11-05 10:00'
+end_date: '2026-01-30 16:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-latitude: '52.10413657154215'
-longitude: '0.6716297972593298'
-building_name: 'Glemsford Library'
-address_line_1: 'Unit 1a'
-town: Glemsford
-postcode: 'CO10 7QA'
+latitude: '52.343102036954136'
+longitude: '0.500284254945463'
+building_name: 'Mildenhall Library'
+address_line_1: 'Mildenhall Hub, Sheldrick Way'
+town: 'Bury Saint Edmunds'
+postcode: 'IP28 7JX'
 directions:
   -
     type: paragraph
@@ -37,20 +36,20 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Glemsford+Library,+Glemsford,+Sudbury/School+Field,+Glemsford,+Sudbury+CO10+7PH/@52.1037378,0.66891,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d856ac324f7b31:0x1cdb80b73d6db653!2m2!1d0.671636!2d52.1039889!1m5!1m1!1s0x47d856aca368a16b:0xe5f998ce7863c3f2!2m2!1d0.668797!2d52.103405!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.com/maps/dir/Mildenhall+Library,+Mildenhall+Hub,+Sheldrick+Way,+Mildenhall,+Bury+Saint+Edmunds/Mildenhall+Col+Sheldrick+Way+Site,+Mildenhall,+Bury+Saint+Edmunds+IP28+7JX/@52.3437964,0.498113,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d8476e8b59c449:0x832b065d7f806767!2m2!1d0.5002628!2d52.3429382!1m5!1m1!1s0x47d847468a71d989:0xb734581cd807bc7c!2m2!1d0.501113!2d52.34351!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: null
               title: null
         text: 'nearest bus station'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: ' is a four minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is limited free onsite parking. '
+        text: 'There is free onsite parking. '
   -
     type: paragraph
     content:
@@ -63,11 +62,11 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/glemsford-library'
+              href: 'https://www.accessable.co.uk/venues/mildenhall-library'
               rel: null
               target: _blank
               title: null
-        text: 'Glemsford Library on AccessAble'
+        text: 'Mildenhall Library on AccessAble'
       -
         type: text
         text: .
@@ -310,8 +309,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736843917
+updated_at: 1736844109
 duplicated_from: e8d591e6-323d-47bf-9ffb-6335707ad19e
-address_line_2: 'Bells Lane'
+address_line_2: Mildenhall
 ---
 Explore 500 years of black British music with our Beyond the Bassline exhibition.
