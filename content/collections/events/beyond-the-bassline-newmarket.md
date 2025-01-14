@@ -6,6 +6,7 @@ event_categories:
   - family-friendly
   - music
   - museums
+  - exhibition
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
@@ -350,7 +351,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736784956
+updated_at: 1736843930
 duplicated_from: d464086c-45f8-42db-92b2-95bc9e6019f6
 ---
 Explore 500 years of black British music with our Beyond the Bassline exhibition.
