@@ -1,28 +1,28 @@
 ---
 id: e8d591e6-323d-47bf-9ffb-6335707ad19e
-published: false
 blueprint: events
-title: 'Beyond the Bassline Exhibition - Elmswell (Duplicated)'
+title: 'Beyond the Bassline Exhibition - Glemsford'
 event_categories:
   - family-friendly
   - music
   - museums
+  - exhibition
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
-start_date: '2025-05-07 10:00'
-end_date: '2025-07-30 16:00'
+start_date: '2025-08-07 10:00'
+end_date: '2025-10-28 16:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-latitude: '52.23512090743485'
-longitude: '0.9139890261030663'
-building_name: 'Elmswell Library'
-address_line_1: 'Cooks Road'
-town: 'Bury Saint Edmunds'
-postcode: 'IB30 9BX'
+latitude: '52.10413657154215'
+longitude: '0.6716297972593298'
+building_name: 'Glemsford Library'
+address_line_1: 'Unit 1a'
+town: Glemsford
+postcode: 'CO10 7QA'
 directions:
   -
     type: paragraph
@@ -36,14 +36,14 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Elmswell+Library,+Cooks+Road,+Bury+St+Edmunds,+Bury+Saint+Edmunds/Loch+Rannoch+Close,+Elmswell,+Bury+Saint+Edmunds+IP30+9BT/@52.2349128,0.9115508,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9b106e57ab3e3:0x6ec6bde16d4c9b48!2m2!1d0.9140069!2d52.2349912!1m5!1m1!1s0x47d9b10618fb1a9b:0x3ad69b0c04814d55!2m2!1d0.911653!2d52.234222!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.com/maps/dir/Glemsford+Library,+Glemsford,+Sudbury/School+Field,+Glemsford,+Sudbury+CO10+7PH/@52.1037378,0.66891,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d856ac324f7b31:0x1cdb80b73d6db653!2m2!1d0.671636!2d52.1039889!1m5!1m1!1s0x47d856aca368a16b:0xe5f998ce7863c3f2!2m2!1d0.668797!2d52.103405!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: null
               title: null
         text: 'nearest bus station'
       -
         type: text
-        text: ' is a four minute walk away.'
+        text: ' is a three minute walk away.'
   -
     type: paragraph
     content:
@@ -62,11 +62,14 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/elmswell-library'
+              href: 'https://www.accessable.co.uk/venues/glemsford-library'
               rel: null
               target: _blank
               title: null
-        text: 'Elmswell Library on Accessable.'
+        text: 'Glemsford Library on AccessAble'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -306,8 +309,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736785214
+updated_at: 1736843917
 duplicated_from: 0cda1927-4911-425b-b346-079838ba8aab
-address_line_2: Elmswell
+address_line_2: 'Bells Lane'
 ---
 Explore 500 years of black British music with our Beyond the Bassline exhibition.
