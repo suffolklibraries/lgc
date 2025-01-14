@@ -1,8 +1,7 @@
 ---
 id: 76e2c6cf-91e3-4d10-b4bb-955d1690a79a
-published: false
 blueprint: events
-title: 'Beyond the Bassline Exhibition - Mildenhall (Duplicated)'
+title: 'Beyond the Bassline Exhibition - Framlingham'
 event_categories:
   - family-friendly
   - music
@@ -11,19 +10,18 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
-start_date: '2025-11-05 10:00'
-end_date: '2026-01-30 16:00'
+start_date: '2026-03-31 10:00'
+end_date: '2026-04-25 16:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Accessible toilets'
-latitude: '52.343102036954136'
-longitude: '0.500284254945463'
-building_name: 'Mildenhall Library'
-address_line_1: 'Mildenhall Hub, Sheldrick Way'
-town: 'Bury Saint Edmunds'
-postcode: 'IP28 7JX'
+latitude: '52.22275583069672'
+longitude: '1.34322022610233'
+building_name: 'Framlingham Library'
+address_line_1: 'The Old Court House, Bridge Street'
+town: Woodbridge
+postcode: 'IP13 9AJ'
 directions:
   -
     type: paragraph
@@ -37,20 +35,20 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Mildenhall+Library,+Mildenhall+Hub,+Sheldrick+Way,+Mildenhall,+Bury+Saint+Edmunds/Mildenhall+Col+Sheldrick+Way+Site,+Mildenhall,+Bury+Saint+Edmunds+IP28+7JX/@52.3437964,0.498113,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d8476e8b59c449:0x832b065d7f806767!2m2!1d0.5002628!2d52.3429382!1m5!1m1!1s0x47d847468a71d989:0xb734581cd807bc7c!2m2!1d0.501113!2d52.34351!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.com/maps/dir/Framlingham+Library,+The+Old+Court+House,+Bridge+Street,+Framlingham,+Woodbridge/Shelter,+Framlingham,+Woodbridge+IP13+9HN/@52.2224805,1.3411773,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9903596688ba1:0x159300ea05f79235!2m2!1d1.3432316!2d52.2226351!1m5!1m1!1s0x47d990358b977939:0xbb0a15b2f50efab2!2m2!1d1.34172!2d52.222336!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: null
               title: null
-        text: 'nearest bus station'
+        text: 'nearest bus stop'
       -
         type: text
-        text: ' is a four minute walk away.'
+        text: ' is a two minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is free onsite parking. '
+        text: 'There is free limited onsite parking. '
   -
     type: paragraph
     content:
@@ -63,11 +61,11 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/mildenhall-library'
+              href: 'https://www.accessable.co.uk/venues/framlingham-library'
               rel: null
               target: _blank
               title: null
-        text: 'Mildenhall Library on AccessAble'
+        text: 'Framlingham Library on AccessAble'
       -
         type: text
         text: .
@@ -310,8 +308,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736844109
+updated_at: 1736844420
 duplicated_from: 3f69b22a-8933-49f8-b2ec-89bac97eeb7b
-address_line_2: Mildenhall
+address_line_2: Framlingham
 ---
 Explore 500 years of black British music with our Beyond the Bassline exhibition.
