@@ -2,7 +2,7 @@
 id: 97f39de0-4695-48ea-beca-374bb835f622
 published: false
 blueprint: events
-title: 'Jump In! Dance Performance (Duplicated)'
+title: 'Jump In! Dance Performance at Eye'
 event_categories:
   - family-friendly
   - dance
@@ -19,26 +19,26 @@ attendance_information: 'Made for 3-6 year olds, enjoyed by everyone'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-latitude: '52.45648425658775'
-longitude: '1.5657697817902454'
-building_name: 'Beccles Library'
-address_line_1: Blyburgate
-town: Beccles
-postcode: 'NR34 9TB'
+latitude: '52.32112333412945'
+longitude: '1.1452227972724323'
+building_name: 'Eye Library'
+address_line_1: '6'
+town: Eye
+postcode: 'IP23 7AA'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Beccles Library is a two minute walk from the '
+        text: 'Eye Library is a two minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Beccles+Library/Grove+Road,+Beccles+NR34+9TG/@52.4557532,1.5633626,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9f6182299c073:0x2d0c83895bb0b63a!2m2!1d1.5658127!2d52.456262!1m5!1m1!1s0x47d9f61836eabf2f:0xd313f809f0370fac!2m2!1d1.566326!2d52.455276!3e2?entry=ttu'
+              href: 'https://www.google.com/maps/dir/Eye+Library,+The+Library,+Cross+Street,+Eye/Town+Hall,+Eye+IP23+7AG/@52.3212559,1.1430997,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9bfb6249709b3:0xe0600a36f44c05c5!2m2!1d1.1452228!2d52.3209463!1m5!1m1!1s0x47d9bfb7b19db3cb:0x60accfc54cbcbe46!2m2!1d1.146033!2d52.321594!3e0?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
@@ -51,41 +51,7 @@ directions:
     content:
       -
         type: text
-        text: 'Beccles railway station is six minute walk and you can find up to date timetables on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest parking is '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.apcoa.co.uk/parking-in/beccles/blyburgate-beccles/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Blyburgate car park'
-      -
-        type: text
-        text: ' and it is a five minute walk away.'
+        text: 'There is free onsite car parking.'
   -
     type: paragraph
     content:
@@ -156,7 +122,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736872419
+updated_at: 1736872829
 duplicated_from: 018ed3ad-00ca-4250-aa9d-e373a20d94a8
+address_line_2: 'Cross Street'
 ---
 Jump In to our joyful adventure of dance and sound.
