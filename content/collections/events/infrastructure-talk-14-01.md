@@ -118,5 +118,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Illustrated talk by Rupert Masefield about the Trust’s engagement with energy infrastructure projects including Sizewell C.
