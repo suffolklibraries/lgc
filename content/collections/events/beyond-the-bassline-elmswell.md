@@ -6,6 +6,7 @@ event_categories:
   - family-friendly
   - music
   - museums
+  - exhibition
 organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
@@ -305,7 +306,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736785214
+updated_at: 1736843934
 duplicated_from: e7048b3d-3064-4eeb-89aa-d4ed6ed45a8a
 address_line_2: Elmswell
 ---
