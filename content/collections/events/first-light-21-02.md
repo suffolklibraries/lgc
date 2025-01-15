@@ -1,15 +1,15 @@
 ---
 id: ce79b2df-1afa-4e16-a497-e75908316c4c
-published: false
 blueprint: events
-title: 'Melting Pot - Zip Pouch Sewing Workshop (Duplicated)'
+title: 'First Light Fridays'
 event_categories:
   - art
+  - community
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-02-03 11:00'
-end_date: '2025-02-03 13:00'
+start_date: '2025-02-21 13:00'
+end_date: '2025-02-21 15:00'
 free: false
 virtual: false
 accessibility_information:
@@ -75,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join ‘Patch Fabrics’ for this 2 hour sewing workshop which will include all the *fabric, notions & instructions to make your own zip pouch.'
+        text: 'Our parade theme for 2025 is all about celebrating the salty brine right here in Lowestoft. We will be visiting local schools looking at the Five Layers of the Sea and we’d love to see you at our community open events - First Light Fridays - where you can create a sea creature to use in our opening parade.'
   -
     type: paragraph
     attrs:
@@ -83,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Sewing machines can be provided unless you would like to bring your own. ​'
+        text: 'We’ll be making octopus, jelly fish hats, and fishy masks to wear in the parade.'
   -
     type: paragraph
     attrs:
@@ -91,7 +91,63 @@ content_area:
     content:
       -
         type: text
-        text: '*Fabrics will vary.'
+        text: 'Join the parade! Come at 11am to East Point Pavilion on 21 June and and tag along - Dress to impress!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'First Light Friday sessions take place on:'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '21 Feb 1pm - 3pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '11 April 1pm - 3pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '16 May 11am - 2pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '30 May 1pm - 3pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'And a bonus session on'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Saturday 7 June 1pm - 3pm'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -99,9 +155,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939135
+updated_at: 1736939416
 duplicated_from: e9fdef7d-8fb8-4cff-86b9-5813f5500582
-cost_details: '£5 per person'
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-zip-pouch-sewing-workshop/e-xjldrm'
+booking_link: 'https://www.eastpointpavilion.com/events/first-light-fridays-ya3dj-6tdpr'
 ---
-Create your own zip pouch!
+Come along and join our making sessions at East Point Pavilion.
