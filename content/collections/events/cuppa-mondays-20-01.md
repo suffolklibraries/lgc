@@ -1,8 +1,7 @@
 ---
 id: 0241fd45-6eb1-4de5-87fa-8c52f519aa3c
-published: false
 blueprint: events
-title: 'Wildlife Walk (Duplicated)'
+title: 'Cuppa and a Stroll - Mondays'
 event_categories:
   - wellbeing
   - movement
@@ -10,63 +9,57 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-21 10:00'
-end_date: '2025-01-21 12:30'
+start_date: '2025-01-20 10:00'
+end_date: '2025-01-20 12:30'
 free: true
 virtual: false
-latitude: '52.467464593763445'
-longitude: '1.69091590181885'
-building_name: 'Carlton Marshes Visitor Centre'
-address_line_1: 'Carlton Colville'
+latitude: '52.48799983392733'
+longitude: '1.757676992413203'
+building_name: "Sparrow's Nest"
+address_line_1: 'Whapload Road'
 town: Lowestoft
-postcode: 'NR33 8HU'
+postcode: 'NR32 1XG'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is parking by the Carlton Marshes visitor centre. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest train station is'
+        text: 'The nearest car parking is at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ous'
+              href: 'https://www.apcoa.co.uk/parking-in/lowestoft/whapload-road-lowestoft/'
               rel: null
               target: _blank
               title: null
-        text: ' Oulton Broad South'
+        text: 'Whapload Road'
       -
         type: text
-        text: ' and is a 20 minute walk away. '
+        text: ', which is a two minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest bus stop is at '
+        text: The
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Chaukers+Crescent/@52.4663419,1.6915743,17z/data=!4m20!1m13!4m12!1m6!1m2!1s0x47da1b90d1b08321:0xac608ab2d1862edf!2sChaukers+Crescent,+Lowestoft+NR33+8HU!2m2!1d1.696631!2d52.464279!1m3!2m2!1d1.691014!2d52.467478!3e2!3m5!1s0x47da1b90d1b08321:0xac608ab2d1862edf!8m2!3d52.464279!4d1.696631!16s%2Fg%2F1q67qz06k?entry=ttu'
+              href: 'https://www.apcoa.co.uk/parking-in/lowestoft/whapload-road-lowestoft/'
               rel: null
               target: _blank
               title: null
-        text: 'Chaukers Crescent '
+        text: ' closest bus stop'
       -
         type: text
-        text: 'and is an eight minute walk away. '
+        text: ' is a seven minute walk away at Belle Vue Park.'
   -
     type: paragraph
     content:
@@ -92,7 +85,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join this friendly walking group to explore the beautiful scenery at Carlton Marshes.'
+        text: 'The session is suitable for people who aren’t able to walk easily. We’ll work up to a half mile walk slowly over a number of sessions and each location offers lots of seating.'
   -
     type: paragraph
     attrs:
@@ -122,7 +115,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736953674
+updated_at: 1736956288
 duplicated_from: fa907290-9b59-473f-af50-4c843863a898
 ---
-Meet and make new friends.
+Meet and make new friends - free drink included!
