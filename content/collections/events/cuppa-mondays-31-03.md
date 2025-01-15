@@ -115,7 +115,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736956854
+updated_at: 1736957042
 duplicated_from: a8fee166-464d-4068-bce2-76c00f374912
 ---
 Meet and make new friends - free drink included!
