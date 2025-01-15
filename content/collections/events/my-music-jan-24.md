@@ -1,6 +1,5 @@
 ---
 id: fe3edd18-3f7e-4c3f-8896-8998839174a4
-published: false
 blueprint: events
 title: 'My Music, My Life'
 event_categories:
@@ -139,6 +138,53 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
+    content:
+      -
+        type: text
+        text: 'Music has the power to shape us, inspire us, heal us, and bring joy. An eclectic collection of 26 music podcasts and artwork that tell stories of music - the soundtrack to our lives, the memories we hold dear, the music we love. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This exhibition has been designed and produced by Level 2 Media Learners as part of their UAL Diploma in Creative Media Production and Technology at Suffolk New College. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Bring your headphones, scan the QR codes, and enjoy the experience.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "For more information on Suffolk New College's courses in media, visit their website - "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolk.ac.uk/course-subjects/media/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'https://www.suffolk.ac.uk/course-subjects/media/'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -148,8 +194,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736937820
+updated_at: 1736938091
 duplicated_from: db5827d4-9f9c-413f-9502-2c5aee405271
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/creative-writing-workshop-spark-your-creativity-for-the-new-year-with-poppy-stevens'
 ---
 An interactive podcast exhibition.
