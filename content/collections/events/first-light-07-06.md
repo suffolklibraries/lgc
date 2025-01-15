@@ -1,16 +1,15 @@
 ---
 id: 3ba1e160-7632-4650-ac0c-7f69a83fbb1f
-published: false
 blueprint: events
-title: 'First Light Fridays (Duplicated)'
+title: 'First Light Fridays'
 event_categories:
   - art
   - community
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-05-30 13:00'
-end_date: '2025-05-30 15:00'
+start_date: '2025-06-07 13:00'
+end_date: '2025-06-07 14:00'
 free: false
 virtual: false
 accessibility_information:
@@ -93,30 +92,6 @@ content_area:
       -
         type: text
         text: 'Join the parade! Come at 11am to East Point Pavilion on 21 June and and tag along - Dress to impress!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'First Light Friday sessions take place on:'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: '30 May 1pm - 3pm'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Saturday 7 June 1pm - 3pm'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -124,8 +99,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939734
+updated_at: 1736939774
 duplicated_from: 4ac9bc17-add9-486f-a764-65258e13cd04
-booking_link: 'https://www.eastpointpavilion.com/events/first-light-fridays-f7679'
+booking_link: 'chttps://www.eastpointpavilion.com/events/first-light-fridays-f7679-6bdst'
 ---
 Come along and join our making sessions at East Point Pavilion.
