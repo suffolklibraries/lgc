@@ -1,16 +1,15 @@
 ---
 id: 605dc2eb-cb3c-4379-90c8-c3ec57298027
-published: false
 blueprint: events
-title: 'First Light Fridays (Duplicated)'
+title: 'First Light Fridays'
 event_categories:
   - art
   - community
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-02-21 13:00'
-end_date: '2025-02-21 15:00'
+start_date: '2025-04-11 13:00'
+end_date: '2025-04-11 15:00'
 free: false
 virtual: false
 accessibility_information:
@@ -108,14 +107,6 @@ content_area:
     content:
       -
         type: text
-        text: '21 Feb 1pm - 3pm'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
         text: '11 April 1pm - 3pm'
   -
     type: paragraph
@@ -156,8 +147,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939416
+updated_at: 1736939644
 duplicated_from: ce79b2df-1afa-4e16-a497-e75908316c4c
-booking_link: 'https://www.eastpointpavilion.com/events/first-light-fridays-ya3dj-6tdpr'
+booking_link: 'https://www.eastpointpavilion.com/events/first-light-fridays-ya3dj'
 ---
 Come along and join our making sessions at East Point Pavilion.
