@@ -1,8 +1,7 @@
 ---
 id: fa907290-9b59-473f-af50-4c843863a898
-published: false
 blueprint: events
-title: 'Cuppa and a Stroll - Tuesdays (Duplicated)'
+title: 'Wildlife Walk'
 event_categories:
   - wellbeing
   - movement
@@ -10,44 +9,63 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-21 13:30'
-end_date: '2025-01-21 15:00'
+start_date: '2025-01-21 10:00'
+end_date: '2025-01-21 12:30'
 free: true
 virtual: false
-latitude: '52.03453227861654'
-longitude: '1.2046907972551244'
-building_name: 'John Lewis'
-address_line_1: 'Futura park'
-address_line_2: 'Crane Boulevard'
-town: Ipswich
-postcode: 'IP3 9SQ'
+latitude: '52.467464593763445'
+longitude: '1.69091590181885'
+building_name: 'Carlton Marshes Visitor Centre'
+address_line_1: 'Carlton Colville'
+town: Lowestoft
+postcode: 'NR33 8HU'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The '
+        text: 'There is parking by the Carlton Marshes visitor centre. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest train station is'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/John+Lewis+%26+Partners+at+Home,+Futura+park,+Crane+Boulevard,+Ipswich/Euro+Retail+Park,+Ipswich+IP3+9SQ/@52.0336885,1.2015803,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d99fc9744254d7:0x9a71b8ec62dccd1b!2m2!1d1.2046908!2d52.0343541!1m5!1m1!1s0x47d99fcbc9b9b531:0x761a37ae51494cb2!2m2!1d1.2049195!2d52.0334144!3e2?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ous'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'nearest bus stop'
+        text: ' Oulton Broad South'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: ' and is a 20 minute walk away. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is onsite parking at John Lewis.'
+        text: 'The nearest bus stop is at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Chaukers+Crescent/@52.4663419,1.6915743,17z/data=!4m20!1m13!4m12!1m6!1m2!1s0x47da1b90d1b08321:0xac608ab2d1862edf!2sChaukers+Crescent,+Lowestoft+NR33+8HU!2m2!1d1.696631!2d52.464279!1m3!2m2!1d1.691014!2d52.467478!3e2!3m5!1s0x47da1b90d1b08321:0xac608ab2d1862edf!8m2!3d52.464279!4d1.696631!16s%2Fg%2F1q67qz06k?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Chaukers Crescent '
+      -
+        type: text
+        text: 'and is an eight minute walk away. '
   -
     type: paragraph
     content:
@@ -64,10 +82,7 @@ directions:
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard'
-      -
-        type: text
-        text: .
+        text: 'the Suffolk Onboard website.'
 content_area:
   -
     type: paragraph
@@ -76,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The session is suitable for people who aren’t able to walk easily. We’ll work up to a half mile walk slowly over a number of sessions and each location offers lots of seating.'
+        text: 'Join this friendly walking group to explore the beautiful scenery at Carlton Marshes.'
   -
     type: paragraph
     attrs:
@@ -106,7 +121,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736951317
+updated_at: 1736953674
 duplicated_from: b5b3a4cc-2543-41f2-8b95-8dc6ce331b73
 ---
-Meet and make new friends. Free drink included!
+Meet and make new friends.
