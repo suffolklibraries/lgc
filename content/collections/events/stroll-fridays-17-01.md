@@ -1,8 +1,7 @@
 ---
 id: 4e7cf71d-6f5e-4f0e-9db7-f448ed4e688a
-published: false
 blueprint: events
-title: 'Cuppa and a Stroll - Thursdays (Duplicated)'
+title: 'Cuppa and a Stroll - Fridays'
 event_categories:
   - wellbeing
   - movement
@@ -10,16 +9,16 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-23 11:00'
-end_date: '2025-01-23 12:30'
+start_date: '2025-01-17 13:30'
+end_date: '2025-01-17 15:00'
 free: true
 virtual: false
-latitude: '52.02399999769195'
-longitude: '1.1561650091639482'
-building_name: 'Suffolk Food Hall'
-address_line_1: Wherstead
+latitude: '51.97828376658429'
+longitude: '1.1403662737426854'
+building_name: 'Alton Water Sports Centre'
+address_line_1: 'Holbrook Road'
 town: Ipswich
-postcode: 'IP9 2AB'
+postcode: 'IP9 2RY'
 directions:
   -
     type: paragraph
@@ -85,7 +84,8 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736952156
+updated_at: 1736952934
 duplicated_from: 31a8a008-b94a-40ad-b8ac-c3974a17f5b0
+address_line_2: Stutton
 ---
 Meet and make new friends. Free drink included!
