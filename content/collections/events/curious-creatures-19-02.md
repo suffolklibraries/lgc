@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2024-12-01 11:00'
-end_date: '2024-12-01 12:00'
+start_date: '2025-02-19 11:00'
+end_date: '2025-02-19 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -76,7 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join animal expert, Angie, for an exciting animal handling session. Angie will bring along her menagerie of creatures for you to learn about and meet up close. There will be plenty of time to ask questions and lots of photo opportunities too!\_\_"
+        text: 'Join animal expert Angie and her curious creatures at East Point Pavilion this half term.'
   -
     type: paragraph
     attrs:
@@ -84,7 +84,15 @@ content_area:
     content:
       -
         type: text
-        text: "Children must be accompanied by an adult throughout the session.\_"
+        text: 'Get up close to some cute critters and make some crafty creatures of your own to take home. The session will end with an exciting story told by Angie.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Children must be accompanied by an adult.'
   -
     type: paragraph
     attrs:
@@ -100,11 +108,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730115300
+updated_at: 1736939267
 duplicated_from: 9ee19ee6-b5ba-40f4-a442-bd39798d7b2f
 attendance_information: 'Family friendly'
-cost_details: '£5 plus booking fee'
-booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures-full-animal-handling-experience'
-published: false
+cost_details: £4
+booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures'
 ---
 Animal handling experience!
