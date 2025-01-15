@@ -1,8 +1,7 @@
 ---
 id: 94c81f55-7b7d-4b0c-bf81-191b93b1fc3c
-published: false
 blueprint: events
-title: 'Cuppa and a Stroll - Mondays (Duplicated)'
+title: 'Cuppa and a Stroll - Tuesdays'
 event_categories:
   - wellbeing
   - movement
@@ -10,37 +9,23 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-20 13:00'
-end_date: '2025-01-20 14:30'
+start_date: '2025-01-21 13:00'
+end_date: '2025-01-21 14:30'
 free: true
 virtual: false
-latitude: '52.48799983392733'
-longitude: '1.757676992413203'
-building_name: "Sparrow's Nest"
-address_line_1: 'Whapload Road'
+latitude: '52.43971295137299'
+longitude: '1.6779025251838446'
+building_name: 'Cherry Lane Garden Centre'
+address_line_1: 'Rushmere Road'
 town: Lowestoft
-postcode: 'NR32 1XG'
+postcode: 'NR33 8HA'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest car parking is at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.apcoa.co.uk/parking-in/lowestoft/whapload-road-lowestoft/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Whapload Road'
-      -
-        type: text
-        text: ', which is a two minute walk away.'
+        text: 'There is on site parking.'
   -
     type: paragraph
     content:
@@ -57,10 +42,21 @@ directions:
               rel: null
               target: _blank
               title: null
-        text: ' closest bus stop'
+        text: ' '
       -
         type: text
-        text: ' is a seven minute walk away at Belle Vue Park.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/dir/Rushmere+Road,+Carlton+Colville,+Lowestoft+NR33+8DF/Cherry+Lane+Early+Dawn,+Rushmere+Rd,+Lowestoft+NR33+8HA/@52.4410908,1.6781423,15z/data=!4m14!4m13!1m5!1m1!1s0x47da1be505bbc4a3:0x4fbfd3df797d0fc9!2m2!1d1.692215!2d52.44302!1m5!1m1!1s0x47da1be56fdb05c9:0x4434f16cec30c6d0!2m2!1d1.6775626!2d52.437064!3e2?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'closest bus stop'
+      -
+        type: text
+        text: ' is a twenty minute walk away.'
   -
     type: paragraph
     content:
@@ -116,7 +112,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736956777
+updated_at: 1736957325
 duplicated_from: 0241fd45-6eb1-4de5-87fa-8c52f519aa3c
 ---
 Meet and make new friends - free drink included!
