@@ -1,8 +1,7 @@
 ---
 id: a0e3ee8e-39b8-4276-8432-900451b84894
-published: false
 blueprint: events
-title: 'Cuppa and a Stroll - Fridays (Duplicated)'
+title: 'Cuppa and a Stroll - Fridays'
 event_categories:
   - wellbeing
   - movement
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-03-21 13:30'
-end_date: '2025-03-21 15:00'
+start_date: '2025-03-28 13:30'
+end_date: '2025-03-28 15:00'
 free: true
 virtual: false
 latitude: '51.97828376658429'
@@ -85,7 +84,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736953403
+updated_at: 1736953424
 duplicated_from: 2a427684-0f4b-4c87-adad-1665a1ee9b64
 address_line_2: Stutton
 ---
