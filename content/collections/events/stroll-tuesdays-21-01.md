@@ -95,7 +95,7 @@ content_area:
               target: null
               title: null
         text: 'https://walkingandcyclinginsuffolk.org.uk/'
-booking_link: 'https://walkingandcyclinginsuffolk.org.uk/ipswich/'
+booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 cta: |-
   This event is organised by The Way to Go 
 
@@ -105,6 +105,6 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736951294
+updated_at: 1736951317
 ---
 Meet and make new friends. Free drink included!
