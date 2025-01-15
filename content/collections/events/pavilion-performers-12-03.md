@@ -1,16 +1,15 @@
 ---
 id: f5b5b821-5b1b-4bfc-9b1a-17c600a16421
-published: false
 blueprint: events
-title: 'Pavilion Performers Open Sessions (Duplicated)'
+title: 'Pavilion Performers Open Sessions'
 event_categories:
   - music
   - theatre-and-performance
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/performers-open-session-(1).png
-start_date: '2025-02-12 19:00'
-end_date: '2025-02-12 21:30'
+start_date: '2025-03-12 19:00'
+end_date: '2025-03-12 21:30'
 free: true
 virtual: true
 accessibility_information:
@@ -127,8 +126,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939209
-booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-february'
+updated_at: 1736939445
+booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-march'
 duplicated_from: 33206a46-f5ab-49f2-a23d-1b4d4fd4a6ea
 ---
 Pavilion Performers Open Sessions is a monthly opportunity for local musicians to perform and connect.
