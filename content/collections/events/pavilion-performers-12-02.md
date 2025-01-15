@@ -8,10 +8,10 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/performers-open-session-(1).png
-start_date: '2024-11-13 19:00'
-end_date: '2024-11-13 21:30'
+start_date: '2025-02-12 19:00'
+end_date: '2025-02-12 21:30'
 free: true
-virtual: false
+virtual: true
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
@@ -115,6 +115,10 @@ content_area:
       -
         type: text
         text: '9.30 - End'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -122,7 +126,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730114117
-published: false
+updated_at: 1736939209
+booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-february'
 ---
 Pavilion Performers Open Sessions is a monthly opportunity for local musicians to perform and connect.
