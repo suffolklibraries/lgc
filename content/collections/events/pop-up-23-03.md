@@ -1,15 +1,16 @@
 ---
 id: f400659d-dff0-44f5-b886-3a0eb79a0e76
 blueprint: events
-title: 'Pavilion Performers Open Sessions'
+title: 'Pavilion Pop-Ups: Mothers Day Market & Workshops'
 event_categories:
-  - music
-  - theatre-and-performance
+  - art
+  - family-friendly
+  - wellbeing
 organisers:
   - east-point-pavilion
-featured_image: eastpointpavilion/performers-open-session-(1).png
-start_date: '2024-12-11 19:00'
-end_date: '2024-12-11 21:30'
+featured_image: pelicanpelican-3x2/later_nature-(1).png
+start_date: '2025-03-23 10:00'
+end_date: '2025-03-23 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -75,46 +76,38 @@ content_area:
     content:
       -
         type: text
-        text: 'Hosted by local musician and experienced facilitator, Greg Powles, the evening will begin with a “turn up and play” where anyone under the age of 18 can bring a song and perform with an instrument or backing track. Then, we’ll open the floor to musicians of any age who would like to share a song and the evening will be rounded off with a showcase performance by a First Light Festival New Dawn artist.'
+        text: 'Our March event is so much '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'more than a market, '
+      -
+        type: text
+        text: 'as we offer you a chance to get involved and learn new skills at this exciting event!'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Pavilion Performers Open Sessions is an inclusive, friendly space led by experienced practitioners and everyone is welcome!'
+        text: 'Workshops to be announced... '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Keep your eyes peeled.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Hot drinks and soft drinks will be available and we look forward to seeing you there!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: '7pm – Turn up and play for under 18’s'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '8pm – Turn up and play for all-comers'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '9pm – New Dawn showcase performance'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '9.30 - End'
+        text: '*There may be an additional fee applicable for workshops.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -122,8 +115,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730114145
+updated_at: 1736939609
 duplicated_from: 33206a46-f5ab-49f2-a23d-1b4d4fd4a6ea
-published: false
+booking_link: 'https://www.eastpointpavilion.com/events/1bhrim4a048fw4mgpqi0q8dcfe8shi'
 ---
-Pavilion Performers Open Sessions is a monthly opportunity for local musicians to perform and connect.
+Explore local crafts and participate in a variety of workshops.
