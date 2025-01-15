@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-21 13:00'
-end_date: '2025-01-21 14:30'
+start_date: '2025-01-21 11:00'
+end_date: '2025-01-21 12:30'
 free: true
 virtual: false
 latitude: '52.43971295137299'
@@ -112,7 +112,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736957325
+updated_at: 1736957601
 duplicated_from: 0241fd45-6eb1-4de5-87fa-8c52f519aa3c
 ---
 Meet and make new friends - free drink included!
