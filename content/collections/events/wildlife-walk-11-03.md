@@ -1,8 +1,7 @@
 ---
 id: 39f8bd3e-3eeb-485c-a756-d5d58954e1d0
-published: false
 blueprint: events
-title: 'Wildlife Walk (Duplicated)'
+title: 'Wildlife Walk'
 event_categories:
   - wellbeing
   - movement
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-03-04 10:00'
-end_date: '2025-03-04 12:30'
+start_date: '2025-03-11 10:00'
+end_date: '2025-03-11 12:30'
 free: true
 virtual: false
 latitude: '52.467464593763445'
@@ -122,7 +121,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736953962
+updated_at: 1736953986
 duplicated_from: 98010be2-cc76-4d7a-ae7d-5d8330461781
 ---
 Meet and make new friends.
