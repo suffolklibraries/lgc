@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2024-12-18 09:00'
-end_date: '2024-12-18 15:00'
+start_date: '2025-03-05 09:00'
+end_date: '2025-03-05 15:00'
 free: true
 virtual: false
 attendance_information: 'open to all'
@@ -98,10 +98,6 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
     content:
       -
         type: text
@@ -126,8 +122,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730296504
+updated_at: 1736932167
 duplicated_from: d76586a9-643b-407b-9837-c92ef0eedd1d
-published: false
 ---
 Join us on Wednesdays at our Dove Street studio for a drop-in creative working session.
