@@ -164,5 +164,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731947794
 duplicated_from: db5827d4-9f9c-413f-9502-2c5aee405271
+published: false
 ---
 Free singing workshops for health and wellbeing.
