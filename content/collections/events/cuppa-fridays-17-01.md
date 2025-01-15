@@ -1,8 +1,7 @@
 ---
 id: a8fd39e0-34d5-4748-a218-619730ef834b
-published: false
 blueprint: events
-title: 'Cuppa and a Stroll - Wednesdays (Duplicated)'
+title: 'Cuppa and a Stroll - Fridays'
 event_categories:
   - wellbeing
   - movement
@@ -10,57 +9,49 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-01-22 13:00'
-end_date: '2025-01-22 14:30'
+start_date: '2025-01-17 13:00'
+end_date: '2025-01-17 14:30'
 free: true
 virtual: false
 latitude: '52.46018125127682'
 longitude: '1.7378746265216167'
-building_name: 'Kensington Gardens'
-address_line_1: 'Kensington Road'
+building_name: 'Pathways Care Farm'
+address_line_1: 'Leonard Drive'
 town: Lowestoft
-postcode: 'NR33 0HY'
+postcode: 'NR32 4WB'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/dir/Kensington+Gardens,+Kensington+Road,+Lowestoft/Kensington+Road,+Lowestoft+NR33+0DF/@52.4597228,1.7372203,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47da1b2d959959b1:0x1687128b866bf8dc!2m2!1d1.7407801!2d52.4601959!1m5!1m1!1s0x47da1a48b633310f:0x14471a920355260!2m2!1d1.739339!2d52.459942!3e2?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D'
-              rel: null
-              target: null
-              title: null
-        text: 'nearest bus stop'
-      -
-        type: text
-        text: ' is a two minute walk away on Kensington Road.'
+        text: 'To reach Pathways Care Farm by bus from Lowestoft Station take a number 60 to Bentley Drive and Leonard Drive is the last turning on the left before reaching the Tesco roundabout. Alternatively, take a number 1 or X1 to the Foxburrow pub then walk north towards Tesco and then, at the roundabout, turn left into Bentley Drive, Leonard Drive is then the first right.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest pay and display car park is a three minute walk away at '
+        text: The
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/pakefield_road/nr33/east_suffolk/?arriving=202501151630&leaving=202501151830'
+              href: 'https://www.google.com/maps/dir/Pathways+Care+Farm,+Pathways+Care+Farm,+Lowestoft/Howley+Gardens,+Lowestoft+NR32+4WF/@52.5023662,1.7278502,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47da1a5adb39e4c3:0x314e9a1c28bc6b2d!2m2!1d1.7302659!2d52.5028879!1m5!1m1!1s0x47da1b2097f882ed:0xaa7c9ac2810acc30!2m2!1d1.730121!2d52.501877!3e2?entry=ttu&g_ep=EgoyMDI1MDExMC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'Pakefield Road car park'
+        text: ' nearest bus stop'
       -
         type: text
-        text: .
+        text: ' is Howley Gardens, which is a two minute walk away'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is free onsite car parking.'
   -
     type: paragraph
     content:
@@ -119,7 +110,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736957908
+updated_at: 1736958350
 duplicated_from: 79b99e13-5081-43e7-ae70-3d073b1f5016
 ---
 Meet and make new friends. Free drink included!
