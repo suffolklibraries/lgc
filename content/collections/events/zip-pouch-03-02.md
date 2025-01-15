@@ -1,15 +1,14 @@
 ---
 id: e9fdef7d-8fb8-4cff-86b9-5813f5500582
-published: false
 blueprint: events
-title: 'Melting Pot with Mana Art - Beginners Lino Cutting (Duplicated)'
+title: 'Melting Pot - Zip Pouch Sewing Workshop'
 event_categories:
   - art
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-01-25 11:00'
-end_date: '2025-01-25 13:00'
+start_date: '2025-02-03 11:00'
+end_date: '2025-02-03 13:00'
 free: false
 virtual: false
 accessibility_information:
@@ -75,22 +74,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Experiment with lino-cutting tools and techniques for designing, carving and printing. By the end, participants create their own linocut prints, gaining skills they can use for other printmaking projects.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Please bring an apron or wear old clothes, as things might get inky! '
+        text: 'Join ‘Patch Fabrics’ for this 2 hour sewing workshop which will include all the *fabric, notions & instructions to make your own zip pouch.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All necessary equipment will be provided, and you will have the opportunity to take home your finished pieces.'
+        text: 'Sewing machines can be provided unless you would like to bring your own. ​'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '*Fabrics will vary.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -98,9 +98,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733224309
+updated_at: 1736939135
 duplicated_from: c698a782-7edc-4815-b6a9-011a23e8e98e
 cost_details: '£5 per person'
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-beginners-lino-cutting/e-dmgyrd'
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-zip-pouch-sewing-workshop/e-xjldrm'
 ---
-Mana Art will guide you step by step in creating your first piece of lino-printed artwork.
+Create your own zip pouch!
