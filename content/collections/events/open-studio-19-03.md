@@ -1,8 +1,7 @@
 ---
 id: 566c64ab-afdb-4aea-b4f5-f88b2aeac056
-published: false
 blueprint: events
-title: 'Open Studio (Duplicated) (Duplicated)'
+title: 'Open Studio'
 event_categories:
   - art
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-03-05 09:00'
-end_date: '2025-03-05 15:00'
+start_date: '2025-03-19 09:00'
+end_date: '2025-03-19 15:00'
 free: true
 virtual: false
 attendance_information: 'open to all'
@@ -123,7 +122,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736932167
+updated_at: 1736932211
 duplicated_from: 39abc1cf-2784-4144-8c89-feb2ab6bd40f
 ---
 Join us on Wednesdays at our Dove Street studio for a drop-in creative working session.
