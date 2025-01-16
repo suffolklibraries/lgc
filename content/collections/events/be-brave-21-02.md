@@ -156,6 +156,14 @@ content_area:
     content:
       -
         type: text
+        text: 'Places are free but limited, so booking in advance is recommended.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
         marks:
           -
             type: bold
@@ -194,7 +202,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736432849
+updated_at: 1737045083
 duplicated_from: 7bbff4a8-3a00-49b2-8f97-cb32d0e81c2e
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-newmarket'
 ---
