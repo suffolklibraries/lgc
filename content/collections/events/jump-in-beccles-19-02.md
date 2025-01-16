@@ -146,7 +146,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to book your free place via Suffolk Libraries website.'
+        text: 'Click here to book your free place via Suffolk Libraries website. '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Please book a place for each member of your family, including grown-ups.'
   -
     type: paragraph
     attrs:
@@ -164,7 +170,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737040144
+updated_at: 1737043496
 duplicated_from: d617ecea-fe73-4dd1-92b7-dfbd0aaa310e
 ---
 Jump In to our joyful adventure of dance and sound.
