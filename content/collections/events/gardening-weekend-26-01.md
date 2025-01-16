@@ -1,8 +1,7 @@
 ---
 id: 18ea512b-0080-4e2f-a966-05a14165fee0
-published: false
 blueprint: events
-title: 'Gardening Weekend (Duplicated)'
+title: 'Gardening Weekend'
 event_categories:
   - family-friendly
   - teen
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-01-25 10:30'
-end_date: '2025-01-25 15:00'
+start_date: '2025-01-26 10:30'
+end_date: '2025-01-26 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -211,7 +210,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737045515
+updated_at: 1737045538
 duplicated_from: f9ab850e-6e33-4c14-bf2e-82f6c450da20
 ---
 Help us build a community garden!
