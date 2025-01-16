@@ -112,7 +112,13 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to book your free place via Suffolk Libraries website.'
+        text: 'Click here to book your free place via Suffolk Libraries website. '
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Please book a place for each member of your family, including grown-ups.'
   -
     type: paragraph
     attrs:
@@ -130,7 +136,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737040145
+updated_at: 1737043504
 duplicated_from: 018ed3ad-00ca-4250-aa9d-e373a20d94a8
 address_line_2: 'Cross Street'
 ---
