@@ -2,7 +2,7 @@
 id: 018ed3ad-00ca-4250-aa9d-e373a20d94a8
 published: false
 blueprint: events
-title: 'Jump In! Dance Performance'
+title: 'Jump In! Dance Performance at Beccles'
 event_categories:
   - family-friendly
   - dance
@@ -156,7 +156,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736872419
+updated_at: 1737039817
 duplicated_from: d617ecea-fe73-4dd1-92b7-dfbd0aaa310e
 ---
 Jump In to our joyful adventure of dance and sound.
