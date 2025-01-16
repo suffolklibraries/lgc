@@ -146,6 +146,14 @@ content_area:
     content:
       -
         type: text
+        text: 'Click here to book your free place via Suffolk Libraries website.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
         text: 'Jump In! is an original production presented by Springs Dance Company. Jump In! was created by: Artistic Director - Ruth Hughes, Performers - Ella Fleetwood, George Perez & Hannah Rotchell and Vocal Sound Artist - Randolph Matthews. Collaborators - The children of Great Yarmouth, Lowestoft and Thetford.'
 cta: |-
   This event is organised by Suffolk Libraries
@@ -156,7 +164,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737039817
+updated_at: 1737040144
 duplicated_from: d617ecea-fe73-4dd1-92b7-dfbd0aaa310e
 ---
 Jump In to our joyful adventure of dance and sound.
