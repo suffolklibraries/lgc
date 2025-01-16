@@ -4,7 +4,7 @@ blueprint: events
 title: 'Be Brave this Break at Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736432918
+updated_at: 1737045090
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
 start_date: '2025-02-18 11:00'
@@ -39,6 +39,14 @@ content_area:
       -
         type: text
         text: "Get involved in games, craft activities and a little bit of writing as we face our fears this half term break. Workshops last 45 minutes and start at\_11AM 1.30PM and 3.15PM.\_Suitable for children aged 7+. Children must be accompanied by a responsible grown-up."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Places are free but limited, so booking in advance is recommended.'
   -
     type: paragraph
     attrs:
