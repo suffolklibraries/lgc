@@ -162,5 +162,6 @@ cta: |-
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730800823
+published: false
 ---
 If you enjoy singing and would like to sing with other people, then why not come and join our community singing group?
