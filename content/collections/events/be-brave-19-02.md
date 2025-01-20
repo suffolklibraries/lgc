@@ -4,7 +4,7 @@ blueprint: events
 title: 'Be Brave this Break at Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737045098
+updated_at: 1737369259
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
 start_date: '2025-02-19 11:00'
@@ -30,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: "Scared of spiders? Horrified by heights? Terrified of Tyrannosaurus Rexes? Bring along your worst fears and together we will make them silly things we can easily overcome.\_"
+        text: "Scared of spiders? Horrified by heights? Terrified of Tyrannosaurus Rexes? Bring along your worst fears and together we will make them things we can easily overcome.\_"
   -
     type: paragraph
     attrs:
