@@ -140,7 +140,7 @@ content_area:
     content:
       -
         type: text
-        text: "Scared of spiders? Horrified by heights? Terrified of Tyrannosaurus Rexes? Bring along your worst fears and together we will make them silly things we can easily overcome.\_"
+        text: "Scared of spiders? Horrified by heights? Terrified of Tyrannosaurus Rexes? Bring along your worst fears and together we will make them things we can easily overcome.\_"
   -
     type: paragraph
     attrs:
@@ -202,7 +202,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737045083
+updated_at: 1737369246
 duplicated_from: 7bbff4a8-3a00-49b2-8f97-cb32d0e81c2e
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-newmarket'
 ---
