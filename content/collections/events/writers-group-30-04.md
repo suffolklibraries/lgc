@@ -1,16 +1,15 @@
 ---
 id: cc7fc447-9275-4205-baa7-c2b144f40246
-published: false
 blueprint: events
-title: "Writer's Group (Duplicated)"
+title: "Writer's Group"
 event_categories:
   - community
   - literature
 organisers:
   - john-peel-centre
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-03-26 19:30'
-end_date: '2025-03-26 21:30'
+start_date: '2025-04-30 19:30'
+end_date: '2025-04-30 21:30'
 free: true
 virtual: false
 latitude: '52.1878802563952'
@@ -151,7 +150,7 @@ cta: |-
 
   [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737478414
+updated_at: 1737478434
 duplicated_from: d76f9b32-94fd-4b6f-8dc8-2904f4edaf73
 accessibility_information:
   - 'Wheelchair accessible'
