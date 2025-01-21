@@ -1,16 +1,16 @@
 ---
 id: d1136b84-a443-407c-a9c8-0eb3dfabfa4b
-published: false
 blueprint: events
-title: 'Folk Sessions @ 11 Market Place (Duplicated)'
+title: 'The Whole Shebang'
 event_categories:
   - community
   - music
+  - theatre-and-performance
 organisers:
   - john-peel-centre
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-01-26 17:00'
-end_date: '2025-01-26 20:00'
+featured_image: pelicanpelican-3x2/music_singing.png
+start_date: '2025-01-28 19:30'
+end_date: '2025-01-28 22:00'
 free: true
 virtual: false
 latitude: '52.1878802563952'
@@ -122,7 +122,15 @@ content_area:
     content:
       -
         type: text
-        text: 'All acoustic singers and musicians are welcome to take part in a relaxed, welcoming environment. If you fancy grabbing a drink and enjoying this event as an audience member, we would also love to have you!'
+        text: 'The JPC’s in house open mic night is back for 2025 with a SheBANG! Check out some fabulous homegrown, organic live entertainment! '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Join us as a performer or an audience member; we guarantee fun either way.'
   -
     type: paragraph
     attrs:
@@ -130,7 +138,45 @@ content_area:
     content:
       -
         type: text
-        text: 'The Bar at 11 will be open for the evening. No need to book, just come along.'
+        text: 'No fire, no nudity, no animals!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Other than that we like to keep the “open” in “open mic” so no matter what it is you do, music, poetry, juggling, dance, magic, exotic bird mating call impersonations, whatever, we’d love to have you along!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "Anyone interested in taking part should email\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:events@johnpeelcentre.com'
+              rel: null
+              target: null
+              title: null
+        text: events@johnpeelcentre.com
+      -
+        type: text
+        text: "\_with details of what they would like to do and email title SHEBANG, or come along on the night and we should be able to fit you in. Max. 10mins/3 songs per act (subject to number of acts)."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Alternatively, if you are more of an observer, just come along to watch an exciting evening of random entertainment!'
   -
     type: paragraph
     attrs:
@@ -155,15 +201,15 @@ cta: |-
 
   [https://www.johnpeelcentre.com/](https://www.johnpeelcentre.com/) 
 
-  [boxoffice@haverhillartscentre.co.uk](mail:boxoffice@haverhillartscentre.co.uk)
+  [boxoffice@johnpeelcentre.com](mail:boxoffice@johnpeelcentre.com)
 
-  [014497 74678](tel:01449774678)
+  [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737478602
+updated_at: 1737479070
 duplicated_from: 50b53130-db01-4023-a0dd-5f6e567d2ac9
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Drop-in event'
 ---
-Join these singing, playing or just listening folk sessions.
+Open mic night
