@@ -1,15 +1,15 @@
 ---
 id: 7f6c85f3-8eb5-4bdb-8363-d7aa550ddf24
 blueprint: events
-title: 'Folk Sessions @ 11 Market Place'
+title: "Writer's Group"
 event_categories:
   - community
-  - music
+  - literature
 organisers:
   - john-peel-centre
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-12-15 17:00'
-end_date: '2024-12-15 20:00'
+featured_image: pelicanpelican-3x2/literature.png
+start_date: '2025-01-28 19:30'
+end_date: '2025-01-28 21:30'
 free: true
 virtual: false
 latitude: '52.1878802563952'
@@ -121,15 +121,7 @@ content_area:
     content:
       -
         type: text
-        text: 'All acoustic singers and musicians are welcome to take part in a relaxed, welcoming environment. If you fancy grabbing a drink and enjoying this event as an audience member, we would also love to have you!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'The bar at 11 will be open for the evening. No need to book, just come along.'
+        text: 'Whatever kind of writing you do (poetry, short stories, non-fiction, novels…) and whatever your aspirations and level of experience, we’d love to see you there.'
   -
     type: paragraph
     attrs:
@@ -144,7 +136,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.johnpeelcentre.com/event/folk-sessions-11-market-place/'
+              href: 'https://www.johnpeelcentre.com/'
               rel: null
               target: _blank
               title: null
@@ -154,16 +146,15 @@ cta: |-
 
   [https://www.johnpeelcentre.com/](https://www.johnpeelcentre.com/) 
 
-  [boxoffice@haverhillartscentre.co.uk](mail:boxoffice@haverhillartscentre.co.uk)
+  [boxoffice@johnpeelcentre.com](mail:boxoffice@johnpeelcentre.com)
 
-  [014497 74678](tel:01449774678)
+  [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730912147
+updated_at: 1737478356
 duplicated_from: 50b53130-db01-4023-a0dd-5f6e567d2ac9
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Drop-in event'
-published: false
 ---
-Join these singing, playing or just listening folk sessions.
+Discuss your writing in an informal, friendly, and supportive environment with our writers’ group!
