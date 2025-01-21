@@ -126,5 +126,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730909886
 duplicated_from: bf9df430-4c19-4cfb-bc2b-a007a8c51b2f
 attendance_information: 'suitable for ages 7+'
+published: false
 ---
 Learn a musical skill with free ukulele workshops!
