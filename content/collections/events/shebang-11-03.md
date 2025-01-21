@@ -1,8 +1,7 @@
 ---
 id: 8e59a2e0-dae8-43eb-b925-9380bf6aa9a4
-published: false
 blueprint: events
-title: 'The Whole Shebang (Duplicated)'
+title: 'The Whole Shebang'
 event_categories:
   - community
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - john-peel-centre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-01-28 19:30'
-end_date: '2025-01-28 22:00'
+start_date: '2025-03-11 19:30'
+end_date: '2025-03-11 22:00'
 free: true
 virtual: false
 latitude: '52.1878802563952'
@@ -206,7 +205,7 @@ cta: |-
 
   [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737479070
+updated_at: 1737479100
 duplicated_from: d1136b84-a443-407c-a9c8-0eb3dfabfa4b
 accessibility_information:
   - 'Wheelchair accessible'
