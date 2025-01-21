@@ -1,15 +1,14 @@
 ---
 id: 0b25fe3a-0bf0-4432-b534-7a28f2e3640b
-published: false
 blueprint: events
-title: 'Relaxed Drawing and Mark Making (Duplicated)'
+title: 'Words, conversations and poems'
 event_categories:
   - community
   - art
   - wellbeing
 organisers:
   - suffolk-artlink
-featured_image: pelicanpelican-3x2/lgc-va.png
+featured_image: pelicanpelican-3x2/literature.png
 start_date: '2025-02-05 14:00'
 end_date: '2025-02-05 15:30'
 free: true
@@ -22,7 +21,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This relaxed drawing and mark making session will be led by Eleanor Rodwell.'
+        text: 'This words, conversation and poems session will be led by Dean Parkin.'
   -
     type: paragraph
     attrs:
@@ -100,9 +99,9 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737465621
+updated_at: 1737465712
 duplicated_from: 90f4f2c4-b66a-4ce6-b2db-d76d4d346db1
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/relaxed-drawing-and-mark-making/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/words-conversations-and-poems/'
 attendance_information: |-
   People with long-term chronic health conditions 
   Family carers
