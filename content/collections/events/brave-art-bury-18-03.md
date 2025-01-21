@@ -25,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'hrough a series of artist-led sessions in three locations we provide inspiration and support for people to express themselves through visual arts, bringing the social and wellbeing benefits of being creative together.'
+        text: 'Through a series of artist-led sessions in three locations we provide inspiration and support for people to express themselves through visual arts, bringing the social and wellbeing benefits of being creative together.'
   -
     type: paragraph
     attrs:
@@ -129,7 +129,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737480602
+updated_at: 1737480984
 duplicated_from: 994e7aa6-e102-4a5b-805b-ed28ec9a6ff8
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
