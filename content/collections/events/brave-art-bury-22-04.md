@@ -129,7 +129,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737480671
+updated_at: 1737480718
 duplicated_from: a8d1ceb6-35db-4d9d-8041-dc2bdc65472d
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
