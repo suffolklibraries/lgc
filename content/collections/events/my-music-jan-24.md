@@ -1,5 +1,6 @@
 ---
 id: fe3edd18-3f7e-4c3f-8896-8998839174a4
+published: false
 blueprint: events
 title: 'My Music, My Life'
 event_categories:
