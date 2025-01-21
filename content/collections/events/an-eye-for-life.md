@@ -1,5 +1,6 @@
 ---
 id: f127e8d4-f2a9-4d0e-bf5e-9c06405ce476
+published: false
 blueprint: events
 title: 'An Eye For Life: Photography By John Ferguson'
 event_categories:
