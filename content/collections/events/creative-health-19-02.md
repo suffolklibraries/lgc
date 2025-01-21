@@ -99,9 +99,9 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737465758
+updated_at: 1737465819
 duplicated_from: 0b25fe3a-0bf0-4432-b534-7a28f2e3640b
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/words-conversations-and-poems/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/collage-and-printing/'
 attendance_information: |-
   People with long-term chronic health conditions 
   Family carers
