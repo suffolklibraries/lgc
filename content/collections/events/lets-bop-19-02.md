@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - john-peel-centre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2024-11-20 19:30'
-end_date: '2024-11-20 21:00'
+start_date: '2025-02-19 19:00'
+end_date: '2025-02-19 00:00'
 free: false
 cost_details: '£7 in advance, £10 on the door'
 virtual: false
@@ -141,19 +141,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your ticket via the John Peel Centre website - '
+        text: 'Book your ticket via '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.johnpeelcentre.com/event/lets-bop-4/'
+              href: 'https://www.johnpeelcentre.com/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'https://www.johnpeelcentre.com/event/lets-bop-4/'
-booking_link: 'https://www.johnpeelcentre.com/event/lets-bop-4/'
+        text: 'the John Peel Centre website'
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by the John Peel Centre
 
@@ -163,7 +165,6 @@ cta: |-
 
   [014497 74678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730911873
-published: false
+updated_at: 1737478788
 ---
 Fun, fitness and friendship!
