@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - john-peel-centre
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-01-28 19:30'
-end_date: '2025-01-28 21:30'
+start_date: '2025-01-29 19:30'
+end_date: '2025-01-29 21:30'
 free: true
 virtual: false
 latitude: '52.1878802563952'
@@ -150,7 +150,7 @@ cta: |-
 
   [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737478356
+updated_at: 1737478400
 duplicated_from: 50b53130-db01-4023-a0dd-5f6e567d2ac9
 accessibility_information:
   - 'Wheelchair accessible'
