@@ -1,7 +1,7 @@
 ---
 id: 1e3f99d4-8db9-4d8d-9d6f-97eb95f0b356
 blueprint: events
-title: 'Sewing Group (Duplicated)'
+title: 'Sewing Group'
 event_categories:
   - art
   - community
@@ -82,7 +82,7 @@ cta: |-
 
   [volunteer@usethehive.org.uk](mailto:volunteer@usethehive.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737479373
+updated_at: 1737479444
 duplicated_from: c01920fd-6c16-45ff-8b2a-c65695ca94c3
 ---
 Come along and join The Hive's sewing group.
