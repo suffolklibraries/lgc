@@ -1,7 +1,7 @@
 ---
 id: 5fbad063-87c5-465b-b4b8-876b0ffd09aa
 blueprint: events
-title: 'Sewing Group'
+title: 'Sewing, Make and Mend Group'
 event_categories:
   - art
   - community
@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - the-hive
 featured_image: hive-ipswich/the-hive-sewing-group-3x2.png
-start_date: '2025-02-07 10:15'
+start_date: '2025-02-07 10:30'
 end_date: '2025-02-07 13:00'
 free: true
 virtual: false
@@ -82,7 +82,7 @@ cta: |-
 
   [volunteer@usethehive.org.uk](mailto:volunteer@usethehive.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730371853
+updated_at: 1737479536
 duplicated_from: da594dde-d58f-42f8-ad63-6d222ab430de
 ---
 Come along and join The Hive's sewing group.
