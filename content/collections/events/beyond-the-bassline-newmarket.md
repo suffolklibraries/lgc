@@ -1,5 +1,6 @@
 ---
 id: e7048b3d-3064-4eeb-89aa-d4ed6ed45a8a
+published: false
 blueprint: events
 title: 'Beyond the Bassline Exhibition - Newmarket'
 event_categories:
