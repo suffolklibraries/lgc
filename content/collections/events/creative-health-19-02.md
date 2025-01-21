@@ -1,8 +1,7 @@
 ---
 id: 87ca59fc-fcc2-4ca2-94c0-b4207e1aa499
-published: false
 blueprint: events
-title: 'Words, conversations and poems (Duplicated)'
+title: 'Collage and Printing'
 event_categories:
   - community
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-02-05 14:00'
-end_date: '2025-02-05 15:30'
+start_date: '2025-02-19 14:00'
+end_date: '2025-02-19 15:30'
 free: true
 virtual: true
 content_area:
@@ -22,7 +21,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This words, conversation and poems session will be led by Dean Parkin.'
+        text: 'This collage and printing session will be led by Jac Campbell.'
   -
     type: paragraph
     attrs:
@@ -100,7 +99,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737465712
+updated_at: 1737465758
 duplicated_from: 0b25fe3a-0bf0-4432-b534-7a28f2e3640b
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/words-conversations-and-poems/'
 attendance_information: |-
