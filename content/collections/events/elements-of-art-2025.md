@@ -1,5 +1,6 @@
 ---
 id: 95e4f9c4-df17-45eb-a5d6-b301598d528f
+published: false
 blueprint: events
 title: 'Elements of Art - Creative Resource'
 start_date: '2025-01-01 09:00'
