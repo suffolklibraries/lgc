@@ -1,16 +1,15 @@
 ---
 id: 3f372145-c85b-4cfd-ad58-f5936b58fb5a
-published: false
 blueprint: events
-title: 'Brave Art - Ipswich (Duplicated) (Duplicated)'
+title: 'Brave Art - Ipswich'
 event_categories:
   - wellbeing
   - art
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-03-19 10:00'
-end_date: '2025-03-19 15:00'
+start_date: '2025-04-02 10:00'
+end_date: '2025-04-02 15:00'
 free: false
 virtual: false
 latitude: '52.05879312178225'
@@ -130,7 +129,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737481068
+updated_at: 1737481114
 duplicated_from: eed8f18f-b968-42ac-b38e-5f18a0830181
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-ips-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
