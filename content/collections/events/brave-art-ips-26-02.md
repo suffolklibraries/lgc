@@ -1,23 +1,22 @@
 ---
 id: d208489f-8e64-420f-9bce-a92b92daf77a
-published: false
 blueprint: events
-title: 'Brave Art - Bury St Edmunds (Duplicated)'
+title: 'Brave Art - Ipswich'
 event_categories:
   - wellbeing
   - art
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-02-25 10:00'
-end_date: '2025-02-25 15:00'
+start_date: '2025-02-26 10:00'
+end_date: '2025-02-26 15:00'
 free: false
 virtual: false
-latitude: '52.248150770555625'
-longitude: '0.7114614702830845'
-address_line_1: "2B St Andrew's Street North"
-town: 'Bury St Edmunds'
-postcode: 'IP33 1TZ'
+latitude: '52.05879312178225'
+longitude: '1.1565072711648254'
+address_line_1: 'Northgate Street'
+town: Ipswich
+postcode: 'IP1 3DE'
 content_area:
   -
     type: paragraph
@@ -26,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'hrough a series of artist-led sessions in three locations we provide inspiration and support for people to express themselves through visual arts, bringing the social and wellbeing benefits of being creative together.'
+        text: 'Through a series of artist-led sessions in three locations we provide inspiration and support for people to express themselves through visual arts, bringing the social and wellbeing benefits of being creative together.'
   -
     type: paragraph
     attrs:
@@ -130,105 +129,105 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737480563
+updated_at: 1737480941
 duplicated_from: 8a6e5da1-6c32-41a3-951c-4a5b944375ed
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-ips-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
-attendance_information: 'Adults with learning disabilities'
+attendance_information: 'Learning disabled and neurodivergent adults'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-building_name: 'Bury St Edmunds Library'
+building_name: 'Ipswich County Library'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
+        text: 'Ipswich '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'railway station'
       -
         type: text
-        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
+        text: ' is a 21 minute walk away, and the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
+              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: 'Tower Ramparts bus station'
+      -
+        type: text
+        text: ' is a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are several nearby carparks, including '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Crown Street car park'
+      -
+        type: text
+        text: ' a six minute walk away and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.buttermarketipswich.com/Parking/'
+              rel: null
+              target: _blank
+              title: null
+        text: Buttermarket
+      -
+        type: text
+        text: ' a seven minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Ipswich County Library using AccessAble'
       -
         type: text
         text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is car parking at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Arc shopping centre'
-      -
-        type: text
-        text: ', which a six minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'St Andrews Flexi-Stay car park'
-      -
-        type: text
-        text: ', which is a five minute walk.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for Bury St Edmunds Library on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
-              rel: null
-              target: _blank
-              title: null
-        text: AccessAble
-      -
-        type: text
-        text: '. '
   -
     type: paragraph
     content:
