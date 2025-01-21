@@ -1,16 +1,15 @@
 ---
 id: 1c4f9337-bcaa-4d16-8d60-c2d97d9ce052
-published: false
 blueprint: events
-title: 'Brave Art - Bury St Edmunds (Duplicated) (Duplicated) (Duplicated) (Duplicated)'
+title: 'Brave Art - Bury St Edmunds'
 event_categories:
   - art
   - wellbeing
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-03-04 10:00'
-end_date: '2025-03-04 15:00'
+start_date: '2025-04-01 10:00'
+end_date: '2025-04-01 15:00'
 free: false
 virtual: false
 latitude: '52.248150770555625'
@@ -130,7 +129,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737480545
+updated_at: 1737480649
 duplicated_from: fd1b07df-8fda-409f-9979-a73c7fc98b79
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
