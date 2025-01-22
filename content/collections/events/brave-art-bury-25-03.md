@@ -129,11 +129,11 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737481003
+updated_at: 1737536023
 duplicated_from: cfb0d72a-4083-489d-8e48-e32bdd4e586d
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
-attendance_information: 'Adults with learning disabilities'
+attendance_information: 'Learning disabled and neurodivergent adults'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
