@@ -1,23 +1,22 @@
 ---
 id: 6573246c-6df9-4993-883c-a29ad23ebf06
-published: false
 blueprint: events
-title: 'Brave Art - Bury St Edmunds (Duplicated)'
+title: 'Brave Art - Lowestoft'
 event_categories:
   - wellbeing
   - art
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-02-25 10:00'
-end_date: '2025-02-25 15:00'
+start_date: '2025-03-20 10:00'
+end_date: '2025-03-20 15:00'
 free: false
 virtual: false
-latitude: '52.248150770555625'
-longitude: '0.7114614702830845'
-address_line_1: "2B St Andrew's Street North"
-town: 'Bury St Edmunds'
-postcode: 'IP33 1TZ'
+latitude: '52.47693008464241'
+longitude: '1.7503664745347964'
+address_line_1: 'Clapham Road South'
+town: Lowestoft
+postcode: 'NR32 1DR'
 content_area:
   -
     type: paragraph
@@ -130,48 +129,82 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737480969
+updated_at: 1737535954
 duplicated_from: 8a6e5da1-6c32-41a3-951c-4a5b944375ed
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-low-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
-attendance_information: 'Adults with learning disabilities'
+attendance_information: 'Learning disabled and neurodivergent adults'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-building_name: 'Bury St Edmunds Library'
+building_name: 'Lowestoft Library'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
+        text: 'Lowestoft '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'railway station'
       -
         type: text
-        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
+        text: ' is a seven minute walk away, and the'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
+              href: 'https://www.google.co.uk/maps/place/Lowestoft+bus+station/@52.4770576,1.7497725,18z/data=!4m24!1m15!4m14!1m6!1m2!1s0x47da1af4dc6a0171:0xa9d78eb97007c720!2sLowestoft+Library!2m2!1d1.7503366!2d52.4768238!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+bus+station,+Lowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3m7!1s0x47da1af56d372b2b:0x7065be204d63f941!6m1!1v5!8m2!3d52.4773506!4d1.7519173!16s%2Fg%2F1q67mdqrk?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: ' bus station'
+      -
+        type: text
+        text: ' is a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is a one minute walk away at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/clapham_road/nr32/east_suffolk/?arriving=202404111030&leaving=202404111230'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Clapham Road car park'
+      -
+        type: text
+        text: ' or a three minute walk away at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://brittencentre.co.uk/getting-here/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Britten Centre'
       -
         type: text
         text: .
@@ -180,55 +213,18 @@ directions:
     content:
       -
         type: text
-        text: 'There is car parking at the '
+        text: 'Find accessibility information for '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              href: 'https://www.accessable.co.uk/venues/lowestoft-library#224575f8-3516-404e-b08b-2b948939e7ad'
               rel: null
               target: _blank
               title: null
-        text: 'Arc shopping centre'
-      -
-        type: text
-        text: ', which a six minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'St Andrews Flexi-Stay car park'
-      -
-        type: text
-        text: ', which is a five minute walk.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for Bury St Edmunds Library on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
-              rel: null
-              target: _blank
-              title: null
-        text: AccessAble
-      -
-        type: text
-        text: '. '
+        text: 'Lowestoft Library using AccessAble.'
   -
     type: paragraph
     content:
