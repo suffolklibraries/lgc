@@ -1,8 +1,7 @@
 ---
 id: adb43123-d973-4587-8063-dbb3fd1a163f
-published: false
 blueprint: events
-title: 'Grow Your Future - Tuesday Group (Duplicated)'
+title: 'Grow Your Future - Tuesday Group'
 event_categories:
   - nature
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-02-11 10:00'
-end_date: '2025-04-29 14:00'
+start_date: '2025-02-18 10:00'
+end_date: '2025-02-18 14:00'
 free: true
 virtual: false
 latitude: '52.05374972132314'
@@ -140,7 +139,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731412467
+updated_at: 1737538844
 attendance_information: 'ages 16+'
 duplicated_from: a4073603-87df-46ff-8f6f-b5835477516e
 ---
