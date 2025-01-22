@@ -1,6 +1,5 @@
 ---
 id: 97f39de0-4695-48ea-beca-374bb835f622
-published: false
 blueprint: events
 title: 'Jump In! Dance Performance at Eye'
 event_categories:
@@ -112,7 +111,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to book your free place via Suffolk Libraries website. '
+        text: 'Click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolklibraries.co.uk/events/events/jump-in-at-eye'
+              rel: null
+              target: _blank
+              title: null
+        text: 'here to book your free place via Suffolk Libraries website'
+      -
+        type: text
+        text: '. '
       -
         type: text
         marks:
@@ -136,8 +149,9 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737043504
+updated_at: 1737536371
 duplicated_from: 018ed3ad-00ca-4250-aa9d-e373a20d94a8
 address_line_2: 'Cross Street'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/jump-in-at-eye'
 ---
 Jump In to our joyful adventure of dance and sound.
