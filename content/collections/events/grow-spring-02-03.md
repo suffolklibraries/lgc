@@ -1,8 +1,7 @@
 ---
 id: 6fbafb46-9c4c-4eba-bd59-7b68f0ba7267
-published: false
 blueprint: events
-title: 'Grow Your Future - Wednesday Group (Duplicated)'
+title: 'Grow Your Future - Wednesday Group'
 event_categories:
   - nature
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-03-26 09:30'
-end_date: '2025-03-26 14:30'
+start_date: '2025-04-02 09:30'
+end_date: '2025-04-02 14:30'
 free: true
 virtual: false
 latitude: '52.03845056427872'
@@ -123,7 +122,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737539156
+updated_at: 1737539181
 attendance_information: 'ages 16+'
 duplicated_from: 76b41852-9566-4d34-9ea9-9db3ced9995f
 ---
