@@ -11,7 +11,7 @@ organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
 start_date: '2025-02-12 09:30'
-end_date: '2025-04-30 14:30'
+end_date: '2025-02-12 14:30'
 free: true
 virtual: false
 latitude: '52.03845056427872'
@@ -122,7 +122,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731412469
+updated_at: 1737539056
 attendance_information: 'ages 16+'
 ---
 Learn about gardening, horticulture and nature conservation!
