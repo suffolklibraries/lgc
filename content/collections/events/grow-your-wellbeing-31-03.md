@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-03-24 10:00'
-end_date: '2025-03-24 12:30'
+start_date: '2025-03-31 10:00'
+end_date: '2025-03-31 12:30'
 free: true
 virtual: false
 latitude: '52.03758506760739'
@@ -217,7 +217,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737539451
+updated_at: 1737539460
 attendance_information: 'ages 16+'
 duplicated_from: 5793c753-0b3d-4cda-b022-958f020c961c
 ---
