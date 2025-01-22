@@ -122,5 +122,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1732102714
 duplicated_from: dd53620e-6761-4422-a230-20f385939022
+published: false
 ---
 Enjoy an enthralling evening of insect discovery, with Dr Ross Piper, author of How to Read an Insect
