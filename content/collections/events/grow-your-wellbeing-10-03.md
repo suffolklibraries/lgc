@@ -1,8 +1,7 @@
 ---
 id: 77650a81-108b-4583-b385-d4467e23ffc9
-published: false
 blueprint: events
-title: 'Grow Your Wellbeing (Duplicated) (Duplicated)'
+title: 'Grow Your Wellbeing'
 event_categories:
   - nature
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-02-24 10:00'
-end_date: '2025-02-24 12:30'
+start_date: '2025-03-10 10:00'
+end_date: '2025-03-10 12:30'
 free: true
 virtual: false
 latitude: '52.03758506760739'
@@ -218,7 +217,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737539348
+updated_at: 1737539400
 attendance_information: 'ages 16+'
 duplicated_from: 8f23c003-ad4d-4e6e-9540-4e9afaa82544
 ---
