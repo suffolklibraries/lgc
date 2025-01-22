@@ -1,16 +1,15 @@
 ---
 id: ff7f1590-3be9-46f7-bdd8-2c92a95ae03f
-published: false
 blueprint: events
-title: 'Brave Art - Lowestoft (Duplicated)'
+title: 'Brave Art - Lowestoft'
 event_categories:
   - wellbeing
   - art
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-04-03 10:00'
-end_date: '2025-04-03 15:00'
+start_date: '2025-04-10 10:00'
+end_date: '2025-04-10 15:00'
 free: false
 virtual: false
 latitude: '52.47693008464241'
@@ -130,7 +129,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737536071
+updated_at: 1737536095
 duplicated_from: 5f6b695e-e281-4167-8295-131da626168f
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-low-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
