@@ -11,7 +11,7 @@ organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
 start_date: '2025-02-11 10:00'
-end_date: '2025-04-29 14:00'
+end_date: '2025-02-11 14:00'
 free: true
 virtual: false
 latitude: '52.05374972132314'
@@ -139,7 +139,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731412467
+updated_at: 1737538826
 attendance_information: 'ages 16+'
 duplicated_from: f29b6b58-b6c6-46e9-881b-a23d60f83f7b
 ---
