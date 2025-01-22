@@ -1,6 +1,5 @@
 ---
 id: 018ed3ad-00ca-4250-aa9d-e373a20d94a8
-published: false
 blueprint: events
 title: 'Jump In! Dance Performance at Beccles'
 event_categories:
@@ -146,7 +145,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to book your free place via Suffolk Libraries website. '
+        text: 'Click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolklibraries.co.uk/events/events/jump-in-at-beccles'
+              rel: null
+              target: _blank
+              title: null
+        text: 'here to book your free place via Suffolk Libraries website'
+      -
+        type: text
+        text: '. '
       -
         type: text
         marks:
@@ -170,7 +183,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737043496
+updated_at: 1737536353
 duplicated_from: d617ecea-fe73-4dd1-92b7-dfbd0aaa310e
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/jump-in-at-beccles'
 ---
 Jump In to our joyful adventure of dance and sound.
