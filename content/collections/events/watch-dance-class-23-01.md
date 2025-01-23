@@ -220,5 +220,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1733158777
 duplicated_from: 77665443-e1fe-4eeb-b0e9-57d1ffa8791b
+published: false
 ---
 Watch Dance Class is an open house, professional company class experience for dance students, artists, bloggers and anyone interested in peeking behind the scenes – you will be free to draw, paint, or simply observe.
