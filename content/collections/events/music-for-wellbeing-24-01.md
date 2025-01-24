@@ -123,5 +123,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730112187
 duplicated_from: 1e3263fd-f965-4977-a0be-f70f305e4a6c
+published: false
 ---
 An activity for anyone who enjoys music!
