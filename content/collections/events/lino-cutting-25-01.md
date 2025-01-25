@@ -101,5 +101,6 @@ updated_at: 1733224309
 duplicated_from: a98da4dd-2084-4a52-904c-0264f3e4f2df
 cost_details: '£5 per person'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-beginners-lino-cutting/e-dmgyrd'
+published: false
 ---
 Mana Art will guide you step by step in creating your first piece of lino-printed artwork.
