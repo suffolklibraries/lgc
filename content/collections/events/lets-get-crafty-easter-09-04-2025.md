@@ -15,7 +15,7 @@ town: Sudbury
 postcode: 'CO10 2EN'
 booking_link: 'https://www.ticketsource.co.uk/whats-on/sudbury/sudbury-library/lets-get-crafty-easter-sudbury-library/2025-04-09/10:30/t-yaxavgz'
 created_by: 4ff1732e-0ba7-44c2-923b-16ae89eadb6c
-featured_image: user-events/sudbury-.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 event_categories:
   - art
   - family-friendly
@@ -128,6 +128,6 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738058981
+updated_at: 1738059192
 ---
 Spring into your creativity!
