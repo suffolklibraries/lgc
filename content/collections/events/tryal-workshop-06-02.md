@@ -2,7 +2,7 @@
 id: b8a755bd-49ae-4a0e-859a-be8b673a2455
 published: false
 blueprint: events
-title: 'Bloom Festival - Arts and Crafts (Duplicated)'
+title: 'A Tryal of Witches - Poetry and Art Project'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -10,13 +10,11 @@ event_categories:
   - art
 organisers:
   - theatre-royal
-featured_image: theatre-royal/arts-bloom-festival.png
-start_date: '2025-04-10 10:00'
-end_date: '2025-04-10 11:00'
+featured_image: theatre-royal/a-tryal-of-witches.png
+start_date: '2025-02-06 15:30'
+end_date: '2025-02-06 19:30'
 free: true
-cost_details: 'Pay as you can'
 virtual: false
-attendance_information: 'family friendly'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -124,7 +122,95 @@ content_area:
     content:
       -
         type: text
-        text: 'Let your creativity bloom with our Arts and Crafts session, suitable for ages 5+. Explore a range of crafting activities in a relaxed environment, and create a piece of art to take home.'
+        text: 'A creative community project, responding to the themes of A Tryal of Witches. This would take the form of poetry workshops, focusing on Dada and Blackout poetry, and then turning these poems into a small gallery exhibition at the Theatre Royal. Participants also receive tickets to see the show.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'You must attend both workshops - '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Workshop 1 - Rewriting'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Participants are taught how to create Blackout and Dada poetry/writing, using a mixture of pre-existing documents - transcripts from the Bury St Edmunds witch trials, the script for A Tryal of Witches and modern magazine articles about women’s identity/health/place in society.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "\_Workshop 2 - Making"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Having created these pieces of reworked writing, participants would then work with an artist to transform their poem into art.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This could, for example, involve blocking out unwanted sections of text with reindeer moss and foliage, or with translucent paper showing the edited work, with the original text underneath (liftable) which has been decorated to fit the themes of the play. Heidi and I are currently figuring out the final details but there will be some flexibility.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "\_"
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: Showcase
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '8th March is International Women’s Day, this is the first Saturday of performances for A Tryal of Witches.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This would take the form of an artistic exhibition, with pieces displayed around the theatre building. These pieces can then stay up until the end of the run, and be gifted to the creators to keep if they would like them. Participants will also be invited to come and see the show.'
   -
     type: paragraph
     attrs:
@@ -147,7 +233,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/arts-crafts/'
+booking_link: 'https://joyconnection.as.me/schedule/e2301e10/?appointmentTypeIds%5b%5d=73334942'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -157,11 +243,11 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902660
+updated_at: 1738083372
 duplicated_from: 3ca0956f-84f0-41bd-9836-b681b1712f09
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
 ---
-Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
+A creative community project, responding to the themes of A Tryal of Witches.
