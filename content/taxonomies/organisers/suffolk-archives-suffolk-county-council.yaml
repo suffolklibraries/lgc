@@ -47,3 +47,14 @@ addresses:
     lng: '1.1452228'
     directions: '<p><strong>Eye Library is a two minute walk from the </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.google.com/maps/dir/Eye+Library,+The+Library,+Cross+Street,+Eye/Town+Hall,+Eye+IP23+7AG/@52.3212559,1.1430997,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9bfb6249709b3:0xe0600a36f44c05c5!2m2!1d1.1452228!2d52.3209463!1m5!1m1!1s0x47d9bfb7b19db3cb:0x60accfc54cbcbe46!2m2!1d1.146033!2d52.321594!3e0?entry=ttu&amp;g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D"><strong><u>nearest bus stop</u></strong></a><strong>.</strong></p><p style="text-align: start"><strong>There is free onsite car parking.</strong></p><p style="text-align: start"><strong>Plan your journey using </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/"><strong><u>Suffolk Onboard</u></strong></a><strong>.</strong></p>'
     building_name: 'Eye Library'
+  -
+    id: 716fdd91-0717-4818-b109-0afc369d44ce
+    name: 'Stowmarket Library'
+    address_line_1: 'Milton Road North'
+    address_line_2: null
+    town: Stowmarket
+    postcode: 'IP14 1EX'
+    lat: '52.18783089999999'
+    lng: '0.9971361999999998'
+    directions: '<p><strong>Stowmarket Library is a one minute walk from the nearest bus stop, and you can find up-to-date times on the </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/"><strong><u>Suffolk Onboard website</u></strong></a><strong>.</strong></p><p style="text-align: start"><strong>Stowmarket railway station is a five minute walk away and you can find times on the </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.greateranglia.co.uk/travel-information/station-information/smk"><strong><u>Greater Anglia website</u></strong></a><strong>.</strong></p><p style="text-align: start"><strong>There are a number of public and supermarket car parks close to the Stowmarket Library. The nearest car park is </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.babergh.gov.uk/web/mid-suffolk/w/union-street-car-park-1"><strong><u>Union Street Car Park</u></strong></a><strong>, a four minute walk away or at </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://en.parkopedia.co.uk/parking/carpark/meadow_centre/ip14/stowmarket/?arriving=202405291430&amp;leaving=202405291630#google_vignette"><strong><u>ASDA</u></strong></a><strong> a five minute walk away.</strong></p><p style="text-align: start"><strong>Plan your journey using </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/"><strong><u>Suffolk Onboard</u></strong></a><strong>.</strong></p>'
+    building_name: 'Stowmarket Library'
