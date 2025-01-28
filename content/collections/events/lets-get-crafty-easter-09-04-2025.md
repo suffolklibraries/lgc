@@ -120,14 +120,14 @@ content_area:
         type: text
         text: 'Suitable for children aged 4-11. Children need to be accompanied by an adult'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Archives
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738059265
+updated_at: 1738059447
 ---
 Spring into your creativity!
