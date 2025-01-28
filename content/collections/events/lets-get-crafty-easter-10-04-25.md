@@ -6,7 +6,7 @@ start_date: '2025-04-10 14:00'
 end_date: '2025-04-10 16:00'
 free: true
 virtual: false
-attendance_information: 'children aged 4-11'
+attendance_information: 'children aged 4 - 11'
 latitude: '52.0830393'
 longitude: '0.4368188'
 address_line_1: 'Camps Road'
@@ -15,9 +15,10 @@ town: Haverhill
 postcode: 'CB9 8HB'
 booking_link: 'https://www.ticketsource.co.uk/whats-on/haverhill/haverhill-library/lets-get-crafty-easter-haverhill-library/2025-04-10/14:00/t-lnpnrxz'
 created_by: 4ff1732e-0ba7-44c2-923b-16ae89eadb6c
-featured_image: user-events/haverhill.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 event_categories:
   - art
+  - family-friendly
 organisers:
   - suffolk-archives-suffolk-county-council
 directions:
@@ -121,6 +122,6 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738058926
+updated_at: 1738059109
 ---
 Spring into your creativity!
