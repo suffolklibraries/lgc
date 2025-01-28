@@ -7,8 +7,8 @@ end_date: '2025-04-11 12:30'
 free: true
 virtual: false
 attendance_information: 'children aged 4-11'
-latitude: '52.3209463'
-longitude: '1.1452228'
+latitude: '52.33227684736337'
+longitude: '1.141102896758686'
 address_line_1: '6 Cross Street'
 building_name: 'Eye Library'
 town: Eye
@@ -93,6 +93,6 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738059458
+updated_at: 1738059902
 ---
 Easter half-term. Spring into your creativity!
