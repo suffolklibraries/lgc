@@ -284,5 +284,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/springboard-adults-open/'
+published: false
 ---
 Our fun, friendly and inclusive Springboard classes give adults with additional needs the opportunity to move and explore, using dance as a tool to develop skills.
