@@ -6,7 +6,7 @@ start_date: '2025-04-15 10:30'
 end_date: '2025-04-15 12:30'
 free: true
 virtual: false
-attendance_information: 'Family friendly crafts for children aged 4-11'
+attendance_information: 'children aged 4-11'
 latitude: '52.4768713'
 longitude: '1.7507098'
 address_line_1: 'Clapham Road South'
@@ -153,6 +153,6 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738058680
+updated_at: 1738058845
 ---
 Spring into your creativity!
