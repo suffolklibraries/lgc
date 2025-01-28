@@ -6,7 +6,7 @@ start_date: '2025-04-11 10:30'
 end_date: '2025-04-11 12:30'
 free: true
 virtual: false
-attendance_information: 'Family friendly crafts for children aged 4-11'
+attendance_information: 'children aged 4-11'
 latitude: '52.3209463'
 longitude: '1.1452228'
 address_line_1: '6 Cross Street'
@@ -15,7 +15,7 @@ town: Eye
 postcode: 'IP23 7AA'
 booking_link: 'https://www.ticketsource.co.uk/whats-on/eye/eye-library/lets-get-crafty-easter-eye-library/2025-04-11/10:30/t-xmkmoyq'
 created_by: 4ff1732e-0ba7-44c2-923b-16ae89eadb6c
-featured_image: user-events/eye-1737998278.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 event_categories:
   - art
 organisers:
@@ -26,66 +26,18 @@ directions:
     content:
       -
         type: text
-        text: 'Lowestoft '
+        text: 'Eye Library is a two minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
+              href: 'https://www.google.com/maps/dir/Eye+Library,+The+Library,+Cross+Street,+Eye/Town+Hall,+Eye+IP23+7AG/@52.3212559,1.1430997,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9bfb6249709b3:0xe0600a36f44c05c5!2m2!1d1.1452228!2d52.3209463!1m5!1m1!1s0x47d9bfb7b19db3cb:0x60accfc54cbcbe46!2m2!1d1.146033!2d52.321594!3e0?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'railway station'
-      -
-        type: text
-        text: ' is a seven minute walk away, and the'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/place/Lowestoft+bus+station/@52.4770576,1.7497725,18z/data=!4m24!1m15!4m14!1m6!1m2!1s0x47da1af4dc6a0171:0xa9d78eb97007c720!2sLowestoft+Library!2m2!1d1.7503366!2d52.4768238!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+bus+station,+Lowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3m7!1s0x47da1af56d372b2b:0x7065be204d63f941!6m1!1v5!8m2!3d52.4773506!4d1.7519173!16s%2Fg%2F1q67mdqrk?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: ' bus station'
-      -
-        type: text
-        text: ' is a three minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest car park is a one minute walk away at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/clapham_road/nr32/east_suffolk/?arriving=202404111030&leaving=202404111230'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Clapham Road car park'
-      -
-        type: text
-        text: ' or a three minute walk away at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://brittencentre.co.uk/getting-here/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Britten Centre'
+        text: 'nearest bus stop'
       -
         type: text
         text: .
@@ -94,18 +46,7 @@ directions:
     content:
       -
         type: text
-        text: 'Find accessibility information for '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/lowestoft-library#224575f8-3516-404e-b08b-2b948939e7ad'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Lowestoft Library using AccessAble.'
+        text: 'There is free onsite car parking.'
   -
     type: paragraph
     content:
@@ -134,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and enjoy some family-friendly crafts this Easter half-term. Spring into your creativity!'
+        text: 'Come and enjoy some family-friendly crafts this Easter half-term.'
   -
     type: paragraph
     attrs:
@@ -152,6 +93,6 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738058724
+updated_at: 1738059052
 ---
 Easter half-term. Spring into your creativity!
