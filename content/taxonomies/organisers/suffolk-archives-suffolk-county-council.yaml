@@ -2,3 +2,15 @@ title: 'Suffolk Archives'
 email_address: archives@suffolk.gov.uk
 telephone_number: '01473296666'
 website: 'https://www.suffolkarchives.co.uk/'
+addresses:
+  -
+    id: ca4a084f-64d9-41ac-b847-ebd41d3ffeb7
+    name: 'Bury St Edmunds Library'
+    address_line_1: "2B Saint Andrew's Street North"
+    address_line_2: 'Bury St Edmunds'
+    town: 'Bury Saint Edmunds'
+    postcode: 'IP33 1TZ'
+    lat: '52.2480457'
+    lng: '0.7113971'
+    directions: '<p><strong>The nearest bus stop is a minute''s walk away, and you can access up-to-date timetables on the </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/"><strong><u>Suffolk Onboard website</u></strong></a><strong>. Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.greateranglia.co.uk/travel-information/station-information/bse"><strong><u>Greater Anglia website</u></strong></a><strong>.</strong></p><p style="text-align: start"><strong>There is car parking at the </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm"><strong><u>Arc shopping centre</u></strong></a><strong>, which a six minute walk away from the library, and the </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm"><strong><u>St Andrews Flexi-Stay car park</u></strong></a><strong>, which is a five minute walk.</strong></p><p style="text-align: start"><strong>Find accessibility information for Bury St Edmunds Library on </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.accessable.co.uk/venues/bury-st-edmunds-library"><strong><u>AccessAble</u></strong></a><strong>.</strong></p><p style="text-align: start"><strong>Plan your journey using </strong><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.suffolkonboard.com/"><strong><u>Suffolk Onboard</u></strong></a><strong>.</strong></p>'
+    building_name: 'Bury St Edmunds Library'
