@@ -1,6 +1,5 @@
 ---
 id: b8a755bd-49ae-4a0e-859a-be8b673a2455
-published: false
 blueprint: events
 title: 'A Tryal of Witches - Poetry and Art Project'
 event_categories:
@@ -47,7 +46,7 @@ directions:
     content:
       -
         type: text
-        text: 'If you are visiting on a weekday, in the daytime, we recommend '
+        text: 'The '
       -
         type: text
         marks:
@@ -61,7 +60,7 @@ directions:
         text: 'Ram Meadow Car Park'
       -
         type: text
-        text: ", IP33 1XT on Cotton Lane (12-minute walk).\_"
+        text: ', IP33 1XT on Cotton Lane is a six minute walk. '
   -
     type: paragraph
     content:
@@ -167,6 +166,10 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -193,28 +196,6 @@ content_area:
       -
         type: text
         text: 'This would take the form of an artistic exhibition, with pieces displayed around the theatre building. These pieces can then stay up until the end of the run, and be gifted to the creators to keep if they would like them. Participants will also be invited to come and see the show.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Book your tickets via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://theatreroyal.org/events/arts-crafts/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Theatre Royal website'
-      -
-        type: text
-        text: .
 booking_link: 'https://joyconnection.as.me/schedule/e2301e10/?appointmentTypeIds%5b%5d=73334942'
 cta: |-
   This event is organised by the Theatre Royal 
@@ -225,7 +206,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738138947
+updated_at: 1738139308
 duplicated_from: 3ca0956f-84f0-41bd-9836-b681b1712f09
 accessibility_information:
   - 'Wheelchair accessible'
