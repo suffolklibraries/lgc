@@ -204,12 +204,8 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738139342
+updated_at: 1738139489
 duplicated_from: b8a755bd-49ae-4a0e-859a-be8b673a2455
-accessibility_information:
-  - 'Wheelchair accessible'
-  - 'Hearing loop available'
-  - 'Accessible toilets'
 address_line_2: 'Angel Hill'
 ---
 A creative community project, responding to the themes of A Tryal of Witches.
