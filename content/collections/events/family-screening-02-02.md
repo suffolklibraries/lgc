@@ -1,15 +1,15 @@
 ---
 id: b6c0e812-980f-4d0e-9346-b37814216fbf
 blueprint: events
-title: 'Family Screening - Early Man'
+title: 'Family Screening - Kung Fu Panda 2'
 event_categories:
   - family-friendly
   - film
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-01-12 10:30'
-end_date: '2025-01-12 12:00'
+start_date: '2025-02-02 10:30'
+end_date: '2025-02-02 12:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -113,7 +113,15 @@ content_area:
     content:
       -
         type: text
-        text: 'A plucky cave man named Dug, his sidekick Hognob and the rest of their tribe face a grave threat to their simple existence. Lord Nooth plans to take over their land and transform it into a giant mine, forcing Dug and his clan to dig for precious metals. Not ready to go down without a fight, Dug and Hognob must unite their people in an epic quest to defeat a mighty enemy - the Bronze Age.'
+        text: "Now known as the Dragon Warrior, Po (Jack Black) protects the Valley of Peace alongside his friends and fellow kung fu masters, the Furious Five. However, a dangerous villain threatens Po's awesome new life with plans to use a secret weapon to wipe out the martial art and conquer China. In order to defeat the new enemy, Po finds he must recall his past and unlock secrets of his mysterious origins; only then will he find the strength to vanquish his foe."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This screening is a relaxed screening, where the lights are brighter, and the sound is lower to create a relaxed environment for the whole family to enjoy. These screenings are particularly aimed at families with SEND children.'
   -
     type: paragraph
     attrs:
@@ -122,7 +130,7 @@ content_area:
       -
         type: text
         text: "Please Note:\_There are only 5 minutes of pre-show trailers, it is advisable to arrive before the time advertised."
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=7966690'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=8255943'
 cta: |-
   This event is organised by The Regal
 
@@ -132,8 +140,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733156991
+updated_at: 1738160219
 duplicated_from: dd8a4f54-768b-4066-ad96-100456074011
-published: false
 ---
 Come along for a relaxed, family friendly screening.
