@@ -72,7 +72,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738142514
+updated_at: 1738143313
 duplicated_from: bcf2324a-4171-4017-a1a3-05483c2472f9
 building_name: 'Christchurch Mansion'
 directions:
@@ -95,7 +95,13 @@ directions:
         text: 'Crown Pools (five minute walk)'
       -
         type: text
-        text: '. Ipswich is just 1 hour 15 minutes on the main train line from London to Norwich.  Arriving at Ipswich Station the museum is approximately 20 minute walk or short bus ride to the town centre. The museum is a five minute walk from Tower Ramparts bus station in the town centre - see the latest bus timetables '
+        text: '. Ipswich is just 1 hour 15 minutes on the main train line from London to Norwich.  Arriving at Ipswich Station the museum is approximately 20 minute walk or short bus ride to the town centre. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The museum is a five minute walk from Tower Ramparts bus station in the town centre - see the latest bus timetables '
       -
         type: text
         marks:
