@@ -8,7 +8,7 @@ event_categories:
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/love-mammals.png
+featured_image: ipswichmuseums/footprint-tunnel.png
 start_date: '2025-02-20 10:00'
 end_date: '2025-02-20 16:00'
 free: false
@@ -72,7 +72,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738142429
+updated_at: 1738142852
 duplicated_from: a54b38c0-9ce7-49d1-a528-47a7bad3f40c
 cost_details: '£5 per child'
 building_name: 'Christchurch Mansion'
