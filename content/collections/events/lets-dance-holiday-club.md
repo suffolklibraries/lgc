@@ -4,11 +4,12 @@ blueprint: events
 title: "Let's Dance! Holiday Club"
 event_categories:
   - dance
+  - family-friendly
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance_ballet-(1).png
-start_date: '2025-01-03 08:45'
-end_date: '2025-01-04 15:15'
+start_date: '2025-04-15 08:45'
+end_date: '2025-04-16 15:15'
 free: true
 cost_details: 'Free for children receiving free school meals'
 virtual: false
@@ -150,11 +151,20 @@ content_area:
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'DanceEast will provide a nutritious hot lunch, healthy snack, and drink, as well as arts and crafts activities. It’s a great chance for young people to form new friendships, build confidence and develop fresh new skills.'
+        text: "Filled with creative dance sessions,\_"
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Let’s Dance! Holiday Club'
+      -
+        type: text
+        text: ' is a fun, energetic and imaginative way for children and young people to learn and express themselves through movement. DanceEast will provide a nutritious hot lunch, healthy snack, and drink, as well as arts and crafts activities. It’s a great chance for young people to form new friendships, build confidence and develop fresh new skills.'
   -
     type: paragraph
     attrs:
@@ -184,7 +194,11 @@ content_area:
     content:
       -
         type: text
-        text: 'Free places are available to those on income/benefit related Free School Meals.'
+        text: 'Free places are available to those on income/benefit related Free School Meals. (You will be asked to provide evidence of free school meals during booking). Limited places are available for young people who identify as being “in need of provision” (indicators for this may include, for example, being on Universal Credit)'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
   -
     type: paragraph
     attrs:
@@ -192,37 +206,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Limited places are available for young people who identify as being “in need of provision” (indicators for this may include, for example, being on Universal Credit).'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: Click
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club/'
-              rel: null
-              target: _blank
-              title: null
-        text: ' here to book your place via the DanceEast website'
-      -
-        type: text
-        text: '. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'If you have any questions, or would like to book over the phone, please contact Hayley Lemon, Programme Coordinator on '
+        text: 'If you have any questions, please contact Hayley Lemon, Programme Coordinator on: '
       -
         type: text
         marks:
@@ -238,21 +222,115 @@ content_area:
         text: hayley.lemon@danceeast.co.uk
       -
         type: text
-        text: ' or call our Box Office on '
+        text: ' or call our Box Office on 01473 295230.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'tel:01473295230'
-              rel: null
-              target: null
-              title: null
-        text: '01473 295230'
+            type: bold
+        text: Access
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: .
+        text: 'We are committed to making Holiday Club accessible for as many young people as possible. Here are some of the things we do to make it an inclusive space:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: "A\_"
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'touch tour'
+              -
+                type: text
+                text: ' drop-in will be available on at DanceEast. This is a chance for young people to visit our building with their guardians, get familiar with the space and ask any questions they may have. No need to book, just drop in.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: "A\_"
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'visual story'
+              -
+                type: text
+                text: ' will be available for Holiday Club. This includes pictures of the building and our friendly staff.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Leading Lives Support Workers:'
+              -
+                type: text
+                text: ' we are grateful to receive funding from Activities Unlimited to include two Support Workers from Leading Lives in our Holiday Club Team. These support workers help assist our young people in the studio and at mealtimes and can also support with any personal care needs. We also have brilliant assistant dance artists that can provide 1-2-1 support to young people.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Quiet space:'
+              -
+                type: text
+                text: ' this is where our young people can have a breather with some fidget toys, blankets and bean bags if things get a little too much. They are welcome to use this space at any time.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
 booking_link: 'https://www.danceeast.co.uk/workshops/lets-dance-holiday-club/'
 cta: |-
   This event is organised by Dance East
@@ -263,7 +341,6 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730389587
-published: false
+updated_at: 1738162959
 ---
 A fun, energetic and imaginative way for children to express themselves through movement.
