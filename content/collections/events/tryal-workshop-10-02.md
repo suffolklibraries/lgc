@@ -1,18 +1,15 @@
 ---
 id: f30d1123-1c43-4591-91dd-880710813e45
-published: false
 blueprint: events
-title: 'A Tryal of Witches - Poetry and Art Project (Duplicated)'
+title: 'A Tryal of Witches - Poetry and Art Project'
 event_categories:
   - theatre-and-performance
-  - family-friendly
-  - teen
   - art
 organisers:
   - theatre-royal
 featured_image: theatre-royal/a-tryal-of-witches.png
-start_date: '2025-02-06 15:30'
-end_date: '2025-02-06 19:30'
+start_date: '2025-02-10 15:30'
+end_date: '2025-02-10 19:30'
 free: true
 virtual: false
 latitude: '52.24581149863754'
@@ -207,7 +204,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738139308
+updated_at: 1738139342
 duplicated_from: b8a755bd-49ae-4a0e-859a-be8b673a2455
 accessibility_information:
   - 'Wheelchair accessible'
