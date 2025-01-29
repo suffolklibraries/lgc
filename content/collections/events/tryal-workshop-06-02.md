@@ -4,8 +4,6 @@ blueprint: events
 title: 'A Tryal of Witches - Poetry and Art Project'
 event_categories:
   - theatre-and-performance
-  - family-friendly
-  - teen
   - art
 organisers:
   - theatre-royal
@@ -206,7 +204,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738139308
+updated_at: 1738139362
 duplicated_from: 3ca0956f-84f0-41bd-9836-b681b1712f09
 accessibility_information:
   - 'Wheelchair accessible'
