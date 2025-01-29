@@ -1,8 +1,7 @@
 ---
 id: 437fb44e-5436-4e5b-84e2-8cb40327c3ca
-published: false
 blueprint: events
-title: 'Behind the Scenes Tour (Duplicated)'
+title: 'Behind the Scenes Tour'
 event_categories:
   - family-friendly
   - museums
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: suffolkarchives/the-hold-3x2.png
-start_date: '2025-02-25 11:00'
-end_date: '2025-02-25 12:00'
+start_date: '2025-03-13 11:00'
+end_date: '2025-03-13 12:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -104,7 +103,7 @@ content_area:
       -
         type: text
         text: 'See our award-nominated new archive building and experience our collections in their natural habitat.'
-booking_link: 'https://www.ticketsource.co.uk/booking/select/ldrerveezaox'
+booking_link: 'https://www.ticketsource.co.uk/booking/select/enggknznwwyn'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -114,7 +113,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738166392
+updated_at: 1738166421
 duplicated_from: e37201fe-25be-478c-b271-8881ce690e7b
 ---
 Join us for a behind-the-scenes tour of The Hold with our archivists.
