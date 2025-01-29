@@ -1,8 +1,7 @@
 ---
 id: 20f9a142-15ac-43dc-8e3d-9cdea7cb54ab
-published: false
 blueprint: events
-title: 'Home Education Taster Sessions: Samba (Duplicated)'
+title: 'Home Education Taster Sessions: Samba'
 event_categories:
   - family-friendly
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-10 11:00'
-end_date: '2025-02-10 11:45'
+start_date: '2025-03-03 11:00'
+end_date: '2025-03-03 11:45'
 free: true
 virtual: false
 accessibility_information:
@@ -84,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Enjoy the opportunity to play Samba band instruments and form an exciting carnival band by the end of the session.'
+        text: 'This interactive singing session will include mashing up well-known song lyrics, leading to a fun performance piece.'
   -
     type: paragraph
     attrs:
@@ -107,11 +106,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/samba-taster-session/e-bvpjgp'
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/singing-taster-session/e-gxloay'
               rel: null
               target: _blank
               title: null
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/samba-taster-session/e-bvpjgp'
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/singing-taster-session/e-gxloay'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -119,9 +118,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738161138
+updated_at: 1738161216
 duplicated_from: 8fc1dd80-0cf1-4887-9b19-388f25d51dca
 attendance_information: 'home educated children'
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/samba-taster-session/e-bvpjgp'
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/singing-taster-session/e-gxloay'
 ---
 Free taster sessions for home educated young people.
