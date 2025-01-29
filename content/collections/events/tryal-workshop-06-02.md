@@ -15,51 +15,33 @@ start_date: '2025-02-06 15:30'
 end_date: '2025-02-06 19:30'
 free: true
 virtual: false
-latitude: '52.24082876567966'
-longitude: '0.7168733718612081'
-building_name: 'Theatre Royal'
-address_line_1: 'Westgate Street'
+latitude: '52.24581149863754'
+longitude: '0.7167842982157645'
+building_name: 'Joy Connection'
+address_line_1: 24B
 town: 'Bury St Edmunds'
-postcode: 'IP33 1QR'
+postcode: 'IP33 1UZ'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Theatre Royal is on Westgate Street at the top of Maynewater Lane, opposite the Greene King Brewery & Café. On foot, you’ll enter through the front entrance of the theatre.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The Theatre is a 15-minute walk from the Arc Shopping Centre and just 5-minutes from the Abbey Gardens.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you are attending a performance, the Greene King Staff Car Park is made available to our visitors for evening and weekend performances only. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The Greene King Staff Car Park is accessed off Cullum Road (A1302) and opens 1 hour before your performance at a charge per vehicle. Access to the Theatre is via steps (3-minute walk). Wheelchair users and customers with additional access requirements may be dropped-off for step- free access at the front of the theatre on Westgate Street. You can book a Parking Space '
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/buy/?event=131438'
+              href: 'https://www.google.co.uk/maps/dir/Joy+Connection/Abbey+Gardens,+Bury+Saint+Edmunds+IP33+1UZ/@52.2457319,0.7150201,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d84daa5b417e05:0xb19c0f95e8a5c03a!2m2!1d0.7167843!2d52.24569!1m5!1m1!1s0x47d84c5b33b6349f:0x705aa29b7dcfba5a!2m2!1d0.716318!2d52.245743!3e0?entry=ttu&g_ep=EgoyMDI1MDEyNi4wIKXMDSoASAFQAw%3D%3D'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: here
+        text: 'nearest bus stop'
       -
         type: text
-        text: .
+        text: " is at Abbey Gardens, a minute's walk away."
   -
     type: paragraph
     content:
@@ -85,7 +67,7 @@ directions:
     content:
       -
         type: text
-        text: 'Bury St Edmunds Train Station is a 20-25-minute walk from the theatre, with connections to Cambridge, Ipswich and the London-Norwich line. You can check train times and service updates on the '
+        text: 'Bury St Edmunds Train Station is a 14 minute walk. You can check train times and service updates on the '
       -
         type: text
         marks:
@@ -243,11 +225,12 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738083372
+updated_at: 1738138947
 duplicated_from: 3ca0956f-84f0-41bd-9836-b681b1712f09
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
+address_line_2: 'Angel Hill'
 ---
 A creative community project, responding to the themes of A Tryal of Witches.
