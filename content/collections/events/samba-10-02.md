@@ -1,21 +1,19 @@
 ---
 id: 8fc1dd80-0cf1-4887-9b19-388f25d51dca
-published: false
 blueprint: events
-title: "Angie's Curious Creatures (Duplicated)"
+title: 'Home Education Taster Sessions: Samba'
 event_categories:
   - family-friendly
   - community
-  - nature
+  - languages
 organisers:
   - east-point-pavilion
-featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2025-02-19 11:00'
-end_date: '2025-02-19 12:00'
-free: false
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2025-02-10 11:00'
+end_date: '2025-02-10 11:45'
+free: true
 virtual: false
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
@@ -77,31 +75,42 @@ content_area:
     content:
       -
         type: text
-        text: 'Join animal expert Angie and her curious creatures at East Point Pavilion this half term.'
+        text: 'Join Norfolk and Suffolk Music Hub for the first of two free taster sessions for home educated young people at East Point Pavilion.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Get up close to some cute critters and make some crafty creatures of your own to take home. The session will end with an exciting story told by Angie.'
+        text: 'Enjoy the opportunity to play Samba band instruments and form an exciting carnival band by the end of the session.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Children must be accompanied by an adult.'
+        text: 'Open to young people between the ages of 6-12 years who are home educated. '
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Suggested age 3+.'
+        text: 'Tickets are free but must be booked. Book online at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/samba-taster-session/e-bvpjgp'
+              rel: null
+              target: _blank
+              title: null
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/samba-taster-session/e-bvpjgp'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -109,10 +118,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939267
+updated_at: 1738161138
 duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
-attendance_information: 'Family friendly'
-cost_details: £4
-booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures'
+attendance_information: 'home educated children'
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/samba-taster-session/e-bvpjgp'
 ---
-Animal handling experience!
+Free taster sessions for home educated young people.
