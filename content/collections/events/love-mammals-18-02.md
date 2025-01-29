@@ -8,7 +8,7 @@ event_categories:
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/love-mammals.png
+featured_image: ipswichmuseums/animal-drawings.png
 start_date: '2025-02-18 10:00'
 end_date: '2025-02-18 15:00'
 free: false
@@ -68,7 +68,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738142602
+updated_at: 1738142808
 duplicated_from: 4b5b1cdb-3e2c-4e26-8e0d-02521f77a0d3
 building_name: 'Christchurch Mansion'
 directions:
