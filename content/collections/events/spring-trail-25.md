@@ -1,10 +1,10 @@
 ---
 id: 5b233a93-70ac-4c7b-9fbb-4471186f7af3
 blueprint: events
-title: 'Brandon Country Park’s Winter Holiday Trail'
+title: 'Brandon Country Park’s Signs of Spring Trail'
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-20 10:00'
-end_date: '2025-01-06 16:00'
+start_date: '2025-02-15 10:00'
+end_date: '2025-02-23 16:00'
 free: false
 cost_details: £1.50
 virtual: false
@@ -89,13 +89,12 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730390021
+updated_at: 1738160719
 duplicated_from: 3efc2fac-9ed8-4765-bdcd-4669185f164e
 event_categories:
   - nature
   - family-friendly
 organisers:
   - west-suffolk-council
-published: false
 ---
 Explore nature with a fun family-friendly trail.
