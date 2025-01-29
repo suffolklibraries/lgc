@@ -1,16 +1,15 @@
 ---
 id: 275ca5a6-eb12-4807-a3c4-f333ce1b563b
-published: false
 blueprint: events
-title: 'Family Screening - Kung Fu Panda 2 (Duplicated)'
+title: 'Family Screening - Kung Fu Panda 3'
 event_categories:
   - family-friendly
   - film
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-02-02 10:30'
-end_date: '2025-02-02 12:00'
+start_date: '2025-02-09 10:30'
+end_date: '2025-02-09 12:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -114,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: "Now known as the Dragon Warrior, Po (Jack Black) protects the Valley of Peace alongside his friends and fellow kung fu masters, the Furious Five. However, a dangerous villain threatens Po's awesome new life with plans to use a secret weapon to wipe out the martial art and conquer China. In order to defeat the new enemy, Po finds he must recall his past and unlock secrets of his mysterious origins; only then will he find the strength to vanquish his foe."
+        text: "Living large and loving life, Po (Jack Black) realizes that he has a lot to learn if he's going to fulfill the next challenge from his beloved instructor (Dustin Hoffman). After reuniting with his long-lost father (Bryan Cranston), Po must transition from student to teacher and train a group of fun-loving, clumsy pandas to become martial-arts fighters. Together, the kung-fu brethren unite to take on the evil Kai (J.K. Simmons), a supernatural warrior who becomes stronger with each battle."
   -
     type: paragraph
     attrs:
@@ -131,7 +130,7 @@ content_area:
       -
         type: text
         text: "Please Note:\_There are only 5 minutes of pre-show trailers, it is advisable to arrive before the time advertised."
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=8255943'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=8256000'
 cta: |-
   This event is organised by The Regal
 
@@ -141,7 +140,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738160219
+updated_at: 1738160262
 duplicated_from: b6c0e812-980f-4d0e-9346-b37814216fbf
 ---
 Come along for a relaxed, family friendly screening.
