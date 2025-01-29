@@ -1,96 +1,88 @@
 ---
 id: 8693ecad-2d7d-4296-b8b9-a715c6dcb6fd
-published: false
 blueprint: events
-title: 'Baby Loves to Boogie (Duplicated)'
+title: 'Baby Loves to Boogie'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729796756
+updated_at: 1738162839
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-10 10:30'
+start_date: '2025-04-13 10:30'
 event_categories:
+  - movement
+  - dance
   - early-years
 free: true
 virtual: false
 organisers:
   - danceeast
-address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/early-years-(1).png
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Get ready to groove with your family at our fun-filled Spring-themed Baby Loves to Boogie! The coolest baby disco in town is here, and it’s all about moving, laughing and celebrating the magic of Spring together!'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: italic
-        text: '“This is the best baby event I’ve been to! Do them more often!”'
-      -
-        type: text
-        text: ' – adult who attended a previous Baby Loves to Boogie'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Baby Loves to Boogie is all about connecting with your little one, moving, and having fun. You will be guided through games with props and movement exercises, all developed to nurture your little one’s natural love of movement in a structured yet relaxed environment. This is an event for children and adults alike, no previous dance experience necessary!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The disco will take place in our studio theatre and there will be an arts and crafts area in the foyer. Our café will be open, serving family friendly food and drink.'
-  -
-    type: heading
     attrs:
-      level: 2
+      textAlign: start
     content:
       -
         type: text
-        text: 'How to book'
+        text: 'Led by our super fun dance expert you and your little ones (up to 4 years old!) will dive into playful dance games, explore props, and enjoy easy, feel-good dance moves.'
   -
     type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
-        text: 'Book your place via the '
+        text: 'We’ve got two awesome sessions: the first one is perfect for little movers aged 0-4 and their grown-ups, while the second session brings the energy for all ages but is especially great for families with young people aged 5-7. Find out more about Kids Love to Boogie '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
+              href: 'https://www.danceeast.co.uk/workshops/kids-love-to-boogie/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Dance East website'
+          -
+            type: underline
+        text: here
       -
         type: text
         text: .
   -
     type: paragraph
-  -
-    type: heading
     attrs:
-      level: 2
+      textAlign: start
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'It’s the perfect chance to shake off those winter blues and let your family’s love of movement bloom. No dance experience needed – just come ready to have a blast!'
+cta: |-
+  This event is organised by Dance East
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+
+  [01473 295230](tel:01473295230)
+end_date: '2025-04-13 12:30'
+attendance_information: 'children aged 0-5 and their adults'
+duplicated_from: 802bf011-3924-43ee-9ada-e5757eb5ce73
+cost_details: '0-12 months free, 1-5 years £4, adult £6'
+booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-6/'
+building_name: 'Dance East'
+directions:
   -
     type: paragraph
     content:
@@ -219,17 +211,5 @@ content_area:
               target: null
               title: null
         text: here.
-cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
-
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
-
-  [01473 295230](tel:01473295230)
-end_date: '2024-11-10 12:30'
-attendance_information: '- Suitable for ages 0-5 and their adults'
-duplicated_from: 802bf011-3924-43ee-9ada-e5757eb5ce73
-cost_details: '0-12 months free, 1-5 years £4, adult £6'
-booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
 ---
-Join us for our forest themed Baby Loves to Boogie, the best baby disco in town! You and your little ones will explore the woodland floor and dance with creatures of the forest.
+The best baby disco in town!
