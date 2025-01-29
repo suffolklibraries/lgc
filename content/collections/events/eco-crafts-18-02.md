@@ -1,18 +1,17 @@
 ---
 id: d94aa6a5-6858-472d-9b44-d73802385d0e
-published: false
 blueprint: events
-title: "Angie's Curious Creatures (Duplicated)"
+title: 'Eco Craft Session'
 event_categories:
   - family-friendly
   - community
   - nature
 organisers:
   - east-point-pavilion
-featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2025-02-19 11:00'
-end_date: '2025-02-19 12:00'
-free: false
+featured_image: eastpointpavilion/eco-crafts-3x2.png
+start_date: '2025-02-18 11:00'
+end_date: '2025-02-18 12:00'
+free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -77,31 +76,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join animal expert Angie and her curious creatures at East Point Pavilion this half term.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Get up close to some cute critters and make some crafty creatures of your own to take home. The session will end with an exciting story told by Angie.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Children must be accompanied by an adult.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Suggested age 3+.'
+        text: "Join members of the Lowestoft Woodcraft folk for some craft activities. Suffolk Beach Cleans' ‘Chief Womble’ will also be here to talk about the importance of keeping our beaches clean and how we can help.\_\_"
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -109,10 +84,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939267
+updated_at: 1738161529
 duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
 attendance_information: 'Family friendly'
-cost_details: £4
-booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures'
+booking_link: 'https://www.eastpointpavilion.com/events/eco-craft-session-with-lowestoft-woodcraft-folk'
 ---
-Animal handling experience!
+Join members of the Lowestoft Woodcraft folk for craft activities.
