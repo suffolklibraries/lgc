@@ -1,20 +1,19 @@
 ---
 id: bcf2324a-4171-4017-a1a3-05483c2472f9
-published: false
 blueprint: events
-title: 'Woolly’s Wonderful Mammal Trail (Duplicated)'
+title: 'Make a Mammal Footprint Tunnel'
 event_categories:
   - art
-  - early-years
   - family-friendly
+  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg
-start_date: '2025-02-15 10:00'
-end_date: '2025-02-23 16:00'
+start_date: '2025-02-20 10:00'
+end_date: '2025-02-20 16:00'
 free: false
 virtual: false
-attendance_information: 'Suitable for ages 3+'
+attendance_information: 'Suitable for ages 7+'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_2: 'Soane Street'
@@ -28,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'From 15 to 23 February 2025, you can enjoy this trail anytime during our opening hours, which are Tuesday through Saturday from 10:00 AM to 4:00 PM and Sunday from 11:00 AM to 4:00 PM.'
+        text: 'This event will run on 20 February with 45-minute sessions at 10 AM, 11 AM, 12 PM, 2 PM and 3 PM.'
   -
     type: paragraph
     attrs:
@@ -36,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a delightful February half-term adventure with Woolly’s Wonderful Mammal Trail! Wander through the historic rooms of Christchurch Mansion and seek out all 12 Woollys, ingeniously hidden to enchant visitors of all ages. Team up with Woolly to uncover these hidden treasures, and a special surprise awaits you as your reward!'
+        text: 'Have you ever wondered which mammals visit your garden at night? Come along to learn how to identify small mammals by looking at their footprints. You will also make an eco-friendly footprint tunnel using upcycled materials to take away and set up in your garden to carry out your own scientific survey! All materials and full guidance will be provided.'
   -
     type: paragraph
     attrs:
@@ -44,7 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is suitable for explorers aged 3 and up.'
+        text: 'This event is suitable for ages 7+. Younger children are welcome but may not be able to fully participate in the session. Parents/carers must remain with their children throughout the event.'
   -
     type: paragraph
     attrs:
@@ -52,7 +51,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For our younger and less mobile guests, be sure to explore the accessible Hedgehog Trail located on the ground floor. It’s designed for everyone to enjoy at their own pace. For useful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
+        text: 'The workshop will take place in the Great Hall, which is accessible and located on the ground floor. For useful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
       -
         type: text
         marks:
@@ -63,15 +62,7 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Access at the Mansion | Ipswich Museums'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Gather your family for a fun-filled day learning about the wonderful world of mammals at Christchurch Mansion!'
+        text: 'Access at the Mansion'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -81,9 +72,9 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738142282
+updated_at: 1738142366
 duplicated_from: a54b38c0-9ce7-49d1-a528-47a7bad3f40c
-cost_details: £5
+cost_details: '£5 per child'
 building_name: 'Christchurch Mansion'
 directions:
   -
@@ -138,5 +129,6 @@ directions:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/footprint-tunnel/'
 ---
-This fantastic quest is perfect for our little explorers aged three and over.
+Join our family-friendly, interactive sessions as part of our Love Mammals Week.
