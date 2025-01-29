@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'An orange and white guinea pig'
 size: 1100936
 last_modified: 1738142670
 width: 1080
