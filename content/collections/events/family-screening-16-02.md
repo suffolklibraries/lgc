@@ -1,16 +1,15 @@
 ---
 id: baac63d6-a127-4803-bf3e-00246349abbe
-published: false
 blueprint: events
-title: 'Family Screening - Kung Fu Panda 3 (Duplicated)'
+title: 'Family Screening - Over the Hedge'
 event_categories:
   - family-friendly
   - film
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-02-09 10:30'
-end_date: '2025-02-09 12:00'
+start_date: '2025-02-16 10:30'
+end_date: '2025-02-16 12:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -114,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: "Living large and loving life, Po (Jack Black) realizes that he has a lot to learn if he's going to fulfill the next challenge from his beloved instructor (Dustin Hoffman). After reuniting with his long-lost father (Bryan Cranston), Po must transition from student to teacher and train a group of fun-loving, clumsy pandas to become martial-arts fighters. Together, the kung-fu brethren unite to take on the evil Kai (J.K. Simmons), a supernatural warrior who becomes stronger with each battle."
+        text: "When Verne (Garry Shandling) and fellow woodland friends awake from winter's hibernation, they find they have some new neighbours: humans, and RJ (Bruce Willis), an opportunistic raccoon who shows the others how to exploit the suburban bounty laid out before them."
   -
     type: paragraph
     attrs:
@@ -131,7 +130,7 @@ content_area:
       -
         type: text
         text: "Please Note:\_There are only 5 minutes of pre-show trailers, it is advisable to arrive before the time advertised."
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=8256000'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=8256146'
 cta: |-
   This event is organised by The Regal
 
@@ -141,7 +140,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738160262
+updated_at: 1738160336
 duplicated_from: 275ca5a6-eb12-4807-a3c4-f333ce1b563b
 ---
 Come along for a relaxed, family friendly screening.
