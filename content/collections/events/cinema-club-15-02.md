@@ -1,17 +1,17 @@
 ---
 id: 286af783-a560-4bba-b169-e1fd55c92d25
 blueprint: events
-title: 'Cinema Club: The Snowman™'
+title: 'Cinema Club: An American Tail'
 event_categories:
   - family-friendly
   - museums
   - film
 organisers:
   - suffolk-archives
-featured_image: suffolkarchives/snowman-3x2-(1).png
-start_date: '2024-11-30 11:30'
-end_date: '2024-11-30 12:00'
-free: true
+featured_image: pelicanpelican-3x2/film_resized.png
+start_date: '2025-02-15 10:00'
+end_date: '2025-02-15 13:00'
+free: false
 cost_details: '£2 per ticket, adults free'
 virtual: false
 accessibility_information:
@@ -102,64 +102,55 @@ content_area:
     content:
       -
         type: text
-        text: "The Snowman™, created and illustrated by Raymond Briggs, is one of the world's most popular and iconic festive stories which perfectly captures the wonder and innocence of childhood. This timeless and magical tale tells a story of imagination and friendship as well as love and loss."
+        text: 'In this animated classic a young mouse named Fievel and his family emigrate to the United States, but during a bad storm Fievel is thrown overboard and must make his own way to New York along with some unlikely friends, in search of his family.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: "© Snowman Enterprises Ltd & Snowdog Enterprises Ltd \_\_"
+        text: '£2 per child, accompanying adults go free.'
       -
         type: hardBreak
+      -
+        type: text
+        text: '£2 per adult without accompanying child.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Film Rating - U'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Run Time 1 hour 20 minutes'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Children must be accompanied by a responsible adult at all times.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Part of our programme of events for our new exhibition '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'http://www.thesno/'
+              href: 'https://www.suffolkarchives.co.uk/departures/'
               rel: null
               target: null
               title: null
-        text: www.thesnowman.com
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Film Rating U'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '£2 per child, adults free'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Run time 29 minutes'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Book your tickets '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkabgj&target=&iframe=true'
-              rel: null
-              target: _blank
-              title: null
-        text: "via Suffolk Archives' TicketSource website."
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkabgj&target=&iframe=true'
+        text: 'Departures: Exploring Emigration from Suffolk.'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-zvvxqr&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -169,8 +160,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730388403
+updated_at: 1738166091
 duplicated_from: 85e3396b-6447-4257-a3cb-4d0edc7172e0
-published: false
 ---
-Join in the festive fun at Suffolk Archives!
+Join us to watch An American Tail at our Cinema Club
