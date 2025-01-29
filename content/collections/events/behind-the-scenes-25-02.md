@@ -1,19 +1,18 @@
 ---
 id: e37201fe-25be-478c-b271-8881ce690e7b
-published: false
 blueprint: events
-title: 'Cinema Club: An American Tail (Duplicated)'
+title: 'Behind the Scenes Tour'
 event_categories:
   - family-friendly
   - museums
   - film
 organisers:
   - suffolk-archives
-featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-02-15 10:00'
-end_date: '2025-02-15 13:00'
+featured_image: suffolkarchives/the-hold-3x2.png
+start_date: '2025-02-25 11:00'
+end_date: '2025-02-25 12:00'
 free: false
-cost_details: '£2 per ticket, adults free'
+cost_details: '£5 per person'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -103,55 +102,8 @@ content_area:
     content:
       -
         type: text
-        text: 'In this animated classic a young mouse named Fievel and his family emigrate to the United States, but during a bad storm Fievel is thrown overboard and must make his own way to New York along with some unlikely friends, in search of his family.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '£2 per child, accompanying adults go free.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '£2 per adult without accompanying child.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Film Rating - U'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Run Time 1 hour 20 minutes'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Children must be accompanied by a responsible adult at all times.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Part of our programme of events for our new exhibition '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkarchives.co.uk/departures/'
-              rel: null
-              target: null
-              title: null
-        text: 'Departures: Exploring Emigration from Suffolk.'
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-zvvxqr&target=&iframe=true'
+        text: 'See our award-nominated new archive building and experience our collections in their natural habitat.'
+booking_link: 'https://www.ticketsource.co.uk/booking/select/ldrerveezaox'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -161,7 +113,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738166091
+updated_at: 1738166392
 duplicated_from: 286af783-a560-4bba-b169-e1fd55c92d25
 ---
-Join us to watch An American Tail at our Cinema Club
+Join us for a behind-the-scenes tour of The Hold with our archivists.
