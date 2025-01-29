@@ -1,20 +1,19 @@
 ---
 id: 4b5b1cdb-3e2c-4e26-8e0d-02521f77a0d3
-published: false
 blueprint: events
-title: 'Make a Mammal Footprint Tunnel (Duplicated)'
+title: 'Love Mammals Discovery Day'
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/christchurch-mansion-1080-x-675.jpg
-start_date: '2025-02-20 10:00'
-end_date: '2025-02-20 16:00'
-free: false
+featured_image: ipswichmuseums/love-mammals.png
+start_date: '2025-02-19 10:00'
+end_date: '2025-02-19 15:00'
+free: true
 virtual: false
-attendance_information: 'Suitable for ages 7+'
+attendance_information: 'family friendly'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_2: 'Soane Street'
@@ -28,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event will run on 20 February with 45-minute sessions at 10 AM, 11 AM, 12 PM, 2 PM and 3 PM.'
+        text: 'Join us on Wednesday, 19 February from 10 AM to 3 PM for this exciting day celebrating the wonders of mammal wildlife across Suffolk and beyond through stalls with displays across the Mansion. We will be joined on the day by the Suffolk Naturalists’ Society, GeoSuffolk, Ipswich Wildlife Group and Anglian Microscopy Group, to name a few. Discover some of the mammal objects going back in the museum’s new galleries and learn how they have been conserved from our specialist team. What will you discover?'
   -
     type: paragraph
     attrs:
@@ -36,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Have you ever wondered which mammals visit your garden at night? Come along to learn how to identify small mammals by looking at their footprints. You will also make an eco-friendly footprint tunnel using upcycled materials to take away and set up in your garden to carry out your own scientific survey! All materials and full guidance will be provided.'
+        text: "Your young children will also be able to learn and discover in the drop-in ‘Mini-Mammals’ zone, which offers play, arts, crafts, and activities all day. Suitable for ages 2+.\_Parents/carers must remain with their children throughout the event."
   -
     type: paragraph
     attrs:
@@ -44,15 +43,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is suitable for ages 7+. Younger children are welcome but may not be able to fully participate in the session. Parents/carers must remain with their children throughout the event.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The workshop will take place in the Great Hall, which is accessible and located on the ground floor. For useful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
+        text: 'For useful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
       -
         type: text
         marks:
@@ -63,7 +54,15 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Access at the Mansion'
+        text: 'Access at the Mansion | Ipswich Museums'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This event is free to all. No booking is required, just come by!'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -73,9 +72,8 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738142366
+updated_at: 1738142514
 duplicated_from: bcf2324a-4171-4017-a1a3-05483c2472f9
-cost_details: '£5 per child'
 building_name: 'Christchurch Mansion'
 directions:
   -
@@ -130,6 +128,6 @@ directions:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/footprint-tunnel/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/museum-discovery-day/'
 ---
 Join our family-friendly, interactive sessions as part of our Love Mammals Week.
