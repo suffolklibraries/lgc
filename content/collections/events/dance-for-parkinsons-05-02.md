@@ -1,14 +1,13 @@
 ---
 id: fdc7b7d8-b279-43d6-b232-1fa7762deb49
-published: false
 blueprint: events
 title: 'Dance for Parkinson’s'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729786058
+updated_at: 1738162087
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-10-02 17:30'
+start_date: '2025-02-05 17:30'
 free: true
 virtual: false
 organisers:
@@ -20,35 +19,25 @@ postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/dance.png
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Our Dance for Parkinson’s sessions are delivered in partnership with English National Ballet. The sessions bring a unique opportunity for people with Parkinson’s in Ipswich and the surrounding areas to engage with high quality dance classes in our studio.'
   -
     type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
         text: 'These weekly artistic and creative dance classes have the added benefits of improved mental and physical health and wellbeing, the chance for tea, biscuits, and a chat with like-minded people and most importantly, provide a fun, informal and energising activity suitable for all.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'If you would like to find out more information for yourself or if you know someone who would benefit and enjoy attending the classes you can do so by calling a member of our Box Office Team on 01473 295230.'
-  -
-    type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
+      textAlign: left
     content:
       -
         type: text
@@ -69,14 +58,48 @@ content_area:
         text: .
   -
     type: paragraph
-  -
-    type: heading
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to get here'
+        marks:
+          -
+            type: bold
+        text: 'Term dates: '
+      -
+        type: text
+        text: 'Wednesday 15 January – Wednesday 26 March 2025'
+      -
+        type: hardBreak
+        marks:
+          -
+            type: bold
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Half term: '
+      -
+        type: text
+        text: 'There will be no class on Wednesday 19 February 2025'
+cta: |-
+  This event is organised by Dance East
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+
+  [01473 295230](tel:01473295230)
+end_date: '2025-02-05 18:30'
+attendance_information: "adults with Parkinson's"
+duplicated_from: e3b113fa-48cb-4a90-aa40-3758955d9fdd
+cost_details: '£6 per session'
+event_categories:
+  - dance
+  - wellbeing
+  - later-years
+directions:
   -
     type: paragraph
     content:
@@ -205,16 +228,6 @@ content_area:
               target: null
               title: null
         text: here.
-cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
-
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
-
-  [01473 295230](tel:01473295230)
-end_date: '2024-10-02 18:30'
-attendance_information: "- Adults with Parkinson's"
-duplicated_from: e3b113fa-48cb-4a90-aa40-3758955d9fdd
-cost_details: '£6 per session'
+booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-4/'
 ---
-Our Dance for Parkinson’s sessions are delivered in partnership with English National Ballet. The sessions bring a unique opportunity for people with Parkinson’s in Ipswich and the surrounding areas to engage with high quality dance classes in our studio.
+Dance classes designed for people with Parkinson's.
