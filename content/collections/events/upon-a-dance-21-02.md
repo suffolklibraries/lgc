@@ -1,14 +1,13 @@
 ---
 id: ef949e98-2597-4f4a-8c50-c95762b7cf14
-published: false
 blueprint: events
-title: 'Dance for Parkinson’s (Duplicated)'
+title: 'Once Upon a Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738162087
+updated_at: 1738162401
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-02-05 17:30'
+start_date: '2025-02-21 09:00'
 free: true
 virtual: false
 organisers:
@@ -17,7 +16,7 @@ address_line_1: 'Dance East'
 address_line_2: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: pelicanpelican-3x2/dance.png
+featured_image: pelicanpelican-3x2/dance_ballet-(1).png
 content_area:
   -
     type: paragraph
@@ -26,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our Dance for Parkinson’s sessions are delivered in partnership with English National Ballet. The sessions bring a unique opportunity for people with Parkinson’s in Ipswich and the surrounding areas to engage with high quality dance classes in our studio.'
+        text: 'DanceEast and Suffolk Libraries invite you to bring your favourite storybook characters to life in an exciting day of activities led by dance artists, storytellers and theatre practitioners. We believe in the power of stories and we love bringing stories to life through dance. Let your imagination run wild and get creative through movement.'
   -
     type: paragraph
     attrs:
@@ -34,57 +33,76 @@ content_area:
     content:
       -
         type: text
-        text: 'These weekly artistic and creative dance classes have the added benefits of improved mental and physical health and wellbeing, the chance for tea, biscuits, and a chat with like-minded people and most importantly, provide a fun, informal and energising activity suitable for all.'
+        text: 'What to expect on the day:'
   -
-    type: paragraph
-    attrs:
-      textAlign: left
+    type: bulletList
     content:
       -
-        type: text
-        text: 'If you would like to find out more information for yourself or if you know someone who would benefit and enjoy attending the classes you can do so by calling a member of our Box Office Team on '
-      -
-        type: text
-        marks:
+        type: listItem
+        content:
           -
-            type: link
+            type: paragraph
             attrs:
-              href: 'tel:01473295230'
-              rel: null
-              target: null
-              title: null
-        text: '01473 295230'
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Share your favourite stories and characters'
       -
-        type: text
-        text: .
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Learn how dance can bring stories and characters to life'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Use your own ideas, and our wonderful selection of props, to explore movement and creative dance'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Work as a group to create your very own Once Upon a Dance piece to share with your grown-ups.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'We welcome everyone to join us – you don’t have to have any dance experience.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
         marks:
           -
-            type: bold
-        text: 'Term dates: '
+            type: italic
+        text: '“My daughter had a fantastic time and is still talking about it.”'
       -
         type: text
-        text: 'Wednesday 15 January – Wednesday 26 March 2025'
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Half term: '
-      -
-        type: text
-        text: 'There will be no class on Wednesday 19 February 2025'
+        text: ' – adult of previous half term activity attendee'
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -92,10 +110,10 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-02-05 18:30'
-attendance_information: "adults with Parkinson's"
+end_date: '2025-02-21 15:15'
+attendance_information: 'children aged 4 - 11'
 duplicated_from: fdc7b7d8-b279-43d6-b232-1fa7762deb49
-cost_details: '£6 per session'
+cost_details: '£25/bursary places available'
 event_categories:
   - dance
   - wellbeing
@@ -229,6 +247,6 @@ directions:
               target: null
               title: null
         text: here.
-booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-4/'
+booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-3/'
 ---
-Dance classes designed for people with Parkinson's.
+Bring your favourite storybook characters to life!
