@@ -1,13 +1,13 @@
 ---
 id: f09d7a53-7c18-429f-a636-94031bd32eec
 blueprint: events
-title: 'Once Upon a Dance'
+title: 'Mummy Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733215110
+updated_at: 1738162569
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-01 13:30'
+start_date: '2025-02-24 13:30'
 free: true
 virtual: false
 organisers:
@@ -25,7 +25,15 @@ content_area:
     content:
       -
         type: text
-        text: 'DanceEast and Suffolk Libraries invite you to bring your favourite storybook characters to life in an exciting day of activities led by dance artists, storytellers and theatre practitioners. We believe in the power of stories and we love bringing stories to life through dance. Let your imagination run wild and get creative through movement.'
+        text: 'Mummy Movers invites parents with babies in slings to rediscover their groove through the sheer joy of dance! Our mission is to provide a warm and relaxing space for you to connect with your baby while letting loose on the dance floor. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We believe in the transformative power of dance – it’s not just about moving your body; it’s about uplifting spirits and fostering a sense of community among parents. At Mummy Movers, we create an environment where you can dance your heart out, bond with your little one, and build meaningful connections with other mums.'
   -
     type: paragraph
     attrs:
@@ -33,54 +41,7 @@ content_area:
     content:
       -
         type: text
-        text: 'What to expect on the day:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Share your favourite stories and characters'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Learn how dance can bring stories and characters to life'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Use your own ideas, and our wonderful selection of props, to explore movement and creative dance'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Work as a group to create your very own Once Upon a Dance piece to share with your grown-ups.'
+        text: 'Babies from 8 weeks and onwards are warmly invited to join in the fun. Parents, please ensure you’ve had your 6-8 week check-up with your GP before participating in the class. The class is designed for babies to be worn in slings or baby carriers and the class tutor is trained and qualified in advising on safe and correct use of slings and carriers, should you require any support before or during the class.'
   -
     type: paragraph
     attrs:
@@ -88,7 +49,11 @@ content_area:
     content:
       -
         type: text
-        text: 'We welcome everyone to join us – you don’t have to have any dance experience.'
+        text: 'Term dates: Monday 24 February – Monday 24 March 2025'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
   -
     type: paragraph
     attrs:
@@ -98,11 +63,32 @@ content_area:
         type: text
         marks:
           -
-            type: italic
-        text: '“My daughter had a fantastic time and is still talking about it.”'
+            type: bold
+        text: 'Get Dancing Access Scheme'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' – adult of previous half term activity attendee'
+        text: "If you’re aged 18 or over, in receipt of Universal Credit, live in IP1, IP2, IP3 or IP4, and do not currently take part in classes at DanceEast, you can access one whole term of classes completely free. Find out more about the Get Dancing Access Scheme and the necessary criteria\_"
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.danceeast.co.uk/news/get-dancing-access-scheme/'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: underline
+        text: here.
+      -
+        type: text
+        text: "\_Places are limited and will be allocated on a first-come, first-served basis."
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -110,14 +96,16 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2024-11-01 15:30'
-attendance_information: 'suitable for ages 4 - 11'
+end_date: '2025-02-24 15:30'
+attendance_information: 'any parent or guardian who carries their baby in a sling'
 duplicated_from: b8316009-658e-46f5-a9a6-7e05f53e22b7
-cost_details: '£25 with bursaries available'
-booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-3/'
+cost_details: '£75 per term/bursaries available'
+booking_link: 'https://www.danceeast.co.uk/classes/mummy-movers-open/'
 event_categories:
   - movement
   - dance
+  - wellbeing
+  - early-years
 accessibility_information:
   - 'Accessible toilets'
 directions:
@@ -232,6 +220,5 @@ directions:
               target: null
               title: null
         text: here.
-published: false
 ---
-An exciting, fun-filled day of moving, music-making, songwriting and creativity!
+Rediscover your groove through the sheer joy of dance!
