@@ -1,8 +1,7 @@
 ---
 id: 957c66af-e3a6-4a83-9fb0-62267732b3c4
-published: false
 blueprint: events
-title: 'Online Creative Sessions (Duplicated)'
+title: 'Online Creative Sessions'
 event_categories:
   - wellbeing
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-02-19 14:00'
-end_date: '2025-02-19 15:00'
+start_date: '2025-02-26 14:00'
+end_date: '2025-02-26 15:00'
 free: true
 virtual: false
 content_area:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'On this session artist Jac Campbell will facilitate a collage and printing workshop. '
+        text: 'On this session  artist Sarah Lewis will facilitate a movement and relaxation workshop. '
   -
     type: paragraph
     attrs:
@@ -83,7 +82,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738314063
+updated_at: 1738314098
 duplicated_from: a00c0ec0-5c61-4dee-9a5c-67741ee594da
 attendance_information: |-
   - people with long-term heath conditions
