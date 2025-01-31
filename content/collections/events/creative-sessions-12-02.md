@@ -1,8 +1,7 @@
 ---
 id: 45da9777-bc26-48af-af7a-cc24451f9245
-published: false
 blueprint: events
-title: 'Online Creative Sessions (Duplicated)'
+title: 'Online Creative Sessions'
 event_categories:
   - wellbeing
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-02-05 14:00'
-end_date: '2025-02-05 15:00'
+start_date: '2025-02-12 14:00'
+end_date: '2025-02-12 15:00'
 free: true
 virtual: false
 content_area:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'On this session artist Eleanor Rodwell will facilitate a relaxed drawing and mark making workshop.'
+        text: 'On this session poet Dean Parkin will facilitate a word and poetry workshop.'
       -
         type: hardBreak
       -
@@ -82,7 +81,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738313959
+updated_at: 1738314017
 duplicated_from: 1529d74c-f9ed-4827-80d3-a91f4770be6e
 attendance_information: |-
   - people with long-term heath conditions
