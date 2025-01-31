@@ -111,5 +111,6 @@ cost_details: '£5 per person'
 accessibility_information:
   - 'Autism friendly'
 attendance_information: 'children aged 8 - 14 years'
+published: false
 ---
 Home Educated young artists are invited to create with us in a calm and quiet inclusive space.
