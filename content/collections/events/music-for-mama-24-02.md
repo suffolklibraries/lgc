@@ -1,16 +1,15 @@
 ---
 id: 3a52e5ec-5285-4809-9bce-30ef864d15fb
-published: false
 blueprint: events
-title: 'Music for Mama+ (Duplicated) (Duplicated)'
+title: 'Music for Mama+'
 event_categories:
   - music
   - early-years
 organisers:
   - suffolk-artlink
 featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-02-03 13:00'
-end_date: '2025-02-03 14:00'
+start_date: '2025-02-24 13:00'
+end_date: '2025-02-24 14:00'
 free: true
 virtual: false
 content_area:
@@ -99,7 +98,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738334118
+updated_at: 1738334161
 duplicated_from: 1188179a-61e9-4e0e-98de-571009f9b54c
 attendance_information: '- new parents and their babies aged under one year old'
 latitude: '52.46621684380911'
