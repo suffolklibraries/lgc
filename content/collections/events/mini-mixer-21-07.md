@@ -1,8 +1,7 @@
 ---
 id: d996a532-eb3e-4ceb-8e66-d366aa34d150
-published: false
 blueprint: events
-title: 'Mini Mixers (Duplicated)'
+title: 'Mini Mixers'
 event_categories:
   - early-years
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: offthepressimages/new_resized_images/Early-Years.png
-start_date: '2025-06-30 09:30'
-end_date: '2025-06-30 11:30'
+start_date: '2025-07-21 09:30'
+end_date: '2025-07-21 11:30'
 free: true
 virtual: false
 attendance_information: 'parents and toddlers'
@@ -44,7 +43,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738586968
+updated_at: 1738586992
 duplicated_from: a02baff4-e4ba-4444-8854-ded19bcb01be
 accessibility_information:
   - 'Wheelchair accessible'
