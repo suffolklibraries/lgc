@@ -1,94 +1,65 @@
 ---
 id: a55c4b8e-0972-4944-9862-5cadf36de414
-published: false
 blueprint: events
-title: 'Light Up The Town (Duplicated)'
+title: 'Light Up The Town'
 event_categories:
   - wellbeing
   - community
   - theatre-and-performance
 featured_image: ccp-marketplace/light-up-3x2.png
-start_date: '2025-02-27 18:00'
-end_date: '2025-03-27 20:00'
+start_date: '2025-02-26 18:00'
+end_date: '2025-03-26 20:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Drop-in event'
-latitude: '52.244538786723695'
-longitude: '0.4023830905468068'
+latitude: '52.34296756431643'
+longitude: '0.5090662021932388'
 building_name: "St Mary's Church"
-address_line_1: 'Church Lane'
-town: Newmarket
-postcode: 'CB8 0HP'
+address_line_1: 'High Street'
+town: 'Bury Saint Edmunds'
+postcode: 'IP28 7EE'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Newmarket '
+        text: 'There is free parking available at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/nmk'
+              href: 'https://en.parkopedia.co.uk/parking/carpark/mildenhall_hub/ip28/mildenhall/?arriving=202502031700&leaving=202502031900'
               rel: null
               target: _blank
               title: null
-        text: 'railway station'
+        text: 'Mildenhall Hub'
       -
         type: text
-        text: ' is a 12 minute walk away, and the '
+        text: ', including Blue Badge bays, an eight minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: "https://www.google.com/maps/place/Horse+Racing+Museum/@52.2438708,0.4025549,18z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d8426f15e12347:0x5239c4ad0cb8a378!2sSt+Mary's+Church,+Church+Lane,+Newmarket!2m2!1d0.402367!2d52.244414!1m6!1m2!1s0x47d84268aafa8ff5:0xb95cf21bbda216c9!2sHorse+Racing+Museum,+Newmarket+CB8+8JP!2m2!1d0.405189!2d52.243778!3e2!3m5!1s0x47d84268aafa8ff5:0xb95cf21bbda216c9!8m2!3d52.243778!4d0.405189!16s%2Fg%2F1q67d2rg8?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D"
+              href: "https://www.google.com/maps/dir/Mildenhall+bus+station,+Mildenhall,+Bury+Saint+Edmunds+IP28+7EZ/St+Mary's+Church+Mildenhall,+High+St,+Mildenhall,+Bury+Saint+Edmunds+IP28+7EE/@52.3432532,0.5094061,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d8476a3977384b:0xf52d8c6e1efdd4c0!2m2!1d0.51224!2d52.34322!1m5!1m1!1s0x47d84741c2fe2c35:0xed0a43e118ebe58d!2m2!1d0.5091574!2d52.3428365!3e2?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D"
               rel: null
               target: _blank
               title: null
         text: 'nearest bus stop'
       -
         type: text
-        text: ' is an four minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are several nearby carparks, including '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://theguineas-shopping.co.uk/information/car-parking.php'
-              rel: null
-              target: _blank
-              title: null
-        text: 'The Guineas car park'
-      -
-        type: text
-        text: ' an eight minute walk away and '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/newmarket-car-parks.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Rous Road car park'
-      -
-        type: text
-        text: ' a nine minute walk away.'
+        text: ' is about a four minute walk away. '
   -
     type: paragraph
     content:
@@ -153,9 +124,10 @@ cta: |-
 
   [01353 616991](tel:01353616991)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738600802
+updated_at: 1738601200
 duplicated_from: 442763f4-3dfe-4fae-98ab-3af33604cf6f
 organisers:
   - creative-people-and-places-marketplace
+address_line_2: Mildenhall
 ---
 Spring is coming - let's light up the town!
