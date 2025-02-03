@@ -1,14 +1,13 @@
 ---
 id: 34eac8ef-ea39-469a-b2ef-a32eb4236dff
-published: false
 blueprint: events
-title: 'Ruby Colley and EXAUDI: Hello Halo (Duplicated)'
+title: 'BBC Concert Orchestra: Northern Lights'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-15 12:00'
-end_date: '2025-06-15 17:45'
+start_date: '2025-06-17 19:30'
+end_date: '2025-06-17 21:50'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738580437
+updated_at: 1738580613
 free: false
 virtual: false
 organisers:
@@ -21,42 +20,42 @@ content_area:
     content:
       -
         type: text
-        text: 'Composer, violinist and sound artist Ruby Colley shares her new vocal work Hello Halo performed with EXAUDI, a leading vocal ensemble for new music. This composition has been developed alongside Ruby’s brother, Paul Colley, who is neurodivergent and has high support needs.'
+        text: 'In the Nordic lands, midsummer has an atmosphere that’s all its own. Seas are as blue as the skies, and elemental landscapes come alive with greenery and colourful flowers. And of course, the sun never quite sets; it shines at midnight, and casts an enchanted glow over the dreams and festivities of a culture as ancient as Europe itself.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Despite being termed “non-verbal”, Paul uses a rich repertoire of sounds and gestures. This composition transcribes these communication methods, using live voice and recordings of Paul, to make a vocal map of Paul’s life and relationships. It is an intimate examination of communication and asks questions of what it means to be human.  '
+        text: 'Tonight the BBC Concert Orchestra, under its Finnish chief conductor Anna-Maria Helsing, comes together with the Iceland Philharmonic Choir (which celebrates its 75th anniversary this year) to bring some of that midsummer magic to the Aldeburgh Festival.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Developed during a Residency at Britten Pears Arts, Hello Halo is shaped by Ruby’s own (a neurodiverse musician) and her brother’s lived experience, and is aimed at both neurodiverse and neurotypical audiences. '
+        text: 'Classics by Mendelssohn, Grieg and Nielsen as well as Hugo Alfvén’s gloriously catchy Swedish Rhapsody sit alongside some wonderful discoveries, as our Icelandic guests spin a garland of song from Iceland, Denmark and Finland. Expect to be charmed, surprised and thoroughly entertained.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'The show will feature a film by Rod Morris, documenting the process of Hello Halo and giving audiences a view into the world of Paul Colley and his unique collaboration with his sister Ruby.'
+        text: 'This very special edition of Friday Night Is Music Night will be recorded for broadcast on BBC Radio 3 on Friday 20 June.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: EXAUDI
+        text: 'Iceland Philharmonic Choir'
       -
         type: hardBreak
         marks:
@@ -67,10 +66,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Ruby Colley'
-      -
-        type: text
-        text: ' violin, composer'
+        text: 'BBC Concert Orchestra'
       -
         type: hardBreak
         marks:
@@ -81,18 +77,10 @@ content_area:
         marks:
           -
             type: bold
-        text: 'James Weeks'
+        text: 'Anna-Maria Helsing'
       -
         type: text
         text: ' conductor'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Performances last 40 minutes and start at midday and 5pm.'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -113,10 +101,10 @@ event_categories:
   - music
   - wellbeing
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/ruby-colley-and-exaudi-hello-halo'
-featured_image: brittenpearsartsimages/ruby-colley-3x2.png
+booking_link: 'https://www.brittenpearsarts.org/events/bbc-concert-orchestra-northern-lights'
+featured_image: brittenpearsartsimages/northern-lights-3x2.png
 duplicated_from: 8c721357-435d-41e4-a752-ffaa540a7f36
-building_name: 'Peter Pears Recital Room'
+building_name: 'Snape Maltings Concert Hall'
 directions:
   -
     type: paragraph
@@ -184,6 +172,6 @@ directions:
       -
         type: text
         text: .
-cost_details: '£12.50; under 30s half price'
+cost_details: 'Tickets from £10; under 30s half-price'
 ---
-In this performance installation, Ruby Colley and EXAUDI sensitively and movingly explore neurodivergence, relationships and communication.
+Midnight sun, verdant landscapes, and folksong at its freshest: the BBC Concert Orchestra and the Iceland Philharmonic Choir celebrate midsummer Nordic-style.
