@@ -1,8 +1,7 @@
 ---
 id: f40d74de-6901-41c5-bc91-aa9d0d337f89
-published: false
 blueprint: events
-title: 'Art&Design Saturday Club (Duplicated) (Duplicated) (Duplicated) (Duplicated)'
+title: 'Art&Design Saturday Club'
 event_categories:
   - art
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-new-college
 featured_image: pelicanpelican-3x2/exhibition.png
-start_date: '2025-03-08 10:00'
-end_date: '2025-03-08 13:00'
+start_date: '2025-04-05 10:00'
+end_date: '2025-04-05 13:00'
 free: true
 virtual: false
 accessibility_information:
@@ -189,7 +188,7 @@ cta: |-
 
   [01473 3822200](tel:014733822200)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738592564
+updated_at: 1738592895
 duplicated_from: 032b22e6-9d82-4e8c-9f34-9ffa0664f514
 ---
 A weekly club for young people interested in specialist art and design skills.
