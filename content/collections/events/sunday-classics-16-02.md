@@ -1,101 +1,92 @@
 ---
 id: e0239aa7-d3af-4aa9-92dc-4c3a1396b92f
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club - Calamity Jane'
+title: 'Sunday Classics Film Club - Passport to Pimlico'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716900038
-start_date: '2024-07-21 13:30'
-end_date: '2024-07-21 16:00'
+updated_at: 1738598868
+start_date: '2025-02-16 14:30'
+end_date: '2025-02-16 16:00'
 free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
 featured_image: offthepressimages/Film.png
-attendance_information: '- Dementia friendly'
+attendance_information: 'dementia friendly'
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: "Seagull Theatre's Film Club is so much more than a cinema visit! "
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Each month we screen a classic musical or drama and accompany it with an interactive performance from our team of talented singers. The whole event is themed with costumes and interaction from the moment our guests arrive and is designed to stimulate reminiscence and provoke memory. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Your visit to the film club will start with our team welcoming you at any time between 1.30pm and 2.30pm. During this initial hour there is complimentary tea and biscuits available along with plenty of time and space to for guests to familiarise themselves with the surroundings and settle any anxiety. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Our team of friendly performers will put you at your ease and there is plenty of opportunity for a nice chat. At 2.30pm we open up the theatre and guests can take a seat. There is no rush and we keep the lights up in the auditorium throughout the screening so that you can see your way. There is plenty of room on the stage for wheelchairs and we can provide extra chairs if carers want to sit beside their guest. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'This is a relaxed screening so during the film we welcome our guests chatting and commenting as well as moving around to visit the loo or stretch their legs. Members of our team remain in the foyer to ensure that no guest becomes lost or is left unattended. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'After the film has finished, we welcome our performer team back on stage and they will lead everyone in a singalong of songs relevant to the movie or period. We put the words up on a screen to help you join in – or you can just clap along. Our guests tell us this is the part of the show they enjoy the most! '
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://theseagull.co.uk/seagull_shows/sunday-classics-calamity-jane/'
-              rel: null
-              target: _blank
-              title: null
-        text: "Seagull Theatre's website"
-      -
-        type: text
-        text: ' to book your pay as you can ticket.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+cta: |-
+  This event is organised by The Seagull Theatre
+
+  [https://theseagull.co.uk/](https://theseagull.co.uk/)
+
+  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
+
+  [0333 666 3366](tel:03336663366)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Hearing loop available'
+  - 'Accessible parking spaces'
+latitude: '52.456816760715476'
+longitude: '1.7356360119327994'
+address_line_1: 'The Seagull Theatre'
+address_line_2: '19-75 Morton Road'
+postcode: 'NR33 0JH'
+duplicated_from: e424d08a-a22c-4f0a-b7c5-afa260e45f49
+event_categories:
+  - film
+  - later-years
+booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classic-film-club-passport-to-pimlico/'
+cost_details: 'voluntary donations'
+directions:
   -
     type: paragraph
     content:
@@ -147,23 +138,5 @@ content_area:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-cta: |-
-  This event is organised by The Seagull Theatre
-
-  [https://theseagull.co.uk/](https://theseagull.co.uk/)
-
-  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
-
-  [0333 666 3366](tel:03336663366)
-accessibility_information: '- Wheelchair access'
-latitude: '52.456816760715476'
-longitude: '1.7356360119327994'
-address_line_1: 'The Seagull Theatre'
-address_line_2: '19-75 Morton Road'
-postcode: 'NR33 0JH'
-duplicated_from: e424d08a-a22c-4f0a-b7c5-afa260e45f49
-event_categories:
-  - film
-booking_link: 'https://www.ticketsource.co.uk/booking/venueplan/gGFXhKbdfkaC'
 ---
 A free accessible film screening for those living with dementia and their families.
