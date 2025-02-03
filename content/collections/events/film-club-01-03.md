@@ -1,8 +1,7 @@
 ---
 id: 18f01fdc-ff0f-4524-bc2c-988c73030b70
-published: false
 blueprint: events
-title: 'Film&Screen Saturday Club (Duplicated)'
+title: 'Film&Screen Saturday Club'
 event_categories:
   - art
   - film
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-new-college
 featured_image: suffolk-new-college/film-saturday-club-3x2.png
-start_date: '2025-02-22 10:00'
-end_date: '2025-02-22 13:00'
+start_date: '2025-03-01 10:00'
+end_date: '2025-03-01 13:00'
 free: true
 virtual: false
 attendance_information: 'open to all'
@@ -177,7 +176,7 @@ cta: |-
 
   [01473 3822200](tel:014733822200)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738590551
+updated_at: 1738590579
 duplicated_from: 179c57df-7067-480c-91a5-2d59d02dd510
 ---
 A weekly club for young people interested in film and screen specialist skills.
