@@ -1,14 +1,13 @@
 ---
 id: ae6efb98-e27a-4889-8e01-2f91010a32e9
-published: false
 blueprint: events
-title: 'BBC Singers: Britten and Poulenc (Duplicated)'
+title: 'Kirill Karabits and RCM Symphony Orchestra'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-26 19:30'
-end_date: '2025-06-26 21:15'
+start_date: '2025-06-27 19:00'
+end_date: '2025-06-27 20:45'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738583078
+updated_at: 1738583483
 free: false
 virtual: true
 organisers:
@@ -21,35 +20,37 @@ content_area:
     content:
       -
         type: text
-        text: 'The BBC Singers and principal guest conductor Owain Park present a feast of wonderful choral music. Benjamin Britten’s A.M.D.G. (an abbreviation of the Latin for “To the greater glory of God”) is an entrancing setting of mystical and uplifting poems by Gerald Manley Hopkins. The full set of songs was not performed until 1984, after Britten’s death, and published five years after that. It is a work of great challenge and drama which certainly rewards both singers and listeners.'
+        text: "The charismatic Brazilian violinist Nathan Amaral features in Kidane’s major work Aloud, plus we hear Britten’s evocative Sea Interludes and Shostakovich's Ninth Symphony."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "The Royal College of Music Symphony Orchestra makes its Aldeburgh Festival debut with this compelling programme. Britten's timeless Sea Interludes are heard in their spiritual home venue, and in the second half we have Glière's dramatic depiction of Cossacks."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "A highlight of the Festival will be this performance of Daniel Kidane’s violin concerto Aloud. YCAT artist, Sphinx Prize winner, and Classic FM Rising Star Nathan Amaral is a violinist of immense musicality – a perfect fit for this exploration of the momentum and energy between violin and orchestra. It arises from the Russian war on Ukraine (both countries with which he has family ties) and evokes an old remembered Cossack folksong: “Чёрный Ворон” (Black Raven). The song is about a raven circling over an injured Cossack: not only touching, but also fierce. It reminds us that the suffering of ordinary people is often drowned out by political rhetoric. Daniel Kidane says: “it is like an outpouring of Munch's Scream – I really needed to write such a visceral piece just then. And to hear it alongside the tempestuousness of Britten’s Sea Interludes, one of my favourite orchestral interludes, in the Concert Hall, which starts off calm – the two pieces echo each other – it will be special. And Nathan is a very special violinist”."
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Schoenberg’s extraordinary Friede auf Erden sits between harmonic worlds, and between Romantic and Expressionist tendencies. It begins with Christmas and expands into a choral evocation of peace on earth. It is an extraordinary piece which deserves widespread listening.'
+        text: 'Shostakovich’s Ninth Symphony was trailed by the composer as a major “victory” symphony marking the end of World War II, but it turned out to be somewhat lighter and smaller-scale than expected. Indeed, others of his symphonies have single movements longer than this entire work! It evokes dance, lightheartedness, and even circus, though in the extraordinary Largo it also dwells in “the past which is impossible to forget, even amidst the joys of peaceful life. This minute of concentrated silence is a tribute of love and endless gratitude to those who saved the world and gave humanity back the very possibility of work and happiness. The Soviet artist Shostakovich could not forget these people at this minute of happy festivity” (Ivan Martynov).'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Poulenc’s Figure humaine has been described as “a spectacular choral hymn to freedom”. It dates from the Second World War and is a masterful setting of Paul Eluard’s anti-war poetry. It looks to a day of liberation – not just the end of the war he was so woefully amidst, but also a greater day of worldly peace and freedom to come.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Daniel Kidane’s piece was written during the Covid lockdown on the theme of people who could no longer see each other, between whom barriers had arisen. It is a stirring setting of Simon Armitage which reminds us of that recent time when, though confined to a single space, so many could not help but sing and make music.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Thea Musgrave’s richly harmonic Rorate Coeli sets two interleaved poems of the famous Scottish poet William Dunbar. One speaks of the Nativity, the other the Resurrection. Then the miniature gem that is Palestrina’s Regina Caeli looks ahead to the Ascension with joyful interplay between two groups of four voices.'
+        text: 'This evening’s programme draws a poignant juxtaposition of the players’ youth and the age-old human frailty of war.'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -69,8 +70,8 @@ cta: |-
 event_categories:
   - music
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/bbc-singers-britten-and-poulenc'
-featured_image: brittenpearsartsimages/bbc-singers-3x2.png
+booking_link: 'https://www.brittenpearsarts.org/events/kirill-karabits-and-rcm-so'
+featured_image: brittenpearsartsimages/kirill-karabits-3x2.png
 duplicated_from: 8f1bd348-0419-413a-b1fe-a0a08e799770
 building_name: 'Snape Maltings Concert Hall'
 directions:
@@ -142,4 +143,4 @@ directions:
         text: .
 cost_details: 'Tickets from £10; under 30s half-price'
 ---
-One of the world’s finest choirs performs sumptuous music that speaks of lockdown and liberation.
+A centrepiece of Daniel Kidane’s presence in Aldeburgh Festival.
