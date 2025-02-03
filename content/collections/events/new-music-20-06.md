@@ -1,14 +1,13 @@
 ---
 id: 43b78623-d5c1-4d11-b311-4fd981a1dc15
-published: false
 blueprint: events
-title: 'Ruby Colley and EXAUDI: Hello Halo (Duplicated)'
+title: 'New Music Now'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-15 12:00'
-end_date: '2025-06-15 17:45'
+start_date: '2025-06-20 15:00'
+end_date: '2025-06-20 17:05'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738580437
+updated_at: 1738580726
 free: false
 virtual: false
 organisers:
@@ -21,42 +20,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Composer, violinist and sound artist Ruby Colley shares her new vocal work Hello Halo performed with EXAUDI, a leading vocal ensemble for new music. This composition has been developed alongside Ruby’s brother, Paul Colley, who is neurodivergent and has high support needs.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'This concert is a showcase performance for our group of talented emerging contemporary performers playing music borne out of a period of collaboration with the next generation of composers. We also include a tribute to a much-missed friend and composer Alexander Goehr, who died in August 2024.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Despite being termed “non-verbal”, Paul uses a rich repertoire of sounds and gestures. This composition transcribes these communication methods, using live voice and recordings of Paul, to make a vocal map of Paul’s life and relationships. It is an intimate examination of communication and asks questions of what it means to be human.  '
+        text: 'Established in 1992 by Oliver Knussen and Colin Matthews, the Composition & Performance course has for decades been supporting the development of composers and performers specialising in contemporary music. The new pieces, originally workshopped during the September 2024 course, will now receive their first performances.'
   -
     type: paragraph
     attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Developed during a Residency at Britten Pears Arts, Hello Halo is shaped by Ruby’s own (a neurodiverse musician) and her brother’s lived experience, and is aimed at both neurodiverse and neurotypical audiences. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The show will feature a film by Rod Morris, documenting the process of Hello Halo and giving audiences a view into the world of Paul Colley and his unique collaboration with his sister Ruby.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
         marks:
           -
             type: bold
-        text: EXAUDI
+        text: 'Britten Pears Contemporary Ensemble'
       -
         type: hardBreak
         marks:
@@ -67,32 +49,10 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Ruby Colley'
-      -
-        type: text
-        text: ' violin, composer'
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'James Weeks'
+        text: 'Jonathan Berman'
       -
         type: text
         text: ' conductor'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Performances last 40 minutes and start at midday and 5pm.'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -113,10 +73,11 @@ event_categories:
   - music
   - wellbeing
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/ruby-colley-and-exaudi-hello-halo'
-featured_image: brittenpearsartsimages/ruby-colley-3x2.png
+  - family-friendly
+booking_link: 'https://www.brittenpearsarts.org/events/new-music-now'
+featured_image: pelicanpelican-3x2/music.png
 duplicated_from: 8c721357-435d-41e4-a752-ffaa540a7f36
-building_name: 'Peter Pears Recital Room'
+building_name: 'Britten Studio'
 directions:
   -
     type: paragraph
@@ -186,4 +147,4 @@ directions:
         text: .
 cost_details: '£12.50; under 30s half price'
 ---
-In this performance installation, Ruby Colley and EXAUDI sensitively and movingly explore neurodivergence, relationships and communication.
+This recital features six first performances of exciting new works by Young Artist composers, alongside music by their composition tutors.
