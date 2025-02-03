@@ -1,14 +1,13 @@
 ---
 id: 5a83754d-1594-4eb1-9a0a-4571585eae36
-published: false
 blueprint: events
-title: 'Around Britten in Brass (Duplicated)'
+title: 'Hesse Lecture: Ali Smith'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-29 11:00'
-end_date: '2025-06-29 12:10'
+start_date: '2025-06-29 14:30'
+end_date: '2025-06-29 15:30'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738582726
+updated_at: 1738582872
 free: false
 virtual: false
 organisers:
@@ -21,7 +20,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The launch of the new album from Onyx Brass, featuring first performances of Britten and Imogen Holst among a varied and colourful programme of music from the last 100 years.'
+        text: 'With her “unparalleled ability to blend the personal with the political”, leading author Ali Smith takes as her topic for this year’s Hesse Lecture the Festival theme: dissolved in sound.'
   -
     type: paragraph
     attrs:
@@ -29,7 +28,15 @@ content_area:
     content:
       -
         type: text
-        text: 'This “wonderful, virtuoso brass quintet” presents the world premiere of Benjamin Britten’s Funeral March, newly completed by Bernard Hughes from sketches in our archive. We will hear the first modern performance of his Fanfare for David Webster and three special pieces by Imogen Holst, including her Leiston Suite. The programme also contains a wealth of stirring brass music from the last century including suites by Horovitz and Bernstein, Malcolm Arnold’s Quintet, and Walton’s fantastic Roaring Fanfare.'
+        text: 'One of the great philosopher-novelists of our time, Smith grapples courageously with the big themes of life and draws connections between the great and the small, the universal and the local. Like great music, her work goes deep into the questions of who we are and why we’re here - and perhaps points us towards the answers.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Ali Smith is widely celebrated for her innovative storytelling, insightful social commentary, and ability to play with language and form. Her fans include literary critics, fellow authors, and readers who appreciate the depth and originality in her work.'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -49,8 +56,8 @@ cta: |-
 event_categories:
   - music
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/around-britten-in-brass'
-featured_image: pelicanpelican-3x2/music.png
+booking_link: 'https://www.brittenpearsarts.org/events/hesse-lecture-ali-smith'
+featured_image: brittenpearsartsimages/ali-smith3x2.png
 duplicated_from: 46c132f8-71f8-4671-a679-006319671745
 building_name: 'Britten Studio'
 directions:
@@ -120,6 +127,6 @@ directions:
       -
         type: text
         text: .
-cost_details: 'Tickets from £17.50; under 30s half price'
+cost_details: '£15; under 30s half price'
 ---
-"The classiest brass ensemble in Britain."
+Ali Smith gives this year’s Hesse Lecture.
