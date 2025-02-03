@@ -1,14 +1,13 @@
 ---
 id: 9bf89ba0-cacd-41ba-838a-21ef24e841f8
-published: false
 blueprint: events
-title: 'BBC Singers: Britten and Poulenc (Duplicated)'
+title: 'Leila Josefowicz with Huw and Paul Watkins'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-26 19:30'
-end_date: '2025-06-26 21:15'
+start_date: '2025-06-25 19:30'
+end_date: '2025-06-25 20:50'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738583078
+updated_at: 1738583295
 free: false
 virtual: true
 organisers:
@@ -21,35 +20,36 @@ content_area:
     content:
       -
         type: text
-        text: 'The BBC Singers and principal guest conductor Owain Park present a feast of wonderful choral music. Benjamin Britten’s A.M.D.G. (an abbreviation of the Latin for “To the greater glory of God”) is an entrancing setting of mystical and uplifting poems by Gerald Manley Hopkins. The full set of songs was not performed until 1984, after Britten’s death, and published five years after that. It is a work of great challenge and drama which certainly rewards both singers and listeners.'
+        text: 'Shostakovich’s second trio dates from August 1944, evoking the horrors and darkness of war as well as the grief at the death of the composer’s closest friend. It is powerfully angry, defiant, bleak, desolate music that’s among the greatest piano trios, especially in the hands of these masterful players.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Schoenberg’s extraordinary Friede auf Erden sits between harmonic worlds, and between Romantic and Expressionist tendencies. It begins with Christmas and expands into a choral evocation of peace on earth. It is an extraordinary piece which deserves widespread listening.'
+        text: 'It is beautifully balanced with the Barber Cello Sonata, which has a passionate, song-like eloquence that shows a distinctive musical language, even at an early stage of his composing career.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Poulenc’s Figure humaine has been described as “a spectacular choral hymn to freedom”. It dates from the Second World War and is a masterful setting of Paul Eluard’s anti-war poetry. It looks to a day of liberation – not just the end of the war he was so woefully amidst, but also a greater day of worldly peace and freedom to come.'
+        text: "Stravinsky’s The Fairy's Kiss is an abstraction of a Hans Christian Andersen fairy tale, richly passionate and drawing its inspiration from Tchaikovsky’s musical language."
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'Daniel Kidane’s piece was written during the Covid lockdown on the theme of people who could no longer see each other, between whom barriers had arisen. It is a stirring setting of Simon Armitage which reminds us of that recent time when, though confined to a single space, so many could not help but sing and make music.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'Helen Grime is one of many artists whose family-like connections with Snape and Aldeburgh are shared by today’s performers, and so it is a particular pleasure to hear her Harp of the North, inspired by lines from Walter Scott’s folk-inflected poem The Lady of the Lake, played in this concert by Paul Watkins.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: 'Thea Musgrave’s richly harmonic Rorate Coeli sets two interleaved poems of the famous Scottish poet William Dunbar. One speaks of the Nativity, the other the Resurrection. Then the miniature gem that is Palestrina’s Regina Caeli looks ahead to the Ascension with joyful interplay between two groups of four voices.'
+        text: 'Leila Josefowicz says that “to give birth to a new piece, to bring a new piece to an audience, has an extra spice of excitement”. It is a particular pleasure for us to present this new piece by Colin Matthews performed by artists who are linked with him and with so many artists of the last century through east Suffolk and the Aldeburgh Festival.v'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -69,8 +69,8 @@ cta: |-
 event_categories:
   - music
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/bbc-singers-britten-and-poulenc'
-featured_image: brittenpearsartsimages/bbc-singers-3x2.png
+booking_link: 'https://www.brittenpearsarts.org/events/leila-josefowicz-with-huw-and-paul-watkins'
+featured_image: brittenpearsartsimages/josefowicz-3x2-(1).png
 duplicated_from: 8f1bd348-0419-413a-b1fe-a0a08e799770
 building_name: 'Snape Maltings Concert Hall'
 directions:
@@ -142,4 +142,4 @@ directions:
         text: .
 cost_details: 'Tickets from £10; under 30s half-price'
 ---
-One of the world’s finest choirs performs sumptuous music that speaks of lockdown and liberation.
+The superstar violinist is joined by brothers Huw and Paul Watkins for a stellar chamber concert.
