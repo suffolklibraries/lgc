@@ -2,7 +2,7 @@
 id: f3eed02f-10cc-43c9-b5ca-52632a88bd47
 published: false
 blueprint: events
-title: 'Ipswich As You See It - Isiah Jordan'
+title: 'Ipswich As You See It - SPILL Festival'
 start_date: 2025-02-19T14:00:00+00:00
 end_date: 2025-02-19T16:00:00+00:00
 free: true
@@ -14,8 +14,6 @@ accessibility_information:
   - 'Quiet space available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-latitude: '52.0608016'
-longitude: '1.1508017'
 address_line_1: 'High Street'
 building_name: 'SPILL Think Tank'
 town: Ipswich
@@ -29,11 +27,11 @@ directions: |-
 content_area: |-
   <p>Are you 15 - 19 and interested in photography? Want to learn how to use photography to express yourself and tell your story?</p>
 
-  <p>Our 2025 SPILL Associate Isiah Jordan is offering a series of free photography workshops where you’ll get the chance to explore your local community, photograph what matters to you, and reflect on your personal experiences, challenges, and dreams.  </p>
+  <p>Our 2025 SPILL Associate Isiah Jordan is offering a series of free photography workshops where you’ll get the chance to explore your local community, photograph what matters to you, and reflect on your personal experiences, challenges, and dreams.</p>
 
-  <p>In these hands-on workshops, you'll learn the basics of photography—how to use a camera, understand composition, and create a meaningful project. But it’s not just about learning technical skills; it’s about diving into important conversations around identity, belonging, social issues, and what it means to live where you do. As you create your photos, you'll get the chance to think critically about what you’re capturing and why it matters.  </p>
+  <p>In these hands-on workshops, you'll learn the basics of photography—how to use a camera, understand composition, and create a meaningful project. But it’s not just about learning technical skills; it’s about diving into important conversations around identity, belonging, social issues, and what it means to live where you do. As you create your photos, you'll get the chance to think critically about what you’re capturing and why it matters.</p>
 
-  <p>At the end of the workshops, you’ll have the opportunity to contribute to a special publication and have your work showcased at SPILL Festival 2025. This is your chance to get your voice heard, share your perspective, and show the world what matters to you.  </p>
+  <p>At the end of the workshops, you’ll have the opportunity to contribute to a special publication and have your work showcased at SPILL Festival 2025. This is your chance to get your voice heard, share your perspective, and show the world what matters to you.</p>
 
   <p>If you want to be part of something that celebrates your experience, individuality and creativity, come join us!</p>
 booking_link: 'https://www.spillfestival.com/ipswich-as-you-see-it'
