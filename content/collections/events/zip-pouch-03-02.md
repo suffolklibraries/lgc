@@ -102,5 +102,6 @@ updated_at: 1736939135
 duplicated_from: c698a782-7edc-4815-b6a9-011a23e8e98e
 cost_details: '£5 per person'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-zip-pouch-sewing-workshop/e-xjldrm'
+published: false
 ---
 Create your own zip pouch!
