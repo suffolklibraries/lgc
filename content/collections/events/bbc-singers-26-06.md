@@ -1,16 +1,15 @@
 ---
 id: 8f1bd348-0419-413a-b1fe-a0a08e799770
-published: false
 blueprint: events
-title: 'BBC Concert Orchestra: Northern Lights (Duplicated)'
+title: 'BBC Singers: Britten and Poulenc'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-17 19:30'
-end_date: '2025-06-17 21:50'
+start_date: '2025-06-26 19:30'
+end_date: '2025-06-26 21:15'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738580613
+updated_at: 1738583078
 free: false
-virtual: false
+virtual: true
 organisers:
   - britten-pears-arts
 content_area:
@@ -21,67 +20,35 @@ content_area:
     content:
       -
         type: text
-        text: 'In the Nordic lands, midsummer has an atmosphere that’s all its own. Seas are as blue as the skies, and elemental landscapes come alive with greenery and colourful flowers. And of course, the sun never quite sets; it shines at midnight, and casts an enchanted glow over the dreams and festivities of a culture as ancient as Europe itself.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Tonight the BBC Concert Orchestra, under its Finnish chief conductor Anna-Maria Helsing, comes together with the Iceland Philharmonic Choir (which celebrates its 75th anniversary this year) to bring some of that midsummer magic to the Aldeburgh Festival.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Classics by Mendelssohn, Grieg and Nielsen as well as Hugo Alfvén’s gloriously catchy Swedish Rhapsody sit alongside some wonderful discoveries, as our Icelandic guests spin a garland of song from Iceland, Denmark and Finland. Expect to be charmed, surprised and thoroughly entertained.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'This very special edition of Friday Night Is Music Night will be recorded for broadcast on BBC Radio 3 on Friday 20 June.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Iceland Philharmonic Choir'
+        text: 'The BBC Singers and principal guest conductor Owain Park present a feast of wonderful choral music. Benjamin Britten’s A.M.D.G. (an abbreviation of the Latin for “To the greater glory of God”) is an entrancing setting of mystical and uplifting poems by Gerald Manley Hopkins. The full set of songs was not performed until 1984, after Britten’s death, and published five years after that. It is a work of great challenge and drama which certainly rewards both singers and listeners.'
       -
         type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'BBC Concert Orchestra'
       -
         type: hardBreak
-        marks:
-          -
-            type: bold
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Anna-Maria Helsing'
+        text: 'Schoenberg’s extraordinary Friede auf Erden sits between harmonic worlds, and between Romantic and Expressionist tendencies. It begins with Christmas and expands into a choral evocation of peace on earth. It is an extraordinary piece which deserves widespread listening.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: ' conductor'
+        text: 'Poulenc’s Figure humaine has been described as “a spectacular choral hymn to freedom”. It dates from the Second World War and is a masterful setting of Paul Eluard’s anti-war poetry. It looks to a day of liberation – not just the end of the war he was so woefully amidst, but also a greater day of worldly peace and freedom to come.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Daniel Kidane’s piece was written during the Covid lockdown on the theme of people who could no longer see each other, between whom barriers had arisen. It is a stirring setting of Simon Armitage which reminds us of that recent time when, though confined to a single space, so many could not help but sing and make music.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Thea Musgrave’s richly harmonic Rorate Coeli sets two interleaved poems of the famous Scottish poet William Dunbar. One speaks of the Nativity, the other the Resurrection. Then the miniature gem that is Palestrina’s Regina Caeli looks ahead to the Ascension with joyful interplay between two groups of four voices.'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -100,10 +67,9 @@ cta: |-
   [01728687127](tel:01728687127)
 event_categories:
   - music
-  - wellbeing
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/bbc-concert-orchestra-northern-lights'
-featured_image: brittenpearsartsimages/northern-lights-3x2.png
+booking_link: 'https://www.brittenpearsarts.org/events/bbc-singers-britten-and-poulenc'
+featured_image: brittenpearsartsimages/bbc-singers-3x2.png
 duplicated_from: 34eac8ef-ea39-469a-b2ef-a32eb4236dff
 building_name: 'Snape Maltings Concert Hall'
 directions:
@@ -175,4 +141,4 @@ directions:
         text: .
 cost_details: 'Tickets from £10; under 30s half-price'
 ---
-Midnight sun, verdant landscapes, and folksong at its freshest: the BBC Concert Orchestra and the Iceland Philharmonic Choir celebrate midsummer Nordic-style.
+One of the world’s finest choirs performs sumptuous music that speaks of lockdown and liberation.
