@@ -1,20 +1,18 @@
 ---
 id: b8bb2e0d-d8eb-47f9-8478-bcee1d4be815
-published: false
 blueprint: events
-title: 'Drop-In - year 7 and 8 (Duplicated)'
+title: X-Space
 event_categories:
   - teen
-  - languages
-  - art
+  - community
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-02-03 16:00'
-end_date: '2025-02-03 18:00'
+start_date: '2025-02-26 17:00'
+end_date: '2025-02-26 19:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 7 and 8'
+attendance_information: 'For people aged 18 to 25 years old'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -130,7 +128,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731323928
+updated_at: 1738587311
 duplicated_from: eaabe4c6-88af-4d0e-819f-6d1d12d0d9bc
 ---
 Hang out in a chill and comfortable space.
