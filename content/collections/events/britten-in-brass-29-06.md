@@ -1,14 +1,13 @@
 ---
 id: 46c132f8-71f8-4671-a679-006319671745
-published: false
 blueprint: events
-title: 'Juliet Fraser: Lament (Duplicated)'
+title: 'Around Britten in Brass'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-21 22:00'
-end_date: '2025-06-21 23:00'
+start_date: '2025-06-29 11:00'
+end_date: '2025-06-29 12:10'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738581707
+updated_at: 1738582726
 free: false
 virtual: false
 organisers:
@@ -21,7 +20,7 @@ content_area:
     content:
       -
         type: text
-        text: "Juliet Fraser is known for her inventive programming and commitment to exploring new forms of vocal expression. This time, however, she's experimenting with a whole new way of making. A small ensemble of stellar international artists will gather for a residency in Snape in the spring to co-create this hour-long, late-night “ritual of letting go”."
+        text: 'The launch of the new album from Onyx Brass, featuring first performances of Britten and Imogen Holst among a varied and colourful programme of music from the last 100 years.'
   -
     type: paragraph
     attrs:
@@ -29,15 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Caccini, Couperin, and the Byzantine hymns of Kassia are some of the points of departure for a sequence that seeks out the cracks between genres and traditions to offer something uniquely timeless and unusually communal.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Juliet Fraser writes: “Song has always been used to mark the significant moments in a life, whether of celebration, transition, healing or grief. Inspiration for this new sequence of music and movement is drawn from circular rituals such as the canonical hours, antiphonal structures such as weaving songs, and the slow march of a funeral procession. Music from earlier times and other traditions will sit alongside two new laments by Soosan Lolavar and James Weeks, the old and the new speaking to one another across history and geography.”'
+        text: 'This “wonderful, virtuoso brass quintet” presents the world premiere of Benjamin Britten’s Funeral March, newly completed by Bernard Hughes from sketches in our archive. We will hear the first modern performance of his Fanfare for David Webster and three special pieces by Imogen Holst, including her Leiston Suite. The programme also contains a wealth of stirring brass music from the last century including suites by Horovitz and Bernstein, Malcolm Arnold’s Quintet, and Walton’s fantastic Roaring Fanfare.'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -56,10 +47,9 @@ cta: |-
   [01728687127](tel:01728687127)
 event_categories:
   - music
-  - wellbeing
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/juliet-fraser-lament'
-featured_image: brittenpearsartsimages/juliet-fraser-3x2.png
+booking_link: 'https://www.brittenpearsarts.org/events/around-britten-in-brass'
+featured_image: pelicanpelican-3x2/music.png
 duplicated_from: 081ae46e-3713-4eea-8f13-f2d19c8c3a94
 building_name: 'Britten Studio'
 directions:
@@ -129,6 +119,6 @@ directions:
       -
         type: text
         text: .
-cost_details: '£12.50; under 30s half price'
+cost_details: 'Tickets from £17.50; under 30s half price'
 ---
-Pioneering soprano Juliet Fraser explores the timeless vocalisation of the lament.
+"The classiest brass ensemble in Britain."
