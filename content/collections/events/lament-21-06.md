@@ -1,14 +1,13 @@
 ---
 id: 081ae46e-3713-4eea-8f13-f2d19c8c3a94
-published: false
 blueprint: events
-title: 'Ruby Colley and EXAUDI: Hello Halo (Duplicated)'
+title: 'Juliet Fraser: Lament'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-15 12:00'
-end_date: '2025-06-15 17:45'
+start_date: '2025-06-21 22:00'
+end_date: '2025-06-21 23:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738580437
+updated_at: 1738581707
 free: false
 virtual: false
 organisers:
@@ -21,78 +20,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Composer, violinist and sound artist Ruby Colley shares her new vocal work Hello Halo performed with EXAUDI, a leading vocal ensemble for new music. This composition has been developed alongside Ruby’s brother, Paul Colley, who is neurodivergent and has high support needs.'
+        text: "Juliet Fraser is known for her inventive programming and commitment to exploring new forms of vocal expression. This time, however, she's experimenting with a whole new way of making. A small ensemble of stellar international artists will gather for a residency in Snape in the spring to co-create this hour-long, late-night “ritual of letting go”."
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Despite being termed “non-verbal”, Paul uses a rich repertoire of sounds and gestures. This composition transcribes these communication methods, using live voice and recordings of Paul, to make a vocal map of Paul’s life and relationships. It is an intimate examination of communication and asks questions of what it means to be human.  '
+        text: 'Caccini, Couperin, and the Byzantine hymns of Kassia are some of the points of departure for a sequence that seeks out the cracks between genres and traditions to offer something uniquely timeless and unusually communal.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Developed during a Residency at Britten Pears Arts, Hello Halo is shaped by Ruby’s own (a neurodiverse musician) and her brother’s lived experience, and is aimed at both neurodiverse and neurotypical audiences. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The show will feature a film by Rod Morris, documenting the process of Hello Halo and giving audiences a view into the world of Paul Colley and his unique collaboration with his sister Ruby.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: EXAUDI
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Ruby Colley'
-      -
-        type: text
-        text: ' violin, composer'
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'James Weeks'
-      -
-        type: text
-        text: ' conductor'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Performances last 40 minutes and start at midday and 5pm.'
+        text: 'Juliet Fraser writes: “Song has always been used to mark the significant moments in a life, whether of celebration, transition, healing or grief. Inspiration for this new sequence of music and movement is drawn from circular rituals such as the canonical hours, antiphonal structures such as weaving songs, and the slow march of a funeral procession. Music from earlier times and other traditions will sit alongside two new laments by Soosan Lolavar and James Weeks, the old and the new speaking to one another across history and geography.”'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -113,10 +57,10 @@ event_categories:
   - music
   - wellbeing
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/ruby-colley-and-exaudi-hello-halo'
-featured_image: brittenpearsartsimages/ruby-colley-3x2.png
+booking_link: 'https://www.brittenpearsarts.org/events/juliet-fraser-lament'
+featured_image: brittenpearsartsimages/juliet-fraser-3x2.png
 duplicated_from: 8c721357-435d-41e4-a752-ffaa540a7f36
-building_name: 'Peter Pears Recital Room'
+building_name: 'Britten Studio'
 directions:
   -
     type: paragraph
@@ -186,4 +130,4 @@ directions:
         text: .
 cost_details: '£12.50; under 30s half price'
 ---
-In this performance installation, Ruby Colley and EXAUDI sensitively and movingly explore neurodivergence, relationships and communication.
+Pioneering soprano Juliet Fraser explores the timeless vocalisation of the lament.
