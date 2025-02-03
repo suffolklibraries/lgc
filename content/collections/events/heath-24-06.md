@@ -1,14 +1,13 @@
 ---
 id: cc374ea1-364b-4eff-bad4-1cc31a69c536
-published: false
 blueprint: events
-title: 'Mélodies and Lieder (Duplicated)'
+title: 'Heath and Fibonacci: Beethoven, Britten and Grime'
 latitude: '52.15491076669728'
 longitude: '1.5998786122558148'
-start_date: '2025-06-24 11:00'
-end_date: '2025-06-24 12:10'
+start_date: '2025-06-24 14:00'
+end_date: '2025-06-24 15:50'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738582224
+updated_at: 1738582475
 free: false
 virtual: false
 organisers:
@@ -21,7 +20,7 @@ content_area:
     content:
       -
         type: text
-        text: "The recital features excerpts from two of Wolf's dramatic song cycles alongside a Clara Schumann cycle that explores love and longing, songs of Faure inspired by Venice, and delights by both Lili and Nadia Boulanger, Weill, and others."
+        text: 'Each string-quartet recital in this Festival contains one of Beethoven’s quartets, and today’s is his wonderful 14th, in C sharp minor. The recital opens with Britten’s Three Divertimenti, written in his early twenties and among his less weighty works. They often serve as appetisers for his own quartets, but they make an equally appealing start to this delicious programme.'
   -
     type: paragraph
     attrs:
@@ -29,14 +28,23 @@ content_area:
     content:
       -
         type: text
-        text: "Since its inception the Aldeburgh Festival has nurtured young artists and then welcomed them back throughout their careers. Today's recital features two song duos, all former Britten Pears Young Artists."
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'Featured Musician Helen Grime writes music of wonderful colour and texture. Today we present her two string quartets side by side; both were written around the birth of her two sons, eight years apart, and they have a lovely sense of seamlessness that encompasses an intriguing range of form.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: 'Both duos took part as Young Artists in 2024’s French Song and Mélodie course with tutors Veronique Gens and Susan Manoff, and now return to present lieder and mélodies as part of this year’s Festival. In the preceding days, they will have enjoyed expert coaching from Benjamin Appl and James Baillieu – which you can experience live in Monday’s masterclass. A wonderful opportunity to be part of the continued growth of some of today’s brightest younger-generation musicians.'
+        text: 'Helen says: “I’ve never had both my two quartets in one recital before. It will be interesting to see the travel between the two. The first was quite influenced by Britten, and the second has all the stress of childcare and also a sense of calm and hope. And with the Beethoven, there is a really interesting interplay of light and dark in this programme and it all links together".'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This recital celebrates the impact of artist development. The Fibonacci Quartet is currently being championed by both YCAT and the Britten Pears Young Artist Programme, whilst the Heath Quartet was a YCAT ensemble two decades ago and now teaches on our own Young Artist Programme.'
 address_line_1: 'Victoria Road'
 town: Aldeburgh
 postcode: 'IP15 5DU'
@@ -52,7 +60,7 @@ event_categories:
   - music
   - wellbeing
   - theatre-and-performance
-featured_image: brittenpearsartsimages/melodies-3x2-1738581885.png
+featured_image: pelicanpelican-3x2/music.png
 duplicated_from: abf27f38-0396-4fa2-88ec-f1d633882224
 building_name: 'Aldeburgh Church'
 directions:
@@ -117,6 +125,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £12.50; under 30s half price'
-booking_link: 'https://www.brittenpearsarts.org/events/melodies-and-lieder'
+booking_link: 'https://www.brittenpearsarts.org/events/heath-and-fibonacci-beethoven-britten-and-grime'
 ---
-Wonderful French and German song performed by two song duos.
+A beautiful combination of Britten and Beethoven alongside the Helen Grime’s two distinctive string quartets.
