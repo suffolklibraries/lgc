@@ -1,100 +1,93 @@
 ---
 id: 442763f4-3dfe-4fae-98ab-3af33604cf6f
-published: false
 blueprint: events
-title: 'Light Up The Town (Duplicated)'
+title: 'Light Up The Town'
 event_categories:
   - wellbeing
   - community
   - theatre-and-performance
 featured_image: ccp-marketplace/light-up-3x2.png
-start_date: '2025-02-25 18:00'
-end_date: '2025-03-25 20:00'
+start_date: '2025-02-27 18:00'
+end_date: '2025-03-27 20:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Drop-in event'
-latitude: '52.44708393789857'
-longitude: '0.6239027328871809'
-building_name: 'Brandon Town Council'
-address_line_1: 'Old School House'
-town: Brandon
-postcode: 'IP27 0AA'
+latitude: '52.244538786723695'
+longitude: '0.4023830905468068'
+building_name: "St Mary's Church"
+address_line_1: 'Church Lane'
+town: Newmarket
+postcode: 'CB8 0HP'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The '
+        text: 'Newmarket '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Brandon+Town+Council,+Old+School+House,+Market+Hill,+Brandon/Car+Park,+Brandon+IP27+0EJ/@52.4470536,0.6233582,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d830d2f4ec8edd:0x57b9da28bd92c3d1!2m2!1d0.623907!2d52.4469818!1m5!1m1!1s0x47d830d2fc5d1af9:0x4f51f8ba83036c39!2m2!1d0.625286!2d52.447098!3e2?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/nmk'
+              rel: null
+              target: _blank
+              title: null
+        text: 'railway station'
+      -
+        type: text
+        text: ' is a 12 minute walk away, and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: "https://www.google.com/maps/place/Horse+Racing+Museum/@52.2438708,0.4025549,18z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d8426f15e12347:0x5239c4ad0cb8a378!2sSt+Mary's+Church,+Church+Lane,+Newmarket!2m2!1d0.402367!2d52.244414!1m6!1m2!1s0x47d84268aafa8ff5:0xb95cf21bbda216c9!2sHorse+Racing+Museum,+Newmarket+CB8+8JP!2m2!1d0.405189!2d52.243778!3e2!3m5!1s0x47d84268aafa8ff5:0xb95cf21bbda216c9!8m2!3d52.243778!4d0.405189!16s%2Fg%2F1q67d2rg8?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D"
               rel: null
               target: _blank
               title: null
         text: 'nearest bus stop'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: ' is an four minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Brandon railway station is a '
+        text: 'There are several nearby carparks, including '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Brandon+Town+Council,+Old+School+House,+Market+Hill,+Brandon/Brandon+(BND),+Brandon/@52.4508413,0.6133268,15z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d830d2f4ec8edd:0x57b9da28bd92c3d1!2m2!1d0.623907!2d52.4469818!1m5!1m1!1s0x47d830d043af1e21:0x154869b833ced2e4!2m2!1d0.6246899!2d52.4539972!3e2?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D'
+              href: 'https://theguineas-shopping.co.uk/information/car-parking.php'
               rel: null
               target: _blank
               title: null
-        text: '14 minute walk'
+        text: 'The Guineas car park'
       -
         type: text
-        text: ' away. You can find up to date train times on the '
+        text: ' an eight minute walk away and '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bnd'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/newmarket-car-parks.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: 'Rous Road car park'
       -
         type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.brandonsuffolk.com/amenities/bury-road-car-park/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'nearest car park'
-      -
-        type: text
-        text: ' is a two minute walk away on Bury Road.'
+        text: ' a nine minute walk away.'
   -
     type: paragraph
     content:
@@ -159,10 +152,9 @@ cta: |-
 
   [01353 616991](tel:01353616991)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738600253
+updated_at: 1738600802
 duplicated_from: d98e7deb-009c-4e13-8644-b01a84204f47
 organisers:
   - creative-people-and-places-marketplace
-address_line_2: 'Market Hill'
 ---
 Spring is coming - let's light up the town!
