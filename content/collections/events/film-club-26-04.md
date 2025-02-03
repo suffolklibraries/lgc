@@ -14,7 +14,6 @@ start_date: '2025-04-26 10:00'
 end_date: '2025-04-26 13:00'
 free: true
 virtual: false
-attendance_information: 'open to all'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -176,7 +175,7 @@ cta: |-
 
   [01473 3822200](tel:014733822200)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738590800
+updated_at: 1738592032
 duplicated_from: e4cf6eaf-0ebd-4a66-804a-da95f0d316df
 ---
 A weekly club for young people interested in film and screen specialist skills
