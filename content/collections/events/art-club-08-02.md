@@ -1,21 +1,18 @@
 ---
 id: f5c10a46-13fe-4917-8169-4d1d74d2c5f7
-published: false
 blueprint: events
-title: 'Film&Screen Saturday Club (Duplicated)'
+title: 'Art&Design Saturday Club'
 event_categories:
   - art
-  - film
   - teen
   - languages
 organisers:
   - suffolk-new-college
-featured_image: suffolk-new-college/film-saturday-club-3x2.png
+featured_image: pelicanpelican-3x2/exhibition.png
 start_date: '2025-02-08 10:00'
 end_date: '2025-02-08 13:00'
 free: true
 virtual: false
-attendance_information: 'open to all'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -100,7 +97,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Film&Screen Saturday Club at Suffolk New College enables young people to explore a range of specialist skills in concept generation, storytelling, filming, editing, sound and lighting through a range of engaging workshops.'
+        text: 'The Art&Design Saturday Club at Suffolk New College enables students to explore a range of specialist art and design techniques including: drawing, painting, mixed media, printmaking, textiles, animation and photography.'
   -
     type: paragraph
     attrs:
@@ -108,7 +105,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Club is delivered by industry experts in our specialist facilities. It allows young people to experiment and enhance their creative skills in a safe environment.'
+        text: 'The Club supports personal growth, builds confidence and encourages creative risk taking. It also traditionally works with local creative groups, helping members to network and engage in exciting and innovative projects.'
   -
     type: paragraph
     attrs:
@@ -116,21 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: "Club members will also have the chance to take part in national events including\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://saturday-club.org/national-saturday-club/masterclasses/'
-              rel: noopener
-              target: _blank
-              title: null
-        text: Masterclasses
-      -
-        type: text
-        text: "\_with leading industry professionals and the\_"
+        text: "Club members will also take part in free national events including\_the\_"
       -
         type: text
         marks:
@@ -139,12 +122,40 @@ content_area:
             attrs:
               href: 'https://saturday-club.org/national-saturday-club/summer-show/'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'Summer Show'
       -
         type: text
-        text: ', where all Club members exhibit their work in a public showcase – all for free!'
+        text: ', where Saturday Clubs nationwide exhibit their work in a public exhibition, and '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://saturday-club.org/national-saturday-club/masterclasses/'
+              rel: null
+              target: _blank
+              title: null
+        text: Masterclasses
+      -
+        type: text
+        text: "\_with leading industry professionals. "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://show.saturday-club.org/2023/club/suffolk-new-college'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Click here'
+      -
+        type: text
+        text: ' to find out more about this Saturday Club’s 2022-23 Masterclass with Polly Dunbar.'
   -
     type: paragraph
     attrs:
@@ -159,7 +170,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://saturday-club.org/club/suffolk-new-college-film-screen/'
+              href: 'https://saturday-club.org/club/suffolk-new-college-art-design/'
               rel: null
               target: _blank
               title: null
@@ -167,7 +178,7 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://saturday-club.org/club/suffolk-new-college-film-screen/'
+booking_link: 'https://saturday-club.org/club/suffolk-new-college-art-design/'
 cta: |-
   This event is organised by Suffolk New College
 
@@ -177,7 +188,7 @@ cta: |-
 
   [01473 3822200](tel:014733822200)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738588152
+updated_at: 1738591572
 duplicated_from: c7098bff-d3c9-4e09-9521-7d33f9890736
 ---
-A weekly club for young people interested in film and screen specialist skills.
+A weekly club for young people interested in specialist art and design skills.
