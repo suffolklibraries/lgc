@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'A photograph of a woman in a green shirt'
 size: 459911
 last_modified: 1738582856
 width: 800
