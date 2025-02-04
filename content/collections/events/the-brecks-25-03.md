@@ -1,8 +1,7 @@
 ---
 id: 67dd0230-99c9-4d94-8654-b85e36976ea0
-published: false
 blueprint: events
-title: 'Talk - Wilder Rivers in Suffolk (Duplicated)'
+title: 'Talk - The Brecks: Case Study of Knettishall Heath'
 event_categories:
   - nature
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-29 19:30'
-end_date: '2025-04-29 21:00'
+start_date: '2025-03-25 19:30'
+end_date: '2025-03-25 21:00'
 free: true
 cost_details: '£3, under 25s free'
 virtual: false
@@ -84,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Alice Wickman of Suffolk Wildlife Trust will talk on the wildlife and ecology of rivers in general but will also make reference to our local rivers.'
+        text: 'Sam Norris is warden for Suffolk Wildlife Trust’s Knettishall Heath. Her talk will outline the key ecological and geological features of Breckland, as well as it’s land use history and how these have shaped The Brecks that we know today. A case study on Knettishall Heath will reflect on the unique and specialist species that both thrive and are struggling in this special area.'
   -
     type: paragraph
     attrs:
@@ -101,7 +100,7 @@ content_area:
       -
         type: text
         text: 'Please note we now have a card machine and accept cash for payments on the evening.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-29-talk-wilder-rivers-suffolk'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-03-25-talk-brecks-case-study-knettishall-heath-sam-norris'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -111,7 +110,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738668905
+updated_at: 1738670013
 duplicated_from: b5d671d3-486f-4327-a0e9-da474abf1661
 accessibility_information:
   - 'Wheelchair accessible'
