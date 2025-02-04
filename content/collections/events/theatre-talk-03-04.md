@@ -1,16 +1,15 @@
 ---
 id: 92fb454c-fd37-429f-840c-9b955df4c699
-published: false
 blueprint: events
-title: 'Talk - The Engineering of Medieval Armour by Peter Morgan (Duplicated)'
+title: "Talk - The story of Bury St Edmund's Market Cross by Adrian Tindall"
 event_categories:
   - museums
   - languages
 organisers:
   - west-suffolk-college
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-03-13 17:45'
-end_date: '2025-03-13 19:00'
+start_date: '2025-04-03 17:45'
+end_date: '2025-04-03 19:00'
 free: true
 virtual: false
 accessibility_information:
@@ -92,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the evolution of body protection in combat with an engineer’s perspective. This talk delves into the ongoing arms race between weapons and armour, examining the engineering principles behind protective gear through the ages. From ancient times to the era of full plate armour and gunpowder, discover the fascinating materials and methods used'
+        text: 'Bury St Edmunds Market Cross has a long and colourful history, from medieval preaching cross to Georgian playhouse, from Victorian Concert Room to Town Hall and Art Gallery. This illustrated talk will tell the hidden stories and introduce some of the personalities behind this remarkable building.'
   -
     type: paragraph
     attrs:
@@ -100,8 +99,8 @@ content_area:
     content:
       -
         type: text
-        text: "Peter Morgan has had a varied working life, working in construction and heavy goods before attending university to read manufacturing engineering as a mature student. The automotive manufacturing world beckoned. He left the real world and started in education, going from agricultural engineering to the more regular versions at various FE colleges in Norfolk and Suffolk, including West Suffolk College before moving on to UEA.\_"
-booking_link: 'https://www.eventbrite.co.uk/e/the-engineering-of-medieval-armour-tickets-1022502511537?aff=odcleoeventsincollection&_gl=1*lgprle*_up*MQ..*_ga*MTExMTc1MTcxNi4xNzM4NjgzNDI5*_ga_TQVES5V6SH*MTczODY4MzQyOC4xLjAuMTczODY4MzQyOC4wLjAuMA..'
+        text: "Mr Adrian Tindall is Chair of the Bury St Edmunds Association of Registered Tour Guides. He was a professional archaeologist for over forty years, including twenty as county archaeologist for Hereford and Worcester, Cheshire and Cambridgeshire. He is a Member of the Chartered Institute for Archaeologists, a Fellow of the Society of Antiquaries and a Trustee of West Stow Anglo-Saxon Village.\_"
+booking_link: 'https://www.eventbrite.co.uk/e/a-neat-and-beautiful-theatre-the-story-of-bury-st-edmunds-market-cross-tickets-1022522250577'
 cta: |-
   This event is organised by West Suffolk College
 
@@ -111,7 +110,7 @@ cta: |-
 
   [01284 716341](tel:01284716341)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738684098
+updated_at: 1738684225
 duplicated_from: 143a49b1-fa4a-4c56-a945-92817bbdf8b6
 ---
-Explore the evolution of body protection in combat with an engineer’s perspective.
+This illustrated talk will tell the hidden stories and introduce some of the personalities behind this remarkable building.
