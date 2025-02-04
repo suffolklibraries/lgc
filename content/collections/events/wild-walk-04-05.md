@@ -1,8 +1,7 @@
 ---
 id: b1876f27-0e69-409d-b294-a1383484ca17
-published: false
 blueprint: events
-title: 'Wild Walks: ponies on the Heath (Duplicated)'
+title: 'Wild Walks: dawn chorus'
 event_categories:
   - nature
   - languages
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-06 10:00'
-end_date: '2025-04-06 12:00'
+start_date: '2025-04-06 04:30'
+end_date: '2025-04-06 06:30'
 free: false
 cost_details: '£6 adult, £3 child'
 virtual: false
@@ -25,15 +24,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Knettishall Heath is well known for our herd of grazing ponies, but how much do you know about them?'
+        text: 'Explore the Heath at break of dawn, learning more about the creatures that call our Nature Reserve home!'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Join our Warden for a guided walk around the Heath, and learn more about our herd of grazing ponies and how they help the Nature Reserve.'
+        text: "Wrap up warm\_and enjoy a walk around the Nature Reserve at what is usually a very unsociable hour! Light breakfast and refreshments to finish."
   -
     type: paragraph
     attrs:
@@ -42,7 +41,7 @@ content_area:
       -
         type: text
         text: 'Meeting point - pine trees next to play area (main carpark) -IP22 2TQ'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-06-wild-walks-ponies-heath'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-04-wild-walks-dawn-chorus'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -52,7 +51,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738669844
+updated_at: 1738669923
 duplicated_from: ec480ebe-606f-4009-8aae-05a30bf8ceca
 latitude: '52.40343426527413'
 longitude: '0.8669429195770957'
@@ -67,6 +66,6 @@ directions:
       -
         type: text
         text: 'There is paid on site parking. '
-attendance_information: 'suitable for adults and children aged 6+'
+attendance_information: 'suitable for adults and children aged 8+'
 ---
 Explore the history of the Heath with our Reserves team.
