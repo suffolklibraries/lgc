@@ -1,13 +1,12 @@
 ---
 id: 5aab07ea-4014-4ec7-9e78-e149ca3900a3
-published: false
 blueprint: events
-title: 'Strictly Saturdays (Duplicated)'
+title: 'Strictly Saturdays'
 organisers:
   - the-apex
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-08-16 14:30'
-end_date: '2025-08-16 16:30'
+start_date: '2025-09-20 14:30'
+end_date: '2025-09-20 16:30'
 free: true
 virtual: false
 attendance_information: 'suitable for all ages'
@@ -54,7 +53,7 @@ cta: |-
 
   [01284 758000](tel:01284758000)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738685870
+updated_at: 1738685896
 duplicated_from: 84a08f13-8858-4f6a-b604-d8439433d611
 event_categories:
   - movement
