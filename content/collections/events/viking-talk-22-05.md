@@ -1,16 +1,15 @@
 ---
 id: f9490ed7-9115-499a-87c9-59b203d5593f
-published: false
 blueprint: events
-title: "Talk - The story of Bury St Edmund's Market Cross by Adrian Tindall (Duplicated)"
+title: 'Talk - Viking History for Humans'
 event_categories:
   - museums
   - languages
 organisers:
   - west-suffolk-college
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-04-03 17:45'
-end_date: '2025-04-03 19:00'
+start_date: '2025-05-22 17:45'
+end_date: '2025-05-22 19:00'
 free: true
 virtual: false
 accessibility_information:
@@ -92,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Bury St Edmunds Market Cross has a long and colourful history, from medieval preaching cross to Georgian playhouse, from Victorian Concert Room to Town Hall and Art Gallery. This illustrated talk will tell the hidden stories and introduce some of the personalities behind this remarkable building.'
+        text: 'East Anglia’s Viking-Age history offers surprising relevance to contemporary issues like migration, international law, and diplomacy. This complex history is more intricate than it appears. Join Dr. Ruiter as he explores the connections, hybridity, and dynamism of the Viking-Age in this region.'
   -
     type: paragraph
     attrs:
@@ -100,8 +99,8 @@ content_area:
     content:
       -
         type: text
-        text: "Mr Adrian Tindall is Chair of the Bury St Edmunds Association of Registered Tour Guides. He was a professional archaeologist for over forty years, including twenty as county archaeologist for Hereford and Worcester, Cheshire and Cambridgeshire. He is a Member of the Chartered Institute for Archaeologists, a Fellow of the Society of Antiquaries and a Trustee of West Stow Anglo-Saxon Village.\_"
-booking_link: 'https://www.eventbrite.co.uk/e/a-neat-and-beautiful-theatre-the-story-of-bury-st-edmunds-market-cross-tickets-1022522250577'
+        text: "Dr Keith Ruiter is an academic researcher, author, and lecturer specialising in Viking-Age and medieval history.\_"
+booking_link: 'https://www.eventbrite.co.uk/e/viking-history-for-humans-tickets-1022565128827'
 cta: |-
   This event is organised by West Suffolk College
 
@@ -111,7 +110,7 @@ cta: |-
 
   [01284 716341](tel:01284716341)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738684225
+updated_at: 1738684969
 duplicated_from: 92fb454c-fd37-429f-840c-9b955df4c699
 ---
-This illustrated talk will tell the hidden stories and introduce some of the personalities behind this remarkable building.
+Join Dr. Ruiter as he explores the connections, hybridity, and dynamism of the Viking-Age in this region.
