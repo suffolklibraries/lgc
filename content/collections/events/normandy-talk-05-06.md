@@ -1,16 +1,15 @@
 ---
 id: 86198dfb-99a0-4c5f-a02e-e1a859cd7519
-published: false
 blueprint: events
-title: 'Talk - Viking History for Humans (Duplicated)'
+title: 'Talk - Return to Normandy'
 event_categories:
   - museums
   - languages
 organisers:
   - west-suffolk-college
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-05-22 17:45'
-end_date: '2025-05-22 19:00'
+start_date: '2025-06-05 17:45'
+end_date: '2025-06-05 19:00'
 free: true
 virtual: false
 accessibility_information:
@@ -92,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'East Anglia’s Viking-Age history offers surprising relevance to contemporary issues like migration, international law, and diplomacy. This complex history is more intricate than it appears. Join Dr. Ruiter as he explores the connections, hybridity, and dynamism of the Viking-Age in this region.'
+        text: 'Join Taff Gillingham as he recounts the compelling story of the 1st Battalion Suffolk Regiment during the Normandy Landings. From rigorous training to the chaos of D-Day and the initial days in France, Taff shares firsthand anecdotes from veterans he knew personally. This talk offers a fascinating and personal glimpse into the extraordinary feats of ordinary men during extraordinary times.'
   -
     type: paragraph
     attrs:
@@ -100,8 +99,8 @@ content_area:
     content:
       -
         type: text
-        text: "Dr Keith Ruiter is an academic researcher, author, and lecturer specialising in Viking-Age and medieval history.\_"
-booking_link: 'https://www.eventbrite.co.uk/e/viking-history-for-humans-tickets-1022565128827'
+        text: 'Taff Gillingham is a military historical advisor for film, television, and theatre productions and, in a thirty-year career, has been involved in many major productions. He also co-owns Khaki Devil Limited; a company supplying historically accurate uniforms, equipment, weapons, and props for productions.'
+booking_link: 'https://www.eventbrite.co.uk/e/return-to-normandy-tickets-1022572821837'
 cta: |-
   This event is organised by West Suffolk College
 
@@ -111,7 +110,7 @@ cta: |-
 
   [01284 716341](tel:01284716341)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738684969
+updated_at: 1738685035
 duplicated_from: f9490ed7-9115-499a-87c9-59b203d5593f
 ---
-Join Dr. Ruiter as he explores the connections, hybridity, and dynamism of the Viking-Age in this region.
+This talk offers a fascinating and personal glimpse into the extraordinary feats of ordinary men during extraordinary times.
