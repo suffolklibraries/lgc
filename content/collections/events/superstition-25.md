@@ -7,7 +7,7 @@ event_categories:
   - museums
 organisers:
   - moyses-hall-museum
-featured_image: moyses-hall/superstition-3x2.png
+featured_image: moyses-hall/superstition-3x2-(1).png
 start_date: '2024-02-15 10:00'
 end_date: '2024-04-06 16:00'
 free: false
@@ -52,7 +52,7 @@ cta: |-
 
   [01284 706183](tel:01284706183)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738685499
+updated_at: 1738687292
 duplicated_from: 0838c256-94e5-4620-b26c-4b74d65dc341
 cost_details: 'Adult £5, child £3, under 5s go free'
 accessibility_information:
