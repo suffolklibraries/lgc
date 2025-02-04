@@ -1,14 +1,13 @@
 ---
 id: c7869c93-ecb5-433a-b77e-93b7b88e42c9
-published: false
 blueprint: events
 title: 'Next Stagers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716988376
-start_date: '2024-07-31 10:30'
-end_date: '2024-07-31 11:30'
-free: true
+updated_at: 1738686981
+start_date: '2025-02-12 10:30'
+end_date: '2025-02-12 12:30'
+free: false
 virtual: false
 organisers:
   - marina-theatre
@@ -16,71 +15,77 @@ town: Lowestoft
 featured_image: offthepressimages/Theatre.png
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: "You might have experience in professional or amateur theatre, be an enthusiastic audience member, or maybe just looking to make new friends in the area. Either way, if you love theatre, we'd love you to join the Next Stagers."
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'No previous theatre experience necessary and newcomers are always welcome!'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Next Stagers members also have access to specially discounted tickets and workshops throughout the year.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: ' '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: '"I never ever thought I would be interested in Shakespeare and now I am totally fascinated by it - you are never too old to learn anything." - Eileen Welham'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: '"As a group we really think we can go places –  I love being a part of The Next Stagers."- Arthur Harding'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: '"There is no imperative to come every single week - the group is so welcoming - you can miss a week or two and be welcomed back with open arms." - Bev Cadby'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: '"The whole group is not just about acting – it is also about the friendships and camaraderie." – Linda Howard'
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
+      textAlign: left
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -98,15 +103,32 @@ content_area:
         text: community@marinatheatre.co.uk
       -
         type: text
-        text: ' to find out more and book.'
+        text: ' to find out more.'
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+      textAlign: left
+cta: |-
+  This event is organised by the Marina Theatre
+
+  [https://www.marinatheatre.co.uk/](https://www.marinatheatre.co.uk/)
+
+  [info@marinatheatre.co.uk](mailto:info@marinatheatre.co.uk)
+
+  [01502 533200](tel:01502533200)
+latitude: '52.476224368902734'
+longitude: '1.7535812837893907'
+address_line_2: Marina
+postcode: 'NR32 1HH'
+duplicated_from: 591b036d-f8b5-4e98-8fc1-6675ee4503ea
+event_categories:
+  - theatre-and-performance
+  - later-years
+  - wellbeing
+cost_details: '£6 per session'
+attendance_information: 'people aged 50+'
+building_name: 'Marina Theatre'
+directions:
   -
     type: paragraph
     content:
@@ -240,19 +262,6 @@ content_area:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-cta: |-
-  This event is organised by the Marina Theatre
-
-  [https://www.marinatheatre.co.uk/](https://www.marinatheatre.co.uk/)
-
-  [info@marinatheatre.co.uk](mailto:info@marinatheatre.co.uk)
-
-  [01502 533200](tel:01502533200)
-latitude: '52.476224368902734'
-longitude: '1.7535812837893907'
-address_line_1: 'Marina Theatre'
-address_line_2: Marina
-postcode: 'NR32 1HH'
-duplicated_from: 591b036d-f8b5-4e98-8fc1-6675ee4503ea
+booking_link: 'https://eequ.org/book/next-stagers-with-lorna-pearce-10946'
 ---
 Designed to give members a chance to meet and discuss theatre, read plays and even rehearse and stage them!
