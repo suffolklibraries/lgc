@@ -169,5 +169,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 An exhibition exploring folklore, witchcraft, and beliefs.
