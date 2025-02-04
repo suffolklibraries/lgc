@@ -100,7 +100,7 @@ content_area:
       -
         type: text
         text: "Peter Morgan has had a varied working life, working in construction and heavy goods before attending university to read manufacturing engineering as a mature student. The automotive manufacturing world beckoned. He left the real world and started in education, going from agricultural engineering to the more regular versions at various FE colleges in Norfolk and Suffolk, including West Suffolk College before moving on to UEA.\_"
-booking_link: 'https://www.eventbrite.co.uk/e/the-engineering-of-medieval-armour-tickets-1022502511537?aff=odcleoeventsincollection&_gl=1*lgprle*_up*MQ..*_ga*MTExMTc1MTcxNi4xNzM4NjgzNDI5*_ga_TQVES5V6SH*MTczODY4MzQyOC4xLjAuMTczODY4MzQyOC4wLjAuMA..'
+booking_link: 'https://www.eventbrite.co.uk/e/the-engineering-of-medieval-armour-tickets-1022502511537'
 cta: |-
   This event is organised by West Suffolk College
 
@@ -110,6 +110,6 @@ cta: |-
 
   [01284 716341](tel:01284716341)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738684098
+updated_at: 1738684252
 ---
 Explore the evolution of body protection in combat with an engineer’s perspective.
