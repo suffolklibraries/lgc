@@ -1,16 +1,15 @@
 ---
 id: 86edc00d-58cc-4bb6-99a5-631c202436d3
-published: false
 blueprint: events
-title: 'Talk - Return to Normandy (Duplicated)'
+title: 'Talk - The Crimes and Times of Jack the Ripper'
 event_categories:
   - museums
   - languages
 organisers:
   - west-suffolk-college
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-06-05 17:45'
-end_date: '2025-06-05 19:00'
+start_date: '2025-06-19 17:45'
+end_date: '2025-06-19 19:00'
 free: true
 virtual: false
 accessibility_information:
@@ -92,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Taff Gillingham as he recounts the compelling story of the 1st Battalion Suffolk Regiment during the Normandy Landings. From rigorous training to the chaos of D-Day and the initial days in France, Taff shares firsthand anecdotes from veterans he knew personally. This talk offers a fascinating and personal glimpse into the extraordinary feats of ordinary men during extraordinary times.'
+        text: 'A series of horrific unsolved murders committed in the East End of London during what has become known as the ‘Autumn of Terror’ in 1888 saw the people of our capital and beyond walk the streets in fear. The murders remain unsolved and have cast a dark shadow over the annals of criminal history for over 130 years.'
   -
     type: paragraph
     attrs:
@@ -100,8 +99,8 @@ content_area:
     content:
       -
         type: text
-        text: 'Taff Gillingham is a military historical advisor for film, television, and theatre productions and, in a thirty-year career, has been involved in many major productions. He also co-owns Khaki Devil Limited; a company supplying historically accurate uniforms, equipment, weapons, and props for productions.'
-booking_link: 'https://www.eventbrite.co.uk/e/return-to-normandy-tickets-1022572821837'
+        text: "Award-winning social historian Neil Storey is an internationally recognised expert on the crimes and times of Jack the Ripper. Drawing on his ground-breaking research from over the last 30 years and his remarkable collection of images Neil will explore the known facts about murders, the women who were murdered, prime suspects and back drop of social conditions that surrounded the most infamous crimes in British history.\_"
+booking_link: 'https://www.eventbrite.co.uk/e/the-crimes-and-times-of-jack-the-ripper-tickets-1022577656297'
 cta: |-
   This event is organised by West Suffolk College
 
@@ -111,7 +110,7 @@ cta: |-
 
   [01284 716341](tel:01284716341)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738685035
+updated_at: 1738685099
 duplicated_from: 86198dfb-99a0-4c5f-a02e-e1a859cd7519
 ---
-This talk offers a fascinating and personal glimpse into the extraordinary feats of ordinary men during extraordinary times.
+A series of horrific unsolved murders committed in the East End of London during what has become known as the ‘Autumn of Terror’ in 1888.
