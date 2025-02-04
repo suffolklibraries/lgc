@@ -1,13 +1,12 @@
 ---
 id: 04a9ae45-2c31-4835-8aa6-a0db3c8c801a
-published: false
 blueprint: events
-title: 'Next Stagers (Duplicated) (Duplicated)'
+title: 'Next Stagers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738686981
-start_date: '2025-02-12 10:30'
-end_date: '2025-02-12 12:30'
+updated_at: 1738687032
+start_date: '2025-02-26 10:30'
+end_date: '2025-02-26 12:30'
 free: false
 virtual: false
 organisers:
