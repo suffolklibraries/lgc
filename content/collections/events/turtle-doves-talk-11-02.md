@@ -1,8 +1,7 @@
 ---
 id: 7bd2a00a-c305-446b-9b71-ac9394dc1c7e
-published: false
 blueprint: events
-title: 'Talk: Otters and Water Voles (Duplicated)'
+title: 'Talk: Turtle Doves'
 event_categories:
   - nature
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-11 19:30'
-end_date: '2025-03-11 20:30'
+start_date: '2025-02-11 19:30'
+end_date: '2025-02-11 20:30'
 free: false
 cost_details: '£4, under 25s free'
 virtual: false
@@ -23,30 +22,24 @@ content_area:
     content:
       -
         type: text
-        text: 'Alice’s talk will cover the ecology of otter and water vole, including habitats, diet, breeding, conservation status and legislation and we will also learn the field signs that each species leaves behind in the environment.'
+        text: 'Following the fantastic news of a 25% increase in the European Western flyway population to which the UK Turtle Doves belong, are we ready to welcome back Turtle Doves to our countryside? Working with landowners across South East England we are looking to create more Turtle Dove breeding habitats including scrub, ponds and seed rich habitats.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Visit the '
+        text: '£4 including raffle ticket and refreshments. Card and cash payments accepted.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Wildlife Trust website'
-      -
-        type: text
-        text: ' to find out more. No need to book, just come along.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+        text: 'No booking required.'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-02-11-talk-turtle-doves'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -55,8 +48,8 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: a720ec70-17d4-4534-b9e4-f0e078465928
-updated_at: 1732121010
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1738668593
 duplicated_from: 78879b0d-fcf4-4d2a-a48b-8c2b4a605bdd
 accessibility_information:
   - 'Wheelchair accessible'
@@ -129,4 +122,4 @@ directions:
         type: text
         text: .
 ---
-Illustrated talk by Alice Wickman about otter and water vole ecology and field signs.
+Illustrated talk by Eliza Leat from The RSPB about Turtle Doves.
