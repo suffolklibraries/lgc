@@ -1,8 +1,7 @@
 ---
 id: 493ae13e-1cbf-41e9-ae50-9bdaaddc089b
-published: false
 blueprint: events
-title: 'Talk - Wilder Rivers in Suffolk (Duplicated)'
+title: 'Talk - Learning to Love Spiders'
 event_categories:
   - nature
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-29 19:30'
-end_date: '2025-04-29 21:00'
+start_date: '2025-02-25 19:30'
+end_date: '2025-02-25 21:00'
 free: true
 cost_details: '£3, under 25s free'
 virtual: false
@@ -101,7 +100,7 @@ content_area:
       -
         type: text
         text: 'Please note we now have a card machine and accept cash for payments on the evening.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-29-talk-wilder-rivers-suffolk'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-02-25-talk-learning-love-spiders'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -111,7 +110,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738668905
+updated_at: 1738668955
 duplicated_from: b5d671d3-486f-4327-a0e9-da474abf1661
 accessibility_information:
   - 'Wheelchair accessible'
