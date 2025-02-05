@@ -11,7 +11,7 @@ organisers:
   - suffolk-libraries
 featured_image: suffolklibrariesimages/jump-in-3-x-2.png
 start_date: '2025-02-19 10:00'
-end_date: '2025-02-19 10:20'
+end_date: '2025-02-19 11:20'
 free: true
 virtual: false
 attendance_information: 'Made for 3-6 year olds, enjoyed by everyone'
@@ -137,7 +137,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This delightful 20-minute piece finishes with the opportunity to show us your moves, and boogie with the dancers. '
+        text: 'Performances start at 10am and 11am. This delightful 20-minute piece finishes with the opportunity to show us your moves, and boogie with the dancers. '
   -
     type: paragraph
     attrs:
@@ -183,7 +183,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737536353
+updated_at: 1738749894
 duplicated_from: d617ecea-fe73-4dd1-92b7-dfbd0aaa310e
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/jump-in-at-beccles'
 ---
