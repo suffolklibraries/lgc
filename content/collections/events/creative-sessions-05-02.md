@@ -86,5 +86,6 @@ duplicated_from: 8a6e5da1-6c32-41a3-951c-4a5b944375ed
 attendance_information: |-
   - people with long-term heath conditions
   - family carers
+published: false
 ---
 Free sessions for people with long-term health conditions and family carers.
