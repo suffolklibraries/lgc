@@ -1,8 +1,7 @@
 ---
 id: bf3fe6ef-7df6-4725-80e2-bc6e5937a791
-published: false
 blueprint: events
-title: 'Bloom Festival - Family Theatre Tour (Duplicated)'
+title: 'Sword in the Stone - Auditions'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -11,12 +10,12 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/family-tour.jpg
-start_date: '2025-04-09 10:30'
-end_date: '2025-04-09 11:30'
-free: false
-cost_details: 'From £5'
+start_date: '2025-03-03 10:00'
+end_date: '2025-02-03 17:00'
+free: true
+cost_details: 'bursaries available'
 virtual: false
-attendance_information: 'suitable for ages 5+'
+attendance_information: 'suitable for ages 11+'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -124,7 +123,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by our enthusiastic team of Tour Guides, travel around our vibrant 200-year-old theatre! Explore all aspects of the theatre from Front of House to the Behind the Scenes learning all about the last remaining working regency playhouse in the country. '
+        text: 'Our Summer Young Company offers 11-18 year olds the chance to be part of a new modern adaptation of Sword in the Stone. This experience is not just about putting on a show—it’s about building confidence, honing skills and making lifelong memories.'
   -
     type: paragraph
     attrs:
@@ -132,7 +131,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our tour guide as they tell you all about the historic building and the stories that they have to tell about those who have treaded our famous boards!'
+        text: 'We are also seeking a small group of Young Technicians. If you are aged 16 and a school leaver then we would love to hear from you too!'
   -
     type: paragraph
     attrs:
@@ -140,30 +139,84 @@ content_area:
     content:
       -
         type: text
-        text: 'Unfortunately, we are unable to provide accessible friendly tours due to the design of the theatre.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Book your tickets via the '
+        text: 'Whilst there is a cost to participation full and partial bursaries are available. Contact the Theatre Royal team to discuss what support is available for your child to join in the fun - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://theatreroyal.org/events/family-theatre-tour/'
+              href: 'mailto:engagement@theatreroyal.org'
+              rel: null
+              target: null
+              title: null
+        text: engagement@theatreroyal.org
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Click '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theatreroyal.org/news/sword-in-the-stone-auditions/'
               rel: null
               target: _blank
               title: null
-        text: 'Theatre Royal website'
+        text: 'here to visit the Theatre Royal website to find out more and apply'
       -
         type: text
         text: .
-booking_link: 'https://theatreroyal.org/events/family-theatre-tour/'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Important Dates'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Auditions: Monday 3rd March\_ & Saturday 10th May (times TBC)"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Rehearsals: 4th-8th & 11th-15th August (times TBC)'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Production Week: 18th-20th August'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Performances: 21st-23rd August'
+booking_link: 'https://theatreroyal.org/news/sword-in-the-stone-auditions/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -173,7 +226,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730902061
+updated_at: 1738848636
 duplicated_from: cb34c76c-5323-4d8e-b813-e5f686e1f549
 ---
-Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
+Give your child an unforgettable summer filled with creativity, learning and adventure!
