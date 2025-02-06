@@ -1,15 +1,14 @@
 ---
 id: ddc2ca38-67b1-4f7d-9f59-e7f386c47d52
-published: false
 blueprint: events
-title: 'Words and Verses (Duplicated)'
+title: 'Words and Verses'
 event_categories:
   - literature
   - theatre-and-performance
   - community
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-03-04 19:00'
-end_date: '2025-03-04 22:00'
+start_date: '2025-04-01 19:00'
+end_date: '2025-04-01 22:00'
 free: true
 virtual: false
 latitude: '52.05554958631246'
@@ -160,7 +159,7 @@ cta: |-
 
   [amy@getonthesoapbox.co.uk](mailto:amy@getonthesoapbox.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738844387
+updated_at: 1738844422
 duplicated_from: 26f0c5ae-d5fd-4208-92dc-d2c3245d318a
 attendance_information: 'ages 18+'
 ---
