@@ -1,16 +1,14 @@
 ---
 id: be50c2df-4b1f-4e07-ab2b-77f1629a2737
 blueprint: events
-title: 'Sewing, Make and Mend Group'
+title: 'All-Ages Spoken Word Open Mic'
 event_categories:
-  - art
-  - community
   - wellbeing
-organisers:
-  - the-hive
-featured_image: hive-ipswich/the-hive-sewing-group-3x2.png
-start_date: '2025-01-31 10:30'
-end_date: '2025-01-31 13:00'
+  - literature
+  - theatre-and-performance
+featured_image: pelicanpelican-3x2/music_singing.png
+start_date: '2025-02-19 14:00'
+end_date: '2025-02-19 17:00'
 free: true
 virtual: false
 latitude: '52.06134059473968'
@@ -68,7 +66,18 @@ content_area:
     content:
       -
         type: text
-        text: 'All welcome every Friday at the Hive for their sewing group, which will dip into other arts and crafts too.'
+        text: 'Sign-up on the day, or email Amy to book a slot in advance - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:amy@getonthesoapbox.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: amy@getonthesoapbox.co.uk
   -
     type: paragraph
     attrs:
@@ -76,14 +85,14 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just come along.'
+        text: 'Supported by Norfolk and Norwich Festival bursary scheme. '
 cta: |-
-  This event is organised by The Hive
+  This event is organised by Get on the Soapbox
 
-  [volunteer@usethehive.org.uk](mailto:volunteer@usethehive.org.uk)
+  [amy@getonthesoapbox.co.uk](mailto:amy@getonthesoapbox.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737479589
+updated_at: 1738831504
 duplicated_from: bafc879c-1f9b-4740-9bb3-0a7e46cbbe8f
-published: false
+attendance_information: 'everyone welcome'
 ---
-Come along and join The Hive's sewing group.
+Poets, rappers, storytellers, originals, and covers welcome!
