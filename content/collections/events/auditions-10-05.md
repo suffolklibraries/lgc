@@ -1,8 +1,7 @@
 ---
 id: 53894943-d3f2-4722-828d-2005b2edaa06
-published: false
 blueprint: events
-title: 'Sword in the Stone - Auditions (Duplicated)'
+title: 'Sword in the Stone - Auditions'
 event_categories:
   - theatre-and-performance
   - family-friendly
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/family-tour.jpg
-start_date: '2025-03-03 10:00'
-end_date: '2025-02-03 17:00'
+start_date: '2025-05-10 10:00'
+end_date: '2025-05-10 17:00'
 free: true
 cost_details: 'bursaries available'
 virtual: false
@@ -227,7 +226,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738848636
+updated_at: 1738848670
 duplicated_from: bf3fe6ef-7df6-4725-80e2-bc6e5937a791
 ---
 Give your child an unforgettable summer filled with creativity, learning and adventure!
