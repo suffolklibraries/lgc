@@ -6,7 +6,6 @@ event_categories:
   - theatre-and-performance
   - family-friendly
   - teen
-  - art
 organisers:
   - theatre-royal
 featured_image: theatre-royal/auditions.jpg
@@ -226,7 +225,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738852193
+updated_at: 1738852305
 duplicated_from: cb34c76c-5323-4d8e-b813-e5f686e1f549
 ---
 Give your child an unforgettable summer filled with creativity, learning and adventure!
