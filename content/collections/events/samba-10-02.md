@@ -122,5 +122,6 @@ updated_at: 1738161138
 duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
 attendance_information: 'home educated children'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/samba-taster-session/e-bvpjgp'
+published: false
 ---
 Free taster sessions for home educated young people.
