@@ -121,5 +121,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Illustrated talk by Eliza Leat from The RSPB about Turtle Doves.
