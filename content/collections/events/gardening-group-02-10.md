@@ -1,8 +1,7 @@
 ---
 id: 469fac71-e8a1-422e-9769-c746c8cbf996
-published: false
 blueprint: events
-title: 'Bereavement Gardening Group (Duplicated)'
+title: 'Bereavement Gardening Group'
 event_categories:
   - wellbeing
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: brittenpearsartsimages/bereavement-gardening-group.png
-start_date: '2025-09-04 11:00'
-end_date: '2025-09-04 13:00'
+start_date: '2025-10-02 11:00'
+end_date: '2025-10-02 13:00'
 free: true
 virtual: false
 attendance_information: 'People who have been bereaved'
@@ -133,7 +132,7 @@ content_area:
         text: " in association with St. Elizabeth's Hospice."
 booking_link: 'https://www.brittenpearsarts.org/events/bereavement-gardening-group-at-the-red-house'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739356157
+updated_at: 1739356202
 duplicated_from: 0708435f-e3ca-4af1-b13a-23181bd8e587
 cta: |-
   This event is organised by Britten Pears Arts
