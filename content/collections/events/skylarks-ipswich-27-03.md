@@ -7,7 +7,7 @@ longitude: '1.1841183199144334'
 start_date: '2025-03-27 10:30'
 end_date: '2025-03-27 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736265401
+updated_at: 1739356697
 free: true
 virtual: false
 organisers:
@@ -79,7 +79,7 @@ event_categories:
   - later-years
   - wellbeing
 booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+featured_image: pelicanpelican-3x2/music_singing.png
 duplicated_from: 6ba94736-5f39-450b-81e2-3681d335c812
 building_name: 'Ransomes Sports Pavilion'
 directions:
