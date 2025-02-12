@@ -15,7 +15,7 @@ free: true
 virtual: false
 accessibility_information:
   - 'Autism friendly'
-latitude: '52.47737596346164,'
+latitude: '52.47737596346164'
 longitude: '1.7532718328029995'
 building_name: 'The Battery'
 address_line_2: 'London Road North'
@@ -235,7 +235,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739360796
+updated_at: 1739361041
 duplicated_from: 5f489f75-9f21-42f1-98ab-066f72338c2b
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/recharge-at-the-battery-of-ideas/'
 attendance_information: 'people aged 18 plus living with complex health needs'
