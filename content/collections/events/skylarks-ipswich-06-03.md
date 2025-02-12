@@ -7,7 +7,7 @@ longitude: '1.4967351727076355'
 start_date: '2025-03-06 10:30'
 end_date: '2025-03-06 12:00'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736265895
+updated_at: 1739356727
 free: true
 virtual: false
 organisers:
@@ -79,7 +79,7 @@ event_categories:
   - later-years
   - wellbeing
 booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
-featured_image: offthepressimages/new_resized_images/Music_singing.png
+featured_image: pelicanpelican-3x2/music_singing.png
 duplicated_from: 1da035cd-b7e7-4c2b-8f0b-5162e0eb9e73
 building_name: 'The Trask'
 directions:
