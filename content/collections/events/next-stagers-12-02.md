@@ -263,5 +263,6 @@ directions:
               title: null
         text: 'Suffolk Onboard.'
 booking_link: 'https://eequ.org/book/next-stagers-with-lorna-pearce-10946'
+published: false
 ---
 Designed to give members a chance to meet and discuss theatre, read plays and even rehearse and stage them!
