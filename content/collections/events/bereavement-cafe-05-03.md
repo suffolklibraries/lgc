@@ -1,7 +1,7 @@
 ---
 id: 0c0cc880-dad5-4f09-88e3-8ac557f4fa15
 blueprint: events
-title: 'Bereavement Gardening Group'
+title: 'Bereavement Café'
 event_categories:
   - wellbeing
   - community
@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: brittenpearsartsimages/bereavement-gardening-group.png
-start_date: '2024-12-05 11:00'
-end_date: '2024-12-05 13:00'
+start_date: '2025-03-05 14:00'
+end_date: '2025-03-05 16:00'
 free: true
 virtual: false
 attendance_information: 'People who have been bereaved'
@@ -61,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'When you lose someone, the grief will never go away completely — but there are healthy ways to cope. Some people find that gardening as they grieve, can gently relieve some of the emotional and physical symptoms after the loss of a loved one. Gardening has many therapeutic benefits; it’s a sensory process of creating and healing, packed with colour, texture and fragrance, rain or shine. Gardens are both active to work and restful to sit in, helping us to relax and let go, taking a break away from our worries to breathe in nature.'
+        text: 'We offer a welcoming space for those coping with loss to gather, meet, talk, and find comfort and support in shared experiences.'
   -
     type: paragraph
     attrs:
@@ -69,7 +69,21 @@ content_area:
     content:
       -
         type: text
-        text: 'The Bereavement Gardening Group is led by our Head Gardener at The Red House and aims to support individuals by restoring peaceful connections with the rhythms and patterns of the lifecycle, it is an opportunity to connect with others who have been bereaved and get involved in garden maintenance work.'
+        text: 'Run by our trained volunteers, with the support of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://eur01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.stelizabethhospice.org.uk%2F&data=05%7C02%7Cesawyer%40brittenpearsarts.org%7Cfbac350a4d824c7a052108dc2bc87652%7C70d50667bd5d457da284c0692661f5bc%7C0%7C0%7C638433387177747254%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=330tYfZoXgIsrUOqEx4%2F0hWXWazjjlO8fLH286SA6a0%3D&reserved=0'
+              rel: ''
+              target: _blank
+              title: null
+        text: "St Elizabeth's Hospice"
+      -
+        type: text
+        text: ', we hope to provide a social space for people who are facing bereavement to talk about their experience of loss in a safe, relaxed environment.'
   -
     type: paragraph
     attrs:
@@ -77,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Book '
+        text: 'We also run Bereavement Gardening Group sessions at The Red House Garden. To find out more visit our '
       -
         type: text
         marks:
@@ -86,15 +100,37 @@ content_area:
             attrs:
               href: 'https://www.brittenpearsarts.org/events/bereavement-gardening-group-at-the-red-house'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'your free place online'
+        text: 'Bereavement Gardening Group'
       -
         type: text
-        text: .
-booking_link: 'https://www.brittenpearsarts.org/events/bereavement-gardening-group-at-the-red-house'
+        text: ' page.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'If you are looking for more in depth Bereavement Support, please contact '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.stelizabethhospice.org.uk/how-we-can-help/information-and-support/bereavement-support/'
+              rel: 'noreferrer noopener'
+              target: _blank
+              title: null
+        text: LivingGrief
+      -
+        type: text
+        text: " in association with St. Elizabeth's Hospice."
+booking_link: 'https://www.brittenpearsarts.org/events/bereavement-cafe'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730116882
+updated_at: 1739355176
 duplicated_from: ae982731-6278-437f-9cc1-aa2878b76826
 cta: |-
   This event is organised by Britten Pears Arts
@@ -104,6 +140,8 @@ cta: |-
   [info@brittenpearsarts.org](mailto:info@brittenpearsarts.org)
 
   [01728 451700](tel:01728451700)
-published: false
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
 ---
-Join us in the beautiful and peaceful surroundings of The Red House Garden.
+Join us in the beautiful and peaceful surroundings of The Red House for our monthly Bereavement Café.
