@@ -1,14 +1,13 @@
 ---
 id: 15aacf00-5727-474f-9b0e-07a11702c440
-published: false
 blueprint: events
-title: 'Bereavement Walks (Duplicated)'
+title: 'Bereavement Walks'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-09-23 10:00'
-end_date: '2025-09-23 11:30'
+start_date: '2025-10-14 10:00'
+end_date: '2025-10-14 11:30'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739356601
+updated_at: 1739356619
 free: true
 virtual: false
 organisers:
