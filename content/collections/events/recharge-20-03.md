@@ -1,8 +1,7 @@
 ---
 id: fc24357e-a0b1-40b3-86ad-93a32921abed
-published: false
 blueprint: events
-title: 'Re>Charge (Duplicated)'
+title: Re>Charge
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-art-link
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-03-13 10:30'
-end_date: '2025-03-13 12:30'
+start_date: '2025-03-20 10:30'
+end_date: '2025-03-20 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -236,7 +235,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739360639
+updated_at: 1739360673
 duplicated_from: 89dbcd30-a22f-480b-8fbc-d4c82e099461
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/recharge-at-the-battery-of-ideas/'
 attendance_information: 'people aged 18 plus living with complex health needs'
