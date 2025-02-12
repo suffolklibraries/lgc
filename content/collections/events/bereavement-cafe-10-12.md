@@ -1,8 +1,7 @@
 ---
 id: 3a91fdea-a347-4594-a067-326be7613b49
-published: false
 blueprint: events
-title: 'Bereavement Café (Duplicated)'
+title: 'Bereavement Café'
 event_categories:
   - wellbeing
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: brittenpearsartsimages/bereavement-gardening-group.png
-start_date: '2025-11-12 14:00'
-end_date: '2025-11-12 16:00'
+start_date: '2025-12-10 14:00'
+end_date: '2025-12-10 16:00'
 free: true
 virtual: false
 attendance_information: 'People who have been bereaved'
@@ -131,7 +130,7 @@ content_area:
         text: " in association with St. Elizabeth's Hospice."
 booking_link: 'https://www.brittenpearsarts.org/events/bereavement-cafe'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739355345
+updated_at: 1739355367
 duplicated_from: ae41305d-7a31-45fd-8fdd-6df60cb22a4f
 cta: |-
   This event is organised by Britten Pears Arts
