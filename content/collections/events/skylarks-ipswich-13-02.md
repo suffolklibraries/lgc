@@ -110,5 +110,6 @@ directions:
       -
         type: text
         text: ' website.'
+published: false
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
