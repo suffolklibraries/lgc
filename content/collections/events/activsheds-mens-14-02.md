@@ -142,5 +142,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730805036
 duplicated_from: d7ce3255-329d-44e7-915f-0c3addf53915
 attendance_information: 'session for men'
+published: false
 ---
 A practical project for people who would like to share knowledge, learn new skills, and pursue hobbies and interests!
