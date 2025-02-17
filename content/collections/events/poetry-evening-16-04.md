@@ -12,12 +12,6 @@ start_date: '2025-04-16 19:00'
 end_date: '2025-04-16 21:00'
 free: true
 virtual: true
-accessibility_information:
-  - 'Wheelchair accessible'
-  - 'Hearing loop available'
-  - 'Accessible toilets'
-  - 'Accessible parking spaces'
-  - 'Drop-in event'
 content_area:
   -
     type: paragraph
@@ -80,7 +74,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739797977
+updated_at: 1739798022
 duplicated_from: d8a77be1-578c-4880-951b-a069ea691125
 cost_details: 'donations welcome'
 ---
