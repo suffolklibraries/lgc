@@ -1,14 +1,13 @@
 ---
 id: c0c283c9-1027-4977-ae11-fcda4da0da24
-published: false
 blueprint: events
-title: 'CLIP Sudbury (Duplicated) (Duplicated)'
+title: 'CLIP Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739783909
+updated_at: 1739783950
 latitude: '52.03876816283207'
 longitude: '0.7313807819119865'
-start_date: '2025-06-24 17:30'
+start_date: '2025-07-08 17:30'
 event_categories:
   - music
   - computing
@@ -77,7 +76,7 @@ cta: |-
   [https://www.clipsoundandmusic.uk/](https://www.clipsoundandmusic.uk/) 
 
   [info@clipsoundandmusic.uk](mailto:info@clipsoundandmusic.uk)
-end_date: '2025-06-24 19:30'
+end_date: '2025-07-08 19:30'
 duplicated_from: a94d60ab-636b-4c22-b58a-2c820e040c65
 directions:
   -
