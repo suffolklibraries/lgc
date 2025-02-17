@@ -1,14 +1,13 @@
 ---
 id: a65b8c13-3800-4e20-948d-5d33b79ace7b
-published: false
 blueprint: events
-title: 'Stowupland Chair Yoga (Duplicated) (Duplicated)'
+title: 'Stowupland Chair Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739796405
+updated_at: 1739796437
 latitude: '52.199279682677904'
 longitude: '1.029057297265083'
-start_date: '2025-06-16 10:30'
+start_date: '2025-06-30 10:30'
 free: false
 virtual: false
 organisers:
@@ -102,7 +101,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
 cost_details: '£7 per session'
-end_date: '2025-06-16 11:30'
+end_date: '2025-06-30 11:30'
 duplicated_from: bcb9b628-a50b-45b6-9b31-919ea279ad7a
 event_categories:
   - dance
