@@ -9,7 +9,7 @@ organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/literature.png
 start_date: '2025-06-19 19:00'
-end_date: '2025-04-17 21:00'
+end_date: '2025-06-19 21:00'
 free: true
 virtual: true
 accessibility_information:
@@ -80,7 +80,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739798053
+updated_at: 1739798102
 duplicated_from: fa71e08a-a223-48bd-9f94-a592af40928e
 cost_details: 'donations welcome'
 ---
