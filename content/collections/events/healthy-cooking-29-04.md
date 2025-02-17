@@ -1,64 +1,63 @@
 ---
 id: 429ffbb2-a957-4a84-a15f-89a1839b6de6
-published: false
 blueprint: events
 title: 'Healthy Cooking on a Budget'
 organisers:
   - reach-community-projects
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2024-10-08 10:00'
-end_date: '2024-10-08 14:00'
+start_date: '2025-04-29 10:00'
+end_date: '2025-04-29 14:00'
 free: true
 virtual: false
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: "The course will include, preparing, cooking and enjoying healthy dishes and will be full of top tips to cook great dishes on a budget! You'll receive a free with supermarket voucher and recipe book.  "
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Sessions take place on -'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tuesday 8 October '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tuesday 15 October '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tuesday 22 October'
-  -
-    type: heading
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to book'
+        text: 'Tuesday 29 April '
   -
     type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Tuesday 6 May'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Tuesday 13 May'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -69,11 +68,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'tel:07765058516'
+              href: 'tel:08000096710'
               rel: null
               target: null
               title: null
-        text: '07765 058516'
+        text: '0800 009 6710'
       -
         type: text
         text: ' or '
@@ -88,14 +87,28 @@ content_area:
               target: null
               title: ''
         text: elaine.hewes@reachhaverhill.org.uk
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+cta: |-
+  This event is organised by REACH Community Projects
+
+  [https://www.reachcp.org.uk/](https://www.reachcp.org.uk/) 
+
+  [info@reachhaverhill.org.uk](mail:info@reachhaverhill.org.uk)
+
+  [0800 009 6710](tel:08000096710)
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1739810305
+duplicated_from: 1a44a26d-8916-4667-af36-0fff5226f26e
+event_categories:
+  - community
+  - food
+  - languages
+latitude: '52.078842287383665'
+longitude: '0.4264641055527948'
+address_line_2: 'Leiston Road'
+town: Haverhill
+postcode: 'CB9 8JJ'
+building_name: 'Clements Community Centre'
+directions:
   -
     type: paragraph
     content:
@@ -158,25 +171,5 @@ content_area:
         text: '. '
   -
     type: paragraph
-cta: |-
-  This event is organised by REACH Community Projects
-
-  [https://www.reachcp.org.uk/](https://www.reachcp.org.uk/) 
-
-  [info@reachhaverhill.org.uk](mail:info@reachhaverhill.org.uk)
-
-  [0800 009 6710](tel:08000096710)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725441786
-duplicated_from: 1a44a26d-8916-4667-af36-0fff5226f26e
-event_categories:
-  - community
-  - food
-latitude: '52.078842287383665'
-longitude: '0.4264641055527948'
-address_line_1: 'Clements Community Centre'
-address_line_2: 'Leiston Road'
-town: Haverhill
-postcode: 'CB9 8JJ'
 ---
-REACH Community Projects is partnering with Ashdon Catering to offer a free three-week cooking course.
+Free three-week cooking course.
