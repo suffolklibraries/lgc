@@ -1,15 +1,14 @@
 ---
 id: c2bb0200-f3dc-41c1-9cff-b5bac9ca8f91
-published: false
 blueprint: events
-title: 'Musical Lifelines (Duplicated) (Duplicated)'
+title: 'Musical Lifelines'
 event_categories:
   - wellbeing
   - later-years
   - music
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2025-06-13 10:30'
-end_date: '2025-06-13 12:00'
+start_date: '2025-06-27 10:30'
+end_date: '2025-06-27 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -135,7 +134,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739785276
+updated_at: 1739785305
 duplicated_from: 05335f5c-c710-4096-a60e-94c4765538de
 ---
 Free music workshops for people in later life.
