@@ -2,8 +2,8 @@
 id: 633edc84-15b2-4704-8602-c3874055a6a8
 blueprint: events
 title: "Let's Get Crafty: Departures"
-start_date: 2025-02-17T10:30:00+00:00
-end_date: 2025-02-17T12:30:00+00:00
+start_date: 1739788200
+end_date: 1739795400
 free: true
 virtual: false
 attendance_information: 'children aged 4-11'
@@ -32,5 +32,6 @@ event_categories:
   - family-friendly
 organisers:
   - suffolk-archives-suffolk-county-council
+published: false
 ---
 Family friendly activities!

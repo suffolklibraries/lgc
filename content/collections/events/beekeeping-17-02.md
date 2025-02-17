@@ -135,5 +135,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730802085
 duplicated_from: 5a9a7c2d-08a4-4cae-8a77-90796d4f7bbf
+published: false
 ---
 For people who would like to find out what beekeeping is all about!
