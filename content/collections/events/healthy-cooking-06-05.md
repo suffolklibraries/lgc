@@ -1,13 +1,12 @@
 ---
 id: 4a215561-d733-48d1-9d90-9147ca65cf62
-published: false
 blueprint: events
-title: 'Healthy Cooking on a Budget (Duplicated)'
+title: 'Healthy Cooking on a Budget'
 organisers:
   - reach-community-projects
 featured_image: offthepressimages/new_resized_images/Food_Nature.png
-start_date: '2025-04-29 10:00'
-end_date: '2025-04-29 14:00'
+start_date: '2025-05-06 10:00'
+end_date: '2025-05-06 14:00'
 free: true
 virtual: false
 content_area:
@@ -97,7 +96,7 @@ cta: |-
 
   [0800 009 6710](tel:08000096710)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739810305
+updated_at: 1739810348
 duplicated_from: 429ffbb2-a957-4a84-a15f-89a1839b6de6
 event_categories:
   - community
