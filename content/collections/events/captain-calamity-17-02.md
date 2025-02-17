@@ -136,5 +136,6 @@ updated_at: 1730107016
 duplicated_from: 920463a7-c62c-4678-9db5-b34de2fdefd0
 attendance_information: '- family friendly'
 booking_link: 'https://theseagull.co.uk/seagull_shows/the-adventures-of-captain-calamity/'
+published: false
 ---
 From the moment Captain Calamity and Crew sail in from The Lollipop Lighthouse in Chocolate Button bay the craziness bursts onto the stage.
