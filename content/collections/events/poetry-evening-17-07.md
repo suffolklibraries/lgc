@@ -1,16 +1,15 @@
 ---
 id: 502a632b-896c-45d1-95c0-dfb09cef2bbe
-published: false
 blueprint: events
-title: 'Poetry Evening (Duplicated)'
+title: 'Poetry Evening'
 event_categories:
   - community
   - literature
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-06-19 19:00'
-end_date: '2025-06-19 21:00'
+start_date: '2025-07-17 19:00'
+end_date: '2025-07-17 21:00'
 free: true
 virtual: true
 accessibility_information:
@@ -81,7 +80,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739798102
+updated_at: 1739798152
 duplicated_from: 577f7d73-389f-4edf-b9bc-9d80c59353bb
 cost_details: 'donations welcome'
 ---
