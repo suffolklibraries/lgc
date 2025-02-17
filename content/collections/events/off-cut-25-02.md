@@ -1,16 +1,13 @@
 ---
 id: 887ab137-63c5-467d-a5bb-7098c7248ee2
-published: false
 blueprint: events
-title: 'New Cut Choir'
+title: 'OffCut Singers'
 event_categories:
   - community
   - music
-organisers:
-  - new-cut-choir
 featured_image: pelicanpelican-3x2/music_singing.png
 start_date: '2025-02-25 18:45'
-end_date: '2025-02-25 20:45'
+end_date: '2025-02-25 20:00'
 free: false
 cost_details: £5
 virtual: false
@@ -120,16 +117,9 @@ content_area:
       -
         type: text
         text: 'The group meet in the community room at the Co-op (near the café).'
-cta: |-
-  This event is organised by the New Cut Choir
-
-  [booking@theatreroyal.org](mailto:booking@theatreroyal.org)
-
-  [01284769505](tel:01284769505)
-
-  [https://cutchoir.weebly.com/](https://cutchoir.weebly.com/)
+cta: 'This event is organised by the OffCut Choir'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739786975
+updated_at: 1739789994
 duplicated_from: 1cf1b9cb-d8f9-4e64-a647-01d8992ca56c
 ---
 Come along to join our welcoming choir.
