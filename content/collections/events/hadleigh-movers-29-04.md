@@ -1,14 +1,13 @@
 ---
 id: 7922fdad-de87-4551-b271-25ef6fe9d76c
-published: false
 blueprint: events
-title: 'Hadleigh Movers (Duplicated) (Duplicated)'
+title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733932432
+updated_at: 1739795224
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
-start_date: '2025-03-25 11:00'
+start_date: '2025-04-29 11:00'
 free: false
 virtual: false
 organisers:
@@ -86,7 +85,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
 cost_details: '£5 per session'
-end_date: '2025-03-25 12:30'
+end_date: '2025-04-29 12:30'
 duplicated_from: 7816f059-df79-43f6-b2db-659d50b28e11
 event_categories:
   - dance
