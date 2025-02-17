@@ -189,7 +189,7 @@ cta: |-
 
   [halesworth.harmony@gmail.com](mailto:halesworth.harmony@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730905430
+updated_at: 1739787425
 duplicated_from: 21e32d91-f4fe-423e-9c65-46aa780e3dfe
 ---
 A friendly and supportive choir, welcoming all singers without an audition.
