@@ -1,29 +1,22 @@
 ---
 id: 95c3ccaa-7a3d-4e76-99e7-8f4289e82b04
-published: false
 blueprint: events
-title: 'CLIP Sudbury (Duplicated)'
+title: 'Green Fingers Community Exchange Cafe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739783986
+updated_at: 1739784609
 latitude: '52.03876816283207'
 longitude: '0.7313807819119865'
-start_date: '2025-07-15 17:30'
+start_date: '2025-03-12 10:30'
 event_categories:
-  - music
-  - computing
-  - teen
-  - languages
+  - nature
+  - community
 free: true
 virtual: false
-organisers:
-  - clip
-address_line_1: 'Sudbury Arts Centre'
 address_line_2: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EA'
-featured_image: pelicanpelican-3x2/music.png
-attendance_information: 'ages 11 - 19'
+featured_image: pelicanpelican-3x2/gardentools.png
 content_area:
   -
     type: paragraph
@@ -32,52 +25,72 @@ content_area:
     content:
       -
         type: text
-        text: 'A weekly club for young musicians to experiment with musical tech, play sound and music games and work collaboratively in a fun and supportive musical environment.'
+        text: 'We’re delighted to be holding our very first Green Fingers Community Exchange Cafe. Running from 10.30am to 2.30pm.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
-      -
-        type: text
-        text: 'Absolutely no musical experience or equipment needed - just bring yourself!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "No need for parents to attend. \_Our team are fully DBS checked.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'For more information, please contact'
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'mailto:info@clipsoundandmusic.uk'
-              rel: noopener
-              target: null
-              title: 'mailto:info@clipsoundandmusic.uk'
-        text: ' info@clipsoundandmusic.uk'
+            type: bold
+        text: 'SEED & PLANT SWAP:'
       -
         type: text
-        text: .
+        text: "\_bring seeds, seedlings, houseplants!"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'TOOL SWAP'
+      -
+        type: text
+        text: ': clearing your shed? Have spare trowels, forks etc? Bring them along so someone else can make good use of them.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'SHARE YOUR TIPS'
+      -
+        type: text
+        text: ': how do you compost? When do you prune? And lots more.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Free activities for children! '
+      -
+        type: text
+        text: 'No need to book.'
 cta: |-
-  This event is organised by CLIP
+  This event is organised by Sudbury Arts Centre
 
-  [https://www.clipsoundandmusic.uk/](https://www.clipsoundandmusic.uk/) 
+  [https://sudburyartscentre.com/](https://sudburyartscentre.com/) 
 
-  [info@clipsoundandmusic.uk](mailto:info@clipsoundandmusic.uk)
-end_date: '2025-07-15 19:30'
+  [info@sudburyartscentre.com](mailto:info@sudburyartscentre.com)
+
+  [01787 313691](tel:01787313691)
+end_date: '2025-03-12 14:30'
 duplicated_from: 2c587776-8b0f-43ba-aeff-7c1610bc5d79
 directions:
   -
@@ -174,5 +187,9 @@ directions:
       -
         type: text
         text: .
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
+building_name: 'Sudbury Arts Centre'
 ---
-A weekly club for young musicians to play with musical tech!
+Come along to share tips, swap seeds, and learn about how you grow more plants.
