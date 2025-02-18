@@ -1,8 +1,7 @@
 ---
 id: 9e103e32-12fa-4046-b6fb-8675965a3fac
-published: false
 blueprint: events
-title: 'Newmarket Young Arts (Duplicated)'
+title: 'Newmarket Young Arts'
 event_categories:
   - museums
   - family-friendly
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-02-22 10:00'
-end_date: '2025-02-22 15:30'
+start_date: '2025-03-29 10:00'
+end_date: '2025-03-29 15:30'
 free: true
 virtual: false
 attendance_information: |-
@@ -230,7 +229,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739887048
+updated_at: 1739887111
 duplicated_from: f798e2e4-01e3-4376-bb5a-f6b219ab5f0a
 booking_link: 'https://www.nhrm.co.uk/events/newmarket-young-arts/'
 ---
