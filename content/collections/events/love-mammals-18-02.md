@@ -126,5 +126,6 @@ directions:
         text: 'Access at Christchurch Mansion'
 booking_link: 'https://ipswich.cimuseums.org.uk/events/drawing-day/'
 cost_details: '£5 per person'
+published: false
 ---
 Join our family-friendly, interactive sessions as part of our Love Mammals Week.
