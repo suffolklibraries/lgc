@@ -1,6 +1,5 @@
 ---
 id: a3167765-4998-4c2c-951e-02950d81e511
-published: false
 blueprint: events
 title: 'Newmarket Young Arts'
 event_categories:
