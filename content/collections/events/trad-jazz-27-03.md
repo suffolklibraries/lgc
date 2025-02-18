@@ -1,13 +1,12 @@
 ---
 id: 8beaffd2-2fa2-4310-b1e5-1ec78d7c8ca8
-published: false
 blueprint: events
-title: 'Glenn and his Trad Jazz Men (Duplicated)'
+title: 'Glenn and his Trad Jazz Men'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739897108
-start_date: '2025-02-27 14:30'
-end_date: '2025-02-27 16:30'
+updated_at: 1739897142
+start_date: '2025-03-27 14:30'
+end_date: '2025-03-27 16:30'
 free: true
 virtual: false
 organisers:
