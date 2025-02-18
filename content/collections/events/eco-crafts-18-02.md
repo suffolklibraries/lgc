@@ -88,5 +88,6 @@ updated_at: 1738161529
 duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
 attendance_information: 'Family friendly'
 booking_link: 'https://www.eastpointpavilion.com/events/eco-craft-session-with-lowestoft-woodcraft-folk'
+published: false
 ---
 Join members of the Lowestoft Woodcraft folk for craft activities.
