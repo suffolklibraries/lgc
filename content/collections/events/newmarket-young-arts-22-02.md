@@ -1,20 +1,22 @@
 ---
 id: f798e2e4-01e3-4376-bb5a-f6b219ab5f0a
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Newmarket Young Arts'
 event_categories:
   - museums
-  - early-years
   - family-friendly
+  - teen
+  - languages
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-05-09 11:00'
-end_date: '2025-05-09 12:00'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-02-22 10:00'
+end_date: '2025-02-22 15:30'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children'
+attendance_information: |-
+  children
+  young people
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,7 +137,15 @@ content_area:
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: '‘Newmarket Young Arts’ will provide an opportunity for children and young people to meet a range of artists and find out about their artistic practice and creative careers. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Ninety minute monthly creative sessions will enable participants to learn new skills and techniques and develop their own creative practice in a supportive environment.'
   -
     type: paragraph
     attrs:
@@ -143,7 +153,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
+        text: 'Each participant will receive a creative kit to enable them to continue working on their creative ideas and portfolio at home between sessions at the museum.'
   -
     type: paragraph
     attrs:
@@ -151,7 +161,43 @@ content_area:
     content:
       -
         type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
+        text: 'There are different sessions for each age group - '
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: '6 – 8 years (10 – 11:30am)'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: '9-11 years (11:45 – 1:15pm)'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: '12 – 14 years (2-3.30pm)'
   -
     type: paragraph
     attrs:
@@ -159,7 +205,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book your pre-school place, please email '
+        text: 'Parents and carers can book their child on the programme of six sessions by emailing '
       -
         type: text
         marks:
@@ -173,7 +219,7 @@ content_area:
         text: info@nhrm.co.uk
       -
         type: text
-        text: .
+        text: ' with Newmarket Young Arts in the subject line and we will send you a booking form to complete.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -183,7 +229,8 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730815406
+updated_at: 1739887048
 duplicated_from: fc011e96-751f-4d05-85aa-c592b746b522
+booking_link: 'https://www.nhrm.co.uk/events/newmarket-young-arts/'
 ---
-Free, creative play sessions, designed to educate and entertain!
+Free monthly creative sessions for children and young people
