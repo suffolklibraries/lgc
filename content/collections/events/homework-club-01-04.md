@@ -1,11 +1,12 @@
 ---
 id: 54fd4697-1d9d-47d4-acb9-91d4c13c9139
-published: false
 blueprint: events
 title: 'After-School Club'
 event_categories:
   - teen
   - languages
+  - art
+  - theatre-and-performance
 organisers:
   - eastern-angles
 featured_image: pelicanpelican-3x2/literature.png
@@ -109,14 +110,68 @@ content_area:
     content:
       -
         type: text
-        text: "Need a quick space to do your homework? Join us at the Eastern Angles Centre for Homework Club! There'll be someone at each session to supervise and support you with your homework,\_ensuring all tasks set by their schools are completed on time. Free internet access, use of computers and printing will also be available, as well as free snacks!"
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: "Need a place to go after school? Join us\_at the Eastern Angles Centre for After-School Club! Whether you need a quiet place to do your homework, or just want to get creative and enjoy some time with your friends - this is the place for you.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: 'Before making your first booking you will need to complete a sign up form. Visit the Eastern Angles website to download a copy of the '
+        text: 'With staff on hand to support you with your homework as well as run creative activities this is a safe space to learn, have fun and make new friends. Activities include: arts & crafts, story telling, reading, board games, and more!'
+  -
+    type: heading
+    attrs:
+      textAlign: start
+      level: 3
+    content:
+      -
+        type: text
+        text: 'How to sign up:'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "Is this your first time at After-School Club this year?\_"
+      -
+        type: text
+        text: "Before making your first booking for the year you will need to complete a sign up form. There are printed versions available to collect from the Eastern Angles Centre. Please return completed forms to After-School\_Manager\_Vera Maia\_- email to "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto: vera@easternangles.co.uk'
+              rel: null
+              target: null
+              title: null
+        text: 'vera@easternangles '
+      -
+        type: text
+        text: 'or return in person at the Eastern Angles Centre.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'If you attended last year, you will still need to complete a new form for the new academic year.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Visit t'
       -
         type: text
         marks:
@@ -127,53 +182,26 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Homework Club sign up form'
+        text: 'he Eastern Angles website'
       -
         type: text
-        text: .
+        text: ' to download the After-School Club sign-up form.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
-      -
-        type: text
-        text: "All attendees, parents and guardians are also asked to read\_Homework Club Terms & Conditions and Behaviour Policy which can be viewed on the"
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://easternangles.co.uk/homework-club'
-              rel: null
-              target: _blank
-              title: null
-        text: ' '
+            type: bold
+        text: "Been to After-School Club before?\_"
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://easternangles.co.uk/after-school-club'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Eastern Angles website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Once we've got all the info from your sign up form, simply book your place online or over the phone on 01473 211498. Booking for each session will open one week before the session."
+        text: "Once we've got all the info from your sign up form, simply come along to your first session and let the staff know if you're coming back next week. We do have a limited capacity so please make sure to let us know if you will be attending so we can add your name to our register and ensure we have a space for you.\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739867835
+updated_at: 1739867967
 booking_link: 'https://easternangles.co.uk/after-school-club'
 cta: |-
   This event is organised by Eastern Angles
