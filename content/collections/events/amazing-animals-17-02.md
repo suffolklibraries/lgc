@@ -134,5 +134,6 @@ directions:
         text: 'Access at Christchurch Mansion'
 booking_link: 'https://ipswich.cimuseums.org.uk/events/amazing-animals/'
 cost_details: '£6 per person, under 3s are free'
+published: false
 ---
 The live animals are back for our Love Mammals themed February half-term!

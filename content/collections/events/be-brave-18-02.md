@@ -178,5 +178,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://suffolklibraries.co.uk/events/events/be-brave-this-break-at-sudbury'
+published: false
 ---
 Come along to the library to play with poems this half-term!
