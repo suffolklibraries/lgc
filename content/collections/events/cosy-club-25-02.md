@@ -1,17 +1,16 @@
 ---
 id: 9132c632-1cac-4870-8227-e25178f86caa
-published: false
 blueprint: events
-title: 'Easter Paw-ty at the Museum 2025 (Duplicated)'
+title: 'Cosy Club'
 event_categories:
   - museums
   - early-years
   - family-friendly
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/later_nature-(1).png
-start_date: '2025-04-18 10:00'
-end_date: '2025-04-18 17:00'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-02-25 10:00'
+end_date: '2025-02-25 17:00'
 free: true
 virtual: false
 attendance_information: 'family friendly'
@@ -135,23 +134,37 @@ content_area:
     content:
       -
         type: text
-        text: 'Think you have the cutest pup or dog with the waggiest tail? Then this is a party you won’t want to miss! Come and celebrate Easter with us and join in with our doggie themed events, including our Fun Dog Show, displays in the arena, have a go opportunities, creative activities and our Easter Trail, which has been tailored for families, as well as pooches! There will also be a chance to shop, with stalls for you and your furry friend.'
+        text: 'Come along for FREE creative activities, explore the museum and enjoy refreshments kindly provided by The Tack Room. '
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Admission to the Easter Paw-ty is £5 per adult and £3 per child, with pre-booking available now! Entry to the dog show is £2 per class, made payable on the day. Admission only includes access to the outside areas of the museum.'
+        text: 'No booking required, just show up and join in the fun.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'All dogs must be kept on leads while within the Museum grounds.'
+        text: 'Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.nhrm.co.uk/events/cosy-club-on-tuesdays/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'National Horseracing Museum website'
+      -
+        type: text
+        text: " to find out each week's theme. "
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -161,9 +174,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739887594
+updated_at: 1739888202
 duplicated_from: d3d2e1a8-05a8-4e35-bb93-0f147ff81c8a
-cost_details: '£5 per adult, £3 per child'
-booking_link: 'https://www.nhrm.co.uk/events/easter-paw-ty-at-the-museum-2025/'
 ---
-You are invited to an Easter Paw-ty at the National Horseracing Museum!
+Calling all families to save the date!
