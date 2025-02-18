@@ -1,19 +1,19 @@
 ---
 id: 2cf66529-4885-4032-9c11-4fb837be8938
-published: false
 blueprint: events
-title: 'After-School Club (Duplicated)'
+title: 'Creative Wellbeing Art Studio'
 event_categories:
-  - teen
-  - languages
+  - art
+  - wellbeing
+  - community
 organisers:
-  - eastern-angles
-featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-03-04 15:30'
-end_date: '2025-03-04 17:00'
+  - inside-out-community
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-02-28 11:00'
+end_date: '2025-02-28 13:00'
 free: true
 virtual: false
-attendance_information: 'young people'
+attendance_information: 'adults with emotional and mental health needs'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -109,69 +109,92 @@ content_area:
     content:
       -
         type: text
-        text: "Need a quick space to do your homework? Join us at the Eastern Angles Centre for Homework Club! There'll be someone at each session to supervise and support you with your homework,\_ensuring all tasks set by their schools are completed on time. Free internet access, use of computers and printing will also be available, as well as free snacks!"
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'Our Creative Wellbeing Art Studios are overseen by Inside Out Community Programme Leaders, Allan Williams and Karen Densham and take place at Eastern Angles Centre on a Wednesday afternoon and Friday morning.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: 'Before making your first booking you will need to complete a sign up form. Visit the Eastern Angles website to download a copy of the '
+        text: 'There is an option to bring in your own activity or subject for exploration or to use the weekly ‘themed’ activity outlined by either the programme leaders or visiting artist. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "The sessions are open to anyone aged over 18 looking to improve their mental health or emotional wellbeing.\_No previous experience of the arts is necessary.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "No need to book,\_ just come along and try it for yourself.\_Visit the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://easternangles.co.uk/homework-club'
+              href: 'https://www.insideoutcommunity.com/'
               rel: null
               target: _blank
               title: null
-        text: 'Homework Club sign up form'
+        text: 'Inside Out Community website'
       -
         type: text
-        text: .
+        text: " to find out the theme for this week's workshop. "
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: "All attendees, parents and guardians are also asked to read\_Homework Club Terms & Conditions and Behaviour Policy which can be viewed on the"
+        text: 'For more information email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://easternangles.co.uk/homework-club'
+              href: 'mailto:hello@insideoutcommunity.com'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: ' Eastern Angles website'
+        text: hello@insideoutcommunity.com
       -
         type: text
-        text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: ' or telephone '
       -
         type: text
-        text: "Once we've got all the info from your sign up form, simply book your place online or over the phone on 01473 211498. Booking for each session will open one week before the session."
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473 563900'
+              rel: null
+              target: null
+              title: null
+        text: '01473 563900'
+      -
+        type: text
+        text: ".\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739867643
-booking_link: 'https://easternangles.co.uk/after-school-club'
+updated_at: 1739869199
+booking_link: 'https://www.insideoutcommunity.com/programme/#art_studio'
 cta: |-
-  This event is organised by Eastern Angles
+  This event is organised by Inside Out Community
 
-  [https://easternangles.co.uk/](https://easternangles.co.uk/) 
+  [https://www.insideoutcommunity.com/](https://www.insideoutcommunity.com/) 
 
-  [admin@easternangles.co.uk ](mailto:admin@easternangles.co.uk)
+  [hello@insideoutcommunity.com](mailto:hello@insideoutcommunity.com)
 
-  [01473 211498](tel:01473211498)
+  [01473 563900](tel:01473563900)
 duplicated_from: 5fbf476f-b8b9-4868-8bd3-1296ba9ed669
 ---
-A safe space to do your homework and develop your education!
+Focus on your own independent creativity for wellbeing practice.
