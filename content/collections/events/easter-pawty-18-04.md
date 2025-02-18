@@ -1,20 +1,19 @@
 ---
 id: d3d2e1a8-05a8-4e35-bb93-0f147ff81c8a
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Easter Paw-ty at the Museum 2025'
 event_categories:
   - museums
   - early-years
   - family-friendly
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-05-09 11:00'
-end_date: '2025-05-09 12:00'
+featured_image: pelicanpelican-3x2/later_nature-(1).png
+start_date: '2025-04-18 10:00'
+end_date: '2025-04-18 17:00'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children'
+attendance_information: 'family friendly'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,7 +134,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: 'Think you have the cutest pup or dog with the waggiest tail? Then this is a party you won’t want to miss! Come and celebrate Easter with us and join in with our doggie themed events, including our Fun Dog Show, displays in the arena, have a go opportunities, creative activities and our Easter Trail, which has been tailored for families, as well as pooches! There will also be a chance to shop, with stalls for you and your furry friend.'
   -
     type: paragraph
     attrs:
@@ -143,7 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
+        text: 'Admission to the Easter Paw-ty is £5 per adult and £3 per child, with pre-booking available now! Entry to the dog show is £2 per class, made payable on the day. Admission only includes access to the outside areas of the museum.'
   -
     type: paragraph
     attrs:
@@ -151,29 +150,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your pre-school place, please email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:info@nhrm.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: info@nhrm.co.uk
-      -
-        type: text
-        text: .
+        text: 'All dogs must be kept on leads while within the Museum grounds.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -183,7 +160,9 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730815406
+updated_at: 1739887594
 duplicated_from: fc011e96-751f-4d05-85aa-c592b746b522
+cost_details: '£5 per adult, £3 per child'
+booking_link: 'https://www.nhrm.co.uk/events/easter-paw-ty-at-the-museum-2025/'
 ---
-Free, creative play sessions, designed to educate and entertain!
+You are invited to an Easter Paw-ty at the National Horseracing Museum!
