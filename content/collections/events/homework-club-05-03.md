@@ -1,7 +1,7 @@
 ---
 id: e8fb5d6d-fd56-4595-8884-5ca8c9220a79
 blueprint: events
-title: 'Homework Club'
+title: 'After-School Club'
 event_categories:
   - teen
   - languages
@@ -161,7 +161,7 @@ content_area:
         type: text
         text: "Once we've got all the info from your sign up form, simply book your place online or over the phone on 01473 211498. Booking for each session will open one week before the session."
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730387439
+updated_at: 1739867645
 booking_link: 'https://easternangles.co.uk/after-school-club'
 cta: |-
   This event is organised by Eastern Angles
