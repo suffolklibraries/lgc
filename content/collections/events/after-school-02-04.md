@@ -1,8 +1,7 @@
 ---
 id: 7068d044-51b7-4bf3-8a4a-db535eb82bbf
-published: false
 blueprint: events
-title: 'After-School Club (Duplicated)'
+title: 'After-School Club'
 event_categories:
   - teen
   - languages
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-04-01 15:30'
-end_date: '2025-04-01 17:00'
+start_date: '2025-04-02 15:30'
+end_date: '2025-04-02 17:00'
 free: true
 virtual: false
 attendance_information: 'young people'
@@ -202,7 +201,7 @@ content_area:
         type: text
         text: "Once we've got all the info from your sign up form, simply come along to your first session and let the staff know if you're coming back next week. We do have a limited capacity so please make sure to let us know if you will be attending so we can add your name to our register and ensure we have a space for you.\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739867967
+updated_at: 1739868029
 booking_link: 'https://easternangles.co.uk/after-school-club'
 cta: |-
   This event is organised by Eastern Angles
@@ -214,4 +213,4 @@ cta: |-
   [01473 211498](tel:01473211498)
 duplicated_from: 54fd4697-1d9d-47d4-acb9-91d4c13c9139
 ---
-A safe space to do your homework and develop your education!
+Homework and creative learning with Eastern Angles
