@@ -1,8 +1,7 @@
 ---
 id: 487f7761-3137-4b8a-b2bf-3e2514ebb98a
-published: false
 blueprint: events
-title: 'Creative Wellbeing Art Studio (Duplicated)'
+title: 'Creative Wellbeing Art Studio'
 event_categories:
   - art
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - inside-out-community
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-02-28 11:00'
-end_date: '2025-02-28 13:00'
+start_date: '2025-03-05 14:00'
+end_date: '2025-03-05 16:00'
 free: true
 virtual: false
 attendance_information: 'adults with emotional and mental health needs'
@@ -186,7 +185,7 @@ content_area:
         type: text
         text: ".\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739869199
+updated_at: 1739869378
 booking_link: 'https://www.insideoutcommunity.com/programme/#art_studio'
 cta: |-
   This event is organised by Inside Out Community
