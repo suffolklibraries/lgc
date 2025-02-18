@@ -1,8 +1,7 @@
 ---
 id: 39254cd5-f68f-48bb-8798-5eba20d0eda0
-published: false
 blueprint: events
-title: 'Cosy Club (Duplicated)'
+title: 'Cosy Club'
 event_categories:
   - museums
   - early-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-03-11 10:00'
-end_date: '2025-03-11 17:00'
+start_date: '2025-03-18 10:00'
+end_date: '2025-03-18 17:00'
 free: true
 virtual: false
 attendance_information: 'family friendly'
@@ -175,7 +174,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739888278
+updated_at: 1739888304
 duplicated_from: c0256ac2-56c7-46f7-bd7d-3f11c05437be
 ---
 Calling all families to save the date!
