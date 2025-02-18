@@ -11,7 +11,7 @@ organisers:
 featured_image: pelicanpelican-3x2/later_nature-(1).png
 start_date: '2025-04-18 10:00'
 end_date: '2025-04-18 17:00'
-free: true
+free: false
 virtual: false
 attendance_information: 'family friendly'
 accessibility_information:
@@ -160,7 +160,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739887594
+updated_at: 1739888058
 duplicated_from: fc011e96-751f-4d05-85aa-c592b746b522
 cost_details: '£5 per adult, £3 per child'
 booking_link: 'https://www.nhrm.co.uk/events/easter-paw-ty-at-the-museum-2025/'
