@@ -1,18 +1,18 @@
 ---
 id: e6527ea1-7e7d-4ee8-b346-2b2db5bdc4de
-published: false
 blueprint: events
-title: 'Lowestoft Movers (Duplicated)'
+title: 'Lowestoft Movers'
 event_categories:
   - wellbeing
   - community
   - later-years
   - dance
+  - movement
 organisers:
-  - the-seagull-theatre
-featured_image: pelicanpelican-3x2/olderpeople.png
-start_date: '2025-03-28 10:00'
-end_date: '2025-03-28 11:30'
+  - alysha-hudson-dance-yoga-movement
+featured_image: pelicanpelican-3x2/dance.png
+start_date: '2025-04-11 10:00'
+end_date: '2025-04-11 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -127,15 +127,13 @@ content_area:
               title: null
         text: '07984 756499'
 cta: |-
-  This event is organised by The Seagull Theatre
+  This event is organised by Alysha Hudson Dance
 
-  [https://theseagull.co.uk/](https://theseagull.co.uk/)
+  [Alyshalouisehudson@outlook.com](mailto:Alyshalouisehudson@outlook.com)
 
-  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
-
-  [0333 666 3366](tel:03336663366)
+  [07984 756499](tel:07984756499)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733318948
+updated_at: 1739866692
 duplicated_from: 02d2680a-c39e-48f3-83ac-1000917c0879
 cost_details: £5
 attendance_information: 'people aged 55+'
