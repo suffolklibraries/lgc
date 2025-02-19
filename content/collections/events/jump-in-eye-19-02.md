@@ -153,5 +153,6 @@ updated_at: 1737621674
 duplicated_from: 018ed3ad-00ca-4250-aa9d-e373a20d94a8
 address_line_2: 'Cross Street'
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/jump-in-at-eye'
+published: false
 ---
 Jump In to our joyful adventure of dance and sound.
