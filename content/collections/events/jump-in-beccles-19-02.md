@@ -186,5 +186,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738749894
 duplicated_from: d617ecea-fe73-4dd1-92b7-dfbd0aaa310e
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/jump-in-at-beccles'
+published: false
 ---
 Jump In to our joyful adventure of dance and sound.
