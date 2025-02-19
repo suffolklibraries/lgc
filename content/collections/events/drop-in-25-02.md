@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-02-25 16:00'
-end_date: '2025-02-25 18:00'
+start_date: '2025-02-25 17:00'
+end_date: '2025-02-25 19:00'
 free: true
 virtual: false
 attendance_information: 'For young people aged 16 to 19'
@@ -129,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739974143
+updated_at: 1739974232
 duplicated_from: c1be2d26-b591-4366-abbd-6edda57bf149
 ---
 Hang out in a chill and comfortable space.
