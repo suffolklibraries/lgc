@@ -108,7 +108,18 @@ content_area:
         type: hardBreak
       -
         type: text
-        text: "​No audition or\_booking necessary, just come along to try it out. "
+        text: "​No audition or\_booking necessary, just come along to try it out. Contact Pat for more information via "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:jandpthewoodhouse@gmail.com'
+              rel: null
+              target: null
+              title: null
+        text: jandpthewoodhouse@gmail.com
   -
     type: paragraph
     attrs:
@@ -119,7 +130,7 @@ content_area:
         text: 'The group meet in the community room at the Co-op (near the café).'
 cta: 'This event is organised by the OffCut Choir'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739794402
+updated_at: 1739979215
 duplicated_from: 9eb46d56-3b9e-498d-addb-5539bf49433b
 ---
 Come along to join our welcoming choir.
