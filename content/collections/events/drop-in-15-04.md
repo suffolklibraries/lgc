@@ -1,8 +1,7 @@
 ---
 id: 196a9366-fdd6-4116-866f-e29d35ed7f56
-published: false
 blueprint: events
-title: 'Drop-In - ages 16 - 19 (Duplicated)'
+title: 'Drop-In - ages 16 - 19'
 event_categories:
   - teen
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-04-08 17:00'
-end_date: '2025-04-08 19:00'
+start_date: '2025-04-15 17:00'
+end_date: '2025-04-15 19:00'
 free: true
 virtual: false
 attendance_information: 'For young people aged 16 to 19'
@@ -130,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739974337
+updated_at: 1739975294
 duplicated_from: e751ad80-8185-4dc7-9fef-8768cd6e9e9a
 ---
 Hang out in a chill and comfortable space.
