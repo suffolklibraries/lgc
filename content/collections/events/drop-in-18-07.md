@@ -129,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739976763
+updated_at: 1739978735
 duplicated_from: 65671286-c5e9-43eb-8fe0-1845254d7b97
 ---
 Hang out in a chill and comfortable space.
