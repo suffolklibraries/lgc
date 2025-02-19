@@ -113,5 +113,6 @@ latitude: '52.06086753545018'
 longitude: '1.1508338836159457'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738659868
+published: false
 ---
 Join us for a series of free photography workshops in Ipswich.

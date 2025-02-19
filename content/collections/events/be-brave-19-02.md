@@ -192,5 +192,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-felixstowe'
+published: false
 ---
 Come along to the library to play with poems this half-term!
