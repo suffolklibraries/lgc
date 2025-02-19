@@ -1,8 +1,7 @@
 ---
 id: bddf480b-b929-4ecf-b1b3-dae828c5a574
-published: false
 blueprint: events
-title: 'Drop-In - year 7 and 8 (Duplicated)'
+title: 'Drop-In - year 7 and 8'
 event_categories:
   - teen
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-07-07 16:00'
-end_date: '2025-07-07 18:00'
+start_date: '2025-07-14 16:00'
+end_date: '2025-07-14 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 7 and 8'
@@ -130,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739973900
+updated_at: 1739973933
 duplicated_from: 8b904640-56cc-41d5-8f76-0d0afe2ea945
 ---
 Hang out in a chill and comfortable space.
