@@ -94,5 +94,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738831504
 duplicated_from: bafc879c-1f9b-4740-9bb3-0a7e46cbbe8f
 attendance_information: 'everyone welcome'
+published: false
 ---
 Poets, rappers, storytellers, originals, and covers welcome!
