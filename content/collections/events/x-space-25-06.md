@@ -1,16 +1,15 @@
 ---
 id: 55e77efe-632f-4ac3-aae5-45a657d58fa7
-published: false
 blueprint: events
-title: 'X-Space (Duplicated)'
+title: X-Space
 event_categories:
   - teen
   - community
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-05-28 17:00'
-end_date: '2025-05-28 19:00'
+start_date: '2025-06-25 17:00'
+end_date: '2025-06-25 19:00'
 free: true
 virtual: false
 attendance_information: 'For people aged 18 to 25 years old'
@@ -129,7 +128,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739978912
+updated_at: 1739978993
 duplicated_from: dea92bcb-1e5b-437c-83cf-bce681d536bf
 ---
 Hang out in a chill and comfortable space.
