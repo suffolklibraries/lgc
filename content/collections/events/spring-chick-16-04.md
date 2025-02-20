@@ -1,17 +1,16 @@
 ---
 id: 60a1ed4d-2de2-47f3-b2e5-c24fc0da9584
-published: false
 blueprint: events
-title: 'Spring into Spring: Keyrings (Duplicated)'
+title: 'Spring into Spring: Pop-Up Chick'
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/spring-keyrings.png
-start_date: '2025-04-15 10:00'
-end_date: '2025-04-15 16:00'
+featured_image: ipswichmuseums/spring-3x2.png
+start_date: '2025-04-16 10:00'
+end_date: '2025-04-16 16:00'
 free: false
 virtual: false
 attendance_information: 'family friendly'
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Choose from one of our 45-minute sessions at 10 AM, 11 AM, 1 PM, 2 PM, or 3 PM, and create your own badge and keyring inspired by Easter or spring.'
+        text: 'Join us on 16 April 2025 for one of our sessions at 10 AM, 11 AM, 1 PM, 2 PM, or 3 PM for a selection of spring-themed crafts. Make your own wiggly caterpillar or pop-up chick to take home.'
   -
     type: paragraph
     attrs:
@@ -37,24 +36,8 @@ content_area:
     content:
       -
         type: text
-        text: 'Let your creativity shine as you design a miniature artwork, which will be transformed into a badge and keyring for you to take home. You’ll also have the chance to make a beautifully decorated Easter card. All materials and equipment are provided, and our artist will provide full guidance.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'These sessions are suitable for children aged 5 and over, accompanied by a parent or carer who must remain throughout. Younger children are welcome but may find some activities challenging.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The workshop will be held in the Great Hall, which is fully accessible and located on the ground floor. Come along and get creative!'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/spring-keyrings/'
+        text: 'This is an interactive session for children aged 5+ and their parents and carers. Parents/carers must remain with their children throughout. The sessions will be held in the Great Hall on the ground floor.'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/spring-pop-up/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -65,7 +48,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740039977
+updated_at: 1740040127
 duplicated_from: d0eb7d20-0d08-48f4-bf8a-27d8b3c1b8b9
 cost_details: £5
 accessibility_information:
