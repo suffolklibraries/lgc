@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: "Text reads 'book online' and image shows painted and cartoon eggs"
 size: 710404
 last_modified: 1740067278
 width: 800
