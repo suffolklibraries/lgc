@@ -1,6 +1,7 @@
-data: {  }
+data:
+  alt: 'An adult reads a story book to three children'
 size: 862886
-last_modified: 1709806400
+last_modified: 1731598827
 width: 1080
 height: 675
 mime_type: image/jpeg
