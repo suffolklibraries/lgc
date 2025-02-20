@@ -1,16 +1,15 @@
 ---
 id: 5bc6381e-7017-4387-8d63-e33a0c274a89
-published: false
 blueprint: events
-title: 'Mini Mansions (Duplicated) (Duplicated)'
+title: 'Mini Mansions'
 event_categories:
   - art
   - early-years
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2025-03-05 10:00'
-end_date: '2025-03-05 12:00'
+start_date: '2025-04-02 10:00'
+end_date: '2025-04-02 12:00'
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 2½  – 4'
@@ -81,7 +80,7 @@ content_area:
     attrs:
       textAlign: left
       level: 3
-booking_link: 'https://ipswich.cimuseums.org.uk/events/minimansions-mar/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-apr/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -92,7 +91,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740039465
+updated_at: 1740039591
 duplicated_from: 2c99c85e-b226-4ede-b084-4d61d204bb34
 cost_details: £3
 accessibility_information:
