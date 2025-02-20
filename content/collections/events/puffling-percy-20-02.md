@@ -112,5 +112,6 @@ updated_at: 1730107247
 duplicated_from: bf4540c7-fd0f-4cd4-a7c6-c214d5431af9
 attendance_information: '- family friendly'
 booking_link: 'https://theseagull.co.uk/seagull_shows/puffling-percy/'
+published: false
 ---
 An uplifting children’s show for 4-11 year olds about friendship, overcoming self-doubt and trusting your own instincts.
