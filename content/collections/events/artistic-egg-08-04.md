@@ -1,17 +1,16 @@
 ---
 id: 82abd460-ba47-47b3-94f3-6d91ba7370e2
-published: false
 blueprint: events
-title: 'Spring into Spring: Pop-Up Chick (Duplicated)'
+title: 'Spring into Spring: Artistic Egg Decorating'
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/spring-3x2.png
-start_date: '2025-04-16 10:00'
-end_date: '2025-04-16 16:00'
+featured_image: ipswichmuseums/egg-3x2.png
+start_date: '2025-04-08 10:00'
+end_date: '2025-04-08 16:00'
 free: false
 virtual: false
 attendance_information: 'family friendly'
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us on 16 April 2025 for one of our sessions at 10 AM, 11 AM, 1 PM, 2 PM, or 3 PM for a selection of spring-themed crafts. Make your own wiggly caterpillar or pop-up chick to take home.'
+        text: 'This event has 45-minute sessions available to book at 10 AM, 11 AM, 1 PM, 2 PM, and 3 PM.'
   -
     type: paragraph
     attrs:
@@ -37,8 +36,24 @@ content_area:
     content:
       -
         type: text
-        text: 'This is an interactive session for children aged 5+ and their parents and carers. Parents/carers must remain with their children throughout. The sessions will be held in the Great Hall on the ground floor.'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/spring-pop-up/'
+        text: 'Be inspired by the patterns on traditional Ukrainian pysanky eggs, by nature around us, or just let your imagination run wild!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We will use collage and decoupage techniques on an eco-friendly egg model, using PVA glue and a variety of materials so you can treasure it for years to come. Please bring a small container to transport your artistic egg home safely.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This session is suitable for anyone aged 6+. Younger children may need help from an adult. Under 16s must be accompanied by a parent/carer throughout.'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/artistic-egg-decorating/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -49,7 +64,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740040127
+updated_at: 1740067338
 duplicated_from: 60a1ed4d-2de2-47f3-b2e5-c24fc0da9584
 cost_details: £5
 accessibility_information:
@@ -109,4 +124,4 @@ directions:
               title: null
         text: 'Access at Christchurch Mansion'
 ---
-A fun, interactive craft session designed for young children and their parents, grandparents, or carers.
+Come along to decorate your own artistic model egg, ready for spring.
