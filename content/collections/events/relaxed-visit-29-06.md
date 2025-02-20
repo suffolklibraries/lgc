@@ -1,8 +1,7 @@
 ---
 id: 5f5f9d84-0672-4798-a9c8-b2b5694b3020
-published: false
 blueprint: events
-title: 'Christchurch Mansion - relaxed visit (Duplicated) (Duplicated) (Duplicated)'
+title: 'Christchurch Mansion - relaxed visit'
 event_categories:
   - wellbeing
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christchurch-mansion-3x2.png
-start_date: '2025-03-30 11:00'
-end_date: '2025-03-30 12:00'
+start_date: '2025-06-29 11:00'
+end_date: '2025-06-29 12:00'
 free: true
 virtual: false
 attendance_information: '- people who have sensory requirements'
@@ -129,7 +128,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730126347
+updated_at: 1740039040
 duplicated_from: e2afa57e-ffec-40ac-876a-41257c86bb53
 ---
 Join us on the last Sunday of the month for a more relaxed time.
