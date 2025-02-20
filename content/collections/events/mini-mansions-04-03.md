@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2024-09-03 10:00'
-end_date: '2024-09-04 12:00'
+start_date: '2025-03-04 10:00'
+end_date: '2025-03-04 12:00'
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 2½  – 4'
@@ -91,7 +91,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740039435
+updated_at: 1740039499
 duplicated_from: 5bd15965-2e58-405e-9581-27429e505d2a
 cost_details: £3
 accessibility_information:
