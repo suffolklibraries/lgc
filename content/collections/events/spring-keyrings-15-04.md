@@ -1,19 +1,19 @@
 ---
 id: d0eb7d20-0d08-48f4-bf8a-27d8b3c1b8b9
-published: false
 blueprint: events
-title: 'Mini Mansions (Duplicated)'
+title: 'Spring into Spring: Keyrings'
 event_categories:
   - art
-  - early-years
+  - family-friendly
+  - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2025-03-04 10:00'
-end_date: '2025-03-04 12:00'
+featured_image: ipswichmuseums/spring-keyrings.png
+start_date: '2025-04-15 10:00'
+end_date: '2025-04-15 16:00'
 free: false
 virtual: false
-attendance_information: 'Suitable for ages 2½  – 4'
+attendance_information: 'family friendly'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_1: 'Christchurch Mansion'
@@ -22,14 +22,13 @@ town: Ipswich
 postcode: 'IP4 2BE'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
       textAlign: left
-      level: 3
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Choose from one of our 45-minute sessions at 10 AM, 11 AM, 1 PM, 2 PM, or 3 PM, and create your own badge and keyring inspired by Easter or spring.'
   -
     type: paragraph
     attrs:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for June is ‘The Alphabet’.'
+        text: 'Let your creativity shine as you design a miniature artwork, which will be transformed into a badge and keyring for you to take home. You’ll also have the chance to make a beautifully decorated Easter card. All materials and equipment are provided, and our artist will provide full guidance.'
   -
     type: paragraph
     attrs:
@@ -45,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Parents/carers must stay with their children throughout the session.'
+        text: 'These sessions are suitable for children aged 5 and over, accompanied by a parent or carer who must remain throughout. Younger children are welcome but may find some activities challenging.'
   -
     type: paragraph
     attrs:
@@ -53,35 +52,8 @@ content_area:
     content:
       -
         type: text
-        text: 'The main session will be on the ground floor, with pushchair access to the Wolsey Art Gallery via the side garden entrance. Part of the session may involve exploring the Mansion using the stairs. Please let us know if you have any access requirements when you book, as there is no lift.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'You can book your ticket via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://ipswich.cimuseums.org.uk/events/'
-              rel: null
-              target: _blank
-              title: null
-        text: "Ipswich Museums' website"
-      -
-        type: text
-        text: '. Choose from a range of 45-minute sessions - 10am - 10.45am and 11.15am - midday'
-  -
-    type: heading
-    attrs:
-      textAlign: left
-      level: 3
-booking_link: 'https://ipswich.cimuseums.org.uk/events/minimansions-mar/'
+        text: 'The workshop will be held in the Great Hall, which is fully accessible and located on the ground floor. Come along and get creative!'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/spring-keyrings/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -92,10 +64,11 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740039499
+updated_at: 1740039977
 duplicated_from: 44d7f6b1-42b2-49a0-8f30-bc2b7fd41d52
-cost_details: £3
+cost_details: £5
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Accessible toilets'
 directions:
   -
@@ -151,4 +124,4 @@ directions:
               title: null
         text: 'Access at Christchurch Mansion'
 ---
-Join our interactive sessions for children aged 2½  – 4 and their parents, grandparents and carers.
+A fun, interactive craft session designed for young children and their parents, grandparents, or carers.
