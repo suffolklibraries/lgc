@@ -1,14 +1,13 @@
 ---
 id: 36fdd4e2-4e14-4905-9ebf-27d239cde46a
-published: false
 blueprint: events
-title: 'Beccles Community Choir (Duplicated) (Duplicated)'
+title: 'Beccles Community Choir'
 event_categories:
   - music
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-11-11 18:00'
-end_date: '2025-11-11 19:30'
+start_date: '2025-12-09 18:00'
+end_date: '2025-12-09 19:30'
 free: false
 cost_details: '£5 per session'
 virtual: false
@@ -152,7 +151,7 @@ cta: |-
 
   [07909 510976](tel:07909510976)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740038720
+updated_at: 1740038760
 duplicated_from: 22e4286f-4d6d-48fc-9277-d932fafcc00b
 ---
 Friendly and informal, singing all styles of music.
