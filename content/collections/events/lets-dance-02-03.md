@@ -4,7 +4,7 @@ blueprint: events
 title: 'Let’s Dance!'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740069285
+updated_at: 1740069372
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2025-03-02 10:00'
@@ -15,7 +15,7 @@ organisers:
 address_line_1: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: offthepressimages/new_resized_images/Dance_Ballet.png
+featured_image: pelicanpelican-3x2/dance_ballet-(1).png
 content_area:
   -
     type: paragraph
