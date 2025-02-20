@@ -1,17 +1,16 @@
 ---
 id: 5ff2f229-9400-44ae-baca-26f3b902db3a
-published: false
 blueprint: events
-title: 'Spring into Spring: Artistic Egg Decorating (Duplicated)'
+title: 'Make an Anglo-Saxon Style Clay Pot'
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/egg-3x2.png
-start_date: '2025-04-08 10:00'
-end_date: '2025-04-08 16:00'
+featured_image: ipswichmuseums/clay-pot-3x2.png
+start_date: '2025-04-09 10:00'
+end_date: '2025-04-09 16:00'
 free: false
 virtual: false
 attendance_information: 'family friendly'
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event has 45-minute sessions available to book at 10 AM, 11 AM, 1 PM, 2 PM, and 3 PM.'
+        text: 'Did you know that Ipswich is famous for its Anglo-Saxon pottery? It’s called Ipswich Ware!'
   -
     type: paragraph
     attrs:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Be inspired by the patterns on traditional Ukrainian pysanky eggs, by nature around us, or just let your imagination run wild!'
+        text: 'This event on 9 April 2025 will have 45-minute sessions at 10 AM, 11 AM, 1 PM, 2 PM, and 3 PM. '
   -
     type: paragraph
     attrs:
@@ -45,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We will use collage and decoupage techniques on an eco-friendly egg model, using PVA glue and a variety of materials so you can treasure it for years to come. Please bring a small container to transport your artistic egg home safely.'
+        text: 'All materials and full guidance will be provided. We will use air-drying clay, so please bring a small container to transport your creations home safely.'
   -
     type: paragraph
     attrs:
@@ -54,7 +53,15 @@ content_area:
       -
         type: text
         text: 'This session is suitable for anyone aged 6+. Younger children may need help from an adult. Under 16s must be accompanied by a parent/carer throughout.'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/artistic-egg-decorating/'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'The workshop will take place in the Ceramics and Glass Gallery, which is located on the ground floor and is accessible to all.'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/anglo-saxon-pot/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -65,7 +72,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740067338
+updated_at: 1740067499
 duplicated_from: 82abd460-ba47-47b3-94f3-6d91ba7370e2
 cost_details: £5
 accessibility_information:
@@ -125,4 +132,4 @@ directions:
               title: null
         text: 'Access at Christchurch Mansion'
 ---
-Come along to decorate your own artistic model egg, ready for spring.
+Make your own miniature Anglo-Saxon-style clay pot inspired by real museum artefacts.
