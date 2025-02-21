@@ -158,5 +158,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1736939416
 duplicated_from: e9fdef7d-8fb8-4cff-86b9-5813f5500582
 booking_link: 'https://www.eastpointpavilion.com/events/first-light-fridays-ya3dj-6tdpr'
+published: false
 ---
 Come along and join our making sessions at East Point Pavilion.
