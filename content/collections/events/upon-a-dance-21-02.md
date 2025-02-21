@@ -248,5 +248,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/workshops/once-upon-a-dance-3/'
+published: false
 ---
 Bring your favourite storybook characters to life!
