@@ -94,5 +94,6 @@ updated_at: 1733224453
 duplicated_from: a046cd51-e683-4845-984c-3408f9c29812
 cost_details: '£5 per person'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-card-making-with-stencils/e-gxgpvx'
+published: false
 ---
 Come along to our card making with stencils workshop for 2 hours of creative fun.
