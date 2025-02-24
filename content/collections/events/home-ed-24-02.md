@@ -150,5 +150,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731322002
 duplicated_from: a97dcb0c-51d8-4d4c-bad5-d3dab8aebd90
+published: false
 ---
 If you're home-educated and aged between 11-16 years old just drop-in!
