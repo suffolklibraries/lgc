@@ -1,8 +1,7 @@
 ---
 id: 5726aa63-c6a5-485f-b540-ed4267e57a09
-published: false
 blueprint: events
-title: 'ActivSheds - mixed group (Duplicated)'
+title: 'ActivSheds - mixed group'
 event_categories:
   - nature
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: activlives/activsheds.png
-start_date: '2025-03-27 09:30'
-end_date: '2025-03-27 15:30'
+start_date: '2025-04-03 09:30'
+end_date: '2025-04-03 15:30'
 free: true
 virtual: false
 latitude: '52.03960215792138'
@@ -148,7 +147,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730804142
+updated_at: 1740503006
 duplicated_from: 749186ce-2353-44ad-8f24-68aab64f339e
 attendance_information: |-
   people with illness
