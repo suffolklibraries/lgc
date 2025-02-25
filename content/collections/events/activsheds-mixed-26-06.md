@@ -1,6 +1,5 @@
 ---
 id: 4d45d35a-1729-4a50-bc95-0221d054efa1
-published: false
 blueprint: events
 title: 'ActivSheds - mixed group (Duplicated) (Duplicated)'
 event_categories:
@@ -148,7 +147,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740503268
+updated_at: 1740503301
 duplicated_from: 771a0ff0-228b-4503-8231-c4c427aa82aa
 attendance_information: |-
   people with illness
