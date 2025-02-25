@@ -187,5 +187,6 @@ event_categories:
   - later-years
   - wellbeing
   - community
+published: false
 ---
 Join our friendly weekly theatre group at the Theatre Royal.
