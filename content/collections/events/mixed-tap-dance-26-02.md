@@ -131,5 +131,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Absolute beginners welcome to practice tap dance with Jill
