@@ -1,8 +1,7 @@
 ---
 id: 8a88e934-c42f-4328-8456-e7f271766610
-published: false
 blueprint: events
-title: "Let's Move Together (Duplicated)"
+title: "Let's Move Together"
 event_categories:
   - community
   - movement
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - new-wolsey-theatre
 featured_image: pelicanpelican-3x2/wellbeing-1730796993.png
-start_date: '2025-03-05 10:30'
-end_date: '2025-03-05 12:30'
+start_date: '2025-03-12 10:30'
+end_date: '2025-03-12 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -160,7 +159,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740588612
+updated_at: 1740588632
 duplicated_from: 9e7ba2dc-24e6-43a1-83e1-ae0a0ce19aec
 attendance_information: 'people in receipt of benefits'
 ---
