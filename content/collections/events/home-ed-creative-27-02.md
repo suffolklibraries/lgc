@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-02-07 10:00'
-end_date: '2025-02-07 12:00'
+start_date: '2025-02-27 10:00'
+end_date: '2025-02-27 12:00'
 free: false
 virtual: false
 latitude: '52.0563490706618'
@@ -105,12 +105,11 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1734004860
+updated_at: 1740570345
 duplicated_from: fca2fab8-1dc6-4488-8148-bddfa74cdd90
-cost_details: '£5 per person'
+cost_details: '£6 per person'
 accessibility_information:
   - 'Autism friendly'
 attendance_information: 'children aged 8 - 14 years'
-published: false
 ---
 Home Educated young artists are invited to create with us in a calm and quiet inclusive space.
