@@ -1,16 +1,16 @@
 ---
 id: 9e7ba2dc-24e6-43a1-83e1-ae0a0ce19aec
 blueprint: events
-title: 'Group for Grown-Ups of 1 to 2 year olds'
+title: "Let's Move Together"
 event_categories:
-  - art
   - community
-  - literature
+  - movement
+  - wellbeing
 organisers:
   - new-wolsey-theatre
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2024-12-04 10:30'
-end_date: '2024-12-04 11:30'
+featured_image: pelicanpelican-3x2/wellbeing-1730796993.png
+start_date: '2025-03-05 10:30'
+end_date: '2025-03-05 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -119,7 +119,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These are a space to be creative with your little one and meet others sharing the same experience.'
+        text: 'Through little tasks and games, we will be playing with and investigating what movement we all do in our daily lives. We will look at how movement and contact can make us more confident in our professional lives. '
   -
     type: paragraph
     attrs:
@@ -127,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: "\_Free and open to anyone in receipt of benefits or engaging with the Jobcentre Plus."
+        text: "\_Free and open to anyone in receipt of benefits or engaging with the Jobcentre Plus. We'll have hot drinks and snacks too!"
   -
     type: paragraph
     attrs:
@@ -135,7 +135,7 @@ content_area:
     content:
       -
         type: text
-        text: "\_Sign up by emailing "
+        text: 'To give it a try or find out more, email '
       -
         type: text
         marks:
@@ -149,7 +149,7 @@ content_area:
         text: cdavis@wolseytheatre.co.uk
       -
         type: text
-        text: ' or speaking to your work coach.'
+        text: ' or chat to your work coach.'
 cta: |-
   This event is based at the New Wolsey Theatre
 
@@ -159,9 +159,8 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731313935
+updated_at: 1740588612
 duplicated_from: 9dd0a550-5b0e-4fc4-b3cf-b8639972add0
-attendance_information: 'carers of 1 - 2 year olds'
-published: false
+attendance_information: 'people in receipt of benefits'
 ---
-Be creative with your little one!
+Creative workshops exploring movement.
