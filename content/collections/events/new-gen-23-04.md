@@ -1,6 +1,5 @@
 ---
 id: 9378be79-2b87-4350-bd7b-e1bbe9916a1b
-published: false
 blueprint: events
 title: 'New Gen'
 event_categories:
@@ -92,7 +91,7 @@ content_area:
         type: text
         text: "​Our experienced tutors use their local networks to bring in local musicians and offer pre-gig interviews at The Smokehouse (live music venue) with artists.\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740561440
+updated_at: 1740562020
 booking_link: 'https://www.ipswichcm.org.uk/what-we-do'
 cta: |-
   This event is organised by Ipswich Community Media
