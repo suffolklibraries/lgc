@@ -104,5 +104,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
+published: false
 ---
 A weekly sketchbook club for 11-18 year olds.

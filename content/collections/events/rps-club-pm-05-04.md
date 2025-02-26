@@ -103,5 +103,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
+published: false
 ---
 You can drop your child off for creative fun with peace of mind.
