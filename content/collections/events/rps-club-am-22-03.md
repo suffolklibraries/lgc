@@ -1,7 +1,7 @@
 ---
 id: 4ff986fa-f52f-4bb0-8867-6687a2c5ead4
 blueprint: events
-title: 'Saturday Art Club - Weekly Space'
+title: 'Saturday Art Club - Morning'
 event_categories:
   - languages
   - family-friendly
@@ -33,7 +33,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740568614
+updated_at: 1740569241
 featured_image: pelicanpelican-3x2/lgc-va.png
 end_date: '2024-03-22 11:30'
 latitude: '52.0563490706618'
