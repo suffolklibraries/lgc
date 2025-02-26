@@ -1,15 +1,14 @@
 ---
 id: e47804f1-4c22-4697-bd9f-5a71ddb47ea9
-published: false
 blueprint: events
-title: 'Saturday Art Club - Weekly Space (Duplicated) (Duplicated)'
+title: 'Saturday Art Club - Weekly Space'
 event_categories:
   - languages
   - family-friendly
   - art
 organisers:
   - rock-paper-scissors
-start_date: '2024-03-15 10:00'
+start_date: '2024-03-29 10:00'
 free: false
 virtual: false
 content_area:
@@ -34,9 +33,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740568590
+updated_at: 1740568623
 featured_image: pelicanpelican-3x2/lgc-va.png
-end_date: '2024-03-15 11:30'
+end_date: '2024-03-29 11:30'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: '11 Dove Street'
