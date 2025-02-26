@@ -1,15 +1,14 @@
 ---
 id: f80296ed-59c7-416a-bdc6-1ec2d1ff9bbd
-published: false
 blueprint: events
-title: 'Debenham Shed (Duplicated)'
+title: 'Debenham Shed'
 event_categories:
   - community
   - later-years
   - nature
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-07-14 09:00'
-end_date: '2025-07-18 17:00'
+start_date: '2025-07-21 09:00'
+end_date: '2025-07-25 17:00'
 free: false
 cost_details: '£50 annual membership, with pay as you go schemes available'
 virtual: false
@@ -198,7 +197,7 @@ cta: |-
 
   [info@debenhamshed.org.uk](mailto:info@debenhamshed.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740583717
+updated_at: 1740583740
 duplicated_from: 49787bf5-16cf-4704-8055-c0d2923b542f
 ---
 A community space for people to connect, converse and create.
