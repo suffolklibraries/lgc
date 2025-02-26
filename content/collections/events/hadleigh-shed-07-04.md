@@ -196,7 +196,7 @@ cta: |-
 
   [hadleighmensshed@gmail.com](mailto:hadleighmensshed@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740564591
+updated_at: 1740564622
 duplicated_from: 416be673-483c-406b-89d8-673bbbb63b5f
 ---
 A community space for men to connect, converse and create.
