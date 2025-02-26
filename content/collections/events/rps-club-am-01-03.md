@@ -1,14 +1,14 @@
 ---
-id: a79f5d81-9ce6-4943-8e49-975d67773523
+id: e4ab74dd-b1c1-41c9-a3df-4407a8e70c62
 blueprint: events
-title: 'Saturday Art Club - Weekly Space'
+title: 'Saturday Art Club - Morning'
 event_categories:
   - languages
   - family-friendly
   - art
 organisers:
   - rock-paper-scissors
-start_date: '2024-03-08 10:00'
+start_date: '2024-03-01 10:00'
 free: false
 virtual: false
 content_area:
@@ -33,15 +33,15 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740568579
+updated_at: 1740569236
 featured_image: pelicanpelican-3x2/lgc-va.png
-end_date: '2024-03-08 11:30'
+end_date: '2024-03-01 11:30'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: '11 Dove Street'
 town: Ipswich
 postcode: 'IP4 1NG'
-duplicated_from: e4ab74dd-b1c1-41c9-a3df-4407a8e70c62
+duplicated_from: d056c816-225a-40fd-a6f5-73ac8a6bfb9d
 accessibility_information:
   - 'Autism friendly'
 cost_details: '£9 per session'
