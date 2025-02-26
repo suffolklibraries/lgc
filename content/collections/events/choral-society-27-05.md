@@ -1,14 +1,13 @@
 ---
 id: 67a7c792-7c7c-4ada-aab4-edfe38c5fb1d
-published: false
 blueprint: events
-title: 'Beccles Choral Society (Duplicated) (Duplicated)'
+title: 'Beccles Choral Society'
 event_categories:
   - music
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-05-13 19:30'
-end_date: '2025-05-13 21:30'
+start_date: '2025-05-27 19:30'
+end_date: '2025-05-27 21:30'
 free: false
 cost_details: '£145 per season'
 virtual: false
@@ -145,7 +144,7 @@ cta: |-
 
   [beccleschoralsecretary@gmail.com](mailto:beccleschoralsecretary@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740566870
+updated_at: 1740566901
 duplicated_from: d789d031-f79d-4159-9f9b-85439fdf42d2
 organisers:
   - beccles-choral-society
