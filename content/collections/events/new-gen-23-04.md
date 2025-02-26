@@ -11,8 +11,8 @@ event_categories:
 organisers:
   - ipswich-community-media
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-04-24 17:00'
-end_date: '2025-04-24 19:00'
+start_date: '2025-04-23 17:00'
+end_date: '2025-04-23 19:00'
 free: true
 virtual: false
 attendance_information: 'young people aged 13 - 19'
@@ -92,7 +92,7 @@ content_area:
         type: text
         text: "​Our experienced tutors use their local networks to bring in local musicians and offer pre-gig interviews at The Smokehouse (live music venue) with artists.\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740561352
+updated_at: 1740561440
 booking_link: 'https://www.ipswichcm.org.uk/what-we-do'
 cta: |-
   This event is organised by Ipswich Community Media
