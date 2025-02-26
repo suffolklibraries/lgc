@@ -1,8 +1,7 @@
 ---
 id: 603f4317-504c-48c2-9bd9-c352e1c533c9
-published: false
 blueprint: events
-title: 'New Gen (Duplicated)'
+title: 'New Gen'
 event_categories:
   - teen
   - languages
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - ipswich-community-media
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-05-07 17:00'
-end_date: '2025-05-07 19:00'
+start_date: '2025-05-14 17:00'
+end_date: '2025-05-14 19:00'
 free: true
 virtual: false
 attendance_information: 'young people aged 13 - 19'
@@ -92,7 +91,7 @@ content_area:
         type: text
         text: "​Our experienced tutors use their local networks to bring in local musicians and offer pre-gig interviews at The Smokehouse (live music venue) with artists.\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740561596
+updated_at: 1740562035
 booking_link: 'https://www.ipswichcm.org.uk/what-we-do'
 cta: |-
   This event is organised by Ipswich Community Media
