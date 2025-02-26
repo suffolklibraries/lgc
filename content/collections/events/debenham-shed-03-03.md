@@ -1,28 +1,25 @@
 ---
 id: 7d3cda51-01da-4682-b14a-3610da5d40e7
-published: false
 blueprint: events
-title: "Stour Valley Men's Shed (Duplicated)"
+title: 'Debenham Shed'
 event_categories:
   - community
   - later-years
   - nature
-organisers:
-  - stour-valley-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-03-03 10:00'
-end_date: '2025-03-07 14:00'
+start_date: '2025-03-03 09:00'
+end_date: '2025-03-07 17:00'
 free: false
-cost_details: '£20 annual membership'
+cost_details: '£50 annual membership, with pay as you go schemes available'
 virtual: false
-attendance_information: 'men aged over 18'
-latitude: '52.075594810233405'
-longitude: '0.7127062454693889'
-building_name: 'SkyLine Stadium'
-address_line_1: 'Long Melford Football Club grounds'
-address_line_2: 'New Road'
-town: 'Long Melford'
-postcode: 'CO10 9JY'
+attendance_information: 'all adults aged over 18'
+latitude: '52.21726048443284'
+longitude: '1.1755629067460722'
+building_name: '2 Fields Farm'
+address_line_1: 'Low Road'
+address_line_2: Debenham
+town: Stowmarket
+postcode: 'IP14 6BJ'
 directions:
   -
     type: paragraph
@@ -35,21 +32,21 @@ directions:
     content:
       -
         type: text
-        text: 'There is a bus stop '
+        text: 'There is a bus stop a '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: "https://www.google.com/maps/dir/Stour+Valley+Men's+Shed,+Football+Club,+New+Rd,+Long+Melford,+Sudbury+CO10+9JZ/Library,+Long+Melford,+Sudbury+CO10+9JT/@52.0746185,0.7142457,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d855c3f1b9c003:0xb04ee0637849292b!2m2!1d0.7126973!2d52.0755176!1m5!1m1!1s0x47d8545bcdae7d4f:0xa2942bb40e1cbe41!2m2!1d0.7164!2d52.075203!3e2?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D"
+              href: 'https://www.google.com/maps/dir/2,+2+Fields,+Fields,+Low+Road,+Debenham,+Stowmarket/Field+Way,+Debenham,+Stowmarket+IP14+6QY/@52.2195338,1.171632,16z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9979f49608521:0x5b79ef6502df3919!2m2!1d1.175579!2d52.2171093!1m5!1m1!1s0x47d997d182c21aa7:0x7810660959129194!2m2!1d1.177846!2d52.221954!3e2?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'a five minute walk'
+        text: '10 minute walk away'
       -
         type: text
-        text: ' away by the Library.'
+        text: .
   -
     type: paragraph
     content:
@@ -75,23 +72,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Traditional garden sheds can often be quite solitary in nature, while Men’s Shed are quite the opposite They are about social connections and friendship building, sharing skills and knowledge and of course, laughter. '
+        text: 'Irrespective of personal skills and abilities, all volunteers are encouraged to participate in tasks and given support and help when required, as well as guidance on health and safety when using specialist tools and equipment.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Sheds are about meeting like-minded people and having someone to share your worries with. They are about having fun, sharing skills and knowledge with one another, and gaining a renewed sense of purpose and belonging. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Information of some of the projects undertaken by the shed volunteers can be seen on our'
       -
         type: text
-        text: 'As a by-product of all that, they reduce isolation and feelings of loneliness, they allow people to deal with mental health challenges more easily and remain independent, they re-build community and in some cases, they help save lives.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://debenhamshed.org.uk/project-details/'
+              rel: null
+              target: _blank
+              title: null
+        text: ' Events and Projects '
+      -
+        type: text
+        text: 'page and more pictures of the various other activities in the shed can be found in '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://debenhamshed.org.uk/gallery/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'our gallery'
   -
     type: paragraph
     attrs:
@@ -107,7 +121,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Monday - 10am - 2pm'
+        text: 'Monday - 9am - midday'
   -
     type: paragraph
     attrs:
@@ -115,7 +129,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Wednesday - 10am - 2pm'
+        text: 'Friday - 10am - 5pm'
   -
     type: paragraph
     attrs:
@@ -123,7 +137,7 @@ content_area:
     content:
       -
         type: text
-        text: 'First and third Friday of the month - 10am - 2pm'
+        text: 'Occasional Saturdays'
   -
     type: paragraph
     attrs:
@@ -135,21 +149,21 @@ content_area:
     content:
       -
         type: text
-        text: 'To find out more and get in touch, visit the '
+        text: 'To join, find out more, and get in touch, visit the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.stourvalleymenssshed.com/'
+              href: 'https://debenhamshed.org.uk/'
               rel: null
               target: _blank
               title: null
-        text: "Stour Valley Men's Shed website"
+        text: 'Debenham Shed website'
       -
         type: text
-        text: .
+        text: '. '
   -
     type: paragraph
     attrs:
@@ -177,15 +191,13 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Stour Valley Men's Shed
+  This event is organised by Debenham Shed
 
-  [https://www.stourvalleymenssshed.com/](https://www.stourvalleymenssshed.com/)
+  [https://debenhamshed.org.uk/](https://debenhamshed.org.uk/)
 
-  [07949 411133](tel:07949411133)
-
-  [stourvalleymensshed@gmail.com](mailto:stourvalleymensshed@gmail.com)
+  [info@debenhamshed.org.uk](mailto:info@debenhamshed.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740578055
+updated_at: 1740583324
 duplicated_from: 13ad68d3-fe80-45e2-acb1-cc17905a3b6d
 ---
-A community space for men to connect, converse and create.
+A community space for people to connect, converse and create.
