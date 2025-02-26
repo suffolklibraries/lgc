@@ -1,15 +1,15 @@
 ---
 id: b079e2a8-6cd2-4a01-b502-36f8ec8b8016
-published: false
 blueprint: events
-title: 'Saturday Art Club - Weekly Space (Duplicated)'
+title: 'High School Sketchbook Club'
 event_categories:
   - languages
   - family-friendly
   - art
+  - teen
 organisers:
   - rock-paper-scissors
-start_date: '2024-03-08 10:00'
+start_date: '2024-03-01 10:00'
 free: false
 virtual: false
 content_area:
@@ -20,7 +20,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Rock Paper Scissors receives grant funding to enable our workshops to run successfully and safely, ensuring we can continue to offer these amazing experiences at the lowest cost possible.'
+        text: 'We have an open studio feel with creative prompts and access to materials and processes to illustrate, print make and create however you like!'
   -
     type: paragraph
     attrs:
@@ -28,15 +28,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Our staff are DBS checked, pediatric first aiders and have safeguarding training.'
+        text: 'Bring your own sketchbook or project or come ready to get inspired!'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740568579
+updated_at: 1740569055
 featured_image: pelicanpelican-3x2/lgc-va.png
-end_date: '2024-03-08 11:30'
+end_date: '2024-03-01 11:30'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: '11 Dove Street'
@@ -46,7 +46,7 @@ duplicated_from: a79f5d81-9ce6-4943-8e49-975d67773523
 accessibility_information:
   - 'Autism friendly'
 cost_details: '£9 per session'
-attendance_information: 'children aged 5 to 10 years'
+attendance_information: 'young people aged 11 - 16'
 building_name: 'Dove Street Studio'
 directions:
   -
@@ -105,4 +105,4 @@ directions:
         text: .
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 ---
-You can drop your child off for creative fun with peace of mind.
+A weekly sketchbook club for 11-18 year olds.
