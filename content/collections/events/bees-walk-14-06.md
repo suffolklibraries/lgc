@@ -1,8 +1,7 @@
 ---
 id: ede47430-244e-4c7c-a123-0aa1f176b595
-published: false
 blueprint: events
-title: 'Wild Families - Brilliant Bees (Duplicated)'
+title: 'Wild Families - Brilliant Bees'
 event_categories:
   - nature
   - family-friendly
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-06-14 10:00'
-end_date: '2025-06-14 12:00'
+start_date: '2025-06-14 13:00'
+end_date: '2025-06-14 15:00'
 free: false
-cost_details: '£8 per child and adults'
+cost_details: '£7 per person'
 virtual: false
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
@@ -59,7 +58,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us on the 2nd Saturday of the month for Wild Families!* A session for exploring the reserve, learning about wildlife, and taking action for nature. Guided by our Engagement Officer.'
+        text: 'Join our Engagement Officer Katy for an un-bee-lievable walk! Katy has a PhD in bumblebee behaviour and will show you the hidden world of these amazing insects as you explore our beautiful reserve.'
   -
     type: paragraph
     attrs:
@@ -67,7 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: "Ideal for spending time with Dad this Fathers' Day!"
+        text: 'Please note as with all nature encounters, we cannot guarantee sightings especially in poor weather.'
   -
     type: paragraph
     attrs:
@@ -75,15 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: "Sessions will vary each month but will typically involve a wildlife activity and a craft. This month's theme: Brilliant bees! Search for bees on the reserve, find out what makes them special, and make your own bee hotel to take home! Please bring an clean empty tin can for this session."
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "*Please note Wild Families may not run every month, we may instead have a big event on or a one-off pause. Please check our events pages for the most up-to-date information.\_"
+        text: 'This walk is aimed at adults but interested teens 11+ are welcome if accompanied by an adult with a ticket. We are also running bee themed Wild Families (5-11yo) and Young Naturalists (11-16yo) in June, please check our events page for more details.'
   -
     type: paragraph
     attrs:
@@ -106,7 +97,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-14-wild-families-brilliant-bees'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-14-wild-walks-brilliant-bees'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -116,7 +107,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740664824
+updated_at: 1740664900
 duplicated_from: e19198a7-b1c6-4739-8a08-3aedbda98260
 ---
 A family session to explore and take action for nature.
