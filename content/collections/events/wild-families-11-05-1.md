@@ -2,7 +2,7 @@
 id: 2e505fe2-9fbc-4838-aad5-9cf8bd361d78
 published: false
 blueprint: events
-title: 'Wild Families - Hedgehogs (Duplicated)'
+title: 'Wild Families - Dyke Dipping'
 event_categories:
   - nature
   - wellbeing
@@ -129,7 +129,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740658078
+updated_at: 1740667948
 duplicated_from: b76e619c-4521-4591-80ee-38b757b8204b
 accessibility_information:
   - 'Accessible toilets'
