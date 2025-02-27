@@ -1,21 +1,19 @@
 ---
 id: 87d00ff0-ca18-48f4-acea-3656fcf656cc
 blueprint: events
-title: 'Holiday Club at Bradfield Woods'
+title: 'Spring Wildflower Walk'
 event_categories:
   - nature
-  - teen
   - wellbeing
-  - family-friendly
+  - later-years
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-23 09:00'
-end_date: '2024-12-23 15:30'
-free: true
-cost_details: 'Free for children receiving free school meals'
+start_date: '2025-05-01 10:00'
+end_date: '2025-05-01 12:00'
+free: false
+cost_details: £5
 virtual: false
-attendance_information: 'suitable for children aged 6 - 11 years'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
 address_line_1: 'Bradfield Woods'
@@ -73,36 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Outdoors, forest free play, seasonal woodland crafts and games with lunch included.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'For children in receipt of benefit related free school meals, there are funded places available on EEQU from 20 November: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://eequ.org/experience/8747'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'https://eequ.org/experience/8747'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'All young people must be dropped off by an adult, who must confirm their emergency contact details and who will be collecting their child with the member of staff at the arrival point.'
+        text: 'Spend a morning exploring the woods looking at the wildflowers out at this time of the year.'
   -
     type: paragraph
     attrs:
@@ -125,7 +94,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-01-spring-wildflower-walk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -135,13 +104,12 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732105514
+updated_at: 1740657669
 duplicated_from: 27730f8a-36d4-43f8-8c1d-6031312083d8
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
-published: false
 ---
-Holiday club for 6 - 11 year olds.
+Discover Spring flowers in Bradfield Woods on this sociable stroll.
