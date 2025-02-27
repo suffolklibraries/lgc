@@ -1,8 +1,7 @@
 ---
 id: 31cece1b-2865-47fd-8424-aa93c5ef5caf
-published: false
 blueprint: events
-title: 'Bat Detectives Evening (Duplicated)'
+title: 'Bat Night at Carlton Marshes'
 event_categories:
   - nature
   - later-years
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-25 18:00'
-end_date: '2025-09-25 21:00'
+start_date: '2025-09-27 18:00'
+end_date: '2025-09-27 20:30'
 free: false
-cost_details: £5
+cost_details: £13
 virtual: false
 attendance_information: 'suitable for adults'
 latitude: '52.467464593763445'
@@ -88,7 +87,23 @@ content_area:
     content:
       -
         type: text
-        text: "Join Suffolk Wildlife Trust Ecologists to learn about UK bat species, their ecology and conservation needs and then have a go at detecting them at Carlton Marshes.\_"
+        text: "Enjoy an evening of food, bat activities and a nocturnal walk around the reserve.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "Start the evening with warming jacket potatoes with a choice of toppings followed by a shortbread bat. We will also be creating bat masks for you to wear whilst exploring the reserve after dark and using bat detectors to try and find some bats!\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "Please bring a torch to use for the walk.\_"
   -
     type: paragraph
     attrs:
@@ -111,7 +126,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-25-bat-detectives-evening'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-27-bat-night-carlton-marshes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -121,9 +136,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740668622
+updated_at: 1740668735
 duplicated_from: 959d705c-fd89-45eb-8ff9-cfa82e8485ca
 accessibility_information:
   - 'Accessible toilets'
 ---
-Enjoy a talk about UK bat species as well as experiencing how to detect them!
+Celebrate all things bat related with this evening event.
