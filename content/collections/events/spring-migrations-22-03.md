@@ -1,49 +1,43 @@
 ---
 id: 9f99f1c8-97e0-414c-8e70-9296e152337b
-published: false
 blueprint: events
-title: 'Autumn Migration at Carlton Marshes'
+title: 'Morning on the Marshes - Spring Migrations'
 event_categories:
   - community
   - nature
   - later-years
 organisers:
   - suffolk-wildlife-trust
-start_date: '2024-09-02 10:00'
-end_date: '2024-09-02 13:00'
+start_date: '2025-03-22 10:00'
+end_date: '2025-03-22 13:00'
 free: false
 virtual: false
-attendance_information: '- Suitable for adults'
+attendance_information: 'suitable for adults'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
-address_line_1: 'Carlton Colville'
 town: Lowestoft
 postcode: 'NR33 8HU'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Join us for a delicious bacon roll (vegetarian option available) and hot drinks with a view of the marshes at our visitor centre. Then explore the reserve with our knowledgeable Wildlife Guides to see how spring changes the marshes, spot spring migrations, see and hear how the marshes come alive at this time of year. The walk will finish at around 12:30pm back at the visitor centre.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: "Discover Carlton Marshes on a guided walk from one of our knowledgeable wildlife guides. Come along whether you are a keen birdwatcher or are looking to improve your bird ID skills, to see the autumn migrants as they stop off at Carlton Marshes.\_\_"
-  -
-    type: heading
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to book '
+        text: 'You do not need to be a bird expert to enjoy this walk, we welcome beginners to experts. Please bring along binoculars if you have them or you can hire them for £4 from the centre.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -54,7 +48,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events/2024-09-02-autumn-migration-carlton-marshes'
+              href: 'https://www.suffolkwildlifetrust.org/events/2025-03-22-morning-marshes-spring-migrations'
               rel: null
               target: _blank
               title: null
@@ -62,14 +56,22 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+cta: |-
+  This event is organised by Suffolk Wildlife Trust
+
+  [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
+
+  [01473 890089](tel:01473890089)
+
+  [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1740653444
+duplicated_from: f8da1904-4c77-45ea-b479-b6e78e1c8828
+featured_image: offthepressimages/new_resized_images/Nature.png
+cost_details: '£12 per person'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-03-22-morning-marshes-spring-migrations'
+building_name: 'Carlton Colville'
+directions:
   -
     type: paragraph
     content:
@@ -127,19 +129,5 @@ content_area:
               target: _blank
               title: null
         text: 'the Suffolk Onboard website.'
-cta: |-
-  This event is organised by Suffolk Wildlife Trust
-
-  [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
-
-  [01473 890089](tel:01473890089)
-
-  [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724242673
-duplicated_from: f8da1904-4c77-45ea-b479-b6e78e1c8828
-featured_image: offthepressimages/new_resized_images/Nature.png
-cost_details: '£5 per person'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2024-09-02-autumn-migration-carlton-marshes'
 ---
-Join one of our wildlife guides for a walk around the reserve to see the autumn migrants.
+Explore Carlton Marshes nature reserve.
