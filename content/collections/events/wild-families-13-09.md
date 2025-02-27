@@ -1,8 +1,7 @@
 ---
 id: 5e91068b-660b-4b7c-9086-3e18086b5b9a
-published: false
 blueprint: events
-title: 'Wild Families - Beautiful Butterflies (Duplicated)'
+title: 'Wild Families - Fantastic Flowers and Fruits'
 event_categories:
   - nature
   - teen
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-08-09 10:00'
-end_date: '2025-08-09 12:00'
+start_date: '2025-09-13 10:00'
+end_date: '2025-09-13 12:00'
 free: false
 cost_details: '£8 per adult and child'
 virtual: false
@@ -115,7 +114,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://wwwhttps://www.suffolkwildlifetrust.org/events/2025-08-09-wild-families-beautiful-butterflies'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-13-wild-families-fantastic-flowers-and-fruits'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -125,7 +124,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740667515
+updated_at: 1740668204
 duplicated_from: 650ebce4-ed49-4f26-943b-d7aae69a97d3
 ---
 A family session to explore and take action for nature.
