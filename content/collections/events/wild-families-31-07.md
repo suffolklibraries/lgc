@@ -1,18 +1,16 @@
 ---
 id: 50e80354-b604-407d-bba2-046ca3144c0c
-published: false
 blueprint: events
-title: 'Wild Families - Woodland Fund (Duplicated)'
+title: 'Wild Families - Butterflies'
 event_categories:
   - nature
   - wellbeing
   - family-friendly
-  - early-years
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-07-13 10:30'
-end_date: '2025-07-13 12:30'
+start_date: '2025-07-31 10:30'
+end_date: '2025-07-31 12:30'
 free: true
 cost_details: '£5 per child, £3 per adult'
 virtual: false
@@ -89,7 +87,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at Carlton Marshes for a woodland themed family session, including den building, woodland crafts and wild play.'
+        text: 'Join us at Carlton Marshes to learn about butterflies through games, trails, crafts and a butterfly walk. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Enjoy these activities as a family.\_\_"
   -
     type: paragraph
     attrs:
@@ -112,7 +118,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-13-wild-families-woodland-fun'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-31-wild-families-butterflies'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -122,9 +128,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740666338
+updated_at: 1740666935
 duplicated_from: 1dd33fe0-a0a5-4ca5-9467-5b09e005a84a
 accessibility_information:
   - 'Accessible toilets'
 ---
-A woodland themed family activity session.
+A butterfly themed family activity session.
