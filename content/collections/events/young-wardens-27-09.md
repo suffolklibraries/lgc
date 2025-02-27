@@ -1,8 +1,7 @@
 ---
 id: abd45a3f-acf6-4f65-9eb8-31fc1248539e
-published: false
 blueprint: events
-title: 'Young Wardens at Carlton Marshes (Duplicated)'
+title: 'Young Wardens at Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-08-23 10:00'
-end_date: '2025-08-23 14:00'
+start_date: '2025-09-27 10:00'
+end_date: '2025-09-27 14:00'
 free: false
 cost_details: £7
 virtual: false
@@ -151,7 +150,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-23-young-wardens-carlton-marshes'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-27-young-wardens-carlton-marshes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -161,7 +160,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740667776
+updated_at: 1740668674
 duplicated_from: 3e0776e5-32c8-43b0-9b1a-b5c828b1a0c8
 accessibility_information:
   - 'Accessible toilets'
