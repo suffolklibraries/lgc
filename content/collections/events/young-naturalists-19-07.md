@@ -1,8 +1,7 @@
 ---
 id: 323d37fc-3106-47c1-b773-b3e1d43ffc53
-published: false
 blueprint: events
-title: 'Young Naturalists - Marvellous Mammals (Duplicated)'
+title: 'Young Naturalists - Majestic Minibeasts'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-15 14:00'
-end_date: '2025-03-15 16:00'
+start_date: '2025-07-19 14:00'
+end_date: '2025-07-19 16:00'
 free: false
 cost_details: £7
 virtual: false
@@ -68,7 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: "This month's theme: Marvellous mammals! Learn what lives on the reserve, get close and personal with some specimens, and become a mammal detective!"
+        text: "This month's theme: Majestic minibeasts! Why are moth antennae so fluffy? What do shieldbugs smell like? How many legs does a centipede really have? Where does a grasshopper keep its ears? See what if you can find out in our bug bonanza!"
   -
     type: paragraph
     attrs:
@@ -99,7 +98,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-19-young-naturalists-majestic-minibeasts'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -109,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740653064
+updated_at: 1740666487
 duplicated_from: e53577d1-d19a-4f04-8f4d-3448233a085d
 ---
 Monthly wildlife club for teens.
