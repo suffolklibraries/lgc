@@ -1,8 +1,7 @@
 ---
 id: 9e6ebbeb-bf8d-4a46-8e38-9987cea1f563
-published: false
 blueprint: events
-title: 'Warden Walk at Lackford Lakes (Duplicated)'
+title: 'Nightingales Guided Walk'
 event_categories:
   - nature
   - wellbeing
@@ -10,12 +9,12 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-25 10:30'
-end_date: '2025-04-25 12:30'
+start_date: '2025-05-06 19:30'
+end_date: '2025-05-06 21:00'
 free: false
-cost_details: £5
+cost_details: £7
 virtual: false
-attendance_information: 'Adults and children aged 11+'
+attendance_information: adults
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -60,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join one of our Wardens for a morning walk around the reserve. Learn about the history and ecology of the Reserve, and how our team manages it for the benefit of its wildlife and people.\_"
+        text: 'Discover the iconic song of the nightingale as these spring visitors return to Lackford Lakes.'
   -
     type: paragraph
     attrs:
@@ -68,15 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a monthly walk with seasonal theme, discover what makes Lackford special and how management practices change through the year. For more Warden Walks, please visit our events page.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'This event is aimed at adults and would be suitable for children 11+. Children need their own ticket and must be accompanied by an adult. Babies in arms/pushchairs are welcome to accompany for free.'
+        text: "Please note while we historically have a high rate of finding nightingales on these walks, as with any wildlife encounter we cannot guarantee sightings.\_If you find this event sold out, we are running other nightingale walks in this week - please check our events page for these and follow our social media for the latest updates."
   -
     type: paragraph
     attrs:
@@ -99,7 +90,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-25-warden-walk-lackford-lakes'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-06-nightingales-guided-walk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -109,7 +100,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740657425
+updated_at: 1740657829
 duplicated_from: 6793400a-5080-4883-bfbb-29ae185a70e6
 ---
-Learn about the history, ecology and management of Lackford Lakes.
+Join us on a evening walk to listen to the nightingales!
