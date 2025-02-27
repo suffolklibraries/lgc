@@ -1,8 +1,7 @@
 ---
 id: bfd0cc61-257f-47f8-967e-7d7d7cd25b73
-published: false
 blueprint: events
-title: 'Young Wardens at Foxburrow (Duplicated)'
+title: 'Young Wardens at Foxburrow'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-25 10:00'
-end_date: '2025-05-25 14:00'
+start_date: '2025-06-22 10:00'
+end_date: '2025-06-22 14:00'
 free: false
 cost_details: £7
 virtual: false
@@ -103,11 +102,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740658430
+updated_at: 1740665060
 duplicated_from: 86b95c4a-1f97-4704-8bac-4e46d6984fe3
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
 ---
-Practical conservation and survey skills for teenagers aged 11-16.
+Practical conservation and survey skills for teenagers.
