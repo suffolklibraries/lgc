@@ -1,8 +1,7 @@
 ---
 id: b2a813b3-a7e2-4d0f-b4c7-b861cb06b6d1
-published: false
 blueprint: events
-title: 'Young Naturalists - Marvellous Mammals (Duplicated)'
+title: 'Young Naturalists - Brilliant Bees'
 event_categories:
   - nature
   - teen
@@ -56,11 +55,11 @@ content_area:
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'A session for unaccompanied teens, exploring the wildlife of the reserve, with trails, activities, games and crafts. Whether you know your greenfinches from your goldfinches or are just keen to get started, come along to learn about our weird and wonderful natural world, brush up your I.D skills, meet new friends and take action for nature.'
+        text: "A session for unaccompanied teens, exploring the wildlife of the reserve, with trails, activities, games and crafts. Whether you know your greenfinches from your goldfinches or are just keen to get started, come along to learn about our weird and wonderful natural world, brush up your I.D skills, meet new friends and take action for nature.\_"
   -
     type: paragraph
     attrs:
@@ -68,15 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: "This month's theme: Marvellous mammals! Learn what lives on the reserve, get close and personal with some specimens, and become a mammal detective!"
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Young Naturalists runs on the 3rd Saturday every month.'
+        text: "This month's theme: Brilliant bees! Did you know there are over 250 species of bee in the UK? Find out which ones we have here at Lackford, discover their hidden lives, and make your own bee hotel to take home (please bring a clean empty tin can)!"
   -
     type: paragraph
     attrs:
@@ -99,7 +90,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-21-young-naturalists-brilliant-bees'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -109,7 +100,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740653109
+updated_at: 1740665012
 duplicated_from: d07299ed-bd33-443a-97a5-3f5db7d747e6
 ---
 Monthly wildlife club for teens.
