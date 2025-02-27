@@ -1,22 +1,19 @@
 ---
 id: 51e13968-95e0-4d6c-8781-37fcba617577
-published: false
 blueprint: events
-title: 'Warden Walk at Lackford Lakes (Duplicated)'
+title: 'Lackford Lakes Welcome Day'
 event_categories:
   - nature
   - wellbeing
-  - later-years
   - movement
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-06-27 10:30'
-end_date: '2025-06-27 12:30'
+start_date: '2025-06-28 10:00'
+end_date: '2025-06-28 15:30'
 free: false
 cost_details: £5
 virtual: false
-attendance_information: 'Adults and children aged 11+'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -61,7 +58,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join one of our Wardens for a morning walk around the reserve. Learn about the history and ecology of the Reserve, and how our team manages it for the benefit of its wildlife and people.\_"
+        text: "Join us for a relaxed and informal event where guests will have the chance to discover more about Suffolk Wildlife Trust and all the great work the charity achieves across the county. In a beautiful setting at Lackford Lakes, staff and volunteers will be on hand to chat and answer questions about our work, nature reserves, events and volunteering.\_"
   -
     type: paragraph
     attrs:
@@ -69,15 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a monthly walk with seasonal theme, discover what makes Lackford special and how management practices change through the year. For more Warden Walks, please visit our events page.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'This event is aimed at adults and would be suitable for children 11+. Children need their own ticket and must be accompanied by an adult. Babies in arms/pushchairs are welcome to accompany for free.'
+        text: "This is an opportunity to walk, explore and learn about the wildlife of Lackford Lakes. \_Wildlife Guides will be on hand to help you spot wildlife on the day and you can join a guided walk with the Warden at either 10:30 or 14:00. Get the best out of your visit by hiring a pair of binoculars and pick up a free wildlife activity sheet for all the family to enjoy."
   -
     type: paragraph
     attrs:
@@ -100,7 +89,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-30-warden-walk-lackford-lakes'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-28-welcome-day'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -110,7 +99,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740665095
+updated_at: 1740665525
 duplicated_from: ee699074-84fb-4e35-8cef-b1c9e5fb11ee
 ---
-Learn about the history, ecology and management of Lackford Lakes.
+Dind out about the Lackford Lakes, its wildlife, and the work of Suffolk Wildlife Trust
