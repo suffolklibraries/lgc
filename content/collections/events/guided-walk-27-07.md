@@ -1,8 +1,7 @@
 ---
 id: 3dfc4e77-a09e-445f-b842-651c367e7648
-published: false
 blueprint: events
-title: 'Guided Walk - Flight of the Fledglings (Duplicated)'
+title: 'Guided Walk - Summer Reptiles'
 event_categories:
   - later-years
   - nature
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-25 10:00'
-end_date: '2025-05-25 12:00'
+start_date: '2025-07-27 10:00'
+end_date: '2025-07-27 12:00'
 free: false
 cost_details: £5
 virtual: false
@@ -53,7 +52,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide Margaret. Both will take you through the mosaic that is Foxburrow Reserve.'
+        text: 'Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide Margaret. Both will take you through the mosaic that is Foxburrow Reserve. '
   -
     type: paragraph
     attrs:
@@ -86,7 +85,7 @@ content_area:
       -
         type: text
         text: 'Binoculars are recommended - we sometimes have some to borrow.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-25-guided-monthly-walk-flight-fledglings'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-27-guided-monthly-walk-summer-reptiles'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -96,10 +95,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740664346
+updated_at: 1740666833
 duplicated_from: 30170bd2-e487-401e-b23e-249c17fa753a
 accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
 ---
-Learn about how chicks leave the nest as you walk.
+Discover nature as you walk.
