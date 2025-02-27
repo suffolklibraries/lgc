@@ -1,8 +1,7 @@
 ---
 id: bc970604-ea9a-4065-afe7-79618c3c5fdc
-published: false
 blueprint: events
-title: 'Guided Walk - Berry Bonanza (Duplicated)'
+title: 'Guided Walk - Spring Awakening'
 event_categories:
   - later-years
   - nature
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-28 10:00'
-end_date: '2025-09-28 12:00'
+start_date: '2025-03-23 10:00'
+end_date: '2025-03-23 12:00'
 free: false
 cost_details: £5
 virtual: false
@@ -86,7 +85,7 @@ content_area:
       -
         type: text
         text: 'Binoculars are recommended - we sometimes have some to borrow.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-28-guided-monthly-walk-berry-bonanza'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-03-23-guided-monthly-walk-spring-awakening'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -96,7 +95,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740668860
+updated_at: 1740668970
 duplicated_from: 16c399bd-8da2-47b5-9ed3-2b4b545d192c
 accessibility_information:
   - 'Accessible toilets'
