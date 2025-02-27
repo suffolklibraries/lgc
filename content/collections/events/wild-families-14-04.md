@@ -1,8 +1,7 @@
 ---
 id: d9f75d6a-b042-4a37-85ba-cee344b2eb9a
-published: false
 blueprint: events
-title: 'Wild Families - Easter Eggstravaganza (Duplicated)'
+title: 'Wild Families - Easter Eggstravaganza'
 event_categories:
   - nature
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-08 10:00'
-end_date: '2025-04-08 14:00'
+start_date: '2025-04-15 10:00'
+end_date: '2025-04-15 12:00'
 free: false
 cost_details: '£8 per child, £3 per adult'
 virtual: false
@@ -109,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740653718
+updated_at: 1740657131
 duplicated_from: b9d1016f-7623-4faf-bc5a-7a68914986fa
 ---
 An egg-themed Wild Families special for the holidays!
