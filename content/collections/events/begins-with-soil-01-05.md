@@ -1,19 +1,17 @@
 ---
 id: 1b4c52b4-d543-4947-b64b-99a5824309f2
-published: false
 blueprint: events
-title: 'Get muddy! (Duplicated)'
+title: 'It all begins with Soil'
 event_categories:
   - community
   - nature
-  - family-friendly
+  - later-years
 organisers:
   - suffolk-wildlife-trust
-start_date: '2025-04-10 10:00'
-end_date: '2025-04-10 12:00'
+start_date: '2025-05-01 10:00'
+end_date: '2025-05-01 12:00'
 free: false
 virtual: false
-attendance_information: 'family friendly'
 latitude: '52.07546490861323'
 longitude: '1.298651059605825'
 address_line_1: 'Church Lane'
@@ -27,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'What better way to get ready for Earth Day, than to celebrate the actual earth - the soil! '
+        text: 'Join our soil scientists and team, to learn how important soil is to nature, and how it will recover over time, to influence what will grow at Martlesham Wilds. '
   -
     type: paragraph
     attrs:
@@ -35,23 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us to explore soils at Martlesham Wilds as we wander around the reserve digging in the soil, testing the soil, listening to the soil and checking out the worms that we find.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'This event is aimed at primary school children and families and those that are able to walk a good mile.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Caution: we may get muddy!'
+        text: 'We will walk a while and be guided through soil survey methodology, and have a chance to get a little muddy and explore the texture of different soils as well as looking for worms! Soil is important in gardens as well, so come and get some tips on how to best help your soil recover.'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -61,11 +43,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740656585
+updated_at: 1740657571
 duplicated_from: de31f4e1-3a0f-4620-b3a0-891c49a6545e
 featured_image: pelicanpelican-3x2/nature.png
-cost_details: 'From £8 per adult and child'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-10-get-ready-earth-day-get-muddy'
+cost_details: £5
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-01-it-all-begins-soil-martlesham-wilds'
 building_name: 'Martlesham Wilds'
 address_line_2: Martlesham
 directions:
@@ -99,4 +81,4 @@ directions:
               title: null
         text: 'Suffolk Onboard website.'
 ---
-Get ready for Earth Day with Suffolk Wildlife Trust
+Discover the importance of soil.
