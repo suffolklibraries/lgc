@@ -1,8 +1,7 @@
 ---
 id: f88dbdb3-626d-492e-9ea0-14362adcc5c6
-published: false
 blueprint: events
-title: 'Wild Families - Phenomenal Ponds (Duplicated)'
+title: 'Wild Families - Helping Hedgehogs'
 event_categories:
   - nature
   - teen
@@ -11,10 +10,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-12 10:00'
-end_date: '2025-04-12 12:00'
+start_date: '2025-05-10 10:00'
+end_date: '2025-05-10 12:00'
 free: false
-cost_details: 'Prices from £8 per adult and child'
+cost_details: 'Prices from £18 per adult and child'
 virtual: false
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
@@ -68,7 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: "Sessions will vary each month but will typically involve a wildlife activity and a craft. This month's theme: Phenomenal ponds! Get up close with our pond life and learn how to make a pond of your own."
+        text: "Sessions will vary each month but will typically involve a wildlife activity and a craft. This month's theme: Helping hedgehogs! Celebrate Hedgehog Awareness Week by learning about our spikey friends and building your own hedgehog box to take home (included in ticket)!"
   -
     type: paragraph
     attrs:
@@ -115,7 +114,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-10-wild-families-helping-hedgehogs-0'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -125,7 +124,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740656812
+updated_at: 1740657924
 duplicated_from: 002189df-c7c1-415e-8150-f9c10573b14c
 ---
 A family session to explore and take action for nature.
