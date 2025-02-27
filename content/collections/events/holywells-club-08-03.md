@@ -1,7 +1,7 @@
 ---
 id: 0f777c49-f7b0-4c23-80c4-6c42d7bcc088
 blueprint: events
-title: 'Weekend Wildlife Club'
+title: 'Weekend Wildlife Club - Holywells Park'
 event_categories:
   - nature
   - wellbeing
@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-14 10:00'
-end_date: '2024-12-14 12:00'
+start_date: '2025-03-08 10:00'
+end_date: '2025-03-08 12:00'
 free: false
 cost_details: £5
 virtual: false
@@ -132,8 +132,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732097427
+updated_at: 1740652289
 duplicated_from: 87049a4f-61ae-463a-a5ff-68045320fb5a
-published: false
 ---
 Meet new friends, get outdoors and earn awards.
