@@ -1,7 +1,7 @@
 ---
 id: 4b881305-f68a-4168-b087-2ea7cfe929dc
 blueprint: events
-title: 'Warden Walk at Lackford Lakes (Duplicated)'
+title: 'Warden Walk at Lackford Lakes'
 event_categories:
   - nature
   - wellbeing
@@ -109,7 +109,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740668499
+updated_at: 1740668526
 duplicated_from: 903edc68-9c95-433f-83b8-5f9a60708582
 ---
 Learn about the history, ecology and management of Lackford Lakes.
