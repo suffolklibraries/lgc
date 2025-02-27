@@ -1,16 +1,16 @@
 ---
 id: 959d705c-fd89-45eb-8ff9-cfa82e8485ca
 blueprint: events
-title: 'Pluto - An Astronomy Talk'
+title: 'Bat Detectives Evening'
 event_categories:
   - nature
-  - teen
-  - wellbeing
+  - later-years
+  - community
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-13 19:00'
-end_date: '2025-02-13 20:30'
+start_date: '2025-09-25 18:00'
+end_date: '2025-09-25 21:00'
 free: false
 cost_details: £5
 virtual: false
@@ -87,7 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: "Learn more about Pluto with local astronomer Ian Hobson.\_"
+        text: "Join Suffolk Wildlife Trust Ecologists to learn about UK bat species, their ecology and conservation needs and then have a go at detecting them at Carlton Marshes.\_"
   -
     type: paragraph
     attrs:
@@ -110,7 +110,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-25-bat-detectives-evening'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -120,10 +120,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102962
+updated_at: 1740668622
 duplicated_from: de04153b-e60f-47d3-9387-643b29891fbd
 accessibility_information:
   - 'Accessible toilets'
-published: false
 ---
-Join experts to find out more about the world around us.
+Enjoy a talk about UK bat species as well as experiencing how to detect them!
