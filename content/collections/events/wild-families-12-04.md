@@ -1,8 +1,7 @@
 ---
 id: 002189df-c7c1-415e-8150-f9c10573b14c
-published: false
 blueprint: events
-title: 'Wild Families - Marvellous Mammals (Duplicated)'
+title: 'Wild Families - Phenomenal Ponds'
 event_categories:
   - nature
   - teen
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-08 10:00'
-end_date: '2025-03-08 12:00'
+start_date: '2025-04-12 10:00'
+end_date: '2025-04-12 12:00'
 free: false
 cost_details: 'Prices from £8 per adult and child'
 virtual: false
@@ -68,7 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: "Sessions will vary each month but will typically involve a wildlife activity and a craft. This month's theme: Marvellous mammals! Find out what mammals live on the reserve and become a wildlife detective!"
+        text: "Sessions will vary each month but will typically involve a wildlife activity and a craft. This month's theme: Phenomenal ponds! Get up close with our pond life and learn how to make a pond of your own."
   -
     type: paragraph
     attrs:
@@ -125,7 +124,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740652729
+updated_at: 1740656812
 duplicated_from: a6d4dccd-73bb-4c33-b4ba-775373c7c724
 ---
 A family session to explore and take action for nature.
