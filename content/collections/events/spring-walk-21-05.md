@@ -1,16 +1,16 @@
 ---
 id: 311e4c9f-6e6f-403e-866a-dd3ea253ca13
-published: false
 blueprint: events
-title: 'It all begins with Soil (Duplicated)'
+title: 'Sounds and Sights of Spring'
 event_categories:
   - community
   - nature
   - later-years
+  - wellbeing
 organisers:
   - suffolk-wildlife-trust
-start_date: '2025-05-01 10:00'
-end_date: '2025-05-01 12:00'
+start_date: '2025-05-21 14:00'
+end_date: '2025-05-21 16:00'
 free: false
 virtual: false
 latitude: '52.07546490861323'
@@ -26,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our soil scientists and team, to learn how important soil is to nature, and how it will recover over time, to influence what will grow at Martlesham Wilds. '
+        text: "Join members of Suffolk Wildlife Trust's Martlesham WIlds team, for a walk around the Wilds listening and looking for the sounds of Spring. "
   -
     type: paragraph
     attrs:
@@ -34,7 +34,15 @@ content_area:
     content:
       -
         type: text
-        text: 'We will walk a while and be guided through soil survey methodology, and have a chance to get a little muddy and explore the texture of different soils as well as looking for worms! Soil is important in gardens as well, so come and get some tips on how to best help your soil recover.'
+        text: "Can we hear Skylarks,\_Cuckoos or Nightingales? Can we find any mammal footprints? Why are leaves a brighter green when they first appear? "
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Help us soak up these wonders and learn how important it is to protect them.'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -44,11 +52,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740657571
+updated_at: 1740658361
 duplicated_from: 1b4c52b4-d543-4947-b64b-99a5824309f2
 featured_image: pelicanpelican-3x2/nature.png
 cost_details: £5
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-01-it-all-begins-soil-martlesham-wilds'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-21-sounds-and-sights-spring-martlesham-wilds'
 building_name: 'Martlesham Wilds'
 address_line_2: Martlesham
 directions:
@@ -82,4 +90,4 @@ directions:
               title: null
         text: 'Suffolk Onboard website.'
 ---
-Discover the importance of soil.
+Take time to enjoy the wonders of nature.
