@@ -1,21 +1,19 @@
 ---
 id: 0e7d4a05-fd2e-4060-ba63-123bd74a120d
-published: false
 blueprint: events
-title: 'Wild Tots at Carlton Marshes (Duplicated)'
+title: 'Walk with a Warden'
 event_categories:
   - nature
   - wellbeing
-  - early-years
+  - later-years
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-04 10:30'
-end_date: '2025-03-04 12:00'
+start_date: '2025-07-11 10:30'
+end_date: '2025-07-11 13:00'
 free: false
-cost_details: '£6 per child, adults free'
+cost_details: £5
 virtual: false
-attendance_information: 'suitable for children aged 18 months - 5 years'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
 building_name: 'Carlton Marshes Visitor Centre'
@@ -88,23 +86,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us  for  outdoor discovery and play on the nature reserve with our Engagement Officer.'
+        text: "Enjoy a guided walk around Carlton Marshes with one of our reserve wardens to learn about the management and conservation of the site as well as exploring the wildlife of the marshes during the summer months.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Wild Tots gives children and their families the opportunity to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills and, importantly, create shared memories for children and adults.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session. '
+        text: "Suitable for adults, both beginner and expert wildlife enthusiasts.\_"
   -
     type: paragraph
     attrs:
@@ -127,7 +117,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-11-walk-warden-carlton-marshes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -137,7 +127,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740651628
+updated_at: 1740666146
 duplicated_from: 8e018569-f232-4ea2-b54a-06f080fcd144
 ---
-Wild play activities for children aged 18 months - 5 years.
+Explore Carlton Marshes with our reserves warden on this guided walk.
