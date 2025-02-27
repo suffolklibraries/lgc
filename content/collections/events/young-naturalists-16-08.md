@@ -1,8 +1,7 @@
 ---
 id: 700a19c1-4279-4b47-b5ee-c27c0d3a7b7d
-published: false
 blueprint: events
-title: 'Young Naturalists - Majestic Minibeasts (Duplicated)'
+title: 'Young Naturalists - Beautiful Butterflies'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-07-19 14:00'
-end_date: '2025-07-19 16:00'
+start_date: '2025-08-16 14:00'
+end_date: '2025-08-16 16:00'
 free: false
 cost_details: £7
 virtual: false
@@ -68,7 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: "This month's theme: Majestic minibeasts! Why are moth antennae so fluffy? What do shieldbugs smell like? How many legs does a centipede really have? Where does a grasshopper keep its ears? See what if you can find out in our bug bonanza!"
+        text: "This month's theme: Beautiful butterflies! Learn how to identify the species we have at Lackford, and find out what on earth caterpillars get up to in their cocoons."
   -
     type: paragraph
     attrs:
@@ -99,7 +98,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-19-young-naturalists-majestic-minibeasts'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-16-young-naturalists-beautiful-butterflies'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -109,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740666487
+updated_at: 1740667665
 duplicated_from: 323d37fc-3106-47c1-b773-b3e1d43ffc53
 ---
 Monthly wildlife club for teens.
