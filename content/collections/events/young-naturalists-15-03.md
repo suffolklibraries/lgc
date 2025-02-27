@@ -1,8 +1,7 @@
 ---
 id: e53577d1-d19a-4f04-8f4d-3448233a085d
-published: false
 blueprint: events
-title: 'Young Wardens at Lackford Lakes (Duplicated)'
+title: 'Young Naturalists - Marvellous Mammals'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-01 10:30'
-end_date: '2025-03-01 14:30'
+start_date: '2025-03-15 14:00'
+end_date: '2025-03-15 16:00'
 free: false
 cost_details: £7
 virtual: false
@@ -60,15 +59,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
+        text: 'A session for unaccompanied teens, exploring the wildlife of the reserve, with trails, activities, games and crafts. Whether you know your greenfinches from your goldfinches or are just keen to get started, come along to learn about our weird and wonderful natural world, brush up your I.D skills, meet new friends and take action for nature.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate.'
+        text: "This month's theme: Marvellous mammals! Learn what lives on the reserve, get close and personal with some specimens, and become a mammal detective!"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Young Naturalists runs on the 3rd Saturday every month.'
   -
     type: paragraph
     attrs:
@@ -101,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740650993
+updated_at: 1740653045
 duplicated_from: ca65f631-a4e5-40f6-ab49-4715e770f876
 ---
-Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
+Monthly wildlife club for teens.
