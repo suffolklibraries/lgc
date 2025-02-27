@@ -1,6 +1,5 @@
 ---
 id: 3e0776e5-32c8-43b0-9b1a-b5c828b1a0c8
-published: false
 blueprint: events
 title: 'Young Wardens at Carlton Marshes'
 event_categories:
@@ -161,7 +160,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740667770
+updated_at: 1740667776
 duplicated_from: 2e091d1b-8f8a-47e2-90e8-5751943a0ed2
 accessibility_information:
   - 'Accessible toilets'
