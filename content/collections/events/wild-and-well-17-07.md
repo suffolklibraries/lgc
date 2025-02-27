@@ -1,8 +1,7 @@
 ---
 id: 3b2df6bf-d7cc-4155-a177-c9718a210d2c
-published: false
 blueprint: events
-title: 'Wild and Well - June (Duplicated)'
+title: 'Wild and Well'
 event_categories:
   - nature
   - wellbeing
@@ -101,7 +100,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740664662
+updated_at: 1740666399
 duplicated_from: 21ee2c24-5ef1-485b-9a7d-6de28ba460a6
 accessibility_information:
   - 'Accessible toilets'
