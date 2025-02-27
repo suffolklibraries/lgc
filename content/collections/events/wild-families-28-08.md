@@ -1,6 +1,5 @@
 ---
 id: 2e505fe2-9fbc-4838-aad5-9cf8bd361d78
-published: false
 blueprint: events
 title: 'Wild Families - Dyke Dipping'
 event_categories:
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-11 13:30'
-end_date: '2025-05-11 15:30'
+start_date: '2025-08-28 10:30'
+end_date: '2025-08-28 12:30'
 free: true
-cost_details: '£15 per child, £3 per adult'
+cost_details: '£5 per child, £3 per adult'
 virtual: false
 attendance_information: 'families with children aged 3+'
 latitude: '52.467464593763445'
@@ -88,15 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at Carlton Marshes to celebrate Hedgehog Awareness Week. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Learn more about hedgehogs and how you can help them whilst building your own hedgehog home (included in child ticket).\_"
+        text: 'Join us for a morning of dyke dipping to explore and identify freshwater invertebrates that can be found in the dykes at Carlton Marshes.'
   -
     type: paragraph
     attrs:
@@ -119,7 +110,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-11-wild-families-hedgehogs'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-28-wild-families-dyke-dipping'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -129,9 +120,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740667948
+updated_at: 1740667995
 duplicated_from: b76e619c-4521-4591-80ee-38b757b8204b
 accessibility_information:
   - 'Accessible toilets'
 ---
-A hedgehog themed family session to celebrate Hedgehog Awareness Week.
+A morning of dyke dipping for all the family to enjoy!
