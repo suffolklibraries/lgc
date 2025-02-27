@@ -1,8 +1,7 @@
 ---
 id: f56649c8-7f24-4e73-a60c-f2579ab4cc62
-published: false
 blueprint: events
-title: 'Young Naturalists - Beautiful Butterflies (Duplicated)'
+title: 'Young Naturalists - Fantastic Flowers and Fruits'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-08-16 14:00'
-end_date: '2025-08-16 16:00'
+start_date: '2025-09-20 14:00'
+end_date: '2025-09-20 16:00'
 free: false
 cost_details: £7
 virtual: false
@@ -68,7 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: "This month's theme: Beautiful butterflies! Learn how to identify the species we have at Lackford, and find out what on earth caterpillars get up to in their cocoons."
+        text: "This month's theme: Fantastic flowers and fruits. Look closer at flowers and fruit than you ever have before with our portable microscopes and make your own compostable flower pot to take home."
   -
     type: paragraph
     attrs:
@@ -99,7 +98,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-16-young-naturalists-beautiful-butterflies'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-20-young-naturalists-fantastic-flowers-and-fruits'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -109,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740667665
+updated_at: 1740668448
 duplicated_from: 700a19c1-4279-4b47-b5ee-c27c0d3a7b7d
 ---
 Monthly wildlife club for teens.
