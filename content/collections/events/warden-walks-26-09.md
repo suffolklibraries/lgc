@@ -1,6 +1,5 @@
 ---
 id: 4b881305-f68a-4168-b087-2ea7cfe929dc
-published: false
 blueprint: events
 title: 'Warden Walk at Lackford Lakes (Duplicated)'
 event_categories:
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-08-29 10:30'
-end_date: '2025-08-29 12:30'
+start_date: '2025-09-26 10:30'
+end_date: '2025-09-26 12:30'
 free: false
 cost_details: £5
 virtual: false
@@ -100,7 +99,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-29-warden-walk-lackford-lakes'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-26-warden-walk-lackford-lakes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -110,7 +109,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740668040
+updated_at: 1740668499
 duplicated_from: 903edc68-9c95-433f-83b8-5f9a60708582
 ---
 Learn about the history, ecology and management of Lackford Lakes.
