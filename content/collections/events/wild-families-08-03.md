@@ -1,21 +1,20 @@
 ---
 id: a6d4dccd-73bb-4c33-b4ba-775373c7c724
-published: false
 blueprint: events
-title: 'Young Wardens at Lackford Lakes (Duplicated)'
+title: 'Wild Families - Marvellous Mammals'
 event_categories:
   - nature
   - teen
   - wellbeing
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-01 10:30'
-end_date: '2025-03-01 14:30'
+start_date: '2025-03-08 10:00'
+end_date: '2025-03-08 12:00'
 free: false
-cost_details: £7
+cost_details: 'Prices from £8 per adult and child'
 virtual: false
-attendance_information: 'children aged 11 - 16'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -60,15 +59,39 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
+        text: 'Join us on the 2nd Saturday of the month for Wild Families!* A session for exploring the reserve, learning about wildlife, and taking action for nature. Guided by our Engagement Officer.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate.'
+        text: "Sessions will vary each month but will typically involve a wildlife activity and a craft. This month's theme: Marvellous mammals! Find out what mammals live on the reserve and become a wildlife detective!"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "Please note all children must be accompanied by an adult. This event is aimed at families with children aged 5+, however,\_younger siblings are welcome to attend when accompanying an older sibling\_and you can book their ticket at a discounted rate."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'We also run a weekly Wild Tots session for toddlers, and monthly session Young Naturalists for unaccompanied 11-16 year olds.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "*Please note Wild Families may not run every month, we may instead have a big event on or a one-off pause. Please check our events pages for the most up-to-date information.\_"
   -
     type: paragraph
     attrs:
@@ -101,7 +124,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740650993
+updated_at: 1740652729
 duplicated_from: ca65f631-a4e5-40f6-ab49-4715e770f876
 ---
-Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
+A family session to explore and take action for nature.
