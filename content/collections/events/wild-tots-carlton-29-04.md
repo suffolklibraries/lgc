@@ -4,8 +4,8 @@ blueprint: events
 title: 'Wild Tots at Carlton Marshes'
 event_categories:
   - nature
-  - teen
   - wellbeing
+  - early-years
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
@@ -136,7 +136,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740651523
+updated_at: 1740651670
 duplicated_from: 0e6092d7-858f-46e7-afbc-84c6890d4546
 ---
 Wild play activities for children aged 18 months - 5 years.
