@@ -1,20 +1,20 @@
 ---
 id: 8b439bad-80c1-4b65-8144-aef42e644d9a
 blueprint: events
-title: 'Holiday Club at Carlton Marshes'
+title: 'Easter Eggstravaganza at Carlton Marshes'
 event_categories:
   - nature
-  - teen
   - wellbeing
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-23 09:00'
-end_date: '2024-12-23 15:30'
+start_date: '2025-04-17 13:30'
+end_date: '2025-04-17 15:30'
 free: true
-cost_details: 'Free for children receiving free school meals'
+cost_details: '£8 per child, £3 per adult'
 virtual: false
-attendance_information: 'suitable for young people aged 11 to 16'
+attendance_information: 'families with children aged 3+'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
 building_name: 'Carlton Marshes Visitor Centre'
@@ -87,7 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: "A healthy vegetarian lunch and snacks will be provided, that we will prepare together as part of the day. This will be a jacket potato with a choice of cheese, baked beans and salad. If you think your child will not like this please let us know in advance.\_"
+        text: 'Join our Easter celebrations at Carlton Marshes. Discover the nature reserve with our trail, followed by activities in the woods and then return to the visitor centre for more Easter fun.'
   -
     type: paragraph
     attrs:
@@ -95,7 +95,7 @@ content_area:
     content:
       -
         type: text
-        text: "Activities will take place outside where possible so please ensure suitable clothing and footwear. It is advisable that children come in long trousers.\_"
+        text: 'This session will involve approximately a half-mile walk across uneven ground.'
   -
     type: paragraph
     attrs:
@@ -103,7 +103,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the '
+        text: 'Visit the'
       -
         type: text
         marks:
@@ -114,11 +114,11 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Wildlife Trust website'
+        text: ' Suffolk Wildlife Trust website'
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-17-easter-eggstravaganza-carlton-marshes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -128,10 +128,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732102553
+updated_at: 1740657272
 duplicated_from: e47b1d60-cf05-4256-9ae7-3a7ec133bf2c
 accessibility_information:
   - 'Accessible toilets'
-published: false
 ---
-Holiday session involving outdoor activities, games, free play in the woods and crafts for 6-11 year olds.
+An Easter themed family session.
