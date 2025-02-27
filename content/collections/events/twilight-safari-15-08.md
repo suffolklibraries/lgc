@@ -1,8 +1,7 @@
 ---
 id: a401cefc-ae8e-406b-8205-d884542b0c1f
-published: false
 blueprint: events
-title: 'Twilight Safari (Duplicated)'
+title: 'Twilight Safari'
 event_categories:
   - nature
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-16 19:30'
-end_date: '2025-05-16 21:00'
+start_date: '2025-08-15 19:30'
+end_date: '2025-08-15 21:00'
 free: false
 cost_details: £7
 virtual: false
@@ -102,7 +101,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740658228
+updated_at: 1740667591
 duplicated_from: 6420e961-702a-416a-add3-313809bc4274
 ---
 Explore Lackford as the sun sets with our wildlife guides.
