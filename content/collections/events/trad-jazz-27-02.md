@@ -122,5 +122,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Come and enjoy an excellent afternoon of Trad Jazz
