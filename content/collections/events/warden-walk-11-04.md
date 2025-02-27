@@ -1,22 +1,21 @@
 ---
 id: 8dbdc1e9-9598-44a5-ad0e-4d5f544e8a24
-published: false
 blueprint: events
-title: 'Holiday Club at Bradfield Woods (Duplicated)'
+title: 'Warden walk at Bradfield Woods'
 event_categories:
   - nature
-  - teen
   - wellbeing
-  - family-friendly
+  - later-years
+  - community
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-23 09:00'
-end_date: '2024-12-23 15:30'
-free: true
-cost_details: 'Free for children receiving free school meals'
+start_date: '2025-04-11 10:00'
+end_date: '2025-04-11 12:00'
+free: false
+cost_details: '£5 per person'
 virtual: false
-attendance_information: 'suitable for children aged 6 - 11 years'
+attendance_information: adults
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
 address_line_1: 'Bradfield Woods'
@@ -74,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Outdoors, forest free play, seasonal woodland crafts and games with lunch included.'
+        text: 'Spend a morning exploring the woods with one of our wardens.'
   -
     type: paragraph
     attrs:
@@ -82,36 +81,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For children in receipt of benefit related free school meals, there are funded places available on EEQU from 20 November: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://eequ.org/experience/8747'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'https://eequ.org/experience/8747'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'All young people must be dropped off by an adult, who must confirm their emergency contact details and who will be collecting their child with the member of staff at the arrival point.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Visit the '
+        text: "Booking essential.\_\_Visit the "
       -
         type: text
         marks:
@@ -136,12 +106,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732105514
+updated_at: 1740656734
 duplicated_from: 87d00ff0-ca18-48f4-acea-3656fcf656cc
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
 ---
-Holiday club for 6 - 11 year olds.
+Learn about the history, ecology and management of the Nature Reserve.
