@@ -1,7 +1,7 @@
 ---
 id: ca65f631-a4e5-40f6-ab49-4715e770f876
 blueprint: events
-title: 'Wild Tots at Lackford Lakes'
+title: 'Young Wardens at Lackford Lakes'
 event_categories:
   - nature
   - teen
@@ -9,12 +9,12 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-11-17 10:00'
-end_date: '2024-11-17 11:30'
+start_date: '2025-03-01 10:30'
+end_date: '2025-03-01 14:30'
 free: false
-cost_details: '£7, including a hot drink'
+cost_details: £7
 virtual: false
-attendance_information: 'suitable for children aged 18 months - 5 years'
+attendance_information: 'children aged 11 - 16'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -59,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us  for  outdoor discovery and play on the nature reserve with our Engagement Officer.'
+        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
   -
     type: paragraph
     attrs:
@@ -67,23 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Wild Tots gives children and their families the opportunity to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills and, importantly, create shared memories for children and adults.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Wild Tots sessions are aimed at children aged 18 months to 5 years.  Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Meeting point - decking area'
+        text: 'All Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate.'
   -
     type: paragraph
     attrs:
@@ -98,7 +82,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events'
+              href: 'https://www.suffolkwildlifetrust.org/eventinfo'
               rel: null
               target: _blank
               title: null
@@ -116,8 +100,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732105135
+updated_at: 1740650993
 duplicated_from: 8e018569-f232-4ea2-b54a-06f080fcd144
-published: false
 ---
-Wild play activities for children aged 18 months - 5 years.
+Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
