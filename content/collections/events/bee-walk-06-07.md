@@ -1,21 +1,20 @@
 ---
 id: 2fb001d2-c76f-4ea7-bb54-6e4ebeaa700f
-published: false
 blueprint: events
-title: 'Young Wardens at Lackford Lakes (Duplicated)'
+title: 'Wild Walks: Bee Walk with Hawk'
 event_categories:
   - nature
-  - teen
   - wellbeing
+  - family-friendly
+  - movement
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-01 10:30'
-end_date: '2025-03-01 14:30'
+start_date: '2025-07-06 11:00'
+end_date: '2025-07-06 13:00'
 free: false
 cost_details: £7
 virtual: false
-attendance_information: 'children aged 11 - 16'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -60,15 +59,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
+        text: 'Join Hymenopterist Hawk Honey for an un-bee-lievable walk! Hawk is a bee and wasp specialist with a fantastic knowledge of the bees and wasps of Lackford. Discover the buzz about these amazing insects as you explore our beautiful reserve.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate.'
+        text: 'Please note as with all nature encounters, we cannot guarantee sightings especially in poor weather.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This walk is aimed at adults but interested teens 11+ are welcome if accompanied by an adult with a ticket. We are also running bee themed Wild Families (5-11yo) and Young Naturalists (11-16yo) in June, please check our events page for more details.'
   -
     type: paragraph
     attrs:
@@ -91,7 +98,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-06-wild-walks-bee-walk-hawk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -101,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740650993
+updated_at: 1740666015
 duplicated_from: ca65f631-a4e5-40f6-ab49-4715e770f876
 ---
-Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
+Join Hymenopterist Hawk Honey for an un-bee-lievable walk!
