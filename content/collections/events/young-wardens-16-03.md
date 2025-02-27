@@ -1,7 +1,7 @@
 ---
 id: 040fa26d-ab83-45b2-915f-4d73705148aa
 blueprint: events
-title: 'Nature Champions: Young Wardens at Spring Wood'
+title: 'Nature Champions - Young Wardens at Spring Wood'
 event_categories:
   - nature
   - wellbeing
@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-15 10:00'
-end_date: '2024-12-15 12:30'
+start_date: '2025-03-16 10:00'
+end_date: '2025-03-16 12:30'
 free: false
 cost_details: £7
 virtual: false
@@ -129,8 +129,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732098005
+updated_at: 1740653215
 duplicated_from: 1daaabbf-20ca-42dd-9689-2208c723e011
-published: false
 ---
-Looking for practical experience and chance to earn your DofE award whilst making friends? Then Nature Champions: Young Wardens is for you!
+Practical experience, earn your DofE award, and make friends.
