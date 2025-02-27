@@ -1,8 +1,7 @@
 ---
 id: d70ffb68-4300-449b-89f9-2f1684e7459b
-published: false
 blueprint: events
-title: 'Family Forest Adventure at Foxburrow (Duplicated)'
+title: 'Family Forest Adventure at Foxburrow'
 event_categories:
   - nature
   - wellbeing
@@ -11,15 +10,15 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-09 10:30'
-end_date: '2025-03-09 12:30'
+start_date: '2025-04-13 13:30'
+end_date: '2025-04-13 15:30'
 free: false
 cost_details: 'Prices from £10 per adult and child'
 virtual: false
 attendance_information: 'suitable for children 18 months upwards'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
-address_line_1: 'Foxburrow Nature Reserve'
+address_line_1: 'Saddlemakers Lane'
 town: Melton
 postcode: 'IP12 1NA'
 directions:
@@ -95,10 +94,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740652915
+updated_at: 1740657018
 duplicated_from: b0048f9b-8564-4f9a-acb2-a2b7280cbf1e
 accessibility_information:
   - 'Accessible toilets'
-address_line_2: 'Saddlemakers Lane'
+building_name: 'Foxburrow Nature Reserve'
 ---
 Explore our forest school with group activities, games, and fun free-flow stations.
