@@ -1,17 +1,17 @@
 ---
 id: 1dd33fe0-a0a5-4ca5-9467-5b09e005a84a
-published: false
 blueprint: events
-title: 'Wild Families - Bug Bonanza (Duplicated)'
+title: 'Wild Families - Woodland Fund'
 event_categories:
   - nature
   - wellbeing
   - family-friendly
+  - early-years
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-06-29 13:30'
-end_date: '2025-06-29 15:30'
+start_date: '2025-07-13 10:30'
+end_date: '2025-07-13 12:30'
 free: true
 cost_details: '£5 per child, £3 per adult'
 virtual: false
@@ -88,7 +88,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at Carlton Marshes to celebrate Insect Week. Come along and search for insects as well as learning how to make your garden more insect friendly.'
+        text: 'Join us at Carlton Marshes for a woodland themed family session, including den building, woodland crafts and wild play.'
   -
     type: paragraph
     attrs:
@@ -111,7 +111,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-29-wild-families-bug-bonanza'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-13-wild-families-woodland-fun'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -121,9 +121,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740665692
+updated_at: 1740666338
 duplicated_from: c89f6d2b-d808-4cca-9c1a-f4d15dd8474a
 accessibility_information:
   - 'Accessible toilets'
 ---
-An insect themed session to celebrate Insect Week.
+A woodland themed family activity session.
