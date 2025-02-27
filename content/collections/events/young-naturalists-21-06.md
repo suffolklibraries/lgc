@@ -1,8 +1,7 @@
 ---
 id: d07299ed-bd33-443a-97a5-3f5db7d747e6
-published: false
 blueprint: events
-title: 'Young Naturalists - Marvellous Mammals (Duplicated) (Duplicated)'
+title: 'Young Naturalists - Marvellous Mammals'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-15 14:00'
-end_date: '2025-03-15 16:00'
+start_date: '2025-06-21 14:00'
+end_date: '2025-06-21 16:00'
 free: false
 cost_details: £7
 virtual: false
@@ -109,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740653064
+updated_at: 1740653109
 duplicated_from: ec9c19d0-f945-4fa3-9a07-aa3ab259d12b
 ---
 Monthly wildlife club for teens.
