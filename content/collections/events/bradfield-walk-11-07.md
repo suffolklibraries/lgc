@@ -1,8 +1,7 @@
 ---
 id: d1810b45-6b4e-49a2-82d0-0b18964ef666
-published: false
 blueprint: events
-title: 'Warden walk at Bradfield Woods (Duplicated)'
+title: 'Warden walk at Bradfield Woods'
 event_categories:
   - nature
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-11 10:00'
-end_date: '2025-04-11 12:00'
+start_date: '2025-07-11 13:30'
+end_date: '2025-07-11 15:00'
 free: false
 cost_details: '£5 per person'
 virtual: false
@@ -74,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Spend a morning exploring the woods with one of our wardens.'
+        text: 'Learn about the history, ecology and management of the Reserve with our Bradfield Woods warden.'
   -
     type: paragraph
     attrs:
@@ -82,7 +81,7 @@ content_area:
     content:
       -
         type: text
-        text: "Booking essential.\_\_Visit the "
+        text: 'Visit the '
       -
         type: text
         marks:
@@ -97,7 +96,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-11-warden-walk-bradfield-woods'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -107,11 +106,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740656734
+updated_at: 1740666259
 duplicated_from: 8dbdc1e9-9598-44a5-ad0e-4d5f544e8a24
 accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
 ---
-Learn about the history, ecology and management of the Nature Reserve.
+Explore nature with Suffolk Wildlife Trust.
