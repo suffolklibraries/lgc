@@ -1,8 +1,7 @@
 ---
 id: 6d6bbe87-de35-4b55-98f7-c09af0b9d845
-published: false
 blueprint: events
-title: "Mildenhall Men's Shed (Duplicated) (Duplicated)"
+title: "Mildenhall Men's Shed"
 event_categories:
   - community
   - later-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - stour-valley-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-04-01 10:00'
-end_date: '2025-04-01 12:00'
+start_date: '2025-04-15 10:00'
+end_date: '2025-04-15 12:00'
 free: false
 cost_details: '£30 annual membership'
 virtual: false
@@ -122,7 +121,7 @@ cta: |-
 
   [colin.daultrey@gmail.com](mailto:colin.daultrey@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740669590
+updated_at: 1740669630
 duplicated_from: 2c2a6d13-8846-4098-981d-6f5a50f94e23
 ---
 A community space for men to connect, converse and create.
