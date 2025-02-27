@@ -1,16 +1,16 @@
 ---
 id: 75dceff6-0f66-4741-95f1-34a1a8dd58a2
-published: false
 blueprint: events
-title: 'Morning on the Marshes - Spring Migrations (Duplicated)'
+title: 'Guided Walk - Morning on the Marshes'
 event_categories:
   - community
   - nature
   - later-years
+  - movement
 organisers:
   - suffolk-wildlife-trust
-start_date: '2025-03-22 10:00'
-end_date: '2025-03-22 13:00'
+start_date: '2025-06-28 10:00'
+end_date: '2025-06-28 13:00'
 free: false
 virtual: false
 attendance_information: 'suitable for adults'
@@ -26,11 +26,11 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a delicious bacon roll (vegetarian option available) and hot drinks with a view of the marshes at our visitor centre. Then explore the reserve with our knowledgeable Wildlife Guides to see how spring changes the marshes, spot spring migrations, see and hear how the marshes come alive at this time of year. The walk will finish at around 12:30pm back at the visitor centre.'
+        text: 'Join us for a delicious bacon roll (vegetarian option available) and hot drinks with a view of the marshes at our visitor centre. Then explore the reserve with our knowledgeable Wildlife Guides to see the beginning of Summer appearing on the marshes. We hope to see dragonflies and damselflies starting to come out along with the summer bird life. The walk will finish at around 1pm back at the visitor centre.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
@@ -66,11 +66,11 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740653444
+updated_at: 1740665607
 duplicated_from: 9f99f1c8-97e0-414c-8e70-9296e152337b
 featured_image: offthepressimages/new_resized_images/Nature.png
 cost_details: '£12 per person'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-03-22-morning-marshes-spring-migrations'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-28-morning-marshes-guided-walk'
 building_name: 'Carlton Colville'
 directions:
   -
