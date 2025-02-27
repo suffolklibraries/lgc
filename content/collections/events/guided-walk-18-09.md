@@ -1,15 +1,16 @@
 ---
 id: 9bae0e85-78a1-400c-83f4-ed278921c6be
 blueprint: events
-title: 'World Wetland Day Guided Walk'
+title: 'Late Summer Guided Walk'
 event_categories:
   - nature
   - wellbeing
+  - movement
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-02 10:30'
-end_date: '2025-02-02 13:00'
+start_date: '2025-09-18 10:30'
+end_date: '2025-09-18 13:00'
 free: false
 cost_details: £5
 virtual: false
@@ -86,15 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: "Enjoy a guided walk around Carlton Marshes with one of our reserve wardens to celebrate World Wetland Day.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "The walk will focus on the importance of wetland habitats to wildlife and the environment, how they were created and how this incredibly important habitats are maintained.\_"
+        text: "Enjoy a guided walk around Carlton Marshes with our knowledgeable wildlife guides to learn about the habitats we have and how they're managed. We also hope to see wildlife such as the last dragonflies and butterflies of the summer.\_"
   -
     type: paragraph
     attrs:
@@ -125,7 +118,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-18-late-summer-guided-walk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -135,11 +128,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732111254
+updated_at: 1740668329
 duplicated_from: fc531a45-e702-4621-a092-87466642c4ed
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-published: false
 ---
-Celebrate World Wetland Day by exploring Carlton Marshes
+Explore the late summer wildlife at Carlton Marshes.
