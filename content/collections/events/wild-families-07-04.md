@@ -1,21 +1,20 @@
 ---
 id: 995673b6-6db0-4cff-aec6-3e4290e91e2b
-published: false
 blueprint: events
-title: 'Young Wardens at Lackford Lakes (Duplicated)'
+title: 'Wild Families - Easter Eggstravaganza'
 event_categories:
   - nature
-  - teen
-  - wellbeing
+  - family-friendly
+  - art
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-01 10:30'
-end_date: '2025-03-01 14:30'
+start_date: '2025-04-07 10:00'
+end_date: '2025-04-07 14:00'
 free: false
-cost_details: £7
+cost_details: '£8 per child, £3 per adult'
 virtual: false
-attendance_information: 'children aged 11 - 16'
+attendance_information: 'families with children aged 5+'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -60,15 +59,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
+        text: "This self-led trail around the reserve, alongside guided activity stations, will test your nest building skills, allow you to learn more about eggs in nature and give you a chance to produce some egg-cellent Easter crafts.\_This is an Easter egg hunt with a difference!"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate.'
+        text: 'Please ensure your tickets are booked under the same arrival time; all children must be accompanied by an adult with a ticket. We expect the trail to take around 45 min - 1 hour.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "This event is aimed at families with children aged 5+, although younger children are welcome. Babies in arms/pushchairs are welcome to attend for free when accompanying an older sibling and don't require a ticket."
   -
     type: paragraph
     attrs:
@@ -101,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740650993
+updated_at: 1740653669
 duplicated_from: ca65f631-a4e5-40f6-ab49-4715e770f876
 ---
-Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
+An egg-themed Wild Families special for the holidays!
