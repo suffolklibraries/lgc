@@ -1,7 +1,7 @@
 ---
 id: 1609e6ec-a1a3-41af-8143-1ce6cfba0485
 blueprint: events
-title: 'Weekend Wildlife Club'
+title: 'Weekend Wildlife Club - Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -136,7 +136,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732104868
+updated_at: 1740652554
 duplicated_from: 1af7f9ab-ff2c-4bb0-8024-e8f4fd60fa85
 accessibility_information:
   - 'Accessible toilets'
