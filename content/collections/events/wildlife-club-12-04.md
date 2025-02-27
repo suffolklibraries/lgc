@@ -1,7 +1,7 @@
 ---
 id: 1daaabbf-20ca-42dd-9689-2208c723e011
 blueprint: events
-title: 'Weekend Wildlife Club'
+title: 'Weekend Wildlife Club - Holywells Park'
 event_categories:
   - nature
   - wellbeing
@@ -132,7 +132,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732097423
+updated_at: 1740652524
 duplicated_from: 325c4e28-23d6-4859-b09f-f05d921c70af
 ---
 Meet new friends, get outdoors and earn awards.
