@@ -1,8 +1,7 @@
 ---
 id: e3d94aed-df5d-4d15-a77a-5221be7ede2f
-published: false
 blueprint: events
-title: 'Wild Tots at Lackford Lakes (Duplicated)'
+title: 'Wild Tots at Lackford Lakes'
 event_categories:
   - nature
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-05 10:00'
-end_date: '2025-03-05 11:30'
+start_date: '2025-03-12 10:00'
+end_date: '2025-03-12 11:30'
 free: false
 cost_details: '£7, including a hot drink'
 virtual: false
@@ -109,7 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740652147
+updated_at: 1740652178
 duplicated_from: e5e7fc79-260d-4d2f-88eb-f4ef278d4ab3
 ---
 Wild play activities for children aged 18 months - 5 years.
