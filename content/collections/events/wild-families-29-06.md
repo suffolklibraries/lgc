@@ -1,8 +1,7 @@
 ---
 id: c89f6d2b-d808-4cca-9c1a-f4d15dd8474a
-published: false
 blueprint: events
-title: 'Wild Families - Hedgehogs (Duplicated)'
+title: 'Wild Families - Bug Bonanza'
 event_categories:
   - nature
   - wellbeing
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-11 13:30'
-end_date: '2025-05-11 15:30'
+start_date: '2025-06-29 13:30'
+end_date: '2025-06-29 15:30'
 free: true
-cost_details: '£15 per child, £3 per adult'
+cost_details: '£5 per child, £3 per adult'
 virtual: false
 attendance_information: 'families with children aged 3+'
 latitude: '52.467464593763445'
@@ -88,15 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at Carlton Marshes to celebrate Hedgehog Awareness Week. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Learn more about hedgehogs and how you can help them whilst building your own hedgehog home (included in child ticket).\_"
+        text: 'Join us at Carlton Marshes to celebrate Insect Week. Come along and search for insects as well as learning how to make your garden more insect friendly.'
   -
     type: paragraph
     attrs:
@@ -119,7 +110,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-11-wild-families-hedgehogs'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-29-wild-families-bug-bonanza'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -129,9 +120,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740658078
+updated_at: 1740665692
 duplicated_from: b76e619c-4521-4591-80ee-38b757b8204b
 accessibility_information:
   - 'Accessible toilets'
 ---
-A hedgehog themed family session to celebrate Hedgehog Awareness Week.
+An insect themed session to celebrate Insect Week.
