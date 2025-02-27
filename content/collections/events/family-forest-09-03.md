@@ -1,20 +1,21 @@
 ---
 id: b0048f9b-8564-4f9a-acb2-a2b7280cbf1e
 blueprint: events
-title: 'Wild Tots at Foxburrow'
+title: 'Family Forest Adventure at Foxburrow'
 event_categories:
   - nature
-  - teen
   - wellbeing
+  - early-years
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-11 10:00'
-end_date: '2024-12-11 11:30'
+start_date: '2025-03-09 10:30'
+end_date: '2025-03-09 12:30'
 free: false
-cost_details: £7
+cost_details: 'Prices from £10 per adult and child'
 virtual: false
-attendance_information: 'suitable for children aged 2 to 5 years'
+attendance_information: 'suitable for children 18 months upwards'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
 address_line_1: 'Foxburrow Nature Reserve'
@@ -52,7 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Wild Tots allows children and their families to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills, and, importantly, create shared memories for children and adults.'
+        text: 'Join our team in the woods as they take you to explore our forest school with group activities, games, and fun free-flow stations. Our mornings always have the following and then we add different stations, games, and crafts each month.'
   -
     type: paragraph
     attrs:
@@ -60,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Wild Tots sessions are aimed at children aged 2 to 5 years.  Younger children are welcome though. Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session.  Older siblings can attend in the holidays.'
+        text: 'Activities might include forest crafts, whittling, rope swings, hammocks, den building, bug hunting, and scavenger hunts.'
   -
     type: paragraph
     attrs:
@@ -93,12 +94,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732100564
+updated_at: 1740652915
 duplicated_from: 6ffa49e9-1ce8-4811-843f-a183c92f2a03
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
-published: false
 ---
-Wild play activities including natural decorations for children aged 2- 5 years.
+Explore our forest school with group activities, games, and fun free-flow stations.
