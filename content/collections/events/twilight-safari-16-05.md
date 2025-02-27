@@ -1,21 +1,20 @@
 ---
 id: 6420e961-702a-416a-add3-313809bc4274
-published: false
 blueprint: events
-title: 'Young Wardens at Lackford Lakes (Duplicated)'
+title: 'Twilight Safari'
 event_categories:
   - nature
-  - teen
   - wellbeing
+  - later-years
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-01 10:30'
-end_date: '2025-03-01 14:30'
+start_date: '2025-05-16 19:30'
+end_date: '2025-05-16 21:00'
 free: false
 cost_details: £7
 virtual: false
-attendance_information: 'children aged 11 - 16'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -60,38 +59,39 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
+        text: "Lackford comes alive when everyone else goes to bed! Join us as it gets dark for a guided walk.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate.'
+        text: 'Come and have a look at our moth traps in action and have a go at identifying these with a member of our team. Then, we will head out onto the reserve for a twilight walk, and finish the night looking for bats with our bat detectors.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Visit the '
+        text: 'No need to book, please pay on arrival.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkwildlifetrust.org/eventinfo'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Wildlife Trust website'
+        text: "This event is open to all but may be unsuitable for younger children as it can get very dark on the reserve.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+        text: 'The cafe on site will be open for the event with hot drinks and cake!'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -101,7 +101,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740650993
+updated_at: 1740658228
 duplicated_from: ca65f631-a4e5-40f6-ab49-4715e770f876
 ---
-Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
+Explore Lackford as the sun sets with our wildlife guides.
