@@ -1,8 +1,7 @@
 ---
 id: 2e091d1b-8f8a-47e2-90e8-5751943a0ed2
-published: false
 blueprint: events
-title: 'Young Wardens at Carlton Marshes (Duplicated)'
+title: 'Young Wardens at Carlton Marshes'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-24 10:00'
-end_date: '2025-05-24 14:00'
+start_date: '2025-07-26 10:00'
+end_date: '2025-07-26 14:00'
 free: false
 cost_details: £7
 virtual: false
@@ -88,14 +87,6 @@ content_area:
     content:
       -
         type: text
-        text: "Please note that this months Young Wardens will be at Oulton Marshes not Carlton Marshes. The address is\_Church Avenue, Oulton NR32 5BQ."
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
   -
     type: paragraph
@@ -159,7 +150,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-26-young-wardens-carlton-marshes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -169,7 +160,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740658396
+updated_at: 1740666596
 duplicated_from: f44d862f-809f-41f2-99a3-b96537d04c01
 accessibility_information:
   - 'Accessible toilets'
