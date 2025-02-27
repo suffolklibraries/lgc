@@ -1,8 +1,7 @@
 ---
 id: b76e619c-4521-4591-80ee-38b757b8204b
-published: false
 blueprint: events
-title: 'Easter Eggstravaganza at Carlton Marshes (Duplicated)'
+title: 'Wild Families - Hedgehogs'
 event_categories:
   - nature
   - wellbeing
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-17 13:30'
-end_date: '2025-04-17 15:30'
+start_date: '2025-05-11 13:30'
+end_date: '2025-05-11 15:30'
 free: true
-cost_details: '£8 per child, £3 per adult'
+cost_details: '£15 per child, £3 per adult'
 virtual: false
 attendance_information: 'families with children aged 3+'
 latitude: '52.467464593763445'
@@ -88,15 +87,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our Easter celebrations at Carlton Marshes. Discover the nature reserve with our trail, followed by activities in the woods and then return to the visitor centre for more Easter fun.'
+        text: 'Join us at Carlton Marshes to celebrate Hedgehog Awareness Week. '
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'This session will involve approximately a half-mile walk across uneven ground.'
+        text: "Learn more about hedgehogs and how you can help them whilst building your own hedgehog home (included in child ticket).\_"
   -
     type: paragraph
     attrs:
@@ -119,7 +118,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-17-easter-eggstravaganza-carlton-marshes'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-11-wild-families-hedgehogs'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -129,9 +128,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740657272
+updated_at: 1740658078
 duplicated_from: 8b439bad-80c1-4b65-8144-aef42e644d9a
 accessibility_information:
   - 'Accessible toilets'
 ---
-An Easter themed family session.
+A hedgehog themed family session to celebrate Hedgehog Awareness Week.
