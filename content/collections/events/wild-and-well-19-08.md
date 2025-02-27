@@ -1,8 +1,7 @@
 ---
 id: aab31bec-0d54-404a-8e8c-321d99442a7d
-published: false
 blueprint: events
-title: 'Wild and Well (Duplicated)'
+title: 'Wild and Well'
 event_categories:
   - nature
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-06-05 10:00'
-end_date: '2025-06-05 14:00'
+start_date: '2025-08-19 10:00'
+end_date: '2025-08-19 14:00'
 free: false
 cost_details: '£25 per person'
 virtual: false
@@ -91,7 +90,7 @@ content_area:
       -
         type: text
         text: 'Please bring a packed lunch.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-05-wild-and-well-june'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-19-wild-and-well-august'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -101,7 +100,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740666399
+updated_at: 1740667720
 duplicated_from: 3b2df6bf-d7cc-4155-a177-c9718a210d2c
 accessibility_information:
   - 'Accessible toilets'
