@@ -1,7 +1,7 @@
 ---
 id: 1dd33fe0-a0a5-4ca5-9467-5b09e005a84a
 blueprint: events
-title: 'Wild Families - Woodland Fund'
+title: 'Wild Families - Woodland Fun'
 event_categories:
   - nature
   - wellbeing
@@ -121,7 +121,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740666338
+updated_at: 1740667428
 duplicated_from: c89f6d2b-d808-4cca-9c1a-f4d15dd8474a
 accessibility_information:
   - 'Accessible toilets'
