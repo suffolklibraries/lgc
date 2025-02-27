@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - hadleigh-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-04-28 18:00'
+start_date: '2025-04-28 17:00'
 end_date: '2025-05-02 13:00'
 free: false
 cost_details: '£40 annual membership'
@@ -196,7 +196,7 @@ cta: |-
 
   [hadleighmensshed@gmail.com](mailto:hadleighmensshed@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740564663
+updated_at: 1740645023
 duplicated_from: b69ba767-631f-4885-ada5-ce6a9eb8cf7d
 ---
 A community space for men to connect, converse and create.
