@@ -1,20 +1,20 @@
 ---
 id: 30170bd2-e487-401e-b23e-249c17fa753a
 blueprint: events
-title: 'Wild Tots at Foxburrow'
+title: 'Guided Walk - Flight of the Fledglings'
 event_categories:
+  - later-years
   - nature
-  - teen
   - wellbeing
+  - movement
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-18 10:00'
-end_date: '2024-12-18 11:30'
+start_date: '2025-05-25 10:00'
+end_date: '2025-05-25 12:00'
 free: false
-cost_details: £7
+cost_details: £5
 virtual: false
-attendance_information: 'suitable for children aged 2 to 5 years'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
 address_line_1: 'Foxburrow Nature Reserve'
@@ -52,38 +52,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Wild Tots allows children and their families to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills, and, importantly, create shared memories for children and adults.'
+        text: 'Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide Margaret. Both will take you through the mosaic that is Foxburrow Reserve.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Wild Tots sessions are aimed at children aged 2 to 5 years.  Younger children are welcome though. Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session.  Older siblings can attend in the holidays.'
+        text: 'Each month is a different focus allowing you to learn new things and experience the seasonal change. We meet on the fourth Sunday of the month.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Booking is essential as places are limited. Visit the '
+        text: 'Come along whether you are a wildlife enthusiast or are looking to improve your ID skills, everyone of all ages is welcome. We shall be exploring predominantly our red route which is a grass path and can be muddy in places. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Wildlife Trust website'
+        text: 'This trail is also exposed in some areas and can be quite hot during the summer months or windy/wet at other times so please dress for the outdoors.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+        text: 'Binoculars are recommended - we sometimes have some to borrow.'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-25-guided-monthly-walk-flight-fledglings'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -93,12 +95,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732101294
+updated_at: 1740664346
 duplicated_from: b0048f9b-8564-4f9a-acb2-a2b7280cbf1e
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
-published: false
 ---
-Wild play activities including natural decorations for children aged 2- 5 years.
+Learn about how chicks leave the nest as you walk.
