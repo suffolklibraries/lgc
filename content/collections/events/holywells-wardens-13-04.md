@@ -1,21 +1,20 @@
 ---
 id: bb9aca85-2e8e-46f4-a587-8bbc97e0cfe6
-published: false
 blueprint: events
-title: 'Wild Tots in Holywells Park (Duplicated)'
+title: 'Nature Champions - Young Wardens at Holywells Park'
 event_categories:
   - nature
-  - early-years
   - wellbeing
+  - teen
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-03 10:00'
-end_date: '2025-03-03 11:30'
+start_date: '2025-04-13 10:00'
+end_date: '2025-04-13 12:30'
 free: false
-cost_details: £4.50
+cost_details: £7
 virtual: false
-attendance_information: 'suitable for children aged 18 months to 5 years'
+attendance_information: 'young people aged 11 - 16 years'
 latitude: '52.047052878935006'
 longitude: '1.171173244877561'
 building_name: 'Holywells Park'
@@ -92,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for outdoor discovery and play in the beautiful and historic Holywells Park.'
+        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of green spaces in Ipswich; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities in our town.'
   -
     type: paragraph
     attrs:
@@ -100,15 +99,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Wild Tots gives children and their families the opportunity to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills and, importantly, create shared memories for children and adults.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session.'
+        text: "All\_Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate."
   -
     type: paragraph
     attrs:
@@ -141,7 +132,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740651190
+updated_at: 1740656945
 duplicated_from: d148abfe-1416-4f59-b60a-7c0e659e71b0
 ---
-Wild play activities for children aged 18 months to 5 years.
+Practical experience, earn your DofE award and making friends.
