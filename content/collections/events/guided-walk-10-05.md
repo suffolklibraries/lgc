@@ -1,8 +1,7 @@
 ---
 id: c42350e8-cc87-4c8d-bda5-baf9b035a27e
-published: false
 blueprint: events
-title: 'Nightingales Guided Walk (Duplicated)'
+title: 'Nightingales Guided Walk'
 event_categories:
   - nature
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-06 19:30'
-end_date: '2025-05-06 21:00'
+start_date: '2025-05-10 19:30'
+end_date: '2025-05-10 21:00'
 free: false
 cost_details: £7
 virtual: false
@@ -91,7 +90,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-06-nightingales-guided-walk'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-10-nightingales-guided-walk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -101,7 +100,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740657829
+updated_at: 1740657973
 duplicated_from: 9e6ebbeb-bf8d-4a46-8e38-9987cea1f563
 ---
 Join us on a evening walk to listen to the nightingales!
