@@ -136,5 +136,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730368236
 duplicated_from: 45703e50-022c-410f-b366-4d8cf7fc651b
+published: false
 ---
 Free music workshops for people in later life.
