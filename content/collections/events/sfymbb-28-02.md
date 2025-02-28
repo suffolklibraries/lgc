@@ -157,5 +157,6 @@ duplicated_from: 0a33cb15-d256-4cb4-b838-900c04a88dde
 attendance_information: 'young people aged 7 - 12 years'
 accessibility_information:
   - 'Wheelchair accessible'
+published: false
 ---
 All musicians welcome!
