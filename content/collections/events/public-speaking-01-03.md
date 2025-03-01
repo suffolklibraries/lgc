@@ -190,5 +190,6 @@ accessibility_information:
   - 'Hearing loop available'
   - 'Accessible toilets'
 booking_link: 'https://www.eventbrite.co.uk/e/whats-the-worst-that-could-happen-building-confidence-in-public-speaking-tickets-1049491676857'
+published: false
 ---
 Master public speaking and build confidence.
