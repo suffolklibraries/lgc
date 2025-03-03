@@ -122,5 +122,6 @@ updated_at: 1738161216
 duplicated_from: 8fc1dd80-0cf1-4887-9b19-388f25d51dca
 attendance_information: 'home educated children'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/singing-taster-session/e-gxloay'
+published: false
 ---
 Free taster sessions for home educated young people.
