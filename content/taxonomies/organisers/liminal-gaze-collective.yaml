@@ -1,3 +1,15 @@
 title: 'Liminal Gaze Collective'
 email_address: liminalgazecollective@gmail.com
 website: 'https://ko-fi.com/liminalgaze'
+addresses:
+  -
+    id: 001792d9-903d-414e-8b76-b48258e9aac4
+    name: 'CHiP Studios'
+    address_line_1: '16 Turret Lane'
+    address_line_2: null
+    town: Ipswich
+    postcode: 'IP4 1DL'
+    lat: '52.05440979999999'
+    lng: '1.1542616'
+    directions: '<p>Buses stop at the Buttermarket which is about 2 minutes away from the venue.</p><p>You can use the Ipswich buses app for up to date in for about bus timetables, you can also use Suffolk onboard if you are using any other route.</p><p>Ipswich train station is a 20 minute walk away from the venue, but there are also bus links that get you into the Buttermarket bus station.</p>'
+    building_name: '16 Turret Ln'
