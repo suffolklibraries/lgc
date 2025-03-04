@@ -41,5 +41,6 @@ end_date: '2025-03-04 20:30'
 attendance_information: adults
 duplicated_from: 88bd2ec9-9be9-479d-bd64-67401497c55f
 cost_details: '£5 per household'
+published: false
 ---
 Join in online to explore a wide range of creative prompts using whatever art materials you have at home
