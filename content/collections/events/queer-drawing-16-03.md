@@ -6,7 +6,7 @@ start_date: '2025-03-16 14:00'
 end_date: '2025-03-16 16:00'
 free: false
 virtual: false
-attendance_information: 'Suitable for ages18+'
+attendance_information: 'Suitable for ages 18+'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Quiet space available'
@@ -102,6 +102,6 @@ content_area:
         type: text
         text: 'After the session we like to have a show of work with your consent. And at close of session we like to make a trip to a local pub.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1741164658
+updated_at: 1741164675
 ---
 An untutored life drawing and social event showcasing the diversity of queer bodies and expression.
