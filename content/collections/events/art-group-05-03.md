@@ -156,5 +156,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1731315732
 duplicated_from: df869631-510d-4385-a32b-b633287c7e62
 cost_details: '£3 donation appreciated'
+published: false
 ---
 Weekly drop-in art group.
