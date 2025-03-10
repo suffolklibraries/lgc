@@ -187,5 +187,6 @@ updated_at: 1730798768
 duplicated_from: a6aa7a53-323a-4a61-b723-010af168ff41
 organisers:
   - everyone-active
+published: false
 ---
 Get outdoor, meet new people, and do gentle exercise!
