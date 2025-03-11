@@ -127,5 +127,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Illustrated talk by Alice Wickman about otter and water vole ecology and field signs.
