@@ -124,5 +124,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1736932201
 duplicated_from: f9a39b07-072a-433f-a84f-931cc3726413
+published: false
 ---
 Join us on Wednesdays at our Dove Street studio for a drop-in creative working session.

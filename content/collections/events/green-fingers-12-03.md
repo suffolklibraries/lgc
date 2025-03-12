@@ -191,5 +191,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
 building_name: 'Sudbury Arts Centre'
+published: false
 ---
 Come along to share tips, swap seeds, and learn about how you grow more plants.
