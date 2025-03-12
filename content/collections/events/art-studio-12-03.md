@@ -196,5 +196,6 @@ cta: |-
 
   [01473 563900](tel:01473563900)
 duplicated_from: 487f7761-3137-4b8a-b2bf-3e2514ebb98a
+published: false
 ---
 Focus on your own independent creativity for wellbeing practice.

@@ -113,5 +113,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Come to this talk and learn more about this most mysterious bird of the night.
