@@ -111,5 +111,6 @@ cta: |-
   [01284 716341](tel:01284716341)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738684252
+published: false
 ---
 Explore the evolution of body protection in combat with an engineer’s perspective.
