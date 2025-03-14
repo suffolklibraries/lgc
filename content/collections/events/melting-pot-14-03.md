@@ -236,5 +236,6 @@ updated_at: 1734005191
 duplicated_from: b568c777-c515-4fa4-9e7d-425b5db7b91c
 cost_details: '£10 per person'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-sculpting-in-clay-taster-session/e-mebxxj'
+published: false
 ---
 Learn the basics of sculpting in clay!

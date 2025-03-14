@@ -127,5 +127,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1732125072
 duplicated_from: dcafac4d-0f8f-4689-a1a6-4ab8cf7b59a0
 address_line_2: 'Rushmere St Andrew'
+published: false
 ---
 Join our friendly wellbeing singing group!
