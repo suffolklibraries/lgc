@@ -103,5 +103,6 @@ content_area:
         text: 'After the session we like to have a show of work with your consent. And at close of session we like to make a trip to a local pub.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1741164675
+published: false
 ---
 An untutored life drawing and social event showcasing the diversity of queer bodies and expression.
