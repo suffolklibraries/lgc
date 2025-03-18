@@ -103,5 +103,6 @@ updated_at: 1734005288
 duplicated_from: 6564cf59-3d66-4450-b633-9d10cd17004f
 cost_details: '£15 per person'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-tetra-pak-printing-workshop/e-kobybp'
+published: false
 ---
 Learn how to make printing blocks, engrave your design, then apply ink and print using a press.
