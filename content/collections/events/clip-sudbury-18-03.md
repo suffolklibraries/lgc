@@ -173,5 +173,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 A weekly club for young musicians to play with musical tech!
