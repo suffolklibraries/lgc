@@ -131,7 +131,7 @@ cta: |-
 
   [shedheadsbse@gmail.com](mailto:shedheadsbse@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742474924
+updated_at: 1742474971
 duplicated_from: 989bac61-b79e-4028-8d59-5a1ec45869cf
 ---
 Open to anyone 18 or over, of all interests and skill levels (and not just men!)
