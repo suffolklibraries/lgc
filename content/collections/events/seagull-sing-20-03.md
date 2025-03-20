@@ -137,5 +137,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730112732
 duplicated_from: bdb4f9c9-a5cd-48a1-873d-290d5a81fafe
 attendance_information: 'People living with dementia and their families'
+published: false
 ---
 A fun weekly group for people and families living with dementia.
