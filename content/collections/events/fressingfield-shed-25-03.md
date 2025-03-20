@@ -9,60 +9,20 @@ event_categories:
 organisers:
   - fressingfield-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-03-03 18:00'
-end_date: '2025-03-07 13:00'
+start_date: '2025-03-25 10:00'
+end_date: '2025-03-28 12:00'
 free: false
-cost_details: '£40 annual membership'
+cost_details: '£24 annual membership'
 virtual: false
-attendance_information: 'men aged over 18'
-latitude: '52.04093895296346'
-longitude: '0.9558472828544907'
-building_name: 'Black Swan Yard'
-address_line_1: 'Next to No. 4'
-address_line_2: 'Benton Street'
-town: Hadleigh
-postcode: 'IP7 5BD'
+attendance_information: 'People aged 18+'
+latitude: '52.347512851761536'
+longitude: '1.3130958953047387'
+building_name: 'The Fressingfield Shed'
+address_line_1: 'New Street'
+address_line_2: Fressingfield
+town: Eye
+postcode: 'IP21 5PG'
 directions:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.babergh.gov.uk/w/magdalen-road-long-stay-car-park'
-              rel: null
-              target: _blank
-              title: null
-        text: 'nearest car park'
-      -
-        type: text
-        text: ' is an eight minute walk away on Magdalen Road.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is a bus stop '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/place/Market+Place/@52.0422774,0.9523373,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a872045f27c5:0x5f6b00c950f2491d!2sMarket+Place,+Hadleigh,+Ipswich+IP7+5AL!2m2!1d0.954147!2d52.043743!1m6!1m2!1s0x47d9a872e567dc87:0x4705dbb406edb016!2s4+Benton+St,+Hadleigh,+Ipswich+IP7+5AT!2m2!1d0.9558151!2d52.0407608!3e2!3m5!1s0x47d9a872045f27c5:0x5f6b00c950f2491d!8m2!3d52.043743!4d0.954147!16s%2Fg%2F1q67tdsnb?entry=ttu&g_ep=EgoyMDI1MDIyNC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-        text: 'a five minute walk'
-      -
-        type: text
-        text: ' away at the Market Place.'
   -
     type: paragraph
     content:
@@ -188,6 +148,6 @@ cta: |-
   [https://thefressingfieldshed.co.uk/](https://thefressingfieldshed.co.uk/) 
   [info@thefressingfieldshed.co.uk](mailto:info@thefressingfieldshed.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742470326
+updated_at: 1742470803
 ---
 A community workshop and garden in north Suffolk.
