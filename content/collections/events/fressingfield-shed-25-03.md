@@ -143,11 +143,11 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Fressingfield Shed.
+  This event is organised by Fressingfield Shed
 
   [https://thefressingfieldshed.co.uk/](https://thefressingfieldshed.co.uk/) 
   [info@thefressingfieldshed.co.uk](mailto:info@thefressingfieldshed.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742470803
+updated_at: 1742470865
 ---
 A community workshop and garden in north Suffolk.
