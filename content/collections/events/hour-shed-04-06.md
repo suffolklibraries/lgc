@@ -1,15 +1,14 @@
 ---
 id: 21c01173-7a11-44ee-b820-5dbbea8c2eac
-published: false
 blueprint: events
-title: 'Hour Shed (Duplicated) (Duplicated)'
+title: 'Hour Shed'
 event_categories:
   - community
   - later-years
   - nature
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-05-21 10:00'
-end_date: '2025-05-24 17:00'
+start_date: '2025-06-04 10:00'
+end_date: '2025-06-07 17:00'
 free: false
 cost_details: '£30 for six month membership'
 virtual: true
@@ -155,7 +154,7 @@ cta: |-
 
   [admin@hourcommunity.co.uk](mailto:admin@hourcommunity.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742480815
+updated_at: 1742480856
 duplicated_from: 5614d952-0093-4c24-85f5-b47be30cae7d
 ---
 Socialise and share skills.
