@@ -1,13 +1,13 @@
 ---
 id: 8da90d11-0ff9-44a8-94d8-481bf5739963
 blueprint: events
-title: "Hadleigh Men's Shed"
+title: 'Fressingfield Shed'
 event_categories:
   - community
   - later-years
   - nature
 organisers:
-  - hadleigh-mens-shed
+  - fressingfield-shed
 featured_image: pelicanpelican-3x2/gardentools.png
 start_date: '2025-03-03 18:00'
 end_date: '2025-03-07 13:00'
@@ -88,7 +88,7 @@ content_area:
     content:
       -
         type: text
-        text: "Hadleigh Men's Shed was established in late 2022 and we are currently focused on improving the current site into a working and furnished shed. Men's Sheds help combat loneliness, isolation and mental health issues, but most importantly, they're fun!"
+        text: 'We are a community workshop in Fressingfield, dedicated to woodworking, modelling, gardening, crafts, fibre work, and repairing. '
   -
     type: paragraph
     attrs:
@@ -96,37 +96,46 @@ content_area:
     content:
       -
         type: text
-        text: 'If you would like to come along and see what we are achieving or talk to our members about the plans for the Hadleigh Shed, drop us a message via email on '
+        text: 'Our mission is to encourage skill-building, well-being, and community through traditional crafts and making activities, while promoting environmental sustainability through reuse, repairing, and gardening.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'mailto:hadleighmensshed@gmail.com'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: hadleighmensshed@gmail.com
+            type: bold
+        text: 'Opening Hours'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: ' or call '
+        text: 'Tuesday - 10am - midday - workshop and garden'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07860429151'
-              rel: null
-              target: null
-              title: null
-        text: '07860 429151'
+        text: 'Thursdays - 10am - midday - workshop and garden'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: .
+        text: 'Friday - morning drop-in'
   -
     type: paragraph
     attrs:
@@ -138,7 +147,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The group meet at the following times - '
+        text: 'Sewing on the last Monday of the month 7pm-9pm'
   -
     type: paragraph
     attrs:
@@ -146,23 +155,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Monday - 6pm - 9pm'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Wednesday - 9am - 1pm, 6pm - 9pm'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Friday - 9am - 1pm'
+        text: 'Printmaking on the third Thursday evening monthly at 7-9pm'
   -
     type: paragraph
     attrs:
@@ -190,13 +183,11 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Hadleigh Men's Shed. 
+  This event is organised by Fressingfield Shed.
 
-  [07351 420816](tel:07351420816)
-
-  [hadleighmensshed@gmail.com](mailto:hadleighmensshed@gmail.com)
+  [https://thefressingfieldshed.co.uk/](https://thefressingfieldshed.co.uk/) 
+  [info@thefressingfieldshed.co.uk](mailto:info@thefressingfieldshed.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740564418
-published: false
+updated_at: 1742470326
 ---
-A community space for men to connect, converse and create.
+A community workshop and garden in north Suffolk.
