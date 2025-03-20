@@ -136,5 +136,6 @@ directions:
         text: .
   -
     type: paragraph
+published: false
 ---
 Drop by and get a glimpse of some of the objects found in Ipswich!
