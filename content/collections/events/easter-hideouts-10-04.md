@@ -1,8 +1,7 @@
 ---
 id: ac67c674-a118-4239-ae47-342506c3ce7e
-published: false
 blueprint: events
-title: 'Easter Holiday Hideouts (Duplicated)'
+title: 'Easter Holiday Hideouts'
 event_categories:
   - art
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-04-08 09:00'
-end_date: '2025-04-08 15:00'
+start_date: '2025-04-10 09:00'
+end_date: '2025-04-10 15:00'
 free: false
 virtual: false
 latitude: '52.0563490706618'
@@ -97,7 +96,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742571176
+updated_at: 1742571236
 duplicated_from: fe9d5988-a632-4c39-a15a-142b87fc8512
 cost_details: £40
 accessibility_information:
