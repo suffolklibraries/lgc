@@ -1,8 +1,7 @@
 ---
 id: 666ce793-4db5-4463-af1c-5b036065685b
-published: false
 blueprint: events
-title: 'Wickham Market Shed (Duplicated) (Duplicated)'
+title: 'Wickham Market Shed'
 event_categories:
   - community
   - later-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - wickham-market-shed
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-06-02 14:00'
-end_date: '2025-06-02 16:00'
+start_date: '2025-06-16 14:00'
+end_date: '2025-06-16 16:00'
 free: false
 cost_details: '£12 annual membership'
 virtual: false
@@ -145,7 +144,7 @@ cta: |-
   [https://www.wmshed.org.uk/](https://www.wmshed.org.uk/) 
   [wmshedders@gmail.com](mailto:wmshedders@gmail.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742569686
+updated_at: 1742569723
 duplicated_from: 07a4a296-7282-4fef-ad5d-b21c8ba2df7a
 ---
 A community space for people to connect, converse and create.
