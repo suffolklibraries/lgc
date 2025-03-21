@@ -1,18 +1,16 @@
 ---
 id: fe9d5988-a632-4c39-a15a-142b87fc8512
-published: false
 blueprint: events
-title: 'Home Ed Creative Workshop (Duplicated)'
+title: 'Easter Holiday Hideouts'
 event_categories:
   - art
   - family-friendly
   - languages
-  - teen
 organisers:
   - rock-paper-scissors
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-04-03 10:00'
-end_date: '2025-04-03 12:00'
+start_date: '2025-04-08 09:00'
+end_date: '2025-04-08 15:00'
 free: false
 virtual: false
 latitude: '52.0563490706618'
@@ -84,33 +82,27 @@ content_area:
     content:
       -
         type: text
-        text: 'Marie and Lulu run gently structured workshops, with a weekly theme with opportunities to make and create in different ways.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Parents and guardians are welcome to stay if they get involved! '
+        text: 'Have access to all our amazing kit, materials and space to get creative and messy!'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive'
+        text: 'Please wear clothes you don’t mind getting messy and bring a packed lunch!'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740570768
+updated_at: 1742571176
 duplicated_from: 48e26c73-706f-4d69-8079-52360b5e9624
-cost_details: '£6 per person'
+cost_details: £40
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Autism friendly'
-attendance_information: 'children aged 8 - 14 years'
+  - 'Accessible toilets'
+attendance_information: 'children aged 5 - 11 years'
 ---
-Home Educated young artists are invited to create with us in a calm and quiet inclusive space.
+Full day art camps at our new studio!
