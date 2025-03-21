@@ -1,15 +1,14 @@
 ---
 id: 95929d83-1623-4241-a47b-be3fa9be263c
-published: false
 blueprint: events
-title: 'Saturday Art Club - Morning (Duplicated)'
+title: 'Saturday Art Club - Morning'
 event_categories:
   - languages
   - family-friendly
   - art
 organisers:
   - rock-paper-scissors
-start_date: '2025-03-22 10:00'
+start_date: '2025-03-29 10:00'
 free: false
 virtual: false
 content_area:
@@ -34,9 +33,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742570866
+updated_at: 1742570887
 featured_image: pelicanpelican-3x2/lgc-va.png
-end_date: '2025-03-22 11:30'
+end_date: '2025-03-29 11:30'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: '11 Dove Street'
