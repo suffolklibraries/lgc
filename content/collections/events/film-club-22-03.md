@@ -177,5 +177,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738591986
 duplicated_from: dfd17cc8-fa71-4b84-add1-98c1bb8fdbd8
+published: false
 ---
 A weekly club for young people interested in film and screen specialist skills.
