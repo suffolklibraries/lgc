@@ -117,5 +117,6 @@ updated_at: 1732103924
 duplicated_from: a4b47ad3-2f63-449b-bd88-d2030fd33adb
 accessibility_information:
   - 'Accessible toilets'
+published: false
 ---
 Come and have a go at making a seed bomb to take home and watch the flowers grow.

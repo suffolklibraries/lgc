@@ -118,5 +118,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1736939609
 duplicated_from: 33206a46-f5ab-49f2-a23d-1b4d4fd4a6ea
 booking_link: 'https://www.eastpointpavilion.com/events/1bhrim4a048fw4mgpqi0q8dcfe8shi'
+published: false
 ---
 Explore local crafts and participate in a variety of workshops.
