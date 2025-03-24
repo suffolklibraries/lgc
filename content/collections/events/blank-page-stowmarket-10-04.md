@@ -1,14 +1,13 @@
 ---
 id: cc8de9af-e2cc-4cad-8fec-a053042d70da
-published: false
 blueprint: events
-title: 'Blank Page - Stowmarket (Duplicated)'
+title: 'Blank Page - Stowmarket'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833938
+updated_at: 1742834059
 latitude: '52.187988733605216'
 longitude: '0.9971791124598641'
-start_date: '2025-04-09 09:45'
+start_date: '2025-04-10 09:45'
 event_categories:
   - art
   - teen
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join professional sculptor Emma Denby for this creative workshop for 10-16 year olds at Stowmarket Library. Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
+        text: 'Join storyteller Kirsty Tallent for this creative workshop for 10-16 year olds at Stowmarket Library. Create, shoot, edit and screen your very own movie trailer! This workshop is part of '
       -
         type: text
         marks:
@@ -66,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: "This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques. \_"
+        text: 'Come along to this fun and accessible workshop exploring the key elements of storytelling through filmmaking. In this hands on workshop you will play with lighting, sound, animation, acting, editing and much more!'
   -
     type: paragraph
     attrs:
@@ -74,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: "Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way. \_"
+        text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -87,9 +86,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-09 15:30'
+end_date: '2025-04-10 15:30'
 duplicated_from: 901425aa-4fd4-4458-8823-a25c990a2f2a
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-workshop-with-emma-denby'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/lights-camera-action-filmmaking-workshop-with-kirsty-tallent'
 directions:
   -
     type: paragraph
