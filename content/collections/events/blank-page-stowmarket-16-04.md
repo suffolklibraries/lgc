@@ -1,14 +1,13 @@
 ---
 id: 6a6cdf07-1ba4-4dc1-bdcd-d89b06fc120a
-published: false
 blueprint: events
-title: 'Blank Page - Stowmarket (Duplicated)'
+title: 'Blank Page - Stowmarket'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834059
+updated_at: 1742834787
 latitude: '52.187988733605216'
 longitude: '0.9971791124598641'
-start_date: '2025-04-10 09:45'
+start_date: '2025-04-16 09:45'
 event_categories:
   - art
   - teen
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join storyteller Kirsty Tallent for this creative workshop for 10-16 year olds at Stowmarket Library. Create, shoot, edit and screen your very own movie trailer! This workshop is part of '
+        text: 'Join photographer Gillian Allard for this creative workshop for 10-16 year olds at Stowmarket Library. Create a unique time-lapse film by playing with photography and sound effects. This workshop is part of '
       -
         type: text
         marks:
@@ -66,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along to this fun and accessible workshop exploring the key elements of storytelling through filmmaking. In this hands on workshop you will play with lighting, sound, animation, acting, editing and much more!'
+        text: "The workshop will start with participants taking original photos that represent their unique perspective, using books from the library, and any imagery they like. We will then manipulate the images and work them into a series, layering them together. \_"
   -
     type: paragraph
     attrs:
@@ -74,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The wellbeing of our young people is really important to us and time outdoors is a key part of that. With this in mind, where possible a short walk or time outdoors will be incorporated into the workshop days. This will be supervised by the staff running the workshops and will also be weather dependent. Please ensure your child has a coat and sensible footwear!'
+        text: 'In the second part of the workshop, we will explore creating animation through our photo series, ripping up the images to reveal each layer, making a time-lapse film. Lastly, we will be adding sound effects to enhance the visual experience of our artwork.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -87,9 +86,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-10 15:30'
+end_date: '2025-04-16 15:30'
 duplicated_from: cc8de9af-e2cc-4cad-8fec-a053042d70da
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/lights-camera-action-filmmaking-workshop-with-kirsty-tallent'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/photography-animation-with-gillian-allard-stowmarket'
 directions:
   -
     type: paragraph
