@@ -4,7 +4,7 @@ blueprint: events
 title: 'Blank Page - Beccles'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834517
+updated_at: 1742835100
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
 start_date: '2025-04-08 09:45'
@@ -20,7 +20,7 @@ address_line_1: 'Beccles Library'
 address_line_2: Blyburgate
 town: Beccles
 postcode: 'NR34 9TB'
-featured_image: offthepressimages/new_resized_images/Teen.png
+featured_image: pelicanpelican-3x2/teen-(1).png
 attendance_information: 'ages 10 - 16'
 content_area:
   -
