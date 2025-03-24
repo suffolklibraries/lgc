@@ -4,7 +4,7 @@ blueprint: events
 title: 'Blank Page - Haverhill'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834388
+updated_at: 1742835231
 latitude: '52.08323706363814'
 longitude: '0.4367866106022539'
 start_date: '2025-04-14 09:45'
@@ -21,7 +21,7 @@ address_line_1: 'Haverhill Library'
 address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
-featured_image: offthepressimages/new_resized_images/Teen.png
+featured_image: pelicanpelican-3x2/teen-(1).png
 attendance_information: 'ages 10 - 16'
 content_area:
   -
