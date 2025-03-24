@@ -4,7 +4,7 @@ blueprint: events
 title: 'Blank Page - Stowmarket'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833938
+updated_at: 1742835273
 latitude: '52.187988733605216'
 longitude: '0.9971791124598641'
 start_date: '2025-04-09 09:45'
@@ -20,7 +20,7 @@ address_line_1: 'Stowmarket Library'
 address_line_2: 'Milton Road North'
 town: Stowmarket
 postcode: 'IP14 1EX'
-featured_image: offthepressimages/new_resized_images/Teen.png
+featured_image: pelicanpelican-3x2/teen-(1).png
 attendance_information: 'ages 10 - 16'
 content_area:
   -
