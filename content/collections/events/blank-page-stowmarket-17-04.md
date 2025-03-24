@@ -1,14 +1,13 @@
 ---
 id: 8f252f2a-b54a-4842-a3fc-7dbb28043e2b
-published: false
 blueprint: events
-title: 'Blank Page - Stowmarket (Duplicated)'
+title: 'Blank Page - Stowmarket'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834787
+updated_at: 1742834870
 latitude: '52.187988733605216'
 longitude: '0.9971791124598641'
-start_date: '2025-04-16 09:45'
+start_date: '2025-04-17 09:45'
 event_categories:
   - art
   - teen
@@ -17,7 +16,6 @@ free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Stowmarket Library'
 address_line_2: 'Milton Road North'
 town: Stowmarket
 postcode: 'IP14 1EX'
@@ -31,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join photographer Gillian Allard for this creative workshop for 10-16 year olds at Stowmarket Library. Create a unique time-lapse film by playing with photography and sound effects. This workshop is part of '
+        text: 'Join artist and designer Holly Scholfield for this creative workshop for 10-16 year olds at Stowmarket Library. Design and make your own beautiful dry point etching using environmentally friendly materials. This workshop is part of '
       -
         type: text
         marks:
@@ -47,7 +45,7 @@ content_area:
         text: 'The Blank Page Project'
       -
         type: text
-        text: .
+        text: ". \_"
   -
     type: paragraph
     attrs:
@@ -59,6 +57,9 @@ content_area:
           -
             type: bold
         text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+      -
+        type: text
+        text: " \_"
   -
     type: paragraph
     attrs:
@@ -66,15 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: "The workshop will start with participants taking original photos that represent their unique perspective, using books from the library, and any imagery they like. We will then manipulate the images and work them into a series, layering them together. \_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'In the second part of the workshop, we will explore creating animation through our photo series, ripping up the images to reveal each layer, making a time-lapse film. Lastly, we will be adding sound effects to enhance the visual experience of our artwork.'
+        text: 'Join us for a busy day of drawing, designing, and printing! Using recycled Tetrapak, we will explore the traditional printing technique of dry point. You will be guided through the whole process from start to finish, using etching tools, inks and a printing press. Participants will get to go home with their own unique prints.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -87,9 +80,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-16 15:30'
+end_date: '2025-04-17 15:30'
 duplicated_from: 6a6cdf07-1ba4-4dc1-bdcd-d89b06fc120a
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/photography-animation-with-gillian-allard-stowmarket'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/eco-printmaking-holly-scholfield-stowmarket'
 directions:
   -
     type: paragraph
@@ -185,5 +178,6 @@ directions:
       -
         type: text
         text: .
+building_name: 'Stowmarket Library'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
