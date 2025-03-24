@@ -1,18 +1,18 @@
 ---
 id: a898fe52-4e8d-4e45-82d4-b78a6bef47f3
-published: false
 blueprint: events
-title: 'Blank Page - Haverhill (Duplicated)'
+title: 'Blank Page - Haverhill'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833346
+updated_at: 1742834388
 latitude: '52.08323706363814'
 longitude: '0.4367866106022539'
-start_date: '2024-07-25 09:45'
+start_date: '2025-04-14 09:45'
 event_categories:
   - art
   - computing
   - music
+  - teen
 free: true
 virtual: false
 organisers:
@@ -22,7 +22,7 @@ address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
 featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: 'Ages 10 - 16'
+attendance_information: 'ages 10 - 16'
 content_area:
   -
     type: paragraph
@@ -31,7 +31,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Join artist and designer Holly Scholfield for this creative workshop for 10-16 year olds at Haverhill Library. Design and make your own beautiful dry point etching using environmentally friendly materials. This workshop is part of The Blank Page Project.  '
+        text: 'Join musician Ben Brown and visual artist Catalina Carvajal for this creative workshop for 10-16 year olds at Haverhill Library! Explore your innate creativity to spontaneously create exciting and unique works or audio and visual art. This workshop is part of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: 'The Blank Page Project'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -39,7 +55,10 @@ content_area:
     content:
       -
         type: text
-        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!  '
+        marks:
+          -
+            type: bold
+        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
   -
     type: paragraph
     attrs:
@@ -47,7 +66,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a busy day of drawing, designing, and printing! Using recycled Tetrapak, we will explore the traditional printing technique of dry point. You will be guided through the whole process from start to finish, using etching tools, inks and a printing press. Participants will get to go home with their own unique prints.'
+        text: 'Participants will go on a creative journey, writing and recording a song with Ben and creating the cover art with Catalina. In this workshop we will explore songwriting; rhythm, rhyming and harmony as well as visual arts. Together we will write a song by brainstorming ideas and using a variety of creative techniques and games. - Once created, we will then record the song in the space!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We will also cocreate a piece of cover art to accompany the track. The completed tracks will be uploaded to Bandcamp as part of the Blank Page EP which will be downloadable for free (individual participants will not be named).'
   -
     type: paragraph
     attrs:
@@ -64,9 +91,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2024-08-29 15:30'
+end_date: '2025-04-14 15:30'
 duplicated_from: e3f7a53a-3400-4cc4-b142-d945925ba27c
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/eco-printmaking-holly-scholfield-haverhill'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/write-a-song-in-a-day-workshop-haverhill'
 directions:
   -
     type: paragraph
