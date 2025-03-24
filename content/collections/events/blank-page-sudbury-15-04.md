@@ -1,14 +1,13 @@
 ---
 id: d8caa746-ca13-4887-9888-031953c4f687
-published: false
 blueprint: events
-title: 'Blank Page - Sudbury (Duplicated)'
+title: 'Blank Page - Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833717
+updated_at: 1742834571
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
-start_date: '2025-04-08 09:45'
+start_date: '2025-04-15 09:45'
 event_categories:
   - art
   - teen
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join illustrator Joel Millerchip for this creative workshop for 10-16 year olds at Sudbury Library. Create a fun flash sheet of your very own cartoon tattoo designs! This workshop is part of '
+        text: 'Join arts practitioner Lorna-Jane Garside for this creative workshop for 10-16 year olds at Sudbury Library. Learn how to create your own gory special effects makeup looks! This workshop is part of '
       -
         type: text
         marks:
@@ -65,7 +64,15 @@ content_area:
     content:
       -
         type: text
-        text: "Participants will draw a flash sheet of designs to be decorated using ink and water colour techniques. Everyone will get to take home their original multi-coloured sheet full of tattoo designs. \_"
+        text: "Learn how to create your own cuts, bruises and gory special effects makeup looks! \_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Participants will learn how to create the gory looks they've seen on stage and screen. You'll be making your own stage blood, creating latex prosthetics, and learning how to apply cuts and bruises. We'll build the weirdest and most creative story we can think of and design the special effects to go along with it!"
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -78,9 +85,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-08 15:30'
+end_date: '2025-04-15 15:30'
 duplicated_from: 46578f2b-d22b-4f9e-a201-837fb3667ee6
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/illustrated-tattoo-designs-with-joel-millerchip'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/gory-stories-lorna-jane-garside-sudbury'
 building_name: 'Sudbury Library'
 directions:
   -
