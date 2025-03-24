@@ -1,17 +1,17 @@
 ---
 id: 96d2c14f-cc9d-4cac-bc07-cb4fdac89aa0
-published: false
 blueprint: events
-title: 'Blank Page - Gainsborough (Duplicated)'
+title: 'Blank Page - Gainsborough'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834139
+updated_at: 1742834655
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
-start_date: '2025-04-10 09:45'
+start_date: '2025-04-15 09:45'
 event_categories:
   - art
   - teen
+  - languages
 free: true
 virtual: false
 organisers:
@@ -30,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join theatre maker Sian Burford-Thomas for this creative workshop for 10-16 year olds at Gainsborough Community Library! This unique workshop will explore identity and performance, taking you on a creative journey of self-discovery. Sian’s workshop is brought to you as part of '
+        text: 'Join professional sculptor Emma Denby for this creative workshop for 10-16 year olds at Gainsborough Community Library. Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
       -
         type: text
         marks:
@@ -65,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: "Jump into action this spring and create a character with a difference! Our blank canvas’ identity will be revealed only by you… \_"
+        text: "This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques. \_"
   -
     type: paragraph
     attrs:
@@ -73,15 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Bring the character to life through designing their look, who they are on the inside and how they will make a difference to the world around us.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'We’ll be looking at visual elements such as clothing to shape the look of our character and creating performances to reflect our character’s traits and passions, using recorded voice work. Accessible and fun theatrical exercises and techniques will help participants to develop their ideas. Our finished character will remain on display at the library for all to see at the end of the day.'
+        text: "Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way. \_"
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -95,9 +87,9 @@ accessibility_information:
   - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-end_date: '2025-04-10 15:30'
+end_date: '2025-04-15 15:30'
 duplicated_from: 13cf376a-84d8-403d-88f9-cedea7023815
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/who-am-i-character-creation-sian-burford-thomas'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-workshop-with-emma-denby-gainsborough'
 directions:
   -
     type: paragraph
