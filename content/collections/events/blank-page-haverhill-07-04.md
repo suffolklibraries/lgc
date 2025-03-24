@@ -1,11 +1,10 @@
 ---
 id: e3f7a53a-3400-4cc4-b142-d945925ba27c
-published: false
 blueprint: events
 title: 'Blank Page - Haverhill'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720006451
+updated_at: 1742833346
 latitude: '52.08323706363814'
 longitude: '0.4367866106022539'
 start_date: '2024-07-25 09:45'
@@ -22,84 +21,52 @@ address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
 featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+attendance_information: 'Ages 10 - 16'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Join artist and designer Holly Scholfield for this creative workshop for 10-16 year olds at Haverhill Library. Design and make your own beautiful dry point etching using environmentally friendly materials. This workshop is part of The Blank Page Project.  '
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
-  -
-    type: heading
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to book'
+        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!  '
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: .
-  -
-    type: heading
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to get there'
+        text: 'Join us for a busy day of drawing, designing, and printing! Using recycled Tetrapak, we will explore the traditional printing technique of dry point. You will be guided through the whole process from start to finish, using etching tools, inks and a printing press. Participants will get to go home with their own unique prints.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+cta: |-
+  This event is organised by Suffolk Libraries
+
+  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+
+  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+
+  [01473 351249](tel:01473351249)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Autism friendly'
+  - 'Accessible toilets'
+end_date: '2024-08-29 15:30'
+duplicated_from: 901425aa-4fd4-4458-8823-a25c990a2f2a
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/eco-printmaking-holly-scholfield-haverhill'
+directions:
   -
     type: paragraph
     content:
@@ -174,20 +141,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Suffolk Libraries
-
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
-
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-29 15:30'
-duplicated_from: 901425aa-4fd4-4458-8823-a25c990a2f2a
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+High-quality creative activities run by local artists in libraries during the school holidays!
