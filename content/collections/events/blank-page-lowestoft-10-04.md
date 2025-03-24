@@ -1,18 +1,17 @@
 ---
 id: 8eee1894-3873-43df-b564-059623c659f5
-published: false
 blueprint: events
-title: 'Blank Page - Lowestoft (Duplicated)'
+title: 'Blank Page - Lowestoft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833870
+updated_at: 1742833987
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
-start_date: '2025-04-09 09:45'
+start_date: '2025-04-10 09:45'
 event_categories:
   - art
-  - computing
   - teen
+  - music
 free: true
 virtual: false
 organisers:
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join artist Lulu Horsfield for this creative workshop for 10-16 year olds at Lowestoft Library and learn how to create your own 2D stop frame animation! This workshop is part of '
+        text: 'Join musician Ben Brown and visual artist Catalina Carvajal for this creative workshop for 10-16 year olds at Lowestoft Library! Explore your innate creativity to spontaneously create exciting and unique works or audio and visual art. This workshop is part of '
       -
         type: text
         marks:
@@ -40,7 +39,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: _blank
+              target: null
               title: null
           -
             type: underline
@@ -58,10 +57,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Workshops take place from 9.45AM to 3.30PM and include a free lunch, drinks and snacks!'
-      -
-        type: text
-        text: ‍
+        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
   -
     type: paragraph
     attrs:
@@ -69,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This one-day workshop will introduce future animators to 2D stop frame animation using their own ideas, artwork and storytelling skills.'
+        text: 'Participants will go on a creative journey, writing and recording a song with Ben and creating the cover art with Catalina. In this workshop we will explore songwriting; rhythm, rhyming and harmony as well as visual arts. Together we will write a song by brainstorming ideas and using a variety of creative techniques and games. - Once created, we will then record the song in the space!'
   -
     type: paragraph
     attrs:
@@ -77,7 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We will encourage participants to tell their own stories through moving image, by exploring 2D methods of animation using iPad technology. Participants will have the opportunity to create their own artwork in different ways and learn how to work with stop frame animation techniques to make their own short film.'
+        text: 'We will also cocreate a piece of cover art to accompany the track. The completed tracks will be uploaded to Bandcamp as part of the Blank Page EP which will be downloadable for free (individual participants will not be named).'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -90,9 +86,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-09 15:30'
+end_date: '2025-04-10 15:30'
 duplicated_from: 73e351a7-7933-4269-ba74-1e26369fee8b
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/lulu-horsfield-future-animators-lowestoft'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/write-a-song-in-a-day-workshop'
 directions:
   -
     type: paragraph
