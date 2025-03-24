@@ -1,14 +1,13 @@
 ---
 id: bae17aac-9efc-4f87-83a1-83e26e190915
-published: false
 blueprint: events
-title: 'Blank Page - Gainsborough (Duplicated)'
+title: 'Blank Page - Gainsborough'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834655
+updated_at: 1742834961
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
-start_date: '2025-04-15 09:45'
+start_date: '2025-04-17 09:45'
 event_categories:
   - art
   - teen
@@ -17,7 +16,6 @@ free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Gainsborough Library'
 address_line_2: 'Clapgate Lane'
 town: Ipswich
 postcode: 'IP3 0RL'
@@ -31,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join professional sculptor Emma Denby for this creative workshop for 10-16 year olds at Gainsborough Community Library. Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
+        text: 'Join illustrator Joel Millerchip for this creative workshop for 10-16 year olds at Gainsborough Community Library. Create a fun flash sheet of your very own cartoon tattoo designs! This workshop is part of '
       -
         type: text
         marks:
@@ -66,15 +64,7 @@ content_area:
     content:
       -
         type: text
-        text: "This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques. \_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way. \_"
+        text: "Participants will draw a flash sheet of designs to be decorated using ink and water colour techniques. Everyone will get to take home their original multi-coloured sheet full of tattoo designs. \_"
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -88,9 +78,9 @@ accessibility_information:
   - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-end_date: '2025-04-15 15:30'
+end_date: '2025-04-17 15:30'
 duplicated_from: 96d2c14f-cc9d-4cac-bc07-cb4fdac89aa0
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-workshop-with-emma-denby-gainsborough'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/illustrated-tattoo-designs-with-joel-millerchip-gainsborough'
 directions:
   -
     type: paragraph
@@ -132,5 +122,6 @@ directions:
       -
         type: text
         text: .
+building_name: 'Gainsborough Library'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
