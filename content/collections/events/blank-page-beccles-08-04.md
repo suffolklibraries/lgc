@@ -4,10 +4,10 @@ blueprint: events
 title: 'Blank Page - Beccles'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833632
+updated_at: 1742834517
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
-start_date: '2024-07-23 09:45'
+start_date: '2025-04-08 09:45'
 event_categories:
   - literature
   - teen
@@ -78,7 +78,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible parking spaces'
-end_date: '2024-08-27 15:30'
+end_date: '2025-04-08 15:30'
 duplicated_from: 95c79c24-1d15-44d6-81e7-9875b86a7e4b
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/creative-writing-poppy-stevens'
 directions:
