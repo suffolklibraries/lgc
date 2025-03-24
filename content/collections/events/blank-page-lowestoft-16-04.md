@@ -4,14 +4,14 @@ blueprint: events
 title: 'Blank Page - Lowestoft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834698
+updated_at: 1742834709
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
 start_date: '2025-04-16 09:45'
 event_categories:
   - art
   - teen
-  - music
+  - computing
 free: true
 virtual: false
 organisers:
