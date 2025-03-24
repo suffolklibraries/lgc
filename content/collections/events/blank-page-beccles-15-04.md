@@ -1,23 +1,20 @@
 ---
 id: ad8610b3-fed0-46cb-89ba-ba61717725fc
-published: false
 blueprint: events
-title: 'Blank Page - Beccles (Duplicated)'
+title: 'Blank Page - Beccles'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833632
+updated_at: 1742834494
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
-start_date: '2024-07-23 09:45'
+start_date: '2025-04-15 09:45'
 event_categories:
-  - literature
   - teen
   - art
 free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Beccles Library'
 address_line_2: Blyburgate
 town: Beccles
 postcode: 'NR34 9TB'
@@ -31,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join writer and performer Poppy Stevens for this creative workshop for 10-16 year olds at Beccles Library. This workshop will equip you with the skills to harness your creativity and get started! No previous writing experience necessary. Poppy’s workshop is brought to you as part of '
+        text: 'Join artist and designer Holly Scholfield for this creative workshop for 10-16 year olds at Beccles Library. Design and print your own colourful t-shirts! This workshop is part of '
       -
         type: text
         marks:
@@ -66,7 +63,15 @@ content_area:
     content:
       -
         type: text
-        text: "Join us for games, writing, crafts and a whole lot more. You will come away with a beautifully decorated poem, as well as a bunch of creative prompts to continue your creativity at home. We will also be creating a daisy chain display for the library. These daisies might feature poems, positive affirmations or compliments to plant a seed of kindness for our fellow library users. \_"
+        text: "In this workshop we will be exploring the traditional Indian craft of block printing using the technique of lino cutting. We will each draw and create our own repeat designs ready to transfer to the fabric. This workshop will allow you to learn new skills and experiment with patternmaking and printing on both fabric and paper. \_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Please feel free to bring in any old t-shirts and fabrics of your own from home that you might like to upcycle. Come and have a fun and busy day of printing!'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -79,9 +84,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible parking spaces'
-end_date: '2024-08-27 15:30'
+end_date: '2025-04-15 15:30'
 duplicated_from: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/creative-writing-poppy-stevens'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/design-print-repeat-workshop-with-holly-scholfield'
 directions:
   -
     type: paragraph
@@ -163,5 +168,6 @@ directions:
       -
         type: text
         text: .
+building_name: 'Beccles Library'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
