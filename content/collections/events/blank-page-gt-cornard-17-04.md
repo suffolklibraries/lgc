@@ -1,17 +1,16 @@
 ---
 id: 478a1ac2-9543-4d7c-8a51-bba4a5c715f6
-published: false
 blueprint: events
-title: 'Blank Page - Great Cornard (Duplicated)'
+title: 'Blank Page - Great Cornard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834251
+updated_at: 1742834832
 latitude: '52.02573056378427'
 longitude: '0.7497339820400621'
-start_date: '2025-04-10 09:45'
+start_date: '2025-04-17 09:45'
 event_categories:
   - art
-  - computing
+  - teen
 free: true
 virtual: false
 organisers:
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join photographer Gillian Allard for this creative workshop for 10-16 year olds at Great Cornard Library. Create a unique time-lapse film by playing with photography and sound effects. This workshop is part of '
+        text: 'Join ceramic artist Emma Jayne Robertson for this creative workshop for 10-16 year olds at Great Cornard Library and create your very own clay bowl based on your favourite character or story! This workshop is part of '
       -
         type: text
         marks:
@@ -64,7 +63,7 @@ content_area:
     content:
       -
         type: text
-        text: "The workshop will start with participants taking original photos that represent their unique perspective, using books from the library, and any imagery they like. We will then manipulate the images and work them into a series, layering them together. \_"
+        text: 'This workshop will get us thinking and talking about our favourite reads and creating our very own clay bowl based on a character or story. Participants will transform a hand-built clay bowl into their favourite character or story book with support and guidance from ceramic artist, Emma Jayne Robertson. The day will begin by exploring ideas through drawing and designing before starting to work with the clay to bring their ideas to life.'
   -
     type: paragraph
     attrs:
@@ -72,7 +71,15 @@ content_area:
     content:
       -
         type: text
-        text: 'In the second part of the workshop, we will explore creating animation through our photo series, ripping up the images to reveal each layer, making a time-lapse film. Lastly, we will be adding sound effects to enhance the visual experience of our artwork.'
+        text: 'We will pinch, coil or form the clay into a bowl shape and then make and attach details to the surface. They will then get the chance to carefully add colour to their creations with ceramic underglaze paints.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "The work will be taken back to the EJaRt Creative Studio where it will dry out and then be fired in our kilns with a clear gloss glaze on the surface. They will then be returned to the library venue to be collected. (Please note: This can take 4-6 weeks during busy periods). \_"
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -86,9 +93,9 @@ accessibility_information:
   - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-end_date: '2025-04-10 15:30'
+end_date: '2025-04-17 15:30'
 duplicated_from: 87970162-561d-4f88-914c-4e6ad3b7438e
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/photography-animation-with-gillian-allard-great-cornard'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/clay-character-story-bowl-emma-jayne-robertston'
 building_name: 'Great Cornard Library'
 directions:
   -
