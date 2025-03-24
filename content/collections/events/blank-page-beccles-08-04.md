@@ -1,17 +1,17 @@
 ---
 id: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
-published: false
 blueprint: events
 title: 'Blank Page - Beccles'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720005291
+updated_at: 1742833632
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
 start_date: '2024-07-23 09:45'
 event_categories:
+  - literature
+  - teen
   - art
-  - computing
 free: true
 virtual: false
 organisers:
@@ -21,34 +21,16 @@ address_line_2: Blyburgate
 town: Beccles
 postcode: 'NR34 9TB'
 featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+attendance_information: 'ages 10 - 16'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
+        text: 'Join writer and performer Poppy Stevens for this creative workshop for 10-16 year olds at Beccles Library. This workshop will equip you with the skills to harness your creativity and get started! No previous writing experience necessary. Poppy’s workshop is brought to you as part of '
       -
         type: text
         marks:
@@ -59,46 +41,47 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
+            type: underline
+        text: 'The Blank Page Project'
       -
         type: text
         text: .
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to get there'
+        marks:
+          -
+            type: bold
+        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Join us for games, writing, crafts and a whole lot more. You will come away with a beautifully decorated poem, as well as a bunch of creative prompts to continue your creativity at home. We will also be creating a daisy chain display for the library. These daisies might feature poems, positive affirmations or compliments to plant a seed of kindness for our fellow library users. \_"
+cta: |-
+  This event is organised by Suffolk Libraries
+
+  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+
+  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+
+  [01473 351249](tel:01473351249)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Autism friendly'
+  - 'Accessible parking spaces'
+end_date: '2024-08-27 15:30'
+duplicated_from: 95c79c24-1d15-44d6-81e7-9875b86a7e4b
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/creative-writing-poppy-stevens'
+directions:
   -
     type: paragraph
     content:
@@ -179,20 +162,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Suffolk Libraries
-
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
-
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-27 15:30'
-duplicated_from: 95c79c24-1d15-44d6-81e7-9875b86a7e4b
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+High-quality creative activities run by local artists in libraries during the school holidays!
