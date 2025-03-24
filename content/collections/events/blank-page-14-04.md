@@ -194,7 +194,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834432
+updated_at: 1742835220
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-ipswich'
 ---
