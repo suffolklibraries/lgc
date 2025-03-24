@@ -1,14 +1,13 @@
 ---
 id: 13cf376a-84d8-403d-88f9-cedea7023815
-published: false
 blueprint: events
-title: 'Blank Page - Gainsborough (Duplicated)'
+title: 'Blank Page - Gainsborough'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833797
+updated_at: 1742834139
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
-start_date: '2025-04-08 09:45'
+start_date: '2025-04-10 09:45'
 event_categories:
   - art
   - teen
@@ -30,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join textiles artist Clare Sams for this creative workshop for 10-16 year olds at Gainsborough Community Library. Learn how to make recycled art using magazines, comics and varnish. This workshop is part of '
+        text: 'Join theatre maker Sian Burford-Thomas for this creative workshop for 10-16 year olds at Gainsborough Community Library! This unique workshop will explore identity and performance, taking you on a creative journey of self-discovery. Sian’s workshop is brought to you as part of '
       -
         type: text
         marks:
@@ -65,7 +64,23 @@ content_area:
     content:
       -
         type: text
-        text: "In this workshop you will learn how to customise objects with recycled comics and magazines to make fun and personalised creations. Decoupage is a traditional craft, used to upcycle objects for the home with colours, pictures, and patterns by using scrap paper and varnish. In the session you can try out the art of collage using paper glue, magazines, and card to get familiar with the techniques. Next you will make a customised keychain charm using decoupage glue and lettering. Moving onto a larger project after lunch, you can use your new decoupage skills to customise your own project, including wooden boxes, coasters, and canvases. What will you create? \_"
+        text: "Jump into action this spring and create a character with a difference! Our blank canvas’ identity will be revealed only by you… \_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Bring the character to life through designing their look, who they are on the inside and how they will make a difference to the world around us.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We’ll be looking at visual elements such as clothing to shape the look of our character and creating performances to reflect our character’s traits and passions, using recorded voice work. Accessible and fun theatrical exercises and techniques will help participants to develop their ideas. Our finished character will remain on display at the library for all to see at the end of the day.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -79,9 +94,9 @@ accessibility_information:
   - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-end_date: '2025-04-08 15:30'
+end_date: '2025-04-10 15:30'
 duplicated_from: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/upcycled-collage-and-decoupage-with-clare-sams'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/who-am-i-character-creation-sian-burford-thomas'
 directions:
   -
     type: paragraph
