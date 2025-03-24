@@ -1,55 +1,34 @@
 ---
 id: 26244b02-f50d-4633-b2ba-d3344f422339
-published: false
 blueprint: events
 title: 'Blank Page - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720008263
+updated_at: 1742834327
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
-start_date: '2024-07-26 09:45'
+start_date: '2025-04-11 09:45'
 event_categories:
   - art
-  - computing
-  - music
+  - teen
 free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Felixstowe Library'
 address_line_2: 'Crescent Road'
 town: Felixstowe
 postcode: 'IP11 7BY'
 featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+attendance_information: 'ages 10 - 16'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
+        text: 'Join digital artist Eloise Cookson for this creative workshop for 10-16 year olds at Felixstowe Library. Learn how to design your own original characters and bring them to life! This workshop is part of '
       -
         type: text
         marks:
@@ -60,46 +39,56 @@ content_area:
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
+            type: underline
+        text: 'The Blank Page Project'
       -
         type: text
         text: .
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to get there'
+        marks:
+          -
+            type: bold
+        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Whether this is the first time creating your own character or you already have existing characters, this workshop will support and level up your character designing skills! Eloise will first introduce some character design principles she uses in her own process with examples from animated media and comics. Throughout the day with different character designing activities, taking inspiration from objects, nature, as well as their own passions and interests, participants will explore how to practically incorporate these concepts when creating their original characters.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'By the end of the workshop, participants will go home with their character concepts & illustrations for the day, having created their characters and an idea for the world and story they live in.'
+cta: |-
+  This event is organised by Suffolk Libraries
+
+  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+
+  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+
+  [01473 351249](tel:01473351249)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Autism friendly'
+  - 'Accessible toilets'
+end_date: '2025-04-11 15:30'
+duplicated_from: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
+building_name: 'Felixstowe Library'
+directions:
   -
     type: paragraph
     content:
@@ -194,20 +183,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Suffolk Libraries
-
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
-
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-30 15:30'
-duplicated_from: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+High-quality creative activities run by local artists in libraries during the school holidays!
