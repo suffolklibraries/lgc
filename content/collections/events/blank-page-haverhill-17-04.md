@@ -1,24 +1,22 @@
 ---
 id: 1bb010da-2ce1-49e0-9b90-44491ca3efc5
-published: false
 blueprint: events
-title: 'Blank Page - Haverhill (Duplicated)'
+title: 'Blank Page - Haverhill'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834388
+updated_at: 1742834921
 latitude: '52.08323706363814'
 longitude: '0.4367866106022539'
-start_date: '2025-04-14 09:45'
+start_date: '2025-04-17 09:45'
 event_categories:
   - art
-  - computing
-  - music
   - teen
+  - languages
+  - film
 free: true
 virtual: false
 organisers:
   - suffolk-libraries
-address_line_1: 'Haverhill Library'
 address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
@@ -32,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join musician Ben Brown and visual artist Catalina Carvajal for this creative workshop for 10-16 year olds at Haverhill Library! Explore your innate creativity to spontaneously create exciting and unique works or audio and visual art. This workshop is part of '
+        text: 'Join arts practitioner Lorna-Jane Garside for this creative workshop for 10-16 year olds at Haverhill Library. Learn how to create your own gory special effects makeup looks! This workshop is part of '
       -
         type: text
         marks:
@@ -41,7 +39,7 @@ content_area:
             attrs:
               href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
               rel: null
-              target: null
+              target: _blank
               title: null
           -
             type: underline
@@ -67,7 +65,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Participants will go on a creative journey, writing and recording a song with Ben and creating the cover art with Catalina. In this workshop we will explore songwriting; rhythm, rhyming and harmony as well as visual arts. Together we will write a song by brainstorming ideas and using a variety of creative techniques and games. - Once created, we will then record the song in the space!'
+        text: "Learn how to create your own cuts, bruises and gory special effects makeup looks! \_"
   -
     type: paragraph
     attrs:
@@ -75,11 +73,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We will also cocreate a piece of cover art to accompany the track. The completed tracks will be uploaded to Bandcamp as part of the Blank Page EP which will be downloadable for free (individual participants will not be named).'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
+        text: "Participants will learn how to create the gory looks they've seen on stage and screen. You'll be making your own stage blood, creating latex prosthetics, and learning how to apply cuts and bruises. We'll build the weirdest and most creative story we can think of and design the special effects to go along with it!"
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -92,9 +86,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-14 15:30'
+end_date: '2025-04-17 15:30'
 duplicated_from: a898fe52-4e8d-4e45-82d4-b78a6bef47f3
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/write-a-song-in-a-day-workshop-haverhill'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/gory-stories-lorna-jane-garside-haverhill'
 directions:
   -
     type: paragraph
@@ -170,5 +164,6 @@ directions:
       -
         type: text
         text: .
+building_name: 'Haverhill Library'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
