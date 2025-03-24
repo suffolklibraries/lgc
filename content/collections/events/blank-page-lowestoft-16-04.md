@@ -1,14 +1,13 @@
 ---
 id: 62eb0c6d-67eb-4140-b419-0c03e5469fe3
-published: false
 blueprint: events
-title: 'Blank Page - Lowestoft (Duplicated)'
+title: 'Blank Page - Lowestoft'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834610
+updated_at: 1742834698
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
-start_date: '2025-04-15 09:45'
+start_date: '2025-04-16 09:45'
 event_categories:
   - art
   - teen
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join bookbinding extraordinaire Hazel Garrity for this creative workshop for 10-16 year olds at Lowestoft Library. Learn how to create your very own nature journal using traditional bookbinding tools and techniques. This workshop is part of '
+        text: 'Join digital artist Michelle Brace for this creative workshop for 10-16 year olds at Lowestoft Library. Create your own digital billboard using text, collage materials and visual mixing techniques! This workshop is part of '
       -
         type: text
         marks:
@@ -66,7 +65,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Keeping a nature journal is a great way to slow down, look around and connect with the world outside. Through simple step-by-step demonstrations in a relaxed atmosphere, you will learn some of the key processes for bookmaking. Then you will be able to make free choices about layout, design and content for your own hand bound notebook. You will take home a carefully crafted and personalised journal which you can continue to fill with observations, ideas and images in the months to come. There may be opportunities for some fresh air and inspiration outside the library, too.'
+        text: "Through a hands-on process of building up a colourful collage using images, text, acrylic markers and collage papers you will create a design for your billboard that can be re-mixed and added to in Procreate on the iPad (supplied for use in the workshop). Your digital design will be uploaded into a mock-up app so that you can see your work displayed, in its full creative glory, in its street location (think bus stop display or large-scale advertising hoarding). \_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'You can expect to come away from the day with skills in digital mixing, editing and an experience of working with layers and layer masks but, if you prefer just to collage, that is awesome too. You will still be able to create your own digital billboard! The session will include a playful exploration of words and text so that, if you like, you can get your message out there along with your awesome creativity via your billboard. Your digital designs will be shared digitally after the workshop and an A4 printed copy of your digital billboard will be given to you to take home.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -79,9 +86,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-15 15:30'
+end_date: '2025-04-16 15:30'
 duplicated_from: cf25c3ca-b987-4d45-84ca-feb631b980ab
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/make-a-nature-journal-with-hazel-garrity'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-lowestoft'
 directions:
   -
     type: paragraph
