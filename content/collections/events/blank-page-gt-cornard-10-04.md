@@ -4,7 +4,7 @@ blueprint: events
 title: 'Blank Page - Great Cornard'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834251
+updated_at: 1742835126
 latitude: '52.02573056378427'
 longitude: '0.7497339820400621'
 start_date: '2025-04-10 09:45'
@@ -18,7 +18,7 @@ organisers:
 address_line_2: 'Head Lane, Great Cornard'
 town: Sudbury
 postcode: 'CO10 0JU'
-featured_image: offthepressimages/new_resized_images/Teen.png
+featured_image: pelicanpelican-3x2/teen-(1).png
 attendance_information: 'ages 10 - 16'
 content_area:
   -
