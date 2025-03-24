@@ -4,7 +4,7 @@ blueprint: events
 title: 'Blank Page - Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834571
+updated_at: 1742835205
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
 start_date: '2025-04-15 09:45'
@@ -19,7 +19,7 @@ organisers:
 address_line_2: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EN'
-featured_image: offthepressimages/new_resized_images/Teen.png
+featured_image: pelicanpelican-3x2/teen-(1).png
 attendance_information: 'ages 10 - 16'
 content_area:
   -
