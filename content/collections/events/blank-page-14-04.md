@@ -1,17 +1,16 @@
 ---
 id: 22fd4b6e-8533-4f0b-9e76-1e3cbfe21322
-published: false
 blueprint: events
-title: 'Blank Page - Ipswich (Duplicated)'
+title: 'Blank Page - Ipswich'
 event_categories:
-  - family-friendly
   - art
   - teen
+  - computing
 organisers:
   - suffolk-libraries
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-04-07 09:45'
-end_date: '2025-04-07 15:30'
+start_date: '2025-04-14 09:45'
+end_date: '2025-04-14 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -142,7 +141,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join photographer Gillian Allard for this creative workshop for 10-16 year olds at Ipswich County Library. Create a unique time-lapse film by playing with photography and sound effects. This workshop is part of '
+        text: 'Join digital artist Michelle Brace for this creative workshop for 10-16 year olds at Ipswich County Library. Create your own digital billboard using text, collage materials and visual mixing techniques! This workshop is part of '
       -
         type: text
         marks:
@@ -177,7 +176,7 @@ content_area:
     content:
       -
         type: text
-        text: "The workshop will start with participants taking original photos that represent their unique perspective, using books from the library, and any imagery they like. We will then manipulate the images and work them into a series, layering them together. \_"
+        text: "Through a hands-on process of building up a colourful collage using images, text, acrylic markers and collage papers you will create a design for your billboard that can be re-mixed and added to in Procreate on the iPad (supplied for use in the workshop). Your digital design will be uploaded into a mock-up app so that you can see your work displayed, in its full creative glory, in its street location (think bus stop display or large-scale advertising hoarding). \_"
   -
     type: paragraph
     attrs:
@@ -185,7 +184,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In the second part of the workshop, we will explore creating animation through our photo series, ripping up the images to reveal each layer, making a time-lapse film. Lastly, we will be adding sound effects to enhance the visual experience of our artwork.'
+        text: 'You can expect to come away from the day with skills in digital mixing, editing and an experience of working with layers and layer masks but, if you prefer just to collage, that is awesome too. You will still be able to create your own digital billboard! The session will include a playful exploration of words and text so that, if you like, you can get your message out there along with your awesome creativity via your billboard. Your digital designs will be shared digitally after the workshop and an A4 printed copy of your digital billboard will be given to you to take home.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -195,8 +194,8 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742833497
+updated_at: 1742834432
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/photography-animation-with-gillian-allard'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/digital-billboards-with-michelle-brace-ipswich'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
