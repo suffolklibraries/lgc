@@ -1,14 +1,13 @@
 ---
 id: d0c02cb1-5ce0-4c19-ac1a-6144d5e3040d
-published: false
 blueprint: events
-title: 'Blank Page - Felixstowe (Duplicated)'
+title: 'Blank Page - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742834327
+updated_at: 1742834753
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
-start_date: '2025-04-11 09:45'
+start_date: '2025-04-16 09:45'
 event_categories:
   - art
   - teen
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join digital artist Eloise Cookson for this creative workshop for 10-16 year olds at Felixstowe Library. Learn how to design your own original characters and bring them to life! This workshop is part of '
+        text: 'Join artist Lulu Horsfield for this creative workshop for 10-16 year olds at Felixstowe Library and learn how to create your own 2D stop frame animation! This workshop is part of '
       -
         type: text
         marks:
@@ -57,6 +56,9 @@ content_area:
           -
             type: bold
         text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+      -
+        type: text
+        text: ‍
   -
     type: paragraph
     attrs:
@@ -64,7 +66,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Whether this is the first time creating your own character or you already have existing characters, this workshop will support and level up your character designing skills! Eloise will first introduce some character design principles she uses in her own process with examples from animated media and comics. Throughout the day with different character designing activities, taking inspiration from objects, nature, as well as their own passions and interests, participants will explore how to practically incorporate these concepts when creating their original characters.'
+        text: 'This one-day workshop will introduce future animators to 2D stop frame animation using their own ideas, artwork and storytelling skills.'
   -
     type: paragraph
     attrs:
@@ -72,7 +74,13 @@ content_area:
     content:
       -
         type: text
-        text: 'By the end of the workshop, participants will go home with their character concepts & illustrations for the day, having created their characters and an idea for the world and story they live in.'
+        text: 'We will encourage participants to tell their own stories through moving image, by exploring 2D methods of animation using iPad technology. Participants will have the opportunity to create their own artwork in different ways and learn how to work with stop frame animation techniques to make their own short film. '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: ‍
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -85,9 +93,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-11 15:30'
+end_date: '2025-04-16 15:30'
 duplicated_from: 26244b02-f50d-4633-b2ba-d3344f422339
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/lulu-horsfield-future-animators-felixstowe'
 building_name: 'Felixstowe Library'
 directions:
   -
