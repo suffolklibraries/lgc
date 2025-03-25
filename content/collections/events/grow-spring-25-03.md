@@ -142,5 +142,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1737538936
 attendance_information: 'ages 16+'
 duplicated_from: 05681d9e-934f-42ff-baec-5613f78e7517
+published: false
 ---
 Learn about gardening, horticulture and nature conservation!
