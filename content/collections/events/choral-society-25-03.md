@@ -148,5 +148,6 @@ updated_at: 1740566748
 duplicated_from: 044b728b-d7f6-4862-aa96-169264d6fc31
 organisers:
   - beccles-choral-society
+published: false
 ---
 Friendly amateur choir who enjoy singing and welcome new members without audition
