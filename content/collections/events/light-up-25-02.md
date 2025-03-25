@@ -163,5 +163,6 @@ duplicated_from: 0a557cc1-d0fd-4722-a789-241c095687cb
 organisers:
   - creative-people-and-places-marketplace
 address_line_2: 'Market Hill'
+published: false
 ---
 Spring is coming - let's light up the town!
