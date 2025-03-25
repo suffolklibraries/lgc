@@ -280,5 +280,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/springboard-juniors-2/'
+published: false
 ---
 Springboard Juniors is a fun, friendly and inclusive class for children and young people with additional needs.
