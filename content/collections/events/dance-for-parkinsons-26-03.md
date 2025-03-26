@@ -229,5 +229,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-4/'
+published: false
 ---
 Dance classes designed for people with Parkinson's.
