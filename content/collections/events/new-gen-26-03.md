@@ -102,5 +102,6 @@ cta: |-
 
   [https://www.ipswichcm.org.uk/](https://www.ipswichcm.org.uk/)
 duplicated_from: a62274f4-1ade-4516-af7d-324a4014ec13
+published: false
 ---
 Free youth music project
