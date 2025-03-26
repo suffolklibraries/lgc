@@ -156,5 +156,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Drop-in event'
+published: false
 ---
 Discuss your writing in an informal, friendly, and supportive environment with our writers’ group!
