@@ -162,5 +162,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1740588662
 duplicated_from: 3ffee108-fb86-430d-9ab6-f8b4c5c429f2
 attendance_information: 'people in receipt of benefits'
+published: false
 ---
 Creative workshops exploring movement.

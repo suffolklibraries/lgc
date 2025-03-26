@@ -94,5 +94,6 @@ updated_at: 1733224656
 duplicated_from: 9d6b58c4-15ca-4cca-9ca3-623bcb1eeaf8
 cost_details: '£5 per person'
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/melting-pot-with-mana-art-jewellery-making/e-kogjxv'
+published: false
 ---
 A relaxed jewellery making workshop with Donna of Mana Art.
