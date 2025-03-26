@@ -129,5 +129,6 @@ duplicated_from: 442763f4-3dfe-4fae-98ab-3af33604cf6f
 organisers:
   - creative-people-and-places-marketplace
 address_line_2: Mildenhall
+published: false
 ---
 Spring is coming - let's light up the town!
