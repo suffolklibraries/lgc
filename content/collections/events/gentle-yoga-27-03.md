@@ -82,5 +82,6 @@ event_categories:
   - community
   - wellbeing
   - movement
+published: false
 ---
 Our popular gentle seated yoga is an accessible activity suitable for people living with a range of mobility and/or health challenges.
