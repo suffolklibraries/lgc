@@ -156,5 +156,6 @@ updated_at: 1738600802
 duplicated_from: d98e7deb-009c-4e13-8644-b01a84204f47
 organisers:
   - creative-people-and-places-marketplace
+published: false
 ---
 Spring is coming - let's light up the town!
