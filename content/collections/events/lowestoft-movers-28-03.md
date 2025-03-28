@@ -138,5 +138,6 @@ updated_at: 1733318948
 duplicated_from: a8ace977-40f1-41e8-bd76-dedd3c0cb54d
 cost_details: £5
 attendance_information: 'people aged 55+'
+published: false
 ---
 Come and try our weekly movement classes for people over 55!

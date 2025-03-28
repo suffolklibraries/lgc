@@ -167,5 +167,6 @@ directions:
     type: heading
     attrs:
       level: 3
+published: false
 ---
 Our popular gentle seated yoga is an accessible activity suitable for people living with a range of mobility and/or health challenges.

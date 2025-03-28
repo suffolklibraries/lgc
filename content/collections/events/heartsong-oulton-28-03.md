@@ -164,5 +164,6 @@ duplicated_from: c37a5228-1ab4-4b83-b9ea-2db7b60b42b8
 organisers:
   - music-in-our-bones
 address_line_2: 'Oulton Broad'
+published: false
 ---
 Join our friendly wellbeing singing group!

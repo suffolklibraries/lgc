@@ -149,5 +149,6 @@ cta: |-
   [info@thefressingfieldshed.co.uk](mailto:info@thefressingfieldshed.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1742470865
+published: false
 ---
 A community workshop and garden in north Suffolk.
