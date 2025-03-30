@@ -12,9 +12,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-additional_access_information: 'No parking available close to the studio, studio is all on one level and wheelchair accessible.'
-latitude: '52.05440979999999'
-longitude: '1.1542616'
 address_line_1: '16 Turret Lane'
 building_name: '16 Turret Ln'
 town: Ipswich
