@@ -1,44 +1,46 @@
 ---
-id: 7bbba746-f1d9-4396-adfa-74ae47b67d7a
+id: 680742f3-b7bc-4e18-afba-12212e6b03eb
 published: false
 blueprint: events
-title: 'Queer life Drawing'
+title: 'Queer Life Drawing'
 start_date: 2025-04-19T14:00:00+00:00
 end_date: 2025-04-19T16:00:00+00:00
 free: false
 virtual: false
-attendance_information: "Over 18’s only\r\nThis event is for members of the LGBTQIA+ Community and artists of all levels."
+attendance_information: 'Suitable for ages 18+'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
+  - 'Quiet space available'
   - 'Accessible toilets'
+  - 'Relaxed performance'
 address_line_1: '16 Turret Lane'
-building_name: '16 Turret Ln'
+building_name: 'CHiP Studios'
 town: Ipswich
 postcode: 'IP4 1DL'
 directions: |-
   <p>Buses stop at the Buttermarket which is about 2 minutes away from the venue.</p>
 
-  <p>You can use the Ipswich buses app for up to date in for about bus timetables, you can also use Suffolk onboard if you are using any other route.</p>
+  <p>You can use the Ipswich buses app for up to date in for about bus timetables, you can also use <a href="https://www.suffolkonboard.com/">Suffolk Onboard</a> if you are using any other route.</p>
 
   <p>Ipswich train station is a 20 minute walk away from the venue, but there are also bus links that get you into the Buttermarket bus station.</p>
 content_area: |-
-  <p>This is a two hours Life drawing session that runs from 2pm-4pm</p>
+  <p>This is a non hierarchal and untutored life drawing class. We host Queer Life drawing every month at CHiP studios with a new model each time to represent the diversity of the queer community.</p>
 
-  <p>The session will start with an introduction to Queer Life drawing and sessions aims followed by the model who will run through a series of different timed poses.</p>
+  <p>Our sessions are model centered, meaning that the model has full control of the space, they will bring props if they wish, create a playlist for us to enjoy together whatever best represents how they experience their own queer identity.</p>
 
-  <p>We will have a break half way through the session for a cup of tea or snacks.</p>
+  <p>Our sessions are informal, you are allowed to bring any materials you wish and connect with other attending artists during the session.</p>
 
-  <p>After the session we share the work made that day and we have further chances to socialise after the session with a relaxed trip to the Thomas Wolsey Pub.</p>
+  <p>Sessions last for two hours with a break in the middle for yours and the model's comfort.</p>
+
+  <p>After the session we like to have a show of work with your consent. And at close of session we like to make a trip to a local pub.</p>
 booking_link: 'https://ko-fi.com/liminalgaze'
-cta: 'Please purchase a ticket before attending the event so we can account for numbers and the privacy and dignity of our life model.'
-cost_details: 'Sliding Pay Scale (£4 Unwaged/concession, £7 Standard, £10 Solidarity)'
+cost_details: 'Unwaged/Concession: £4. Standard: £7. Solidarity: £10'
 created_by: 1bd92b89-519f-48c9-be43-c0110c069cef
-featured_image: user-events/190425insta.png
+featured_image: user-events/190425insta-1743345615.png
 event_categories:
   - art
   - community
 organisers:
   - liminal-gaze-collective
 ---
-A relaxed, informal and untutored Queer life drawing session. Each month, a different model represents the diversity and beauty of the LGBTQIA+ community.
+An untutored life drawing and social event showcasing the diversity of queer bodies and expression.
