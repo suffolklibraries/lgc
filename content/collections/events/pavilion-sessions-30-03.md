@@ -114,5 +114,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738161663
 booking_link: 'https://www.eastpointpavilion.com/events/john-lynne-ward-present-the-pavilion-sessions'
 duplicated_from: 33206a46-f5ab-49f2-a23d-1b4d4fd4a6ea
+published: false
 ---
 Inclusive folk get-togethers.
