@@ -164,5 +164,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730110596
 duplicated_from: 6373245d-747f-4412-947b-e4b7692260a8
 attendance_information: '6 - 18 year olds'
+published: false
 ---
 Building confidence and self-esteem through theatre.
