@@ -162,5 +162,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738844422
 duplicated_from: 26f0c5ae-d5fd-4208-92dc-d2c3245d318a
 attendance_information: 'ages 18+'
+published: false
 ---
 Spoken word open mic.
