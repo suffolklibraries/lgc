@@ -1,14 +1,13 @@
 ---
 id: 5b1de243-2843-4959-bc48-8f578a009f0a
-published: false
 blueprint: events
-title: 'Moving Minds (Duplicated)'
+title: 'Moving Minds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743591095
+updated_at: 1743591120
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-05-21 10:00'
+start_date: '2025-06-04 10:00'
 free: true
 virtual: false
 organisers:
@@ -105,7 +104,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-05-21 11:45'
+end_date: '2025-06-04 11:45'
 attendance_information: 'all welcome'
 duplicated_from: 1cc11c7c-ff77-444a-95e2-5b73c2af20bf
 cost_details: 'donations welcome'
