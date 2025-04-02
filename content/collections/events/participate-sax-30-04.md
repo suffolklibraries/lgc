@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-03-26 10:00'
-end_date: '2025-04-02 12:00'
+start_date: '2025-04-30 10:00'
+end_date: '2025-04-30 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -150,7 +150,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736267440
+updated_at: 1743589831
 duplicated_from: 98938121-3583-471e-b5bd-572caf29ffd0
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
