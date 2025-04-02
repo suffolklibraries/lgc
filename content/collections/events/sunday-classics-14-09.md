@@ -1,13 +1,12 @@
 ---
 id: 8bd3e404-0ceb-4805-97b0-7f6688662d34
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club - Summer Holiday (Duplicated)'
+title: 'Sunday Classics Film Club - Grease'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609673
-start_date: '2025-08-03 14:30'
-end_date: '2025-08-03 16:00'
+updated_at: 1743609709
+start_date: '2025-09-14 14:30'
+end_date: '2025-09-14 16:00'
 free: true
 virtual: false
 organisers:
@@ -61,7 +60,7 @@ event_categories:
   - community
   - wellbeing
   - later-years
-booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-summer-holiday/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-grease/'
 building_name: 'The Seagull Theatre'
 directions:
   -
