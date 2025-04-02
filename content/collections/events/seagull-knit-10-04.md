@@ -1,20 +1,21 @@
 ---
 id: 784dc695-65a3-469e-9358-0983db9970c1
 blueprint: events
-title: 'Seagull Sing-a-Long'
+title: 'Knit and Natter'
 event_categories:
   - wellbeing
-  - music
+  - later-years
+  - art
+  - community
 organisers:
   - the-seagull-theatre
-featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-02-06 12:30'
-end_date: '2025-02-06 14:30'
+featured_image: pelicanpelican-3x2/olderpeople.png
+start_date: '2025-04-10 12:30'
+end_date: '2025-04-10 14:30'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Dementia friendly'
   - 'Accessible toilets'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
@@ -82,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We have a fun sing-a-long every Thursday between 12.30pm and 2.00pm.'
+        text: 'Pop in for 30 minutes or stay for two hours. The bar is open for teas and coffees.'
   -
     type: paragraph
     attrs:
@@ -90,7 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'It’s a free, fun activity for people living with dementia and their families, with free tea and biscuits. '
+        text: 'No need to book, just come along.'
   -
     type: paragraph
     attrs:
@@ -98,33 +99,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No musical experience or talent required, just come along and join in! '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Email '
+        text: 'Visit the'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:community@theseagull.co.uk'
+              href: 'https://theseagull.co.uk/2020/07/15/knit-and-natter/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: 'community@theseagull.co.uk '
+        text: " Seagull's website"
       -
         type: text
-        text: 'for more information and to book.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
+        text: ' to find out more.'
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -134,9 +123,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730112625
+updated_at: 1743607752
 duplicated_from: 1c048286-e8b6-4cae-9753-3919a2e3b9b8
-attendance_information: 'People living with dementia and their families'
-published: false
 ---
-A fun weekly group for people and families living with dementia.
+Make friends, bring your knitting, and stay for a chat.
