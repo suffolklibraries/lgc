@@ -1,8 +1,7 @@
 ---
 id: e26d88b9-9cc8-4c92-9fd9-56407734e98d
-published: false
 blueprint: events
-title: 'Curious Minds - Woodbridge (Duplicated) (Duplicated)'
+title: 'Curious Minds - Woodbridge'
 event_categories:
   - wellbeing
   - community
@@ -11,100 +10,15 @@ event_categories:
 organisers:
   - suffolk-art-link
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-04-14 14:00'
-end_date: '2025-04-14 16:00'
+start_date: '2025-05-05 14:00'
+end_date: '2025-05-05 16:00'
 free: true
-virtual: false
+virtual: true
 attendance_information: 'people aged 18 plus living with complex health needs'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
-building_name: 'Woodbridge Library'
-address_line_1: 'New Street'
-town: Woodbridge
-postcode: 'IP12 1DT'
-directions:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/dir/Woodbridge+Library/Church,+Woodbridge+IP12+1EB/@52.0928912,1.3171752,17z/data=!4m14!4m13!1m5!1m1!1s0x47d99c83f4f78655:0x6c098c29b12f2330!2m2!1d1.3176273!2d52.0937547!1m5!1m1!1s0x47d99c839050651d:0x48fe51bc8d2a782d!2m2!1d1.31896!2d52.094467!3e2?entry=ttu&g_ep=EgoyMDI1MDMzMC4wIKXMDSoASAFQAw%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-        text: 'nearest bus stop'
-      -
-        type: text
-        text: ' is a four minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is limited onsite parking. The '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.apcoa.co.uk/parking-in/woodbridge/oak-lane-woodbridge/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'nearest paid car park '
-      -
-        type: text
-        text: 'is a minute walk away on Oak Lane.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Woodbridge railway station is a 10 minute walk away. You can find up to date train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/wdb'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: '. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Plan your journey using '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Onboard'
-      -
-        type: text
-        text: .
 content_area:
   -
     type: paragraph
@@ -189,9 +103,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743583168
+updated_at: 1743583250
 duplicated_from: 106799e9-4794-426d-a796-b1d4e0a07842
-latitude: '52.09386265265452'
-longitude: '1.3176599995179699'
 ---
 A 12 week wellbeing programme with creative and mindful activities.
