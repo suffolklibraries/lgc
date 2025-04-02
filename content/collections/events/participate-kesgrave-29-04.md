@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-04-01 10:00'
-end_date: '2025-04-01 12:00'
+start_date: '2025-04-29 10:00'
+end_date: '2025-04-29 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -22,7 +22,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
-building_name: 'Stour Room'
+building_name: 'Bowls Pavilion'
 address_line_1: 'Kesgrave War Memorial Community Centre'
 address_line_2: 'Twelve Acre Approach'
 town: Kesgrave
@@ -140,10 +140,9 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736266638
+updated_at: 1743590402
 duplicated_from: a484fcbf-a585-4437-bb5c-3194f6426c0d
 latitude: '52.061363823568186'
 longitude: '1.2361075107491926'
-published: false
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians.
