@@ -1,7 +1,7 @@
 ---
 id: 9006ed76-907f-49f9-80f6-342c423001b7
 blueprint: events
-title: "Angie's Curious Creatures"
+title: "Pond Dipping with Angie's Curious Creatures"
 event_categories:
   - family-friendly
   - community
@@ -9,12 +9,11 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2025-02-19 11:00'
-end_date: '2025-02-19 12:00'
+start_date: '2025-04-09 11:00'
+end_date: '2025-04-09 12:00'
 free: false
 virtual: false
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
@@ -76,31 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join animal expert Angie and her curious creatures at East Point Pavilion this half term.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Get up close to some cute critters and make some crafty creatures of your own to take home. The session will end with an exciting story told by Angie.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Children must be accompanied by an adult.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Suggested age 3+.'
+        text: 'Explore this seasons underwater wildlife, learn about what makes a good habitat for pond dwellers, meet and handle some curious crabby creatures, and settle down with a story to finish the session.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -108,11 +83,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939267
+updated_at: 1743605995
 duplicated_from: 9ee19ee6-b5ba-40f4-a442-bd39798d7b2f
 attendance_information: 'Family friendly'
 cost_details: £4
-booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures'
-published: false
+booking_link: 'https://www.eastpointpavilion.com/events/pond-dipping-with-angies-curious-creatures-1'
 ---
-Animal handling experience!
+A pond-dipping session of sorts!
