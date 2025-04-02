@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-07-17 12:30'
-end_date: '2025-07-03 14:00'
+start_date: '2025-07-31 12:30'
+end_date: '2025-07-31 14:00'
 free: true
 virtual: false
 accessibility_information:
@@ -136,7 +136,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609156
+updated_at: 1743609173
 duplicated_from: 1f2c5d05-2d13-4f41-abbc-bc36ce453826
 attendance_information: 'People living with dementia and their families'
 ---
