@@ -1,14 +1,13 @@
 ---
 id: b9913397-cf14-4903-990a-2991f3a9c0b5
-published: false
 blueprint: events
-title: 'Springboard for Adults (Duplicated) (Duplicated)'
+title: 'Springboard for Adults'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743593318
+updated_at: 1743593350
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-05-13 17:30'
+start_date: '2025-06-03 17:30'
 free: true
 virtual: false
 organisers:
@@ -175,7 +174,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-05-13 18:30'
+end_date: '2025-06-03 18:30'
 attendance_information: 'adults with additional needs'
 duplicated_from: 278f3efd-97da-4c42-aae7-2cfb9db97990
 cost_details: '£6 per workshop'
