@@ -1,14 +1,13 @@
 ---
 id: ac8eb948-9853-4602-beb8-966809941148
-published: false
 blueprint: events
-title: 'Creative Dance (Duplicated) (Duplicated)'
+title: 'Creative Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743606482
+updated_at: 1743606512
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-06-23 16:15'
+start_date: '2025-07-07 16:15'
 event_categories:
   - dance
   - movement
@@ -107,7 +106,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-06-23 17:15'
+end_date: '2025-07-07 17:15'
 attendance_information: 'suitable for ages 4 to 7 years'
 duplicated_from: 20d324a8-f443-4475-b1c4-456916d170d6
 cost_details: '£75 per term'
