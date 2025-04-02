@@ -1,8 +1,7 @@
 ---
 id: b726a05f-09eb-44b9-9f36-8d5d476b8a4f
-published: false
 blueprint: events
-title: "Pond Dipping with Angie's Curious Creatures (Duplicated)"
+title: "'All About Eggs' with Angie's Curious Creatures"
 event_categories:
   - family-friendly
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2025-04-09 13:00'
-end_date: '2025-04-09 14:00'
+start_date: '2025-04-19 11:00'
+end_date: '2025-04-19 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -76,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore this seasons underwater wildlife, learn about what makes a good habitat for pond dwellers, meet and handle some curious crabby creatures, and settle down with a story to finish the session.'
+        text: 'Learn all about eggs… but not the chocolate kind! Meet and handle a friendly dragon and join in with an eggciting craft activity'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -84,10 +83,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743606031
+updated_at: 1743606148
 duplicated_from: af9d7b64-d9a7-485f-8d89-8782e63ed457
 attendance_information: 'Family friendly'
 cost_details: £4
-booking_link: 'https://www.eastpointpavilion.com/events/pond-dipping-with-angies-curious-creatures-2'
+booking_link: 'https://www.eastpointpavilion.com/events/all-about-eggs-with-angies-curious-creatures'
 ---
-A pond-dipping session of sorts!
+Join animal expert Angie for this eggcellent session!
