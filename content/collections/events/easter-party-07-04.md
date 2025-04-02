@@ -1,17 +1,15 @@
 ---
 id: 26459fca-e5ea-4576-852b-0ecfb0b431f7
-published: false
 blueprint: events
-title: "Angie's Curious Creatures (Duplicated)"
+title: "Early Year's Easter Party"
 event_categories:
   - family-friendly
-  - community
-  - nature
+  - early-years
 organisers:
   - east-point-pavilion
-featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2025-02-19 11:00'
-end_date: '2025-02-19 12:00'
+featured_image: pelicanpelican-3x2/early-years-(1).png
+start_date: '2025-04-07 10:00'
+end_date: '2025-04-07 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -77,31 +75,20 @@ content_area:
     content:
       -
         type: text
-        text: 'Join animal expert Angie and her curious creatures at East Point Pavilion this half term.'
+        text: 'Each child will take away a balloon model & there’ll be a special visit from the Easter Bunny!'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: "The venue will be closed to the public. Our bar will be open for refreshments and *Florence & the Facepaints will be here offering her spectacular designs to children & adults alike! \_"
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Get up close to some cute critters and make some crafty creatures of your own to take home. The session will end with an exciting story told by Angie.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Children must be accompanied by an adult.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Suggested age 3+.'
+        text: '*additional fees apply/prices vary.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -109,10 +96,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939267
+updated_at: 1743605914
 duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
-attendance_information: 'Family friendly'
-cost_details: £4
-booking_link: 'https://www.eastpointpavilion.com/events/angies-curious-creatures'
+attendance_information: 'children aged 2 - 6 years'
+cost_details: '£5 per child, £2 per adult'
+booking_link: 'https://www.eastpointpavilion.com/events/early-years-easter-party'
 ---
-Animal handling experience!
+A lively morning of music, magic, party games and prizes.
