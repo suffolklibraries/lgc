@@ -4,16 +4,15 @@ blueprint: events
 title: 'Springboard Juniors'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733214084
+updated_at: 1743593558
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-03-25 16:45'
+start_date: '2025-04-29 16:45'
 free: true
 virtual: false
 organisers:
   - danceeast
-address_line_1: 'Dance East'
-address_line_2: 'Jerwood Dance House'
+address_line_1: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/dance_ballet-(1).png
@@ -41,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside children and young people with additional needs.'
+        text: 'The classes are led by dance artists, who all have lots of experience working alongside children and young people with additional needs.'
   -
     type: paragraph
     attrs:
@@ -156,7 +155,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-03-25 17:30'
+end_date: '2025-04-29 17:30'
 attendance_information: 'children aged 4 to 11 years with additional needs'
 duplicated_from: 86020408-0bce-4183-be9e-f863fcc87945
 cost_details: '£5 per workshop'
@@ -280,6 +279,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/springboard-juniors-2/'
-published: false
+building_name: 'Dance East'
 ---
-Springboard Juniors is a fun, friendly and inclusive class for children and young people with additional needs.
+Fun, friendly and inclusive class for children with additional needs.
