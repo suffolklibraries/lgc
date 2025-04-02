@@ -1,8 +1,7 @@
 ---
 id: af9d7b64-d9a7-485f-8d89-8782e63ed457
-published: false
 blueprint: events
-title: "Pond Dipping with Angie's Curious Creatures (Duplicated)"
+title: "Pond Dipping with Angie's Curious Creatures"
 event_categories:
   - family-friendly
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: "eastpointpavilion/angie's-curious-creatures---website.png"
-start_date: '2025-04-09 11:00'
-end_date: '2025-04-09 12:00'
+start_date: '2025-04-09 13:00'
+end_date: '2025-04-09 14:00'
 free: false
 virtual: false
 accessibility_information:
@@ -84,10 +83,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743605995
+updated_at: 1743606031
 duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
 attendance_information: 'Family friendly'
 cost_details: £4
-booking_link: 'https://www.eastpointpavilion.com/events/pond-dipping-with-angies-curious-creatures-1'
+booking_link: 'https://www.eastpointpavilion.com/events/pond-dipping-with-angies-curious-creatures-2'
 ---
 A pond-dipping session of sorts!
