@@ -1,14 +1,13 @@
 ---
 id: c4fb6f46-686e-4528-907b-f91152a4b255
-published: false
 blueprint: events
-title: 'Creative Dance - 8 to 11 years (Duplicated)'
+title: 'Creative Dance - 8 to 11 years'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743606720
+updated_at: 1743606744
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-05-19 17:15'
+start_date: '2025-06-02 17:15'
 event_categories:
   - dance
   - movement
@@ -107,7 +106,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-05-19 18:15'
+end_date: '2025-06-02 18:15'
 attendance_information: 'suitable for ages 8 to 11 years'
 duplicated_from: ebddb593-e800-438c-9348-3872d982351d
 cost_details: '£75 per term'
