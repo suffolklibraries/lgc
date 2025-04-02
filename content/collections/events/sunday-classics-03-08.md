@@ -1,13 +1,12 @@
 ---
 id: a1c0890b-426d-4e85-8e4f-c26841d1a08d
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club - Sunshine on Leith (Duplicated)'
+title: 'Sunday Classics Film Club - Summer Holiday'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609640
-start_date: '2025-07-06 14:30'
-end_date: '2025-07-06 16:00'
+updated_at: 1743609673
+start_date: '2025-08-03 14:30'
+end_date: '2025-08-03 16:00'
 free: true
 virtual: false
 organisers:
@@ -61,7 +60,7 @@ event_categories:
   - community
   - wellbeing
   - later-years
-booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-sunshine-on-leith/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-summer-holiday/'
 building_name: 'The Seagull Theatre'
 directions:
   -
