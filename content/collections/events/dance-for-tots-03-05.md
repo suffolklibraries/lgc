@@ -1,95 +1,129 @@
 ---
 id: 802bf011-3924-43ee-9ada-e5757eb5ce73
 blueprint: events
-title: 'Baby Loves to Boogie'
+title: 'Dance for Tots'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729796756
+updated_at: 1743592599
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2024-11-10 10:30'
+start_date: '2025-05-03 09:30'
 event_categories:
   - early-years
-free: true
+  - dance
+  - movement
+  - family-friendly
+free: false
 virtual: false
 organisers:
   - danceeast
-address_line_1: 'Dance East'
-address_line_2: 'Jerwood Dance House'
+address_line_1: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/early-years-(1).png
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Guided by our dance artist, these structured sessions will explore and encourage movement between adults and their little one using scarves, balls, hoops, music, and books. Join in the fun with them and share the magic of exploring movement together.'
   -
     type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
-        marks:
+        text: 'To encourage and support healthy movement in Tots, these classes will:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
           -
-            type: italic
-        text: '“This is the best baby event I’ve been to! Do them more often!”'
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Explore and build connections between children and their adults'
       -
-        type: text
-        text: ' – adult who attended a previous Baby Loves to Boogie'
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Support early language development by building recognition of colours, numbers, and a variety of themes'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Develop balance, coordination and confidence in children'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Baby Loves to Boogie is all about connecting with your little one, moving, and having fun. You will be guided through games with props and movement exercises, all developed to nurture your little one’s natural love of movement in a structured yet relaxed environment. This is an event for children and adults alike, no previous dance experience necessary!'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The disco will take place in our studio theatre and there will be an arts and crafts area in the foyer. Our café will be open, serving family friendly food and drink.'
-  -
-    type: heading
     attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to book'
+      textAlign: start
   -
     type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
-        text: 'Book your place via the '
+        text: 'The class will take place in a studio on the ground floor and there is space to store buggies and changing areas close by. DanceEast is a breastfeeding friendly venue.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Please note: if you wish to pay for the term in two half-termly instalments, please get in touch with our friendly Box Office team on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
+              href: 'tel:01473295230'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Dance East website'
+        text: '01473 295230'
       -
         type: text
         text: .
-  -
-    type: paragraph
-  -
-    type: heading
-    attrs:
-      level: 2
-    content:
-      -
-        type: text
-        text: 'How to get here'
+cta: |-
+  This event is organised by Dance East
+  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+
+  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+
+  [01473 295230](tel:01473295230)
+end_date: '2025-05-03 10:30'
+attendance_information: 'suitable for ages 0-4 and their adults'
+duplicated_from: 669b37a8-2f77-4ebe-b317-3e62a2857733
+cost_details: '£75 per term'
+booking_link: 'https://www.danceeast.co.uk/classes/dance-for-tots-saturday-open/'
+accessibility_information:
+  - 'Accessible toilets'
+building_name: 'Dance East'
+directions:
   -
     type: paragraph
     content:
@@ -218,18 +252,5 @@ content_area:
               target: null
               title: null
         text: here.
-cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
-
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
-
-  [01473 295230](tel:01473295230)
-end_date: '2024-11-10 12:30'
-attendance_information: '- Suitable for ages 0-5 and their adults'
-duplicated_from: 669b37a8-2f77-4ebe-b317-3e62a2857733
-cost_details: '0-12 months free, 1-5 years £4, adult £6'
-booking_link: 'https://www.danceeast.co.uk/workshops/baby-loves-to-boogie-5/'
-published: false
 ---
-Join us for our forest themed Baby Loves to Boogie, the best baby disco in town! You and your little ones will explore the woodland floor and dance with creatures of the forest.
+Introduce your little ones to the joy of dance in a creative, fun, and stimulating space.
