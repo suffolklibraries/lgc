@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-04-01 14:00'
-end_date: '2025-04-01 16:00'
+start_date: '2025-04-29 14:00'
+end_date: '2025-04-29 16:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -176,10 +176,9 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736267723
+updated_at: 1743590168
 duplicated_from: 8021c44c-9096-4d2e-84d9-29cfbff5def7
 latitude: '52.09507794144738'
 longitude: '1.3202544617018266'
-published: false
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians.
