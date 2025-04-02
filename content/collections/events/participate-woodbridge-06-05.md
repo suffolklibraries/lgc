@@ -1,8 +1,7 @@
 ---
 id: 631e38ef-2af4-4444-858d-bdc0c2e07e37
-published: false
 blueprint: events
-title: 'Participate - Woodbridge (Duplicated)'
+title: 'Participate - Woodbridge'
 event_categories:
   - later-years
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-04-29 14:00'
-end_date: '2025-04-29 16:00'
+start_date: '2025-05-06 14:00'
+end_date: '2025-05-06 16:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -177,7 +176,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743590168
+updated_at: 1743590201
 duplicated_from: df4285c8-0d46-4b72-aa34-ba774f250750
 latitude: '52.09507794144738'
 longitude: '1.3202544617018266'
