@@ -4,7 +4,7 @@ blueprint: events
 title: 'New Words, Fresh Voices'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609848
+updated_at: 1743609931
 start_date: '2025-05-04 19:30'
 end_date: '2025-05-04 21:00'
 free: false
@@ -58,7 +58,7 @@ address_line_1: 19-75
 address_line_2: 'Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: f62d55c7-3349-4a9d-a2fe-a098624f1d02
-booking_link: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-2/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-3/'
 cost_details: £4
 event_categories:
   - literature
