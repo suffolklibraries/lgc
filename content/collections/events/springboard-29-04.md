@@ -4,10 +4,10 @@ blueprint: events
 title: 'Springboard for Adults'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733213670
+updated_at: 1743593273
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-03-25 17:30'
+start_date: '2025-04-29 17:30'
 free: true
 virtual: false
 organisers:
@@ -40,7 +40,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The classes are led by Margherita and assisted by Eva and Olivia, who all have lots of experience working alongside people with additional needs.'
+        text: 'The classes are led by dance artists who have lots of experience working alongside people with additional needs.'
   -
     type: paragraph
     attrs:
@@ -148,7 +148,21 @@ content_area:
     content:
       -
         type: text
-        text: 'If you are unsure about coming along, you are welcome to book a taster session by getting in touch.'
+        text: 'If you are unsure about coming along, you are welcome to book a taster session by getting in touch on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01473295230'
+              rel: null
+              target: null
+              title: null
+        text: '01473 295230'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -160,7 +174,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-03-25 00:00'
+end_date: '2025-04-29 18:30'
 attendance_information: 'adults with additional needs'
 duplicated_from: 7aae83f5-d44a-4b3e-b0d1-033a5f164c33
 cost_details: '£6 per workshop'
@@ -169,6 +183,8 @@ event_categories:
   - dance
   - wellbeing
 accessibility_information:
+  - 'Dementia friendly'
+  - 'Autism friendly'
   - 'Accessible toilets'
 building_name: DanceEast
 directions:
@@ -284,6 +300,5 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/springboard-adults-open/'
-published: false
 ---
-Our fun, friendly and inclusive Springboard classes give adults with additional needs the opportunity to move and explore, using dance as a tool to develop skills.
+Move and explore using dance as a tool to develop skills.
