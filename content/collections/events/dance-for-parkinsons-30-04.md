@@ -4,16 +4,15 @@ blueprint: events
 title: 'Dance for Parkinson’s'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738162218
+updated_at: 1743592003
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-03-26 17:30'
+start_date: '2025-04-30 14:15'
 free: true
 virtual: false
 organisers:
   - danceeast
-address_line_1: 'Dance East'
-address_line_2: 'Jerwood Dance House'
+address_line_1: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
 featured_image: pelicanpelican-3x2/dance.png
@@ -56,34 +55,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Term dates: '
-      -
-        type: text
-        text: 'Wednesday 15 January – Wednesday 26 March 2025'
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Half term: '
-      -
-        type: text
-        text: 'There will be no class on Wednesday 19 February 2025'
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -91,7 +62,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-03-26 18:30'
+end_date: '2025-04-30 15:30'
 attendance_information: "adults with Parkinson's"
 duplicated_from: f826344a-86c3-4155-b908-1b563125f3d3
 cost_details: '£6 per session'
@@ -229,6 +200,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-4/'
-published: false
+building_name: 'Dance East'
 ---
 Dance classes designed for people with Parkinson's.
