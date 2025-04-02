@@ -4,9 +4,9 @@ blueprint: events
 title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730112989
-start_date: '2024-11-29 13:30'
-end_date: '2024-11-29 15:00'
+updated_at: 1743608330
+start_date: '2025-04-11 13:30'
+end_date: '2025-04-11 15:00'
 free: true
 virtual: false
 organisers:
@@ -15,35 +15,25 @@ town: Lowestoft
 featured_image: pelicanpelican-3x2/music.png
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Our Music for Wellbeing group, led by Helen Hayes, meets every Friday from 1.30pm.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'The group is for anyone who enjoys music, you do not need to be able to play an instrument or hold a tune, just be willing to have some fun!'
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -62,14 +52,31 @@ content_area:
       -
         type: text
         text: ' for more information and to book.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+cta: |-
+  This event is organised by The Seagull Theatre
+
+  [https://theseagull.co.uk/](https://theseagull.co.uk/)
+
+  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
+
+  [0333 666 3366](tel:03336663366)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
+latitude: '52.456816760715476'
+longitude: '1.7356360119327994'
+address_line_1: 19-75
+address_line_2: 'Morton Road'
+postcode: 'NR33 0JH'
+duplicated_from: bfc21f48-d0a6-4ecd-96e5-01c599e1e5fb
+event_categories:
+  - wellbeing
+  - community
+  - music
+  - later-years
+booking_link: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
+building_name: 'The Seagull Theatre'
+directions:
   -
     type: paragraph
     content:
@@ -121,27 +128,5 @@ content_area:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-cta: |-
-  This event is organised by The Seagull Theatre
-
-  [https://theseagull.co.uk/](https://theseagull.co.uk/)
-
-  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
-
-  [0333 666 3366](tel:03336663366)
-accessibility_information:
-  - '- Wheelchair access'
-latitude: '52.456816760715476'
-longitude: '1.7356360119327994'
-address_line_1: 'The Seagull Theatre'
-address_line_2: '19-75 Morton Road'
-postcode: 'NR33 0JH'
-duplicated_from: bfc21f48-d0a6-4ecd-96e5-01c599e1e5fb
-event_categories:
-  - wellbeing
-  - community
-  - music
-booking_link: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
-published: false
 ---
 An activity for anyone who enjoys music!
