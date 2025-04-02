@@ -1,13 +1,12 @@
 ---
 id: 25b196d3-edf6-4b31-b37f-817bba90c8f2
-published: false
 blueprint: events
-title: "Sunday Classics Film Club - Singin' in the Rain (Duplicated)"
+title: 'Sunday Classics Film Club - Sunshine on Leith'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609602
-start_date: '2025-04-06 14:30'
-end_date: '2025-04-06 16:00'
+updated_at: 1743609640
+start_date: '2025-07-06 14:30'
+end_date: '2025-07-06 16:00'
 free: true
 virtual: false
 organisers:
@@ -61,7 +60,7 @@ event_categories:
   - community
   - wellbeing
   - later-years
-booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-singing-in-the-rain/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-sunshine-on-leith/'
 building_name: 'The Seagull Theatre'
 directions:
   -
