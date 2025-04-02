@@ -1,7 +1,7 @@
 ---
 id: 9d0fabfd-2e56-4b20-9d1b-693b5b22d618
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
+title: 'Participate - Leiston'
 event_categories:
   - later-years
   - music
@@ -150,7 +150,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743589700
+updated_at: 1743589736
 duplicated_from: 4eedaba7-743d-49c6-9ce5-655417e07c6f
 latitude: '52.20591758071305'
 longitude: '1.5727273811032985'
