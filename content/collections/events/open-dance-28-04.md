@@ -1,10 +1,10 @@
 ---
 id: 9a290b7e-d409-4a0a-be7a-4f4a4e3951e8
 blueprint: events
-title: 'Creative Dance'
+title: 'Creative Dance - 8 to 11 years'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743606597
+updated_at: 1743606678
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2025-04-28 17:15'
