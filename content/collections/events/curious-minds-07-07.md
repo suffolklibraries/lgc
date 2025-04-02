@@ -1,8 +1,7 @@
 ---
 id: 40b04219-8f89-43b9-b554-3ebd7292a85e
-published: false
 blueprint: events
-title: 'Curious Minds - Woodbridge (Duplicated) (Duplicated)'
+title: 'Curious Minds - Woodbridge'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-art-link
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-06-23 14:00'
-end_date: '2025-06-23 16:00'
+start_date: '2025-07-07 14:00'
+end_date: '2025-07-07 16:00'
 free: true
 virtual: false
 attendance_information: 'people aged 18 plus living with complex health needs'
@@ -189,7 +188,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743583396
+updated_at: 1743583436
 duplicated_from: 3ee47a21-d8fa-4782-8854-82718a9ef799
 latitude: '52.09386265265452'
 longitude: '1.3176599995179699'
