@@ -1,14 +1,13 @@
 ---
 id: dbdcbe73-6dae-4ab9-9da5-bbb2dda3ba37
-published: false
 blueprint: events
-title: 'Dance for Tots (Duplicated) (Duplicated)'
+title: 'Dance for Tots'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743592748
+updated_at: 1743592785
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-06-28 09:30'
+start_date: '2025-07-12 09:30'
 event_categories:
   - early-years
   - dance
@@ -116,7 +115,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-06-28 10:30'
+end_date: '2025-07-12 10:30'
 attendance_information: 'suitable for ages 0-4 and their adults'
 duplicated_from: f7c97125-56a1-4d36-a152-6afe09dd9361
 cost_details: '£75 per term'
