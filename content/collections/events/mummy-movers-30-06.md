@@ -1,14 +1,13 @@
 ---
 id: f50e4bcb-ab83-40bf-8f1b-dabf249ec121
-published: false
 blueprint: events
-title: 'Mummy Movers (Duplicated)'
+title: 'Mummy Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743593075
+updated_at: 1743593097
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-06-23 11:15'
+start_date: '2025-06-30 11:15'
 free: true
 virtual: false
 organisers:
@@ -88,7 +87,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-06-23 12:15'
+end_date: '2025-06-30 12:15'
 attendance_information: 'any parent or guardian who carries their baby in a sling'
 duplicated_from: cc9b84d9-fa9e-436b-913e-145dad0d5648
 cost_details: '£75 per term/bursaries available'
