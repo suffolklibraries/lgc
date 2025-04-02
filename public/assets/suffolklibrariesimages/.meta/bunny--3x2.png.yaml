@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Bunny and flowers'
 size: 785992
 last_modified: 1743602593
 width: 800
