@@ -1,27 +1,25 @@
 ---
 id: 1e27191b-b615-4173-86ff-c8b9ce3e4b45
-published: false
 blueprint: events
-title: 'Dance for Tots (Duplicated)'
+title: 'Creative Dance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743592599
+updated_at: 1743606352
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-05-03 09:30'
+start_date: '2025-04-28 16:15'
 event_categories:
-  - early-years
   - dance
   - movement
   - family-friendly
 free: false
-virtual: false
+virtual: true
 organisers:
   - danceeast
 address_line_1: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: pelicanpelican-3x2/early-years-(1).png
+featured_image: pelicanpelican-3x2/dance_ballet-(1).png
 content_area:
   -
     type: paragraph
@@ -30,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Guided by our dance artist, these structured sessions will explore and encourage movement between adults and their little one using scarves, balls, hoops, music, and books. Join in the fun with them and share the magic of exploring movement together.'
+        text: 'Our Creative Dance classes are a fantastic introduction to contemporary dance and movement, encouraging children to be creative and imaginative whilst using a range of tools and exercises to explore the foundations of contemporary dance, safe practice and technique.'
   -
     type: paragraph
     attrs:
@@ -38,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To encourage and support healthy movement in Tots, these classes will:'
+        text: 'Led by an experienced dance artist and supported by teaching assistants, dancers can expect to:'
   -
     type: bulletList
     content:
@@ -52,7 +50,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Explore and build connections between children and their adults'
+                text: 'Improve strength, coordination and flexibility'
       -
         type: listItem
         content:
@@ -63,7 +61,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Support early language development by building recognition of colours, numbers, and a variety of themes'
+                text: 'Develop confidence and dance technique'
       -
         type: listItem
         content:
@@ -74,19 +72,11 @@ content_area:
             content:
               -
                 type: text
-                text: 'Develop balance, coordination and confidence in children'
+                text: 'Have fun and make friends in a structured, supported space'
   -
     type: paragraph
     attrs:
       textAlign: start
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'The class will take place in a studio on the ground floor and there is space to store buggies and changing areas close by. DanceEast is a breastfeeding friendly venue.'
   -
     type: paragraph
     attrs:
@@ -116,11 +106,11 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-05-03 10:30'
-attendance_information: 'suitable for ages 0-4 and their adults'
+end_date: '2025-04-28 17:15'
+attendance_information: 'suitable for ages 4 to 7 years'
 duplicated_from: 802bf011-3924-43ee-9ada-e5757eb5ce73
 cost_details: '£75 per term'
-booking_link: 'https://www.danceeast.co.uk/classes/dance-for-tots-saturday-open/'
+booking_link: 'https://www.danceeast.co.uk/classes/creative-dance-4-7s-mondays/'
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Dance East'
@@ -254,4 +244,4 @@ directions:
               title: null
         text: here.
 ---
-Introduce your little ones to the joy of dance in a creative, fun, and stimulating space.
+A fantastic introduction to contemporary dance.
