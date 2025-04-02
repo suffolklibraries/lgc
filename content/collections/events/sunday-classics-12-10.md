@@ -1,13 +1,12 @@
 ---
 id: b271a6bb-fc9c-4684-a044-f4fc2985eb48
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club - Grease (Duplicated)'
+title: 'Sunday Classics Film Club - Calamity Jane'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609709
-start_date: '2025-09-14 14:30'
-end_date: '2025-09-14 16:00'
+updated_at: 1743609738
+start_date: '2025-10-12 14:30'
+end_date: '2025-10-12 16:00'
 free: true
 virtual: false
 organisers:
@@ -61,7 +60,7 @@ event_categories:
   - community
   - wellbeing
   - later-years
-booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-grease/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-calamity-jane/'
 building_name: 'The Seagull Theatre'
 directions:
   -
