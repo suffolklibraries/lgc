@@ -1,16 +1,15 @@
 ---
 id: 88dfab21-275d-49f7-a0cd-96a2bc96b9c2
-published: false
 blueprint: events
-title: 'Singing for Lung Health (Duplicated) (Duplicated)'
+title: 'Singing for Lung Health'
 event_categories:
   - wellbeing
   - music
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-05-10 10:00'
-end_date: '2025-05-10 11:30'
+start_date: '2025-05-31 10:00'
+end_date: '2025-05-31 11:30'
 free: true
 virtual: false
 accessibility_information:
@@ -114,7 +113,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743690809
+updated_at: 1743690923
 duplicated_from: dc6c8f09-a40b-4f34-96cc-792b89abdfc7
 attendance_information: 'People with impaired lung performance'
 ---
