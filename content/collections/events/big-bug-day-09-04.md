@@ -1,7 +1,7 @@
 ---
 id: f9ab850e-6e33-4c14-bf2e-82f6c450da20
 blueprint: events
-title: 'Gardening Weekend'
+title: 'Big Bug Day'
 event_categories:
   - family-friendly
   - teen
@@ -11,8 +11,8 @@ event_categories:
 organisers:
   - suffolk-libraries
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-01-25 10:30'
-end_date: '2025-01-25 15:00'
+start_date: '2025-04-09 10:00'
+end_date: '2025-04-09 13:00'
 free: true
 virtual: false
 accessibility_information:
@@ -138,27 +138,19 @@ content_area:
     content:
       -
         type: text
-        text: 'If you can, dig, paint, water, plant, rake, prune, sow, sweep, shovel & mulch... then we want you! Get your hands dirty and help our neighbourhood bloom.'
+        text: "Join us on Wednesday 9 April as we\_spend a day growing our community garden. Get stuck in to helping build homes for wildlife and fill our gabion seating for the summer.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Join us for a Community Gardening Weekend where we’ll plant, dig, and spruce up our shared green space at the front of the library. '
+        text: 'No experience necessary—just bring your energy and love for the outdoors!'
   -
     type: paragraph
     attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'No experience necessary—just bring your energy and love for the outdoors! '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
@@ -166,41 +158,19 @@ content_area:
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'This is a great opportunity to meet your neighbours, enjoy some fresh air, and make a positive impact in our community. '
+        text: "This is a great opportunity to meet your neighbours, enjoy some fresh air, and make a positive impact in our community.\_There will be jobs for all abilities, kids and families welcome."
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'There will be jobs for all abilities, kids and families welcome.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Let’s grow something beautiful together! For more info contact Jo at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:Lowestoft.Library@suffolklibraries.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: Lowestoft.Library@suffolklibraries.co.uk
-      -
-        type: text
-        text: .
+        text: 'No need to book, just come along between 10AM and 1PM.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -210,8 +180,7 @@ cta: |-
 
   [01473 351249](tel:01473351249)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737045515
+updated_at: 1743687013
 duplicated_from: 7345b087-2b96-497f-b355-ed065e73b6ba
-published: false
 ---
 Help us build a community garden!
