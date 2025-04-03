@@ -151,5 +151,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1733736703
 duplicated_from: 63fb317c-dccb-4332-97d7-d2e6787f5c07
 cost_details: '£5 per person'
+published: false
 ---
 Fun, interactive, creative drama workshops designed to cater for a wide range of access needs.
