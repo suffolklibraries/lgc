@@ -5,11 +5,13 @@ title: Squawk
 event_categories:
   - music
   - theatre-and-performance
+  - wellbeing
+  - community
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-02-27 10:00'
-end_date: '2025-02-27 15:00'
+start_date: '2025-04-10 10:00'
+end_date: '2025-04-10 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -113,9 +115,9 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730109146
+updated_at: 1743689662
 duplicated_from: 0a6b0498-2344-4e42-af1c-c4e5f4e45877
-attendance_information: '- adults with learning disabilities'
+attendance_information: 'adults with learning disabilities'
 published: false
 ---
 Musical theatre workshops for adults with learning disabilities.
