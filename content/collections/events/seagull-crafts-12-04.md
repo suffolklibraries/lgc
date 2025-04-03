@@ -4,42 +4,33 @@ blueprint: events
 title: 'Arts and Crafts Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1725292449
-start_date: '2024-11-30 14:00'
-end_date: '2024-11-30 15:00'
+updated_at: 1743691447
+start_date: '2025-04-12 14:00'
+end_date: '2025-04-12 15:00'
 event_categories:
   - art
+  - teen
+  - family-friendly
+  - wellbeing
 free: true
 virtual: false
 organisers:
   - the-seagull-theatre
 town: Lowestoft
-featured_image: offthepressimages/otpillustrations/VISUALARTS.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'A free arts and crafts group for young people who need support with building their confidence and/or who have experienced bullying. The group is led by an experienced SEMH practitioner and is particularly suited to young people who have additional needs.'
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -58,14 +49,28 @@ content_area:
       -
         type: text
         text: ' to find out more and reserve your place.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+cta: |-
+  This event is organised by The Seagull Theatre
+
+  [https://theseagull.co.uk/](https://theseagull.co.uk/)
+
+  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
+
+  [0333 666 3366](tel:03336663366)
+accessibility_information:
+  - 'Autism friendly'
+  - 'Accessible toilets'
+latitude: '52.456816760715476'
+longitude: '1.7356360119327994'
+address_line_1: 'The Seagull Theatre'
+address_line_2: '19-75 Morton Road'
+postcode: 'NR33 0JH'
+duplicated_from: fe951f66-f930-4631-beb0-254dadf770a9
+attendance_information: |-
+  young people with additional needs
+  young people at risk of bullying
+booking_link: 'https://theseagull.co.uk/community_events/arts-and-crafts-group/'
+directions:
   -
     type: paragraph
     content:
@@ -100,25 +105,22 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by The Seagull Theatre
-
-  [https://theseagull.co.uk/](https://theseagull.co.uk/)
-
-  [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
-
-  [0333 666 3366](tel:03336663366)
-accessibility_information: '- Wheelchair access'
-latitude: '52.456816760715476'
-longitude: '1.7356360119327994'
-address_line_1: 'The Seagull Theatre'
-address_line_2: '19-75 Morton Road'
-postcode: 'NR33 0JH'
-duplicated_from: fe951f66-f930-4631-beb0-254dadf770a9
-attendance_information: |-
-  - young people with additional needs
-  - young people at risk of bullying
-booking_link: 'https://theseagull.co.uk/community_events/arts-and-crafts-group/'
-published: false
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Plan your journey using '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard.'
 ---
 Support for young people at risk of bullying
