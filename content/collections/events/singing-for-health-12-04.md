@@ -8,8 +8,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-03-29 10:00'
-end_date: '2025-03-29 11:30'
+start_date: '2025-04-12 10:00'
+end_date: '2025-04-12 11:30'
 free: true
 virtual: false
 accessibility_information:
@@ -113,9 +113,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730111925
+updated_at: 1743690724
 duplicated_from: 1c3d4b96-c188-473d-b6a2-4e90d7870256
 attendance_information: 'People with impaired lung performance'
-published: false
 ---
 A specialist group for those suffering with impaired lung performance.
