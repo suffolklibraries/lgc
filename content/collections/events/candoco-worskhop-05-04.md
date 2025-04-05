@@ -184,5 +184,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/workshops/candoco-inclusive-dance-workshop/'
+published: false
 ---
 Join Candoco Dance Company, known for their innovative approach to inclusive dance, in a workshop for participants with disabilities.
