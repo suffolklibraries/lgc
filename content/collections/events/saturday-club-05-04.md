@@ -175,5 +175,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1730822754
 duplicated_from: cf26b3b4-477a-41e7-987b-2a061102b57d
+published: false
 ---
 Free art classes to 13–16 year olds who live, work or study in Sudbury and the surrounding areas.
