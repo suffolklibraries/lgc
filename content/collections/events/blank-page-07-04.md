@@ -197,5 +197,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1742835258
 duplicated_from: f522fe47-08e9-4a04-ae42-631514069a8f
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/photography-animation-with-gillian-allard'
+published: false
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
