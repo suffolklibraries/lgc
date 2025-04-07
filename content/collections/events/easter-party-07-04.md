@@ -101,5 +101,6 @@ duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
 attendance_information: 'children aged 2 - 6 years'
 cost_details: '£5 per child, £2 per adult'
 booking_link: 'https://www.eastpointpavilion.com/events/early-years-easter-party'
+published: false
 ---
 A lively morning of music, magic, party games and prizes.
