@@ -123,5 +123,6 @@ directions:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
+published: false
 ---
 Come along to decorate your own artistic model egg, ready for spring.
