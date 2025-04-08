@@ -171,5 +171,6 @@ accessibility_information:
   - 'Autism friendly'
   - 'Accessible toilets'
   - 'Relaxed performance'
+published: false
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
