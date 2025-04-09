@@ -107,5 +107,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
+published: false
 ---
 Join us for a talk to find out more about the natural world around us.
