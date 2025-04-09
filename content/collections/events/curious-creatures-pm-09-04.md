@@ -88,5 +88,6 @@ duplicated_from: 9006ed76-907f-49f9-80f6-342c423001b7
 attendance_information: 'Family friendly'
 cost_details: £4
 booking_link: 'https://www.eastpointpavilion.com/events/pond-dipping-with-angies-curious-creatures-2'
+published: false
 ---
 A pond-dipping session of sorts!
