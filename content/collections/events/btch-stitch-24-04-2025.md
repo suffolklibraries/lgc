@@ -15,6 +15,7 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
   - 'Drop-in event'
+additional_access_information: 'Geek Retreat Ipswich is an accessible venue space. Every B&S will always take place downstairs to accommodate our mobility-impaired participants.'
 address_line_1: '41A Upper Brook Street'
 address_line_2: Ipswich
 building_name: 'Geek Retreat Ipswich'
