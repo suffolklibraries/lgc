@@ -240,5 +240,6 @@ duplicated_from: d993dc49-3c6f-4733-b976-c278d3593c1d
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/recharge-at-the-battery-of-ideas/'
 attendance_information: 'people aged 18 plus living with complex health needs'
 address_line_1: '119'
+published: false
 ---
 Asocial prescribing 12 week programme designed to support health and wellbeing.
