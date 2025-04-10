@@ -7,7 +7,7 @@ start_date: 2025-04-24T19:00:00+00:00
 end_date: 2025-04-24T21:00:00+00:00
 free: true
 virtual: false
-attendance_information: 'This event is for over 18s'
+attendance_information: "This event is for over 18s.\r\nProduced by Suffolk Pride it's aimed at the LGBTQIA+ community and their allies. However, B&S is about providing a safe space to vent about your week/month, have a catch up, bit of a gossip and enjoy some crafting if you're capable. If you can respect the space, practice kindness and join in, you're welcome to drop by."
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Quiet space available'
@@ -15,6 +15,7 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
   - 'Drop-in event'
+additional_access_information: 'Geek Retreat is an accessible venue space. Every B&S session takes place downstairs to accommodate participants with mobility issues.'
 address_line_1: '41A Upper Brook Street'
 address_line_2: Ipswich
 building_name: 'Geek Retreat Ipswich'
@@ -39,7 +40,7 @@ directions: |-
 
   <p>Please note that there is no customer parking available directly at the store. However, there are nearby parking options:​</p>
 
-  <ul><li><p><strong>Tacket Street Car Park (IP4 1AU):</strong> Located a 2-minute walk from the store. As of August 2024, parking costs are £1.45 for 1 hour, £2.90 for 2 hours, or £4.95 for the whole day. ​</p></li><li><p><strong>Cox Lane Car Park (IP4 1HT):</strong> Situated right behind Tacket Street Car Park, approximately a 3-minute walk to the store, with similar pricing. </p></li><li><p><strong>Cromwell Square Car Park (IP1 1TR):</strong> About a 6-minute walk from the store. On weekdays, it costs £2.50 if you arrive after 2 pm. ​</p></li></ul>
+  <ul><li><p><strong>Tacket Street Car Park (IP4 1AU):</strong> Located a 2-minute walk from the store. As of August 2024, parking costs are £1.45 for 1 hour, £2.90 for 2 hours, or £4.95 for the whole day. ​</p></li><li><p><strong>Cox Lane Car Park (IP4 1HT):</strong> Situated right behind Tacket Street Car Park, approximately a 3-minute walk to the store, with similar pricing.</p></li><li><p><strong>Cromwell Square Car Park (IP1 1TR):</strong> About a 6-minute walk from the store. On weekdays, it costs £2.50 if you arrive after 2 pm. ​</p></li></ul>
 
   <p>For the most current parking fees and information, it's advisable to check the respective car park's official website or app.</p>
 content_area: |-
