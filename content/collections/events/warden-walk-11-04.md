@@ -112,5 +112,6 @@ accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
+published: false
 ---
 Learn about the history, ecology and management of the Nature Reserve.

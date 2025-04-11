@@ -171,5 +171,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
+published: false
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
