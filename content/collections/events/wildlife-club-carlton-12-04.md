@@ -141,5 +141,6 @@ duplicated_from: 328eff74-5964-4c91-8aa9-37af15d0af0b
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+published: false
 ---
 Monthly wildlife club for children aged 6 - 11 years.
