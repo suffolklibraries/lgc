@@ -197,5 +197,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/workshops/kids-love-to-boogie/'
+published: false
 ---
 Get ready to groove with your family at our super fun Spring-themed Kids Love to Boogie!
