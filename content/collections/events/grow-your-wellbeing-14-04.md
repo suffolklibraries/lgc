@@ -220,5 +220,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1737539500
 attendance_information: 'ages 16+'
 duplicated_from: ba399c27-cc5b-4955-9fd0-f1f541291fb5
+published: false
 ---
 Fun, social, welcoming sessions for anyone aged 16+
