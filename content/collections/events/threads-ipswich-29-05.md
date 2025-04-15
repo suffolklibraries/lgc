@@ -5,7 +5,7 @@ blueprint: events
 title: 'Threads Dance Performance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1744718324
+updated_at: 1744726303
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
 start_date: '2025-05-29 15:00'
