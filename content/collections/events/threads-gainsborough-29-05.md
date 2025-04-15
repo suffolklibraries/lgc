@@ -1,26 +1,28 @@
 ---
 id: 13cf376a-84d8-403d-88f9-cedea7023815
+published: false
 blueprint: events
-title: 'Blank Page - Gainsborough'
+title: 'Threads Dance Performance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742835238
+updated_at: 1744718218
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
-start_date: '2025-04-10 09:45'
+start_date: '2025-05-29 19:00'
 event_categories:
-  - art
   - teen
+  - dance
+  - theatre-and-performance
 free: true
 virtual: false
 organisers:
+  - coalesce-dance
   - suffolk-libraries
-address_line_1: 'Gainsborough Library'
 address_line_2: 'Clapgate Lane'
 town: Ipswich
 postcode: 'IP3 0RL'
-featured_image: pelicanpelican-3x2/teen-(1).png
-attendance_information: 'ages 10 - 16'
+featured_image: suffolklibrariesimages/threads-3x2.png
+attendance_information: 'ages 12+'
 content_area:
   -
     type: paragraph
@@ -29,23 +31,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Join theatre maker Sian Burford-Thomas for this creative workshop for 10-16 year olds at Gainsborough Community Library! This unique workshop will explore identity and performance, taking you on a creative journey of self-discovery. Sian’s workshop is brought to you as part of '
+        text: 'This latest work from '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
+              href: 'https://www.coalescedancetheatre.com/'
               rel: null
               target: _blank
               title: null
-          -
-            type: underline
-        text: 'The Blank Page Project'
+        text: 'Coalesce Dance Theatre'
       -
         type: text
-        text: .
+        text: ' uses stories from young people across the North of England to delicately weave together an emotive and uplifting contemporary dance and physical theatre performance about growing into adulthood. '
   -
     type: paragraph
     attrs:
@@ -53,10 +53,7 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+        text: 'Threads turns the spotlight on mental health and how important friendship and support can be when it comes to navigating adolescence. '
   -
     type: paragraph
     attrs:
@@ -64,7 +61,7 @@ content_area:
     content:
       -
         type: text
-        text: "Jump into action this spring and create a character with a difference! Our blank canvas’ identity will be revealed only by you… \_"
+        text: 'Performed amongst tossed away clothes, and a large wardrobe structure, two dancers use a highly physical movement language to connect and explore their intertwined experiences. '
   -
     type: paragraph
     attrs:
@@ -72,15 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Bring the character to life through designing their look, who they are on the inside and how they will make a difference to the world around us.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'We’ll be looking at visual elements such as clothing to shape the look of our character and creating performances to reflect our character’s traits and passions, using recorded voice work. Accessible and fun theatrical exercises and techniques will help participants to develop their ideas. Our finished character will remain on display at the library for all to see at the end of the day.'
+        text: 'Coalesce invites audiences to experience this socially urgent new work.'
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -91,12 +80,10 @@ cta: |-
   [01473 351249](tel:01473351249)
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-end_date: '2025-04-10 15:30'
+end_date: '2025-05-29 19:30'
 duplicated_from: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/who-am-i-character-creation-sian-burford-thomas'
 directions:
   -
     type: paragraph
@@ -138,6 +125,6 @@ directions:
       -
         type: text
         text: .
-published: false
+building_name: 'Gainsborough Library'
 ---
-High-quality creative activities run by local artists in libraries during the school holidays!
+threads is a poignant and powerful story about mental health, friendship and identity.
