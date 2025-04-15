@@ -2,13 +2,13 @@
 id: 238b131a-493d-49ab-b882-e97b11d3a002
 published: false
 blueprint: events
-title: 'Threads Dance Performance (Duplicated)'
+title: 'Threads Dance Performance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1744718218
-latitude: '52.034417883929024'
-longitude: '1.1827043375840662'
-start_date: '2025-05-29 19:00'
+updated_at: 1744718324
+latitude: '52.05888302273206'
+longitude: '1.1563992273587602'
+start_date: '2025-05-29 15:00'
 event_categories:
   - teen
   - dance
@@ -18,9 +18,9 @@ virtual: false
 organisers:
   - coalesce-dance
   - suffolk-libraries
-address_line_2: 'Clapgate Lane'
+address_line_2: 'Northgate Street'
 town: Ipswich
-postcode: 'IP3 0RL'
+postcode: 'IP! 3DE'
 featured_image: suffolklibrariesimages/threads-3x2.png
 attendance_information: 'ages 12+'
 content_area:
@@ -82,7 +82,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-end_date: '2025-05-29 19:30'
+end_date: '2025-05-29 15:30'
 duplicated_from: 13cf376a-84d8-403d-88f9-cedea7023815
 directions:
   -
@@ -90,21 +90,89 @@ directions:
     content:
       -
         type: text
-        text: 'Gainsborough Library has on site car parking and the nearest'
+        text: 'Ipswich '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Cotman+Road/@52.0347317,1.1796921,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99fea5af611b5:0x4718b94a3008c570!2sGainsborough+Community+Library,+Clapgate+Ln,+Ipswich+IP3+0RL!2m2!1d1.1827311!2d52.0342691!1m6!1m2!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!2sCotman+Road,+Ipswich+IP3+0RG!2m2!1d1.181868!2d52.035336!3e2!3m5!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!8m2!3d52.035336!4d1.181868!16s%2Fg%2F1q67rd9sc?entry=ttu'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
               rel: null
               target: _blank
               title: null
-        text: ' bus stop'
+        text: 'railway station'
       -
         type: text
-        text: ' is a two minute walk away.'
+        text: ' is a 21 minute walk away, and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Tower Ramparts bus station'
+      -
+        type: text
+        text: ' is a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are several nearby carparks, including '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Crown Street car park'
+      -
+        type: text
+        text: ' a six minute walk away and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.buttermarketipswich.com/Parking/'
+              rel: null
+              target: _blank
+              title: null
+        text: Buttermarket
+      -
+        type: text
+        text: ' a seven minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Ipswich County Library using AccessAble'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -125,6 +193,6 @@ directions:
       -
         type: text
         text: .
-building_name: 'Gainsborough Library'
+building_name: 'Ipswich County Library'
 ---
 threads is a poignant and powerful story about mental health, friendship and identity.
