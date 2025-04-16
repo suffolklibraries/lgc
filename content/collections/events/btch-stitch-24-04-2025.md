@@ -278,7 +278,7 @@ content_area:
         text: "Produced by Suffolk Pride it's aimed at the LGBTQIA+ community and their allies. However, B&S is about providing a safe space to vent about your week/month, have a catch up, bit of a gossip and enjoy some crafting if you're capable. If you can respect the space, practice kindness and join in, you're welcome to drop by."
 booking_link: 'https://www.eventbrite.co.uk/e/btch-stitch-tickets-1227831329559?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl'
 created_by: 969b1c68-6812-4ada-8e45-fd8db7a94a9e
-featured_image: 'user-events/b&s-apr.png'
+featured_image: user-events/stitch-and-bitch-3x2.png
 event_categories:
   - art
   - community
