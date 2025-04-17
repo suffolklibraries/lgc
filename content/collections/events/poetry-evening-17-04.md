@@ -77,5 +77,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1739798130
 duplicated_from: d8a77be1-578c-4880-951b-a069ea691125
 cost_details: 'donations welcome'
+published: false
 ---
 Online meet-up to enjoy poetry.
