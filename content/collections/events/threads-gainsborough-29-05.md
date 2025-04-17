@@ -1,11 +1,10 @@
 ---
 id: 13cf376a-84d8-403d-88f9-cedea7023815
-published: false
 blueprint: events
 title: 'Threads Dance Performance'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1744726301
+updated_at: 1744876355
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
 start_date: '2025-05-29 19:00'
@@ -126,5 +125,6 @@ directions:
         type: text
         text: .
 building_name: 'Gainsborough Library'
+booking_link: 'https://www.suffolklibraries.co.uk/events/events/threads-at-gainsborough-community-library'
 ---
 threads is a poignant and powerful story about mental health, friendship and identity.
