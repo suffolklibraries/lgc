@@ -104,5 +104,6 @@ accessibility_information:
   - 'Autism friendly'
   - 'Accessible toilets'
 attendance_information: 'children aged 5 - 11 years'
+published: false
 ---
 Full day art camps at our new studio!

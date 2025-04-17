@@ -177,5 +177,6 @@ event_categories:
   - theatre-and-performance
   - teen
   - music
+published: false
 ---
 Explore all that the Theatre Royal has to offer with this spring's Bloom Festival!
