@@ -1,10 +1,9 @@
 ---
 id: 6876c22e-7edb-45a0-a516-5a36b5e7f56a
-published: false
 blueprint: events
-title: 'B*tch & Stitch (Duplicated) (Duplicated)'
-start_date: '2025-08-28 19:00'
-end_date: '2025-08-28 21:00'
+title: 'B*tch & Stitch'
+start_date: '2025-10-23 19:00'
+end_date: '2025-10-23 21:00'
 free: true
 virtual: false
 attendance_information: 'Ages 18+'
@@ -175,7 +174,7 @@ event_categories:
 organisers:
   - suffolk-pride
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1744820470
+updated_at: 1744875234
 latitude: '52.056538490893416'
 longitude: '1.1563508839846621'
 cta: |-
