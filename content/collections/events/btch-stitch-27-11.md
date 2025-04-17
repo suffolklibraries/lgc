@@ -1,8 +1,7 @@
 ---
 id: 003fd076-d57e-4308-ad43-a0878e9eb28c
-published: false
 blueprint: events
-title: 'B*tch & Stitch (Duplicated)'
+title: 'B*tch & Stitch'
 start_date: '2025-11-27 19:00'
 end_date: '2025-11-27 21:00'
 free: true
@@ -175,7 +174,7 @@ event_categories:
 organisers:
   - suffolk-pride
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1744875255
+updated_at: 1744875294
 latitude: '52.056538490893416'
 longitude: '1.1563508839846621'
 cta: |-
