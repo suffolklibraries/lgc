@@ -164,5 +164,6 @@ updated_at: 1739888058
 duplicated_from: fc011e96-751f-4d05-85aa-c592b746b522
 cost_details: '£5 per adult, £3 per child'
 booking_link: 'https://www.nhrm.co.uk/events/easter-paw-ty-at-the-museum-2025/'
+published: false
 ---
 You are invited to an Easter Paw-ty at the National Horseracing Museum!
