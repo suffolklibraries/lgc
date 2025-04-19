@@ -88,5 +88,6 @@ duplicated_from: af9d7b64-d9a7-485f-8d89-8782e63ed457
 attendance_information: 'Family friendly'
 cost_details: £4
 booking_link: 'https://www.eastpointpavilion.com/events/all-about-eggs-with-angies-curious-creatures'
+published: false
 ---
 Join animal expert Angie for this eggcellent session!
