@@ -2,7 +2,7 @@
 id: f5fd47b1-0401-4c3c-a023-fbd82a4d5b80
 published: false
 blueprint: events
-title: 'Skylarks Ipswich'
+title: 'Ipswich Skylarks'
 start_date: 2025-06-19T10:30:00+00:00
 end_date: 2025-06-19T12:00:00+00:00
 free: true
