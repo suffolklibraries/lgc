@@ -1,14 +1,15 @@
 ---
-id: fdd28156-23f1-4dcb-9dff-afd96155f85e
+id: e6e85f66-8125-4ea6-be36-25da9879d4d1
 published: false
 blueprint: events
 title: 'Participate - Kesgrave'
-start_date: 2025-06-10T10:00:00+00:00
-end_date: 2025-06-10T12:00:00+00:00
+start_date: 2025-06-17T10:00:00+00:00
+end_date: 2025-06-17T12:00:00+00:00
 free: true
 virtual: false
 attendance_information: 'Adults. Our team are trained to ensure these workshops are suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
@@ -20,7 +21,7 @@ town: Ipswich
 postcode: 'IP5 1JF'
 directions: '<p>Bus or Car - free parking</p>'
 content_area: '<p>These sessions will bring you together with others in your local community, providing an opportunity to take part in activities. Sessions last for two hours and refreshments are provided. No musical experience is necessary.</p>'
-cta: 'No booking required'
+cta: 'Booking not required'
 created_by: 23b93f65-4171-46a0-806d-9ce87f14d30f
 event_categories:
   - music
