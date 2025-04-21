@@ -2,7 +2,7 @@
 id: 36ea0134-5cd8-4b14-aa1a-d74e53bca3eb
 published: false
 blueprint: events
-title: 'Skylarks Ipswich'
+title: 'Ipswich Skylarks'
 start_date: 2025-05-22T10:30:00+00:00
 end_date: 2025-05-22T12:00:00+00:00
 free: true
@@ -12,13 +12,12 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Fully Accessible'
 address_line_1: 'Twelve Acre Approach'
 address_line_2: Kesgrave
 building_name: 'The Stour Room, Kesgrave War Memorial Community Centre'
 town: Ipswich
 postcode: 'IP5 1JF'
-directions: '<p>Car or Bus</p>'
+directions: '<p>Car or Bus - free parking</p>'
 content_area: |-
   <p>East Suffolk Skylarks groups use techniques based on years of research to help those with Parkison’s to maintain or improve their psychological and physical wellbeing through taking part in regular singing activity.</p>
 
