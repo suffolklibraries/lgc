@@ -13,9 +13,6 @@ accessibility_information:
   - 'Dementia friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Fully accessible'
-latitude: '52.0949791'
-longitude: '1.3202491'
 address_line_1: "25 Saint John's Street"
 building_name: 'Woodbridge Methodist Church'
 town: Woodbridge
@@ -25,7 +22,10 @@ content_area: '<p>These sessions will bring you together with others in your loc
 cta: 'Booking not required'
 created_by: 23b93f65-4171-46a0-806d-9ce87f14d30f
 event_categories:
+  - community
+  - later-years
   - music
+  - wellbeing
 organisers:
   - britten-pears-arts
 ---
