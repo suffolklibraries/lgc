@@ -2,7 +2,7 @@
 id: c94e7191-87bf-4620-a351-a467cfad1087
 published: false
 blueprint: events
-title: 'Skylarks Ipswich'
+title: 'Ipswich Skylarks'
 start_date: 2025-06-05T10:30:00+00:00
 end_date: 2025-06-05T12:00:00+00:00
 free: true
@@ -12,7 +12,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Fully accessible'
 address_line_1: 'Twelve Acre Approach'
 address_line_2: Kesgrave
 building_name: 'The Stour Room, Kesgrave War Memorial Community Centre'
