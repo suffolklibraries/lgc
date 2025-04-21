@@ -25,7 +25,9 @@ content_area: |-
 cta: 'No booking required'
 created_by: 23b93f65-4171-46a0-806d-9ce87f14d30f
 event_categories:
+  - later-years
   - music
+  - wellbeing
 organisers:
   - britten-pears-arts
 ---
