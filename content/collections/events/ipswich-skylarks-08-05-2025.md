@@ -12,15 +12,12 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Fully Accessible'
-latitude: '52.0612781'
-longitude: '1.2361397'
 address_line_1: 'Twelve Acre Approach'
 address_line_2: Kesgrave
-building_name: 'Kesgrave War Memorial Community Centre'
+building_name: 'The Stour Room, Kesgrave War Memorial Community Centre'
 town: Ipswich
 postcode: 'IP5 1JF'
-directions: '<p>Car or bus</p>'
+directions: '<p>Car or bus - Free parking</p>'
 content_area: |-
   <p>East Suffolk Skylarks groups use techniques based on years of research to help those with Parkison’s to maintain or improve their psychological and physical wellbeing through taking part in regular singing activity.</p>
 
