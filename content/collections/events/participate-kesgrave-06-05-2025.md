@@ -7,15 +7,12 @@ start_date: 2025-05-06T10:00:00+00:00
 end_date: 2025-05-06T12:00:00+00:00
 free: true
 virtual: false
-attendance_information: 'Open to all. Our team are trained to ensure these workshops are suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
+attendance_information: 'Adults. Our team are trained to ensure these workshops are suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Bus and car. Free Parking'
-latitude: '52.0612781'
-longitude: '1.2361397'
 address_line_1: 'Kesgrave War Memorial Community Centre, Twelve Acre Approach'
 address_line_2: Kesgrave
 building_name: 'The Stour Room or Bowls Club'
