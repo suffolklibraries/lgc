@@ -2,7 +2,7 @@
 id: 5ce6b77a-ac5e-46e7-8ce7-5244417f13ff
 published: false
 blueprint: events
-title: 'Skylarks- Snape maltings'
+title: 'Skylarks- Snape Maltings'
 start_date: 2025-05-01T10:30:00+00:00
 end_date: 2025-05-01T12:00:00+00:00
 free: true
@@ -12,9 +12,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Fully accessible'
-latitude: '52.16391100000001'
-longitude: '1.496721'
 address_line_1: 'Snape Maltings'
 address_line_2: Snape
 building_name: 'The Trask'
