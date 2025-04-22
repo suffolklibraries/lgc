@@ -12,14 +12,11 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
-additional_access_information: 'Fully accessible'
-latitude: '52.214806'
-longitude: '1.4920969'
 address_line_1: 'High Street'
 building_name: 'Market Hall'
 town: Saxmundham
 postcode: 'IP17 1AB'
-directions: '<p>Bus, Train or Car. Parking unavailable</p>'
+directions: '<p>Bus, Train or Car. </p>'
 content_area: '<p>These sessions will bring you together with others in your local community, providing an opportunity to take part in activities. Sessions last for two hours and refreshments are provided. No musical experience is necessary.</p>'
 cta: 'Booking not required'
 created_by: 23b93f65-4171-46a0-806d-9ce87f14d30f
