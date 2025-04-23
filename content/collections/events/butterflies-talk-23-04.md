@@ -151,5 +151,6 @@ accessibility_information:
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+published: false
 ---
 Join us for an illustrated talk by Steve Aylward from Suffolk Wildlife Trust.
