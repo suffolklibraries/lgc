@@ -45,5 +45,6 @@ cta: |-
   [https://www.pierprojects.org/](https://www.pierprojects.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1742832101
+published: false
 ---
 Join artist Barry Sykes who will discuss his ongoing research project Sauna as Studio.
