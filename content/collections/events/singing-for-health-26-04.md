@@ -116,5 +116,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1743690782
 duplicated_from: 5c1adead-609e-4c7e-a464-2a52e0f7f92c
 attendance_information: 'People with impaired lung performance'
+published: false
 ---
 A specialist group for those suffering with impaired lung performance.
