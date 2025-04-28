@@ -174,7 +174,7 @@ event_categories:
 organisers:
   - suffolk-pride
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1744820367
+updated_at: 1745827586
 latitude: '52.056538490893416'
 longitude: '1.1563508839846621'
 cta: |-
@@ -183,6 +183,5 @@ cta: |-
   [https://suffolkpride.org.uk/](https://suffolkpride.org.uk/)
 
   [info@suffolkpride.org.uk](mailto:info@suffolkpride.org.uk)
-published: false
 ---
 Join us for our monthly crafty vent sesh at Geek Retreat Ipswich!
