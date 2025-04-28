@@ -6,7 +6,7 @@ start_date: '2025-06-11 10:00'
 end_date: '2025-06-11 12:00'
 free: true
 virtual: false
-attendance_information: 'Adults. Our team are trained to ensure these workshops are suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
+attendance_information: "people with long-term heath conditions, including dementia and Parkinson's"
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
@@ -78,7 +78,15 @@ content_area:
     content:
       -
         type: text
-        text: 'These sessions will bring you together with others in your local community, providing an opportunity to take part in activities. Sessions last for two hours and refreshments are provided. No musical experience is necessary.'
+        text: 'These sessions will bring you together with others in your local community, providing an opportunity to take part in activities and connect over tea and cake. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Sessions last for two hours and tea and cake is provided. No musical experience is necessary.'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -98,6 +106,6 @@ latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-saxmundham-2'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745855557
+updated_at: 1745855807
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
