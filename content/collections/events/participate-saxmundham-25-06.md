@@ -106,6 +106,6 @@ latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-saxmundham-2'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745855678
+updated_at: 1745855858
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
