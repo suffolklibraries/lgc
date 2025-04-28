@@ -176,7 +176,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743590168
+updated_at: 1745855188
 duplicated_from: 8021c44c-9096-4d2e-84d9-29cfbff5def7
 latitude: '52.09507794144738'
 longitude: '1.3202544617018266'
