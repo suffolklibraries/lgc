@@ -14,10 +14,7 @@ start_date: '2025-04-30 10:00'
 end_date: '2025-04-30 12:00'
 free: true
 virtual: false
-attendance_information: |-
-  people with long-term heath conditions
-  people with dementia
-  people with Parkinson's
+attendance_information: "people with long-term heath conditions, including dementia and Parkinson's"
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
@@ -150,7 +147,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743589831
+updated_at: 1745855726
 duplicated_from: 98938121-3583-471e-b5bd-572caf29ffd0
 latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
