@@ -6,7 +6,7 @@ start_date: '2025-04-30 10:00'
 end_date: '2025-04-30 12:00'
 free: true
 virtual: false
-attendance_information: 'Adults. Our team are trained to ensure these workshops are suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
+attendance_information: "people with long-term heath conditions, including dementia and Parkinson's"
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
@@ -106,6 +106,6 @@ latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-saxmundham-2'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745855292
+updated_at: 1745855745
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
