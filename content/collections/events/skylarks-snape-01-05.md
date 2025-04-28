@@ -118,6 +118,6 @@ latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
 booking_link: 'https://www.brittenpearsarts.org/events/skylarks-2024-snape'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745837664
+updated_at: 1745837958
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
