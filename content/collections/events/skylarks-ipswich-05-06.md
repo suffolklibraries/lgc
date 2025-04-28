@@ -1,6 +1,5 @@
 ---
 id: c94e7191-87bf-4620-a351-a467cfad1087
-published: false
 blueprint: events
 title: 'Skylarks -Ipswich'
 start_date: '2025-06-05 10:30'
@@ -97,6 +96,6 @@ latitude: '52.061442978766976'
 longitude: '1.2362362574912145'
 booking_link: 'https://www.brittenpearsarts.org/events/skylarks-2024-ipswich'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745837453
+updated_at: 1745837463
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
