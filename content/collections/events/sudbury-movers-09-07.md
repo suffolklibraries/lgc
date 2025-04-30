@@ -146,6 +146,44 @@ content_area:
       -
         type: text
         text: 'The weekly sessions for everyone over 55 are designed to boost mental and physical health and include a chance to socialise and connect with others, but most importantly to have fun. Sessions will be led by an experienced dance artist and are suitable for all levels of mobility. No dance experience is necessary.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'To find our more and book Laura via '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:community-dance@hotmail.com'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: community-dance@hotmail.com
+      -
+        type: text
+        text: ' or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07375024115'
+              rel: null
+              target: null
+              title: null
+        text: '07375 024115'
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -154,7 +192,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746025266
+updated_at: 1746026289
 duplicated_from: e97f02b8-2682-4ef1-acd3-9d31337ea2d4
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
