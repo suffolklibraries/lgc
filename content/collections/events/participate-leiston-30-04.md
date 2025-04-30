@@ -109,5 +109,6 @@ featured_image: pelicanpelican-3x2/music.png
 booking_link: 'https://www.brittenpearsarts.org/events/participate-leiston-2'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1745856558
+published: false
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
