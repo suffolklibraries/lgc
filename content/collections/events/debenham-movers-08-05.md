@@ -1,8 +1,7 @@
 ---
 id: 87c40542-bd09-44df-bbdd-34b90c6a8d07
-published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated)'
+title: 'Debenham Movers'
 event_categories:
   - wellbeing
   - community
@@ -12,40 +11,26 @@ event_categories:
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-05-07 10:00'
-end_date: '2025-05-07 11:30'
+start_date: '2025-05-08 10:30'
+end_date: '2025-05-08 12:00'
 free: false
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-latitude: '52.03584807299214'
-longitude: '0.7232070607143715'
-building_name: 'All Saints Church'
-address_line_1: 'Church Street'
-town: Sudbury
-postcode: 'CO10 2BN'
+latitude: '52.223409056819854'
+longitude: '1.1699684533021872'
+building_name: 'Debenham Sports and Leisure Centre'
+address_line_1: 'Gracechurch Street'
+town: Debenham
+postcode: 'IP14 6BL'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'All Saints Church is a four minute walk from the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/dir/All+Saints+Church,+Sudbury/Old+Railway+Bridge,+Sudbury+CO10+2BP/@52.0355253,0.7205979,17.18z/data=!4m14!4m13!1m5!1m1!1s0x47d85575fb25b163:0x2f249297d2dac46d!2m2!1d0.7231838!2d52.0356853!1m5!1m1!1s0x47d8559dd0ebf97f:0xf13cec0d7149c0e0!2m2!1d0.719943!2d52.034805!3e2?entry=ttu&g_ep=EgoyMDI1MDQyNy4xIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-        text: 'nearest bus stop'
-      -
-        type: text
-        text: ', and you can find up-to-date times on the '
+        text: 'There is an onsite bus stop and you can find up-to-date times on the '
       -
         type: text
         marks:
@@ -65,47 +50,7 @@ directions:
     content:
       -
         type: text
-        text: 'Sudbury railway station is an 15 minute walk away and you can find times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'There is free on site parking.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Plan your journey using '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Onboard'
-      -
-        type: text
-        text: .
 content_area:
   -
     type: paragraph
@@ -114,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Sudbury. '
+        text: 'Movers classes combine movement and a cup of tea to provide a positive and creative outlet for people over 55 in Debenham. '
   -
     type: paragraph
     attrs:
@@ -193,9 +138,9 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746026212
+updated_at: 1746026568
 duplicated_from: a63da680-9b4c-4a19-bb82-580a23a1a6c0
-cost_details: '£6 per session'
+cost_details: '£5 per session'
 attendance_information: 'people aged 55+'
 booking_link: 'https://www.danceeast.co.uk/movers-2/'
 ---
