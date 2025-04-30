@@ -192,7 +192,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746026282
+updated_at: 1746026286
 duplicated_from: 51d82130-3c31-43cc-a57d-de3538aa684b
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
