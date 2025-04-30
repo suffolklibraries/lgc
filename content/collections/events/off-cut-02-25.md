@@ -1,14 +1,13 @@
 ---
 id: 5a5442ee-4dbe-4918-a9b8-e1c160ebc47e
-published: false
 blueprint: events
-title: 'OffCut Singers (Duplicated) (Duplicated)'
+title: 'OffCut Singers'
 event_categories:
   - community
   - music
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-08-19 18:45'
-end_date: '2025-08-19 20:00'
+start_date: '2025-09-02 18:45'
+end_date: '2025-09-02 20:00'
 free: false
 cost_details: £5
 virtual: false
@@ -131,7 +130,9 @@ content_area:
         text: 'The group meet in the community room at the Co-op (near the café).'
 cta: 'This event is organised by the OffCut Choir'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746008281
+updated_at: 1746008330
 duplicated_from: a4bec4ac-6d71-4ee9-98a0-4ca5d4b89ef0
+organisers:
+  - off-cut-choir
 ---
 Come along to join our welcoming choir.
