@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - john-peel-centre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-03-19 19:00'
-end_date: '2025-03-19 00:00'
+start_date: '2025-05-21 19:00'
+end_date: '2025-05-21 00:00'
 free: false
 cost_details: '£7 in advance, £10 on the door'
 virtual: false
@@ -148,11 +148,22 @@ content_area:
           -
             type: link
             attrs:
+              href: 'https://johnpeelcentre.com/JohnPeelCentre.dll/WhatsOn?f=71067'
+              rel: null
+              target: _blank
+              title: null
+        text: 'the John Peel Centre website'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
               href: 'https://www.johnpeelcentre.com/'
               rel: null
               target: _blank
               title: null
-        text: 'the John Peel Centre website.'
+        text: .
 cta: |-
   This event is organised by the John Peel Centre
 
@@ -162,9 +173,8 @@ cta: |-
 
   [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738160631
+updated_at: 1746085454
 duplicated_from: f5a7d761-0277-46e3-afbc-c85bb2c4d7ad
-booking_link: 'https://www.johnpeelcentre.com/event/lets-bop-5/?instance_id=2510'
-published: false
+booking_link: 'https://johnpeelcentre.com/JohnPeelCentre.dll/WhatsOn?f=71067'
 ---
 Fun, fitness and friendship!
