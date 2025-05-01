@@ -1,17 +1,16 @@
 ---
 id: e63a38c9-5544-417f-8cc9-09518e9a19a2
-published: false
 blueprint: events
-title: 'Amazing Animals (Duplicated)'
+title: 'Amazing Animals'
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/amazing-animals-americas.png
-start_date: '2025-08-04 10:00'
-end_date: '2025-08-04 16:00'
+featured_image: ipswichmuseums/amazing-animals-asia.png
+start_date: '2025-08-11 10:00'
+end_date: '2025-08-11 16:00'
 free: false
 virtual: false
 latitude: '52.06078949566327'
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: "Our 45-minute sessions will be held on 4 August at 10:30 AM, 11:30 AM, 12:30 PM, 2 PM, and 3 PM. Learn\_more about a range of animals, how they adapt and survive in their environments, and how humans impact their worlds."
+        text: "Our 45-minute sessions will be held on 11\_August at 10:30 AM, 11:30 AM, 12:30 PM, 2 PM, and 3 PM. Learn\_more about a range of animals, how they adapt and survive in their environments, and how humans impact their worlds."
   -
     type: paragraph
     attrs:
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be a range of animals, which could include a boa constrictor, red-footed tortoise, corn snake, western hognose, smooth-sided toad, Pac-Man frog, green basilisk, guinea pigs, tiger salamanders, hermit crabs, tarantulas, jumping spiders, whip scorpion, and tailless whip scorpion. Nine animals will be chosen depending on how happy they are on the morning.'
+        text: 'There will be a range of animals, which may include a Japanese rat snake, Berber Skink, Asian forest scorpion, Indian star tortoise, Indonesian frilled dragon, Halmahera blue-tongued skink, Syrian hamster, chickens, giant Asian praying mantis, orchid mantis, leaf insects, and lesser bamboo rat. Nine animals will be chosen depending on how happy they are on the morning.'
   -
     type: paragraph
     attrs:
@@ -72,7 +71,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746094481
+updated_at: 1746094597
 duplicated_from: 5db37fe1-6966-4ee2-9ff7-1f8cc719c5f1
 building_name: 'Christchurch Mansion'
 directions:
@@ -112,7 +111,7 @@ directions:
         text: .
       -
         type: hardBreak
-booking_link: 'https://ipswich.cimuseums.org.uk/events/amazing-animals-americas/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/amazing-animals-asia/'
 cost_details: '£6 per person, under 3s are free'
 accessibility_information:
   - 'Wheelchair accessible'
