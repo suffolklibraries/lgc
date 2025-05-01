@@ -111,5 +111,6 @@ accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
+published: false
 ---
 Discover Spring flowers in Bradfield Woods on this sociable stroll.
