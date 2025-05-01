@@ -1,8 +1,7 @@
 ---
 id: 8cb627e5-470c-4bfc-94d7-2ab3d864b45a
-published: false
 blueprint: events
-title: 'Amazing Animals (Duplicated)'
+title: 'Amazing Animals'
 event_categories:
   - art
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/amazing-animals-asia.png
-start_date: '2025-08-11 10:00'
-end_date: '2025-08-11 16:00'
+start_date: '2025-08-18 10:00'
+end_date: '2025-08-18 16:00'
 free: false
 virtual: false
 latitude: '52.06078949566327'
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: "Our 45-minute sessions will be held on 11\_August at 10:30 AM, 11:30 AM, 12:30 PM, 2 PM, and 3 PM. Learn\_more about a range of animals, how they adapt and survive in their environments, and how humans impact their worlds."
+        text: "The live animals are back! Our 45-minute sessions will be held on 18 August at 10:30 AM, 11:30 AM, 12:30 PM, 2 PM, and 3 PM. Learn\_more about a range of animals, how they adapt and survive in their environments, and how humans impact their worlds."
   -
     type: paragraph
     attrs:
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There will be a range of animals, which may include a Japanese rat snake, Berber Skink, Asian forest scorpion, Indian star tortoise, Indonesian frilled dragon, Halmahera blue-tongued skink, Syrian hamster, chickens, giant Asian praying mantis, orchid mantis, leaf insects, and lesser bamboo rat. Nine animals will be chosen depending on how happy they are on the morning.'
+        text: 'There will be a range of animals, which could include a bearded dragon, Ackie monitor lizard, Fiji banded iguana, bread python, crested gecko, green tree frogs, sugar gliders, budgies, kakarikis, and red-eyed crocodile skinks. Nine animals will be chosen depending on how happy they are on the morning.'
   -
     type: paragraph
     attrs:
@@ -72,7 +71,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746094597
+updated_at: 1746094653
 duplicated_from: e63a38c9-5544-417f-8cc9-09518e9a19a2
 building_name: 'Christchurch Mansion'
 directions:
@@ -112,7 +111,7 @@ directions:
         text: .
       -
         type: hardBreak
-booking_link: 'https://ipswich.cimuseums.org.uk/events/amazing-animals-asia/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/amazing-animals-australasia/'
 cost_details: '£6 per person, under 3s are free'
 accessibility_information:
   - 'Wheelchair accessible'
