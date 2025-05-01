@@ -1,7 +1,7 @@
 ---
 id: 5a2da335-2f97-4360-bf5d-bb9e8187ee70
 blueprint: events
-title: 'Family Screening - Shark Tale'
+title: 'Family Screening - Matilda'
 event_categories:
   - family-friendly
   - film
@@ -113,7 +113,16 @@ content_area:
     content:
       -
         type: text
-        text: "Underachiever Oscar (Will Smith) is a pint-sized fish with grand aspirations. When mob-connected great white shark Frankie (Michael Imperioli) is accidentally killed, Oscar concocts a story with Frankie's peace-loving brother Lenny (Jack Black) that it was he who murdered the shark. Suddenly hailed \"Sharkslayer\" by his aquatic brethren, Oscar has bigger fish to fry when Frankie's father, mob boss Don Lino (Robert De Niro), dispatches his henchmen to track down his son's killer."
+        text: Matilda
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: ' '
+      -
+        type: text
+        text: 'lives with her brother and parents, who are unappreciative of her. She utilises her telekinetic abilities to settle the score after her principal brutally tortures her with the help of her kind-hearted teacher.'
   -
     type: paragraph
     attrs:
@@ -130,7 +139,7 @@ content_area:
       -
         type: text
         text: "Please Note:\_There are only 5 minutes of pre-show trailers, it is advisable to arrive before the time advertised."
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=8256226'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=8777339'
 cta: |-
   This event is organised by The Regal
 
@@ -140,8 +149,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738160375
+updated_at: 1746085289
 duplicated_from: baac63d6-a127-4803-bf3e-00246349abbe
-published: false
 ---
 Come along for a relaxed, family friendly screening.
