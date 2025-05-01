@@ -173,7 +173,7 @@ cta: |-
 
   [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746085454
+updated_at: 1746085511
 duplicated_from: f5a7d761-0277-46e3-afbc-c85bb2c4d7ad
 booking_link: 'https://johnpeelcentre.com/JohnPeelCentre.dll/WhatsOn?f=71067'
 ---
