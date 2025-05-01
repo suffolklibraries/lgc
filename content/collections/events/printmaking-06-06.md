@@ -1,8 +1,7 @@
 ---
 id: 7d87676b-6935-4ab2-a58e-32790611a1d0
-published: false
 blueprint: events
-title: 'Printmaking (Duplicated)'
+title: Printmaking
 event_categories:
   - community
   - art
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-05-23 10:00'
-end_date: '2025-05-23 13:00'
+start_date: '2025-06-06 10:00'
+end_date: '2025-06-06 13:00'
 free: false
 virtual: false
 accessibility_information:
@@ -196,7 +195,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746084469
+updated_at: 1746084511
 duplicated_from: c50e8a41-d9dd-496a-9e12-b342bf649670
 cost_details: 'From £13'
 ---
