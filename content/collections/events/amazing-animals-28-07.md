@@ -8,12 +8,11 @@ event_categories:
   - museums
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/guinea-pig.png
-start_date: '2025-02-18 10:00'
-end_date: '2025-02-18 16:00'
+featured_image: ipswichmuseums/amazing-animals.png
+start_date: '2025-07-28 10:00'
+end_date: '2025-07-28 16:00'
 free: false
 virtual: false
-attendance_information: 'family friendly'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
 address_line_2: 'Soane Street'
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: "The live animals are back for our Love Mammals themed February half-term! Find out more about a range of cute and fluffy animals, how they adapt and survive in their environments, and how humans impact their worlds.\_"
+        text: "Our 45-minute sessions will be held on 28 July at 10:30 AM, 11:30 AM, 12:30 PM, 2 PM, and 3 PM. Learn\_more about a range of animals, how they adapt and survive in their environments, and how humans impact their worlds."
   -
     type: paragraph
     attrs:
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: "Everyone aged three and older, including adults, will require a ticket. Children under three are welcome free of charge, but due to health and safety guidelines, they will not be able to touch the animals. This is a family event for children accompanied by parents/carers, who must remain with their children throughout.\_"
+        text: 'There will be a range of animals, which could include a royal python, giant land snails, sun beetles, millipedes, hissing cockroaches, Sudan play lizards, Madagascan giant day geckos, African pygmy hedgehogs, panther chameleons, or dung beetles. Nine animals will be chosen depending on how happy they are in the morning!'
   -
     type: paragraph
     attrs:
@@ -43,7 +42,15 @@ content_area:
     content:
       -
         type: text
-        text: "All sessions will be held in fully accessible ground-floor spaces. For useful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information:\_"
+        text: 'This event is suitable for ages 3+. Younger visitors are welcome to attend but will be unable to handle the animals.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "The sessions will take place in the Great Hall and are completely accessible. For useful information, such as how to find us and what facilities Christchurch Mansion has, we recommend reading our Access information:\_"
       -
         type: text
         marks:
@@ -55,20 +62,8 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Please note that only the Great Hall will be open to event visitors. The rest of the Mansion will not be open as we are closed to the public on Mondays.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
 cta: |-
-  This event is organised by Ipswich Museums:
+  This event is organised by Ipswich Museums
 
   [https://ipswich.cimuseums.org.uk/](https://ipswich.cimuseums.org.uk/) 
 
@@ -76,7 +71,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738142718
+updated_at: 1746094296
 duplicated_from: 2631bc0a-a371-4775-9430-74b58f82d0f9
 building_name: 'Christchurch Mansion'
 directions:
@@ -116,24 +111,11 @@ directions:
         text: .
       -
         type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'For useful information, such as how to find us and what facilities Christchurch Mansion has, we recommend reading our Access information: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://ipswich.cimuseums.org.uk/christchurchmansionaccess/'
-              rel: null
-              target: null
-              title: null
-        text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/amazing-animals/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/amazing-animals-africa/'
 cost_details: '£6 per person, under 3s are free'
-published: false
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
+  - 'Accessible parking spaces'
 ---
-The live animals are back for our Love Mammals themed February half-term!
+The live animals are back!
