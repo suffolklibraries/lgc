@@ -1,8 +1,7 @@
 ---
 id: 0bb181f6-c64b-45ca-b0a2-7565f0780958
-published: false
 blueprint: events
-title: "Let's Bop (Duplicated)"
+title: "Let's Bop"
 event_categories:
   - dance
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - john-peel-centre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-05-21 19:00'
-end_date: '2025-05-21 00:00'
+start_date: '2025-06-18 19:00'
+end_date: '2025-06-18 00:00'
 free: false
 cost_details: '£7 in advance, £10 on the door'
 virtual: false
@@ -174,7 +173,7 @@ cta: |-
 
   [01449 774678](tel:01449774678)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746085454
+updated_at: 1746085485
 duplicated_from: 959e58d9-1fdb-472f-9916-595756b312f1
 booking_link: 'https://johnpeelcentre.com/JohnPeelCentre.dll/WhatsOn?f=71067'
 ---
