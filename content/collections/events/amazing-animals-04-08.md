@@ -71,7 +71,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746094481
+updated_at: 1746095604
 duplicated_from: 41cc27fb-c69a-49a7-a090-8730fd09023b
 building_name: 'Christchurch Mansion'
 directions:
