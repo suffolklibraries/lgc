@@ -105,5 +105,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1743583250
 duplicated_from: 106799e9-4794-426d-a796-b1d4e0a07842
+published: false
 ---
 A 12 week wellbeing programme with creative and mindful activities.
