@@ -300,5 +300,6 @@ directions:
               title: null
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/springboard-adults-open/'
+published: false
 ---
 Move and explore using dance as a tool to develop skills.
