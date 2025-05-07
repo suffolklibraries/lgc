@@ -3,8 +3,8 @@ id: 680742f3-b7bc-4e18-afba-12212e6b03eb
 published: false
 blueprint: events
 title: 'Queer Life Drawing'
-start_date: 2025-04-19T14:00:00+00:00
-end_date: 2025-04-19T16:00:00+00:00
+start_date: 2025-05-18T14:00:00+00:00
+end_date: 2025-05-18T16:00:00+00:00
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 18+'
@@ -36,7 +36,7 @@ content_area: |-
 booking_link: 'https://ko-fi.com/liminalgaze'
 cost_details: 'Unwaged/Concession: £4. Standard: £7. Solidarity: £10'
 created_by: 1bd92b89-519f-48c9-be43-c0110c069cef
-featured_image: user-events/190425insta-1743345615.png
+featured_image: user-events/180525insta.png
 event_categories:
   - art
   - community
