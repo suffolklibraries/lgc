@@ -2,7 +2,7 @@
 id: 680742f3-b7bc-4e18-afba-12212e6b03eb
 published: false
 blueprint: events
-title: Viking-knit-arrogant-530
+title: 'Queer Life Drawing'
 start_date: 2025-05-18T14:00:00+00:00
 end_date: 2025-05-18T16:00:00+00:00
 free: false
