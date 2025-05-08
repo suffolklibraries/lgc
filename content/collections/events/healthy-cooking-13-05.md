@@ -4,7 +4,7 @@ blueprint: events
 title: 'Healthy Cooking on a Budget'
 organisers:
   - reach-community-projects
-featured_image: offthepressimages/new_resized_images/Food_Nature.png
+featured_image: pelicanpelican-3x2/food_nature-(1).png
 start_date: '2025-05-13 10:00'
 end_date: '2025-05-13 14:00'
 free: true
@@ -96,7 +96,7 @@ cta: |-
 
   [0800 009 6710](tel:08000096710)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739810362
+updated_at: 1746715388
 duplicated_from: 4a215561-d733-48d1-9d90-9147ca65cf62
 event_categories:
   - community
