@@ -120,5 +120,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1739867202
 duplicated_from: eca1a3ed-cc51-4c08-bd87-21c1ef95a004
 cost_details: £5
+published: false
 ---
 Join our gentle seated yoga class!
