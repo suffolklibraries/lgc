@@ -309,5 +309,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1744893613
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
 booking_link: 'https://ipswich.cimuseums.org.uk/events/amplify-a-young-adults-event/'
+published: false
 ---
 Build connections and explore career pathways.
