@@ -1,8 +1,7 @@
 ---
 id: d0f54b18-9fcc-4f3a-8384-289aac68ac59
-published: false
 blueprint: events
-title: 'Wild Families - Brilliant Bees (Duplicated)'
+title: 'Wild Families - Brilliant Bees'
 event_categories:
   - nature
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-06-14 10:00'
-end_date: '2025-06-14 12:00'
+start_date: '2025-06-21 10:00'
+end_date: '2025-06-21 12:00'
 free: false
 cost_details: '£8 per child and adults'
 virtual: false
@@ -106,7 +105,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-14-wild-families-brilliant-bees'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-21-wild-families-brilliant-bees'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -116,7 +115,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740664824
+updated_at: 1747064701
 duplicated_from: e19198a7-b1c6-4739-8a08-3aedbda98260
 ---
 A family session to explore and take action for nature.
