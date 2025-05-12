@@ -1,5 +1,6 @@
 ---
 id: 76e2c6cf-91e3-4d10-b4bb-955d1690a79a
+published: false
 blueprint: events
 title: 'Beyond the Bassline Exhibition - Framlingham'
 event_categories:
