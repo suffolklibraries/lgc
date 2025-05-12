@@ -1,7 +1,7 @@
 ---
 id: b0048f9b-8564-4f9a-acb2-a2b7280cbf1e
 blueprint: events
-title: 'Family Forest Adventure at Foxburrow'
+title: 'Wild Tots Summer Special'
 event_categories:
   - nature
   - wellbeing
@@ -10,10 +10,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-09 10:30'
-end_date: '2025-03-09 12:30'
+start_date: '2025-05-26 10:30'
+end_date: '2025-05-26 12:30'
 free: false
-cost_details: 'Prices from £10 per adult and child'
+cost_details: £7
 virtual: false
 attendance_information: 'suitable for children 18 months upwards'
 latitude: '52.11759364824492'
@@ -53,15 +53,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our team in the woods as they take you to explore our forest school with group activities, games, and fun free-flow stations. Our mornings always have the following and then we add different stations, games, and crafts each month.'
+        text: 'Join us for outdoor discovery and play at Foxburrow, delving into all sorts of summer themed activities!'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Activities might include forest crafts, whittling, rope swings, hammocks, den building, bug hunting, and scavenger hunts.'
+        text: 'Wild Tots gives children and their families the opportunity to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills and, importantly, create shared memories for children and adults.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session.'
   -
     type: paragraph
     attrs:
@@ -94,11 +102,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740652915
+updated_at: 1747062031
 duplicated_from: 6ffa49e9-1ce8-4811-843f-a183c92f2a03
 accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
-published: false
 ---
-Explore our forest school with group activities, games, and fun free-flow stations.
+Wild play activities for children aged 18 months to 5 years, summer style!
