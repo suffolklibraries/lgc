@@ -1,55 +1,31 @@
 ---
 id: b9f3bd36-e35b-4c04-882a-d5fbe8890685
-published: false
 blueprint: events
-title: 'Wild Walk: Bird I.D. (Duplicated)'
+title: 'Walk - Butterflies in Bonny Wood'
 event_categories:
   - wellbeing
   - nature
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-14 11:00'
-end_date: '2025-05-14 13:00'
+start_date: '2025-07-12 14:00'
+end_date: '2025-07-12 16:30'
 free: false
-cost_details: £5
+cost_details: '£5, under 25s free'
 virtual: false
-latitude: '52.304423567293775'
-longitude: '0.6387903808049041'
-building_name: 'Suffolk Wildlife Trust'
-address_line_1: 'Lackford Lakes'
-town: 'Bury St Edmunds'
-postcode: 'IP28 6HX'
+latitude: '52.13314514254909'
+longitude: '1.019404785845024'
+building_name: 'Barking Tye Village Hall'
+address_line_1: 'Barking Road'
+town: Ipswich
+postcode: 'IP6 8HP'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The reserve is about ten minutes from Bury St Edmunds on the A1101, Bury to Mildenhall Road.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is on site car and bicycle parking.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Plan your journey using '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'the Suffolk Onboard website.'
+        text: 'Free onsite parking.'
 content_area:
   -
     type: paragraph
@@ -58,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join Paul Holness for a morning walk around the reserve.\_"
+        text: "Bonny Wood is reached via footpaths from the car park, total distance of walk 4 km approx.\_ Wear stout shoes, bring a sun hat and a drink. "
   -
     type: paragraph
     attrs:
@@ -81,7 +57,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-14-wild-walk-bird-id-paul-holness'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-12-walk-butterflies-bonny-wood'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -91,7 +67,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747062373
+updated_at: 1747063537
 duplicated_from: 6793400a-5080-4883-bfbb-29ae185a70e6
+attendance_information: 'Adults and children aged 10+'
+address_line_2: 'Barking Tye'
 ---
-A morning walk around the reserve.
+A walk to an ancient woodland where a variety of butterflies can be seen.
