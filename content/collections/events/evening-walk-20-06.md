@@ -1,16 +1,15 @@
 ---
 id: 821890cc-b641-4a8e-bc62-971722350733
-published: false
 blueprint: events
-title: 'Evening Nightjars and Glow Worms walk (Duplicated)'
+title: 'Evening Nightjars and Glow Worms Walk'
 event_categories:
   - community
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
-start_date: '2025-06-27 10:00'
-end_date: '2025-06-27 13:30'
+start_date: '2025-06-20 10:00'
+end_date: '2025-06-20 13:30'
 free: false
 virtual: false
 latitude: '52.15101322999601'
@@ -56,11 +55,11 @@ cta: |-
 
   [https://www.suffolkwildlifetrust.org/](https://www.suffolkwildlifetrust.org/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747064284
+updated_at: 1747064741
 duplicated_from: e181b130-0406-43ce-8e08-7092e7c8ce2c
 featured_image: pelicanpelican-3x2/nature.png
 cost_details: £5
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-27-evening-nightjars-and-glow-worms-walk'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-20-evening-nightjars-and-glow-worms-walk'
 building_name: 'Sandgalls Car Park'
 directions:
   -
