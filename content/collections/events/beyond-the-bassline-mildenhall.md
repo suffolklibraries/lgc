@@ -1,5 +1,6 @@
 ---
 id: 3f69b22a-8933-49f8-b2ec-89bac97eeb7b
+published: false
 blueprint: events
 title: 'Beyond the Bassline Exhibition - Mildenhall'
 event_categories:
