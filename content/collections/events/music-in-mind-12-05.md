@@ -175,5 +175,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1732125134
 duplicated_from: f8715bff-e110-43bc-9941-625757c976bb
+published: false
 ---
 A singing project with a focus on mental health.
