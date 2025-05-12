@@ -1,6 +1,5 @@
 ---
 id: d660ef4e-eb60-4b63-8656-2759ffc8ad5e
-published: false
 blueprint: events
 title: 'Wild Walk: Bird I.D. (Duplicated)'
 event_categories:
@@ -9,8 +8,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-14 11:00'
-end_date: '2025-05-14 13:00'
+start_date: '2025-05-31 11:00'
+end_date: '2025-05-31 13:00'
 free: false
 cost_details: £5
 virtual: false
@@ -81,7 +80,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-14-wild-walk-bird-id-paul-holness'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-05-31-wild-walk-bird-id-paul-holness'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -91,7 +90,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747062373
+updated_at: 1747065587
 duplicated_from: 6793400a-5080-4883-bfbb-29ae185a70e6
 ---
 A morning walk around the reserve.
