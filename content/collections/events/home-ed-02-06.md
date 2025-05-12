@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-03-31 13:00'
-end_date: '2025-03-31 15:00'
+start_date: '2025-06-02 13:00'
+end_date: '2025-06-02 15:00'
 free: true
 virtual: false
 attendance_information: 'home education young people aged between 11 - 16 years'
@@ -148,8 +148,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731322987
+updated_at: 1747059706
 duplicated_from: 90ef09ec-5052-4f84-b41d-c21286a920ef
-published: false
 ---
 If you're home-educated and aged between 11-16 years old just drop-in!
