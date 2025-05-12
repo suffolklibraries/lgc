@@ -1,21 +1,19 @@
 ---
 id: b7940e1d-ff36-460f-8225-5f37251eeaa9
 blueprint: events
-title: 'Family Christmas Woodland Adventure'
+title: 'Guided Monthly Walk'
 event_categories:
   - nature
-  - teen
   - wellbeing
   - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2024-12-22 10:30'
-end_date: '2024-12-22 12:30'
+start_date: '2025-06-22 10:00'
+end_date: '2025-06-22 12:00'
 free: false
-cost_details: 'From £10 for one adult and child'
+cost_details: £5
 virtual: false
-attendance_information: 'family friendly'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
 address_line_1: 'Foxburrow Nature Reserve'
@@ -53,7 +51,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Start your Christmas holidays with a festive morning in the woods.'
+        text: 'Come along whether you are a wildlife enthusiast or are looking to improve your ID skills, everyone of all ages is welcome. We shall be exploring predominantly our red route which is a grass path and can be muddy in places. This trail is also exposed in some areas and can be quite hot during the summer months or windy/wet at other times so please dress for the outdoors.'
   -
     type: paragraph
     attrs:
@@ -61,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join Sophie as she takes you to explore our forest school with group activities, games, and fun free-flow stations.\_ Our festive morning will include making natural Christmas decorations, creating tin can lanterns to guide Santa to your home and building a den, play on the rope swing, go on a festive scavenger hunt, whittle a Christmas gnome, and more.\_"
+        text: 'Binoculars are recommended - we sometimes have some to borrow.'
   -
     type: paragraph
     attrs:
@@ -84,7 +82,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-22-guided-monthly-walk-30-days-wild'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -94,12 +92,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732100831
+updated_at: 1747064565
 duplicated_from: 6ffa49e9-1ce8-4811-843f-a183c92f2a03
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
-published: false
 ---
-Join us for a festive family adventure in the woods.
+Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide.
