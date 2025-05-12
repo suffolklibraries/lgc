@@ -1,8 +1,7 @@
 ---
 id: dee97727-aa6a-43fd-94f2-943e7c9767e3
-published: false
 blueprint: events
-title: 'Guided Monthly Walk (Duplicated)'
+title: 'Guided Monthly Walk - Berry Bonanza'
 event_categories:
   - nature
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-06-22 10:00'
-end_date: '2025-06-22 12:00'
+start_date: '2025-09-28 10:00'
+end_date: '2025-09-28 12:00'
 free: false
 cost_details: £5
 virtual: false
@@ -83,7 +82,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-22-guided-monthly-walk-30-days-wild'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-28-guided-monthly-walk-berry-bonanza'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -93,7 +92,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747064565
+updated_at: 1747066114
 duplicated_from: b7940e1d-ff36-460f-8225-5f37251eeaa9
 accessibility_information:
   - 'Accessible toilets'
