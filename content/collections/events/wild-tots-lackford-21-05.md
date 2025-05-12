@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-26 10:00'
-end_date: '2025-03-26 11:30'
+start_date: '2025-05-21 10:00'
+end_date: '2025-05-21 11:30'
 free: false
 cost_details: '£7, including a hot drink'
 virtual: false
@@ -108,8 +108,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740652207
+updated_at: 1747061050
 duplicated_from: 3c38738b-cd5a-43ae-a6f0-d49a0d46cfa8
-published: false
 ---
 Wild play activities for children aged 18 months - 5 years.
