@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-11 13:30'
-end_date: '2025-05-11 12:30'
+start_date: '2025-07-13 13:30'
+end_date: '2025-07-13 15:30'
 free: false
 cost_details: 'Prices from £10 per adult and child'
 virtual: false
@@ -94,11 +94,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740658123
+updated_at: 1747063113
 duplicated_from: d70ffb68-4300-449b-89f9-2f1684e7459b
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Foxburrow Nature Reserve'
-published: false
 ---
 Explore our forest school with group activities, games, and fun free-flow stations.
