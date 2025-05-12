@@ -1,5 +1,6 @@
 ---
 id: e8d591e6-323d-47bf-9ffb-6335707ad19e
+published: false
 blueprint: events
 title: 'Beyond the Bassline Exhibition - Glemsford'
 event_categories:
