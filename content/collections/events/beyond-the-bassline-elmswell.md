@@ -1,5 +1,6 @@
 ---
 id: 0cda1927-4911-425b-b346-079838ba8aab
+published: false
 blueprint: events
 title: 'Beyond the Bassline Exhibition - Elmswell'
 event_categories:
