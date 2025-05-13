@@ -1,8 +1,7 @@
 ---
 id: 8468481b-5bff-4710-9232-6bf26d14ec64
-published: false
 blueprint: events
-title: 'Trimley Marshes Bird Ringing (Duplicated)'
+title: 'Trimley Marshes Bird Ringing'
 event_categories:
   - nature
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-14 08:30'
-end_date: '2025-09-14 10:30'
+start_date: '2025-08-10 08:00'
+end_date: '2025-08-10 10:00'
 free: false
 virtual: false
 latitude: '51.97212205567339'
@@ -103,7 +102,7 @@ content_area:
       -
         type: text
         text: "See migratory and resident birds close up and learn about identification and bird migration.\_"
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-14-trimley-marshes-bird-ringing-demo'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-10-trimley-marshes-bird-ringing-demo'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -113,7 +112,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747148353
+updated_at: 1747150387
 duplicated_from: bd46f663-8711-4390-bd64-ebce98bd662f
 address_line_2: 'Trimley St Mary'
 cost_details: '£8 adult, £5 child'
