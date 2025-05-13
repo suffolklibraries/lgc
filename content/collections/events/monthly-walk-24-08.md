@@ -1,8 +1,7 @@
 ---
 id: 75123463-6e69-4e28-bd4b-56f1032ef1f4
-published: false
 blueprint: events
-title: 'Guided Monthly Walk - Berry Bonanza (Duplicated)'
+title: 'Guided Monthly Walk - Antlions and Walk'
 event_categories:
   - nature
   - wellbeing
@@ -10,14 +9,13 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-28 10:00'
-end_date: '2025-09-28 12:00'
+start_date: '2025-08-24 10:00'
+end_date: '2025-08-24 12:00'
 free: false
 cost_details: £5
 virtual: false
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
-address_line_1: 'Foxburrow Nature Reserve'
 town: Melton
 postcode: 'IP12 1NA'
 directions:
@@ -83,7 +81,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-28-guided-monthly-walk-berry-bonanza'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-24-guided-monthly-walk-antlions-and-more'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -93,10 +91,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747066114
+updated_at: 1747149111
 duplicated_from: dee97727-aa6a-43fd-94f2-943e7c9767e3
 accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
+building_name: 'Foxburrow Nature Reserve'
 ---
 Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide.
