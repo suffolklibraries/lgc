@@ -1,7 +1,7 @@
 ---
 id: 8dbdc1e9-9598-44a5-ad0e-4d5f544e8a24
 blueprint: events
-title: 'Warden walk at Bradfield Woods'
+title: 'Identifying trees in Summer'
 event_categories:
   - nature
   - wellbeing
@@ -10,10 +10,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-11 10:00'
-end_date: '2025-04-11 12:00'
+start_date: '2025-08-23 10:00'
+end_date: '2025-08-23 15:30'
 free: false
-cost_details: '£5 per person'
+cost_details: '£32 per person'
 virtual: false
 attendance_information: adults
 latitude: '52.11759364824492'
@@ -73,7 +73,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Spend a morning exploring the woods with one of our wardens.'
+        text: "In the stunning surroundings of Bradfield Woods, discover\_how to identify the common trees in the countryside in summer using their leaves, flowers, fruit, and bark, with an opportunity to practice skills indoors and in the field. Suitable for beginners."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "Andrew Holtham is a tree enthusiast and the author of a Winter Guide to the Common Trees of Hertfordshire. Copies of Andrew's book will be available to purchase for cash on the day."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Tea & coffees will be provided and are included in the cost of the course.'
   -
     type: paragraph
     attrs:
@@ -96,7 +112,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-23-identifying-trees-summer'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -106,12 +122,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740656734
+updated_at: 1747149219
 duplicated_from: 87d00ff0-ca18-48f4-acea-3656fcf656cc
 accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
-published: false
 ---
-Learn about the history, ecology and management of the Nature Reserve.
+Discover how to identify trees and shrubs in Summer.
