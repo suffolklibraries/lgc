@@ -1,20 +1,19 @@
 ---
 id: c005d4fd-0fff-4b61-a9f5-bc142017a6d6
 blueprint: events
-title: 'Wild Tots at Carlton Marshes'
+title: 'Late Summer Guided Walk'
 event_categories:
   - nature
   - wellbeing
-  - early-years
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-05-13 10:30'
-end_date: '2025-05-13 12:00'
+start_date: '2025-09-18 10:30'
+end_date: '2025-09-18 13:00'
 free: false
-cost_details: '£6 per child, adults free'
+cost_details: £5
 virtual: false
-attendance_information: 'suitable for children aged 18 months - 5 years'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
 building_name: 'Carlton Marshes Visitor Centre'
@@ -87,46 +86,16 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us  for  outdoor discovery and play on the nature reserve with our Engagement Officer.'
+        text: "Enjoy a guided walk around Carlton Marshes with our knowledgeable wildlife guides to learn about the habitats we have and how they're managed. We also hope to see wildlife such as the last dragonflies and butterflies of the summer.\_"
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Wild Tots gives children and their families the opportunity to learn and play together outdoors. Guided and child-led hands-on experiences help build confidence, encourage creativity, improve communication and language, develop fine and gross motor skills and, importantly, create shared memories for children and adults.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Babies in arms/baby-carrier/pushchair are welcome to accompany an older sibling to the session. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkwildlifetrust.org/events'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Wildlife Trust website'
-      -
-        type: text
-        text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+        text: "Suitable for adults, both beginner and expert wildlife enthusiasts.\_"
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-18-late-summer-guided-walk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -136,8 +105,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740651680
+updated_at: 1747147902
 duplicated_from: d8e76930-eeeb-4c21-8f51-edf706fd9c34
-published: false
 ---
-Wild play activities for children aged 18 months - 5 years.
+Explore the late summer wildlife at Carlton Marshes with our knowledgeable wildlife guides.
