@@ -1,22 +1,21 @@
 ---
 id: fd06c7e1-d123-467e-a4b2-93e5b48efa9e
-published: false
 blueprint: events
-title: 'Family Forest Adventure at Foxburrow (Duplicated)'
+title: 'Evening Bat Walk at Foxburrow Nature Reserve'
 event_categories:
   - nature
   - wellbeing
-  - early-years
   - family-friendly
+  - teen
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-07-13 13:30'
-end_date: '2025-07-13 15:30'
+start_date: '2025-09-12 18:30'
+end_date: '2025-09-12 21:30'
 free: false
-cost_details: 'Prices from £10 per adult and child'
+cost_details: '£5 per adult, under 25s go free'
 virtual: false
-attendance_information: 'suitable for children 18 months upwards'
+attendance_information: 'suitable for children 10+ years'
 latitude: '52.11759364824492'
 longitude: '1.3209740998584045'
 address_line_1: 'Saddlemakers Lane'
@@ -54,15 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our team in the woods as they take you to explore our forest school with group activities, games, and fun free-flow stations. Our mornings always have the following and then we add different stations, games, and crafts each month.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Activities might include forest crafts, whittling, rope swings, hammocks, den building, bug hunting, and scavenger hunts.'
+        text: 'A variety of bats are present at Foxburrow and we will have bat detectors to help us locate them. Ground may be uneven so wear stout shoes and bring a torch.'
   -
     type: paragraph
     attrs:
@@ -85,7 +76,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-12-evening-bat-walk-foxburrow-nature-reserve'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -95,10 +86,10 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747063113
+updated_at: 1747148524
 duplicated_from: 6f86192c-06cb-4655-a766-fa04b12c878e
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Foxburrow Nature Reserve'
 ---
-Explore our forest school with group activities, games, and fun free-flow stations.
+An evening walk looking and listening for bats.
