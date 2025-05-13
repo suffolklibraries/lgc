@@ -1,18 +1,18 @@
 ---
 id: de31f4e1-3a0f-4620-b3a0-891c49a6545e
 blueprint: events
-title: 'Get muddy!'
+title: 'Martlesham Wilds Bat Walk'
 event_categories:
   - community
   - nature
-  - family-friendly
+  - teen
 organisers:
   - suffolk-wildlife-trust
-start_date: '2025-04-10 10:00'
-end_date: '2025-04-10 12:00'
+start_date: '2025-09-17 19:00'
+end_date: '2025-09-17 21:30'
 free: false
 virtual: false
-attendance_information: 'family friendly'
+attendance_information: 'Adults and accompanied teens'
 latitude: '52.07546490861323'
 longitude: '1.298651059605825'
 address_line_1: 'Church Lane'
@@ -26,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'What better way to get ready for Earth Day, than to celebrate the actual earth - the soil! '
+        text: 'Join the Suffolk Wildlife Trust team for a walk around Martlesham Wilds, detecting, surveying, listening and learning about the bats that are resident at Suffolk’s new nature reserve, how we hope populations may change in the future and why these species are so important. '
   -
     type: paragraph
     attrs:
@@ -34,23 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us to explore soils at Martlesham Wilds as we wander around the reserve digging in the soil, testing the soil, listening to the soil and checking out the worms that we find.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'This event is aimed at primary school children and families and those that are able to walk a good mile.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Caution: we may get muddy!'
+        text: 'These walks are designed for adults, but teens are welcome as well. We will also discuss what we can all do to help bats in our gardens and parks locally. Bat detectors will be provided.'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -60,12 +44,12 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740656585
+updated_at: 1747148180
 duplicated_from: 9f99f1c8-97e0-414c-8e70-9296e152337b
 featured_image: pelicanpelican-3x2/nature.png
-cost_details: 'From £8 per adult and child'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-10-get-ready-earth-day-get-muddy'
-building_name: 'Martlesham Wilds'
+cost_details: £12
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-17-martlesham-wilds-bat-walk'
+building_name: 'Martlesham Wilds Nature Reserve'
 address_line_2: Martlesham
 directions:
   -
@@ -97,6 +81,5 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard website.'
-published: false
 ---
-Get ready for Earth Day with Suffolk Wildlife Trust
+Walk around Martlesham Wilds, detecting, listening and learning about our incredible bats.
