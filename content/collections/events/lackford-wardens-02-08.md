@@ -1,8 +1,7 @@
 ---
 id: 2f9fbd6b-cf02-47ee-9bbb-26cf57e01f8d
-published: false
 blueprint: events
-title: 'Young Wardens at Lackford Lakes (Duplicated)'
+title: 'Young Wardens at Lackford Lakes'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-07-05 10:30'
-end_date: '2025-07-05 14:30'
+start_date: '2025-08-02 10:30'
+end_date: '2025-08-02 14:30'
 free: false
 cost_details: £7
 virtual: false
@@ -91,7 +90,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-02-young-wardens-lackford-lakes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -101,7 +100,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747063793
+updated_at: 1747150689
 duplicated_from: 93eb69ef-e261-4a26-8d72-c4701a3c747d
 ---
 Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
