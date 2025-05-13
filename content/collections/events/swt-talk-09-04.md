@@ -1,17 +1,17 @@
 ---
 id: f011b597-dfef-4b31-badd-9bf9beb11b76
 blueprint: events
-title: 'Talk - Chalk streams'
+title: 'Talk - The Glem valley floodplain'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-09 14:30'
-end_date: '2025-04-09 15:30'
+start_date: '2025-09-10 14:30'
+end_date: '2025-09-10 15:30'
 free: true
-cost_details: '£3, under 25s free'
+cost_details: '£3 for adults, under 25s free'
 virtual: false
 latitude: '52.07620555363292'
 longitude: '0.45854873867761414'
@@ -74,15 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The clarity of chalk streams is a delight to the senses as well as a unique wildlife habitat, but it is an environmental asset that is under severe pressure.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "In this talk, we shall hear about the life of these waterways, but importantly, how their character has influenced literature and our concepts of Nature.\_"
+        text: "This presentation will cover the restoration of a more natural environment in the valley of the river Glem and the advisory role the Suffolk Wildlife Trust is having in this.\_"
   -
     type: paragraph
     attrs:
@@ -91,7 +83,7 @@ content_area:
       -
         type: text
         text: 'No booking required.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-04-09-talk-chalk-streams-dr-mark-wormald-university-cambridge'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-10-talk-glem-valley-floodplain-alice-wickman'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -101,12 +93,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738669312
+updated_at: 1747148643
 duplicated_from: a28d8854-8506-4f72-b47c-31f3fd401729
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
-published: false
 ---
-Join us for a talk to find out more about the natural world around us.
+Join Suffolk Wildlife Trust's Rivers Advisor Alice for this fascinating talk.
