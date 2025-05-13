@@ -1,8 +1,7 @@
 ---
 id: 58c3ddcc-2340-47c2-a7a7-3aa7d42e300c
-published: false
 blueprint: events
-title: 'Guided Monthly Walk - Antlions and Walk (Duplicated)'
+title: 'Guided Monthly Walk - Summer Reptiles'
 event_categories:
   - nature
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-08-24 10:00'
-end_date: '2025-08-24 12:00'
+start_date: '2025-07-27 10:00'
+end_date: '2025-07-27 12:00'
 free: false
 cost_details: £5
 virtual: false
@@ -82,7 +81,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-24-guided-monthly-walk-antlions-and-more'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-27-guided-monthly-walk-summer-reptiles'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -92,7 +91,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747149111
+updated_at: 1747151059
 duplicated_from: 75123463-6e69-4e28-bd4b-56f1032ef1f4
 accessibility_information:
   - 'Accessible toilets'
