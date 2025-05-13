@@ -1,8 +1,7 @@
 ---
 id: a8c04a27-3d05-4dce-8369-48da867a7b6e
-published: false
 blueprint: events
-title: 'Nature Champions - Young Wardens at Holywells Park (Duplicated)'
+title: 'Nature Champions - Young Wardens at Holywells Park'
 event_categories:
   - nature
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-07-13 10:00'
-end_date: '2025-07-13 12:30'
+start_date: '2025-08-17 10:00'
+end_date: '2025-08-17 12:30'
 free: false
 cost_details: £7
 virtual: false
@@ -123,7 +122,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-13-nature-champions-young-wardens'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-17-nature-champions-young-wardens'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -133,7 +132,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747063060
+updated_at: 1747149550
 duplicated_from: bb9aca85-2e8e-46f4-a587-8bbc97e0cfe6
 ---
 Practical experience, earn your DofE award and making friends.
