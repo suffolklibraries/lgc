@@ -1,8 +1,7 @@
 ---
 id: d7ee2042-ce54-43d7-a531-9ddcbb698c41
-published: false
 blueprint: events
-title: 'Family Forest Adventure at Foxburrow (Duplicated)'
+title: 'Family Forest Adventure at Foxburrow'
 event_categories:
   - nature
   - wellbeing
@@ -85,7 +84,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-06-08-family-forest-adventure-foxburrow'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-14-family-forest-adventure-foxburrow'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -95,7 +94,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747065396
+updated_at: 1747148393
 duplicated_from: 812e1154-972b-40d6-8256-c309f0ca6c05
 accessibility_information:
   - 'Accessible toilets'
