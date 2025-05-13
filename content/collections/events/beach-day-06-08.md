@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-08-06 10:30'
-end_date: '2025-03-04 12:00'
+start_date: '2025-08-06 13:00'
+end_date: '2025-08-06 14:30'
 free: false
 cost_details: '£5 per child'
 virtual: false
@@ -117,7 +117,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-06-wild-beach-day-lowestoft-beach-0'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-06-wild-beach-day-lowestoft-beach'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -127,8 +127,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740667383
+updated_at: 1747150543
 duplicated_from: 8e018569-f232-4ea2-b54a-06f080fcd144
-published: false
 ---
 Join us at Lowestoft Beach to celebrate National Marine Week.
