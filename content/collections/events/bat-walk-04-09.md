@@ -1,16 +1,15 @@
 ---
 id: 4d9faf1b-88cc-4e5d-884a-fa6691743d7a
-published: false
 blueprint: events
-title: 'Martlesham Wilds Bat Walk (Duplicated)'
+title: 'Martlesham Wilds Bat Walk'
 event_categories:
   - community
   - nature
   - teen
 organisers:
   - suffolk-wildlife-trust
-start_date: '2025-09-17 19:00'
-end_date: '2025-09-17 21:30'
+start_date: '2025-09-04 19:00'
+end_date: '2025-09-04 21:30'
 free: false
 virtual: false
 attendance_information: 'Adults and accompanied teens'
@@ -45,11 +44,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747148180
+updated_at: 1747148766
 duplicated_from: de31f4e1-3a0f-4620-b3a0-891c49a6545e
 featured_image: pelicanpelican-3x2/nature.png
 cost_details: £12
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-17-martlesham-wilds-bat-walk'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-04-martlesham-wilds-bat-walk'
 building_name: 'Martlesham Wilds Nature Reserve'
 address_line_2: Martlesham
 directions:
