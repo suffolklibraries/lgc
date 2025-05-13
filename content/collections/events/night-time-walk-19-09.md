@@ -1,21 +1,20 @@
 ---
 id: 8ccdcd54-685e-45e0-b951-28cbdf931c36
-published: false
 blueprint: events
-title: 'Young Wardens at Lackford Lakes (Duplicated)'
+title: 'Night-time at Lackford - Biofluorescence walk'
 event_categories:
   - nature
-  - teen
   - wellbeing
+  - teen
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-06-07 10:30'
-end_date: '2025-06-07 14:30'
+start_date: '2025-09-19 20:00'
+end_date: '2025-09-19 22:00'
 free: false
-cost_details: £7
+cost_details: £10
 virtual: false
-attendance_information: 'children aged 11 - 16'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -60,38 +59,24 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities vary throughout the year but include; learning to use tools to safely carry out practical tasks that contribute to the management of the reserve; carrying out surveys of key wildlife species, providing information that helps to inform conservation activities on the reserve.'
+        text: 'Join us in the dark as we search for biofluorescence on the reserve!'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'All Young Wardens need to be dropped off by an adult who can confirm their emergency contact details at the start of the session. Please do not send young wardens to the session alone as they will not be able to participate.'
+        text: 'On this guided walk, our knowledgeable staff will help you spot the wonders of the night. Biofluorescence occurs when UV light is absorbed by plants, animals, fungi, or other living things and light is reemitted back to us in gorgeous technicolour! Have a go at using our professional UV torches which will illuminate the creatures around us.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkwildlifetrust.org/eventinfo'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Wildlife Trust website'
-      -
-        type: text
-        text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+        text: 'This event is aimed at adults and would be suitable for teens 11+. Children under 18 need their own ticket and must be accompanied by an adult with a ticket. Babies in arms/pushchairs are welcome to accompany for free, although please note the late time of this event.'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-19-nighttime-lackford-biofluorescence-walk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -101,7 +86,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740651066
+updated_at: 1747147813
 duplicated_from: 7a038f75-a09d-46c4-805e-444b41d4fd1a
 ---
-Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
+Discover a secret world of colour on this guided night walk around the Lakes with biofluorescent torches.
