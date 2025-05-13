@@ -1,8 +1,7 @@
 ---
 id: bd46f663-8711-4390-bd64-ebce98bd662f
-published: false
 blueprint: events
-title: 'Great British Beach Clean (Duplicated)'
+title: 'Trimley Marshes Bird Ringing'
 event_categories:
   - nature
   - community
@@ -12,9 +11,9 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-28 10:00'
-end_date: '2025-09-28 14:00'
-free: true
+start_date: '2025-09-14 08:30'
+end_date: '2025-09-14 10:30'
+free: false
 virtual: false
 latitude: '51.97212205567339'
 longitude: '1.3139406547115011'
@@ -28,7 +27,7 @@ directions:
     content:
       -
         type: text
-        text: "A minibus shuttle will run from 10am – 11am from Searson's Farm car park to the reserve and back at 2pm."
+        text: "The meeting point for this event is at Searson's Farm car park. "
   -
     type: paragraph
     content:
@@ -94,8 +93,16 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for the Great British Beach Clean at Trimley Marshes. On the day we will collect litter from a specified section of beach and then weigh and analyse the rubbish. This helps to see trends in what is being found with the hope of cutting it out better at source.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-28-trimley-marshes-great-british-beach-clean'
+        text: 'Join Joe the Warden and Justin at Trimley Marshes for a morning of bird ringing. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "See migratory and resident birds close up and learn about identification and bird migration.\_"
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-14-trimley-marshes-bird-ringing-demo'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -105,10 +112,9 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747066488
+updated_at: 1747148353
 duplicated_from: 09c54166-d23b-4a70-afc8-4c2bf7adbb5d
-accessibility_information:
-  - 'Accessible toilets'
 address_line_2: 'Trimley St Mary'
+cost_details: '£8 adult, £5 child'
 ---
-Take part in the Great British Beach Clean with the Marine Conservation Society.
+Bird ringing demonstration at Trimley Marshes.
