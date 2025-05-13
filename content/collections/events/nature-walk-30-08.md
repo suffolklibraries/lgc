@@ -1,19 +1,18 @@
 ---
 id: 3f80c60f-027f-4799-a5f2-8ae86e328ba4
-published: false
 blueprint: events
-title: 'Martlesham Wilds Bat Walk (Duplicated)'
+title: 'Nature Walk'
 event_categories:
   - community
   - nature
-  - teen
+  - family-friendly
 organisers:
   - suffolk-wildlife-trust
-start_date: '2025-09-17 19:00'
-end_date: '2025-09-17 21:30'
+start_date: '2025-08-30 10:00'
+end_date: '2025-08-30 12:30'
 free: false
 virtual: false
-attendance_information: 'Adults and accompanied teens'
+attendance_information: 'Suitable for children aged 10+ years'
 latitude: '52.07546490861323'
 longitude: '1.298651059605825'
 address_line_1: 'Church Lane'
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the Suffolk Wildlife Trust team for a walk around Martlesham Wilds, detecting, surveying, listening and learning about the bats that are resident at Suffolk’s new nature reserve, how we hope populations may change in the future and why these species are so important. '
+        text: 'Footpaths uneven, wear stout and waterproof footwear. '
   -
     type: paragraph
     attrs:
@@ -35,7 +34,15 @@ content_area:
     content:
       -
         type: text
-        text: 'These walks are designed for adults, but teens are welcome as well. We will also discuss what we can all do to help bats in our gardens and parks locally. Bat detectors will be provided.'
+        text: 'Please bring binoculars if you have them, wear a sun hat and bring a drink. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Total distance of walk 3 km approx.'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -45,11 +52,11 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747148180
+updated_at: 1747148891
 duplicated_from: de31f4e1-3a0f-4620-b3a0-891c49a6545e
 featured_image: pelicanpelican-3x2/nature.png
-cost_details: £12
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-17-martlesham-wilds-bat-walk'
+cost_details: 'Adults £5, under 25s go gree'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-30-nature-walk-martlesham-wilds-reserve'
 building_name: 'Martlesham Wilds Nature Reserve'
 address_line_2: Martlesham
 directions:
@@ -83,4 +90,4 @@ directions:
               title: null
         text: 'Suffolk Onboard website.'
 ---
-Walk around Martlesham Wilds, detecting, listening and learning about our incredible bats.
+Discover the wildlife at this fascinating reserve on the banks of the River Deben.
