@@ -1,8 +1,7 @@
 ---
 id: 3a1622ed-7c99-467f-bddf-f1b1df1876f2
-published: false
 blueprint: events
-title: 'Cuppa and a Stroll - Tuesdays (Duplicated) (Duplicated)'
+title: 'Cuppa and a Stroll - Tuesdays'
 event_categories:
   - wellbeing
   - movement
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-05-27 13:30'
-end_date: '2025-05-27 14:30'
+start_date: '2025-06-10 13:30'
+end_date: '2025-06-10 14:30'
 free: false
 virtual: false
 latitude: '52.48799983392733'
@@ -116,7 +115,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747238880
+updated_at: 1747238930
 duplicated_from: 57237814-af44-4b0b-935b-318fee2fceee
 ---
 Meet and make new friends - free drink included!
