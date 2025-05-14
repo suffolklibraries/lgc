@@ -1,53 +1,50 @@
 ---
 id: 6e0df8c3-9de6-4413-b233-55e63d286d4b
-published: false
 blueprint: events
-title: 'Parent and Child Walk (Duplicated)'
+title: 'Introductory Walking Group'
 event_categories:
-  - early-years
   - wellbeing
   - movement
-  - family-friendly
+  - later-years
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-10-07 10:00'
-end_date: '2025-10-07 11:30'
+start_date: '2025-05-29 10:00'
+end_date: '2025-05-29 11:30'
 free: true
 virtual: false
-latitude: '52.47138864661286'
-longitude: '1.7497777921068107'
-building_name: 'East Point Pavilion'
-address_line_2: 'Royal Plain'
+latitude: '52.50004281494277'
+longitude: '1.7513748269460956'
+building_name: 'Dip Farm'
 town: Lowestoft
-postcode: 'NR33 0AP'
+postcode: 'NR32 4PR'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest bus stop is on Parade Road North which is a three minute walk from East Point Pavilion. There is a selection of buses which connect us to the town centre for example, No X2, X22 and 109.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest pay and display car park is a minute walk away at '
+        text: The
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://myringgo.co.uk/parkinglocator/4442'
+              href: 'https://www.google.com/maps/place/Links+Road/@52.4976779,1.7491775,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da1aea5c519959:0xc2c9e2e9c01b2539!2sLinks+Road,+Lowestoft+NR32+4PR!2m2!1d1.751999!2d52.496059!1m6!1m2!1s0x47da1ac197ce5769:0x112cba056cf2751d!2sCorton+Rd,+Lowestoft!2m2!1d1.751491!2d52.4992968!3e2!3m5!1s0x47da1aea5c519959:0xc2c9e2e9c01b2539!8m2!3d52.496059!4d1.751999!16s%2Fg%2F1q67scy0s?entry=ttu&g_ep=EgoyMDI1MDUxMS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'Royal Green car park'
+        text: ' nearest bus stop'
       -
         type: text
-        text: .
+        text: ' is on Corton Road, about a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is free onsite car parking.'
   -
     type: paragraph
     content:
@@ -73,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Led walk for parents and carers with children in pushchairs or slings.'
+        text: 'Covering walks from couch to 2 miles.'
   -
     type: paragraph
     attrs:
@@ -102,8 +99,9 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747240091
+updated_at: 1747240770
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 191a23bb-965b-4f75-87fc-763e379a1757
+address_line_1: 'Corton Road'
 ---
 Free walking activities to keep you well.
