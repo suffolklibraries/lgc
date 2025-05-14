@@ -1,8 +1,7 @@
 ---
 id: fb0ef742-99c4-443b-bdb2-2eac9e3f1f91
-published: false
 blueprint: events
-title: 'Introductory Walking Group (Duplicated)'
+title: 'Introductory Walking Group'
 event_categories:
   - wellbeing
   - movement
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-26 10:00'
-end_date: '2025-06-26 11:30'
+start_date: '2025-07-03 10:00'
+end_date: '2025-07-03 11:30'
 free: true
 virtual: false
 latitude: '52.50004281494277'
@@ -100,7 +99,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747240876
+updated_at: 1747240900
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 79603b82-8c3d-4120-a736-1d52ba95df9b
 address_line_1: 'Corton Road'
