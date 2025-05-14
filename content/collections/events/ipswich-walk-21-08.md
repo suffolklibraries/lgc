@@ -1,8 +1,7 @@
 ---
 id: 5b4af202-a173-41fb-a656-5a6e7df20174
-published: false
 blueprint: events
-title: 'Introductory Walking Group (Duplicated) (Duplicated)'
+title: 'Introductory Walking Group'
 event_categories:
   - wellbeing
   - movement
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-08-07 10:00'
-end_date: '2025-08-07 11:30'
+start_date: '2025-08-21 10:00'
+end_date: '2025-08-21 11:30'
 free: true
 virtual: false
 latitude: '52.06397235074485'
@@ -113,7 +112,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747242120
+updated_at: 1747242149
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: cdfbab1d-cfef-408f-94b4-39a66c06e02e
 address_line_1: '33 Bolton Lane'
