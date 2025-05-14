@@ -1,8 +1,7 @@
 ---
 id: 2f39b795-8919-4eaa-8a0b-be3b47daf784
-published: false
 blueprint: events
-title: 'Horseplay - board game mornings (Duplicated) (Duplicated)'
+title: 'Horseplay - board game mornings'
 event_categories:
   - museums
   - family-friendly
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-07-29 10:30'
-end_date: '2025-07-29 12:00'
+start_date: '2025-09-30 10:30'
+end_date: '2025-09-30 12:00'
 free: true
 virtual: false
 accessibility_information:
@@ -153,7 +152,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747234600
+updated_at: 1747234636
 duplicated_from: 12cbbb61-391b-4368-b586-ab5d59581098
 booking_link: 'https://www.nhrm.co.uk/events/newmarket-young-arts/'
 ---
