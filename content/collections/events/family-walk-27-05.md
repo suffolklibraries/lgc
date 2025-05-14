@@ -1,8 +1,7 @@
 ---
 id: 3458af9a-7500-4c3a-98d0-07a5590f6a08
-published: false
 blueprint: events
-title: 'Parent and Child Walk (Duplicated)'
+title: 'Parent and Child Walk'
 event_categories:
   - early-years
   - wellbeing
@@ -15,39 +14,49 @@ start_date: '2025-05-27 10:00'
 end_date: '2025-05-27 11:30'
 free: true
 virtual: false
-latitude: '52.47138864661286'
-longitude: '1.7497777921068107'
-building_name: 'East Point Pavilion'
-address_line_2: 'Royal Plain'
-town: Lowestoft
-postcode: 'NR33 0AP'
+latitude: '52.047052878935006'
+longitude: '1.171173244877561'
+building_name: 'Holywells Park'
+town: Ipswich
+postcode: 'IP3 0PG'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest bus stop is on Parade Road North which is a three minute walk from East Point Pavilion. There is a selection of buses which connect us to the town centre for example, No X2, X22 and 109.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest pay and display car park is a minute walk away at '
+        text: 'Buses that stop near Holywells Park are 1, 2, 3, 3E, and 616. The nearest bus stop is six minute walk away, see the latest bus timetables '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://myringgo.co.uk/parkinglocator/4442'
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: '. The nearest car parking is a ten minute walk away at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/athena_hall/ip3/ipswich/?arriving=202403251700&leaving=202403251900'
               rel: null
               target: _blank
               title: null
-        text: 'Royal Green car park'
+        text: 'Athena Hall car park.'
+  -
+    type: paragraph
+    content:
       -
         type: text
-        text: .
+        text: 'Parking is available at the Cliff Lane entrance for Blue Badge and permit holders only.'
   -
     type: paragraph
     content:
@@ -64,7 +73,10 @@ directions:
               rel: null
               target: _blank
               title: null
-        text: 'the Suffolk Onboard website.'
+        text: 'Suffolk Onboard'
+      -
+        type: text
+        text: .
 content_area:
   -
     type: paragraph
@@ -102,7 +114,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747239512
+updated_at: 1747241272
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 33206a46-f5ab-49f2-a23d-1b4d4fd4a6ea
 ---
