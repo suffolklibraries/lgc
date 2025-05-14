@@ -1,23 +1,19 @@
 ---
 id: 41c930ee-7874-4223-9271-f03b897dc0d7
-published: false
 blueprint: events
-title: 'Newmarket Young Arts (Duplicated)'
+title: 'Horseplay - board game mornings'
 event_categories:
   - museums
   - family-friendly
   - teen
-  - languages
+  - later-years
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-07-19 10:00'
-end_date: '2025-07-19 15:30'
+featured_image: pelicanpelican-3x2/support.png
+start_date: '2025-05-27 10:30'
+end_date: '2025-05-27 12:00'
 free: true
 virtual: false
-attendance_information: |-
-  children
-  young people
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -138,15 +134,7 @@ content_area:
     content:
       -
         type: text
-        text: '‘Newmarket Young Arts’ will provide an opportunity for children and young people to meet a range of artists and find out about their artistic practice and creative careers. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Ninety minute monthly creative sessions will enable participants to learn new skills and techniques and develop their own creative practice in a supportive environment.'
+        text: 'Enjoy a variety of different board games throughout the sessions, whilst meeting new people and enjoying a refreshment or two.'
   -
     type: paragraph
     attrs:
@@ -154,73 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Each participant will receive a creative kit to enable them to continue working on their creative ideas and portfolio at home between sessions at the museum.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'There are different sessions for each age group - '
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: '6 – 8 years (10 – 11:30am)'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: '9-11 years (11:45 – 1:15pm)'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: '12 – 14 years (2-3.30pm)'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Parents and carers can book their child on the programme of six sessions by emailing '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:info@nhrm.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: info@nhrm.co.uk
-      -
-        type: text
-        text: ' with Newmarket Young Arts in the subject line and we will send you a booking form to complete.'
+        text: 'All are welcome!'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -230,8 +152,8 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739887245
+updated_at: 1747234550
 duplicated_from: 9c91ef49-7e70-4614-9074-8daf780d4809
 booking_link: 'https://www.nhrm.co.uk/events/newmarket-young-arts/'
 ---
-Free monthly creative sessions for children and young people
+Come along and join us for our monthly meet up at the Museum!
