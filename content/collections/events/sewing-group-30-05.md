@@ -1,8 +1,7 @@
 ---
 id: ec9f3a03-ed24-4c1e-918b-81cc8a60a90e
-published: false
 blueprint: events
-title: 'Sewing, Make and Mend Group (Duplicated)'
+title: 'Sewing, Make and Mend Group'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-hive
 featured_image: hive-ipswich/the-hive-sewing-group-3x2.png
-start_date: '2025-05-23 10:30'
-end_date: '2025-05-23 13:00'
+start_date: '2025-05-30 10:30'
+end_date: '2025-05-30 13:00'
 free: true
 virtual: false
 latitude: '52.06134059473968'
@@ -83,7 +82,7 @@ cta: |-
 
   [volunteer@usethehive.org.uk](mailto:volunteer@usethehive.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747243509
+updated_at: 1747243547
 duplicated_from: 5fbad063-87c5-465b-b4b8-876b0ffd09aa
 booking_link: 'https://usethehive.org.uk/whats-occuring'
 ---
