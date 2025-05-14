@@ -1,21 +1,21 @@
 ---
 id: 1105770a-e3f6-454d-aa26-b005a3bc472f
-published: false
 blueprint: events
-title: 'Reading with Dementia - Ipswich (Duplicated)'
+title: 'Africa Global Day'
 event_categories:
-  - literature
-  - wellbeing
+  - dance
+  - art
   - community
-  - later-years
-featured_image: pelicanpelican-3x2/literature.png
-start_date: '2024-12-02 14:15'
-end_date: '2024-12-02 15:15'
+  - family-friendly
+  - food
+  - literature
+  - museums
+  - music
+featured_image: bme-suffolk/global-africa-day-3-x-2.png
+start_date: '2025-05-25 13:00'
+end_date: '2025-05-25 15:30'
 free: true
 virtual: false
-attendance_information: |-
-  people with dementia
-  carers of people with dementia
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
@@ -143,7 +143,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join us for our weekly support group for anyone experiencing dementia, including family and carers.\_The sessions will offer access to books recommended by the Reading Agency which are designed to open up discussions about dementia and activities for people who come along."
+        text: 'Join our family friendly Africa Global Day celebrations!'
   -
     type: paragraph
     attrs:
@@ -151,7 +151,7 @@ content_area:
     content:
       -
         type: text
-        text: 'There is no need to register or be referred, you can attend the sessions as often or as little as you like. There’s no obligation to get involved in discussions until you feel comfortable doing so and there’s always a hot drink and a listening ear waiting for you.'
+        text: 'Activities include guest speakers, fun quizzes, poetry by children, networking, arts and crafts, food, music, and dance.'
   -
     type: paragraph
     attrs:
@@ -159,71 +159,19 @@ content_area:
     content:
       -
         type: text
-        text: "This group meets every Monday at 2:15PM. Find out more about our\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/health-wellbeing/support/dementia'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'Reading with Dementia'
-      -
-        type: text
-        text: "\_project."
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'For more information and to book contact Kayleigh via telephone on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07380187733'
-              rel: null
-              target: null
-              title: null
-        text: '07380 187733'
-      -
-        type: text
-        text: ' or email at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:kayleigh.kent@suffolklibraries.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: kayleigh.kent@suffolklibraries.co.uk
-      -
-        type: text
-        text: .
+        text: 'Traditional clothing is welcome. '
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by BME Suffolk
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://www.bmesuffolk.org/](https://www.bmesuffolk.org/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [info@bmesuffolk.org](mailto:info@bmesuffolk.org)
 
-  [01473 351249](tel:01473351249)
+  [07492 691190](tel:07492691190)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730731925
+updated_at: 1747227880
 duplicated_from: 4ef752e5-caf0-4a8e-be06-df8a14d08b77
 organisers:
-  - suffolk-libraries
+  - bme-suffolk
 ---
-Weekly reading group for people living with Dementia and their families and carers.
+Everyone's invited!
