@@ -1,8 +1,7 @@
 ---
 id: 9f92de91-f065-4274-9c3c-65a514ac5840
-published: false
 blueprint: events
-title: 'Introductory Walking Group (Duplicated)'
+title: 'Introductory Walking Group'
 event_categories:
   - wellbeing
   - movement
@@ -14,41 +13,54 @@ start_date: '2025-05-29 10:00'
 end_date: '2025-05-29 11:30'
 free: true
 virtual: false
-latitude: '52.50004281494277'
-longitude: '1.7513748269460956'
-building_name: 'Dip Farm'
-town: Lowestoft
-postcode: 'NR32 4PR'
+latitude: '52.06397235074485'
+longitude: '1.1567740522664214'
+building_name: 'Christchurch Park'
+town: Ipswich
+postcode: 'IP4 2BX'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: The
+        text: 'Car parks nearby which are pay and display include - '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Links+Road/@52.4976779,1.7491775,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da1aea5c519959:0xc2c9e2e9c01b2539!2sLinks+Road,+Lowestoft+NR32+4PR!2m2!1d1.751999!2d52.496059!1m6!1m2!1s0x47da1ac197ce5769:0x112cba056cf2751d!2sCorton+Rd,+Lowestoft!2m2!1d1.751491!2d52.4992968!3e2!3m5!1s0x47da1aea5c519959:0xc2c9e2e9c01b2539!8m2!3d52.496059!4d1.751999!16s%2Fg%2F1q67scy0s?entry=ttu&g_ep=EgoyMDI1MDUxMS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: ' nearest bus stop'
+        text: 'Crown Pools (five minute walk)'
       -
         type: text
-        text: ' is on Corton Road, about a three minute walk away.'
+        text: '. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is free onsite car parking.'
-  -
-    type: paragraph
-    content:
+        text: 'The park is a five minute walk from Tower Ramparts bus station in the town centre - see the latest bus timetables '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: .
+      -
+        type: hardBreak
       -
         type: text
         text: 'Plan your journey using '
@@ -100,9 +112,9 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747240770
+updated_at: 1747241945
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 6e0df8c3-9de6-4413-b233-55e63d286d4b
-address_line_1: 'Corton Road'
+address_line_1: '33 Bolton Lane'
 ---
 Free walking activities to keep you well.
