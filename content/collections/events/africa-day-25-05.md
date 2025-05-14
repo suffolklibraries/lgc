@@ -18,8 +18,9 @@ free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Dementia friendly'
   - 'Accessible toilets'
+  - 'Relaxed performance'
+  - 'Drop-in event'
 latitude: '52.05879312178225'
 longitude: '1.1565072711648254'
 building_name: 'Ipswich County Library'
@@ -169,7 +170,7 @@ cta: |-
 
   [07492 691190](tel:07492691190)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747227880
+updated_at: 1747233556
 duplicated_from: 4ef752e5-caf0-4a8e-be06-df8a14d08b77
 organisers:
   - bme-suffolk
