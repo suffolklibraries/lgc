@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-hive
 featured_image: hive-ipswich/the-hive-sewing-group-3x2.png
-start_date: '2025-02-07 10:30'
-end_date: '2025-02-07 13:00'
+start_date: '2025-05-23 10:30'
+end_date: '2025-05-23 13:00'
 free: true
 virtual: false
 latitude: '52.06134059473968'
@@ -82,8 +82,8 @@ cta: |-
 
   [volunteer@usethehive.org.uk](mailto:volunteer@usethehive.org.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737479536
+updated_at: 1747243509
 duplicated_from: da594dde-d58f-42f8-ad63-6d222ab430de
-published: false
+booking_link: 'https://usethehive.org.uk/whats-occuring'
 ---
 Come along and join The Hive's sewing group.
