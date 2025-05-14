@@ -1,8 +1,7 @@
 ---
 id: 486bf26f-ce7f-45dc-91a1-74443ac62122
-published: false
 blueprint: events
-title: 'Parent and Child Walk (Duplicated) (Duplicated)'
+title: 'Parent and Child Walk'
 event_categories:
   - early-years
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-10 10:00'
-end_date: '2025-06-10 11:30'
+start_date: '2025-06-24 10:00'
+end_date: '2025-06-24 11:30'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -102,7 +101,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747239592
+updated_at: 1747239639
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 21d9c81e-3c0b-4928-b4dc-a3e2f957cada
 ---
