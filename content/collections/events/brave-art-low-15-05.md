@@ -245,5 +245,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.
