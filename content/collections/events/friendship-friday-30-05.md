@@ -1,13 +1,12 @@
 ---
 id: 5f5b21bf-9ba6-4e74-a29f-e102025877d5
-published: false
 blueprint: events
-title: "Baby and Toddler's Group (Duplicated)"
+title: 'Friendship Friday for Elders'
 organisers:
-  - theatre-royal
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-05-26 11:00'
-end_date: '2025-05-26 12:30'
+  - bme-suffolk
+featured_image: pelicanpelican-3x2/coffee.png
+start_date: '2025-05-30 11:00'
+end_date: '2025-05-30 13:00'
 free: true
 virtual: false
 latitude: '52.05570633047097'
@@ -111,7 +110,7 @@ content_area:
     content:
       -
         type: text
-        text: "BME Suffolk's baby and toddler group takes place every other Monday."
+        text: "BME Suffolk's Friendship Friday for Elders group meets every other Friday."
   -
     type: paragraph
     attrs:
@@ -133,7 +132,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Swahili story time'
+                text: Games
       -
         type: listItem
         content:
@@ -144,7 +143,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Poppets with literacy'
+                text: Exercise
       -
         type: listItem
         content:
@@ -166,7 +165,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Baby Shantala massage'
+                text: 'Healthy living workshops'
   -
     type: paragraph
     attrs:
@@ -210,11 +209,13 @@ cta: |-
 
   [07492 691190](tel:07492691190)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747313198
+updated_at: 1747319324
 duplicated_from: 9200e9c0-d7f8-4d3a-8cea-442e5955fa91
 event_categories:
   - wellbeing
-  - early-years
-  - family-friendly
+  - later-years
+  - community
+  - art
+attendance_information: 'People aged 60+'
 ---
 Join our friendly group.
