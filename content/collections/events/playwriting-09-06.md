@@ -1,8 +1,7 @@
 ---
 id: cdb2a892-24a2-4d29-b741-5686ab285324
-published: false
 blueprint: events
-title: 'Your Story: A Free Creative Writing Workshop (Duplicated)'
+title: 'One to One Playwriting Surgeries'
 event_categories:
   - theatre-and-performance
   - wellbeing
@@ -11,12 +10,13 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-06-09 10:30'
-end_date: '2025-06-09 11:30'
+start_date: '2025-06-09 13:00'
+end_date: '2025-06-09 16:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
@@ -84,7 +84,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Whether you have a burning story you’re keen to explore or an idea you’re not quite sure about, Nicola will invite you to discover and explore the stories that matter to you through a series of fun group and individual exercises, drawing on her own storytelling experience.'
+        text: 'Nicola Werenowska is offering individual surgeries for underrepresented writers at all levels. Each session is bespoke and could include industry advice, script support or just an opportunity to sound out ideas.'
+      -
+        type: hardBreak
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Please book a space and Nicola will get in touch to arrange your 30 minute slot.'
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -94,8 +104,9 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747293734
+updated_at: 1747293849
 duplicated_from: d20ec86b-b5d6-46bc-ba3b-f8d329b60ae5
-booking_link: 'https://theseagull.co.uk/seagull_shows/your-story-a-free-creative-writing-workshop/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/one-to-one-playwriting-surgeries-for-underrepresented-writers/'
+attendance_information: 'underrepresented writers at all levels'
 ---
-Creative writing workshop is for writers of all levels and all genres
+Led by award winning neurodivergent playwright and dramaturg Nicola Werenowska.
