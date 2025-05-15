@@ -1,8 +1,7 @@
 ---
 id: 4f23e94e-c035-42c8-b2b8-8fdcd6448c3a
-published: false
 blueprint: events
-title: 'Salsa Night (Duplicated)'
+title: 'The Pavilion Sessions'
 event_categories:
   - community
   - music
@@ -10,10 +9,10 @@ event_categories:
   - wellbeing
 organisers:
   - east-point-pavilion
-featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-06-05 19:00'
-end_date: '2025-06-05 21:30'
-free: false
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2025-06-06 13:30'
+end_date: '2025-06-06 16:00'
+free: true
 virtual: false
 latitude: '52.47138864661286'
 longitude: '1.7497777921068107'
@@ -72,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join experienced dance instructor Winston Hendrickson of 'SocaSalsa' for an evening of Salsa dancing."
+        text: 'All are welcome to join these unplugged sessions and play traditional or contemporary tunes, or sing songs.'
   -
     type: paragraph
     attrs:
@@ -80,7 +79,15 @@ content_area:
     content:
       -
         type: text
-        text: "Doors open at 6.45pm, our bar will be open for refreshments. The beginner friendly Salsa class will start at 7pm. \_Keep the energy flowing and let the rhythm take over from 8pm with a social dance session."
+        text: 'Join us from 1.30pm for a ‘Slow Tune Session for Improvers’, followed by a folk session for singers and players from 2-4pm.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'No need to book, just turn up and join in or listen!'
 cta: |-
   This event is organised by First Light Festival
 
@@ -88,13 +95,14 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747311982
+updated_at: 1747312169
 duplicated_from: 3851469b-9185-426f-96e6-f45e269eb3de
-booking_link: 'https://www.eastpointpavilion.com/events/salsa-night'
-cost_details: £7.50
+booking_link: 'https://www.eastpointpavilion.com/events/the-pavilion-sessions-erw6n-jtlxl'
 accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 ---
-Come along for the class, stay for the party!
+‘Come all’ inclusive folk get-togethers.
