@@ -1,48 +1,60 @@
 ---
 id: 993128c7-2aa7-4d39-a21e-4c3777551821
-published: false
 blueprint: events
-title: 'The Great Get Together (Duplicated)'
+title: 'The Great Get Together'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-05-29 10:00'
-end_date: '2025-05-29 15:00'
+start_date: '2025-05-30 10:00'
+end_date: '2025-05-30 15:00'
 free: true
 virtual: false
-latitude: '52.256825011349186'
-longitude: '0.6983098559531982'
-building_name: 'Tollgate Playing Field'
-address_line_1: 'Howard Park'
+latitude: '52.2458677829857'
+longitude: '0.7163179970574831'
+building_name: 'Abbey Gardens'
 town: 'Bury St Edmunds'
-postcode: 'IP32 6RN'
+postcode: 'IP33 1XL'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest bus stop is a '
+        text: "There are several bus stops within a few minute's walk."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is car parking at the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/dir/34+St+Olaves+Rd/Resource+Centre,+Bury+Saint+Edmunds+IP32+6PA/@52.2562315,0.6973885,18z/data=!4m14!4m13!1m5!1m1!1s0x47d84c1418a65045:0x151949d668d685b2!2m2!1d0.6983112!2d52.2568078!1m5!1m1!1s0x47d84c15b57f1d8b:0xa36e26c657e0e7e5!2m2!1d0.699089!2d52.255409!3e2?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'three minute walk away'
+        text: 'Arc shopping centre'
       -
         type: text
-        text: " on St Olave's Road."
-  -
-    type: paragraph
-    content:
+        text: ' a ten minute walk away and the '
       -
         type: text
-        text: 'There is parking on streets nearby.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/parkway-multi-storey-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Parkway car park'
+      -
+        type: text
+        text: ' a 13 minute walk away.'
   -
     type: paragraph
     content:
@@ -219,7 +231,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747327934
+updated_at: 1747328144
 duplicated_from: 7a19217d-e46e-4ee7-b621-232db4465c08
 event_categories:
   - wellbeing
@@ -227,9 +239,5 @@ event_categories:
   - family-friendly
   - teen
   - movement
-accessibility_information:
-  - 'Accessible toilets'
-  - 'Accessible parking spaces'
-address_line_2: "34-40 St Olave's Road"
 ---
 Free activities for children who live in Bury St Edmunds!
