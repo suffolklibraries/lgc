@@ -1,9 +1,9 @@
 ---
 id: 8ad94d84-c3f2-418a-b005-6ef406e90297
 blueprint: events
-title: "Baby and Toddler's Group"
+title: "Baby and Toddlers' Group"
 organisers:
-  - theatre-royal
+  - bme-suffolk
 featured_image: pelicanpelican-3x2/early-years-(1).png
 start_date: '2025-08-04 11:00'
 end_date: '2025-08-04 12:30'
@@ -209,7 +209,7 @@ cta: |-
 
   [07492 691190](tel:07492691190)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747318912
+updated_at: 1747319393
 duplicated_from: 5253bc3d-f88d-4a39-8fd5-2f66acae8de3
 event_categories:
   - wellbeing
