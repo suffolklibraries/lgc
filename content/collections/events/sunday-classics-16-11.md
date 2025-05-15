@@ -1,11 +1,10 @@
 ---
 id: f7b72c6c-11b4-4557-b000-4c2363268579
-published: false
 blueprint: events
-title: 'Sunday Classics Film Club - Calamity Jane (Duplicated)'
+title: 'Sunday Classics Film Club - G.I. Blues'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609738
+updated_at: 1747293918
 start_date: '2025-10-12 14:30'
 end_date: '2025-10-12 16:00'
 free: true
@@ -61,7 +60,7 @@ event_categories:
   - community
   - wellbeing
   - later-years
-booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-calamity-jane/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/sunday-classics-film-g-i-blues/'
 building_name: 'The Seagull Theatre'
 directions:
   -
