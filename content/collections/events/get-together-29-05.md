@@ -1,21 +1,20 @@
 ---
 id: 7a19217d-e46e-4ee7-b621-232db4465c08
-published: false
 blueprint: events
-title: 'The Great Get Together (Duplicated)'
+title: 'The Great Get Together'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-05-28 13:30'
-end_date: '2025-05-28 15:00'
+start_date: '2025-05-29 10:00'
+end_date: '2025-05-29 15:00'
 free: true
 virtual: false
-latitude: '52.245384708030144'
-longitude: '0.7406831682214171'
-building_name: 'Moreton Hall Community Centre'
-address_line_1: 'Symonds Road'
+latitude: '52.256825011349186'
+longitude: '0.6983098559531982'
+building_name: 'Tollgate Playing Field'
+address_line_1: 'Howard Park'
 town: 'Bury St Edmunds'
-postcode: 'IP32 7EE'
+postcode: 'IP32 6RN'
 directions:
   -
     type: paragraph
@@ -29,20 +28,20 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/dir/Moreton+Hall+Community+Centre/Community+Centre,+Bury+Saint+Edmunds+IP32+7EW/@52.2452862,0.738119,17z/data=!4m14!4m13!1m5!1m1!1s0x47d84cf0f701181f:0x8364f7693e1071dc!2m2!1d0.7406939!2d52.2452862!1m5!1m1!1s0x47d84cefd628d5a9:0x3d443b091d8692a0!2m2!1d0.740046!2d52.244221!3e2?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
+              href: 'https://www.google.co.uk/maps/dir/34+St+Olaves+Rd/Resource+Centre,+Bury+Saint+Edmunds+IP32+6PA/@52.2562315,0.6973885,18z/data=!4m14!4m13!1m5!1m1!1s0x47d84c1418a65045:0x151949d668d685b2!2m2!1d0.6983112!2d52.2568078!1m5!1m1!1s0x47d84c15b57f1d8b:0xa36e26c657e0e7e5!2m2!1d0.699089!2d52.255409!3e2?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
         text: 'three minute walk away'
       -
         type: text
-        text: ' on Symonds Road.'
+        text: " on St Olave's Road."
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is onsite parking. '
+        text: 'There is parking on streets nearby.'
   -
     type: paragraph
     content:
@@ -219,7 +218,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747327636
+updated_at: 1747327895
 duplicated_from: 361f167f-1595-45d7-bb81-a2c9b3f4e381
 event_categories:
   - wellbeing
@@ -230,5 +229,6 @@ event_categories:
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+address_line_2: "34-40 St Olave's Road"
 ---
 Free activities for children who live in Bury St Edmunds!
