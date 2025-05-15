@@ -5,7 +5,7 @@ title: 'The Great Get Together'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-05-27 13:30'
+start_date: '2025-05-27 10:00'
 end_date: '2025-05-27 15:00'
 free: true
 virtual: false
@@ -218,7 +218,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747327466
+updated_at: 1747327707
 duplicated_from: ed186757-9827-4158-9fb5-37ef06426514
 event_categories:
   - wellbeing
