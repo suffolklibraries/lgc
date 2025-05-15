@@ -1,18 +1,17 @@
 ---
 id: d20ec86b-b5d6-46bc-ba3b-f8d329b60ae5
-published: false
 blueprint: events
-title: 'Squawk (Duplicated)'
+title: 'Your Story: A Free Creative Writing Workshop'
 event_categories:
-  - music
   - theatre-and-performance
   - wellbeing
   - community
+  - literature
 organisers:
   - the-seagull-theatre
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-05-15 10:00'
-end_date: '2025-05-15 15:00'
+featured_image: pelicanpelican-3x2/literature.png
+start_date: '2025-06-09 10:30'
+end_date: '2025-06-09 11:30'
 free: true
 virtual: false
 accessibility_information:
@@ -84,29 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We meet each week in term time and our professional dancers and choreographers support the group to develop their song and dance skills, but also to have fun!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:community@theseagull.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: community@theseagull.co.uk
-      -
-        type: text
-        text: ' for more information and to book.'
+        text: 'Whether you have a burning story you’re keen to explore or an idea you’re not quite sure about, Nicola will invite you to discover and explore the stories that matter to you through a series of fun group and individual exercises, drawing on her own storytelling experience.'
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -116,8 +93,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743690160
+updated_at: 1747293734
 duplicated_from: cf877a1a-8ac8-43e4-bb6c-1b53a740c6a4
-attendance_information: 'adults with learning disabilities'
+booking_link: 'https://theseagull.co.uk/seagull_shows/your-story-a-free-creative-writing-workshop/'
 ---
-Musical theatre workshops for adults with learning disabilities.
+Creative writing workshop is for writers of all levels and all genres
