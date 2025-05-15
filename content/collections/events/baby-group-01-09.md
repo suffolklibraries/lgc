@@ -1,13 +1,12 @@
 ---
 id: 6f3e4d51-49a5-49b0-9cdb-5009252433fe
-published: false
 blueprint: events
-title: "Baby and Toddler's Group (Duplicated)"
+title: "Baby and Toddler's Group"
 organisers:
   - theatre-royal
 featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-07-21 11:00'
-end_date: '2025-07-21 12:30'
+start_date: '2025-09-01 11:00'
+end_date: '2025-09-01 12:30'
 free: true
 virtual: false
 latitude: '52.05570633047097'
@@ -210,7 +209,7 @@ cta: |-
 
   [07492 691190](tel:07492691190)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747313615
+updated_at: 1747319014
 duplicated_from: 5253bc3d-f88d-4a39-8fd5-2f66acae8de3
 event_categories:
   - wellbeing
