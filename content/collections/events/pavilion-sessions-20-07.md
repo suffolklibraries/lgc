@@ -1,18 +1,17 @@
 ---
 id: be930fa5-6940-4623-93b9-8b3474d8f4b9
-published: false
 blueprint: events
-title: 'The Pavilion Sessions (Duplicated)'
+title: 'The Pavilion Sessions'
 event_categories:
   - community
   - music
   - dance
   - wellbeing
 organisers:
-  - east-point-pavilion
+  - first-light-festival
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-06 13:30'
-end_date: '2025-06-06 16:00'
+start_date: '2025-07-20 13:30'
+end_date: '2025-07-20 16:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -96,9 +95,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747312169
+updated_at: 1747312518
 duplicated_from: 4f23e94e-c035-42c8-b2b8-8fdcd6448c3a
-booking_link: 'https://www.eastpointpavilion.com/events/the-pavilion-sessions-erw6n-jtlxl'
+booking_link: 'https://www.eastpointpavilion.com/events/the-pavilion-sessions-erw6n-jtlxl-54754'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
