@@ -1,21 +1,20 @@
 ---
 id: 361f167f-1595-45d7-bb81-a2c9b3f4e381
-published: false
 blueprint: events
-title: 'The Great Get Together (Duplicated)'
+title: 'The Great Get Together'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-05-27 13:30'
-end_date: '2025-05-27 15:00'
+start_date: '2025-05-28 13:30'
+end_date: '2025-05-28 15:00'
 free: true
 virtual: false
-latitude: '52.24521675712837'
-longitude: '0.687432812770102'
-building_name: 'Gainsborough Park'
-address_line_1: 'Grafton Close'
+latitude: '52.245384708030144'
+longitude: '0.7406831682214171'
+building_name: 'Moreton Hall Community Centre'
+address_line_1: 'Symonds Road'
 town: 'Bury St Edmunds'
-postcode: 'IP33 3QQ'
+postcode: 'IP32 7EE'
 directions:
   -
     type: paragraph
@@ -29,14 +28,14 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/dir/Gainborough+Park+Play+Ground/Gainsborough+Road+south+end,+Bury+Saint+Edmunds+IP33+3RX/@52.2449461,0.6875548,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d84c2500285c6d:0x57a64bb9b1decfac!2m2!1d0.6874089!2d52.2450804!1m5!1m1!1s0x47d84c2520f36359:0xca70be3a397c558f!2m2!1d0.689866!2d52.2449!3e2?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
+              href: 'https://www.google.co.uk/maps/dir/Moreton+Hall+Community+Centre/Community+Centre,+Bury+Saint+Edmunds+IP32+7EW/@52.2452862,0.738119,17z/data=!4m14!4m13!1m5!1m1!1s0x47d84cf0f701181f:0x8364f7693e1071dc!2m2!1d0.7406939!2d52.2452862!1m5!1m1!1s0x47d84cefd628d5a9:0x3d443b091d8692a0!2m2!1d0.740046!2d52.244221!3e2?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'two minute walk away'
+        text: 'three minute walk away'
       -
         type: text
-        text: ' on Gainsborough Road.'
+        text: ' on Symonds Road.'
   -
     type: paragraph
     content:
@@ -219,7 +218,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747327466
+updated_at: 1747327636
 duplicated_from: dc962fb3-6821-4c53-84f3-d541ca64d0e5
 event_categories:
   - wellbeing
@@ -227,5 +226,8 @@ event_categories:
   - family-friendly
   - teen
   - movement
+accessibility_information:
+  - 'Accessible toilets'
+  - 'Accessible parking spaces'
 ---
 Free activities for children who live in Bury St Edmunds!
