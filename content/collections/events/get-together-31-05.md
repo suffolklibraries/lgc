@@ -1,20 +1,19 @@
 ---
 id: 47e1e9c9-8121-4af6-b7da-5d38c3c2aad1
-published: false
 blueprint: events
-title: 'The Great Get Together (Duplicated)'
+title: 'The Great Get Together'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-05-30 10:00'
-end_date: '2025-05-30 15:00'
+start_date: '2025-05-31 10:00'
+end_date: '2025-05-31 15:00'
 free: true
 virtual: false
-latitude: '52.2458677829857'
-longitude: '0.7163179970574831'
-building_name: 'Abbey Gardens'
+latitude: '52.22998101472669'
+longitude: '0.7148164303618366'
+building_name: 'Hardwick Heath'
 town: 'Bury St Edmunds'
-postcode: 'IP33 1XL'
+postcode: 'IP33 2QZ'
 directions:
   -
     type: paragraph
@@ -27,35 +26,21 @@ directions:
     content:
       -
         type: text
-        text: 'There is car parking at the '
+        text: 'There is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/hardwick-heath-car-park.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'Arc shopping centre'
+        text: 'paid for onsite parking'
       -
         type: text
-        text: ' a ten minute walk away and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/parkway-multi-storey-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Parkway car park'
-      -
-        type: text
-        text: ' a 13 minute walk away.'
+        text: .
   -
     type: paragraph
     content:
@@ -232,7 +217,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747328144
+updated_at: 1747328456
 duplicated_from: 993128c7-2aa7-4d39-a21e-4c3777551821
 event_categories:
   - wellbeing
