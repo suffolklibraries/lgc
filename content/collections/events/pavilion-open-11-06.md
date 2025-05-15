@@ -1,8 +1,7 @@
 ---
 id: 679e2309-7843-42ce-b5ff-62e5de165ba5
-published: false
 blueprint: events
-title: 'The Pavilion Sessions (Duplicated)'
+title: 'Pavilion Performers Open Mic Night'
 event_categories:
   - community
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-06 13:30'
-end_date: '2025-06-06 16:00'
+start_date: '2025-06-06 18:30'
+end_date: '2025-06-06 21:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -72,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'All are welcome to join these unplugged sessions and play traditional or contemporary tunes, or sing songs.'
+        text: 'Whether you’re a gigging musician or someone who would love to experience performing in front of an audience, this relaxed open mic session is for you!'
   -
     type: paragraph
     attrs:
@@ -80,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us from 1.30pm for a ‘Slow Tune Session for Improvers’, followed by a folk session for singers and players from 2-4pm.'
+        text: '6.30pm - 7.45pm - Open Mic'
   -
     type: paragraph
     attrs:
@@ -88,7 +87,15 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just turn up and join in or listen!'
+        text: '7.45pm - 8.15pm - New Dawn showcase act'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '8.15pm - 9pm - Open Mic'
 cta: |-
   This event is organised by First Light Festival
 
@@ -96,9 +103,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747312169
+updated_at: 1747312232
 duplicated_from: 4f23e94e-c035-42c8-b2b8-8fdcd6448c3a
-booking_link: 'https://www.eastpointpavilion.com/events/the-pavilion-sessions-erw6n-jtlxl'
+booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-open-mic-night'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
@@ -106,4 +113,4 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 ---
-‘Come all’ inclusive folk get-togethers.
+Inclusive open mic session where everyone is welcome!
