@@ -1,17 +1,16 @@
 ---
 id: 5fc37cc0-a078-449a-b6e6-fd682e3b5320
-published: false
 blueprint: events
-title: "Animal Handling with Angie's Curious Creatures (Duplicated)"
+title: 'Redwings Crafts and Games'
 event_categories:
   - art
   - family-friendly
   - nature
 organisers:
   - first-light-festival
-start_date: '2025-05-28 11:00'
+start_date: '2025-05-28 10:30'
 end_date: '2025-05-28 12:00'
-free: false
+free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -31,15 +30,14 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet the newest member of the Curious Creatures Crew, Henry the Hedgehog, along with his friends CyCy the snake, Toothless the Bearded Dragon and the very curious Giant Spiny Stick Insects! '
+        text: 'Join Redwings Horse Sanctuary for a fun morning of animal crafts and games, suitable for children of all ages.'
   -
     type: paragraph
     attrs:
       textAlign: left
     content:
       -
-        type: text
-        text: 'Find out more about them and get up close with plenty of time for photo opportunities.'
+        type: hardBreak
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -47,10 +45,9 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747311476
+updated_at: 1747311687
 duplicated_from: cfad7014-d2ee-4283-a7e5-8228bcacade8
-featured_image: pelicanpelican-3x2/nature.png
-cost_details: £5
+featured_image: firstlightfestival/redwings--3x2.png
 building_name: 'East Point Pavilion'
 directions:
   -
@@ -96,6 +93,6 @@ directions:
               target: _blank
               title: null
         text: 'the Suffolk Onboard website.'
-booking_link: 'https://www.eastpointpavilion.com/events/animal-handling-with-angies-curious-creatures'
+booking_link: 'https://www.eastpointpavilion.com/events/redwings-childrens-crafts-games'
 ---
-Exciting animal handling experience!
+Fun for all the family
