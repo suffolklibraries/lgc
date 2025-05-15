@@ -1,8 +1,7 @@
 ---
 id: a96b34e2-2d6a-4392-9c81-db7c2072e75a
-published: false
 blueprint: events
-title: 'Africa Global Day (Duplicated)'
+title: 'Africa Global Day'
 event_categories:
   - dance
   - art
@@ -22,47 +21,47 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Relaxed performance'
   - 'Drop-in event'
-latitude: '52.05879312178225'
-longitude: '1.1565072711648254'
-building_name: 'Ipswich County Library'
-address_line_1: 'Northgate Street'
-town: Ipswich
-postcode: 'IP1 3DE'
+latitude: '52.2448813857626'
+longitude: '0.7084367129852392'
+building_name: '147'
+address_line_1: "King's Road"
+town: 'Bury Saint Edmunds'
+postcode: 'IP33 3DJ'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ipswich '
+        text: 'Bury St Edmunds '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
               rel: null
               target: _blank
               title: null
         text: 'railway station'
       -
         type: text
-        text: ' is a 21 minute walk away, and the '
+        text: ' is a 18 minute walk away, and the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
+              href: "https://www.google.co.uk/maps/dir/Linden+Square,+147+King's+Road,+Bury+Saint+Edmunds/Old+Convent+Orchard,+Bury+Saint+Edmunds+IP33+3PH/@52.2438534,0.708538,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d84c46623f1ccf:0x2a3b6b7d0bd26e44!2m2!1d0.7083938!2d52.2447566!1m5!1m1!1s0x47d84c459267100b:0xae53c572f9d4815f!2m2!1d0.711195!2d52.242947!3e2?entry=ttu&g_ep=EgoyMDI1MDUxMi4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D"
               rel: null
               target: _blank
               title: null
-        text: 'Tower Ramparts bus station'
+        text: 'nearest bus stop'
       -
         type: text
-        text: ' is a three minute walk away.'
+        text: ' is a five minute walk away.'
   -
     type: paragraph
     content:
@@ -75,48 +74,14 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/parkway-multi-storey-car-park.cfm'
               rel: null
               target: _blank
               title: null
-        text: 'Crown Street car park'
+        text: 'Parkway car park'
       -
         type: text
-        text: ' a six minute walk away and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.buttermarketipswich.com/Parking/'
-              rel: null
-              target: _blank
-              title: null
-        text: Buttermarket
-      -
-        type: text
-        text: ' a seven minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Ipswich County Library using AccessAble'
-      -
-        type: text
-        text: .
+        text: ' a three minute walk away.'
   -
     type: paragraph
     content:
@@ -171,7 +136,7 @@ cta: |-
 
   [07492 691190](tel:07492691190)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747233556
+updated_at: 1747308123
 duplicated_from: 1105770a-e3f6-454d-aa26-b005a3bc472f
 organisers:
   - bme-suffolk
