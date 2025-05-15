@@ -1,18 +1,17 @@
 ---
 id: 53cc7316-6106-4805-a052-37643caa18f5
-published: false
 blueprint: events
-title: 'Pavilion Performers Open Mic Night (Duplicated)'
+title: 'First Light Festival - New Dawn Showcase'
 event_categories:
   - community
   - music
   - dance
   - wellbeing
 organisers:
-  - east-point-pavilion
+  - first-light-festival
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-06 18:30'
-end_date: '2025-06-06 21:00'
+start_date: '2025-06-21 12:00'
+end_date: '2025-06-21 17:55'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -72,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Whether you’re a gigging musician or someone who would love to experience performing in front of an audience, this relaxed open mic session is for you!'
+        text: 'Join us on Saturday 21 June for the New Dawn Showcase and discover some of the best emerging musical talent from Suffolk & Norfolk aged 14 - 25.'
   -
     type: paragraph
     attrs:
@@ -80,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: '6.30pm - 7.45pm - Open Mic'
+        text: 'Taking to the stage will be:'
   -
     type: paragraph
     attrs:
@@ -88,7 +87,10 @@ content_area:
     content:
       -
         type: text
-        text: '7.45pm - 8.15pm - New Dawn showcase act'
+        marks:
+          -
+            type: bold
+        text: 'I’m Energy - 12pm - 12:25pm'
   -
     type: paragraph
     attrs:
@@ -96,7 +98,87 @@ content_area:
     content:
       -
         type: text
-        text: '8.15pm - 9pm - Open Mic'
+        marks:
+          -
+            type: bold
+        text: 'Harry Martin - 12:30pm - 12:55pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'JenJen - 1:30pm - 1:55pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Ben Wegg - 2pm - 2:25pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Scarlett Hogg - 2:30pm - 2:55pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Liv White - 3pm - 3.25pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Ronan - 3:30pm - 3:55pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Keeper of Calves - 4pm - 4:25pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Chloë Lupton - 5:30pm - 5:55pm'
 cta: |-
   This event is organised by First Light Festival
 
@@ -104,9 +186,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747312232
+updated_at: 1747312332
 duplicated_from: 679e2309-7843-42ce-b5ff-62e5de165ba5
-booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-open-mic-night'
+booking_link: 'https://www.eastpointpavilion.com/events/first-light-festival-new-dawn-showcase'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
@@ -114,4 +196,4 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 ---
-Inclusive open mic session where everyone is welcome!
+The Pavilion comes alive over the First Light Festival weekend.
