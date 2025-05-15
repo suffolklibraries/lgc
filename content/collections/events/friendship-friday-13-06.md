@@ -1,13 +1,12 @@
 ---
 id: 0f72edb8-e8ea-4d1b-9099-d1f6255b899d
-published: false
 blueprint: events
-title: 'Friendship Friday for Elders (Duplicated)'
+title: 'Friendship Friday for Elders'
 organisers:
   - bme-suffolk
 featured_image: pelicanpelican-3x2/coffee.png
-start_date: '2025-05-30 11:00'
-end_date: '2025-05-30 13:00'
+start_date: '2025-06-13 11:00'
+end_date: '2025-06-13 13:00'
 free: true
 virtual: false
 latitude: '52.05570633047097'
@@ -210,7 +209,7 @@ cta: |-
 
   [07492 691190](tel:07492691190)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747319324
+updated_at: 1747319454
 duplicated_from: 5f5b21bf-9ba6-4e74-a29f-e102025877d5
 event_categories:
   - wellbeing
