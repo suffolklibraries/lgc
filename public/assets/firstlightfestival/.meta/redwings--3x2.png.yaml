@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Two donkeys eating vegetables'
 size: 291820
 last_modified: 1747311640
 width: 400
