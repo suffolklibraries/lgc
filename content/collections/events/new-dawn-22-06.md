@@ -1,8 +1,7 @@
 ---
 id: 1365b079-ded2-43cb-92a9-db3685e90f52
-published: false
 blueprint: events
-title: 'First Light Festival - New Dawn Showcase (Duplicated) (2)'
+title: 'First Light Festival - New Dawn and Playbreak Showcase'
 event_categories:
   - community
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-21 12:00'
-end_date: '2025-06-21 17:55'
+start_date: '2025-06-22 10:00'
+end_date: '2025-06-22 16:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -72,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us on Saturday 21 June for the New Dawn Showcase and discover some of the best emerging musical talent from Suffolk & Norfolk aged 14 - 25.'
+        text: 'Join us on Sunday 22 June for the New Dawn Showcase and discover some of the best emerging musical talent from Suffolk & Norfolk aged 14 - 25.'
   -
     type: paragraph
     attrs:
@@ -91,7 +90,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'I’m Energy - 12pm - 12:25pm'
+        text: 'Billy Took - 10am - 10:25am'
   -
     type: paragraph
     attrs:
@@ -102,7 +101,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Harry Martin - 12:30pm - 12:55pm'
+        text: 'Summer Ashton - 10:30am - 10:55am'
   -
     type: paragraph
     attrs:
@@ -113,7 +112,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'JenJen - 1:30pm - 1:55pm'
+        text: 'Lara Price - 11:00am - 11:25am'
   -
     type: paragraph
     attrs:
@@ -124,7 +123,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Ben Wegg - 2pm - 2:25pm'
+        text: 'Ruby-Sue - 12pm - 12:25pm'
   -
     type: paragraph
     attrs:
@@ -135,7 +134,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Scarlett Hogg - 2:30pm - 2:55pm'
+        text: 'Amy Allard - 12:30pm - 12:55pm'
   -
     type: paragraph
     attrs:
@@ -146,7 +145,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Liv White - 3pm - 3.25pm'
+        text: 'Michael Winter - 2pm - 2:25pm'
   -
     type: paragraph
     attrs:
@@ -157,7 +156,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Ronan - 3:30pm - 3:55pm'
+        text: 'The Winterlong - 2:35pm - 3pm'
   -
     type: paragraph
     attrs:
@@ -168,18 +167,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Keeper of Calves - 4pm - 4:25pm'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Chloë Lupton - 5:30pm - 5:55pm'
+        text: 'Cadence Band - 3:15pm - 4pm'
 cta: |-
   This event is organised by First Light Festival
 
@@ -187,9 +175,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747312332
+updated_at: 1747312458
 duplicated_from: 53cc7316-6106-4805-a052-37643caa18f5
-booking_link: 'https://www.eastpointpavilion.com/events/first-light-festival-new-dawn-showcase'
+booking_link: 'https://www.eastpointpavilion.com/events/first-light-festival-new-dawn-and-playbreak-showcase'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
