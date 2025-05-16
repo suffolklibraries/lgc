@@ -142,5 +142,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1736939693
 duplicated_from: 605dc2eb-cb3c-4379-90c8-c3ec57298027
 booking_link: 'https://www.eastpointpavilion.com/events/first-light-fridays'
+published: false
 ---
 Come along and join our making sessions at East Point Pavilion.
