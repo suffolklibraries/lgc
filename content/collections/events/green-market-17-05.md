@@ -127,5 +127,6 @@ directions:
       -
         type: text
         text: '. '
+published: false
 ---
 Interactive eco fun for families!
