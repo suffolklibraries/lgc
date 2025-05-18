@@ -154,5 +154,6 @@ organisers:
 address_line_2: 'Turret Lane'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1746621413
+published: false
 ---
 An untutored life drawing and social event showcasing the diversity of queer bodies and expression.
