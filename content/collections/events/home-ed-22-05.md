@@ -1,8 +1,7 @@
 ---
 id: 8a4a9e49-3b94-410b-837d-0c94e2738e65
-published: false
 blueprint: events
-title: 'Saturday Art Club - Afternoon (Duplicated)'
+title: 'Home Ed Creative Workshop'
 event_categories:
   - art
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-05-24 14:00'
-end_date: '2025-05-24 15:30'
+start_date: '2025-05-22 13:00'
+end_date: '2025-05-22 15:00'
 free: false
 virtual: false
 accessibility_information:
@@ -87,15 +86,31 @@ content_area:
     content:
       -
         type: text
-        text: 'You can drop off your child with peace of mind – our staff are DBS checked, paediatric first aiders and have safeguarding training.'
+        text: 'Marie and Emma run gently structured workshops, with a weekly theme with opportunities to make and create in different ways.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Parents and Guardians are welcome to drop off or stay if they get involved!'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive.'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747642879
+updated_at: 1747643003
 duplicated_from: 2a1a0fe3-749a-4261-bfa0-646425142ff1
-cost_details: £9
+cost_details: £12.50
+attendance_information: 'home educated children aged 8 to 18'
 ---
-Ninety minutes of creative fun!
+Home Educated young artists are invited to create with us in a calm and quiet inclusive space.
