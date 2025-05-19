@@ -1,8 +1,7 @@
 ---
 id: 2a1a0fe3-749a-4261-bfa0-646425142ff1
-published: false
 blueprint: events
-title: 'Saturday Art Club - Weekly Space (Duplicated)'
+title: 'Saturday Art Club - Afternoon'
 event_categories:
   - art
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-05-24 10:00'
-end_date: '2025-05-24 11:30'
+start_date: '2025-05-24 14:00'
+end_date: '2025-05-24 15:30'
 free: false
 virtual: false
 accessibility_information:
@@ -94,7 +93,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747642791
+updated_at: 1747642879
 duplicated_from: ad990341-09b7-4b3f-ab10-c5ad0794432c
 cost_details: £9
 ---
