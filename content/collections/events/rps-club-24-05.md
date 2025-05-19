@@ -1,22 +1,22 @@
 ---
 id: ad990341-09b7-4b3f-ab10-c5ad0794432c
 blueprint: events
-title: 'Creative Practice for Wellbeing'
+title: 'Saturday Art Club - Weekly Space'
 event_categories:
   - art
-  - later-years
   - community
   - wellbeing
+  - family-friendly
+  - teen
 organisers:
   - rock-paper-scissors
-featured_image: rockpaperscissorsimages/rps-creative-practice-3x2.png
-start_date: '2024-11-21 10:00'
-end_date: '2024-11-21 12:00'
-free: true
+featured_image: rockpaperscissorsimages/rps-open-studio-.png
+start_date: '2025-05-24 10:00'
+end_date: '2025-05-24 11:30'
+free: false
 virtual: false
-attendance_information: 'open to all'
 accessibility_information:
-  - 'Drop-in event'
+  - 'Autism friendly'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 building_name: 'Dove Street Studio'
@@ -86,45 +86,15 @@ content_area:
     content:
       -
         type: text
-        text: 'These workshops bring people together with a focus on developing their creative skills. No previous experience is necessary, this is a supportive environment to build confidence and feel relaxed.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Our team are warm, friendly and experienced in teaching a wide range of creative skills, in our welcoming art studio.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.rockpaperscissors.org.uk/programme'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Rock Paper Scissors website'
-      -
-        type: text
-        text: ' to find out more and book your FREE place.'
+        text: 'You can drop off your child with peace of mind – our staff are DBS checked, paediatric first aiders and have safeguarding training.'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730296799
+updated_at: 1747642791
 duplicated_from: 8269d180-69ca-483e-9e7b-b2e1326c20e2
-published: false
+cost_details: £9
 ---
-Creative Practice for Wellbeing is our programme that support adults wellbeing through Art.
+Ninety minutes of creative fun!
