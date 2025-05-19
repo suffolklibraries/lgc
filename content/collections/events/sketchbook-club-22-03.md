@@ -9,7 +9,7 @@ event_categories:
   - teen
 organisers:
   - rock-paper-scissors
-start_date: '2025-03-22 12:00'
+start_date: '2025-05-24 12:00'
 free: false
 virtual: false
 content_area:
@@ -34,9 +34,9 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742570595
+updated_at: 1747642824
 featured_image: pelicanpelican-3x2/lgc-va.png
-end_date: '2025-03-22 13:30'
+end_date: '2025-05-24 13:30'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 address_line_1: '11 Dove Street'
@@ -104,6 +104,5 @@ directions:
         type: text
         text: .
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
-published: false
 ---
 A weekly sketchbook club for 11-18 year olds.
