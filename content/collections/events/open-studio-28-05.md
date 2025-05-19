@@ -1,8 +1,7 @@
 ---
 id: 3eec71d6-5ccd-40df-9ee0-f4cff1b6665c
-published: false
 blueprint: events
-title: 'Spring Open Studio 2025 (Duplicated)'
+title: 'Spring Open Studio 2025'
 event_categories:
   - art
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-05-21 09:00'
-end_date: '2025-05-21 15:00'
+start_date: '2025-05-28 09:00'
+end_date: '2025-05-28 15:00'
 free: true
 virtual: false
 attendance_information: 'open to all'
@@ -101,7 +100,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747642589
+updated_at: 1747642610
 duplicated_from: 40ebbeae-ac27-4158-90b3-b54d5bcda60c
 ---
 Come and be creative on your own terms.
