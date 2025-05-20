@@ -132,5 +132,6 @@ cta: 'This event is organised by the OffCut Choir'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1739979250
 duplicated_from: 381fcc55-4886-4301-8862-88a860958f50
+published: false
 ---
 Come along to join our welcoming choir.
