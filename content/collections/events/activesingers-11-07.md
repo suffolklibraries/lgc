@@ -1,8 +1,7 @@
 ---
 id: 4336d066-6471-42ce-9426-15019282ff73
-published: false
 blueprint: events
-title: 'ActivSingers - Ipswich (Duplicated)'
+title: 'ActivSingers - Ipswich'
 event_categories:
   - community
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-06-27 10:00'
-end_date: '2025-06-27 12:00'
+start_date: '2025-07-11 10:00'
+end_date: '2025-07-11 12:00'
 free: false
 virtual: false
 latitude: '52.04263805194225,'
@@ -130,7 +129,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747755764
+updated_at: 1747755784
 duplicated_from: 3dfc1551-9bd1-4b33-9559-68dd79b03921
 cost_details: '£7 per session'
 accessibility_information:
