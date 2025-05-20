@@ -14,7 +14,7 @@ start_date: '2025-06-27 10:00'
 end_date: '2025-06-27 12:00'
 free: false
 virtual: false
-latitude: '52.04263805194225,'
+latitude: '52.04263805194225'
 longitude: '1.1091516701223212'
 building_name: 'Pinewood Community Hall'
 address_line_2: 'Halifax Road'
@@ -129,7 +129,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747755764
+updated_at: 1747756143
 duplicated_from: 8285b379-b636-494c-9ca8-c3fb7d1db440
 cost_details: '£7 per session'
 accessibility_information:
