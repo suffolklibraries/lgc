@@ -1,8 +1,7 @@
 ---
 id: a6125a88-6194-4509-8011-1da33a6d9f47
-published: false
 blueprint: events
-title: 'ActivSingers - Woodbridge (Duplicated) (Duplicated)'
+title: 'ActivSingers - Woodbridge'
 event_categories:
   - community
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-10-17 10:00'
-end_date: '2025-10-17 12:00'
+start_date: '2025-11-21 10:00'
+end_date: '2025-11-21 12:00'
 free: false
 virtual: false
 latitude: '52.09168512751285'
@@ -191,7 +190,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747756826
+updated_at: 1747756864
 duplicated_from: cc50bb93-9743-40d6-8aa4-bda0be6410b4
 cost_details: '£7 per session'
 accessibility_information:
