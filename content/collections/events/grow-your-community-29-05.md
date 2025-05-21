@@ -1,17 +1,17 @@
 ---
 id: ebbcde75-01e0-4433-b3f6-dea51c98c55a
 blueprint: events
-title: 'Grow Your Wellbeing'
+title: 'Grow Your Community - Sudbury and Great Cornard'
 event_categories:
   - nature
   - community
   - wellbeing
-  - teen
+  - later-years
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-02-10 10:00'
-end_date: '2025-02-10 12:30'
+start_date: '2025-05-29 09:30'
+end_date: '2025-05-29 12:00'
 free: true
 virtual: false
 latitude: '52.03758506760739'
@@ -95,7 +95,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and join our free 12-week course, Mondays 10th February until 28th April 2025 10:00am–12:30pm'
+        text: 'Come and join our FREE gardening sessions in Sudbury’s parks and open spaces.'
   -
     type: paragraph
     attrs:
@@ -103,80 +103,15 @@ content_area:
     content:
       -
         type: text
-        text: 'These fun, social, welcoming sessions for anyone aged 16+ will be tailored towards personal goals such as: '
+        text: 'Would you like to get out a bit more? Get more active and feel fitter?'
   -
-    type: bulletList
+    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'developing practical skills'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'supporting wellbeing'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'building your confidence'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'getting closer to nature'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'finding a sense of community'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'meeting new people.'
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
+        type: text
+        text: 'As well as our work in Belle Vue Park, we help individuals and groups improve their local environment. We also offer placements and group volunteering opportunities.'
   -
     type: paragraph
     attrs:
@@ -211,15 +146,14 @@ content_area:
               title: null
         text: susannah@activlives.org.uk
 cta: |-
-  This event is organised by ActivGardens:
+  This event is organised by ActivLives
 
-  [https://activlives.org.uk/activgardens/](https://activlives.org.uk/activgardens/) 
+  [https://activlives.org.uk/](https://activlives.org.uk/) 
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737539315
-attendance_information: 'ages 16+'
+updated_at: 1747814980
 duplicated_from: f29b6b58-b6c6-46e9-881b-a23d60f83f7b
-published: false
+booking_link: 'https://activlives.org.uk/activgardens/grow-your-community-sudbury/'
 ---
-Fun, social, welcoming sessions for anyone aged 16+
+Get involved in community growing in and around Sudbury.
