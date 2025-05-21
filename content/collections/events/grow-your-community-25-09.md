@@ -1,8 +1,7 @@
 ---
 id: 3d61d986-8757-44c4-a8f5-0f6fa78dc8de
-published: false
 blueprint: events
-title: 'Grow Your Community - Sudbury and Great Cornard (Duplicated)'
+title: 'Grow Your Community - Sudbury and Great Cornard'
 event_categories:
   - nature
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-09-18 09:30'
-end_date: '2025-09-18 12:00'
+start_date: '2025-09-25 09:30'
+end_date: '2025-09-25 12:00'
 free: true
 virtual: false
 latitude: '52.03758506760739'
@@ -153,7 +152,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747815279
+updated_at: 1747815297
 duplicated_from: a8de0811-f5f7-48c8-8e12-0971a0015eef
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-community-sudbury/'
 ---
