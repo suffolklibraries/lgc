@@ -124,5 +124,6 @@ duplicated_from: 0c99961f-2a57-465b-b49b-52d8e339247c
 address_line_2: 'Rushmere St Andrew'
 organisers:
   - music-in-our-bones
+published: false
 ---
 Health and well-being singing sessions for stroke survivors
