@@ -112,5 +112,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738684969
 duplicated_from: 92fb454c-fd37-429f-840c-9b955df4c699
+published: false
 ---
 Join Dr. Ruiter as he explores the connections, hybridity, and dynamism of the Viking-Age in this region.
