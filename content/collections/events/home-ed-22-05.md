@@ -112,5 +112,6 @@ updated_at: 1747643003
 duplicated_from: 2a1a0fe3-749a-4261-bfa0-646425142ff1
 cost_details: £12.50
 attendance_information: 'home educated children aged 8 to 18'
+published: false
 ---
 Home Educated young artists are invited to create with us in a calm and quiet inclusive space.
