@@ -142,5 +142,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Dump the shopping and come dancing at The Apex in the upstairs bar!
