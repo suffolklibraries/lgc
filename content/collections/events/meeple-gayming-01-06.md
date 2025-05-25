@@ -2,8 +2,8 @@
 id: 20a9b799-59e0-48d6-92f1-2f2f8103e3c5
 blueprint: events
 title: 'Meeple Gayming'
-start_date: '2025-06-01 19:00'
-end_date: '2025-06-01 21:00'
+start_date: '2025-06-01 14:00'
+end_date: '2025-06-01 18:00'
 free: true
 virtual: false
 address_line_1: '12 Tacket Street'
@@ -112,7 +112,7 @@ event_categories:
 organisers:
   - suffolk-pride
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748179390
+updated_at: 1748179412
 latitude: '52.056538490893416'
 longitude: '1.1563508839846621'
 cta: |-
