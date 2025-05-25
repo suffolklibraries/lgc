@@ -174,5 +174,6 @@ updated_at: 1747233556
 duplicated_from: 4ef752e5-caf0-4a8e-be06-df8a14d08b77
 organisers:
   - bme-suffolk
+published: false
 ---
 Everyone's invited!
