@@ -141,7 +141,7 @@ event_categories:
 organisers:
   - suffolk-pride
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748180216
+updated_at: 1748180250
 latitude: '52.05454198530987'
 longitude: '1.1543502302873354'
 cta: |-
@@ -152,5 +152,6 @@ cta: |-
   [info@suffolkpride.org.uk](mailto:info@suffolkpride.org.uk)
 duplicated_from: ee063f0c-3f37-4c9a-9f23-528c14ef19fd
 cost_details: '£10, £6 for Soapbox members'
+attendance_information: 'Ages 18+'
 ---
 All words welcome.
