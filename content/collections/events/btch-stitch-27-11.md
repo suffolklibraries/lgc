@@ -45,7 +45,7 @@ directions:
         text: 'railway station'
       -
         type: text
-        text: ' is a 20 minute walk away from the library, and the '
+        text: ' is a 20 minute walk away, and the '
       -
         type: text
         marks:
@@ -174,7 +174,7 @@ event_categories:
 organisers:
   - suffolk-pride
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748176974
+updated_at: 1748177634
 latitude: '52.056538490893416'
 longitude: '1.1563508839846621'
 cta: |-
