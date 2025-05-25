@@ -2,8 +2,8 @@
 id: c3edecbf-2012-4640-b107-e2e316745240
 blueprint: events
 title: 'Queer Life Drawing'
-start_date: '2025-05-18 14:00'
-end_date: '2025-05-18 16:00'
+start_date: '2025-06-15 14:00'
+end_date: '2025-06-15 16:00'
 free: false
 virtual: false
 attendance_information: 'Suitable for ages 18+'
@@ -102,7 +102,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a non-hierarchal and untutored life drawing class. We host Queer Life drawing every month at CHiP studios with a new model each time to represent the diversity of the queer community.'
+        text: 'This is a non-hierarchal and untutored life drawing class. Liminal Gaze host Queer Life drawing every month at CHiP studios with a new model each time to represent the diversity of the queer community.'
   -
     type: paragraph
     attrs:
@@ -137,14 +137,14 @@ content_area:
         text: 'After the session we like to have a show of work with your consent. And at close of session we like to make a trip to a local pub.'
 booking_link: 'https://ko-fi.com/liminalgaze'
 cta: |-
-  This event is organised by Liminal Gaze Collective
+  This event is organised by Suffolk Pride
 
-  [liminalgazecollective@protonmail.com](mailto:liminalgazecollective@protonmail.com)
+  [https://suffolkpride.org.uk/](https://suffolkpride.org.uk/)
 
-  [https://liminalgazecollective.wordpress.com/](https://liminalgazecollective.wordpress.com/)
+  [info@suffolkpride.org.uk](mailto:info@suffolkpride.org.uk)
 cost_details: 'Unwaged/Concession: £4. Standard: £7. Solidarity: £10'
 created_by: 1bd92b89-519f-48c9-be43-c0110c069cef
-featured_image: user-events/180525insta-1746610227.png
+featured_image: suffolk-pride/suffolk-pride-3x2.png
 event_categories:
   - art
   - community
@@ -153,7 +153,6 @@ organisers:
   - liminal-gaze-collective
 address_line_2: 'Turret Lane'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746621413
-published: false
+updated_at: 1748180420
 ---
 An untutored life drawing and social event showcasing the diversity of queer bodies and expression.
