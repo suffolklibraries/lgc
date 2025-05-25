@@ -174,7 +174,7 @@ event_categories:
 organisers:
   - suffolk-pride
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748177646
+updated_at: 1748180371
 latitude: '52.056538490893416'
 longitude: '1.1563508839846621'
 cta: |-
