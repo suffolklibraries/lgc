@@ -8,16 +8,13 @@ end_date: 2025-08-26T20:00:00+00:00
 free: false
 virtual: false
 attendance_information: 'Family friendly'
-additional_access_information: 'The event will take place outdoors, so please bring chairs, rugs and a picnic. There will be a 20 minute interval.'
-latitude: '52.0916581'
-longitude: '1.4652545'
 address_line_1: 'The Clumps'
 address_line_2: Butley
 building_name: 'Butley Priory'
 town: Woodbridge
 postcode: 'IP12 3NR'
 directions: |-
-  <p>Whether travelling from the North or South, follow the A12 in the direction of Woodbridge. Take the A1152 towards Melton. Stay on the A1152 and turn right at the first sign for Butley Priory. Continue until you reach our private drive and follow signs for parking. </p>
+  <p>Whether travelling from the North or South, follow the A12 in the direction of Woodbridge. Take the A1152 towards Melton. Stay on the A1152 and turn right at the first sign for Butley Priory. Continue until you reach our private drive and follow signs for parking.</p>
 
   <p>Nearest Rail Station: The closest rail station is Melton.</p>
 content_area: |-
@@ -27,7 +24,7 @@ content_area: |-
 
   <p>The show will go on unless the weather forces a postponement in which case it will be rescheduled to a future date.</p>
 booking_link: 'https://membermojo.co.uk/orfordmuseum/store'
-cta: "For Friends and guests, please use our online booking system (above). \r\n\r\nFor non-Friends, please use our booking form (https://orfordmuseum.org.uk/non-friends-booking-form/). \r\n\r\nIf you have any queries please email us at info@orfordmuseum.org.uk."
+cta: "For Friends and guests, please use our online booking system (above).\r\nFor non-Friends, please use our booking form (https://orfordmuseum.org.uk/non-friends-booking-form/).\r\nIf you have any queries please email us at info@orfordmuseum.org.uk."
 cost_details: 'Orford Museum Friends £20; non-Friends £25. Children under 16 years £14; children under 8 years free'
 created_by: bcc57038-b1e3-4681-b0fd-5078c28a32ed
 featured_image: user-events/500-x-500-a-midsummer-nights-dream-scaled.jpg
