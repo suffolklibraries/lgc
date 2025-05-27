@@ -1,20 +1,19 @@
 ---
 id: 9fdccbb8-5446-4bd2-afd1-364dd23c483d
 blueprint: events
-title: 'After-School Club'
+title: 'Shuff & Byng'
 event_categories:
-  - teen
-  - languages
-  - art
   - theatre-and-performance
+  - activism
+  - literature
 organisers:
+  - suffolk-pride
   - eastern-angles
-featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-05-13 15:30'
-end_date: '2025-05-13 17:00'
+featured_image: suffolk-pride/suffolk-pride-3x2.png
+start_date: '2025-06-19 19:30'
+end_date: '2025-06-19 20:40'
 free: true
 virtual: false
-attendance_information: 'young people'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -110,7 +109,7 @@ content_area:
     content:
       -
         type: text
-        text: "Need a place to go after school? Join us\_at the Eastern Angles Centre for After-School Club! Whether you need a quiet place to do your homework, or just want to get creative and enjoy some time with your friends - this is the place for you.\_"
+        text: 'Shuff & Byng is an exploration of the lives, work, and enduring legacy of Douglas Byng and Mrs. Shufflewick – two iconic figures who pioneered the art of female impersonation long before the era of RuPaul’s Drag Race.'
   -
     type: paragraph
     attrs:
@@ -118,16 +117,7 @@ content_area:
     content:
       -
         type: text
-        text: 'With staff on hand to support you with your homework as well as run creative activities this is a safe space to learn, have fun and make new friends. Activities include: arts & crafts, story telling, reading, board games, and more!'
-  -
-    type: heading
-    attrs:
-      textAlign: start
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to sign up:'
+        text: 'Douglas “bawdy but British” Byng was the UK’s notorious king of double entendre, enjoying a 70-year career as a cross-dressing society entertainer, gracing film, stage, variety, and cabaret. His friends, lovers, and acquaintances spanned royalty, aristocracy, and celebrities, and his work led to both BBC acclaim and being unceremoniously banned'
   -
     type: paragraph
     attrs:
@@ -135,27 +125,7 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: "Is this your first time at After-School Club this year?\_"
-      -
-        type: text
-        text: "Before making your first booking for the year you will need to complete a sign up form. There are printed versions available to collect from the Eastern Angles Centre. Please return completed forms to After-School\_Manager\_Vera Maia\_- email to "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto: vera@easternangles.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: 'vera@easternangles '
-      -
-        type: text
-        text: 'or return in person at the Eastern Angles Centre.'
+        text: 'In contrast, Mrs. Shufflewick, a working class char lady and semi-resident of her local pub, The Cock and Bull, was the glorious creation of Rex Jameson. With his impeccable timing Jameson brought Mrs. Shufflewick to life, becoming one of variety, tv & radio’s most original and brilliant talents.'
   -
     type: paragraph
     attrs:
@@ -163,46 +133,10 @@ content_area:
     content:
       -
         type: text
-        text: 'If you attended last year, you will still need to complete a new form for the new academic year.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Visit t'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://easternangles.co.uk/after-school-club'
-              rel: null
-              target: _blank
-              title: null
-        text: 'he Eastern Angles website'
-      -
-        type: text
-        text: ' to download the After-School Club sign-up form.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: "Been to After-School Club before?\_"
-      -
-        type: text
-        text: "Once we've got all the info from your sign up form, simply come along to your first session and let the staff know if you're coming back next week. We do have a limited capacity so please make sure to let us know if you will be attending so we can add your name to our register and ensure we have a space for you.\_"
+        text: 'Theatre maker Tony Lidington of Promenade Promotions is developing and writing Shuff & Byng, promising a celebration of the unique genius of both Rex Jameson and Douglas Byng.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739868180
-booking_link: 'https://easternangles.co.uk/after-school-club'
+updated_at: 1748333731
+booking_link: 'https://easternangles.co.uk/event/shuff-byng-a-work-in-progress-sharing/'
 cta: |-
   This event is organised by Eastern Angles
 
@@ -212,6 +146,6 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 duplicated_from: c639f236-0e71-49ad-b5e3-f94eb137a939
-published: false
+cost_details: 'Pay as you can'
 ---
-Homework and creative learning with Eastern Angles
+Sharing a work in progress as part of Suffolk Pride Fringe.
