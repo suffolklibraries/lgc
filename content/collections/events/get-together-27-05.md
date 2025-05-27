@@ -226,5 +226,6 @@ event_categories:
   - family-friendly
   - teen
   - movement
+published: false
 ---
 Free activities for children who live in Bury St Edmunds!
