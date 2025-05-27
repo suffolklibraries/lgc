@@ -5,7 +5,7 @@ title: 'Stories of Salty Seadogs'
 organisers:
   - suffolk-archives
 start_date: '2025-07-31 10:00'
-end_date: '2025-07-31 11:00'
+end_date: '2025-07-31 12:30'
 free: true
 virtual: true
 latitude: '52.05322071930784'
@@ -30,8 +30,16 @@ content_area:
       -
         type: text
         text: "Sit close and hear tell of savage sea serpents, miserable mermaids and even a seal woman in search of her fur. The session will last for one hour including a short comfort break.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Sessions start 10am and 11.30am. '
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748345100
+updated_at: 1748345161
 duplicated_from: 080959bd-b5c2-4354-b63f-2a7e7d677ebc
 featured_image: pelicanpelican-3x2/literature.png
 cta: |-
