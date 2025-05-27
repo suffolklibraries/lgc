@@ -8,8 +8,8 @@ event_categories:
   - museums
 organisers:
   - suffolk-archives
-start_date: '2024-08-12 11:00'
-end_date: '2024-08-12 15:00'
+start_date: '2025-08-12 10:30'
+end_date: '2025-08-12 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -34,7 +34,7 @@ content_area:
         text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qdazzr&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748360800
+updated_at: 1748361173
 duplicated_from: f8cff89d-538d-4acd-bd43-fb7ae58f7d85
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
