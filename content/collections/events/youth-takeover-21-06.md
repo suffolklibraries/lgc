@@ -1,76 +1,82 @@
 ---
 id: 16f1ba94-a227-4b5c-8fe8-c0db4a5c6b64
-published: false
 blueprint: events
-title: 'Heritage Open Days - Behind the Scenes Tours of the Hold (Duplicated)'
+title: 'Suffolk Pride Fringe - Youth Takeover'
 organisers:
   - suffolk-archives
-start_date: '2024-09-07 10:30'
-end_date: '2024-09-07 14:30'
+  - suffolk-pride
+start_date: '2025-06-21 11:45'
+end_date: '2025-06-21 16:00'
 free: true
 virtual: false
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
-address_line_1: 'The Hold'
+address_line_1: '131'
 town: Ipswich
 postcode: 'IP4 1LN'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'The event begins with our mini march at 11:45am.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Explore the amazing collections and resources available at The Hold, Ipswich.'
+        text: 'Live music, open mic, games, stalls, the First pride bus, arts and crafts. '
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'Tours start at 10.30am, midday, and 1.30pm.'
-  -
-    type: heading
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to book'
+        text: 'Enjoy a break from everything in The Retreat or the Quiet Room.'
   -
     type: paragraph
-    content:
-      -
-        type: text
-        text: 'You can book your free ticket via '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkarchives.co.uk/whats-on/'
-              rel: null
-              target: null
-              title: null
-        text: "Suffolk Archives' website"
-      -
-        type: text
-        text: .
-  -
-    type: heading
     attrs:
-      level: 2
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to get here'
+        text: 'No need to book, just come along.'
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1748334218
+duplicated_from: 17f930c1-e73f-484a-b585-18f114ea0bff
+featured_image: suffolk-pride/suffolk-pride-3x2.png
+cta: |-
+  This event is organised by Suffolk Archives
+
+  [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
+
+  [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
+
+  [01473 296666](tel:01473296666)
+address_line_2: 'Fore Street'
+event_categories:
+  - activism
+  - art
+  - movement
+  - theatre-and-performance
+  - teen
+  - family-friendly
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Hearing loop available'
+  - 'Quiet space available'
+  - 'Accessible toilets'
+  - 'Accessible parking spaces'
+  - 'Relaxed performance'
+  - 'Drop-in event'
+building_name: 'The Hold'
+directions:
   -
     type: paragraph
     content:
@@ -90,7 +96,13 @@ content_area:
         text: here
       -
         type: text
-        text: '. The nearest car park is at the '
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is at the '
       -
         type: text
         marks:
@@ -140,19 +152,5 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kbajza&target='
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1716909189
-duplicated_from: 17f930c1-e73f-484a-b585-18f114ea0bff
-featured_image: offthepressimages/otpillustrations/support-1715763134.png
-cta: |-
-  This event is organised by Suffolk Archives
-
-  [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
-
-  [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
-
-  [01473 296666](tel:01473296666)
-address_line_2: '131 Fore Street'
 ---
-Join one of our Archivists on a free behind the scenes tour.
+Join Suffolk Pride for our Youth Pride at The Hold.
