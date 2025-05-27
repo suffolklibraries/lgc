@@ -1,29 +1,27 @@
 ---
 id: c8999440-b906-41f5-865b-74dee51d1f2c
-published: false
 blueprint: events
-title: "Let's Get Crafty - Anchors Away! (Duplicated)"
+title: "Let's Get Crafty - Anchors Away!"
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - suffolk-archives
-start_date: '2024-08-12 11:00'
-end_date: '2024-08-12 15:00'
+start_date: '2024-08-14 10:30'
+end_date: '2024-08-14 12:30'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Accessible parking spaces'
   - 'Relaxed performance'
   - 'Drop-in event'
-latitude: '52.05322071930784'
-longitude: '1.1636764272050126'
-town: Ipswich
-postcode: 'IP4 1LN'
+latitude: '52.187988733605216'
+longitude: '0.9971791124598641'
+town: Stowmarket
+postcode: 'IP14 1EX'
 content_area:
   -
     type: paragraph
@@ -33,9 +31,9 @@ content_area:
       -
         type: text
         text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qdazzr&target=&iframe=true'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-gydedx&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748360800
+updated_at: 1748360942
 duplicated_from: 5d0de73e-aca0-4c87-bec8-6fcc8306632d
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
@@ -46,66 +44,85 @@ cta: |-
   [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
   [01473 296666](tel:01473296666)
-building_name: 'The Hold'
+building_name: 'Stowmarket Libary'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The Hold is a four minute walk from the nearest bus stop - see the latest bus timetables '
+        text: 'Stowmarket Library is a one minute walk from the nearest bus stop, and you can find up-to-date times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/buses/'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
               rel: null
               target: null
               title: null
-        text: here
+        text: 'Suffolk Onboard website'
       -
         type: text
-        text: '. '
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest car park is at the '
+        text: 'Stowmarket railway station is a five minute walk away and you can find times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipserv.co.uk/car-parks/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/smk'
               rel: null
               target: _blank
               title: null
-        text: 'Duke Street'
+        text: 'Greater Anglia website'
       -
         type: text
-        text: ' car park a five minute walk away or '
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are a number of public and supermarket car parks close to the Stowmarket Library. The nearest car park is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              href: 'https://www.babergh.gov.uk/web/mid-suffolk/w/union-street-car-park-1'
               rel: null
               target: _blank
               title: null
-        text: 'Crown car park'
+        text: 'Union Street Car Park'
       -
         type: text
-        text: ' a six minute walk away. There are two accessible carpark spaces for blue badge holders in The Hold car park.'
+        text: ', a four minute walk away or at '
       -
-        type: hardBreak
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/meadow_centre/ip14/stowmarket/?arriving=202405291430&leaving=202405291630#google_vignette'
+              rel: null
+              target: _blank
+              title: null
+        text: ASDA
       -
-        type: hardBreak
+        type: text
+        text: ' a five minute walk away.'
+  -
+    type: paragraph
+    content:
       -
         type: text
         text: 'Plan your journey using '
@@ -123,6 +140,6 @@ directions:
       -
         type: text
         text: .
-address_line_1: '131 Fore Street'
+address_line_2: 'Milton Road North'
 ---
 Get crafty with Suffolk Archives this summer.
