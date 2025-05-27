@@ -1,6 +1,5 @@
 ---
 id: 54bafb51-e835-465f-9826-a5c0e4413b47
-published: false
 blueprint: events
 title: "Let's Get Crafty - Anchors Away! (Duplicated)"
 event_categories:
@@ -9,8 +8,8 @@ event_categories:
   - museums
 organisers:
   - suffolk-archives
-start_date: '2025-08-19 10:30'
-end_date: '2025-08-19 12:30'
+start_date: '2025-08-26 10:30'
+end_date: '2025-08-26 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -33,9 +32,9 @@ content_area:
       -
         type: text
         text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-ajzvad&target=&iframe=true'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jqdege&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748361231
+updated_at: 1748361692
 duplicated_from: 194a5e08-825d-419e-b99b-a0dc79151736
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
