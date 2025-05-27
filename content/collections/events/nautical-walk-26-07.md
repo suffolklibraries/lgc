@@ -2,12 +2,12 @@
 id: 8720e141-94c1-459f-9e31-39387addf908
 published: false
 blueprint: events
-title: 'Arrivals: Community Celebration (Duplicated)'
+title: 'Walk - All Things Nautical'
 organisers:
   - suffolk-archives
-start_date: '2025-06-14 11:00'
-end_date: '2025-06-14 16:00'
-free: true
+start_date: '2025-07-26 14:00'
+end_date: '2025-07-26 16:00'
+free: false
 virtual: false
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
@@ -22,19 +22,10 @@ content_area:
     content:
       -
         type: text
-        text: 'In addition to a cake competition, a fashion show and a range of performances, we’ll be hosting a community buffet from around the world. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "We’ll also showcase some of the results from this project. So come, bring, share, enjoy and celebrate with us.\_"
+        text: 'Ipswich has been a River Port since the 7th Century, discover its history and recent redevelopment on this Waterside Walk, and hear tales of sailors and smugglers, shipbuilding and the Press Gang.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748345358
+updated_at: 1748362543
 duplicated_from: 080959bd-b5c2-4354-b63f-2a7e7d677ebc
-featured_image: pelicanpelican-3x2/support.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -45,19 +36,13 @@ cta: |-
   [01473 296666](tel:01473296666)
 address_line_2: 'Fore Street'
 event_categories:
-  - art
   - movement
-  - theatre-and-performance
   - teen
   - family-friendly
+  - museums
 accessibility_information:
-  - 'Wheelchair accessible'
-  - 'Hearing loop available'
-  - 'Quiet space available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-  - 'Relaxed performance'
-  - 'Drop-in event'
 building_name: 'The Hold'
 directions:
   -
@@ -135,6 +120,7 @@ directions:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold-ipswich-home-of-suffolk-archives/arrivals-community-celebration/2025-06-14/11:00/t-avxmmdd'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-ajqbbk&target=&iframe=true'
+cost_details: £5
 ---
-Come and celebrate the end of our Arrivals: Celebrating Migration to Suffolk Project.
+Join Suffolk Archives' heritage walks this summer.
