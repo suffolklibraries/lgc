@@ -34,7 +34,7 @@ content_area:
         text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-oeqxqm&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748360679
+updated_at: 1748360709
 duplicated_from: 0ea77bcf-510f-40ea-8601-e3e811a1bd7f
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
