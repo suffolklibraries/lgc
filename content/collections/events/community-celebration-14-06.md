@@ -21,7 +21,7 @@ content_area:
     content:
       -
         type: text
-        text: 'n addition to a cake competition, a fashion show and a range of performances, we’ll be hosting a community buffet from around the world. '
+        text: 'In addition to a cake competition, a fashion show and a range of performances, we’ll be hosting a community buffet from around the world. '
   -
     type: paragraph
     attrs:
@@ -31,7 +31,7 @@ content_area:
         type: text
         text: "We’ll also showcase some of the results from this project. So come, bring, share, enjoy and celebrate with us.\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748344585
+updated_at: 1748345358
 duplicated_from: 16f1ba94-a227-4b5c-8fe8-c0db4a5c6b64
 featured_image: pelicanpelican-3x2/support.png
 cta: |-
