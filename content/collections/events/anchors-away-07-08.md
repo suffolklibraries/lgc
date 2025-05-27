@@ -34,7 +34,7 @@ content_area:
         text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
 booking_link: 'https://www.ticketsource.co.uk/booking/select/zdjmyyqwmwgk'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748360561
+updated_at: 1748360706
 duplicated_from: b20fcbc7-9101-41a3-91fa-1f85170df93b
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
@@ -123,4 +123,4 @@ directions:
         type: text
         text: .
 ---
-Get crafty with the Hold this summer.
+Get crafty with Suffolk Archives this summer.
