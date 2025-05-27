@@ -1,7 +1,7 @@
 ---
 id: 54bafb51-e835-465f-9826-a5c0e4413b47
 blueprint: events
-title: "Let's Get Crafty - Anchors Away! (Duplicated)"
+title: "Let's Get Crafty - Anchors Away!"
 event_categories:
   - art
   - family-friendly
@@ -34,7 +34,7 @@ content_area:
         text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jqdege&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748361692
+updated_at: 1748361726
 duplicated_from: 194a5e08-825d-419e-b99b-a0dc79151736
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
