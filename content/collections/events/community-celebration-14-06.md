@@ -1,13 +1,11 @@
 ---
 id: 080959bd-b5c2-4354-b63f-2a7e7d677ebc
-published: false
 blueprint: events
-title: 'Suffolk Pride Fringe - Youth Takeover (Duplicated)'
+title: 'Arrivals: Community Celebration'
 organisers:
   - suffolk-archives
-  - suffolk-pride
-start_date: '2025-06-21 11:45'
-end_date: '2025-06-21 16:00'
+start_date: '2025-06-14 11:00'
+end_date: '2025-06-14 16:00'
 free: true
 virtual: false
 latitude: '52.05322071930784'
@@ -23,7 +21,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The event begins with our mini march at 11:45am.'
+        text: 'n addition to a cake competition, a fashion show and a range of performances, we’ll be hosting a community buffet from around the world. '
   -
     type: paragraph
     attrs:
@@ -31,27 +29,11 @@ content_area:
     content:
       -
         type: text
-        text: 'Live music, open mic, games, stalls, the First pride bus, arts and crafts. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Enjoy a break from everything in The Retreat or the Quiet Room.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'No need to book, just come along.'
+        text: "We’ll also showcase some of the results from this project. So come, bring, share, enjoy and celebrate with us.\_"
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748334218
+updated_at: 1748344585
 duplicated_from: 16f1ba94-a227-4b5c-8fe8-c0db4a5c6b64
-featured_image: suffolk-pride/suffolk-pride-3x2.png
+featured_image: pelicanpelican-3x2/support.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -62,7 +44,6 @@ cta: |-
   [01473 296666](tel:01473296666)
 address_line_2: 'Fore Street'
 event_categories:
-  - activism
   - art
   - movement
   - theatre-and-performance
@@ -153,5 +134,6 @@ directions:
       -
         type: text
         text: .
+booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold-ipswich-home-of-suffolk-archives/arrivals-community-celebration/2025-06-14/11:00/t-avxmmdd'
 ---
-Join Suffolk Pride for our Youth Pride at The Hold.
+Come and celebrate the end of our Arrivals: Celebrating Migration to Suffolk Project.
