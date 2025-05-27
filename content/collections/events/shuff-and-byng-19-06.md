@@ -135,7 +135,7 @@ content_area:
         type: text
         text: 'Theatre maker Tony Lidington of Promenade Promotions is developing and writing Shuff & Byng, promising a celebration of the unique genius of both Rex Jameson and Douglas Byng.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748333731
+updated_at: 1748333830
 booking_link: 'https://easternangles.co.uk/event/shuff-byng-a-work-in-progress-sharing/'
 cta: |-
   This event is organised by Eastern Angles
