@@ -1,25 +1,22 @@
 ---
 id: d11e7853-3a98-4853-a6c7-a96eae340a55
-published: false
 blueprint: events
-title: "Let's Get Crafty - Anchors Away! (Duplicated)"
+title: 'Pirate Stories with Grethe Jensen'
 event_categories:
-  - art
   - family-friendly
   - museums
+  - literature
 organisers:
   - suffolk-archives
-start_date: '2025-08-26 10:30'
-end_date: '2025-08-26 12:30'
-free: true
+start_date: '2025-08-13 10:30'
+end_date: '2025-08-13 11:45'
+free: false
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-  - 'Relaxed performance'
-  - 'Drop-in event'
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 town: Ipswich
@@ -32,10 +29,18 @@ content_area:
     content:
       -
         type: text
-        text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jqdege&target=&iframe=true'
+        text: 'Join Grethe Mangala Jensen – aka Sandal Sticks Theatre – for a morning of swashbuckling pirate and seafaring storytelling. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "There will be two 30-minute sessions with a short comfort break in between.\_"
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-ajzvqd&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748361726
+updated_at: 1748422669
 duplicated_from: 54bafb51-e835-465f-9826-a5c0e4413b47
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
@@ -124,5 +129,6 @@ directions:
         type: text
         text: .
 address_line_1: '131 Fore Street'
+cost_details: '£4 per child'
 ---
-Get crafty with Suffolk Archives this summer.
+Swashbuckling stories!
