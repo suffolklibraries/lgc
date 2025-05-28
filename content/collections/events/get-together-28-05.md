@@ -229,5 +229,6 @@ event_categories:
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+published: false
 ---
 Free activities for children who live in Bury St Edmunds!
