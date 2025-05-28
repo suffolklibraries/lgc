@@ -1,27 +1,20 @@
 ---
 id: e6171445-7a14-49cd-a801-985dcad57cf4
-published: false
 blueprint: events
-title: 'Sea Shanties with The Silver Darlings (Duplicated)'
+title: 'Behind the Scenes Tours of The Hold'
 event_categories:
   - family-friendly
   - museums
-  - literature
-  - music
-  - theatre-and-performance
 organisers:
   - suffolk-archives
-start_date: '2025-09-13 14:00'
-end_date: '2025-09-13 16:00'
+start_date: '2025-09-13 11:00'
+end_date: '2025-09-13 15:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-  - 'Relaxed performance'
-  - 'Drop-in event'
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 town: Ipswich
@@ -34,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'As part of Heritage Open Days, join us for a special free performance by The Silver Darlings all-female Sea Shanty Crew. '
+        text: 'Join one of our team on a free behind the scenes tour of our Award wining archive building, whilst showcasing the amazing collections and resources available at The Hold, Ipswich.'
   -
     type: paragraph
     attrs:
@@ -42,12 +35,12 @@ content_area:
     content:
       -
         type: text
-        text: "Join in and sing along to classic shanties telling the story of the sea.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-gydgev&target=&iframe=true'
+        text: 'Tours start at 11am, 12pm, and 2pm. '
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-lkdaoa&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748422995
+updated_at: 1748423108
 duplicated_from: 4e19e420-9109-4d3c-8d74-a4fc1cd72eec
-featured_image: pelicanpelican-3x2/music.png
+featured_image: suffolkarchives/the-hold-3x2.png
 cta: |-
   This event is organised by Suffolk Archives
 
