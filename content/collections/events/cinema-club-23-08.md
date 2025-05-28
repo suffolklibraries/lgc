@@ -1,8 +1,7 @@
 ---
 id: 4fba9c76-d69b-4944-b5de-83b716248a96
-published: false
 blueprint: events
-title: 'Cinema Club: Hook (Duplicated)'
+title: 'Cinema Club: Muppet Treasure Island'
 event_categories:
   - family-friendly
   - museums
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-archives
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-08-16 10:00'
-end_date: '2025-08-16 12:00'
+start_date: '2025-08-23 10:00'
+end_date: '2025-08-23 12:00'
 free: false
 cost_details: '£2 per ticket, adults free'
 virtual: false
@@ -109,7 +108,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this 1991 fantasy adventure a grown-up Peter Pan must rediscover his youthful spirit and return to Neverland to rescue his kidnapped children from his old nemesis, Captain Hook. '
+        text: 'In this 1995 musical classic Jim, a young orphan, and his friends join Kermit and crew and embark on a voyage to find treasure on a remote island, and go to war against ruthless pirates. '
   -
     type: paragraph
     attrs:
@@ -117,8 +116,8 @@ content_area:
     content:
       -
         type: text
-        text: 'Film rating PG, running time 2hrs 16min.'
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-xzgazv&target=&iframe=true'
+        text: 'Film rating U, ​running time 1hr 40 min.'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-vxqaxa&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -128,7 +127,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748422751
+updated_at: 1748422800
 duplicated_from: 286af783-a560-4bba-b169-e1fd55c92d25
 ---
-Join us to watch Hook at our Cinema Club
+Join us to watch Muppet Treasure Island at our Cinema Club
