@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: "Text reads ' Suffolk Archives'"
 size: 3950
 last_modified: 1748422369
 width: 400
