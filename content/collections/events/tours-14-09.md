@@ -1,15 +1,14 @@
 ---
 id: 72fa1175-29a0-49fc-90ac-dbd8fec12f5f
-published: false
 blueprint: events
-title: 'Behind the Scenes Tours of The Hold (Duplicated)'
+title: 'Behind the Scenes Tours of The Hold'
 event_categories:
   - family-friendly
   - museums
 organisers:
   - suffolk-archives
-start_date: '2025-09-13 11:00'
-end_date: '2025-09-13 15:00'
+start_date: '2025-09-14 11:00'
+end_date: '2025-09-14 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -39,7 +38,7 @@ content_area:
         text: 'Tours start at 11am, 12pm, and 2pm. '
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-lkdaoa&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748423108
+updated_at: 1748423128
 duplicated_from: e6171445-7a14-49cd-a801-985dcad57cf4
 featured_image: suffolkarchives/the-hold-3x2.png
 cta: |-
