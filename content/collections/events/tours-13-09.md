@@ -38,7 +38,7 @@ content_area:
         text: 'Tours start at 11am, 12pm, and 2pm. '
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-lkdaoa&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748423108
+updated_at: 1748423137
 duplicated_from: 4e19e420-9109-4d3c-8d74-a4fc1cd72eec
 featured_image: suffolkarchives/the-hold-3x2.png
 cta: |-
