@@ -1,16 +1,15 @@
 ---
 id: 4b6bb042-b4e0-49b2-a57d-86432d1154c2
-published: false
 blueprint: events
-title: 'Pirate Stories with Grethe Jensen (Duplicated)'
+title: 'Seafaring Stories with Hannah Brailsford'
 event_categories:
   - family-friendly
   - museums
   - literature
 organisers:
   - suffolk-archives
-start_date: '2025-08-13 10:30'
-end_date: '2025-08-13 11:45'
+start_date: '2025-08-28 10:30'
+end_date: '2025-08-28 11:45'
 free: false
 virtual: false
 accessibility_information:
@@ -30,7 +29,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Grethe Mangala Jensen – aka Sandal Sticks Theatre – for a morning of swashbuckling pirate and seafaring storytelling. '
+        text: 'Professional storyteller Hannah Brailsford joins us for a morning of seafaring and exploring themed stories. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Keep an eye out for one of two pirates as well! '
   -
     type: paragraph
     attrs:
@@ -39,9 +46,9 @@ content_area:
       -
         type: text
         text: "There will be two 30-minute sessions with a short comfort break in between.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-ajzvqd&target=&iframe=true'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-zomadj&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748422669
+updated_at: 1748422870
 duplicated_from: d11e7853-3a98-4853-a6c7-a96eae340a55
 featured_image: suffolkarchives/anchors-away-3x2.png
 cta: |-
@@ -132,4 +139,4 @@ directions:
 address_line_1: '131 Fore Street'
 cost_details: '£4 per child'
 ---
-Swashbuckling stories!
+Join to hear stories of nautical adventures.
