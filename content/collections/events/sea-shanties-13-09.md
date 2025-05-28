@@ -1,23 +1,26 @@
 ---
 id: 4e19e420-9109-4d3c-8d74-a4fc1cd72eec
-published: false
 blueprint: events
-title: 'Seafaring Stories with Hannah Brailsford (Duplicated)'
+title: 'Sea Shanties with The Silver Darlings'
 event_categories:
   - family-friendly
   - museums
   - literature
+  - music
+  - theatre-and-performance
 organisers:
   - suffolk-archives
-start_date: '2025-08-28 10:30'
-end_date: '2025-08-28 11:45'
-free: false
+start_date: '2025-09-13 14:00'
+end_date: '2025-09-13 16:00'
+free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+  - 'Relaxed performance'
+  - 'Drop-in event'
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 town: Ipswich
@@ -30,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Professional storyteller Hannah Brailsford joins us for a morning of seafaring and exploring themed stories. '
+        text: 'As part of Heritage Open Days, join us for a special free performance by The Silver Darlings all-female Sea Shanty Crew. '
   -
     type: paragraph
     attrs:
@@ -38,20 +41,12 @@ content_area:
     content:
       -
         type: text
-        text: 'Keep an eye out for one of two pirates as well! '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "There will be two 30-minute sessions with a short comfort break in between.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-zomadj&target=&iframe=true'
+        text: "Join in and sing along to classic shanties telling the story of the sea.\_"
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-gydgev&target=&iframe=true'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748422870
+updated_at: 1748422995
 duplicated_from: 4b6bb042-b4e0-49b2-a57d-86432d1154c2
-featured_image: suffolkarchives/anchors-away-3x2.png
+featured_image: pelicanpelican-3x2/music.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -138,6 +133,5 @@ directions:
         type: text
         text: .
 address_line_1: '131 Fore Street'
-cost_details: '£4 per child'
 ---
-Join to hear stories of nautical adventures.
+Explore Suffolk Archives on Heritage Open Days.
