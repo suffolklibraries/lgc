@@ -1,23 +1,23 @@
 ---
 id: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
 blueprint: events
-title: 'Cinema Club: Elf'
+title: 'Lates: Games Night'
 event_categories:
-  - family-friendly
   - museums
-  - film
+  - teen
 organisers:
   - suffolk-archives
-featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2024-12-07 10:00'
-end_date: '2024-12-07 11:30'
+featured_image: suffolkarchives/the-hold-3x2.png
+start_date: '2025-09-25 19:00'
+end_date: '2025-09-25 10:00'
 free: true
-cost_details: '£2 per child, adults free'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+  - 'Relaxed performance'
+  - 'Drop-in event'
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 building_name: 'The Hold'
@@ -44,7 +44,13 @@ directions:
         text: here
       -
         type: text
-        text: '. The nearest car park is at the '
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is at the '
       -
         type: text
         marks:
@@ -102,24 +108,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join Buddy the Elf on an adventure around New York City in search of his family, and on a quest to help Father Christmas save everyone's festive spirit."
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Film Rating U'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: '£2 per child, adults free'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Run time 1 hour 30 minutes'
+        text: 'There’ll be DnD sessions for beginners and experienced parties alike orr bring a team and have a go at Bloodbowl. '
   -
     type: paragraph
     attrs:
@@ -127,19 +116,8 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your tickets '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkjqka&target=&iframe=true'
-              rel: null
-              target: _blank
-              title: null
-        text: "via Suffolk Archives' TicketSource website."
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-jkjqka&target=&iframe=true'
+        text: 'There’ll be spaces to bring your own games and play too.'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-modmko&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -149,8 +127,8 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730388498
+updated_at: 1748423272
 duplicated_from: b79ab231-0fff-4681-a3cf-39da29584993
-published: false
+attendance_information: 'Ages 18+'
 ---
-Join in the festive fun at Suffolk Archives!
+Join us for another of our popular Games Night Lates.
