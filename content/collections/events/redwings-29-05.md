@@ -94,5 +94,6 @@ directions:
               title: null
         text: 'the Suffolk Onboard website.'
 booking_link: 'https://www.eastpointpavilion.com/events/redwings-childrens-crafts-games'
+published: false
 ---
 Fun for all the family

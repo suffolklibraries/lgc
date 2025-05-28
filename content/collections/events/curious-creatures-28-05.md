@@ -96,5 +96,6 @@ directions:
               title: null
         text: 'the Suffolk Onboard website.'
 booking_link: 'https://www.eastpointpavilion.com/events/animal-handling-with-angies-curious-creatures'
+published: false
 ---
 Exciting animal handling experience!
