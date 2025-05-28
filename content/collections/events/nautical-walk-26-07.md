@@ -1,6 +1,5 @@
 ---
 id: 8720e141-94c1-459f-9e31-39387addf908
-published: false
 blueprint: events
 title: 'Walk - All Things Nautical'
 organisers:
@@ -24,7 +23,7 @@ content_area:
         type: text
         text: 'Ipswich has been a River Port since the 7th Century, discover its history and recent redevelopment on this Waterside Walk, and hear tales of sailors and smugglers, shipbuilding and the Press Gang.'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748362543
+updated_at: 1748422384
 duplicated_from: 080959bd-b5c2-4354-b63f-2a7e7d677ebc
 cta: |-
   This event is organised by Suffolk Archives
@@ -122,5 +121,6 @@ directions:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-ajqbbk&target=&iframe=true'
 cost_details: £5
+featured_image: suffolkarchives/suffolk-archives-logo.x858d2c9a.webp
 ---
 Join Suffolk Archives' heritage walks this summer.
