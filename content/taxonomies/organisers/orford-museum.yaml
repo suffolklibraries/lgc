@@ -1,2 +1,14 @@
 title: 'Orford Museum'
 email_address: kim@orfordmuseum.org.uk
+addresses:
+  -
+    id: 6ef450a0-8c2d-4704-8332-dba8215a8f03
+    name: 'Orford Castle'
+    address_line_1: 'Orford Road'
+    address_line_2: Orford
+    town: Woodbridge
+    postcode: 'IP12 2ND'
+    lat: '52.094217'
+    lng: '1.530753'
+    directions: '<p></p>'
+    building_name: 'Orford Castle'
