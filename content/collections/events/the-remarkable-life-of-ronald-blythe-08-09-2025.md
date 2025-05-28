@@ -8,8 +8,6 @@ end_date: 2025-09-08T19:00:00+00:00
 free: false
 virtual: false
 attendance_information: Adults
-latitude: '52.0916581'
-longitude: '1.4652545'
 address_line_1: 'The Clumps'
 address_line_2: Butley
 building_name: 'Butley Priory'
@@ -26,11 +24,7 @@ content_area: |-
 
   <p>Ian Collins is a radio and television presenter, author, comedy writer and journalist. And for many years arts writer for the Eastern Daily Press. His numerous biographies and monographs include John Craxton: A Life of Gifts and James Dodds: The Blue Boat.</p>
 
-  <p>For Friends and guests, please use our online booking system - <a href="https://membermojo.co.uk/orfordmuseum/store">https://membermojo.co.uk/orfordmuseum/store</a></p>
-
-  <p>For non-Friends, please use our booking form - <a href="https://orfordmuseum.org.uk/non-friends-booking-form/">https://orfordmuseum.org.uk/non-friends-booking-form/</a></p>
-
-  <p>If you have any queries please email us at <a href="mailto:info@orfordmuseum.org.uk">info@orfordmuseum.org.uk</a></p>
+  <p>For Friends and guests, please use our online booking system -</p>
 cta: "This event is organised by the Orford Museum\r\ninfo@orfordmuseum.org.uk\r\nhttps://orfordmuseum.org.uk/"
 cost_details: 'Orford Museum Friends £15; non-Friends £20'
 created_by: bcc57038-b1e3-4681-b0fd-5078c28a32ed
