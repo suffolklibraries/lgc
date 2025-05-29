@@ -1,8 +1,7 @@
 ---
 id: c3c2b059-3f1e-4255-a71f-214b381f14f7
-published: false
 blueprint: events
-title: 'Summer Open Studio 2025 (Duplicated) (Duplicated)'
+title: 'Summer Open Studio 2025'
 event_categories:
   - art
   - community
@@ -108,7 +107,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748522683
+updated_at: 1748522727
 duplicated_from: 782bf11d-0d7f-4bf3-8eb3-ba8c20603dfe
 cost_details: £5
 ---
