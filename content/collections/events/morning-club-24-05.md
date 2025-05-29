@@ -11,11 +11,12 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-05-24 10:00'
-end_date: '2025-05-24 11:30'
+start_date: '2025-06-07 10:00'
+end_date: '2025-06-07 11:30'
 free: false
 virtual: false
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Autism friendly'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
@@ -93,9 +94,8 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747642853
+updated_at: 1748523020
 duplicated_from: 8269d180-69ca-483e-9e7b-b2e1326c20e2
 cost_details: £9
-published: false
 ---
 Ninety minutes of creative fun!
