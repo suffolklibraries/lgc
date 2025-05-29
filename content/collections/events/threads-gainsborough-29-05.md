@@ -126,5 +126,6 @@ directions:
         text: .
 building_name: 'Gainsborough Library'
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/threads-at-gainsborough-community-library'
+published: false
 ---
 threads is a poignant and powerful story about mental health, friendship and identity.
