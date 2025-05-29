@@ -230,5 +230,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: "34-40 St Olave's Road"
+published: false
 ---
 Free activities for children who live in Bury St Edmunds!
