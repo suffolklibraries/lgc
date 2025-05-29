@@ -1,8 +1,7 @@
 ---
 id: a938e35b-1239-47cc-b462-a19085d07549
-published: false
 blueprint: events
-title: 'Saturday Art Club - morning (Duplicated)'
+title: 'Saturday Art Club - morning'
 event_categories:
   - art
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-07-12 10:00'
-end_date: '2025-07-12 11:30'
+start_date: '2025-07-19 10:00'
+end_date: '2025-07-19 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -95,7 +94,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748523205
+updated_at: 1748523218
 duplicated_from: 10e6dfb1-ccaa-4dae-a42c-e5cb2adccb3b
 cost_details: £9
 ---
