@@ -140,6 +140,6 @@ organisers:
 latitude: '52.09184969111204'
 longitude: '1.465346256020226'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748332716
+updated_at: 1748508257
 ---
 A musical performance of Shakespeare’s A Midsummer Night’s Dream.
