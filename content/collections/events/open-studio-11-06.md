@@ -1,8 +1,7 @@
 ---
 id: 0e493ba1-36a3-434a-b985-06bb6c61ca07
-published: false
 blueprint: events
-title: 'Summer Open Studio 2025 (Duplicated)'
+title: 'Summer Open Studio 2025'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-06-04 10:00'
-end_date: '2025-06-04 15:00'
+start_date: '2025-06-11 10:00'
+end_date: '2025-06-11 15:00'
 free: false
 virtual: false
 accessibility_information:
@@ -108,7 +107,7 @@ cta: |-
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748522643
+updated_at: 1748522662
 duplicated_from: 3eec71d6-5ccd-40df-9ee0-f4cff1b6665c
 cost_details: £5
 ---
