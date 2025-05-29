@@ -1,21 +1,20 @@
 ---
 id: 3eec71d6-5ccd-40df-9ee0-f4cff1b6665c
 blueprint: events
-title: 'Spring Open Studio 2025'
+title: 'Summer Open Studio 2025'
 event_categories:
   - art
-  - later-years
   - community
   - wellbeing
 organisers:
   - rock-paper-scissors
 featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-05-28 09:00'
-end_date: '2025-05-28 15:00'
-free: true
+start_date: '2025-06-04 10:00'
+end_date: '2025-06-04 15:00'
+free: false
 virtual: false
-attendance_information: 'open to all'
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Drop-in event'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
@@ -86,22 +85,30 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us on Wednesdays at our Dove Street studio for a drop-in creative working session between 9-3 pm.'
+        text: 'If you are looking for a space to come and be creative on your own terms, join us on Wednesdays at our Dove Street studio for a drop-in creative working session between 10-3 pm.'
       -
         type: hardBreak
       -
         type: hardBreak
       -
         type: text
-        text: 'We are supported by Ipswich Borough Council, with their help we aim to reduce isolation and promote mental wellness in adults through creativity and community. Each session will include a theme/prompt to work from or just come along with your own projects.'
+        text: 'We are supported by Ipswich Borough Council, with their help we aim to reduce isolation and promote mental wellness in adults through creativity and community. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Each session will include a theme/prompt to work from or just come along with your own projects.'
 booking_link: 'https://www.rockpaperscissors.org.uk/programme'
 cta: |-
   This event is run by Rock Paper Scissors
 
   [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747642610
+updated_at: 1748522643
 duplicated_from: 40ebbeae-ac27-4158-90b3-b54d5bcda60c
-published: false
+cost_details: £5
 ---
 Come and be creative on your own terms.
