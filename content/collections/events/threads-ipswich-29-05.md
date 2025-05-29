@@ -194,5 +194,6 @@ directions:
         text: .
 building_name: 'Ipswich County Library'
 booking_link: 'https://www.suffolklibraries.co.uk/events/events/threads-at-ipswich-county-library'
+published: false
 ---
 threads is a poignant and powerful story about mental health, friendship and identity.

@@ -79,5 +79,6 @@ accessibility_information:
 attendance_information: 'family friendly'
 booking_link: 'https://www.brittenpearsarts.org/events/half-term-nature-day'
 cost_details: '£5 per child'
+published: false
 ---
 Enjoy nature bursting to life at The Red House.
