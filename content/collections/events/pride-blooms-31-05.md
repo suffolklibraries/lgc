@@ -161,5 +161,6 @@ cta: |-
 
   [info@suffolkpride.org.uk](mailto:info@suffolkpride.org.uk)
 duplicated_from: 7a7d37d1-29e7-4a57-9039-0e59f11f420d
+published: false
 ---
 Join us for the start of Pride 2025!
