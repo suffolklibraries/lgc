@@ -192,5 +192,6 @@ updated_at: 1743583350
 duplicated_from: 83298dd3-6073-4105-84e3-b5cf133ec444
 latitude: '52.09386265265452'
 longitude: '1.3176599995179699'
+published: false
 ---
 A 12 week wellbeing programme with creative and mindful activities.
