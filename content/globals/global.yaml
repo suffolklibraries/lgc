@@ -11,36 +11,28 @@ data:
   social_links:
     -
       id: YUYeD17u
-      link: 'https://www.facebook.com/SuffolkLibraries/'
+      link: 'https://www.facebook.com/SuffolkCommunityLibraries'
       icon: facebook
     -
       id: 7CwqZNJw
-      link: 'https://twitter.com/suffolklibrary'
+      link: 'https://x.com/SCLibraries'
       icon: twitter
     -
       id: eRLZbFNc
-      link: 'https://www.instagram.com/suffolklibraries'
+      link: 'https://www.instagram.com/suffolk_community_libraries/'
       icon: instagram
-    -
-      id: M7Wmbw0C
-      link: 'https://www.youtube.com/user/SuffolkLibraries'
-      icon: youtube
-    -
-      id: oLCEFipO
-      link: 'https://open.spotify.com/show/36qSnIxRfApjdCWOkmCIuy?si=TimTK26PREqiorXgYxQHsg&dl_branch=1'
-      icon: spotify
   footer_links_title: 'Legal, privacy & cookies'
   footer_links:
     -
       id: 0KNlpwA1
       text: 'Cookie Policy'
-      url: 'https://www.suffolklibraries.co.uk/legal/cookie-policy'
+      url: 'https://www.suffolk.gov.uk/about/cookies'
       type: new_set
       enabled: true
     -
       id: m1oy4d95
       text: 'Privacy Policy'
-      url: 'https://www.suffolklibraries.co.uk/legal/full-privacy-notice'
+      url: 'https://www.suffolk.gov.uk/about/privacy-and-data-protection'
       type: new_set
       enabled: true
     -
@@ -94,9 +86,9 @@ data:
             -
               type: link
               attrs:
-                href: 'https://www.suffolklibraries.co.uk/whats-on'
+                href: 'https://suffolkcommunitylibraries.co.uk/events/'
                 rel: null
-                target: null
+                target: _blank
                 title: null
           text: 'Find out what’s on at your library'
-  disclaimer_content: 'Please note that Suffolk Libraries is not responsible for booking, changes to event activity or cancellations.  For any enquiries or further information about this event please contact the event provider via the contact details above.'
+  disclaimer_content: 'Please note that Suffolk Community Libraries is not responsible for booking, changes to event activity or cancellations.  For any enquiries or further information about this event please contact the event provider via the contact details above.'
