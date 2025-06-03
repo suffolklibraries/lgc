@@ -6,6 +6,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 2
     content:
       -
@@ -16,13 +17,16 @@ content_area:
         text: 'Digital Accessibility Statement for suffolklibraries.co.uk'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Suffolk Libraries is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.'
+        text: 'Suffolk Community Libraries is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.'
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -33,10 +37,26 @@ content_area:
         text: 'Measures to support accessibility'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Suffolk Libraries takes the following measures to ensure accessibility of suffolklibraries.co.uk:'
+        text: 'Suffolk Community Libraries takes the following measures to ensure accessibility of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkcommunitylibraries.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: suffolkcommunitylibraries.co.uk
+      -
+        type: text
+        text: ':'
   -
     type: bulletList
     content:
@@ -45,6 +65,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -54,6 +76,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -61,6 +85,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -71,6 +96,8 @@ content_area:
         text: 'Conformance status'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -92,6 +119,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -102,10 +130,40 @@ content_area:
         text: Feedback
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'We welcome your feedback on the accessibility of suffolklibraries.co.uk. Please let us know if you encounter accessibility barriers on suffolklibraries.co.uk:'
+        text: 'We welcome your feedback on the accessibility of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkcommunitylibraries.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: suffolkcommunitylibraries.co.uk
+      -
+        type: text
+        text: '. Please let us know if you encounter accessibility barriers on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkcommunitylibraries.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: suffolkcommunitylibraries.co.uk
+      -
+        type: text
+        text: ':'
   -
     type: bulletList
     content:
@@ -114,6 +172,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -123,6 +183,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -133,22 +195,26 @@ content_area:
                   -
                     type: link
                     attrs:
-                      href: 'mailto:help@suffolklibraries.co.ukhelp@suffolklibraries.co.ukhelp@suffolklibraries.co.uk'
+                      href: 'mailto:library.help@suffolk.gov.uk'
                       rel: null
                       target: null
                       title: null
-                text: help@suffolklibraries.co.uk
+                text: library.help@suffolk.gov.uk
       -
         type: listItem
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
                 text: 'Postal address: Ipswich County Library, Ipswich, IP1 3DE'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -156,6 +222,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -166,10 +233,26 @@ content_area:
         text: 'Technical specifications'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Accessibility of suffolklibraries.co.uk relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:'
+        text: 'Accessibility of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkcommunitylibraries.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: suffolkcommunitylibraries.co.uk
+      -
+        type: text
+        text: ' relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:'
   -
     type: bulletList
     content:
@@ -178,12 +261,16 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
                 text: HTML
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -191,6 +278,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -201,16 +289,34 @@ content_area:
         text: 'Limitations and alternatives'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'Despite our best efforts to ensure accessibility of suffolklibraries.co.uk, there may be some limitations. Below is a description of known limitations, and potential solutions. Please contact us if you observe an issue not listed below.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Known limitations for suffolklibraries.co.uk:'
+        text: 'Known limitations for '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkcommunitylibraries.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: suffolkcommunitylibraries.co.uk
+      -
+        type: text
+        text: ':'
   -
     type: orderedList
     attrs:
@@ -221,6 +327,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -230,10 +338,25 @@ content_area:
                 text: 'Some images do not contain appropriate alt text for screen readers'
               -
                 type: text
-                text: ': Some images have no appropriate alt text, mainly because old content has been imported on several occasions over a period of seven years. All web editors have been trained in appplying meaningful alt text to images and have been asked to update CMS images where they find missing text. Please report any images which do not alt text to help@suffolklibraries.co.uk.'
+                text: ': Some images have no appropriate alt text, mainly because old content has been imported on several occasions over a period of seven years. All web editors have been trained in appplying meaningful alt text to images and have been asked to update CMS images where they find missing text. Please report any images which do not alt text to '
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'mailto:library.help@suffolk.gov.uk'
+                      rel: null
+                      target: null
+                      title: null
+                text: library.help@suffolk.gov.uk
+              -
+                type: text
+                text: .
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -244,10 +367,26 @@ content_area:
         text: 'Assessment approach'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Suffolk Libraries assessed the accessibility of suffolklibraries.co.uk by the following approaches:'
+        text: 'Suffolk Libraries assessed the accessibility of '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkcommunitylibraries.co.uk/'
+              rel: null
+              target: _blank
+              title: null
+        text: suffolkcommunitylibraries.co.uk
+      -
+        type: text
+        text: ' by the following approaches:'
   -
     type: bulletList
     content:
@@ -256,6 +395,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -276,6 +417,8 @@ content_area:
         content:
           -
             type: paragraph
+            attrs:
+              textAlign: left
             content:
               -
                 type: text
@@ -283,6 +426,7 @@ content_area:
   -
     type: heading
     attrs:
+      textAlign: left
       level: 3
     content:
       -
@@ -293,6 +437,8 @@ content_area:
         text: 'Formal complaints'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -303,9 +449,9 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/about/legal-information/complaints-procedure'
+              href: 'https://www.suffolk.gov.uk/about/compliments-and-complaints'
               rel: null
-              target: null
+              target: _blank
               title: null
         text: 'complaints policy'
       -
@@ -313,6 +459,8 @@ content_area:
         text: .
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -331,6 +479,8 @@ content_area:
       -
         type: text
         text: .
-updated_by: a720ec70-17d4-4534-b9e4-f0e078465928
-updated_at: 1713968400
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1748939714
+parent: home
+hide_sidebar: false
 ---
