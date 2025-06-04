@@ -1,13 +1,12 @@
 ---
 id: c3b5cde5-a34f-4cb4-9525-1354e6a40733
-published: false
 blueprint: events
-title: 'Teen Chill - Brandon (Duplicated)'
+title: 'Teen Chill - Brandon'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-06-27 19:00'
-end_date: '2025-06-27 21:00'
+start_date: '2025-07-04 19:00'
+end_date: '2025-07-04 21:00'
 free: false
 virtual: false
 latitude: '52.446042619189946'
@@ -184,7 +183,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749052299
+updated_at: 1749052320
 duplicated_from: 7b547c25-6a6f-4503-9de9-1e126ba4d15e
 event_categories:
   - wellbeing
