@@ -1,8 +1,7 @@
 ---
 id: a22c0aa0-fa5f-469f-857e-c4316f97ddc5
-published: false
 blueprint: events
-title: 'Hidden History of West Stow Country Park (Duplicated)'
+title: 'Hidden History of West Stow Country Park'
 event_categories:
   - nature
   - family-friendly
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - west-suffolk-council
 featured_image: west-stow-country-park/history-walk.jpg
-start_date: '2025-07-10 11:00'
-end_date: '2025-07-10 13:00'
+start_date: '2025-08-21 11:00'
+end_date: '2025-08-21 13:00'
 free: false
 cost_details: '£3 per person, under 16s free'
 virtual: false
@@ -116,7 +115,7 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749035315
+updated_at: 1749035345
 duplicated_from: 5704eb9b-2060-42a8-a6be-6ed4c399c2ee
 ---
 Discover some of its fascinating hidden history.
