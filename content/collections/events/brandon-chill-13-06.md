@@ -1,7 +1,7 @@
 ---
 id: dc962fb3-6821-4c53-84f3-d541ca64d0e5
 blueprint: events
-title: 'Teen Chill'
+title: 'Teen Chill - Brandon'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/teen-(1).png
@@ -183,7 +183,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749052243
+updated_at: 1749052256
 duplicated_from: ed186757-9827-4158-9fb5-37ef06426514
 event_categories:
   - wellbeing
