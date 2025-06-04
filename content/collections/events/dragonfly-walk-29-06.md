@@ -1,15 +1,16 @@
 ---
 id: 4d0047e6-2f3a-473d-a0cf-ce0f2aae29f6
 blueprint: events
-title: 'Bird Ringing at West Stow'
+title: 'Dragon and Damselfly Walks'
 event_categories:
   - nature
   - family-friendly
+  - wellbeing
 organisers:
   - west-suffolk-council
-featured_image: west-stow-country-park/bird-ringing.png
-start_date: '2025-03-23 10:00'
-end_date: '2025-03-23 11:00'
+featured_image: west-stow-country-park/dragonfly.jpg
+start_date: '2025-06-29 12:00'
+end_date: '2025-06-29 15:00'
 free: false
 cost_details: '£3 per person, under 16s free'
 virtual: false
@@ -91,14 +92,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Get up close and see the beautiful markings and help determine the ages of the birds we catch, and ring them so we can continue to track them in the future. No harm comes to the birds themselves, and you will learn a great deal about the reasons why we ring birds, and the huge benefit it has to monitoring bird populations.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Suitable for all ages, no experience needed.'
+        text: 'Take a guided walk along the River Lark with Adrian Parr, the County Dragonfly Recorder and find out what these amazing insects like to eat, where they live and much, much more.'
   -
     type: paragraph
     attrs:
@@ -106,22 +100,8 @@ content_area:
     content:
       -
         type: text
-        text: 'Book your place via the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=959347&ins=1501990'
-              rel: null
-              target: _blank
-              title: null
-        text: "What's On West Suffolk website"
-      -
-        type: text
-        text: .
-booking_link: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=959347&ins=1501990'
+        text: 'Walks last about an hour and start at midday or 2pm. '
+booking_link: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=910347&ins=1609390'
 cta: |-
   This event is organised by West Suffolk Council
 
@@ -129,8 +109,7 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730813867
+updated_at: 1749035111
 duplicated_from: 97d1a8bc-5ecc-4677-aa92-d5b8710c664f
-published: false
 ---
-Explore the life of birds at West Stow Country Park.
+Explore the world of these fascinating creatures as they start to emerge across the Country Park!
