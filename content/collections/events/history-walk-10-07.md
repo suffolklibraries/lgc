@@ -1,17 +1,17 @@
 ---
 id: 5704eb9b-2060-42a8-a6be-6ed4c399c2ee
-published: false
 blueprint: events
-title: 'Dragon and Damselfly Walks (Duplicated)'
+title: 'Hidden History of West Stow Country Park'
 event_categories:
   - nature
   - family-friendly
   - wellbeing
+  - museums
 organisers:
   - west-suffolk-council
-featured_image: west-stow-country-park/dragonfly.jpg
-start_date: '2025-08-09 12:00'
-end_date: '2025-08-09 15:00'
+featured_image: west-stow-country-park/history-walk.jpg
+start_date: '2025-07-10 11:00'
+end_date: '2025-07-10 13:00'
 free: false
 cost_details: '£3 per person, under 16s free'
 virtual: false
@@ -93,7 +93,12 @@ content_area:
     content:
       -
         type: text
-        text: 'Take a guided walk along the River Lark with Adrian Parr, the County Dragonfly Recorder and find out what these amazing insects like to eat, where they live and much, much more.'
+        text: 'Scattered throughout West Stow Country Park’s beautiful landscape are some fascinating tales about its hidden history.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'It is home to one of the only curved river locks in the Country and used to be home to the local authority’s tip site! Join this guided walk to find out more about the site’s lesser-known heritage.'
   -
     type: paragraph
     attrs:
@@ -101,8 +106,8 @@ content_area:
     content:
       -
         type: text
-        text: 'Walks last about an hour and start at midday or 2pm. '
-booking_link: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=910347&ins=1609390'
+        text: 'Walks last about two hours. '
+booking_link: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=904947&ins=1615390'
 cta: |-
   This event is organised by West Suffolk Council
 
@@ -110,7 +115,7 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749035172
+updated_at: 1749035315
 duplicated_from: 7a0d30c9-311b-42a7-ab95-49535badd7dc
 ---
-Explore the world of these fascinating creatures as they start to emerge across the Country Park!
+Discover some of its fascinating hidden history.
