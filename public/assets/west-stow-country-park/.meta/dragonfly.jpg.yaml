@@ -1,4 +1,5 @@
-data: {  }
+data:
+  alt: 'Blue dragonfly'
 size: 137987
 last_modified: 1749035015
 width: 2048
