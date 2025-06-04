@@ -1,8 +1,7 @@
 ---
 id: 5ed79d46-dbed-4b29-a4cf-7432ec7b4ec6
-published: false
 blueprint: events
-title: 'Dragon and Damselfly Walks (Duplicated)'
+title: 'Dragon and Damselfly Walks'
 event_categories:
   - nature
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - west-suffolk-council
 featured_image: west-stow-country-park/dragonfly.jpg
-start_date: '2025-07-12 12:00'
-end_date: '2025-07-12 15:00'
+start_date: '2025-07-26 12:00'
+end_date: '2025-07-26 15:00'
 free: false
 cost_details: '£3 per person, under 16s free'
 virtual: false
@@ -110,7 +109,7 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749035135
+updated_at: 1749035160
 duplicated_from: ef7c00e3-59d5-4998-b111-6e3fe5f2093b
 ---
 Explore the world of these fascinating creatures as they start to emerge across the Country Park!
