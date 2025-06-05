@@ -1,13 +1,12 @@
 ---
 id: 84d248c0-cc42-44cf-988b-64d96d8282c8
-published: false
 blueprint: events
-title: "Wellbeing Walk - Newmarket's Yellow Brick Road (Duplicated)"
+title: "Wellbeing Walk - Newmarket's Yellow Brick Road"
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-08-28 13:30'
-end_date: '2025-08-28 14:30'
+start_date: '2025-09-18 13:30'
+end_date: '2025-09-18 14:30'
 free: true
 virtual: false
 latitude: '52.24568425538917'
@@ -146,7 +145,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/newmarket-short-walk-severells-town-or-yellow-brick-road-1'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/newmarket-short-walk-severells-town-or-yellow-brick-road-2'
 cta: |-
   This event is organised by Ramblers
 
@@ -156,7 +155,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749127181
+updated_at: 1749127209
 duplicated_from: 670385c5-9d74-401a-8ebe-80f1c35ba427
 event_categories:
   - wellbeing
