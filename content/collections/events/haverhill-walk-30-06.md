@@ -1,13 +1,12 @@
 ---
 id: 63f4f84d-ce73-4e69-8037-25e60bd85841
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Haverhill Beginners (Duplicated) (Duplicated)'
+title: 'Wellbeing Walk - Haverhill Beginners'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-16 14:00'
-end_date: '2025-06-16 15:00'
+start_date: '2025-06-30 14:00'
+end_date: '2025-06-30 15:00'
 free: true
 virtual: false
 latitude: '52.08291779947758'
@@ -133,7 +132,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749130471
+updated_at: 1749130507
 duplicated_from: c9ed741f-93d6-4e7b-a4c3-9dce9c1454b0
 event_categories:
   - wellbeing
