@@ -1,13 +1,12 @@
 ---
 id: e151fa04-dbee-481a-81d7-154ca052cb7c
-published: false
 blueprint: events
-title: 'Wellbeing Walk and Talk - Stowmarket (Duplicated)'
+title: 'Wellbeing Walk and Talk - Stowmarket'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-09 10:00'
-end_date: '2025-06-09 10:00'
+start_date: '2025-06-23 10:00'
+end_date: '2025-06-23 10:00'
 free: true
 virtual: false
 latitude: '52.19544988359417'
@@ -113,7 +112,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749132200
+updated_at: 1749132227
 duplicated_from: c59cb101-bc4e-49e9-aa1d-cb4509de8e2b
 event_categories:
   - wellbeing
