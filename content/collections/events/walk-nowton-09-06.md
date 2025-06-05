@@ -1,13 +1,12 @@
 ---
 id: 96a2313a-a13d-4407-9a31-e0f5141b0185
-published: false
 blueprint: events
-title: 'Wellbeing Walk and Talk - Nowton Park (Duplicated)'
+title: 'Wellbeing Walk - Nowton Park'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-07 10:00'
-end_date: '2025-06-07 11:20'
+start_date: '2025-06-09 10:00'
+end_date: '2025-06-09 11:15'
 free: true
 virtual: false
 latitude: '52.226670849581645'
@@ -71,7 +70,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Join others for a leisurely chat and walk with others and Geoffrey around Nowton Park, with an opportunity to continue with cake and coffee after. '
+        text: 'There are an option of two walks of different lengths.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "You may be an absolute beginner, in poor health or recovering from poor health but we are here to help you improve your health at your own pace.\_ "
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Whether it's 50 minutes or 50 yards, we will help you along with fresh air and good company.\_ Longer walk goes around Nowton Park taking in all the flora and wildlife."
   -
     type: paragraph
     attrs:
@@ -111,7 +126,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749131191
+updated_at: 1749134211
 duplicated_from: c30cb663-430d-472f-a6da-d4952575741d
 event_categories:
   - wellbeing
@@ -120,4 +135,4 @@ event_categories:
   - movement
   - nature
 ---
-Explore Bury St Edmunds at a gentle pace.
+Explore Bury St Edmunds with an option of lengths.
