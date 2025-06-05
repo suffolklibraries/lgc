@@ -1,13 +1,12 @@
 ---
 id: 01892b7f-9cb0-472a-affd-42c719569096
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Nowton Park (Duplicated)'
+title: 'Wellbeing Walk - Nowton Park'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-09-29 10:00'
-end_date: '2025-09-29 11:15'
+start_date: '2025-10-06 10:00'
+end_date: '2025-10-06 11:15'
 free: true
 virtual: false
 latitude: '52.226670849581645'
@@ -127,7 +126,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749134505
+updated_at: 1749134547
 duplicated_from: c023ac75-9af1-43f1-80d8-b76f329081dd
 event_categories:
   - wellbeing
