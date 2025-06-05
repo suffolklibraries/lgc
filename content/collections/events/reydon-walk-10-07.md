@@ -53,7 +53,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet on Jubilee Green, opposite Sole Bay Health Centre, for this weekly walk.'
+        text: 'Meet on Jubilee Green, opposite Sole Bay Health Centre, for this wheelchair friendly walk.'
   -
     type: paragraph
     attrs:
@@ -128,7 +128,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749129050
+updated_at: 1749129097
 duplicated_from: 4290668e-c8df-433b-bd57-48f4ff5b1601
 event_categories:
   - wellbeing
