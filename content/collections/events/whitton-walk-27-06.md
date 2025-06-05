@@ -1,13 +1,12 @@
 ---
 id: a1e83af5-0b0e-4513-89e8-36c9e6b807e7
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Whitton to Akenham (Duplicated)'
+title: 'Wellbeing Walk - Whitton to Akenham'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-20 11:00'
-end_date: '2025-06-20 12:30'
+start_date: '2025-06-27 11:00'
+end_date: '2025-06-27 12:30'
 free: true
 virtual: false
 latitude: '52.083030168145534'
@@ -111,7 +110,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/whitton-akenham-walk-61'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/whitton-akenham-walk-62'
 cta: |-
   This event is organised by Ramblers
 
@@ -121,7 +120,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749129813
+updated_at: 1749129840
 duplicated_from: 47776f63-38be-4844-9cc0-7b0263d11a6b
 event_categories:
   - wellbeing
