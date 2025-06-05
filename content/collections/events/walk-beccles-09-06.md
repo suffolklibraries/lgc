@@ -1,14 +1,13 @@
 ---
 id: 335929ec-3142-4d12-b1da-22333b0a82d1
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Sutton Hoo Strollers'
+title: 'Wellbeing Walk - Beccles Town and Quayside'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749132392
-latitude: '52.09456252204828'
-longitude: '1.3410000833155278'
-start_date: '2025-06-05 10:30'
+updated_at: 1749133026
+latitude: '52.4591494822238'
+longitude: '1.5656788691474064'
+start_date: '2025-06-09 10:00'
 event_categories:
   - movement
   - wellbeing
@@ -18,8 +17,8 @@ free: true
 virtual: false
 organisers:
   - ramblers
-town: Woodbridge
-postcode: 'IP12 3DJ'
+town: Beccles
+postcode: 'NR34 9SJ'
 featured_image: pelicanpelican-3x2/wellbeing.png
 content_area:
   -
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a group led by trained Walk Leaders, Steve and Jane. '
+        text: 'Join the walk leaders on a town walk incorporating the quayside (if the weather is suitable). '
   -
     type: paragraph
     attrs:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Café is open for purchasing refreshments. Please note that people attending this walk are part of an organised group with OneLife Suffolk in partnership with the National Trust, and can only attend the walk. Should they wish to continue with their visit at Sutton Hoo, they will be required to re-enter as paying visitors.'
+        text: 'Dogs welcome but must be on a short lead at all times. '
   -
     type: paragraph
     attrs:
@@ -45,7 +44,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking is essential to attend this walk. Unfortunately, anyone who turns up will not be allowed to walk due to restrictions on numbers. '
+        text: 'Refreshments and toilets available before and after the walk either in Tesco or in the town. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "This walk is not suitable for wheelchair users due to the changing terrain.\_"
   -
     type: paragraph
     attrs:
@@ -89,9 +96,9 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
     - SEND support available
-end_date: '2025-06-05 11:30'
+end_date: '2025-06-09 11:00'
 duplicated_from: 4bf44695-b323-4035-9122-c373f3e12047
-building_name: 'Sutton Hoo'
+building_name: 'Tesco Superstore'
 directions:
   -
     type: paragraph
@@ -99,7 +106,52 @@ directions:
       -
         type: text
         text: 'There is onsite car parking.'
-address_line_1: 'Tranmer House'
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/sutton-hoo-strollers-booking-advised-not-essential-18'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Beccles railway station is five minute walk and you can find up to date timetables on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Greater Anglia website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: "The nearest bus stop is on Caxton Road a minute's walk away."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Plan your journey using '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard'
+      -
+        type: text
+        text: .
+address_line_1: 'George Westwood Way'
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
