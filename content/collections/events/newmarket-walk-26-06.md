@@ -5,8 +5,8 @@ title: "Wellbeing Walk - Newmarket's Yellow Brick Road"
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-26 09:30'
-end_date: '2025-06-26 10:30'
+start_date: '2025-06-26 13:30'
+end_date: '2025-06-26 14:30'
 free: true
 virtual: false
 latitude: '52.24568425538917'
@@ -155,7 +155,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749127089
+updated_at: 1749127134
 duplicated_from: 4290668e-c8df-433b-bd57-48f4ff5b1601
 event_categories:
   - wellbeing
