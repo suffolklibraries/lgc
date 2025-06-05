@@ -1,13 +1,14 @@
 ---
 id: 335929ec-3142-4d12-b1da-22333b0a82d1
+published: false
 blueprint: events
 title: 'Wellbeing Walk - Sutton Hoo Strollers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749125376
+updated_at: 1749132392
 latitude: '52.09456252204828'
 longitude: '1.3410000833155278'
-start_date: '2024-06-05 10:30'
+start_date: '2025-06-05 10:30'
 event_categories:
   - movement
   - wellbeing
@@ -88,7 +89,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
     - SEND support available
-end_date: '2024-06-05 11:30'
+end_date: '2025-06-05 11:30'
 duplicated_from: 4bf44695-b323-4035-9122-c373f3e12047
 building_name: 'Sutton Hoo'
 directions:
@@ -100,6 +101,5 @@ directions:
         text: 'There is onsite car parking.'
 address_line_1: 'Tranmer House'
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/sutton-hoo-strollers-booking-advised-not-essential-18'
-published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
