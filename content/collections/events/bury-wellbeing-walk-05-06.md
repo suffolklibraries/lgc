@@ -1,105 +1,98 @@
 ---
 id: e221517b-e80c-4500-ba2b-d8e39ec28858
-published: false
 blueprint: events
-title: 'Blank Page - Bury St Edmunds (Duplicated)'
+title: 'Wellbeing Walk - Explore Bury St Edmunds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724232355
+updated_at: 1749125034
 latitude: '52.248150770555625'
 longitude: '0.7114614702830845'
-start_date: '2024-07-30 09:45'
+start_date: '2024-06-05 10:15'
 event_categories:
-  - art
-  - computing
-  - music
+  - movement
+  - wellbeing
+  - later-years
+  - community
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
-address_line_1: 'Bury St Edmunds Library'
+  - ramblers
 address_line_2: "2B St Andrew's Street North"
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 1TZ'
-featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+featured_image: pelicanpelican-3x2/wellbeing.png
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Explore Bury St Edmunds on this town walk. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
+        text: 'Meeting place - outside Bury St Edmunds Library, opposite the bus station.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
+        text: 'Dogs welcome on leads, parking, toilets and refreshments available close by.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
+        text: 'No need to book, just turn up on the day. If this is your first walk you will be required to complete a registration form before the walk.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Visit '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
+              href: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks-groups/ramblers-wellbeing-walks-suffolk'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Libraries website'
+        text: 'the Ramblers website'
       -
         type: text
-        text: ' to find your nearest event.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: .
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to get there'
+        text: ' to find out more information and other Wellbeing Walks. '
+cta: |-
+  This event is organised by Ramblers
+
+  [https://www.ramblers.org.uk/](https://www.ramblers.org.uk/) 
+
+  [ramblers@ramblers.zendesk.com](mailto:ramblers@ramblers.zendesk.com)
+
+  [020 3961 3232](tel:02039613232)
+accessibility_information:
+  - |-
+    - Wheelchair access
+    - Indoor venue
+    - SEND support available
+end_date: '2024-07-05 11:30'
+duplicated_from: 8fd66c21-b616-4ef9-b4c4-848705fb8696
+building_name: 'Bury St Edmunds Library'
+directions:
   -
     type: paragraph
     content:
@@ -119,7 +112,13 @@ content_area:
         text: 'Suffolk Onboard website'
       -
         type: text
-        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
+        text: '.  '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
       -
         type: text
         marks:
@@ -173,26 +172,6 @@ content_area:
     content:
       -
         type: text
-        text: 'Find accessibility information for Bury St Edmunds Library on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
-              rel: null
-              target: _blank
-              title: null
-        text: AccessAble
-      -
-        type: text
-        text: '. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
         text: 'Plan your journey using '
       -
         type: text
@@ -208,20 +187,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Suffolk Libraries
-
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
-
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-16 15:30'
-duplicated_from: 8fd66c21-b616-4ef9-b4c4-848705fb8696
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+Enjoy a walk as you explore Suffolk's towns and countryside.
