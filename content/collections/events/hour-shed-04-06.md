@@ -11,7 +11,7 @@ start_date: '2025-06-04 10:00'
 end_date: '2025-06-07 17:00'
 free: false
 cost_details: '£30 for six month membership'
-virtual: true
+virtual: false
 attendance_information: 'People aged 18+'
 latitude: '52.210205539444345'
 longitude: '1.3424596613950572'
@@ -154,7 +154,7 @@ cta: |-
 
   [admin@hourcommunity.co.uk](mailto:admin@hourcommunity.co.uk)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742480856
+updated_at: 1749109608
 duplicated_from: 5614d952-0093-4c24-85f5-b47be30cae7d
 ---
 Socialise and share skills.
