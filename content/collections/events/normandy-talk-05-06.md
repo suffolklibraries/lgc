@@ -112,5 +112,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738685035
 duplicated_from: f9490ed7-9115-499a-87c9-59b203d5593f
+published: false
 ---
 This talk offers a fascinating and personal glimpse into the extraordinary feats of ordinary men during extraordinary times.
