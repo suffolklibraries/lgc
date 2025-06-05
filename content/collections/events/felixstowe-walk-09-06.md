@@ -1,48 +1,53 @@
 ---
 id: bb52c958-fb8f-4854-b612-835497581a0e
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Brandon (Duplicated)'
+title: 'Wellbeing Walk - Felixstowe'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-09 09:30'
-end_date: '2025-06-09 10:30'
+start_date: '2025-06-09 10:45'
+end_date: '2025-06-09 11:45'
 free: true
 virtual: false
-latitude: '52.446042619189946'
-longitude: '0.6158665410086791'
-building_name: 'Brandon Leisure Centre'
-address_line_1: 'Church Road'
-town: Brandon
-postcode: 'IP27 0JB'
+latitude: '51.95819209056438'
+longitude: '1.3454165133092502'
+building_name: 'Felixstowe Leisure Centre'
+address_line_1: '75 Undercliff Road West'
+town: Felixstowe
+postcode: 'IP11 2AE'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest bus stop is a '
+        text: "The nearest bus stop is a minute's walk away by the pier."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is onsite paid car parking.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Felixstowe railway station is a 22 minute walk away - find up to date train times on the'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Brandon+Leisure+Centre/Tesco+Main+Entrance,+Brandon+IP27+0EW/@52.4449953,0.6142848,17.75z/data=!4m14!4m13!1m5!1m1!1s0x47d830cb2fdab5d3:0xf788ef8935208b22!2m2!1d0.6158129!2d52.4459184!1m5!1m1!1s0x47d837334f30acd3:0x7c715c3b13254025!2m2!1d0.6175242!2d52.4444517!3e0?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/flx'
               rel: null
               target: _blank
               title: null
-        text: 'four minute walk away'
+        text: ' Greater Anglia website'
       -
         type: text
-        text: ' by Tesco. '
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is free onsite parking. '
+        text: .
   -
     type: paragraph
     content:
@@ -68,7 +73,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a friendly walk and stay for a cuppa after the walk.'
+        text: 'A slower paced walk suitable for people who are returning to being active or for those who want a gentle amble along the seafront.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Well behaved dogs are welcome on a short lead. There are toilets available at the leisure centre and refreshments available to purchase after the walk.'
   -
     type: paragraph
     attrs:
@@ -99,7 +112,6 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/brandon-abbeycroft-leisure-centre-wellbeing-walks-22'
 cta: |-
   This event is organised by Ramblers
 
@@ -109,7 +121,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749126502
+updated_at: 1749134035
 duplicated_from: 4290668e-c8df-433b-bd57-48f4ff5b1601
 event_categories:
   - wellbeing
@@ -117,8 +129,5 @@ event_categories:
   - later-years
   - movement
   - nature
-accessibility_information:
-  - 'Accessible parking spaces'
-attendance_information: 'The route can cover uneven ground.'
 ---
-A leisurely town and countryside walk.
+A gentle stroll along the prom and through Langer Park.
