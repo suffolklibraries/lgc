@@ -1,13 +1,12 @@
 ---
 id: 185b6a26-0569-4ee4-a7b2-bd46f1f6a102
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Reydon (Duplicated)'
+title: 'Wellbeing Walk - Reydon'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-07-10 10:30'
-end_date: '2025-07-10 11:45'
+start_date: '2025-08-14 10:30'
+end_date: '2025-08-14 11:45'
 free: true
 virtual: false
 latitude: '52.33659839060383'
@@ -119,7 +118,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/reydon-smear-grade-3-13'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/reydon-smear-grade-3-14'
 cta: |-
   This event is organised by Ramblers
 
@@ -129,7 +128,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749129097
+updated_at: 1749129260
 duplicated_from: 73cf307b-fb88-4d28-b824-79f2532ef4dd
 event_categories:
   - wellbeing
