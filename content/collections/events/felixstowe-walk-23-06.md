@@ -1,13 +1,12 @@
 ---
 id: 4c4480b2-e335-4db2-a68a-a6aa292fcde6
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Felixstowe (Duplicated)'
+title: 'Wellbeing Walk - Felixstowe'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-09 10:45'
-end_date: '2025-06-09 11:45'
+start_date: '2025-06-23 10:45'
+end_date: '2025-06-23 11:45'
 free: true
 virtual: false
 latitude: '51.95819209056438'
@@ -122,7 +121,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749134035
+updated_at: 1749134057
 duplicated_from: bb52c958-fb8f-4854-b612-835497581a0e
 event_categories:
   - wellbeing
