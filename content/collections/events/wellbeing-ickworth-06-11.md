@@ -1,14 +1,13 @@
 ---
 id: db7dce1a-6767-4cb5-8672-d0f446d4976d
-published: false
 blueprint: events
-title: 'Wellbeing on Wheels - Ickworth Estate (Duplicated) (Duplicated)'
+title: 'Wellbeing on Wheels - Ickworth Estate'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749126134
+updated_at: 1749126192
 latitude: '52.220563808639156'
 longitude: '0.656974212158819'
-start_date: '2024-09-04 10:15'
+start_date: '2024-11-06 10:15'
 event_categories:
   - movement
   - wellbeing
@@ -117,7 +116,7 @@ cta: |-
   [020 3961 3232](tel:02039613232)
 accessibility_information:
   - 'Wheelchair accessible'
-end_date: '2024-09-04 11:45'
+end_date: '2024-11-06 11:45'
 duplicated_from: ecb06a66-4b89-4153-836c-9d3f11c63c1a
 building_name: 'Ickworth Estate'
 directions:
@@ -128,6 +127,6 @@ directions:
         type: text
         text: 'There is onsite car parking.'
 address_line_1: Horringer
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/wellbeing-wheels-ickworth-estate-2'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/wellbeing-wheels-ickworth-estate-4'
 ---
 Explore Ickworth Estate on scooter or wheelchair.
