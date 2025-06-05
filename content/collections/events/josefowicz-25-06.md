@@ -7,9 +7,9 @@ longitude: '1.4967351727076355'
 start_date: '2025-06-25 19:30'
 end_date: '2025-06-25 20:50'
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738583295
+updated_at: 1749122950
 free: false
-virtual: true
+virtual: false
 organisers:
   - britten-pears-arts
 content_area:
