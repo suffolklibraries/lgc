@@ -125,5 +125,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1743607952
 duplicated_from: 6cf484dc-34c4-4ae8-a988-38d6ed9931b3
+published: false
 ---
 Make friends, bring your knitting, and stay for a chat.
