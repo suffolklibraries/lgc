@@ -1,48 +1,33 @@
 ---
 id: c59cb101-bc4e-49e9-aa1d-cb4509de8e2b
-published: false
 blueprint: events
-title: 'Wellbeing Walk and Talk - Nowton Park (Duplicated)'
+title: 'Wellbeing Walk and Talk - Stowmarket'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-07 10:00'
-end_date: '2025-06-07 11:20'
+start_date: '2025-06-09 10:00'
+end_date: '2025-06-09 10:00'
 free: true
 virtual: false
-latitude: '52.226670849581645'
-longitude: '0.7291930268107949'
-building_name: 'Nowton Park'
-address_line_1: 'Bury Road'
-town: 'Bury Saint Edmunds'
-postcode: 'IP29 5LU'
+latitude: '52.19544988359417'
+longitude: '0.9748981961175692'
+building_name: 'Stowmarket Rugby Club'
+address_line_1: 'Chilton Fields'
+town: Stowmarket
+postcode: 'IP14 1SZ'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is paid '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/nowton-park-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'onsite car parking'
-      -
-        type: text
-        text: .
+        text: 'There is on site parking. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is a bus stop at the park gates.'
+        text: 'The nearest bus stop is on Chilton Way, a three minute walk away. '
   -
     type: paragraph
     content:
@@ -71,7 +56,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join others for a leisurely chat and walk with others and Geoffrey around Nowton Park, with an opportunity to continue with cake and coffee after. '
+        text: "Join our walk leaders on a gentle 45-60 minute 'Walk and Talk', meeting at Stowmarket Rugby Club at Chiltern Fields. "
   -
     type: paragraph
     attrs:
@@ -79,7 +64,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet on the grass area near the car park pay machine in Nowton Park.'
+        text: "The walk starts at 10.00am, please arrive from 9.50am.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Dogs are welcome but must be on a short lead at all times.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Why not head back to Mid Suffolk Leisure Centre after the walk for a coffee and chat.\_Toilets are available at the leisure centre?"
   -
     type: paragraph
     attrs:
@@ -111,7 +112,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749131191
+updated_at: 1749132200
 duplicated_from: c30cb663-430d-472f-a6da-d4952575741d
 event_categories:
   - wellbeing
@@ -119,5 +120,6 @@ event_categories:
   - later-years
   - movement
   - nature
+address_line_2: 'Chilton Way'
 ---
-Explore Bury St Edmunds at a gentle pace.
+Explore Stowmarket at a gentle pace.
