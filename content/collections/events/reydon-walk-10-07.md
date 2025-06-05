@@ -1,48 +1,33 @@
 ---
 id: 73cf307b-fb88-4d28-b824-79f2532ef4dd
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Brandon (Duplicated)'
+title: 'Wellbeing Walk - Reydon'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-09 09:30'
-end_date: '2025-06-09 10:30'
+start_date: '2025-07-10 10:30'
+end_date: '2025-07-10 11:45'
 free: true
 virtual: false
-latitude: '52.446042619189946'
-longitude: '0.6158665410086791'
-building_name: 'Brandon Leisure Centre'
-address_line_1: 'Church Road'
-town: Brandon
-postcode: 'IP27 0JB'
+latitude: '52.33659839060383'
+longitude: '1.665841173278015'
+building_name: 'Sole Bay Health Centre'
+address_line_1: 'Teal Close'
+town: Southwold
+postcode: 'IP18 6GY'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest bus stop is a '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/dir/Brandon+Leisure+Centre/Tesco+Main+Entrance,+Brandon+IP27+0EW/@52.4449953,0.6142848,17.75z/data=!4m14!4m13!1m5!1m1!1s0x47d830cb2fdab5d3:0xf788ef8935208b22!2m2!1d0.6158129!2d52.4459184!1m5!1m1!1s0x47d837334f30acd3:0x7c715c3b13254025!2m2!1d0.6175242!2d52.4444517!3e0?entry=ttu&g_ep=EgoyMDI1MDYwMS4wIKXMDSoASAFQAw%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-        text: 'four minute walk away'
-      -
-        type: text
-        text: ' by Tesco. '
+        text: 'The nearest bus stop is a short walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is free onsite parking. '
+        text: 'Free parking in the health centre car park but please avoid parking there if it is busy. There are places to park safely on neighbouring roads.'
   -
     type: paragraph
     content:
@@ -68,7 +53,41 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a friendly walk and stay for a cuppa after the walk.'
+        text: 'Meet on Jubilee Green, opposite Sole Bay Health Centre, for this weekly walk.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Please note toilets are'
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "\_"
+      -
+        type: text
+        text: not
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: "\_"
+      -
+        type: text
+        text: 'available at the health centre.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We will take refreshments after the walk at the nearby Randolph hotel.'
   -
     type: paragraph
     attrs:
@@ -99,7 +118,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/brandon-abbeycroft-leisure-centre-wellbeing-walks-22'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/reydon-smear-grade-3-13'
 cta: |-
   This event is organised by Ramblers
 
@@ -109,7 +128,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749126502
+updated_at: 1749129050
 duplicated_from: 4290668e-c8df-433b-bd57-48f4ff5b1601
 event_categories:
   - wellbeing
@@ -118,7 +137,7 @@ event_categories:
   - movement
   - nature
 accessibility_information:
-  - 'Accessible parking spaces'
-attendance_information: 'The route can cover uneven ground.'
+  - 'Wheelchair accessible'
+address_line_2: Reydon
 ---
-A leisurely town and countryside walk.
+Enjoy a walk as you explore Suffolk's towns and countryside.
