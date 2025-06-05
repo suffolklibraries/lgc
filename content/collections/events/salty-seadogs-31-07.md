@@ -6,8 +6,8 @@ organisers:
   - suffolk-archives
 start_date: '2025-07-31 10:00'
 end_date: '2025-07-31 12:30'
-free: true
-virtual: true
+free: false
+virtual: false
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 address_line_1: '131'
@@ -39,7 +39,7 @@ content_area:
         type: text
         text: 'Sessions start 10am and 11.30am. '
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748345161
+updated_at: 1749122992
 duplicated_from: 080959bd-b5c2-4354-b63f-2a7e7d677ebc
 featured_image: pelicanpelican-3x2/literature.png
 cta: |-
