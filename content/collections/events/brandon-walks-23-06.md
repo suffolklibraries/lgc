@@ -1,13 +1,12 @@
 ---
 id: 676d593a-804d-497a-b067-50b3a3019a84
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Brandon (Duplicated)'
+title: 'Wellbeing Walk - Brandon'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-07-16 09:30'
-end_date: '2025-07-16 10:30'
+start_date: '2025-06-23 09:30'
+end_date: '2025-06-23 10:30'
 free: true
 virtual: false
 latitude: '52.446042619189946'
@@ -99,7 +98,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/brandon-abbeycroft-leisure-centre-wellbeing-walks-23'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/brandon-abbeycroft-leisure-centre-wellbeing-walks-24'
 cta: |-
   This event is organised by Ramblers
 
@@ -109,7 +108,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749126596
+updated_at: 1749126637
 duplicated_from: 9725dfc7-5526-4cf3-ad63-5a67fe9fb14a
 event_categories:
   - wellbeing
