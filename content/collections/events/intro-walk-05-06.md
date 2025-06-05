@@ -103,5 +103,6 @@ updated_at: 1747240832
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 6e0df8c3-9de6-4413-b233-55e63d286d4b
 address_line_1: 'Corton Road'
+published: false
 ---
 Free walking activities to keep you well.
