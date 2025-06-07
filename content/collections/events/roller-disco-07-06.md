@@ -124,5 +124,6 @@ accessibility_information:
   - 'Drop-in event'
 postcode: 'IP4 1LT'
 booking_link: 'https://suffolkpride.org.uk/pride-2025/'
+published: false
 ---
 The annual SRD Pride Roller Disco!
