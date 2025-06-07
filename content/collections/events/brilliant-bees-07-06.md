@@ -105,5 +105,6 @@ duplicated_from: b0048f9b-8564-4f9a-acb2-a2b7280cbf1e
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Foxburrow Nature Reserve'
+published: false
 ---
 Join our Engagement Officer for an un-bee-lievable walk!
