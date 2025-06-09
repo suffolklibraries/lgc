@@ -96,5 +96,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1747293734
 duplicated_from: cf877a1a-8ac8-43e4-bb6c-1b53a740c6a4
 booking_link: 'https://theseagull.co.uk/seagull_shows/your-story-a-free-creative-writing-workshop/'
+published: false
 ---
 Creative writing workshop is for writers of all levels and all genres
