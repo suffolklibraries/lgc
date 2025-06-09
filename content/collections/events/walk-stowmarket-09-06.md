@@ -121,5 +121,6 @@ event_categories:
   - movement
   - nature
 address_line_2: 'Chilton Way'
+published: false
 ---
 Explore Stowmarket at a gentle pace.
