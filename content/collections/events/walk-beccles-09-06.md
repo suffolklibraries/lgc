@@ -153,5 +153,6 @@ directions:
         type: text
         text: .
 address_line_1: 'George Westwood Way'
+published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.

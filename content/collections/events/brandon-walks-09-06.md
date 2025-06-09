@@ -119,5 +119,6 @@ event_categories:
 accessibility_information:
   - 'Accessible parking spaces'
 attendance_information: 'The route can cover uneven ground.'
+published: false
 ---
 A leisurely town and countryside walk.
