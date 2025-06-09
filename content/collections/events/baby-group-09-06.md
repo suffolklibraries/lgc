@@ -215,5 +215,6 @@ event_categories:
   - wellbeing
   - early-years
   - family-friendly
+published: false
 ---
 Join our friendly group.
