@@ -108,5 +108,6 @@ updated_at: 1747293849
 duplicated_from: d20ec86b-b5d6-46bc-ba3b-f8d329b60ae5
 booking_link: 'https://theseagull.co.uk/seagull_shows/one-to-one-playwriting-surgeries-for-underrepresented-writers/'
 attendance_information: 'underrepresented writers at all levels'
+published: false
 ---
 Led by award winning neurodivergent playwright and dramaturg Nicola Werenowska.
