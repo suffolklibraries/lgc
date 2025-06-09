@@ -143,5 +143,6 @@ event_categories:
   - nature
 accessibility_information:
   - 'Accessible parking spaces'
+published: false
 ---
 A leisurely walk for beginners.
