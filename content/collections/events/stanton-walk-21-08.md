@@ -4,7 +4,7 @@ blueprint: events
 title: 'Wellbeing Walk - Stanton'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749544732
+updated_at: 1749544743
 latitude: '52.32396002074019'
 longitude: '0.8832041115434863'
 start_date: '2025-08-21 10:00'
@@ -134,6 +134,6 @@ directions:
         type: text
         text: .
 address_line_1: 'Old Bury Road'
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/stanton-wellbeing-walk-near-bury-st-edmunds-39'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/stanton-wellbeing-walk-near-bury-st-edmunds-40'
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
