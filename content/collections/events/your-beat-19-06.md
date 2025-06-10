@@ -8,9 +8,9 @@ event_categories:
   - dance
 organisers:
   - the-cut
-featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-05-29 18:30'
-end_date: '2025-05-29 20:00'
+featured_image: pelicanpelican-3x2/wellbeing.png
+start_date: '2025-06-19 18:30'
+end_date: '2025-06-19 20:00'
 free: false
 cost_details: £10
 virtual: false
@@ -232,8 +232,8 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738687866
+updated_at: 1749547274
 duplicated_from: 8db6f8fd-4f9b-4831-a33b-d9f090e4f4c4
-published: false
+booking_link: 'https://thecut.org.uk/events/embody-your-beat/'
 ---
 If you don’t do your dance, who will?
