@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - the-cut
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-09-04 18:30'
-end_date: '2025-09-04 20:00'
+start_date: '2025-09-18 18:30'
+end_date: '2025-09-18 20:00'
 free: false
 cost_details: £10
 virtual: false
@@ -232,7 +232,7 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749548607
+updated_at: 1749548625
 duplicated_from: 7109a1b1-5a94-4823-b449-9eea1aac2a41
 booking_link: 'https://thecut.org.uk/events/embody-your-beat/'
 ---
