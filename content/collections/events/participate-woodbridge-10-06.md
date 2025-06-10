@@ -127,5 +127,6 @@ cta: |-
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1745848451
+published: false
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
