@@ -1,8 +1,7 @@
 ---
 id: 3df2b2cc-9403-48ca-903f-ab1391376f1e
-published: false
 blueprint: events
-title: 'Embody Your Beat (Duplicated)'
+title: 'Embody Your Beat'
 event_categories:
   - community
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-cut
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-19 18:30'
-end_date: '2025-06-19 20:00'
+start_date: '2025-06-26 18:30'
+end_date: '2025-06-26 20:00'
 free: false
 cost_details: £10
 virtual: false
@@ -233,7 +232,7 @@ cta: |-
 
   [0300 303 3211](tel:03003033211)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749547274
+updated_at: 1749548387
 duplicated_from: 98483074-ca5e-47d9-883d-90c4b6078887
 booking_link: 'https://thecut.org.uk/events/embody-your-beat/'
 ---
