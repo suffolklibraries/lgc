@@ -1,32 +1,46 @@
 ---
 id: d07394c3-d6e8-4864-b078-abff38059a14
 blueprint: events
-title: 'Wellbeing Walk - Whitton to Akenham'
+title: 'Wellbeing Walk - Haven Health'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-06 11:00'
-end_date: '2025-06-06 12:30'
+start_date: '2025-06-18 13:00'
+end_date: '2025-06-18 14:30'
 free: true
 virtual: false
-latitude: '52.083030168145534'
-longitude: '1.1211848268049074'
-building_name: 'Whitton Football Club'
-town: Ipswich
-postcode: 'IP1 6LE'
+latitude: '51.96462253027865'
+longitude: '1.3278375833069864'
+building_name: 'Haven Health'
+town: Felixstowe
+postcode: 'IP11 2XD'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There are several nearby bus stops within a ten minute walk. '
+        text: 'The nearest bus stop is at Morrisons, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/dir/Haven+Health/Morrisons,+Felixstowe+IP11+2YG/@51.9649469,1.3260504,17.75z/data=!4m13!4m12!1m5!1m1!1s0x47d9770b44fc20a9:0xea799f3df4355ed!2m2!1d1.3278054!2d51.9645234!1m5!1m1!1s0x47d9770c83b1d3d7:0x312a1da276bcee9a!2m2!1d1.326566!2d51.966244?entry=ttu&g_ep=EgoyMDI1MDYwOC4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'a three minute walk away'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is onsite car parking. '
+        text: 'There is onsite car parking at the nearby Morrisons.'
   -
     type: paragraph
     content:
@@ -55,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A more challenging 4-mile walk taking you up Old Norwich Road and through the fields and footpaths through Akenham and back down to the football club. '
+        text: 'Join the team from Haven Health and PPG and choose from a shorter or longer walk over to Trimley Marshes. '
   -
     type: paragraph
     attrs:
@@ -63,7 +77,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The majority of the walk is on footpaths, bridleways and well-walked fields with some narrow access points so isn’t wheelchair accessible and may not be appropriate for those with mobility issues. '
+        text: 'Please be mindful of suitable footwear as some footpaths can be muddy. '
   -
     type: paragraph
     attrs:
@@ -71,7 +85,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Assistance dogs only on this walk.'
+        text: 'The shorter walk is between 45-60 minutes (grade 2) and the longer walk is between 75-90 minutes (grade 4).'
   -
     type: paragraph
     attrs:
@@ -79,7 +93,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meeting point: Whitton Football Club'
+        text: 'Meet in the Haven Health Reception from 12.50pm.'
   -
     type: paragraph
     attrs:
@@ -87,7 +101,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Why not grab a coffee from Combat Coffee after the walk?'
+        text: 'Dogs are welcome on this walk but must stay on a short lead at all times. '
   -
     type: paragraph
     attrs:
@@ -110,7 +124,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/whitton-akenham-walk-59'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/weekly-haven-health-wellbeing-walk-felixstowe-short-and-longer-walks-10'
 cta: |-
   This event is organised by Ramblers
 
@@ -120,13 +134,13 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749129692
+updated_at: 1749544063
 duplicated_from: 1135b9d3-7184-44af-98d5-873737a136db
 event_categories:
   - wellbeing
   - community
   - movement
-address_line_2: 'Old Norwich Road'
-published: false
+  - later-years
+address_line_1: 'Grange Farm Avenue'
 ---
-Join our more challenging walk.
+Explore Suffolk's countryside!
