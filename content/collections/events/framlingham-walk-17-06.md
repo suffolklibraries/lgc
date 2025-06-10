@@ -5,8 +5,8 @@ title: 'Wellbeing Walk - Framlingham'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-16 10:45'
-end_date: '2025-06-16 12:15'
+start_date: '2025-06-17 10:45'
+end_date: '2025-06-17 12:15'
 free: true
 virtual: false
 latitude: '52.222879703015906'
@@ -118,7 +118,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749549114
+updated_at: 1749549173
 duplicated_from: 4290668e-c8df-433b-bd57-48f4ff5b1601
 event_categories:
   - wellbeing
