@@ -1,13 +1,12 @@
 ---
 id: 84010072-9a47-488d-b8b4-f3a536c62ea9
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Woodbridge (Duplicated)'
+title: 'Wellbeing Walk - Woodbridge'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-07-18 10:30'
-end_date: '2025-07-18 11:45'
+start_date: '2025-08-15 10:30'
+end_date: '2025-08-15 11:45'
 free: true
 virtual: false
 latitude: '52.089702221771944'
@@ -123,7 +122,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/walk-around-woodbridge-and-surrounding-areas-23'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/walk-around-woodbridge-and-surrounding-areas-24'
 cta: |-
   This event is organised by Ramblers
 
@@ -133,7 +132,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749546138
+updated_at: 1749546193
 duplicated_from: 4290668e-c8df-433b-bd57-48f4ff5b1601
 event_categories:
   - wellbeing
