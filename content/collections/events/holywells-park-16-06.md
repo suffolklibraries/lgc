@@ -1,13 +1,13 @@
 ---
 id: 335929ec-3142-4d12-b1da-22333b0a82d1
 blueprint: events
-title: 'Wellbeing Walk - Beccles Town and Quayside'
+title: 'Wellbeing Walk - Holywells Park'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749133026
-latitude: '52.4591494822238'
-longitude: '1.5656788691474064'
-start_date: '2025-06-09 10:00'
+updated_at: 1749546666
+latitude: '52.05257087007631'
+longitude: '1.163569260595183'
+start_date: '2025-06-16 11:00'
 event_categories:
   - movement
   - wellbeing
@@ -17,8 +17,8 @@ free: true
 virtual: false
 organisers:
   - ramblers
-town: Beccles
-postcode: 'NR34 9SJ'
+town: Ipswich
+postcode: 'IP4 1QJ'
 featured_image: pelicanpelican-3x2/wellbeing.png
 content_area:
   -
@@ -28,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the walk leaders on a town walk incorporating the quayside (if the weather is suitable). '
+        text: "We meet at the Question Mark Sculpture outside the University of Suffolk building on the Waterfront.\_"
   -
     type: paragraph
     attrs:
@@ -36,23 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Dogs welcome but must be on a short lead at all times. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Refreshments and toilets available before and after the walk either in Tesco or in the town. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "This walk is not suitable for wheelchair users due to the changing terrain.\_"
+        text: 'Toilets are accessible in the park and there is a café at the end of walk.'
   -
     type: paragraph
     attrs:
@@ -96,42 +80,64 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
     - SEND support available
-end_date: '2025-06-09 11:00'
+end_date: '2025-06-16 12:15'
 duplicated_from: 4bf44695-b323-4035-9122-c373f3e12047
-building_name: 'Tesco Superstore'
+building_name: 'University of Suffolk'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is onsite car parking.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Beccles railway station is five minute walk and you can find up to date timetables on the '
+        text: 'The nearest bus stop is a four minute walk - see the latest bus timetables '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
+              href: 'https://www.suffolkonboard.com/buses/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Greater Anglia website'
+        text: here
       -
         type: text
-        text: .
+        text: '. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The nearest bus stop is on Caxton Road a minute's walk away."
+        text: 'The nearest car park is at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipserv.co.uk/car-parks/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Duke Street'
+      -
+        type: text
+        text: ' car park a five minute walk away or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Crown car park'
+      -
+        type: text
+        text: ' a six minute walk away. '
   -
     type: paragraph
     content:
@@ -152,7 +158,8 @@ directions:
       -
         type: text
         text: .
-address_line_1: 'George Westwood Way'
-published: false
+address_line_1: 'Waterfront Building'
+address_line_2: '19 Neptune Quay'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/holywells-park-and-waterfront-51'
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
