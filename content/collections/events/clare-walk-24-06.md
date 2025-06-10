@@ -1,14 +1,13 @@
 ---
 id: fd4c757d-d81c-4a3a-81b9-73526421d8a5
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Clare (Duplicated)'
+title: 'Wellbeing Walk - Clare'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749543544
+updated_at: 1749543576
 latitude: '52.07663187038441'
 longitude: '0.5824786426715731'
-start_date: '2025-06-17 10:30'
+start_date: '2025-06-24 10:30'
 event_categories:
   - movement
   - wellbeing
@@ -97,7 +96,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
     - SEND support available
-end_date: '2025-06-17 12:00'
+end_date: '2025-06-24 12:00'
 duplicated_from: 5667d8b4-481a-4fe0-9234-5cc20c7c99fb
 building_name: 'The Old Goods Shed'
 directions:
@@ -148,7 +147,7 @@ directions:
         type: text
         text: .
 address_line_1: 'Clare Castle Country Park'
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/clare-tuesday-walk-different-walk-each-week-around-clare-and-upper-10'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/clare-tuesday-walk-different-walk-each-week-around-clare-and-upper-11'
 address_line_2: 'Malting Lane, Clare'
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
