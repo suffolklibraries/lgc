@@ -1,13 +1,12 @@
 ---
 id: 0491b1ab-247f-4b00-bad8-11443976b87f
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Framlingham (Duplicated) (Duplicated)'
+title: 'Wellbeing Walk - Framlingham'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-07-15 10:45'
-end_date: '2025-07-15 12:15'
+start_date: '2025-09-16 10:45'
+end_date: '2025-09-16 12:15'
 free: true
 virtual: false
 latitude: '52.222879703015906'
@@ -119,7 +118,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749549165
+updated_at: 1749549228
 duplicated_from: 361966b9-ca5b-4b5f-9c2a-a94fe1a7cb6a
 event_categories:
   - wellbeing
@@ -128,6 +127,6 @@ event_categories:
   - movement
   - nature
 address_line_2: Framlingham
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/framlingham-walk-around-town-and-surrounding-countryside-grade-4-0'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/framlingham-walk-around-town-and-surrounding-countryside-grade-4-2'
 ---
 Explore Framlingham on foot.
