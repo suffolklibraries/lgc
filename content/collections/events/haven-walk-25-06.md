@@ -1,13 +1,12 @@
 ---
 id: d111abfc-787b-425a-81f7-2584500918d5
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Haven Health (Duplicated)'
+title: 'Wellbeing Walk - Haven Health'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-18 13:00'
-end_date: '2025-06-18 14:30'
+start_date: '2025-06-25 13:00'
+end_date: '2025-06-25 14:30'
 free: true
 virtual: false
 latitude: '51.96462253027865'
@@ -125,7 +124,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/weekly-haven-health-wellbeing-walk-felixstowe-short-and-longer-walks-10'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/weekly-haven-health-wellbeing-walk-felixstowe-short-and-longer-walks-11'
 cta: |-
   This event is organised by Ramblers
 
@@ -135,7 +134,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749544063
+updated_at: 1749544106
 duplicated_from: d07394c3-d6e8-4864-b078-abff38059a14
 event_categories:
   - wellbeing
