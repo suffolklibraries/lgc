@@ -1,13 +1,13 @@
 ---
 id: e221517b-e80c-4500-ba2b-d8e39ec28858
 blueprint: events
-title: 'Wellbeing Walk - Explore Bury St Edmunds'
+title: 'Wellbeing Walk - Stanton'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749132331
+updated_at: 1749544360
 latitude: '52.248150770555625'
 longitude: '0.7114614702830845'
-start_date: '2025-06-05 10:15'
+start_date: '2025-06-26 10:00'
 event_categories:
   - movement
   - wellbeing
@@ -17,9 +17,9 @@ free: true
 virtual: false
 organisers:
   - ramblers
-address_line_2: "2B St Andrew's Street North"
+address_line_2: Stanton
 town: 'Bury Saint Edmunds'
-postcode: 'IP33 1TZ'
+postcode: 'IP31 2DA'
 featured_image: pelicanpelican-3x2/wellbeing.png
 content_area:
   -
@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore Bury St Edmunds on this town walk. '
+        text: 'This is a beginners and improvers gentle and adaptable walk, inviting connection with others and nature.'
   -
     type: paragraph
     attrs:
@@ -37,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meeting place - outside Bury St Edmunds Library, opposite the bus station.'
+        text: 'It explores the pretty village of Stanton with its windmill and grundle. The walk is graded between 1-3 and is up to 60 minutes long. '
   -
     type: paragraph
     attrs:
@@ -45,7 +45,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Dogs welcome on leads, parking, toilets and refreshments available close by.'
+        text: 'Well-behaved dogs are permitted on short leads. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'There are toilets and refreshments available at the Church Rooms.'
   -
     type: paragraph
     attrs:
@@ -89,84 +97,22 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
     - SEND support available
-end_date: '2025-06-05 11:30'
+end_date: '2025-06-26 11:00'
 duplicated_from: 8fd66c21-b616-4ef9-b4c4-848705fb8696
-building_name: 'Bury St Edmunds Library'
+building_name: 'Stanton Church Room'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Onboard website'
-      -
-        type: text
-        text: '.  '
+        text: 'The nearest bus stop is outside the church. '
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is car parking at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Arc shopping centre'
-      -
-        type: text
-        text: ', which a six minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'St Andrews Flexi-Stay car park'
-      -
-        type: text
-        text: ', which is a five minute walk.'
+        text: 'There is parking on local roads or at the village hall carpark. There is accessible car parking at the Church Rooms.'
   -
     type: paragraph
     content:
@@ -187,6 +133,7 @@ directions:
       -
         type: text
         text: .
-published: false
+address_line_1: 'Old Bury Road'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/stanton-wellbeing-walk-near-bury-st-edmunds-36'
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
