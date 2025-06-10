@@ -1,14 +1,13 @@
 ---
 id: e21b4b35-c360-4991-a617-844225b4e7ec
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Holywells Park (Duplicated)'
+title: 'Wellbeing Walk - Holywells Park'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749546666
+updated_at: 1749546699
 latitude: '52.05257087007631'
 longitude: '1.163569260595183'
-start_date: '2025-06-16 11:00'
+start_date: '2025-06-30 11:00'
 event_categories:
   - movement
   - wellbeing
@@ -81,7 +80,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
     - SEND support available
-end_date: '2025-06-16 12:15'
+end_date: '2025-06-30 12:15'
 duplicated_from: 335929ec-3142-4d12-b1da-22333b0a82d1
 building_name: 'University of Suffolk'
 directions:
@@ -161,6 +160,6 @@ directions:
         text: .
 address_line_1: 'Waterfront Building'
 address_line_2: '19 Neptune Quay'
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/holywells-park-and-waterfront-51'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/holywells-park-and-waterfront-52'
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
