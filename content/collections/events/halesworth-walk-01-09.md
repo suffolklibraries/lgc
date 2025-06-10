@@ -1,13 +1,12 @@
 ---
 id: 54625baf-8fab-4e33-a5cf-b3ec1afb68d2
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Halesworth Town Farm (Duplicated)'
+title: 'Wellbeing Walk - Halesworth Town Farm'
 organisers:
   - ramblers
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-06-16 14:30'
-end_date: '2025-06-16 15:45'
+start_date: '2025-09-01 14:30'
+end_date: '2025-09-01 15:45'
 free: true
 virtual: false
 latitude: '52.344363360124184'
@@ -158,7 +157,7 @@ content_area:
       -
         type: text
         text: ' to find out more information and other Wellbeing Walks. '
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/halesworth-town-farm-walk-grade-3-11'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/halesworth-town-farm-walk-grade-3-12'
 cta: |-
   This event is organised by Ramblers
 
@@ -168,7 +167,7 @@ cta: |-
 
   [020 3961 3232](tel:02039613232)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749547052
+updated_at: 1749547087
 duplicated_from: 584f2914-87ef-475f-9853-8d1a746defdc
 event_categories:
   - wellbeing
