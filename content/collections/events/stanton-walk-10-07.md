@@ -4,9 +4,9 @@ blueprint: events
 title: 'Wellbeing Walk - Stanton'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749544409
-latitude: '52.248150770555625'
-longitude: '0.7114614702830845'
+updated_at: 1749544566
+latitude: '52.32394690589275'
+longitude: '0.8831719250385248'
 start_date: '2025-07-10 10:00'
 event_categories:
   - movement
