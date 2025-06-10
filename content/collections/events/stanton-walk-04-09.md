@@ -1,14 +1,13 @@
 ---
 id: ec40bb11-8d7e-4ce2-becd-a7c55731557a
-published: false
 blueprint: events
-title: 'Wellbeing Walk - Stanton (Duplicated)'
+title: 'Wellbeing Walk - Stanton'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749544743
+updated_at: 1749544776
 latitude: '52.32396002074019'
 longitude: '0.8832041115434863'
-start_date: '2025-08-21 10:00'
+start_date: '2025-09-04 10:00'
 event_categories:
   - movement
   - wellbeing
@@ -98,7 +97,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
     - SEND support available
-end_date: '2025-08-21 11:00'
+end_date: '2025-09-04 11:00'
 duplicated_from: 9cc5a49b-5662-4605-83df-4ed1d2672585
 building_name: 'Stanton Church Room'
 directions:
@@ -135,6 +134,6 @@ directions:
         type: text
         text: .
 address_line_1: 'Old Bury Road'
-booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/stanton-wellbeing-walk-near-bury-st-edmunds-40'
+booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/stanton-wellbeing-walk-near-bury-st-edmunds-41'
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
