@@ -153,5 +153,6 @@ cta: |-
 duplicated_from: ee063f0c-3f37-4c9a-9f23-528c14ef19fd
 cost_details: '£10, £6 for Soapbox members'
 attendance_information: 'Ages 18+'
+published: false
 ---
 All words welcome.
