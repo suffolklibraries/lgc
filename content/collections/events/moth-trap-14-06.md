@@ -82,5 +82,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1747065291
 duplicated_from: 87049a4f-61ae-463a-a5ff-68045320fb5a
+published: false
 ---
 Explore nature and discover more about moths.
