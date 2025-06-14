@@ -190,5 +190,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738593299
 duplicated_from: a7511ef9-f3f2-4d7d-b9f6-b5bb6a5f0c8f
+published: false
 ---
 A weekly club for young people interested in specialist art and design skills.
