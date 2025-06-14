@@ -135,5 +135,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://www.ticketsource.co.uk/whats-on/ipswich/the-hold-ipswich-home-of-suffolk-archives/arrivals-community-celebration/2025-06-14/11:00/t-avxmmdd'
+published: false
 ---
 Come and celebrate the end of our Arrivals: Celebrating Migration to Suffolk Project.
