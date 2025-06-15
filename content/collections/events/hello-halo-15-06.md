@@ -184,5 +184,6 @@ directions:
         type: text
         text: .
 cost_details: '£12.50; under 30s half price'
+published: false
 ---
 In this performance installation, Ruby Colley and EXAUDI sensitively and movingly explore neurodivergence, relationships and communication.
