@@ -175,5 +175,6 @@ event_categories:
   - later-years
   - movement
   - nature
+published: false
 ---
 Explore Suffolk's town and countryside on foot.
