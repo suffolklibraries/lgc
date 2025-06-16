@@ -134,5 +134,6 @@ event_categories:
   - later-years
   - movement
   - nature
+published: false
 ---
 Explore Bury St Edmunds with an option of lengths.
