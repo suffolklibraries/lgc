@@ -1,20 +1,22 @@
 ---
 id: 15c4f5fd-35ee-4b8d-a863-55e1eb04b52c
+published: false
 blueprint: events
-title: Re>Charge
+title: 'Singing for Lung Health'
 event_categories:
   - art
   - community
   - wellbeing
 organisers:
-  - suffolk-art-link
-featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-05-08 10:30'
-end_date: '2025-05-08 12:30'
+  - first-light-festival
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2025-06-24 13:30'
+end_date: '2025-06-24 15:00'
 free: true
 virtual: false
 accessibility_information:
-  - 'Autism friendly'
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
 latitude: '52.47737596346164'
 longitude: '1.7532718328029995'
 building_name: 'The Battery'
@@ -140,106 +142,23 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
-    content:
-      -
-        type: text
-        text: 'Re>Charge will offer a welcoming safe space to experience creative and mindful activities together. Artists Eleanor Rodwell and Sarah Lewis will lead the relaxed sessions. There will be the opportunity to learn new skills in a variety of different art forms inspired by local heritage.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'No creative experience is necessary the sessions are a friendly way of experiencing new skills and to promote wellbeing.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'The programme is to support people aged 18 years or over living in Lowestoft and Waveney with long term health needs. Participation is through referral. Health and Wellbeing Coaches and Care Co-ordinators and health support workers are welcome to also attend. The Battery of Ideas is accessible.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Participants of similar Artlink projects have commented, “I feel marvellous now. It’s unbelievable what a group like this can do.”'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: '“Learning these new skills has transformed my life and given me so much inspiration.”'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your free place or find out more, contact Gabrielle on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:gabrielle@suffolkartlink.org.uk'
-              rel: ''
-              target: null
-              title: null
-        text: gabrielle@suffolkartlink.org.uk
-      -
-        type: text
-        text: ' or '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01986873955'
-              rel: null
-              target: null
-              title: null
-        text: '01986 873955'
-      -
-        type: text
-        text: ' extension 5 or visit the Suffolk Artlink website and fill out the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkartlink.org.uk/sessions/recharge-at-the-battery-of-ideas/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'self-referral form'
-      -
-        type: text
-        text: .
+        text: 'Free to attend, no need to book just turn up!'
 cta: |-
-  This event is organised by Suffolk Artlink
+  This event is organised by First Light Festival
 
-  [https://www.suffolkartlink.org.uk/](https://www.suffolkartlink.org.uk/) 
+  [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 
-  [01986 873955](tel:01986873955)
-
-  [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739361041
+  [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750179561
 duplicated_from: 5f489f75-9f21-42f1-98ab-066f72338c2b
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/recharge-at-the-battery-of-ideas/'
-attendance_information: 'people aged 18 plus living with complex health needs'
 address_line_1: '119'
-published: false
 ---
-Asocial prescribing 12 week programme designed to support health and wellbeing.
+Come and join the fun.
