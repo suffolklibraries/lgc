@@ -1,16 +1,15 @@
 ---
 id: 21ff20e7-eb74-49bf-a929-bd9e03c88de5
-published: false
 blueprint: events
-title: 'Brandon and District Garden Club (Duplicated)'
+title: 'Brandon and District Garden Club'
 event_categories:
   - nature
   - wellbeing
 organisers:
   - brandon-and-district-garden-club
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-06-30 19:15'
-end_date: '2025-06-30 21:00'
+start_date: '2025-08-18 19:15'
+end_date: '2025-08-18 21:00'
 free: true
 cost_details: '£12 per year'
 virtual: false
@@ -125,14 +124,6 @@ content_area:
     content:
       -
         type: text
-        text: '30 June 2025 - Garden Question Time'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: "18 Aug 2025 - Bryan Thurlow presents 'We'll Meet Again'"
   -
     type: paragraph
@@ -173,7 +164,7 @@ cta: |-
 
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750173099
+updated_at: 1750173143
 duplicated_from: 64acaae8-ae41-4ac5-a499-173bdd62d16f
 ---
 Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.
