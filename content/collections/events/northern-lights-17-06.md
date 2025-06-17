@@ -173,5 +173,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £10; under 30s half-price'
+published: false
 ---
 Midnight sun, verdant landscapes, and folksong at its freshest: the BBC Concert Orchestra and the Iceland Philharmonic Choir celebrate midsummer Nordic-style.
