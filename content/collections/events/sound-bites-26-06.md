@@ -1,14 +1,13 @@
 ---
 id: 8f98109a-469f-4ca5-b635-a61103230868
-published: false
 blueprint: events
-title: 'Sound Bites - Chordwrangle (Duplicated)'
+title: 'Sound Bites - Pauline O’Brien & John Mills'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750176562
+updated_at: 1750176600
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-06-19 12:30'
+start_date: '2025-06-26 12:30'
 event_categories:
   - community
   - music
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Chordwrangle is a four-part mixed acapella vocal close harmony group formed by local musician Brian Crockett.They sing pop, country and other genres, plus barbershop style arrangements of well-known and lesser known songs, and some of Brian’s own arrangements.'
+        text: 'Pauline O’Brien sings in various local folk clubs, performing traditional and contemporary folk songs and playing guitar, Appalachian dulcimer and autoharp. Johnny Myles performs a wide variety of songs including folk, country and music hall, and plays guitar, accordion and violin.'
   -
     type: paragraph
     attrs:
@@ -57,7 +56,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-06-18 13:15'
+end_date: '2025-06-26 13:15'
 duplicated_from: 2f37805f-d480-49f8-85c7-a87daacddf90
 directions:
   -
