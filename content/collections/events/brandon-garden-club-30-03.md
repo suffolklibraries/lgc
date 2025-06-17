@@ -1,16 +1,15 @@
 ---
 id: 661ed6d7-2a16-4ebd-b2c6-97ceab687dd5
-published: false
 blueprint: events
-title: 'Brandon and District Garden Club (Duplicated)'
+title: 'Brandon and District Garden Club'
 event_categories:
   - nature
   - wellbeing
 organisers:
   - brandon-and-district-garden-club
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2026-01-26 19:15'
-end_date: '2026-01-26 21:00'
+start_date: '2026-03-30 19:15'
+end_date: '2026-03-30 21:00'
 free: true
 cost_details: '£12 per year'
 virtual: false
@@ -125,14 +124,6 @@ content_area:
     content:
       -
         type: text
-        text: "26 Jan 2026 - Simon white presents 'Climbing and Rambling Roses for every Situation'"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: '30 March 2026 - Hedgehogs'
 cta: |-
   This event is organised by Brandon and District Garden Club
@@ -141,7 +132,7 @@ cta: |-
 
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750173223
+updated_at: 1750173251
 duplicated_from: 1101e7ae-cf5c-4f93-9e10-336cdc2b5ae8
 ---
 Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.
