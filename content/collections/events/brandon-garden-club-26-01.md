@@ -1,16 +1,15 @@
 ---
 id: 1101e7ae-cf5c-4f93-9e10-336cdc2b5ae8
-published: false
 blueprint: events
-title: 'Brandon and District Garden Club (Duplicated)'
+title: 'Brandon and District Garden Club'
 event_categories:
   - nature
   - wellbeing
 organisers:
   - brandon-and-district-garden-club
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-10-27 19:15'
-end_date: '2025-10-27 21:00'
+start_date: '2026-01-26 19:15'
+end_date: '2026-01-26 21:00'
 free: true
 cost_details: '£12 per year'
 virtual: false
@@ -125,14 +124,6 @@ content_area:
     content:
       -
         type: text
-        text: "27 Oct 2025 - Jim Paine presents 'Trees for all Seasons'"
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: "26 Jan 2026 - Simon white presents 'Climbing and Rambling Roses for every Situation'"
   -
     type: paragraph
@@ -149,7 +140,7 @@ cta: |-
 
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750173196
+updated_at: 1750173223
 duplicated_from: a8b4416f-c53f-4650-8613-e8d5bd3e5f7f
 ---
 Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.
