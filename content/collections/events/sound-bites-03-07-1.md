@@ -1,0 +1,159 @@
+---
+id: 9d4cffbb-ed3a-4554-b98e-3ffa901f28c5
+published: false
+blueprint: events
+title: 'Sound Bites - Christopher Singers (Duplicated)'
+author: 5b72ad31-9613-4471-9564-e28d5005ecc0
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750176643
+latitude: '52.03880776046766'
+longitude: '0.7314451553348278'
+start_date: '2025-07-03 12:30'
+event_categories:
+  - community
+  - music
+  - theatre-and-performance
+free: true
+virtual: false
+organisers:
+  - sudbury-arts-centre
+address_line_1: 'Market Hill'
+town: Sudbury
+postcode: 'CO10 2EA'
+featured_image: pelicanpelican-3x2/music.png
+content_area:
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "A weekly selection of live music on a\_pay what you can afford by donation\_basis. "
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "Based at the Christopher Centre, this is an inclusive, happy-go-lucky group with a focus on singalong fun.\_ They normally fundraise for the Sudbury Depot, which provides support for those in need in the town with the motto “A hand up, not a handout.”\_ They are looking forward their opportunity to sing to you."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'No need to book, just come along.'
+cta: |-
+  This event is organised by Sudbury Arts Centre
+
+  [https://sudburyartscentre.com/](https://sudburyartscentre.com/) 
+
+  [info@sudburyartscentre.com](mailto:info@sudburyartscentre.com)
+
+  [01787 313691](tel:01787313691)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
+end_date: '2025-07-03 13:15'
+duplicated_from: 89613122-0643-4779-bdfc-04188e977315
+directions:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Arts Centre is a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/dir/Sudbury+Arts+Centre/Sudbury+bus+station,+Sudbury+CO10+2UU/@52.0382811,0.7293033,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d855731b7ce873:0x7277a1b5616dca22!2m2!1d0.7314094!2d52.0386735!1m5!1m1!1s0x47d85572562e7b13:0x3d30dd24116d999d!2m2!1d0.732053!2d52.037781!3e2?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'four minute walk'
+      -
+        type: text
+        text: ' from Sudbury bus station and you can find up-to-date times on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetable-updates/'
+              rel: null
+              target: null
+              title: null
+        text: 'Suffolk Onboard website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Sudbury railway station is a  seven minute walk away and you can find times on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Greater Anglia website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest paid parking is a seven minute walk away at'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.sudbury-tc.gov.uk/parking'
+              rel: null
+              target: _blank
+              title: null
+        text: ' Sudbury railway station'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Plan your journey using '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard'
+      -
+        type: text
+        text: .
+building_name: 'Sudbury Arts Centre'
+---
+Free lunchtime live music.
