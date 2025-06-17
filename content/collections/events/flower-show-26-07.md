@@ -1,18 +1,19 @@
 ---
 id: 7b35d6bf-2095-4d37-a895-01fafd7465db
-published: false
 blueprint: events
-title: 'Brandon and District Garden Club (Duplicated)'
+title: '60th Annual Flower Show'
 event_categories:
   - nature
   - wellbeing
+  - family-friendly
+  - community
 organisers:
   - brandon-and-district-garden-club
-featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2026-03-30 19:15'
-end_date: '2026-03-30 21:00'
+featured_image: pelicanpelican-3x2/later_nature-(1).png
+start_date: '2026-07-26 19:15'
+end_date: '2026-07-26 21:00'
 free: true
-cost_details: '£12 per year'
+cost_details: '£1 per adult, children free'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -75,7 +76,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Come together to cultivate beauty, grow connections, and enjoy fun events.'
+        text: 'All welcome to show their produce - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:brandonanddistrictgardenclub@gmail.com'
+              rel: null
+              target: null
+              title: null
+        text: 'email brandonanddistrictgardenclub@gmail.com'
+      -
+        type: text
+        text: ' for details.'
   -
     type: paragraph
     attrs:
@@ -83,7 +98,40 @@ content_area:
     content:
       -
         type: text
-        text: 'The group welcomes everyone from experienced gardeners to people just starting out.'
+        text: 'Kids can enter two competitions - '
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'A garden in an egg box'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'A nasturtium in a pot'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'There will be teas, cakes, grand raffle, plants for sale and prizes.'
   -
     type: paragraph
     attrs:
@@ -106,26 +154,6 @@ content_area:
       -
         type: text
         text: ' to stay up to date and to contact us.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: "This year's talk programme is as follows - "
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: '30 March 2026 - Hedgehogs'
 cta: |-
   This event is organised by Brandon and District Garden Club
 
@@ -133,7 +161,7 @@ cta: |-
 
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750173251
+updated_at: 1750174215
 duplicated_from: 661ed6d7-2a16-4ebd-b2c6-97ceab687dd5
 ---
-Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.
+Come along and join the fun!
