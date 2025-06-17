@@ -1,25 +1,24 @@
 ---
 id: 15ed78a8-1058-4376-ae86-e840215ae076
-published: false
 blueprint: events
-title: 'Mozart to Movies - West Bergholt Concert Band (Duplicated)'
+title: 'Stitch and Sip'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742832946
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750175069
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-07-12 19:30'
+start_date: '2025-06-27 11:00'
 event_categories:
   - music
   - theatre-and-performance
-free: false
+free: true
 virtual: false
 organisers:
   - sudbury-arts-centre
 address_line_1: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EA'
-featured_image: pelicanpelican-3x2/music.png
+featured_image: pelicanpelican-3x2/coffee.png
 content_area:
   -
     type: paragraph
@@ -28,14 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: "West Bergholt Concert Band are bringing the brass to Sudbury Arts Centre for a special fundraising concert for the work of The Bridge Project charity. \_This promises to be a toe-tapping evening full of entertainment with musical highlights from The Lion King, Gladiator, Beauty & The Beast, Hairspray, to a Mozart Suite. \_"
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: "The West Bergholt Concert Band deliver several concerts throughout the year, all in aid of various charities. \_They have been making music and delighting audiences since the 1970's, \_and do brilliant work to build the confidence of young musicians through the work they do with their training band, primary school workshops and band play days. \_"
+        text: 'Are you handy with the needle and thread? Do you enjoy patching and mending? Perhaps you’d like to meet new people with a shared interest?'
   -
     type: paragraph
     attrs:
@@ -43,35 +35,15 @@ content_area:
     content:
       -
         type: text
-        text: "This event is unreserved seating. \_We have limited Free tickets for companions of disabled visitors. \_Please contact us before booking to ensure that this is available. Email "
+        text: 'If so our Stitch & Sip Cafe is the place to be! Pop in – the drinks are on us for any sewing bees volunteering to help mend and make things for the Arts Centre!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:info@sudburyartscentre.com'
-              rel: null
-              target: null
-              title: null
-        text: info@sudburyartscentre.com
-      -
-        type: text
-        text: ' or call '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:01787313691'
-              rel: null
-              target: null
-              title: null
-        text: '01787 313691'
-      -
-        type: text
-        text: ' and choose option for Sudbury Arts Centre.'
+        text: 'No need to book, just come along.'
 cta: |-
   This event is organised by Sudbury Arts Centre
 
@@ -83,7 +55,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-07-12 21:00'
+end_date: '2025-06-27 13:00'
 duplicated_from: c77ec61d-e73c-4fe9-824b-9f1a5b54659a
 directions:
   -
@@ -180,8 +152,6 @@ directions:
       -
         type: text
         text: .
-booking_link: 'https://www.ticketsource.co.uk/sudburyartscentre/mozart-to-movies-west-bergholt-concert-band/e-lkykva'
-cost_details: 'From £2 per person plus booking fees'
 building_name: 'Sudbury Arts Centre'
 ---
-A special fundraising concert for the work of The Bridge Project charity.
+Join our friendly sewing group.
