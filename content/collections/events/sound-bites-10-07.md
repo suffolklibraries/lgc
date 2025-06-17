@@ -1,14 +1,13 @@
 ---
 id: 9d4cffbb-ed3a-4554-b98e-3ffa901f28c5
-published: false
 blueprint: events
-title: 'Sound Bites - Christopher Singers (Duplicated)'
+title: 'Sound Bites - Shanty Folk'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750176643
+updated_at: 1750176678
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-07-03 12:30'
+start_date: '2025-07-10 12:30'
 event_categories:
   - community
   - music
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: "Based at the Christopher Centre, this is an inclusive, happy-go-lucky group with a focus on singalong fun.\_ They normally fundraise for the Sudbury Depot, which provides support for those in need in the town with the motto “A hand up, not a handout.”\_ They are looking forward their opportunity to sing to you."
+        text: "South Suffolk’s very own shanty crew, ShantyFolk are five friends who met in 2014 when singing with a community choir in Lavenham. They have developed a distinctive sound using close harmony in many shanties, songs of the sea and folk songs.\_ They are looking forward to singing for you."
   -
     type: paragraph
     attrs:
@@ -57,7 +56,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-07-03 13:15'
+end_date: '2025-07-10 13:15'
 duplicated_from: 89613122-0643-4779-bdfc-04188e977315
 directions:
   -
