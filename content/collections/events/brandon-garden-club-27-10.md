@@ -1,16 +1,15 @@
 ---
 id: a8b4416f-c53f-4650-8613-e8d5bd3e5f7f
-published: false
 blueprint: events
-title: 'Brandon and District Garden Club (Duplicated)'
+title: 'Brandon and District Garden Club'
 event_categories:
   - nature
   - wellbeing
 organisers:
   - brandon-and-district-garden-club
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-09-29 19:15'
-end_date: '2025-09-29 21:00'
+start_date: '2025-10-27 19:15'
+end_date: '2025-10-27 21:00'
 free: true
 cost_details: '£12 per year'
 virtual: false
@@ -125,14 +124,6 @@ content_area:
     content:
       -
         type: text
-        text: '29 Sept 2025 - Apple Tasting with David Wright'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: "27 Oct 2025 - Jim Paine presents 'Trees for all Seasons'"
   -
     type: paragraph
@@ -157,7 +148,7 @@ cta: |-
 
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750173168
+updated_at: 1750173196
 duplicated_from: 2b33e785-185e-4c0f-bcb1-916bdab174c2
 ---
 Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.
