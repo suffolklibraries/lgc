@@ -149,5 +149,6 @@ directions:
 address_line_1: 'Clare Castle Country Park'
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/clare-tuesday-walk-different-walk-each-week-around-clare-and-upper-10'
 address_line_2: 'Malting Lane, Clare'
+published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
