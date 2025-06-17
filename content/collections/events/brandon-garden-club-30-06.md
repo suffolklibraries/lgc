@@ -1,7 +1,7 @@
 ---
 id: 64acaae8-ae41-4ac5-a499-173bdd62d16f
 blueprint: events
-title: 'Brandon Garden Club'
+title: 'Brandon and District Garden Club'
 event_categories:
   - nature
   - wellbeing
@@ -172,6 +172,6 @@ cta: |-
 
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750173081
+updated_at: 1750173099
 ---
 Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.
