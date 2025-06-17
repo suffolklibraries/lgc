@@ -1,18 +1,17 @@
 ---
 id: 2f37805f-d480-49f8-85c7-a87daacddf90
-published: false
 blueprint: events
-title: 'Stitch and Sip (Duplicated)'
+title: 'Sound Bites - Chordwrangle'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750175124
+updated_at: 1750176562
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-06-27 11:00'
+start_date: '2025-06-19 12:30'
 event_categories:
   - community
-  - later-years
-  - art
+  - music
+  - theatre-and-performance
 free: true
 virtual: false
 organisers:
@@ -20,7 +19,7 @@ organisers:
 address_line_1: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EA'
-featured_image: pelicanpelican-3x2/coffee.png
+featured_image: pelicanpelican-3x2/music.png
 content_area:
   -
     type: paragraph
@@ -29,7 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Are you handy with the needle and thread? Do you enjoy patching and mending? Perhaps you’d like to meet new people with a shared interest?'
+        text: "A weekly selection of live music on a\_pay what you can afford by donation\_basis. "
   -
     type: paragraph
     attrs:
@@ -37,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If so our Stitch & Sip Cafe is the place to be! Pop in – the drinks are on us for any sewing bees volunteering to help mend and make things for the Arts Centre!'
+        text: 'Chordwrangle is a four-part mixed acapella vocal close harmony group formed by local musician Brian Crockett.They sing pop, country and other genres, plus barbershop style arrangements of well-known and lesser known songs, and some of Brian’s own arrangements.'
   -
     type: paragraph
     attrs:
@@ -57,7 +56,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-06-27 13:00'
+end_date: '2025-06-18 13:15'
 duplicated_from: 15ed78a8-1058-4376-ae86-e840215ae076
 directions:
   -
@@ -156,4 +155,4 @@ directions:
         text: .
 building_name: 'Sudbury Arts Centre'
 ---
-Join our friendly sewing group.
+Free lunchtime live music.
