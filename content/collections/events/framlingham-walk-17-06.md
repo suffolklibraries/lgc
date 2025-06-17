@@ -128,5 +128,6 @@ event_categories:
   - nature
 address_line_2: Framlingham
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/framlingham-grade-4-7'
+published: false
 ---
 Explore Framlingham on foot.
