@@ -1,17 +1,17 @@
 ---
 id: 69f1e31d-1f77-42ba-b8a2-d596b3dcd5fa
-published: false
 blueprint: events
-title: 'Stitch and Sip (Duplicated)'
+title: 'Stitch and Sip'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750175069
+updated_at: 1750175110
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-06-27 11:00'
+start_date: '2025-07-11 11:00'
 event_categories:
-  - music
-  - theatre-and-performance
+  - community
+  - later-years
+  - art
 free: true
 virtual: false
 organisers:
@@ -56,7 +56,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-06-27 13:00'
+end_date: '2025-07-11 13:00'
 duplicated_from: 15ed78a8-1058-4376-ae86-e840215ae076
 directions:
   -
