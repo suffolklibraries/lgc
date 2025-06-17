@@ -1,14 +1,13 @@
 ---
 id: e281b535-c449-4c95-bcb4-233f285f0958
-published: false
 blueprint: events
-title: 'Stitch and Sip (Duplicated)'
+title: 'Stitch and Sip'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750175170
+updated_at: 1750175191
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-08-08 11:00'
+start_date: '2025-08-22 11:00'
 event_categories:
   - community
   - later-years
@@ -57,7 +56,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-08-08 13:00'
+end_date: '2025-08-21 13:00'
 duplicated_from: 8749a74d-662c-4cb7-aaab-6fdb05bd01d6
 directions:
   -
