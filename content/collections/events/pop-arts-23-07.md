@@ -1,8 +1,7 @@
 ---
 id: a10d576e-1b2e-4fad-95ca-abafc3a84427
-published: false
 blueprint: events
-title: 'Pop Arts Music Technology Club (Duplicated)'
+title: 'Pop Arts Music Technology Club'
 event_categories:
   - family-friendly
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - pop-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-07-16 17:00'
-end_date: '2025-07-16 19:00'
+start_date: '2025-07-23 17:00'
+end_date: '2025-07-23 19:00'
 free: true
 virtual: false
 attendance_information: 'Young people aged 11 to 19'
@@ -112,7 +111,7 @@ cta: |-
 
   [contact@poparts.org](mailto:contact@poparts.org)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750258736
+updated_at: 1750258761
 duplicated_from: 7a82f080-004a-4286-9bff-a12298bafa6c
 latitude: '52.20718151703632'
 longitude: '1.5723039419856977'
