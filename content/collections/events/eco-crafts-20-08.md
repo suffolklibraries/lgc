@@ -1,17 +1,15 @@
 ---
 id: 54a36c3e-f8e8-419c-bddc-94de0ae64d3f
-published: false
 blueprint: events
-title: 'Story Themed Biscuit Decorating (Duplicated)'
+title: 'Eco Crafts'
 event_categories:
   - art
   - family-friendly
   - early-years
-  - literature
 organisers:
   - first-light-festival
-start_date: '2025-08-12 12:00'
-end_date: '2025-08-12 13:00'
+start_date: '2025-08-20 11:00'
+end_date: '2025-08-20 12:00'
 free: true
 virtual: false
 accessibility_information:
@@ -33,7 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop in any time between 11am and 1pm to take part in this free activity.'
+        text: 'Meet Suffolk Beach Cleans ‘Chief Womble’, learn about the things we find on Lowestoft’s beaches, the importance of keeping our beaches clean and how you can help.'
   -
     type: paragraph
     attrs:
@@ -41,14 +39,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Children must be accompanied by an adult at all times.'
+        text: 'Find out more about the Lowestoft Woodcraft Folk and how to join '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://woodcraft.org.uk/lowestoftgroup/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: '- Woodcraft Folk'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
-        type: hardBreak
+        type: text
+        text: 'Find Suffolk Beach Cleans on Facebook to hear when the next beach cleans will take place.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -56,9 +68,9 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750344597
+updated_at: 1750344884
 duplicated_from: edbc2714-9b95-4ee6-ba47-e7b478d03a04
-featured_image: pelicanpelican-3x2/literature.png
+featured_image: eastpointpavilion/seashell-eastpoint.png
 building_name: 'East Point Pavilion'
 directions:
   -
@@ -104,6 +116,6 @@ directions:
               target: _blank
               title: null
         text: 'the Suffolk Onboard website.'
-booking_link: 'https://www.eastpointpavilion.com/events/story-themed-biscuit-decorating-with-national-literacy-trust'
+booking_link: 'https://www.eastpointpavilion.com/events/eco-crafts-with-wood-craft-folk-suffolk-beach-cleans'
 ---
-Family fun at East Point Pavillion.
+Get creative with sustainable materials.
