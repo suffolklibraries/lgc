@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-06-05 19:00'
-end_date: '2025-06-05 21:30'
+start_date: '2025-08-07 19:00'
+end_date: '2025-08-07 21:30'
 free: false
 virtual: false
 latitude: '52.47138864661286'
@@ -79,22 +79,29 @@ content_area:
     content:
       -
         type: text
-        text: "Doors open at 6.45pm, our bar will be open for refreshments. The beginner friendly Salsa class will start at 7pm. \_Keep the energy flowing and let the rhythm take over from 8pm with a social dance session."
+        text: 'Doors open at 6.45pm, our bar will be open for refreshments. The beginner friendly Salsa class will start at 7pm. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Keep the energy flowing and let the rhythm take over from 8pm with a social dance session.'
 cta: |-
   This event is organised by First Light Festival
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747311982
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750344476
 duplicated_from: ce79b2df-1afa-4e16-a497-e75908316c4c
-booking_link: 'https://www.eastpointpavilion.com/events/salsa-night'
+booking_link: 'https://www.eastpointpavilion.com/events/july-salsa-night-wgtw7'
 cost_details: £7.50
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-published: false
 ---
 Come along for the class, stay for the party!
