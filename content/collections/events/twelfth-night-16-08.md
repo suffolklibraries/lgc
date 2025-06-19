@@ -1,22 +1,22 @@
 ---
 id: 69ef8cde-974d-4e6d-9485-825607d68a44
 blueprint: events
-title: 'The Big Afternoon'
+title: "Shakespeare's Twelfth Night"
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740589185
-start_date: '2025-05-31 14:00'
-end_date: '2025-05-31 16:00'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750343930
+start_date: '2025-08-14 19:00'
+end_date: '2025-08-16 21:30'
 event_categories:
   - literature
   - theatre-and-performance
-  - music
   - family-friendly
   - community
+  - teen
 free: true
 virtual: false
 town: Ipswich
-featured_image: pelicanpelican-3x2/support.png
+featured_image: pelicanpelican-3x2/theatre.png
 content_area:
   -
     type: paragraph
@@ -25,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for the New Wolsey’s big celebration for an afternoon featuring free theatre, arts and crafts, live music and so much more!'
+        text: 'Viola is in love with Orsino, Orsino is in love with Olivia, Olivia is in love with Cesario (who is really Viola in disguise), and Sir Toby Belch is in love with… himself. What could possibly go wrong?'
   -
     type: paragraph
     attrs:
@@ -33,23 +33,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Visit the '
+        text: 'After the success of last year’s production of '
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.wolseytheatre.co.uk/'
-              rel: null
-              target: _blank
-              title: null
-        text: "New Wolsey Theatre's website"
+            type: italic
+        text: 'A Midsummer Night’s Dream,'
       -
         type: text
-        text: ' to find out more.'
+        text: ' the New Wolsey Theatre Young Company return to the mainstage in Shakespeare’s turbulent rom-com. Expect passion, poetry, and a man in yellow garters.'
 cta: |-
-  This event is based at the New Wolsey Theatre
+  This event is organised by New Wolsey Theatre
 
   [https://www.wolseytheatre.co.uk/](https://www.wolseytheatre.co.uk/)
 
@@ -58,7 +53,8 @@ cta: |-
   [01473 295900](tel:01473295900)
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Drop-in event'
+  - 'Hearing loop available'
+  - 'Accessible toilets'
 latitude: '52.05887879991613'
 longitude: '1.1479524547198736'
 address_line_1: 'Civic Drive'
@@ -117,6 +113,9 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-published: false
+organisers:
+  - new-wolsey-theatre
+cost_details: 'Free for people aged under £22, all other tickets £12'
+booking_link: 'https://www.wolseytheatre.co.uk/events/twelfth-night/'
 ---
-Free entry and live entertainment!
+Presented by the New Wolsey Theatre Young Company.
