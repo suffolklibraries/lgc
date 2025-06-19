@@ -1,15 +1,15 @@
 ---
 id: cfad7014-d2ee-4283-a7e5-8228bcacade8
 blueprint: events
-title: "Animal Handling with Angie's Curious Creatures"
+title: "Angie's Curious Creatures"
 event_categories:
   - art
   - family-friendly
   - nature
 organisers:
   - first-light-festival
-start_date: '2025-05-28 11:00'
-end_date: '2025-05-28 12:00'
+start_date: '2025-07-30 11:00'
+end_date: '2025-07-30 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -30,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Meet the newest member of the Curious Creatures Crew, Henry the Hedgehog, along with his friends CyCy the snake, Toothless the Bearded Dragon and the very curious Giant Spiny Stick Insects! '
+        text: "Join animal expert Angie for this super hedgehog themed session. Share an exciting story, take part in some hedgehog themed activities and meet real hedgehog! Watch as \_'Horrid Henry' forages for his bugs & take advantage of a fantastic photo opportunity as you will get to hold him in his cosy bag.\_"
   -
     type: paragraph
     attrs:
@@ -38,15 +38,31 @@ content_area:
     content:
       -
         type: text
-        text: 'Find out more about them and get up close with plenty of time for photo opportunities.'
+        text: 'Children must remain supervised by an adult at all times throughout the session. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Tickets are £5 plus booking fee per child'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Recommended age 4+'
 cta: |-
   This event is organised by East Point Pavilion
 
   [https://www.eastpointpavilion.com/](https://www.eastpointpavilion.com/)
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747311476
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750344423
 duplicated_from: f8da1904-4c77-45ea-b479-b6e78e1c8828
 featured_image: pelicanpelican-3x2/nature.png
 cost_details: £5
@@ -95,7 +111,7 @@ directions:
               target: _blank
               title: null
         text: 'the Suffolk Onboard website.'
-booking_link: 'https://www.eastpointpavilion.com/events/animal-handling-with-angies-curious-creatures'
-published: false
+booking_link: 'https://www.eastpointpavilion.com/events/r2mks88weams4hmp95xswrdpxk3syz'
+attendance_information: 'Recommended ages 4+'
 ---
-Exciting animal handling experience!
+A hedgehog story and craft session!
