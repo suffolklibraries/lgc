@@ -1,16 +1,15 @@
 ---
 id: 7bff40f0-2ced-4223-88c5-3be58468ac03
-published: false
 blueprint: events
-title: "Angie's Curious Creatures (Duplicated)"
+title: "Angie's Curious Creatures"
 event_categories:
   - art
   - family-friendly
   - nature
 organisers:
   - first-light-festival
-start_date: '2025-07-30 11:00'
-end_date: '2025-07-30 12:00'
+start_date: '2025-08-13 11:00'
+end_date: '2025-08-13 13:00'
 free: false
 virtual: false
 accessibility_information:
@@ -31,7 +30,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join animal expert Angie for this super hedgehog themed session. Share an exciting story, take part in some hedgehog themed activities and meet real hedgehog! Watch as \_'Horrid Henry' forages for his bugs & take advantage of a fantastic photo opportunity as you will get to hold him in his cosy bag.\_"
+        text: 'Get up close to Kate & William the Tortoises. Help to bathe them, learn more about them and prepare for some great for photo opportunities. The session will be rounded off with a tortoise themed story.'
   -
     type: paragraph
     attrs:
@@ -52,10 +51,6 @@ content_area:
     type: paragraph
     attrs:
       textAlign: start
-    content:
-      -
-        type: text
-        text: 'Recommended age 4+'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -63,7 +58,7 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750344423
+updated_at: 1750344681
 duplicated_from: cfad7014-d2ee-4283-a7e5-8228bcacade8
 featured_image: pelicanpelican-3x2/nature.png
 cost_details: £5
@@ -112,7 +107,7 @@ directions:
               target: _blank
               title: null
         text: 'the Suffolk Onboard website.'
-booking_link: 'https://www.eastpointpavilion.com/events/r2mks88weams4hmp95xswrdpxk3syz'
+booking_link: 'https://www.eastpointpavilion.com/events/animal-handling-with-angies-curious-creatures-ds8e3'
 attendance_information: 'Recommended ages 4+'
 ---
-A hedgehog story and craft session!
+A tortoise handling, story and craft session!
