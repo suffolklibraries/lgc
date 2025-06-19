@@ -1,17 +1,16 @@
 ---
 id: 4f23e94e-c035-42c8-b2b8-8fdcd6448c3a
 blueprint: events
-title: 'The Pavilion Sessions'
+title: 'Food and Drink Festival'
 event_categories:
   - community
-  - music
-  - dance
   - wellbeing
+  - food
 organisers:
   - east-point-pavilion
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-06 13:30'
-end_date: '2025-06-06 16:00'
+featured_image: pelicanpelican-3x2/coffee.png
+start_date: '2025-08-24 10:00'
+end_date: '2025-08-24 15:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -71,7 +70,15 @@ content_area:
     content:
       -
         type: text
-        text: 'All are welcome to join these unplugged sessions and play traditional or contemporary tunes, or sing songs.'
+        text: 'As a hub for local food, live music and community events we’re pleased to be putting on another fantastic FREE event for the people of Lowestoft! '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Join us on Sunday 24 August to browse artisan jams, local spirits, baked goods, vegan treats and much more, as we commemorate our very first Food and Drink Festival.'
   -
     type: paragraph
     attrs:
@@ -79,7 +86,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us from 1.30pm for a ‘Slow Tune Session for Improvers’, followed by a folk session for singers and players from 2-4pm.'
+        text: 'With stalls inside and out, we’ll be overflowing with only the best food & drink this Summer - this is one you won’t want to miss!'
   -
     type: paragraph
     attrs:
@@ -87,23 +94,44 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just turn up and join in or listen!'
+        marks:
+          -
+            type: italic
+        text: 'RSVP and share the event on Facebook, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://fb.me/e/9SvJ4U0vO'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: italic
+          -
+            type: underline
+        text: here
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: .
 cta: |-
   This event is organised by First Light Festival
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747312169
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750345034
 duplicated_from: 3851469b-9185-426f-96e6-f45e269eb3de
-booking_link: 'https://www.eastpointpavilion.com/events/the-pavilion-sessions-erw6n-jtlxl'
+booking_link: 'https://www.eastpointpavilion.com/events/food-drink-festival'
 accessibility_information:
-  - 'Wheelchair accessible'
-  - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-published: false
 ---
-‘Come all’ inclusive folk get-togethers.
+Make the most of the Bank Holiday weekend along the seafront!
