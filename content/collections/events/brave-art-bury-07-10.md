@@ -1,8 +1,7 @@
 ---
 id: 6283061d-cf87-4e28-bea2-a74bbef85ab9
-published: false
 blueprint: events
-title: 'Brave Art - Bury St Edmunds (Duplicated) (Duplicated)'
+title: 'Brave Art - Bury St Edmunds'
 event_categories:
   - art
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-09-16 10:00'
-end_date: '2025-09-16 15:00'
+start_date: '2025-10-07 10:00'
+end_date: '2025-10-07 15:00'
 free: false
 virtual: false
 latitude: '52.248150770555625'
@@ -131,7 +130,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750345466
+updated_at: 1750345509
 duplicated_from: 2b852190-7141-40a3-9981-881a349e60c4
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-bse-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
