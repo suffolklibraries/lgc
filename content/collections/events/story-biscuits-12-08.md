@@ -1,23 +1,24 @@
 ---
 id: edbc2714-9b95-4ee6-ba47-e7b478d03a04
-published: false
 blueprint: events
-title: "Angie's Curious Creatures (Duplicated)"
+title: 'Story Themed Biscuit Decorating'
 event_categories:
   - art
   - family-friendly
-  - nature
+  - early-years
+  - literature
 organisers:
   - first-light-festival
-start_date: '2025-07-30 11:00'
-end_date: '2025-07-30 12:00'
-free: false
+start_date: '2025-08-12 12:00'
+end_date: '2025-08-12 13:00'
+free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+  - 'Drop-in event'
 latitude: '52.47138864661286'
 longitude: '1.7497777921068107'
 address_line_2: 'Royal Plain'
@@ -31,7 +32,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join animal expert Angie for this super hedgehog themed session. Share an exciting story, take part in some hedgehog themed activities and meet real hedgehog! Watch as \_'Horrid Henry' forages for his bugs & take advantage of a fantastic photo opportunity as you will get to hold him in his cosy bag.\_"
+        text: 'Drop in any time between 11am and 1pm to take part in this free activity.'
   -
     type: paragraph
     attrs:
@@ -39,23 +40,14 @@ content_area:
     content:
       -
         type: text
-        text: 'Children must remain supervised by an adult at all times throughout the session. '
+        text: 'Children must be accompanied by an adult at all times.'
   -
     type: paragraph
     attrs:
       textAlign: left
     content:
       -
-        type: text
-        text: 'Tickets are £5 plus booking fee per child'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Recommended age 4+'
+        type: hardBreak
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -63,10 +55,9 @@ cta: |-
 
   [hello@eastpointpavilion.com](mailto:hello@eastpointpavilion.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750344423
+updated_at: 1750344597
 duplicated_from: cfad7014-d2ee-4283-a7e5-8228bcacade8
-featured_image: pelicanpelican-3x2/nature.png
-cost_details: £5
+featured_image: pelicanpelican-3x2/literature.png
 building_name: 'East Point Pavilion'
 directions:
   -
@@ -112,7 +103,6 @@ directions:
               target: _blank
               title: null
         text: 'the Suffolk Onboard website.'
-booking_link: 'https://www.eastpointpavilion.com/events/r2mks88weams4hmp95xswrdpxk3syz'
-attendance_information: 'Recommended ages 4+'
+booking_link: 'https://www.eastpointpavilion.com/events/story-themed-biscuit-decorating-with-national-literacy-trust'
 ---
-A hedgehog story and craft session!
+Family fun at East Point Pavillion.
