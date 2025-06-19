@@ -1,8 +1,7 @@
 ---
 id: 241fdcff-dc52-43dc-8277-27da77993f18
-published: false
 blueprint: events
-title: 'Salsa Night (Duplicated)'
+title: 'Salsa Night'
 event_categories:
   - community
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-08-07 19:00'
-end_date: '2025-08-07 21:30'
+start_date: '2025-09-04 19:00'
+end_date: '2025-09-04 21:30'
 free: false
 virtual: false
 latitude: '52.47138864661286'
@@ -96,9 +95,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750344476
+updated_at: 1750345071
 duplicated_from: 3851469b-9185-426f-96e6-f45e269eb3de
-booking_link: 'https://www.eastpointpavilion.com/events/july-salsa-night-wgtw7'
+booking_link: 'https://www.eastpointpavilion.com/events/july-salsa-night-lb3xt'
 cost_details: £7.50
 accessibility_information:
   - 'Accessible toilets'
