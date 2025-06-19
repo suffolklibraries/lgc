@@ -1,14 +1,13 @@
 ---
 id: 92854df3-86ec-41c6-bb3a-2d9c3bf2ca13
-published: false
 blueprint: events
-title: 'Curious Minds - Felixstowe (Duplicated) (Duplicated)'
+title: 'Curious Minds - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750347376
+updated_at: 1750347443
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
-start_date: '2025-08-25 13:30'
+start_date: '2025-09-08 13:30'
 event_categories:
   - art
   - community
