@@ -5,11 +5,12 @@ title: 'Brave Art - Lowestoft'
 event_categories:
   - wellbeing
   - art
+  - community
 organisers:
   - suffolk-artlink
-featured_image: offthepressimages/support.png
-start_date: '2025-05-01 10:00'
-end_date: '2025-05-01 15:00'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-09-18 10:00'
+end_date: '2025-09-18 15:00'
 free: false
 virtual: false
 latitude: '52.47693008464241'
@@ -25,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Through a series of artist-led sessions in three locations we provide inspiration and support for people to express themselves through visual arts, bringing the social and wellbeing benefits of being creative together.'
+        text: 'Brave Art Unlimited is a programme for learning disabled and neurodivergent people to access high quality creative opportunities. Through a series of artist-led sessions in three locations we provide inspiration and support for people to express themselves through visual arts, bringing the social and wellbeing benefits of being creative together.'
   -
     type: paragraph
     attrs:
@@ -66,22 +67,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-bse-24/'
+              href: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-low-25/'
               rel: null
               target: _blank
               title: null
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Artlink website'
+        text: ' Suffolk Artlink website'
       -
         type: text
         text: .
@@ -108,7 +98,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For more assistance please contact Charlie Meyer - '
+        text: 'For more assistance, please contact Charlie Meyer - '
       -
         type: text
         marks:
@@ -128,10 +118,10 @@ cta: |-
   [01986 873955](tel:01986873955)
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737536140
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750346606
 duplicated_from: ff7f1590-3be9-46f7-bdd8-2c92a95ae03f
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-low-25/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-low-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
 attendance_information: 'Learning disabled and neurodivergent adults'
 accessibility_information:
@@ -245,6 +235,5 @@ directions:
       -
         type: text
         text: .
-published: false
 ---
-Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.
+high quality creative opportunities.
