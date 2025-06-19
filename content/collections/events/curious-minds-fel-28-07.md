@@ -1,17 +1,17 @@
 ---
 id: 78a802f6-d4c0-4c21-8eda-f11977e6e583
 blueprint: events
-title: 'Be Brave this Break at Felixstowe'
+title: 'Curious Minds - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739370041
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750347298
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
-start_date: '2025-02-19 11:00'
+start_date: '2025-07-28 13:30'
 event_categories:
-  - family-friendly
-  - literature
   - art
+  - community
+  - wellbeing
 free: true
 virtual: false
 organisers:
@@ -20,8 +20,8 @@ address_line_1: 'Felixstowe Library'
 address_line_2: 'Crescent Road'
 town: Felixstowe
 postcode: 'IP11 7BY'
-featured_image: suffolklibrariesimages/ben-mac-p.png
-attendance_information: 'ages 7+'
+featured_image: pelicanpelican-3x2/lgc-va.png
+attendance_information: 'People aged 18 plus living with complex health needs'
 content_area:
   -
     type: paragraph
@@ -30,7 +30,23 @@ content_area:
     content:
       -
         type: text
-        text: "Scared of spiders? Horrified by heights? Terrified of Tyrannosaurus Rexes? Bring along your worst fears and together we will make them things we can easily overcome.\_"
+        text: 'Working with professional artists, Eleanor Rodwell and Michelle Brace, participants will explore aspects of the collections from the Food Museum in Stowmarket to inspire their creativity. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Participants can expect to work with a wide range of creative techniques including relaxation techniques, digital photography, textiles, 3D clay and sculptural art, drawing and experimental mark making. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'No creative experience is necessary as these workshops are an opportunity to connect, learn and develop new skills to promote overall wellbeing.'
   -
     type: paragraph
     attrs:
@@ -38,7 +54,7 @@ content_area:
     content:
       -
         type: text
-        text: "Get involved in games, craft activities and a little bit of writing as we face our fears this half term break. Workshops last 45 minutes and start at\_11AM 1.30PM and 3.15PM.\_Suitable for children aged 7+. Children must be accompanied by a responsible grown-up."
+        text: 'Participants will also have the opportunity of a final exhibition at the library as part of the programme.'
   -
     type: paragraph
     attrs:
@@ -46,7 +62,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free but limited, so booking in advance is recommended.'
+        text: 'The programme starts with a taster session on Monday July 28th 1.30-3.30pm for 12 weeks ending on Monday October 13th.'
   -
     type: paragraph
     attrs:
@@ -54,35 +70,35 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Book your free place via the Suffolk Libraries website - '
+        text: 'Any questions please contact '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-felixstowe'
-              rel: null
-              target: _blank
+              href: 'mailto:jen@suffolkartlink.org.uk'
+              rel: noopener
+              target: null
               title: null
-          -
-            type: bold
-        text: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-felixstowe'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        text: jen@suffolkartlink.org.uk
       -
         type: text
-        text: "This workshop is facilitated by Ben Macpherson.\_Ben is a playful poet and performer who makes work for all ages. He’s been heard on BBC Radio 2, 4extra and BBC Radio Suffolk. You might have seen him live at Latitude, the Edinburgh Fringe Festival or at any other number of live arts events around the country. Hist first book Serious Nonsense for Terribly Grown-Up People came out in 2023 with his follow up Serious Nonsense for the Unbearably Festive following in Autumn 2024. He believes poetry is for everyone and when he isn’t writing and rhyming can be found playing with Lego.\_"
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
+        text: ' or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:07514484107'
+              rel: null
+              target: null
+              title: null
+        text: '07514 484107'
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by Suffolk Libraries
 
@@ -93,8 +109,9 @@ cta: |-
   [01473 351249](tel:01473351249)
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-02-19 16:00'
+end_date: '2025-07-28 15:30'
 duplicated_from: 26244b02-f50d-4633-b2ba-d3344f422339
 directions:
   -
@@ -191,7 +208,6 @@ directions:
       -
         type: text
         text: .
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/be-brave-this-break-at-felixstowe'
-published: false
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/curious-minds-felixstowe-25/'
 ---
-Come along to the library to play with poems this half-term!
+Nurture your wellbeing through creative and mindful activities.
