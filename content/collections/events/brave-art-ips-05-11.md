@@ -1,8 +1,7 @@
 ---
 id: fe21dab3-6be1-482e-b175-f0999cf2a090
-published: false
 blueprint: events
-title: 'Brave Art - Ipswich (Duplicated)'
+title: 'Brave Art - Ipswich'
 event_categories:
   - wellbeing
   - art
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-22 10:00'
-end_date: '2025-10-22 15:00'
+start_date: '2025-11-05 10:00'
+end_date: '2025-11-05 15:00'
 free: false
 virtual: false
 latitude: '52.05879312178225'
@@ -131,7 +130,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750346474
+updated_at: 1750346498
 duplicated_from: ab7d6375-c1cd-442a-a634-011a0432ec85
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-ips-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
