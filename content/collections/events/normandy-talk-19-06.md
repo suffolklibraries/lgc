@@ -112,5 +112,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1738685099
 duplicated_from: 86198dfb-99a0-4c5f-a02e-e1a859cd7519
+published: false
 ---
 A series of horrific unsolved murders committed in the East End of London during what has become known as the ‘Autumn of Terror’ in 1888.
