@@ -1,14 +1,13 @@
 ---
 id: 26e17b10-911e-4b09-8aa2-54d04a52257f
-published: false
 blueprint: events
-title: 'Curious Minds - Felixstowe (Duplicated)'
+title: 'Curious Minds - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750347376
+updated_at: 1750347400
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
-start_date: '2025-08-25 13:30'
+start_date: '2025-09-01 13:30'
 event_categories:
   - art
   - community
@@ -112,7 +111,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-08-25 15:30'
+end_date: '2025-09-01 15:30'
 duplicated_from: c72f5688-655a-4a6c-bec6-89fc3c93dc4e
 directions:
   -
