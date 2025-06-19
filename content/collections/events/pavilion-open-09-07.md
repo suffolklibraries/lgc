@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-06 18:30'
-end_date: '2025-06-06 21:00'
+start_date: '2025-07-09 18:30'
+end_date: '2025-07-09 21:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -79,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: '6.30pm - 7.45pm - Open Mic'
+        text: '6.30pm - 7pm - Sign up to perform'
   -
     type: paragraph
     attrs:
@@ -87,31 +87,22 @@ content_area:
     content:
       -
         type: text
-        text: '7.45pm - 8.15pm - New Dawn showcase act'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: '8.15pm - 9pm - Open Mic'
+        text: '7pm onwards - Live music from open-mic and a New Dawn showcase performance.'
 cta: |-
   This event is organised by First Light Festival
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747312232
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750344221
 duplicated_from: 4f23e94e-c035-42c8-b2b8-8fdcd6448c3a
-booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-open-mic-night'
+booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-open-mic-night-7mg5x'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-published: false
 ---
 Inclusive open mic session where everyone is welcome!
