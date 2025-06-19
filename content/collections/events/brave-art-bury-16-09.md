@@ -5,11 +5,12 @@ title: 'Brave Art - Bury St Edmunds'
 event_categories:
   - art
   - wellbeing
+  - community
 organisers:
   - suffolk-artlink
 featured_image: offthepressimages/support.png
-start_date: '2025-05-27 10:00'
-end_date: '2025-05-27 15:00'
+start_date: '2025-09-16 10:00'
+end_date: '2025-09-16 15:00'
 free: false
 virtual: false
 latitude: '52.248150770555625'
@@ -41,7 +42,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our experienced Project Officer Fran Speight will, as usual, create a safe and welcoming space where everyone can be creative and make new friends.'
+        text: 'Our experienced Project Officer Charlie Meyer will, as usual, create a safe and welcoming space where everyone can be creative and make new friends.'
   -
     type: paragraph
     attrs:
@@ -77,7 +78,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
+              href: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-bse-25/'
               rel: null
               target: _blank
               title: null
@@ -108,7 +109,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For more assistance please contact Charlie Meyer - '
+        text: 'For more assistance, please contact Charlie Meyer - '
       -
         type: text
         marks:
@@ -128,10 +129,10 @@ cta: |-
   [01986 873955](tel:01986873955)
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743589120
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750345466
 duplicated_from: 81cb22d8-ab00-4408-bd71-8d2b434a21e7
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/ba-spring-bse-25/'
+booking_link: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-bse-25/'
 cost_details: '£200 for course ticket, £30 per day ticket'
 attendance_information: 'Learning disabled and neurodivergent adults'
 accessibility_information:
@@ -248,6 +249,5 @@ directions:
       -
         type: text
         text: .
-published: false
 ---
-Brave Art is a programme for learning disabled and neurodivergent people to access high quality creative opportunities.
+Enjoy high quality creative opportunities
