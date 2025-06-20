@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - brandon-and-district-garden-club
 featured_image: pelicanpelican-3x2/later_nature-(1).png
-start_date: '2026-07-26 14:00'
-end_date: '2026-07-26 16:30'
+start_date: '2025-07-26 14:00'
+end_date: '2025-07-26 16:30'
 free: true
 cost_details: '£1 per adult, children free'
 virtual: false
@@ -161,7 +161,7 @@ cta: |-
 
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750256192
+updated_at: 1750402331
 duplicated_from: 661ed6d7-2a16-4ebd-b2c6-97ceab687dd5
 ---
 Come along and join the fun!
