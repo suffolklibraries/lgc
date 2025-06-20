@@ -109,5 +109,6 @@ organisers:
   - suffolk-pride
 cost_details: £15
 booking_link: 'https://www.wolseytheatre.co.uk/events/laugh-out-proud-june-2025/'
+published: false
 ---
 The best in established and upcoming comedy acts from the LGBTQ+ community!
