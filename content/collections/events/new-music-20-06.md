@@ -146,5 +146,6 @@ directions:
         type: text
         text: .
 cost_details: '£12.50; under 30s half price'
+published: false
 ---
 This recital features six first performances of exciting new works by Young Artist composers, alongside music by their composition tutors.
