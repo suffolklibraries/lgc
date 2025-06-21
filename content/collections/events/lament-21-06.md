@@ -129,5 +129,6 @@ directions:
         type: text
         text: .
 cost_details: '£12.50; under 30s half price'
+published: false
 ---
 Pioneering soprano Juliet Fraser explores the timeless vocalisation of the lament.
