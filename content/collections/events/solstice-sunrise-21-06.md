@@ -120,5 +120,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Gathering on the east coast to greet the rising sun of the summer solstice.
