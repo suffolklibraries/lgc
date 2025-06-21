@@ -105,5 +105,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
+published: false
 ---
 The Pavilion comes alive over the First Light Festival weekend.
