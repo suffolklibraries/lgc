@@ -152,5 +152,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Join Suffolk Pride for our Youth Pride at The Hold.

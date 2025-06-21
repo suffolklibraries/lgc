@@ -232,5 +232,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1739887199
 duplicated_from: a3167765-4998-4c2c-951e-02950d81e511
 booking_link: 'https://www.nhrm.co.uk/events/newmarket-young-arts/'
+published: false
 ---
 Free monthly creative sessions for children and young people
