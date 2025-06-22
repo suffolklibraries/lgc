@@ -192,5 +192,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1743605748
 duplicated_from: e9fdef7d-8fb8-4cff-86b9-5813f5500582
 booking_link: 'https://firstlightlowestoft.com/'
+published: false
 ---
 See you on the beach!
