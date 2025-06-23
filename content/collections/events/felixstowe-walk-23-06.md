@@ -129,5 +129,6 @@ event_categories:
   - later-years
   - movement
   - nature
+published: false
 ---
 A gentle stroll along the prom and through Langer Park.
