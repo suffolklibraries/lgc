@@ -1,8 +1,7 @@
 ---
 id: 0688a479-6924-4b2d-bb3e-cb93486e640f
-published: false
 blueprint: events
-title: 'Mini Music Makers (Duplicated) (Duplicated) (Duplicated)'
+title: 'Mini Music Makers'
 event_categories:
   - music
   - early-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-09-19 10:00'
-end_date: '2025-09-19 11:30'
+start_date: '2025-10-17 10:00'
+end_date: '2025-10-17 11:30'
 free: true
 virtual: false
 latitude: '52.16397679077819'
@@ -106,7 +105,7 @@ content_area:
         type: text
         text: ' to be added to the waiting list. Please let us know if you can no longer make a session, so the place can be offered to another music maker.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750761343
+updated_at: 1750761882
 duplicated_from: afb69ece-158a-4cd8-b995-2e2f7993bd4e
 cta: |-
   This event is organised by Britten Pears Arts
