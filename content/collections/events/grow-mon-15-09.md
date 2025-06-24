@@ -1,6 +1,5 @@
 ---
 id: 851323ad-cc8a-434d-9d02-77c4245413de
-published: false
 blueprint: events
 title: 'ActivGardens - Grow Your Future - Monday'
 event_categories:
@@ -103,7 +102,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750758921
+updated_at: 1750758956
 duplicated_from: 897d8d86-daec-49f9-8bab-ef1d38e7e345
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '16 + years'
