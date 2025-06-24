@@ -1,51 +1,64 @@
 ---
 id: ba990c79-67dc-44e5-918e-ab006fe2e267
 blueprint: events
-title: 'ActivGardens - Grow Your Future'
+title: 'ActivGardens - Grow Your Future - Monday'
 event_categories:
   - nature
+  - community
+  - languages
+  - wellbeing
 organisers:
   - activgardens
 featured_image: pelicanpelican-3x2/food_nature-(1).png
-start_date: '2024-08-28 09:30'
-end_date: '2024-11-13 14:30'
+start_date: '2025-09-01 09:30'
+end_date: '2025-09-01 14:30'
 free: true
 virtual: false
 latitude: '52.03845056427872'
 longitude: '1.1481543616015653'
-address_line_1: 'The People’s Community Garden, Maidenhall Allotments'
+address_line_1: 'Maidenhall Allotments'
 address_line_2: 'Halifax Road'
 town: Ipswich
 postcode: 'IP2 8RE'
 content_area:
   -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
         text: 'In this free 12-week course, you will learn about gardening, horticulture and nature conservation in our safe, welcoming and inspiring community gardens. '
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to book'
+        text: 'ActivGardens provide a rounded learning environment with positive outcomes for work and life.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'To find out more and book please contact Susannah on '
+        text: 'To find out more, or register your interest, please contact Susannah via email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:susannah@activlives.org.uk'
+              rel: null
+              target: null
+              title: null
+        text: susannah@activlives.org.uk
+      -
+        type: text
+        text: ' or by calling '
       -
         type: text
         marks:
@@ -59,26 +72,44 @@ content_area:
         text: '07530 407302'
       -
         type: text
-        text: ' or email '
+        text: .
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Click '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:susannah@activlives.org.uk'
+              href: 'https://activlives.org.uk/activgardens/grow-your-future/'
               rel: null
               target: null
               title: null
-        text: susannah@activlives.org.uk
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
+        text: 'here to visit the ActivGardens website to find out more'
       -
         type: text
-        text: 'How to get there'
+        text: .
+cta: |-
+  This event is organised by ActivGardens
+
+  [https://activlives.org.uk/activgardens/](https://activlives.org.uk/activgardens/) 
+
+  [01473 345350](tel:01473345350)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1750758634
+duplicated_from: ab808249-6ff0-466e-b493-690ada51f368
+booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
+attendance_information: '16 + years'
+accessibility_information:
+  - '- Accessible for wheelchair users and people with mobility issues'
+building_name: 'The People’s Community Garden'
+directions:
   -
     type: paragraph
     content:
@@ -113,7 +144,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The garden has its own pedestrian gate – from Halifax Road, walk down the roadway (not accessible to vehicles from either end), keeping the allotment site on your left and Bourne Vale Social Club on your right – the gate is a short walk along the pavement on the left hand side. From Wherstead Road, look out for Orwell’s furniture shop and turn into the roadway opposite, which leads under the railway bridge (if you are in a car, park between the trees – if you go under the bridge you may get stuck or have a long way to reverse), walk up the roadway, pass the main allotment gates, and our pedestrian gate will be on your right.'
+        text: 'The garden has its own pedestrian gate – from Halifax Road, walk down the roadway (not accessible to vehicles from either end), keeping the allotment site on your left and Bourne Vale Social Club on your right – the gate is a short walk along the pavement on the left-hand side. From Wherstead Road, look out for Orwell’s furniture shop and turn into the roadway opposite, which leads under the railway bridge (if you are in a car, park between the trees – if you go under the bridge you may get stuck or have a long way to reverse), walk up the roadway, pass the main allotment gates, and our pedestrian gate will be on your right.'
   -
     type: paragraph
     content:
@@ -134,19 +165,5 @@ content_area:
       -
         type: text
         text: '. '
-cta: |-
-  This event is organised by ActivGardens:
-
-  [https://activlives.org.uk/activgardens/](https://activlives.org.uk/activgardens/) 
-
-  [01473 345350](tel:01473345350)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1729785141
-duplicated_from: ab808249-6ff0-466e-b493-690ada51f368
-booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
-attendance_information: '- 16 + years'
-accessibility_information:
-  - '- Accessible for wheelchair users and people with mobility issues'
-published: false
 ---
-Take part in our programme to develop practical skills and build confidence on your way to further learning, training or employment.
+Develop practical skills and build confidence on your way to further learning, training or employment.
