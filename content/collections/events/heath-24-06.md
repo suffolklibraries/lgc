@@ -126,5 +126,6 @@ directions:
         text: .
 cost_details: 'Tickets from £12.50; under 30s half price'
 booking_link: 'https://www.brittenpearsarts.org/events/heath-and-fibonacci-beethoven-britten-and-grime'
+published: false
 ---
 A beautiful combination of Britten and Beethoven alongside the Helen Grime’s two distinctive string quartets.
