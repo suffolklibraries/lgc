@@ -2,7 +2,7 @@
 id: 851323ad-cc8a-434d-9d02-77c4245413de
 published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Future - Monday (Duplicated) (Duplicated)'
+title: 'ActivGardens - Grow Your Future - Monday'
 event_categories:
   - nature
   - community
@@ -11,8 +11,8 @@ event_categories:
 organisers:
   - activgardens
 featured_image: pelicanpelican-3x2/food_nature-(1).png
-start_date: '2025-09-01 09:30'
-end_date: '2025-09-01 14:30'
+start_date: '2025-09-15 09:30'
+end_date: '2025-09-15 14:30'
 free: true
 virtual: false
 latitude: '52.03845056427872'
@@ -103,7 +103,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750758634
+updated_at: 1750758921
 duplicated_from: 897d8d86-daec-49f9-8bab-ef1d38e7e345
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '16 + years'
