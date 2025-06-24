@@ -117,5 +117,6 @@ directions:
         text: .
 cost_details: 'Tickets from £12.50; under 30s half price'
 booking_link: 'https://www.brittenpearsarts.org/events/melodies-and-lieder'
+published: false
 ---
 Wonderful French and German song performed by two song duos.
