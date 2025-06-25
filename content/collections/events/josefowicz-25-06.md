@@ -141,5 +141,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £10; under 30s half-price'
+published: false
 ---
 The superstar violinist is joined by brothers Huw and Paul Watkins for a stellar chamber concert.
