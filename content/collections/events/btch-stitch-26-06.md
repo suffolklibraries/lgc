@@ -184,5 +184,6 @@ cta: |-
 
   [info@suffolkpride.org.uk](mailto:info@suffolkpride.org.uk)
 duplicated_from: 01801630-4564-415f-8e39-39fcc119812b
+published: false
 ---
 Join us for our monthly crafty vent sesh at Geek Retreat Ipswich!
