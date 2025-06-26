@@ -140,5 +140,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £10; under 30s half-price'
+published: false
 ---
 One of the world’s finest choirs performs sumptuous music that speaks of lockdown and liberation.
