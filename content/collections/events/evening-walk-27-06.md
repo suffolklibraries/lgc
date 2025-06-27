@@ -68,5 +68,6 @@ directions:
       -
         type: text
         text: 'Onsite paid parking.'
+published: false
 ---
 An evening walk at Blaxhall Heath and Common looking and listening for the nightjar.
