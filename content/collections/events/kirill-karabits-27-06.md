@@ -142,5 +142,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £10; under 30s half-price'
+published: false
 ---
 A centrepiece of Daniel Kidane’s presence in Aldeburgh Festival.
