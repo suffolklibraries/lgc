@@ -127,5 +127,6 @@ event_categories:
   - community
   - movement
 address_line_2: 'Old Norwich Road'
+published: false
 ---
 Join our more challenging walk.
