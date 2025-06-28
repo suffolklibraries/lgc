@@ -121,5 +121,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://www.brittenpearsarts.org/big-day-out'
+published: false
 ---
 A day out with something for everyone!
