@@ -120,5 +120,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £17.50; under 30s half price'
+published: false
 ---
 "The classiest brass ensemble in Britain."
