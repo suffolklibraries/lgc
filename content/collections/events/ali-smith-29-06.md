@@ -128,5 +128,6 @@ directions:
         type: text
         text: .
 cost_details: '£15; under 30s half price'
+published: false
 ---
 Ali Smith gives this year’s Hesse Lecture.

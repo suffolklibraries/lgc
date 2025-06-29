@@ -144,5 +144,6 @@ cta: |-
   [info@suffolkpride.org.uk](mailto:info@suffolkpride.org.uk)
 duplicated_from: 7a7d37d1-29e7-4a57-9039-0e59f11f420d
 address_line_2: 'Sea Road'
+published: false
 ---
 Come with us to Felixstowe for our last event of the Suffolk Pride Fringe!
