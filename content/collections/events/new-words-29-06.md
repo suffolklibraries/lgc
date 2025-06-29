@@ -117,5 +117,6 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
+published: false
 ---
 The Seagull's bi-monthly performance platform for local poets and songwriters.
