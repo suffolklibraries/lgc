@@ -173,5 +173,6 @@ cta: |-
   [brandonanddistrictgardenclub@gmail.com](mailto:brandonanddistrictgardenclub@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1750173099
+published: false
 ---
 Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.
