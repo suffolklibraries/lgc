@@ -161,5 +161,6 @@ directions:
 address_line_1: 'Waterfront Building'
 address_line_2: '19 Neptune Quay'
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/holywells-park-and-waterfront-52'
+published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.

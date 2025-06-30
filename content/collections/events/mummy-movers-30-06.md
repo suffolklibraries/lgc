@@ -212,5 +212,6 @@ directions:
               title: null
         text: here.
 building_name: 'Dance East'
+published: false
 ---
 Rediscover your groove through the sheer joy of dance!
