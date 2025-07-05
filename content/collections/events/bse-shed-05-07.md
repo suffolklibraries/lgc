@@ -133,5 +133,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1742474914
 duplicated_from: faec552d-f730-4536-a977-177531097252
+published: false
 ---
 Open to anyone 18 or over, of all interests and skill levels (and not just men!)
