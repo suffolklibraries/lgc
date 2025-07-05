@@ -102,5 +102,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1747063793
 duplicated_from: 7a038f75-a09d-46c4-805e-444b41d4fd1a
+published: false
 ---
 Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
