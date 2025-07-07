@@ -1,16 +1,15 @@
 ---
 id: af886aae-c4f6-49f9-b446-dae6bf8885e6
-published: false
 blueprint: events
-title: 'Horseplay - Street Art Characters (Duplicated)'
+title: 'Horseplay - Printmaking Workshop'
 event_categories:
   - museums
   - art
   - family-friendly
 organisers:
   - national-horse-racing-museum
-start_date: '2025-08-20 11:00'
-end_date: '2025-08-20 15:00'
+start_date: '2025-08-27 11:00'
+end_date: '2025-08-27 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -133,15 +132,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Street Art Game Characters with artist Kev Parker from Reprezent Project. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your place on this workshop, follow the link here.'
+        text: 'Boardgame inspired Printmaking with Penny Sobr. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
   -
     type: paragraph
     attrs:
@@ -202,10 +193,10 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751907208
+updated_at: 1751907266
 duplicated_from: 08a01a9a-2360-4ee4-a47b-eb862ac5abce
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 featured_image: nationa-horse-racing-museum/creative-workshop-800-x-700px-aspect-ratio-800-700.png
-booking_link: 'https://www.nhrm.co.uk/events/horseplay-creative-summer-family-friendly-workshop-copy-copy-copy/'
+booking_link: 'https://www.nhrm.co.uk/events/horseplay-creative-summer-family-friendly-workshop-copy-copy/'
 ---
 Creative summer workshops.
