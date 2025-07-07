@@ -7,8 +7,8 @@ event_categories:
   - community
   - wellbeing
 organisers:
-  - rock-paper-scissors
-featured_image: rockpaperscissorsimages/rps-open-studio-.png
+  - ampp
+featured_image: pelicanpelican-3x2/lgc-va.png
 start_date: '2025-07-09 10:00'
 end_date: '2025-07-09 15:00'
 free: false
@@ -18,7 +18,7 @@ accessibility_information:
   - 'Drop-in event'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
-building_name: 'Dove Street Studio'
+building_name: 'AMPP Studio'
 address_line_1: '11 Dove Street'
 town: Ipswich
 postcode: 'IP4 1NG'
@@ -101,13 +101,13 @@ content_area:
       -
         type: text
         text: 'Each session will include a theme/prompt to work from or just come along with your own projects.'
-booking_link: 'https://www.rockpaperscissors.org.uk/programme'
+booking_link: 'https://www.ampp.studio/whats-on'
 cta: |-
-  This event is run by Rock Paper Scissors
+  This event is run by AMPP
 
-  [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748522746
+  [https://www.ampp.studio/](https://www.ampp.studio/)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1751904201
 duplicated_from: c3c2b059-3f1e-4255-a71f-214b381f14f7
 cost_details: £5
 ---
