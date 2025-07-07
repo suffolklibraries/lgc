@@ -1,16 +1,15 @@
 ---
 id: d742f93c-b675-47b5-bbca-0d7c611bbdba
-published: false
 blueprint: events
-title: 'Horseplay - Street Art and Games Workshop (Duplicated)'
+title: 'Horseplay - Mosaic Art'
 event_categories:
   - museums
   - art
   - family-friendly
 organisers:
   - national-horse-racing-museum
-start_date: '2025-07-23 11:00'
-end_date: '2025-07-23 15:00'
+start_date: '2025-07-30 11:00'
+end_date: '2025-07-30 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -133,7 +132,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for a Street Art and Games workshop with Reprezent Project. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
+        text: 'Get creative in this video game inspired art and mosaics workshop. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
   -
     type: paragraph
     attrs:
@@ -141,21 +140,7 @@ content_area:
     content:
       -
         type: text
-        text: 'To book your place on this workshop, follow the link '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://national-horseracing-museum-parent-account.arttickets.org.uk/national-horseracing-museum/street-art-and-games-workshop-with-reprezent-project-68528603219d3'
-              rel: noopener
-              target: _blank
-              title: null
-        text: here
-      -
-        type: text
-        text: ". \_Free with Museum Admission. All materials are included."
+        text: "\_Free with Museum Admission. All materials are included."
   -
     type: paragraph
     attrs:
@@ -180,7 +165,7 @@ content_area:
             attrs:
               href: 'https://eequ.org/search-learning-experiences?q=national+horseracing+museum'
               rel: null
-              target: _blank
+              target: null
               title: null
         text: 'https://eequ.org/search-learning-experiences?q=national+horseracing+museum'
   -
@@ -208,8 +193,9 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751906688
+updated_at: 1751906866
 duplicated_from: acd92a32-408d-4d09-80c2-30adf3e22768
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
+featured_image: nationa-horse-racing-museum/creative-workshop-800-x-700px-aspect-ratio-800-700.png
 ---
 Creative summer workshops.
