@@ -207,7 +207,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751906890
+updated_at: 1751906899
 duplicated_from: 83210907-13a3-4cd9-b182-423594c86c22
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 featured_image: nationa-horse-racing-museum/creative-workshop-800-x-700px-aspect-ratio-800-700.png
