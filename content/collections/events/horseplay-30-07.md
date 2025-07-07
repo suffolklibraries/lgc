@@ -193,9 +193,10 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751906866
+updated_at: 1751907074
 duplicated_from: acd92a32-408d-4d09-80c2-30adf3e22768
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 featured_image: nationa-horse-racing-museum/creative-workshop-800-x-700px-aspect-ratio-800-700.png
+booking_link: 'https://www.nhrm.co.uk/events/horseplay-creative-summer-family-friendly-workshop-copy/'
 ---
 Creative summer workshops.
