@@ -1,24 +1,25 @@
 ---
 id: 782bf11d-0d7f-4bf3-8eb3-ba8c20603dfe
 blueprint: events
-title: 'Summer Open Studio 2025'
+title: 'Summer Hideouts'
 event_categories:
   - art
   - community
   - wellbeing
 organisers:
-  - rock-paper-scissors
-featured_image: rockpaperscissorsimages/rps-open-studio-.png
-start_date: '2025-06-25 10:00'
-end_date: '2025-06-25 15:00'
-free: false
+  - ampp
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-07-22 09:00'
+end_date: '2025-07-22 15:00'
+free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Drop-in event'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
-building_name: 'Dove Street Studio'
+building_name: 'AMPP Studio'
 address_line_1: '11 Dove Street'
 town: Ipswich
 postcode: 'IP4 1NG'
@@ -85,14 +86,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you are looking for a space to come and be creative on your own terms, join us on Wednesdays at our Dove Street studio for a drop-in creative working session between 10-3 pm.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'We are supported by Ipswich Borough Council, with their help we aim to reduce isolation and promote mental wellness in adults through creativity and community. '
+        text: 'AMPP Studio’s Summer Hideouts are full creative days packed with exciting materials, space to explore, and plenty of opportunities to get messy and make amazing art! '
   -
     type: paragraph
     attrs:
@@ -100,16 +94,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Each session will include a theme/prompt to work from or just come along with your own projects.'
-booking_link: 'https://www.rockpaperscissors.org.uk/programme'
+        text: 'Each day offers a range of hands-on projects inspired by brilliant artists, favourite books, elements of nature, and themes suggested by our young creatives. Children can experiment with different styles, materials, and processes—learning through play and imagination. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Our experienced team of qualified Artist Facilitators guide each session with care, helping children build confidence, spark new ideas, and develop their own artistic voice. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We champion curiosity, self-expression, and independent thinking in a calm, inclusive environment where every child feels part of a vibrant creative community. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Wear clothes made for mess!'
+booking_link: 'https://eequ.org/book/ampp-studio-hideouts-art-camp-with-ampp-studio-16607'
 cta: |-
-  This event is run by Rock Paper Scissors
+  This event is run by AMPP
 
-  [https://www.rockpaperscissors.org.uk/](https://www.rockpaperscissors.org.uk/)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748522716
+  [https://www.ampp.studio/](https://www.ampp.studio/)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1751903888
 duplicated_from: 724e07e6-bdfd-48b2-b850-af9e0beea2e6
-cost_details: £5
-published: false
+cost_details: 'Free for children receiving free school meals, standard tickets are £40'
+attendance_information: 'For ages 5 - 11'
 ---
-Come and be creative on your own terms.
+Full day art camps!
