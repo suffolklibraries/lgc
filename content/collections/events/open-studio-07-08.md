@@ -1,8 +1,7 @@
 ---
 id: 27b7f225-7c62-414b-a763-3dad2ff94338
-published: false
 blueprint: events
-title: 'Summer Hideouts (Duplicated)'
+title: 'Summer Hideouts'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ampp
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-08-05 09:00'
-end_date: '2025-08-05 15:00'
+start_date: '2025-08-07 09:00'
+end_date: '2025-08-07 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -126,7 +125,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751903982
+updated_at: 1751904004
 duplicated_from: 12578370-5b70-4f20-98d8-d4c5e2e32af2
 cost_details: 'Free for children receiving free school meals, standard tickets are £40'
 attendance_information: 'For ages 5 - 11'
