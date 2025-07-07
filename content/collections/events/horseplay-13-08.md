@@ -1,16 +1,15 @@
 ---
 id: eacaab71-f25d-415b-a93b-e241faaafee8
-published: false
 blueprint: events
-title: 'Horseplay - T-shirt Printing (Duplicated)'
+title: 'Horseplay - Creative Clay'
 event_categories:
   - museums
   - art
   - family-friendly
 organisers:
   - national-horse-racing-museum
-start_date: '2025-08-06 11:00'
-end_date: '2025-08-06 15:00'
+start_date: '2025-08-13 11:00'
+end_date: '2025-08-13 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -133,7 +132,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Design and decorate board game inspired t-shirts. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
+        text: 'Get crafty with clay inspired by board games in this workshop with Studio Scribbles. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
   -
     type: paragraph
     attrs:
@@ -194,10 +193,10 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751907040
+updated_at: 1751907149
 duplicated_from: 0d0e18bd-5590-431a-b2ac-135e93eac3bc
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 featured_image: nationa-horse-racing-museum/creative-workshop-800-x-700px-aspect-ratio-800-700.png
-booking_link: 'https://www.nhrm.co.uk/events/horseplay-creative-summer-family-friendly-workshop-copy-copy-2-copy/'
+booking_link: 'https://www.nhrm.co.uk/events/horseplay-creative-summer-family-friendly-workshop-copy-copy-2/'
 ---
 Creative summer workshops.
