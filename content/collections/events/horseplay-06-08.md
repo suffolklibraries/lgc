@@ -1,16 +1,15 @@
 ---
 id: 0d0e18bd-5590-431a-b2ac-135e93eac3bc
-published: false
 blueprint: events
-title: 'Horseplay - Mosaic Art (Duplicated)'
+title: 'Horseplay - T-shirt Printing'
 event_categories:
   - museums
   - art
   - family-friendly
 organisers:
   - national-horse-racing-museum
-start_date: '2025-07-30 11:00'
-end_date: '2025-07-30 15:00'
+start_date: '2025-08-06 11:00'
+end_date: '2025-08-06 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -133,7 +132,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Get creative in this video game inspired art and mosaics workshop. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
+        text: 'Design and decorate board game inspired t-shirts. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
   -
     type: paragraph
     attrs:
@@ -194,9 +193,10 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751906866
+updated_at: 1751907040
 duplicated_from: d742f93c-b675-47b5-bbca-0d7c611bbdba
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 featured_image: nationa-horse-racing-museum/creative-workshop-800-x-700px-aspect-ratio-800-700.png
+booking_link: 'https://www.nhrm.co.uk/events/horseplay-creative-summer-family-friendly-workshop-copy-copy-2-copy/'
 ---
 Creative summer workshops.
