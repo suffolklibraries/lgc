@@ -1,19 +1,17 @@
 ---
 id: acd92a32-408d-4d09-80c2-30adf3e22768
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions'
+title: 'Horseplay - Street Art and Games Workshop'
 event_categories:
   - museums
-  - early-years
+  - art
   - family-friendly
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-06-13 11:00'
-end_date: '2025-06-13 12:00'
+start_date: '2025-07-23 11:00'
+end_date: '2025-07-23 15:00'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -130,11 +128,11 @@ content_area:
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: 'Join us for a Street Art and Games workshop with Reprezent Project. Get crafty together in this fun workshop inspired by our special exhibition, HORSEPLAY!'
   -
     type: paragraph
     attrs:
@@ -142,37 +140,56 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your pre-school place, please email '
+        text: 'To book your place on this workshop, follow the link '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:info@nhrm.co.uk'
-              rel: null
-              target: null
+              href: 'https://national-horseracing-museum-parent-account.arttickets.org.uk/national-horseracing-museum/street-art-and-games-workshop-with-reprezent-project-68528603219d3'
+              rel: noopener
+              target: _blank
               title: null
-        text: info@nhrm.co.uk
+        text: here
       -
         type: text
-        text: .
+        text: ". \_Free with Museum Admission. All materials are included."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Please note that this activity is part of the Suffolk Holiday and Activity Fund programme of holiday provision and if your child receives free school meals, you are eligible for a FREE family museum visit, workshop and your child will receive a freshly made nutritious packed lunch from The Tack Box.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'FREE spaces can be booked through EQUU at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://eequ.org/search-learning-experiences?q=national+horseracing+museum'
+              rel: null
+              target: _blank
+              title: null
+        text: 'https://eequ.org/search-learning-experiences?q=national+horseracing+museum'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Workshops start at 11am, 11.50am, 1.20pm, and 2.10pm.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -181,9 +198,9 @@ cta: |-
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638 667314](tel:01638667314)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730815429
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1751906659
 duplicated_from: 83210907-13a3-4cd9-b182-423594c86c22
-published: false
+cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 ---
-Free, creative play sessions, designed to educate and entertain!
+Creative summer workshops.
