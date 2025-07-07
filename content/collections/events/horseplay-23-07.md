@@ -189,7 +189,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Workshops start at 11am, 11.50am, 1.20pm, and 2.10pm.'
+        text: 'Workshops start at 11am, 11.50am, 1.20pm, and 2.10pm. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Booking essential.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -199,7 +207,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751906659
+updated_at: 1751906688
 duplicated_from: 83210907-13a3-4cd9-b182-423594c86c22
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 ---
