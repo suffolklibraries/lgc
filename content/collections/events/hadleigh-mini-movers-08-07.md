@@ -315,5 +315,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Come and try a weekly movement class, ideal for toddlers and their grown-ups!
