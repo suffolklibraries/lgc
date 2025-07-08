@@ -280,5 +280,6 @@ directions:
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/springboard-juniors-2/'
 building_name: 'Dance East'
+published: false
 ---
 Fun, friendly and inclusive class for children with additional needs.
