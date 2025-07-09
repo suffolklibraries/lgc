@@ -1,13 +1,12 @@
 ---
 id: 4d5889aa-7f47-4a27-be03-00833bec194a
-published: false
 blueprint: events
-title: 'Adventure Days - Hadleigh (Duplicated)'
+title: 'Adventure Days - Hadleigh'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-08-19 08:30'
-end_date: '2025-08-19 16:30'
+start_date: '2025-08-20 08:30'
+end_date: '2025-08-20 16:30'
 free: true
 virtual: false
 latitude: '52.03865104664002'
@@ -93,7 +92,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1752070987
+updated_at: 1752071007
 duplicated_from: 651b7ed0-17ee-42b0-a9f2-e331fb0ec197
 event_categories:
   - wellbeing
