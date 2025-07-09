@@ -143,5 +143,6 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
+published: false
 ---
 Join us in the beautiful and peaceful surroundings of The Red House for our monthly Bereavement Café.
