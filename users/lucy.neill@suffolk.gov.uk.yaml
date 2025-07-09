@@ -2,3 +2,7 @@ name: 'Lucy Neill'
 super: true
 id: b6080d5a-09dc-463a-919d-b42bd6740591
 password_hash: $2y$10$vVeAyaxafdw25XR7r651Mu7h1XIU/rLShlgKiDf9/dkPz.dzQ2vPq
+preferences:
+  assets:
+    assets:
+      mode: grid
