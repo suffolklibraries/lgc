@@ -1,13 +1,12 @@
 ---
 id: 6e941a81-5d98-4610-bc8c-9c556af1ba0f
-published: false
 blueprint: events
-title: 'Adventure Days - Stowmarket (Duplicated)'
+title: 'Adventure Days - Stowmarket'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-08-11 08:30'
-end_date: '2025-08-11 16:30'
+start_date: '2025-08-12 08:30'
+end_date: '2025-08-12 16:30'
 free: true
 virtual: false
 latitude: '52.17478231678212'
@@ -93,7 +92,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1752071700
+updated_at: 1752071743
 duplicated_from: 83129103-8eaa-4e26-8bad-e25bf15c7166
 event_categories:
   - wellbeing
