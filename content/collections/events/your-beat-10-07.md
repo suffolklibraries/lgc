@@ -235,5 +235,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1749548419
 duplicated_from: f3f895af-cf02-42d5-a03d-9d82b9cde844
 booking_link: 'https://thecut.org.uk/events/embody-your-beat/'
+published: false
 ---
 If you don’t do your dance, who will?
