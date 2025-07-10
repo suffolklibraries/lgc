@@ -139,5 +139,6 @@ event_categories:
 accessibility_information:
   - 'Wheelchair accessible'
 address_line_2: Reydon
+published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
