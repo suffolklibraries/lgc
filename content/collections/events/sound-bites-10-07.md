@@ -154,5 +154,6 @@ directions:
         type: text
         text: .
 building_name: 'Sudbury Arts Centre'
+published: false
 ---
 Free lunchtime live music.
