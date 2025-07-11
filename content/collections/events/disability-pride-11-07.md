@@ -120,5 +120,6 @@ event_categories:
   - activism
 accessibility_information:
   - 'Wheelchair accessible'
+published: false
 ---
 Coming to Felixstowe this year is the town’s first ever Disability Pride!
