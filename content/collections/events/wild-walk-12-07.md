@@ -71,5 +71,6 @@ updated_at: 1747063537
 duplicated_from: 6793400a-5080-4883-bfbb-29ae185a70e6
 attendance_information: 'Adults and children aged 10+'
 address_line_2: 'Barking Tye'
+published: false
 ---
 A walk to an ancient woodland where a variety of butterflies can be seen.
