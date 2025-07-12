@@ -252,5 +252,6 @@ directions:
               target: null
               title: null
         text: here.
+published: false
 ---
 Introduce your little ones to the joy of dance in a creative, fun, and stimulating space.
