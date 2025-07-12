@@ -182,5 +182,6 @@ directions:
 booking_link: 'https://www.ticketsource.co.uk/sudburyartscentre/mozart-to-movies-west-bergholt-concert-band/e-lkykva'
 cost_details: 'From £2 per person plus booking fees'
 building_name: 'Sudbury Arts Centre'
+published: false
 ---
 A special fundraising concert for the work of The Bridge Project charity.
