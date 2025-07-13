@@ -127,5 +127,6 @@ directions:
 accessibility_information:
   - 'Relaxed performance'
   - 'Drop-in event'
+published: false
 ---
 Open air concert in Bury St Edmunds town centre!
