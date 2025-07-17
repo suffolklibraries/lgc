@@ -164,5 +164,6 @@ event_categories:
   - movement
 accessibility_information:
   - 'Wheelchair accessible'
+published: false
 ---
 Join our short town walk.
