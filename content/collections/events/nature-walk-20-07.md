@@ -73,5 +73,6 @@ building_name: 'Westleton Heath Nature Reserve'
 postcode: 'IP22 2TQ'
 attendance_information: 'suitable for adults and children aged 12+'
 address_line_2: Saxmundham
+published: false
 ---
 A guided walk across Westleton Heath looking at insects and wildflowers.
