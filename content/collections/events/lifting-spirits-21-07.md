@@ -131,5 +131,6 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+published: false
 ---
 A women's singing project with a focus on mental health.
