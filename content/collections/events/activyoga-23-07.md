@@ -158,5 +158,6 @@ duplicated_from: 4cd834ad-7e37-4b02-80b8-8f79ef6deb73
 cost_details: £6.50
 address_line_1: '382 Landseer Road'
 booking_link: 'https://activlives.org.uk/activyoga-for-beginners-and-improvers/'
+published: false
 ---
 If you haven’t tried it before, come and give it a go!
