@@ -113,5 +113,6 @@ directions:
         text: 'the Suffolk Onboard website.'
 booking_link: 'https://www.eastpointpavilion.com/events/r2mks88weams4hmp95xswrdpxk3syz'
 attendance_information: 'Recommended ages 4+'
+published: false
 ---
 A hedgehog story and craft session!
