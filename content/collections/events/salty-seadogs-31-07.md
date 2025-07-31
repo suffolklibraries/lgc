@@ -143,5 +143,6 @@ directions:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-zomagd&target=&iframe=true'
 cost_details: '£4 per child'
+published: false
 ---
 Storytelling with the Yarnsmith of Norwich.

@@ -132,5 +132,6 @@ updated_at: 1740666935
 duplicated_from: 1dd33fe0-a0a5-4ca5-9467-5b09e005a84a
 accessibility_information:
   - 'Accessible toilets'
+published: false
 ---
 A butterfly themed family activity session.
