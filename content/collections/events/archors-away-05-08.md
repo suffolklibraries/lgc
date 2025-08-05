@@ -124,5 +124,6 @@ directions:
         text: .
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-vxqaaq&target=&iframe=true'
 cost_details: '£5 per child'
+published: false
 ---
 Join the nautical fun at The Hold.
