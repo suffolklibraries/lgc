@@ -198,5 +198,6 @@ duplicated_from: d742f93c-b675-47b5-bbca-0d7c611bbdba
 cost_details: 'Free for children receiving free school meals, standard tickets from £10'
 featured_image: nationa-horse-racing-museum/creative-workshop-800-x-700px-aspect-ratio-800-700.png
 booking_link: 'https://www.nhrm.co.uk/events/horseplay-creative-summer-family-friendly-workshop-copy-copy-2-copy/'
+published: false
 ---
 Creative summer workshops.
