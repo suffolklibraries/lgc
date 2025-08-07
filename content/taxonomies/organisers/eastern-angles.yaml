@@ -2,3 +2,15 @@ title: 'Eastern Angles'
 email_address: admin@easternangles.co.uk
 telephone_number: '01473 218202'
 website: 'https://easternangles.co.uk/'
+addresses:
+  -
+    id: 0ef5f6fe-0b00-4858-8e00-0d8fd6908457
+    name: 'Eastern Angles Centre'
+    address_line_1: 'Gatacre Road'
+    address_line_2: null
+    town: Ipswich
+    postcode: 'IP1 2LQ'
+    lat: '52.06314219999999'
+    lng: '1.13732'
+    directions: '<p></p>'
+    building_name: 'Eastern Angles Centre'
