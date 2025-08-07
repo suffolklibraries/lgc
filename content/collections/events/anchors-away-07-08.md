@@ -122,5 +122,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Get crafty with Suffolk Archives this summer.
