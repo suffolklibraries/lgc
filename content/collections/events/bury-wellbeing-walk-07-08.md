@@ -187,5 +187,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
