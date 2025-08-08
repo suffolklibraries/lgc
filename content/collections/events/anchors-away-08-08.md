@@ -149,5 +149,6 @@ directions:
         type: text
         text: .
 address_line_1: 'Palace House'
+published: false
 ---
 Get crafty with Suffolk Archives this summer.
