@@ -104,5 +104,6 @@ directions:
               title: null
         text: 'the Suffolk Onboard website.'
 booking_link: 'https://www.eastpointpavilion.com/events/story-themed-biscuit-decorating-with-national-literacy-trust'
+published: false
 ---
 Family fun at East Point Pavillion.
