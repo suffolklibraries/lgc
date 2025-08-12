@@ -129,5 +129,6 @@ updated_at: 1751904015
 duplicated_from: 27b7f225-7c62-414b-a763-3dad2ff94338
 cost_details: 'Free for children receiving free school meals, standard tickets are £40'
 attendance_information: 'For ages 5 - 11'
+published: false
 ---
 Full day art camps!
