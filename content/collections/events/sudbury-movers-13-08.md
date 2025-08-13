@@ -197,5 +197,6 @@ duplicated_from: f5af5f1f-89e3-4011-964f-3afc34d6fc60
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
 booking_link: 'https://www.danceeast.co.uk/movers-2/'
+published: false
 ---
 Come and try our weekly movement classes for people over 55!

@@ -130,5 +130,6 @@ directions:
         text: .
 address_line_1: '131 Fore Street'
 cost_details: '£4 per child'
+published: false
 ---
 Swashbuckling stories!
