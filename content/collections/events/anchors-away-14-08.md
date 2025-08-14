@@ -141,5 +141,6 @@ directions:
         type: text
         text: .
 address_line_2: 'Milton Road North'
+published: false
 ---
 Get crafty with Suffolk Archives this summer.
