@@ -101,5 +101,6 @@ directions:
       -
         type: text
         text: 'There is parking available on Old Lowestoft Road. '
+published: false
 ---
 Enjoy a guided walk with the Warden.
