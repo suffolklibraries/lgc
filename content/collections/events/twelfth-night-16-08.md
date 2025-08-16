@@ -117,5 +117,6 @@ organisers:
   - new-wolsey-theatre
 cost_details: 'Free for people aged under £22, all other tickets £12'
 booking_link: 'https://www.wolseytheatre.co.uk/events/twelfth-night/'
+published: false
 ---
 Presented by the New Wolsey Theatre Young Company.
