@@ -136,5 +136,6 @@ cta: |-
   [https://www.becclescarnival.co.uk/](https://www.becclescarnival.co.uk/)
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1746615027
+published: false
 ---
 Line the streets of Beccles for the grand parades!
