@@ -91,5 +91,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 cost_details: 'Free for children receiving free school meals'
 attendance_information: 'Children aged 8-14'
+published: false
 ---
 Free activities for children who live in Bury St Edmunds!
