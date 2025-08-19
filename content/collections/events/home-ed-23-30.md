@@ -1,15 +1,14 @@
 ---
 id: afa52b9e-cc47-46a6-9e26-d3fdfc1a1fc0
-published: false
 blueprint: events
-title: 'Home Ed with AMPP (Duplicated) (Duplicated)'
+title: 'Home Ed with AMPP'
 event_categories:
   - teen
   - languages
   - art
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-09-09 13:00'
-end_date: '2025-09-09 15:00'
+start_date: '2025-09-23 13:00'
+end_date: '2025-09-23 15:00'
 free: false
 virtual: false
 attendance_information: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive.'
@@ -103,7 +102,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755620155
+updated_at: 1755620189
 duplicated_from: 9309d463-0cca-40d1-8acd-9cab72a99b62
 cost_details: £12.50
 booking_link: 'https://www.ampp.studio/whats-on'
