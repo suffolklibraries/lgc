@@ -1,20 +1,18 @@
 ---
 id: 35521372-7241-4c99-9c0f-b32048e457a3
-published: false
 blueprint: events
-title: 'AMPP Urban Campfire (Duplicated)'
+title: 'High School Sketchbook Club'
 event_categories:
   - teen
   - art
   - community
-  - food
   - wellbeing
-featured_image: ampp/urban-campfire.png
-start_date: '2025-08-25 13:00'
-end_date: '2025-08-25 15:00'
-free: true
-virtual: false
-attendance_information: 'Young men aged 16–25'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-09-06 12:00'
+end_date: '2025-09-06 13:30'
+free: false
+virtual: true
+attendance_information: '11 to 18 year olds'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -88,45 +86,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Urban Campfire is a free creative project for young men aged 16–25 in Ipswich.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Join us at AMPP Studio for three powerful, welcoming evening sessions where food, conversation, and creativity come together to build community and confidence.'
-      -
-        type: hardBreak
-      -
-        type: hardBreak
+        text: 'We have an open studio feel with creative prompts and access to materials and processes to illustrate, print make and create however you like.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: 'Each session includes:'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Making Fresh food over the fire with local chef Brian aka Knife of Brian'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Guest creative Ben from Guy Cry Club - supporting you to design a mural'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Collaborative filming with Damola of YES Ipswich'
+        text: 'Bring your own sketchbook or project or come ready to get inspired!'
 cta: |-
   This event is run by AMPP Studio
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755613046
+updated_at: 1755618641
 duplicated_from: 45796c41-95ad-4777-8b35-3f6b8a4b7833
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
+cost_details: £9
 ---
-Good food. Real talk. Creative sparks.
+A weekly sketchbook club in Ipswich
