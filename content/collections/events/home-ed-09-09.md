@@ -1,5 +1,6 @@
 ---
 id: 14a98450-c9c8-4b62-a2cb-d66d0f47eb5c
+published: false
 blueprint: events
 title: 'Home Ed with AMPP'
 event_categories:
@@ -7,13 +8,14 @@ event_categories:
   - languages
   - art
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-07-10 13:00'
-end_date: '2025-07-10 15:00'
+start_date: '2025-09-09 13:00'
+end_date: '2025-09-09 15:00'
 free: false
 virtual: false
 attendance_information: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive.'
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
   - 'Drop-in event'
 latitude: '52.0563490706618'
@@ -101,10 +103,9 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751904587
+updated_at: 1755619303
 duplicated_from: 45796c41-95ad-4777-8b35-3f6b8a4b7833
 cost_details: £12.50
 booking_link: 'https://www.ampp.studio/whats-on'
-published: false
 ---
-oCreate with us in a calm and quiet inclusive space.
+Create with us in a calm and quiet inclusive space.
