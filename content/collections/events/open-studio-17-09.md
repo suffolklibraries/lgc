@@ -1,8 +1,7 @@
 ---
 id: 3787c15d-33a9-42ba-99a1-921ec50398ec
-published: false
 blueprint: events
-title: 'Summer Open Studio 2025 (Duplicated)'
+title: 'Open Studio'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ampp
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-09-10 10:00'
-end_date: '2025-09-10 15:00'
+start_date: '2025-09-17 10:00'
+end_date: '2025-09-17 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -109,7 +108,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755618937
+updated_at: 1755618973
 duplicated_from: c828ca88-8f87-4448-92b1-7e5ca579ae53
 ---
 Come and be creative on your own terms.
