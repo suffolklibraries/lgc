@@ -1,22 +1,22 @@
 ---
 id: b3205858-5018-482b-a883-e70001c0164c
-published: false
 blueprint: events
-title: 'Home Ed with AMPP (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - teen
   - languages
   - art
+  - family-friendly
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-07-10 13:00'
-end_date: '2025-07-10 15:00'
+start_date: '2025-09-06 10:00'
+end_date: '2025-09-06 11:30'
 free: false
 virtual: false
-attendance_information: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive.'
+attendance_information: 'ages 5 to 10 years'
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Drop-in event'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
 building_name: 'AMPP Studio'
@@ -86,25 +86,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Marie and Emma run gently structured workshops, with a weekly theme with opportunities to make and create in different ways.'
-      -
-        type: hardBreak
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Parents and Guardians are welcome to drop off or stay if they get involved!'
+        text: 'You can drop off your child with peace of mind – our staff are DBS checked, paediatric first aiders and have safeguarding training.'
 cta: |-
   This event is run by AMPP
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751904587
+updated_at: 1755618292
 duplicated_from: 14a98450-c9c8-4b62-a2cb-d66d0f47eb5c
-cost_details: £12.50
+cost_details: £9
 booking_link: 'https://www.ampp.studio/whats-on'
+organisers:
+  - ampp-studio
 ---
-oCreate with us in a calm and quiet inclusive space.
+90 minutes of creative fun!
