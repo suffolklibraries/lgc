@@ -1,8 +1,7 @@
 ---
 id: 589fa431-ab42-4a1d-9018-452584e417ae
-published: false
 blueprint: events
-title: 'AMPP Urban Campfire (Duplicated)'
+title: 'AMPP Urban Campfire'
 event_categories:
   - teen
   - art
@@ -10,7 +9,7 @@ event_categories:
   - food
   - wellbeing
 featured_image: ampp/urban-campfire.png
-start_date: '2025-08-25 13:00'
+start_date: '2025-09-01 13:00'
 end_date: '2025-08-25 15:00'
 free: true
 virtual: false
@@ -123,7 +122,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755613046
+updated_at: 1755613079
 duplicated_from: 45796c41-95ad-4777-8b35-3f6b8a4b7833
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
