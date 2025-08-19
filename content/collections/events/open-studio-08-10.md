@@ -1,8 +1,7 @@
 ---
 id: 271c0691-0a82-479d-afad-b122684bb0b8
-published: false
 blueprint: events
-title: 'Open Studio (Duplicated) (Duplicated)'
+title: 'Open Studio'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ampp
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-09-24 10:00'
-end_date: '2025-09-24 15:00'
+start_date: '2025-10-08 10:00'
+end_date: '2025-10-08 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -109,7 +108,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755618984
+updated_at: 1755619024
 duplicated_from: 545fc9e0-6ef3-4e46-80fa-553f0aac917c
 ---
 Come and be creative on your own terms.
