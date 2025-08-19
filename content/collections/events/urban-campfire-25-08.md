@@ -1,17 +1,19 @@
 ---
 id: 45796c41-95ad-4777-8b35-3f6b8a4b7833
 blueprint: events
-title: 'Home Ed with AMPP'
+title: 'AMPP Urban Campfire'
 event_categories:
   - teen
-  - languages
   - art
-featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-07-17 13:00'
-end_date: '2025-07-17 15:00'
-free: false
+  - community
+  - food
+  - wellbeing
+featured_image: ampp/urban-campfire.png
+start_date: '2025-08-25 13:00'
+end_date: '2025-08-25 15:00'
+free: true
 virtual: false
-attendance_information: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive.'
+attendance_information: 'Young men aged 16–25'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -85,26 +87,45 @@ content_area:
     content:
       -
         type: text
-        text: 'Marie and Emma run gently structured workshops, with a weekly theme with opportunities to make and create in different ways.'
+        text: 'Urban Campfire is a free creative project for young men aged 16–25 in Ipswich.'
       -
         type: hardBreak
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Parents and Guardians are welcome to drop off or stay if they get involved!'
+        text: 'Join us at AMPP Studio for three powerful, welcoming evening sessions where food, conversation, and creativity come together to build community and confidence.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Each session includes:'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Making Fresh food over the fire with local chef Brian aka Knife of Brian'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Guest creative Ben from Guy Cry Club - supporting you to design a mural'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Collaborative filming with Damola of YES Ipswich'
 cta: |-
-  This event is run by AMPP
+  This event is run by AMPP Studio
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751904566
+updated_at: 1755613046
 duplicated_from: 0191aeeb-ed50-440d-bbac-258276c3ec39
-cost_details: £12.50
 booking_link: 'https://www.ampp.studio/whats-on'
-published: false
+organisers:
+  - ampp-studio
 ---
-oCreate with us in a calm and quiet inclusive space.
+Good food. Real talk. Creative sparks.
