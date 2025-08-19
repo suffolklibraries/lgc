@@ -1,16 +1,15 @@
 ---
 id: abcf49c3-ddd9-4100-aca4-2f88252b3e7f
-published: false
 blueprint: events
-title: 'High School Sketchbook Club (Duplicated) (Duplicated)'
+title: 'High School Sketchbook Club'
 event_categories:
   - teen
   - art
   - community
   - wellbeing
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-09-27 12:00'
-end_date: '2025-09-27 13:30'
+start_date: '2025-10-11 12:00'
+end_date: '2025-10-11 13:30'
 free: false
 virtual: true
 attendance_information: '11 to 18 year olds'
@@ -101,7 +100,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755618695
+updated_at: 1755618825
 duplicated_from: dec9b389-6232-45fe-858b-06a9f74ee14e
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
