@@ -1,7 +1,7 @@
 ---
 id: c828ca88-8f87-4448-92b1-7e5ca579ae53
 blueprint: events
-title: 'Summer Open Studio 2025'
+title: 'Open Studio'
 event_categories:
   - art
   - community
@@ -108,7 +108,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755618937
+updated_at: 1755618987
 duplicated_from: 0a66ba4d-33cf-45df-90d7-4048a1138c2d
 ---
 Come and be creative on your own terms.
