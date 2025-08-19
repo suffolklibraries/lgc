@@ -9,12 +9,13 @@ event_categories:
 organisers:
   - ampp
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-08-13 10:00'
-end_date: '2025-08-13 15:00'
-free: false
+start_date: '2025-09-10 10:00'
+end_date: '2025-09-10 15:00'
+free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
+  - 'Autism friendly'
   - 'Drop-in event'
 latitude: '52.0563490706618'
 longitude: '1.164709702274864'
@@ -85,7 +86,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you are looking for a space to come and be creative on your own terms, join us on Wednesdays at our Dove Street studio for a drop-in creative working session between 10-3 pm.'
+        text: 'If you are looking for a space to come and be creative on your own terms, join us on Wednesdays at our Dove Street studio for a drop-in creative working session between 10-3pm.'
       -
         type: hardBreak
       -
@@ -107,9 +108,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751904274
+updated_at: 1755618937
 duplicated_from: 0a66ba4d-33cf-45df-90d7-4048a1138c2d
-cost_details: £5
-published: false
 ---
 Come and be creative on your own terms.
