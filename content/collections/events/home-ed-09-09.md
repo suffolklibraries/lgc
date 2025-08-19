@@ -1,6 +1,5 @@
 ---
 id: 14a98450-c9c8-4b62-a2cb-d66d0f47eb5c
-published: false
 blueprint: events
 title: 'Home Ed with AMPP'
 event_categories:
@@ -103,7 +102,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755619303
+updated_at: 1755620155
 duplicated_from: 45796c41-95ad-4777-8b35-3f6b8a4b7833
 cost_details: £12.50
 booking_link: 'https://www.ampp.studio/whats-on'
