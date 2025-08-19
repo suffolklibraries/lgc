@@ -8,8 +8,8 @@ event_categories:
   - art
   - family-friendly
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-09-13 10:00'
-end_date: '2025-09-13 11:30'
+start_date: '2025-09-27 10:00'
+end_date: '2025-09-27 11:30'
 free: false
 virtual: false
 attendance_information: 'ages 5 to 10 years'
@@ -92,7 +92,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755618355
+updated_at: 1755618364
 duplicated_from: b3205858-5018-482b-a883-e70001c0164c
 cost_details: £9
 booking_link: 'https://www.ampp.studio/whats-on'
