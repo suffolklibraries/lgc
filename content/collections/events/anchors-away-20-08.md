@@ -153,5 +153,6 @@ directions:
         type: text
         text: .
 address_line_1: 'Clapham Road South'
+published: false
 ---
 Get crafty with Suffolk Archives this summer.
