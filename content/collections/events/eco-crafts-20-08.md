@@ -117,5 +117,6 @@ directions:
               title: null
         text: 'the Suffolk Onboard website.'
 booking_link: 'https://www.eastpointpavilion.com/events/eco-crafts-with-wood-craft-folk-suffolk-beach-cleans'
+published: false
 ---
 Get creative with sustainable materials.
