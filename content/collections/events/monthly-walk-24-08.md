@@ -97,5 +97,6 @@ accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
 building_name: 'Foxburrow Nature Reserve'
+published: false
 ---
 Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide.
