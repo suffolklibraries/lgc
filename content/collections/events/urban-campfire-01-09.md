@@ -127,5 +127,6 @@ duplicated_from: 45796c41-95ad-4777-8b35-3f6b8a4b7833
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
+published: false
 ---
 Good food. Real talk. Creative sparks.
