@@ -1,10 +1,9 @@
 ---
 id: 4f371542-34dc-42d2-ac58-19dd51c909ed
-published: false
 blueprint: events
-title: 'Akenfield, adapted for the stage by Glenn Wilhide (Duplicated)'
-start_date: '2025-09-24 19:30'
-end_date: '2025-09-24 21:30'
+title: 'Akenfield, adapted for the stage by Glenn Wilhide'
+start_date: '2025-09-25 19:30'
+end_date: '2025-09-25 21:30'
 free: false
 virtual: false
 attendance_information: 'Suitable for all'
@@ -151,7 +150,7 @@ directions:
         type: text
         text: .
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756308322
+updated_at: 1756308352
 duplicated_from: 4cbdeca2-851d-4999-b48b-99c6edbe91fa
 ---
 Based on Ronald Blythe's much loved Akenfield: Portrait of an English village.
