@@ -1,10 +1,9 @@
 ---
 id: 958f0a42-9424-4e7c-bd14-d0084640e6f4
-published: false
 blueprint: events
-title: 'Akenfield, adapted for the stage by Glenn Wilhide (Duplicated)'
-start_date: '2025-10-11 14:30'
-end_date: '2025-10-11 16:30'
+title: 'Akenfield, adapted for the stage by Glenn Wilhide'
+start_date: '2025-10-11 19:30'
+end_date: '2025-10-11 21:30'
 free: false
 virtual: false
 attendance_information: 'Suitable for all'
@@ -77,7 +76,7 @@ cta: |-
 
   [https://www.shakefestival.com/](https://www.shakefestival.com/) 
 
-  [info(@)shakefestival.com](mailto:info(@)shakefestival.com)
+  [info@shakefestival.com](mailto:info@shakefestival.com)
 cost_details: '£18 adults,  Disabled / Assistant £12.00, Under 18 £5.00'
 created_by: 03cb6f91-155f-42f4-92eb-cc1731757464
 featured_image: user-events/leistona5landscape.jpg
@@ -167,7 +166,7 @@ directions:
               title: null
         text: 'the Suffolk Onboard website.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756309093
+updated_at: 1756309141
 duplicated_from: a809cdc1-7825-4f11-a536-94c0b86eb1fc
 ---
 Based on Ronald Blythe's much loved Akenfield: Portrait of an English village.
