@@ -122,5 +122,6 @@ directions:
         type: text
         text: .
 address_line_1: Cornhill
+published: false
 ---
 Get crafty with Suffolk Archives this summer.
