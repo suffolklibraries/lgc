@@ -1,19 +1,17 @@
 ---
 id: 45feeb06-4c81-418b-b9e1-be6f376a637f
-published: false
 blueprint: events
-title: 'Akenfield, adapted for the stage by Glenn Wilhide (Duplicated)'
-start_date: '2025-09-27 19:30'
-end_date: '2025-09-27 21:30'
+title: 'Akenfield, adapted for the stage by Glenn Wilhide'
+start_date: '2025-10-02 19:30'
+end_date: '2025-10-02 21:30'
 free: false
 virtual: false
 attendance_information: 'Suitable for all'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-address_line_1: '8 New Cut'
-town: Halesworth
-postcode: 'IP19 8BY'
+town: Ipswich
+postcode: 'IP1 2LQ'
 content_area:
   -
     type: paragraph
@@ -71,7 +69,7 @@ content_area:
               target: _blank
               title: null
         text: easternangles.co.uk/events/akenfield
-booking_link: 'https://www.ticketsource.com/shake'
+booking_link: 'https://easternangles.co.uk/event/akenfield/'
 cta: |-
   This event is organised by SHAKE Festival
 
@@ -85,52 +83,50 @@ event_categories:
   - theatre-and-performance
 organisers:
   - shake-festival
-latitude: '52.34619384646034'
-longitude: '1.5038529040451039'
-building_name: 'The Cut'
+latitude: '52.06333346360425'
+longitude: '1.1373039051974707'
+building_name: 'The Eastern Angles Centre'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: The
+        text: 'There is a free car park on-site, which you can enter using the large blue gates located on the right-hand side of Gatacre Road. Other car parks nearby which are pay and display include '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Halesworth+Library,+Bridge+Street,+Halesworth/Car+Park,+Halesworth+IP19+8BF/@52.3449212,1.5000528,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2m2!1d1.5019204!2d52.3450274!1m5!1m1!1s0x47d98b31303c7f8f:0xbf54f01bf856cf9f!2m2!1d1.5032912!2d52.3445208!3e2?entry=ttu'
+              href: 'https://en.parkopedia.co.uk/parking/south_street_ipswich/?arriving=202410311500&leaving=202410311700'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: ' '
+        text: 'South Street Car Park '
+      -
+        type: text
+        text: '(10 min walk to theatre).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The closest '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Wissett+Road/@52.3460503,1.5009029,17z/data=!3m1!5s0x47d98b315a44014f:0x4d61dd8517d71f86!4m23!1m16!4m15!1m6!1m2!1s0x47d98b31508c5357:0x40eccb485f618aed!2sThe+Cut,+8+New+Cut,+Halesworth+IP19+8BY!2m2!1d1.503869!2d52.3460759!1m6!1m2!1s0x47d98b3154831a81:0xf6d54937e9a00af2!2sWissett+Road,+Halesworth+IP19+8BX!2m2!1d1.502986!2d52.346161!3e2!3m5!1s0x47d98b3154831a81:0xf6d54937e9a00af2!8m2!3d52.346161!4d1.502986!16s%2Fg%2F1q67qtk1w?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.co.uk/maps/place/Sir+John+Mills+Theatre/@52.0631843,1.1376062,19.75z/data=!4m12!1m6!3m5!1s0x47d9a1b5f34a8ddd:0xe05bc781d84ef4dd!2sEastern+Angles+Centre!8m2!3d52.0631422!4d1.13732!3m4!1s0x47d9a1b5f9a67d49:0x8856208cee78829a!8m2!3d52.063236!4d1.137275'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'closest bus stop'
+        text: 'bus stop'
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/dir/Halesworth+Library,+Bridge+Street,+Halesworth/Car+Park,+Halesworth+IP19+8BF/@52.3449212,1.5000528,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2m2!1d1.5019204!2d52.3450274!1m5!1m1!1s0x47d98b31303c7f8f:0xbf54f01bf856cf9f!2m2!1d1.5032912!2d52.3445208!3e2?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: ' '
-      -
-        type: text
-        text: 'is a two minute walk away, and you can find the latest bus timetables on the '
+        text: ' is one minute away, see the latest bus timetables '
       -
         type: text
         marks:
@@ -139,49 +135,9 @@ directions:
             attrs:
               href: 'https://www.suffolkonboard.com/buses/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'Suffolk Onboard website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest car park is '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/place/Halesworth+Thoroughfare+Car+Park/@52.3445643,1.5001719,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2sHalesworth+Library,+Bridge+Street,+Halesworth!2m2!1d1.5019204!2d52.3450274!1m6!1m2!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!2sHalesworth+Thoroughfare+Car+Park,+Thoroughfare,+Halesworth+IP19+8AH!2m2!1d1.5028642!2d52.344223!3e2!3m5!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!8m2!3d52.344223!4d1.5028642!16s%2Fg%2F11d_8gq5bl?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Thoroughfare car park'
-      -
-        type: text
-        text: ' and is a five minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Halesworth Railway Station is a three minute walk away and you can find train times on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/has'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
+        text: here
       -
         type: text
         text: .
@@ -205,8 +161,11 @@ directions:
       -
         type: text
         text: .
+  -
+    type: paragraph
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756308526
+updated_at: 1756308695
 duplicated_from: 6ca9758e-afa7-43a0-9865-917a3e7adec8
+address_line_2: 'Gatacre Road'
 ---
 Based on Ronald Blythe's much loved Akenfield: Portrait of an English village.
