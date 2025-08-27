@@ -1,10 +1,9 @@
 ---
 id: 2f912f6b-fbee-4a17-849c-bbb0fc8699b2
-published: false
 blueprint: events
-title: 'Akenfield, adapted for the stage by Glenn Wilhide (Duplicated)'
-start_date: '2025-10-02 19:30'
-end_date: '2025-10-02 21:30'
+title: 'Akenfield, adapted for the stage by Glenn Wilhide'
+start_date: '2025-10-03 19:30'
+end_date: '2025-10-03 21:30'
 free: false
 virtual: false
 attendance_information: 'Suitable for all'
@@ -165,7 +164,7 @@ directions:
   -
     type: paragraph
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756308695
+updated_at: 1756308714
 duplicated_from: 45feeb06-4c81-418b-b9e1-be6f376a637f
 address_line_2: 'Gatacre Road'
 ---
