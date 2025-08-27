@@ -1,19 +1,18 @@
 ---
 id: c3258024-482e-4a75-9b99-7804f49319a2
-published: false
 blueprint: events
-title: 'Akenfield, adapted for the stage by Glenn Wilhide (Duplicated)'
-start_date: '2025-09-25 19:30'
-end_date: '2025-09-25 21:30'
+title: 'Akenfield, adapted for the stage by Glenn Wilhide'
+start_date: '2025-09-27 14:30'
+end_date: '2025-09-27 16:30'
 free: false
 virtual: false
 attendance_information: 'Suitable for all'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-address_line_1: '10 Church St'
-town: Woodbridge
-postcode: 'IP13 9BH'
+address_line_1: '8 New Cut'
+town: Halesworth
+postcode: 'IP19 8BY'
 content_area:
   -
     type: paragraph
@@ -85,51 +84,106 @@ event_categories:
   - theatre-and-performance
 organisers:
   - shake-festival
-latitude: '52.2224951487159'
-longitude: '1.345583957191378'
-building_name: 'Framlingham Old Theatre'
-address_line_2: Framlingham
+latitude: '52.34619384646034'
+longitude: '1.5038529040451039'
+building_name: 'The Cut'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The '
+        text: The
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/dir/10+Church+St/Castle,+Framlingham,+Woodbridge+IP13+9BP/@52.2223703,1.3429125,17z/data=!4m14!4m13!1m5!1m1!1s0x47d9903446819b71:0x64253fdb41542cf0!2m2!1d1.3454874!2d52.2223703!1m5!1m1!1s0x47d9903442c7308f:0x8089bb18954d19c0!2m2!1d1.345964!2d52.222683!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.com/maps/dir/Halesworth+Library,+Bridge+Street,+Halesworth/Car+Park,+Halesworth+IP19+8BF/@52.3449212,1.5000528,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2m2!1d1.5019204!2d52.3450274!1m5!1m1!1s0x47d98b31303c7f8f:0xbf54f01bf856cf9f!2m2!1d1.5032912!2d52.3445208!3e2?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'nearest bus stop'
+        text: ' '
       -
         type: text
-        text: ' is a minute walk away.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/place/Wissett+Road/@52.3460503,1.5009029,17z/data=!3m1!5s0x47d98b315a44014f:0x4d61dd8517d71f86!4m23!1m16!4m15!1m6!1m2!1s0x47d98b31508c5357:0x40eccb485f618aed!2sThe+Cut,+8+New+Cut,+Halesworth+IP19+8BY!2m2!1d1.503869!2d52.3460759!1m6!1m2!1s0x47d98b3154831a81:0xf6d54937e9a00af2!2sWissett+Road,+Halesworth+IP19+8BX!2m2!1d1.502986!2d52.346161!3e2!3m5!1s0x47d98b3154831a81:0xf6d54937e9a00af2!8m2!3d52.346161!4d1.502986!16s%2Fg%2F1q67qtk1w?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'closest bus stop'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.com/maps/dir/Halesworth+Library,+Bridge+Street,+Halesworth/Car+Park,+Halesworth+IP19+8BF/@52.3449212,1.5000528,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2m2!1d1.5019204!2d52.3450274!1m5!1m1!1s0x47d98b31303c7f8f:0xbf54f01bf856cf9f!2m2!1d1.5032912!2d52.3445208!3e2?entry=ttu'
+              rel: null
+              target: _blank
+              title: null
+        text: ' '
+      -
+        type: text
+        text: 'is a two minute walk away, and you can find the latest bus timetables on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard website'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest '
+        text: 'The nearest car park is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.apcoa.co.uk/parking-in/framlingham/market-hill-framlingham/'
+              href: 'https://www.google.com/maps/place/Halesworth+Thoroughfare+Car+Park/@52.3445643,1.5001719,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d98b36c7f5f84d:0xfd770d2c2e133869!2sHalesworth+Library,+Bridge+Street,+Halesworth!2m2!1d1.5019204!2d52.3450274!1m6!1m2!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!2sHalesworth+Thoroughfare+Car+Park,+Thoroughfare,+Halesworth+IP19+8AH!2m2!1d1.5028642!2d52.344223!3e2!3m5!1s0x47d98b30d8472cfb:0x1f4bb1f9cfc782db!8m2!3d52.344223!4d1.5028642!16s%2Fg%2F11d_8gq5bl?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'car parking is on Market Hill'
+        text: 'Thoroughfare car park'
       -
         type: text
-        text: ', a two-minute walk away.'
+        text: ' and is a five minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Halesworth Railway Station is a three minute walk away and you can find train times on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/has'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Greater Anglia website'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -151,7 +205,7 @@ directions:
         type: text
         text: .
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756308352
+updated_at: 1756308502
 duplicated_from: 4f371542-34dc-42d2-ac58-19dd51c909ed
 ---
 Based on Ronald Blythe's much loved Akenfield: Portrait of an English village.
