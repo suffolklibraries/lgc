@@ -1,19 +1,18 @@
 ---
 id: a809cdc1-7825-4f11-a536-94c0b86eb1fc
-published: false
 blueprint: events
-title: 'Akenfield, adapted for the stage by Glenn Wilhide (Duplicated)'
-start_date: '2025-10-05 19:30'
-end_date: '2025-10-05 21:30'
+title: 'Akenfield, adapted for the stage by Glenn Wilhide'
+start_date: '2025-10-11 14:30'
+end_date: '2025-10-11 16:30'
 free: false
 virtual: false
 attendance_information: 'Suitable for all'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-address_line_1: '8 New Cut'
-town: Stowmarket
-postcode: 'IP14 1DL'
+address_line_1: '74 High Street'
+town: Leiston
+postcode: 'IP16 4BZ'
 content_area:
   -
     type: paragraph
@@ -85,54 +84,70 @@ event_categories:
   - theatre-and-performance
 organisers:
   - shake-festival
-latitude: '52.18698642170369'
-longitude: '0.993427324181734'
-building_name: 'The Food Museum'
+latitude: '52.20572694557904'
+longitude: '1.5777546320490734'
+building_name: 'Leiston Cinema'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "To get here by car use postcode IP14 1PW to Finborough Road, then turn in to Iliffe Way. The museum car park, 'Iliffe Way Carpark' IP14 1SL is on the right."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "To get here on foot use Map directions to ASDA supermarket, IP14 1SL. The museum's main entrance is opposite."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: "There is no vehicular access to the Museum via Crowe Street, please do not follow SatNav/map instructions that take you this way. Some road/street signs may still use our previous name 'Museum of East Anglian Life'."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Using What3words? Find our front entrance at ///consoles.today.shuttling'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The Food Museum is just a 10-minute walk from '
+        text: 'The nearest rail station is '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/smk'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/sax'
               rel: null
               target: _blank
               title: null
-        text: 'Stowmarket Railway Station'
+        text: Saxmundham
       -
         type: text
-        text: ', with regular services to Stowmarket from London and Norwich.'
+        text: ', which is just over four miles away. This is on the Lowestoft to Ipswich line, via Beccles. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/dir/Leiston+Film+Theatre/Car+Park,+Leiston+IP16+4BX/@52.2055626,1.5749437,17z/data=!4m14!4m13!1m5!1m1!1s0x47da279243b0cd21:0x2d0f311dbe3ebedc!2m2!1d1.5776638!2d52.2055799!1m5!1m1!1s0x47da27925b1718af:0x75533b488f7575e0!2m2!1d1.577887!2d52.20517!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNC4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: null
+              title: null
+        text: 'nearest bus stop'
+      -
+        type: text
+        text: ' is a minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.apcoa.co.uk/parking-in/leiston/high-street-leiston/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'car park '
+      -
+        type: text
+        text: "a minute's walk away."
   -
     type: paragraph
     content:
@@ -149,13 +164,9 @@ directions:
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard'
-      -
-        type: text
-        text: .
+        text: 'the Suffolk Onboard website.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756308852
+updated_at: 1756309093
 duplicated_from: b3e3122a-ee1c-4464-bd85-9f6f759d19d6
-address_line_2: 'Iliffe Way'
 ---
 Based on Ronald Blythe's much loved Akenfield: Portrait of an English village.
