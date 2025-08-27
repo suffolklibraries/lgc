@@ -75,7 +75,7 @@ cta: |-
 
   [https://www.shakefestival.com/](https://www.shakefestival.com/) 
 
-  [info(@)shakefestival.com](mailto:info(@)shakefestival.com)
+  [info@shakefestival.com](mailto:info@shakefestival.com)
 cost_details: '£18 adults,  Disabled / Assistant £12.00, Under 18 £5.00'
 created_by: 03cb6f91-155f-42f4-92eb-cc1731757464
 featured_image: user-events/leistona5landscape.jpg
@@ -164,7 +164,7 @@ directions:
   -
     type: paragraph
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756308714
+updated_at: 1756309204
 duplicated_from: 45feeb06-4c81-418b-b9e1-be6f376a637f
 address_line_2: 'Gatacre Road'
 ---
