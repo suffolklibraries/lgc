@@ -1,14 +1,13 @@
 ---
 id: dfccd264-8448-4f6f-b50a-ea4b1f926022
-published: false
 blueprint: events
-title: 'The Mushroom Show (Duplicated)'
+title: 'The Mushroom Show'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756376536
-latitude: '52.45648425658775'
-longitude: '1.5657697817902454'
-start_date: '2025-10-25 10:00'
+updated_at: 1756376916
+latitude: '52.3291399786164'
+longitude: '1.6784890401425512'
+start_date: '2025-10-25 15:30'
 event_categories:
   - literature
   - teen
@@ -16,9 +15,9 @@ event_categories:
   - family-friendly
 free: true
 virtual: false
-address_line_2: Blyburgate
-town: Beccles
-postcode: 'NR34 9TB'
+address_line_2: 'Field Stile Road'
+town: Southwold
+postcode: 'IP18 6LB'
 featured_image: "suffolklibrariesimages/the-mushroom-show---photo-credit-'becky-rui-photography'-(3)---resize.jpg"
 attendance_information: 'Suitable for ages 5+.'
 content_area:
@@ -54,14 +53,14 @@ content_area:
         text: "Free to attend but booking is required. Please book a ticket for everyone in your family, including adults.\_"
       -
         type: text
-        text: 'Book your ticket at the front desk of Beccles Library or '
+        text: 'Book your ticket '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/the-mushroom-show-at-beccles-library/2025-10-25/10:00/t-dvyprda'
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/the-mushroom-show-at-geography-fieldworks-academy-in-southwold/2025-10-25/15:30/t-lnyzgjr'
               rel: noopener
               target: _blank
               title: null
@@ -70,6 +69,9 @@ content_area:
         text: 'online on TicketSource'
       -
         type: text
+        marks:
+          -
+            type: bold
         text: .
   -
     type: paragraph
@@ -98,23 +100,29 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible parking spaces'
-end_date: '2025-10-25 11:00'
+end_date: '2025-10-25 16:30'
 duplicated_from: 87d766db-11d8-4f03-bd51-9294b5e619e9
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/the-mushroom-show-at-beccles-library/'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/the-mushroom-show-at-southwold/'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Beccles Library is a two minute walk from the '
+        text: "The Geography Fieldwork Academy is less than a minute's walk from Southwold Library."
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The venue is a four-minute walk from the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Beccles+Library/Grove+Road,+Beccles+NR34+9TG/@52.4557532,1.5633626,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9f6182299c073:0x2d0c83895bb0b63a!2m2!1d1.5658127!2d52.456262!1m5!1m1!1s0x47d9f61836eabf2f:0xd313f809f0370fac!2m2!1d1.566326!2d52.455276!3e2?entry=ttu'
+              href: 'https://www.google.co.uk/maps/place/Kings+Head/@52.3286434,1.676149,18z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47da237e0e946823:0xb62c4840af526150!2s4,+Geography+Fieldwork+Academy,+The+Old+Hospital,+Field+Stile+Rd,+Southwold+IP18+6LB!2m2!1d1.6785094!2d52.3290368!1m6!1m2!1s0x47da2221ffcc92e1:0x77f7f1d26bed1bc0!2sKings+Head,+Southwold+IP18+6AE!2m2!1d1.676173!2d52.328133!3e2!3m5!1s0x47da2221ffcc92e1:0x77f7f1d26bed1bc0!8m2!3d52.328133!4d1.676173!16s%2Fg%2F1q679lgmp?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
@@ -127,41 +135,7 @@ directions:
     content:
       -
         type: text
-        text: 'Beccles railway station is six minute walk and you can find up to date timetables on the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/suy'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Greater Anglia website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The nearest parking is '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.apcoa.co.uk/parking-in/beccles/blyburgate-beccles/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Blyburgate car park'
-      -
-        type: text
-        text: ' and it is a five minute walk away.'
+        text: 'There is nearby on street car parking. '
   -
     type: paragraph
     content:
@@ -182,6 +156,9 @@ directions:
       -
         type: text
         text: .
-building_name: 'Beccles Library'
+building_name: 'Geography Fieldwork Academy'
+organisers:
+  - suffolk-community-libraries
+address_line_1: '4, The Old Hospital'
 ---
 There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
