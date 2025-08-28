@@ -1,16 +1,15 @@
 ---
 id: 509ce3dd-d299-48fa-ab1b-8acbda7ffcaf
-published: false
 blueprint: events
-title: 'Folk Night (Duplicated)'
+title: 'Folk Night'
 event_categories:
   - community
   - music
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-09-10 19:15'
-end_date: '2025-09-10 22:00'
+start_date: '2025-10-08 19:15'
+end_date: '2025-10-08 22:00'
 free: false
 virtual: false
 accessibility_information:
@@ -153,8 +152,8 @@ cta: |-
   [info@thebankeye.org](mailto:info@thebankeye.org)
 
   [01379 873495](tel:01379873495)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746084249
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756394660
 duplicated_from: ac742e1b-4868-4961-870a-af13cf43ee8b
 cost_details: £3
 ---
