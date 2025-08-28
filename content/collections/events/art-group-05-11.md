@@ -1,16 +1,15 @@
 ---
 id: f11638b4-aece-4fab-9058-15eb8cbacad1
-published: false
 blueprint: events
-title: 'Art Group (Duplicated) (Duplicated)'
+title: 'Art Group'
 event_categories:
   - art
   - community
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-22 10:00'
-end_date: '2025-10-22 13:00'
+start_date: '2025-11-05 10:00'
+end_date: '2025-11-05 13:00'
 free: true
 virtual: false
 accessibility_information:
@@ -154,7 +153,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756392062
+updated_at: 1756392367
 duplicated_from: 2866d446-904e-4c90-8f37-72dd88c0be66
 cost_details: '£3 donation appreciated'
 ---
