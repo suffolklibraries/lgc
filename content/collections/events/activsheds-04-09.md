@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: activlives/activsheds.png
-start_date: '2025-08-01 10:00'
-end_date: '2025-08-01 15:30'
+start_date: '2025-09-04 09:30'
+end_date: '2025-09-05 15:30'
 free: true
 virtual: false
 latitude: '52.03960215792138'
@@ -78,6 +78,41 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: Schedule
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Thursdays – mixed-gender sessions led by a member of staff, 9.30am-12 noon and 1pm-3.30pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Fridays – regular men’s group, 10am-3:30pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -133,15 +168,16 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by ActivGardens:
+  This event is organised by ActivLives:
 
-  [https://activlives.org.uk/activgardens/](https://activlives.org.uk/activgardens/) 
+  [https://activlives.org.uk/](https://activlives.org.uk/) 
 
   [01473 345350](tel:01473345350)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742482153
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756378388
 duplicated_from: 03c87411-3fca-41df-a88d-23f9adfd8e25
-attendance_information: 'session for men'
-published: false
+accessibility_information:
+  - 'Autism friendly'
+booking_link: 'https://activlives.org.uk/activgardens/activsheds/'
 ---
 A practical project for people who would like to share knowledge, learn new skills, and pursue hobbies and interests!
