@@ -1,10 +1,9 @@
 ---
 id: 7ea92cdd-5e12-4384-9dec-1ee7a21fa57f
-published: false
 blueprint: events
-title: 'Skylarks - Snape (Duplicated) (Duplicated)'
-start_date: '2025-10-02 10:30'
-end_date: '2025-10-02 12:00'
+title: 'Skylarks - Snape'
+start_date: '2025-11-06 10:30'
+end_date: '2025-11-06 12:00'
 free: true
 virtual: false
 attendance_information: "For those with Parkinson's and their companions"
@@ -132,7 +131,7 @@ latitude: '52.171044453097586'
 longitude: '1.501040955477425'
 booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756381632
+updated_at: 1756381667
 duplicated_from: a11b0e39-a060-4a6b-a9e6-c4626afabcb7
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
