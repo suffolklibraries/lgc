@@ -1,10 +1,9 @@
 ---
 id: bc04b8d6-2f01-4d3d-a429-0bf03ed3efd8
-published: false
 blueprint: events
-title: 'Skylarks - Ipswich (Duplicated) (Duplicated)'
-start_date: '2025-09-25 10:00'
-end_date: '2025-09-25 12:00'
+title: 'Skylarks - Ipswich'
+start_date: '2025-10-23 10:00'
+end_date: '2025-10-23 12:00'
 free: true
 virtual: false
 attendance_information: "For those with Parkinson's and their companions"
@@ -92,7 +91,7 @@ latitude: '52.061442978766976'
 longitude: '1.2362362574912145'
 booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756381312
+updated_at: 1756381356
 featured_image: pelicanpelican-3x2/music_singing.png
 duplicated_from: 72defe62-28dd-4d13-8e6f-c998caf04f8e
 ---
