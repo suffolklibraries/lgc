@@ -1,10 +1,9 @@
 ---
 id: a6009ced-ceb7-472a-bfee-45c12ccc4221
-published: false
 blueprint: events
-title: 'RSPB River and Reedbed Ramble (Duplicated) (Duplicated)'
-start_date: '2025-09-13 10:00'
-end_date: '2025-09-13 12:30'
+title: 'RSPB River and Reedbed Ramble'
+start_date: '2025-11-08 10:00'
+end_date: '2025-11-08 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -126,7 +125,7 @@ latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
 booking_link: 'https://www.brittenpearsarts.org/events/rspb-river-and-reedbed-ramble-at-snape-maltings'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756382177
+updated_at: 1756382217
 duplicated_from: a11c5198-40a7-4a50-b5b0-761dc934c71a
 cost_details: '£7.25 to £16'
 ---
