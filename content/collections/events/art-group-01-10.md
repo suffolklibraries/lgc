@@ -1,16 +1,15 @@
 ---
 id: 6e3ae089-1f4f-4092-b818-ecae3b9bc411
-published: false
 blueprint: events
-title: 'Art Group (Duplicated)'
+title: 'Art Group'
 event_categories:
   - art
   - community
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-09-24 10:00'
-end_date: '2025-09-24 13:00'
+start_date: '2025-10-01 10:00'
+end_date: '2025-10-01 13:00'
 free: true
 virtual: false
 accessibility_information:
@@ -153,8 +152,8 @@ cta: |-
   [info@thebankeye.org](mailto:info@thebankeye.org)
 
   [01379 873495](tel:01379873495)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746028605
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756391728
 duplicated_from: 78773100-36b2-44c2-b50a-cab9109b04f1
 cost_details: '£3 donation appreciated'
 ---
