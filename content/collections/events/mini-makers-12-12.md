@@ -1,7 +1,7 @@
 ---
 id: 2c0038c0-2ef2-4138-962a-c77f7f902acd
 blueprint: events
-title: 'Mini Music Makers'
+title: 'Mini Music Makers at Christmas'
 event_categories:
   - music
   - early-years
@@ -79,14 +79,6 @@ content_area:
             type: bold
       -
         type: text
-        text: "Joe Carr is our Community and Collection Curator based at The Red House as part of our Community Team. He aims to bring education and enrichment to people's lives by engaging them through music and heritage, working closely with schools, families and young people. He launched the first Mini Music Makers in 2017. As a guitarist he aims to bring a range of musical styles to Mini Music Makers sessions each week, from traditional nursery rhymes to blues, rock and roll, and new music."
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: 'If a session is showing sold out, you can '
       -
         type: text
@@ -105,7 +97,7 @@ content_area:
         type: text
         text: ' to be added to the waiting list. Please let us know if you can no longer make a session, so the place can be offered to another music maker.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750762149
+updated_at: 1756382632
 duplicated_from: 48b8c396-c38d-429e-895b-7c0694ef9341
 cta: |-
   This event is organised by Britten Pears Arts
@@ -119,6 +111,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 attendance_information: 'under 5s'
-booking_link: 'https://www.brittenpearsarts.org/events/mini-music-makers'
+booking_link: 'https://www.brittenpearsarts.org/events/mini-music-makers-at-christmas'
 ---
-Friday morning session of fun music and play activities!
+Join Mini Music Makers at Snape Maltings for a fun, Christmassy session of music, play and exploration.
