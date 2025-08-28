@@ -4,7 +4,7 @@ blueprint: events
 title: 'The Mushroom Show'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756377265
+updated_at: 1756378091
 latitude: '52.3291399786164'
 longitude: '1.6784890401425512'
 start_date: '2025-10-25 15:30'
