@@ -1,10 +1,9 @@
 ---
 id: ee44da04-6cf8-4d8e-98ce-918484bca74d
-published: false
 blueprint: events
-title: 'Participate - Leiston (Duplicated)'
-start_date: '2025-10-22 14:00'
-end_date: '2025-10-22 16:00'
+title: 'Participate - Leiston'
+start_date: '2025-11-05 14:00'
+end_date: '2025-11-05 16:00'
 free: true
 virtual: false
 attendance_information: 'Adults with long term health conditions, including Dementia and Parkinson’s'
@@ -108,7 +107,7 @@ latitude: '52.20580602095692'
 longitude: '1.57277069890717'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-leiston-2'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756379221
+updated_at: 1756379244
 duplicated_from: bef6d2e9-1f2e-49c1-b736-7729a01f37be
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
