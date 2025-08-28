@@ -1,9 +1,9 @@
 ---
 id: 8747abe8-4d91-4acd-8833-a7cac8cb140a
 blueprint: events
-title: 'Skylarks -Ipswich'
-start_date: '2025-07-03 10:30'
-end_date: '2025-07-03 12:00'
+title: 'Skylarks - Ipswich'
+start_date: '2025-09-25 10:00'
+end_date: '2025-09-25 12:00'
 free: true
 virtual: false
 attendance_information: "For those with Parkinson's and their companions"
@@ -73,10 +73,6 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
-    content:
-      -
-        type: text
-        text: 'Refreshments included.'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -93,9 +89,9 @@ organisers:
   - britten-pears-arts
 latitude: '52.061442978766976'
 longitude: '1.2362362574912145'
-booking_link: 'https://www.brittenpearsarts.org/events/skylarks-2024-ipswich'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745837540
-published: false
+booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756381312
+featured_image: pelicanpelican-3x2/music_singing.png
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
