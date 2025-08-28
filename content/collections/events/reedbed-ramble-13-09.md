@@ -1,20 +1,17 @@
 ---
 id: a41b8dd1-2d91-4e53-8783-8715a11ebbeb
-published: false
 blueprint: events
-title: 'Skylarks - Snape (Duplicated)'
-start_date: '2025-11-20 10:30'
-end_date: '2025-11-20 12:00'
+title: 'RSPB River and Reedbed Ramble'
+start_date: '2025-09-13 10:00'
+end_date: '2025-09-13 12:30'
 free: true
 virtual: false
-attendance_information: "For those with Parkinson's and their companions"
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_1: 'Snape Maltings'
 address_line_2: Snape
-building_name: 'Britten Studio'
+building_name: 'The Quay'
 town: Suffolk
 postcode: 'IP17 1SP'
 directions:
@@ -92,7 +89,23 @@ content_area:
     content:
       -
         type: text
-        text: 'East Suffolk Skylarks groups use techniques based on years of research to help those with Parkinson’s to maintain or improve their psychological and physical wellbeing through taking part in regular singing activity.'
+        text: "Join RSPB's enthusiastic guides for a gentle ramble as they help you to enjoy the wildlife at this special location."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This walk starts and finishes at Snape Maltings. Please meet on the Quay.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Please bring your own binoculars, if you have them. Stout and waterproof footwear recommended.'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -102,17 +115,18 @@ cta: |-
 created_by: 23b93f65-4171-46a0-806d-9ce87f14d30f
 event_categories:
   - community
-  - later-years
-  - music
   - wellbeing
+  - nature
+  - later-years
 organisers:
   - britten-pears-arts
-featured_image: pelicanpelican-3x2/music_singing.png
+featured_image: brittenpearsartsimages/beravement-walks-3x2.png
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
+booking_link: 'https://www.brittenpearsarts.org/events/rspb-river-and-reedbed-ramble-at-snape-maltings'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756381490
+updated_at: 1756382177
 duplicated_from: 5fdd91fc-af24-452a-a97f-e285de82328c
+cost_details: '£7.25 to £16'
 ---
-Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
+Explore Suffolk's beautiful countryside.
