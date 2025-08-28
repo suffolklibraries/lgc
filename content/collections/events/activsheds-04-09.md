@@ -1,7 +1,7 @@
 ---
 id: f660bbec-b12b-4e00-b9d7-006e8afef8fb
 blueprint: events
-title: "ActivSheds - men's group"
+title: ActivSheds
 event_categories:
   - nature
   - community
@@ -174,7 +174,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756378388
+updated_at: 1756378441
 duplicated_from: 03c87411-3fca-41df-a88d-23f9adfd8e25
 accessibility_information:
   - 'Autism friendly'
