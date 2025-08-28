@@ -4,7 +4,7 @@ blueprint: events
 title: 'RSPB River and Reedbed Ramble'
 start_date: '2025-12-06 10:00'
 end_date: '2025-12-06 12:30'
-free: true
+free: false
 virtual: false
 accessibility_information:
   - 'Accessible toilets'
@@ -125,7 +125,7 @@ latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
 booking_link: 'https://www.brittenpearsarts.org/events/rspb-river-and-reedbed-ramble-at-snape-maltings'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756382229
+updated_at: 1756382577
 duplicated_from: a6009ced-ceb7-472a-bfee-45c12ccc4221
 cost_details: '£7.25 to £16'
 ---
