@@ -1,10 +1,9 @@
 ---
 id: 05caec5b-48e0-4641-99b1-90bc9707db00
-published: false
 blueprint: events
-title: 'Skylarks - Snape (Duplicated)'
-start_date: '2025-11-20 10:30'
-end_date: '2025-11-20 12:00'
+title: 'Skylarks - Snape'
+start_date: '2025-10-02 10:30'
+end_date: '2025-10-02 12:00'
 free: true
 virtual: false
 attendance_information: "For those with Parkinson's and their companions"
@@ -12,11 +11,11 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-address_line_1: 'Snape Maltings'
+address_line_1: '5 Garrett Close'
 address_line_2: Snape
-building_name: 'Britten Studio'
+building_name: 'Snape Village Hall'
 town: Suffolk
-postcode: 'IP17 1SP'
+postcode: 'IP17 1RN'
 directions:
   -
     type: paragraph
@@ -44,6 +43,26 @@ directions:
       -
         type: text
         text: ' to find out how to book and more.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest bus stop is a '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/dir/Snape+Village+Hall/The+Glebes,+Saxmundham+IP17+1QE/@52.1709392,1.4984446,17z/data=!4m14!4m13!1m5!1m1!1s0x47d986301fa17775:0x7d72dbebb4b72d4d!2m2!1d1.5010376!2d52.1709386!1m5!1m1!1s0x47d9862fe8534053:0xb6e59d662120533e!2m2!1d1.500987!2d52.171913!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'two-minute walk'
+      -
+        type: text
+        text: ' away.'
   -
     type: paragraph
     content:
@@ -108,11 +127,11 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music_singing.png
-latitude: '52.16396364890942'
-longitude: '1.4967351727076355'
+latitude: '52.171044453097586'
+longitude: '1.501040955477425'
 booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756381490
+updated_at: 1756381632
 duplicated_from: 5fdd91fc-af24-452a-a97f-e285de82328c
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
