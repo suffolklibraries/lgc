@@ -2,8 +2,8 @@
 id: f1b6c36b-1029-4496-a2df-89d2c82125f2
 blueprint: events
 title: 'Participate - Leiston'
-start_date: '2025-07-09 14:00'
-end_date: '2025-07-09 16:00'
+start_date: '2025-09-24 14:00'
+end_date: '2025-09-24 16:00'
 free: true
 virtual: false
 attendance_information: 'Adults with long term health conditions, including Dementia and Parkinson’s'
@@ -12,7 +12,6 @@ accessibility_information:
   - 'Dementia friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Fully accessible'
 address_line_1: '17 Victory Road'
 building_name: 'The Band Hall'
 town: Leiston
@@ -107,8 +106,7 @@ featured_image: pelicanpelican-3x2/music.png
 latitude: '52.20580602095692'
 longitude: '1.57277069890717'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-leiston-2'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745856531
-published: false
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756379153
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
