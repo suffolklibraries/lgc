@@ -1,50 +1,31 @@
 ---
 id: 26244b02-f50d-4633-b2ba-d3344f422339
 blueprint: events
-title: 'Blank Page - Felixstowe'
+title: 'The Mushroom Show'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742835108
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756377850
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
-start_date: '2025-04-11 09:45'
+start_date: '2025-10-28 10:00'
 event_categories:
-  - art
   - teen
+  - music
+  - nature
+  - family-friendly
+  - early-years
+  - theatre-and-performance
+  - literature
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
+  - suffolk-community-libraries
 address_line_2: 'Crescent Road'
 town: Felixstowe
 postcode: 'IP11 7BY'
-featured_image: pelicanpelican-3x2/teen-(1).png
-attendance_information: 'ages 10 - 16'
+featured_image: "suffolklibrariesimages/the-mushroom-show---photo-credit-'becky-rui-photography'-(3)---resize.jpg"
+attendance_information: 'Suitable for ages 5+'
 content_area:
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Join digital artist Eloise Cookson for this creative workshop for 10-16 year olds at Felixstowe Library. Learn how to design your own original characters and bring them to life! This workshop is part of '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: 'The Blank Page Project'
-      -
-        type: text
-        text: .
   -
     type: paragraph
     attrs:
@@ -55,38 +36,77 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+        text: 'Welcome to… THE MUSHROOM SHOW!'
   -
     type: paragraph
     attrs:
       textAlign: left
     content:
       -
+        type: hardBreak
+      -
         type: text
-        text: 'Whether this is the first time creating your own character or you already have existing characters, this workshop will support and level up your character designing skills! Eloise will first introduce some character design principles she uses in her own process with examples from animated media and comics. Throughout the day with different character designing activities, taking inspiration from objects, nature, as well as their own passions and interests, participants will explore how to practically incorporate these concepts when creating their original characters.'
+        text: 'Augustine Fogwoode might be the world’s MOST enthusiastic mushroom enthusiast! She is on a quest to make sure everyone knows about the brilliance of fungi: their scientific superpowers and amazing abilities. But it’s just her and her puppet friend Goldie. She might just need a few more fun-guys to make it happen. Join the party and discover how fungi grow, connect and help the natural world, including us humans. Packed full of interactive games, playful music and lots of laughs for all the family, The Mushroom Show is one person’s mission to build a community… and maybe it’ll become your mission too?'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'By the end of the workshop, participants will go home with their character concepts & illustrations for the day, having created their characters and an idea for the world and story they live in.'
+        marks:
+          -
+            type: bold
+        text: "Free to attend but booking is required. Please book a ticket for everyone in your family, including adults.\_"
+      -
+        type: text
+        text: 'Book your ticket at the front desk of Felixstowe Library or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/the-mushroom-show-at-felixstowe-library/e-yjybvr'
+              rel: noopener
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'online on TicketSource'
+      -
+        type: text
+        text: '. There are two shows available – 10:00 to 11:00, and 14:30 to 15:30.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Critically acclaimed Scratchworks Theatre fuses their signature style of physical comedy, audience interaction and family theatre with the world of fungi. Award winning Scratchworks Theatre Company brings together science, music and participatory activities for whole families to experience together. Suitable for ages 5+.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Supported by Arts Council England, Doorstep Arts, Libraries Unlimited, Beaford, Theatre Alibi and Unity Theatre Trust. Developed in consultation with research partners and funding from the University of Plymouth.'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-11 15:30'
+end_date: '2025-10-28 15:30'
 duplicated_from: 2b7d7fb3-37da-436c-97da-acb96b3aefbe
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/original-character-design-workshop-with-eloise-cookson'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/the-mushroom-show-at-felixstowe-library/'
 building_name: 'Felixstowe Library'
 directions:
   -
@@ -183,6 +203,5 @@ directions:
       -
         type: text
         text: .
-published: false
 ---
-High-quality creative activities run by local artists in libraries during the school holidays!
+There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
