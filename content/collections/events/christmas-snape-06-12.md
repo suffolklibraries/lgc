@@ -1,11 +1,10 @@
 ---
 id: 0dd9564e-275a-4ff9-9899-f8e24de35efd
-published: false
 blueprint: events
-title: 'RSPB River and Reedbed Ramble (Duplicated)'
-start_date: '2025-09-13 10:00'
-end_date: '2025-09-13 12:30'
-free: true
+title: 'Father Christmas sails into Snape Quay'
+start_date: '2025-12-06 10:00'
+end_date: '2025-12-06 12:30'
+free: false
 virtual: false
 accessibility_information:
   - 'Accessible toilets'
@@ -90,7 +89,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join RSPB's enthusiastic guides for a gentle ramble as they help you to enjoy the wildlife at this special location."
+        text: 'Come and join us to greet Father Christmas as he sails around the narrows of the winding River Alde and disembarks at Snape Maltings Quay.'
   -
     type: paragraph
     attrs:
@@ -98,15 +97,29 @@ content_area:
     content:
       -
         type: text
-        text: 'This walk starts and finishes at Snape Maltings. Please meet on the Quay.'
+        text: 'No need to book, just come along.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Please bring your own binoculars, if you have them. Stout and waterproof footwear recommended.'
+        text: 'Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.brittenpearsarts.org/visit-us/snape-maltings/father-christmas-sails-into-snape-quay'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Britten Pears Arts website'
+      -
+        type: text
+        text: ' to find out more.'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -116,18 +129,16 @@ cta: |-
 created_by: 23b93f65-4171-46a0-806d-9ce87f14d30f
 event_categories:
   - community
-  - wellbeing
-  - nature
-  - later-years
+  - family-friendly
+  - early-years
+  - teen
 organisers:
   - britten-pears-arts
-featured_image: brittenpearsartsimages/beravement-walks-3x2.png
+featured_image: brittenpearsartsimages/father-christmas-at-snape.png
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-booking_link: 'https://www.brittenpearsarts.org/events/rspb-river-and-reedbed-ramble-at-snape-maltings'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756382177
+updated_at: 1756382552
 duplicated_from: a41b8dd1-2d91-4e53-8783-8715a11ebbeb
-cost_details: '£7.25 to £16'
 ---
-Explore Suffolk's beautiful countryside.
+A firm favourite in the Britten Pears Arts Christmas calendar.
