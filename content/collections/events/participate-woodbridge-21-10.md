@@ -1,10 +1,9 @@
 ---
 id: abe83223-348b-4171-a3ee-c6adb8dcef95
-published: false
 blueprint: events
-title: 'Participate - Woodbridge (Duplicated) (Duplicated)'
-start_date: '2025-10-07 14:00'
-end_date: '2025-10-07 16:00'
+title: 'Participate - Woodbridge'
+start_date: '2025-10-21 14:00'
+end_date: '2025-10-21 16:00'
 free: true
 virtual: false
 attendance_information: 'suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
@@ -142,7 +141,7 @@ latitude: '52.09507794144738'
 longitude: '1.3202544617018266'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-woodbridge'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756380843
+updated_at: 1756380875
 duplicated_from: 6a57d588-aa9f-4669-bd43-e64b3fb40949
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
