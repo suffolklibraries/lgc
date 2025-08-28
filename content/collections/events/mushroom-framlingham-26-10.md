@@ -8,6 +8,7 @@ event_categories:
   - teen
   - theatre-and-performance
   - literature
+  - nature
 organisers:
   - suffolk-community-libraries
 featured_image: "suffolklibrariesimages/the-mushroom-show---photo-credit-'becky-rui-photography'-(3)---resize.jpg"
@@ -161,15 +162,15 @@ content_area:
         type: text
         text: 'Supported by Arts Council England, Doorstep Arts, Libraries Unlimited, Beaford, Theatre Alibi and Unity Theatre Trust. Developed in consultation with research partners and funding from the University of Plymouth.'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756377064
+updated_at: 1756377275
 duplicated_from: 76e2c6cf-91e3-4d10-b4bb-955d1690a79a
 address_line_2: Framlingham
 attendance_information: 'Suitable for ages 5+.'
