@@ -4,7 +4,7 @@ blueprint: events
 title: 'The Mushroom Show'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756377448
+updated_at: 1756378072
 latitude: '52.08323706363814'
 longitude: '0.4367866106022539'
 start_date: '2025-10-27 10:00'
@@ -20,7 +20,6 @@ free: true
 virtual: false
 organisers:
   - suffolk-community-libraries
-address_line_1: 'Haverhill Library'
 address_line_2: 'Camps Road'
 town: Haverhill
 postcode: 'CB9 8HB'
@@ -181,5 +180,6 @@ directions:
       -
         type: text
         text: .
+building_name: 'Haverhill Library'
 ---
 There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
