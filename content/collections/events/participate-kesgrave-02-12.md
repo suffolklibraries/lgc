@@ -1,8 +1,7 @@
 ---
 id: 14cb2f4b-91bf-4b08-8db8-fb2a23130a3f
-published: false
 blueprint: events
-title: 'Participate - Kesgrave (Duplicated)'
+title: 'Participate - Kesgrave'
 event_categories:
   - later-years
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-11-25 10:00'
-end_date: '2025-11-25 12:00'
+start_date: '2025-12-02 10:00'
+end_date: '2025-12-02 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -141,7 +140,7 @@ cta: |-
 
   [community@brittenpearsarts.org](mailto:community@brittenpearsarts.org)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756379073
+updated_at: 1756379090
 duplicated_from: a460f00d-8376-4734-83b9-f8958c398da1
 latitude: '52.061363823568186'
 longitude: '1.2361075107491926'
