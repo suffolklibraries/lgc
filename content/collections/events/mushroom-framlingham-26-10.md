@@ -170,7 +170,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756377275
+updated_at: 1756378095
 duplicated_from: 76e2c6cf-91e3-4d10-b4bb-955d1690a79a
 address_line_2: Framlingham
 attendance_information: 'Suitable for ages 5+.'
