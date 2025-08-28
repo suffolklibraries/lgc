@@ -1,10 +1,9 @@
 ---
 id: ed9ccdad-1fb8-4d46-b4c4-e8bbad7f9cdf
-published: false
 blueprint: events
-title: 'Participate - Saxmundham (Duplicated)'
-start_date: '2025-11-26 10:00'
-end_date: '2025-11-26 12:00'
+title: 'Participate - Saxmundham'
+start_date: '2025-12-03 10:00'
+end_date: '2025-12-03 12:00'
 free: true
 virtual: false
 attendance_information: 'people living with long term health conditions, including Dementia and Parkinson’s.'
@@ -107,7 +106,7 @@ latitude: '52.2149703191624'
 longitude: '1.4923007463413769'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-saxmundham-2'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756380697
+updated_at: 1756380714
 duplicated_from: d2cd83af-0605-430a-93a9-6a936bf8ec8c
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians
