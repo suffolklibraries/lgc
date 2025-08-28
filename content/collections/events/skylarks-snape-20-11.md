@@ -1,9 +1,9 @@
 ---
 id: 5fdd91fc-af24-452a-a97f-e285de82328c
 blueprint: events
-title: 'Skylarks- Snape Maltings'
-start_date: '2025-06-26 10:30'
-end_date: '2025-06-26 12:00'
+title: 'Skylarks - Snape'
+start_date: '2025-11-20 10:30'
+end_date: '2025-11-20 12:00'
 free: true
 virtual: false
 attendance_information: "For those with Parkinson's and their companions"
@@ -13,7 +13,7 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_1: 'Snape Maltings'
 address_line_2: Snape
-building_name: 'The Trask'
+building_name: 'Britten Studio'
 town: Suffolk
 postcode: 'IP17 1SP'
 directions:
@@ -92,14 +92,6 @@ content_area:
       -
         type: text
         text: 'East Suffolk Skylarks groups use techniques based on years of research to help those with Parkinson’s to maintain or improve their psychological and physical wellbeing through taking part in regular singing activity.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Refreshments included.'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -114,12 +106,11 @@ event_categories:
   - wellbeing
 organisers:
   - britten-pears-arts
-featured_image: pelicanpelican-3x2/music.png
+featured_image: pelicanpelican-3x2/music_singing.png
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-booking_link: 'https://www.brittenpearsarts.org/events/skylarks-2024-snape'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745837938
-published: false
+booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756381490
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
