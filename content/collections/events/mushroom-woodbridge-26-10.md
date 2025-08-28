@@ -1,23 +1,25 @@
 ---
 id: 1f58175e-a267-41ce-81ec-14f04870880e
 blueprint: events
-title: 'Curious Minds - Woodbridge'
+title: 'The Mushroom Show'
 event_categories:
-  - wellbeing
-  - community
-  - movement
-  - art
+  - nature
+  - music
+  - theatre-and-performance
+  - literature
+  - family-friendly
+  - teen
+  - early-years
 organisers:
-  - suffolk-art-link
-featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-04-14 14:00'
-end_date: '2025-04-14 16:00'
+  - suffolk-community-libraries
+featured_image: "suffolklibrariesimages/the-mushroom-show---photo-credit-'becky-rui-photography'-(3)---resize.jpg"
+start_date: '2025-10-26 15:30'
+end_date: '2025-10-26 16:30'
 free: true
 virtual: false
-attendance_information: 'people aged 18 plus living with complex health needs'
+attendance_information: 'Suitable for ages 5+'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Dementia friendly'
   - 'Accessible toilets'
 building_name: 'Woodbridge Library'
 address_line_1: 'New Street'
@@ -112,7 +114,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us for the opportunity to explore a variety of art forms whilst developing creative skills and tools to support mental wellbeing. Supported by professional artists Sarah Lewis and Jo Chapman.'
+        marks:
+          -
+            type: bold
+        text: 'Welcome to… THE MUSHROOM SHOW!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Augustine Fogwoode might be the world’s MOST enthusiastic mushroom enthusiast! She is on a quest to make sure everyone knows about the brilliance of fungi: their scientific superpowers and amazing abilities. But it’s just her and her puppet friend Goldie. She might just need a few more fun-guys to make it happen. Join the party and discover how fungi grow, connect and help the natural world, including us humans. Packed full of interactive games, playful music and lots of laughs for all the family, The Mushroom Show is one person’s mission to build a community… and maybe it’ll become your mission too?'
   -
     type: paragraph
     attrs:
@@ -120,78 +133,56 @@ content_area:
     content:
       -
         type: text
-        text: 'Participants can expect to work with a wide range of creative techniques including movement, relaxation techniques, 3D clay and sculptural art, drawing and experimental mark making. No creative experience is necessary as these workshops are an opportunity to connect, learn and develop new skills to promote overall well being.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        marks:
+          -
+            type: bold
+        text: "Free to attend but booking is required. Please book a ticket for everyone in your family, including adults.\_"
       -
         type: text
-        text: 'Any questions please contact '
+        text: 'Book your ticket '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:jen@suffolkartlink.org.uk'
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/the-mushroom-show-at-woodbridge-library/2025-10-26/15:30/t-zzekmnr'
               rel: noopener
-              target: null
-              title: null
-        text: jen@suffolkartlink.org.uk
-      -
-        type: text
-        text: ' or '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'tel:07514484107'
-              rel: null
-              target: null
-              title: null
-        text: '07514 484107'
-      -
-        type: text
-        text: .
-      -
-        type: hardBreak
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Find access information for '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/suffolk-county-council/access-guides/woodbridge-library'
-              rel: null
               target: _blank
               title: null
-        text: 'Woodbridge Library on AccessAble'
+        text: 'online on TicketSource'
       -
         type: text
         text: .
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/curious-minds-woodbridge-2/'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Critically acclaimed Scratchworks Theatre fuses their signature style of physical comedy, audience interaction and family theatre with the world of fungi. Award winning Scratchworks Theatre Company brings together science, music and participatory activities for whole families to experience together. Suitable for ages 5+.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Supported by Arts Council England, Doorstep Arts, Libraries Unlimited, Beaford, Theatre Alibi and Unity Theatre Trust. Developed in consultation with research partners and funding from the University of Plymouth.'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/the-mushroom-show-at-woodbridge-library/'
 cta: |-
-  This event is organised by Suffolk Artlink
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolkartlink.org.uk/](https://www.suffolkartlink.org.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [01986 873955](tel:01986873955)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743583168
+  [0345 60 630 60](tel:03456063060)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756377239
 duplicated_from: df4285c8-0d46-4b72-aa34-ba774f250750
 latitude: '52.09386265265452'
 longitude: '1.3176599995179699'
-published: false
 ---
-A 12 week wellbeing programme with creative and mindful activities.
+There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
