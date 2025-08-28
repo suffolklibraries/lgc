@@ -2,17 +2,16 @@
 id: d9ca1933-f378-4333-99b0-9a0c6605e5cf
 blueprint: events
 title: 'Participate - Woodbridge'
-start_date: '2025-07-08 14:00'
-end_date: '2025-07-08 16:00'
+start_date: '2025-09-23 14:00'
+end_date: '2025-09-23 16:00'
 free: true
 virtual: false
-attendance_information: 'Adults. Our team are trained to ensure these workshops are suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
+attendance_information: 'suitable for those living with long term health conditions, including Dementia and Parkinson’s.'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Dementia friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-additional_access_information: 'Fully accessible'
 address_line_1: "25 Saint John's Street"
 building_name: 'Woodbridge Methodist Church'
 town: Woodbridge
@@ -106,7 +105,23 @@ content_area:
     content:
       -
         type: text
-        text: 'These sessions will bring you together with others in your local community, providing an opportunity to take part in activities. Sessions last for two hours and refreshments are provided. No musical experience is necessary.'
+        text: 'These sessions will bring you together with others in your local community, providing an opportunity to take part in activities. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Sessions last for two hours and refreshments are provided. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'No musical experience is necessary.'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -125,8 +140,7 @@ featured_image: pelicanpelican-3x2/music.png
 latitude: '52.09507794144738'
 longitude: '1.3202544617018266'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-woodbridge'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1745849338
-published: false
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756380789
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
