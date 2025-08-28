@@ -211,7 +211,7 @@ content_area:
         type: text
         text: 'Once we’ve got all the info from your sign up form, simply come along to your first session and let the staff know if you’re coming back next week. We do have a limited capacity so please make sure to let us know if you will be attending so we can add your name to our register and ensure we have a space for you.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756390117
+updated_at: 1756390313
 booking_link: 'https://easternangles.co.uk/event/after-school-club/'
 cta: |-
   This event is organised by Eastern Angles
