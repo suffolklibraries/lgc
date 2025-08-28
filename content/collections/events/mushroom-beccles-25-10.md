@@ -4,7 +4,7 @@ blueprint: events
 title: 'The Mushroom Show'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756376536
+updated_at: 1756376656
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
 start_date: '2025-10-25 10:00'
@@ -182,5 +182,7 @@ directions:
         type: text
         text: .
 building_name: 'Beccles Library'
+organisers:
+  - suffolk-community-libraries
 ---
 There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
