@@ -176,5 +176,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Free entry, all welcome!
