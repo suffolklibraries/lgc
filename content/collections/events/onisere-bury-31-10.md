@@ -4,7 +4,7 @@ blueprint: events
 title: 'Onisere and the Ballet Queen at Bury St Edmunds Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718215
+updated_at: 1756718277
 latitude: '52.248150770555625'
 longitude: '0.7114614702830845'
 start_date: '2025-10-31 11:00'
