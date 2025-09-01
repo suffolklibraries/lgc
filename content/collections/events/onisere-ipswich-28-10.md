@@ -9,6 +9,7 @@ event_categories:
   - literature
   - museums
   - music
+  - theatre-and-performance
 featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
 start_date: '2025-10-28 11:00'
 end_date: '2025-10-28 12:30'
@@ -203,7 +204,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718219
+updated_at: 1756718248
 duplicated_from: 4ef752e5-caf0-4a8e-be06-df8a14d08b77
 organisers:
   - suffolk-community-libraries
