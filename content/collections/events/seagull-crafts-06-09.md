@@ -3,10 +3,10 @@ id: dc329248-6831-4178-9d7a-ace127113682
 blueprint: events
 title: 'Arts and Crafts Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743691908
-start_date: '2025-07-05 14:00'
-end_date: '2025-07-05 15:00'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756740876
+start_date: '2025-09-06 14:00'
+end_date: '2025-09-06 15:00'
 event_categories:
   - art
   - teen
@@ -49,6 +49,28 @@ content_area:
       -
         type: text
         text: ' to find out more and reserve your place.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/arts-and-crafts-group/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Seagull Theatre's website"
+      -
+        type: text
+        text: ' for more information.'
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -62,14 +84,12 @@ accessibility_information:
   - 'Accessible toilets'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
-address_line_1: 'The Seagull Theatre'
-address_line_2: '19-75 Morton Road'
+address_line_1: '19-75 Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 57efaa0c-9bf6-44b4-8e50-8edbb1b256da
 attendance_information: |-
   young people with additional needs
   young people at risk of bullying
-booking_link: 'https://theseagull.co.uk/community_events/arts-and-crafts-group/'
 directions:
   -
     type: paragraph
@@ -122,6 +142,6 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-published: false
+building_name: 'The Seagull Theatre'
 ---
 Support for young people at risk of bullying
