@@ -1,8 +1,7 @@
 ---
 id: 7ade65c5-eb40-4ef8-a277-34fc09547762
-published: false
 blueprint: events
-title: 'Squawk (Duplicated) (Duplicated)'
+title: Squawk
 event_categories:
   - music
   - theatre-and-performance
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-11-13 10:00'
-end_date: '2025-11-13 15:00'
+start_date: '2025-11-27 10:00'
+end_date: '2025-11-27 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -116,7 +115,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756730544
+updated_at: 1756730578
 duplicated_from: 77317d7c-6b7c-4116-93af-193e686450cb
 attendance_information: 'adults with learning disabilities'
 ---
