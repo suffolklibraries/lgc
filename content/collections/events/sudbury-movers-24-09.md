@@ -191,8 +191,8 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746026351
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756723104
 duplicated_from: 15985f22-03f0-462f-bf0d-820e453f8407
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
