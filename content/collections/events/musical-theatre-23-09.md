@@ -1,7 +1,7 @@
 ---
 id: 8e955d48-9cfe-4b2f-8acc-5e5a6963cf9c
 blueprint: events
-title: 'Musical Theatre Class'
+title: 'Musical Theatre Class - years 5 to 7'
 event_categories:
   - music
   - theatre-and-performance
@@ -184,8 +184,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756738263
+updated_at: 1756738605
 duplicated_from: 9759b68b-e822-4a9b-9d05-ea1810f4edf8
-attendance_information: '6 - 18 year olds'
+attendance_information: 'children aged 8 to 11 years'
 ---
 Building confidence and self-esteem through theatre.
