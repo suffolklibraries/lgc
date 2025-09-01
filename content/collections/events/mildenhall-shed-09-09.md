@@ -7,10 +7,10 @@ event_categories:
   - later-years
   - nature
 organisers:
-  - stour-valley-mens-shed
+  - mildenhall-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-07-29 10:00'
-end_date: '2025-07-29 12:00'
+start_date: '2025-09-09 10:00'
+end_date: '2025-09-09 12:00'
 free: false
 cost_details: '£30 annual membership'
 virtual: false
@@ -120,9 +120,8 @@ cta: |-
   [https://www.communityactionsuffolk.org.uk/mens_shed/mildenhall-mens-shed/](https://www.communityactionsuffolk.org.uk/mens_shed/mildenhall-mens-shed/)
 
   [colin.daultrey@gmail.com](mailto:colin.daultrey@gmail.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740669874
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756733464
 duplicated_from: c0a3392a-2193-45cf-9602-30288e8da494
-published: false
 ---
 A community space for men to connect, converse and create.
