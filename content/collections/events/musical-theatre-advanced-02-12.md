@@ -97,7 +97,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Vocal and physical warm ups '
+                text: 'Vocal and physical warm-ups '
       -
         type: listItem
         content:
@@ -141,18 +141,43 @@ content_area:
         text: '01502 589726'
       -
         type: text
-        text: '  or email '
+        text: ' or email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:musicaltheatre@theseagull-co-uk.stackstaging.com'
+              href: 'mailto:musicaltheatre@theseagull.co.uk'
               rel: null
               target: null
               title: null
-        text: musicaltheatre@theseagull-co-uk.stackstaging.com
+        text: musicaltheatre@theseagull.co.uk
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Find out more on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/musical-theatre-calss/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Seagull Theatre's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -162,7 +187,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756739347
+updated_at: 1756740237
 duplicated_from: c405f167-9806-48d1-bad0-aed4b84610d9
 attendance_information: 'suitable for ages 12+'
 ---
