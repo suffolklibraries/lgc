@@ -1,8 +1,7 @@
 ---
 id: eba50752-61c2-4a6b-9661-6685960ac4fd
-published: false
 blueprint: events
-title: 'ActivYoga - beginners and improvers (Duplicated) (Duplicated) (Duplicated)'
+title: 'ActivYoga - beginners and improvers'
 event_categories:
   - community
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-09-24 13:15'
-end_date: '2025-09-24 14:15'
+start_date: '2025-10-15 13:15'
+end_date: '2025-10-15 14:15'
 free: false
 virtual: false
 latitude: '52.036083672498066'
@@ -176,7 +175,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756741624
+updated_at: 1756741682
 duplicated_from: ac3368cc-ae09-475f-b21a-08998d92ef1f
 cost_details: £6.50
 address_line_1: '382 Landseer Road'
