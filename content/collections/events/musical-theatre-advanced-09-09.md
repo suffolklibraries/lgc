@@ -97,7 +97,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Vocal and physical warm ups '
+                text: 'Vocal and physical warm-ups '
       -
         type: listItem
         content:
@@ -141,7 +141,7 @@ content_area:
         text: '01502 589726'
       -
         type: text
-        text: '  or email '
+        text: ' or email '
       -
         type: text
         marks:
@@ -187,7 +187,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756740034
+updated_at: 1756740123
 duplicated_from: 6373245d-747f-4412-947b-e4b7692260a8
 attendance_information: 'suitable for ages 12+'
 ---
