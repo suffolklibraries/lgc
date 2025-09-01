@@ -8,14 +8,12 @@ event_categories:
   - music
   - theatre-and-performance
 featured_image: suffolklibrariesimages/island-movements-rehearsals-1--oxygen-arts-cic_53940312143_l.jpg
-start_date: '2025-10-28 11:00'
-end_date: '2025-10-28 12:30'
-free: true
+start_date: '2025-10-30 11:00'
+end_date: '2025-10-30 12:30'
+free: false
 virtual: false
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
-  - 'Relaxed performance'
 latitude: '52.05879312178225'
 longitude: '1.1565072711648254'
 building_name: 'Ipswich County Library'
@@ -201,7 +199,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756719537
+updated_at: 1756719980
 duplicated_from: 1105770a-e3f6-454d-aa26-b005a3bc472f
 organisers:
   - suffolk-community-libraries
