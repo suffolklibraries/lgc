@@ -5,11 +5,12 @@ title: 'Musical Theatre Class'
 event_categories:
   - music
   - theatre-and-performance
+  - teen
 organisers:
   - the-seagull-theatre
 featured_image: seagulltheatre/showcase.png
-start_date: '2025-04-02 17:45'
-end_date: '2025-04-02 18:45'
+start_date: '2025-09-09 17:45'
+end_date: '2025-09-09 18:45'
 free: false
 cost_details: '£50 per term, bursaries available'
 virtual: false
@@ -152,6 +153,28 @@ content_area:
               target: null
               title: null
         text: musicaltheatre@theseagull-co-uk.stackstaging.com
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Find out more on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/musical-theatre-calss/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Seagull Theatre's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -160,10 +183,9 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [0333 666 3366](tel:03336663366)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730110325
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756738226
 duplicated_from: d7842092-8a47-4a7b-96f7-77dd0f63f5a4
 attendance_information: '6 - 18 year olds'
-published: false
 ---
 Building confidence and self-esteem through theatre.
