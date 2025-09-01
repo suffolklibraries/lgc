@@ -1,8 +1,7 @@
 ---
 id: 0f819a2d-3be7-489d-b16f-0833c80d8c4e
-published: false
 blueprint: events
-title: 'Debenham Movers (Duplicated)'
+title: 'Debenham Movers'
 event_categories:
   - wellbeing
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-11-13 10:30'
-end_date: '2025-11-13 12:00'
+start_date: '2025-11-20 10:30'
+end_date: '2025-11-20 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -139,7 +138,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756723886
+updated_at: 1756723906
 duplicated_from: c36f7816-5172-4e84-9b87-fba656cc1f27
 cost_details: '£5 per session'
 attendance_information: 'people aged 55+'
