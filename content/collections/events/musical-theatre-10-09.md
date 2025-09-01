@@ -1,8 +1,7 @@
 ---
 id: 54f0cca7-63ba-4acd-b138-619ad77e8a99
-published: false
 blueprint: events
-title: 'Musical Theatre Class - years 5 to 7 (Duplicated)'
+title: 'Seaagull Youth Theatre'
 event_categories:
   - music
   - theatre-and-performance
@@ -10,10 +9,10 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: seagulltheatre/showcase.png
-start_date: '2025-09-09 17:45'
-end_date: '2025-09-09 18:45'
+start_date: '2025-09-10 17:00'
+end_date: '2025-09-10 20:30'
 free: false
-cost_details: '£50 per term, bursaries available'
+cost_details: 'From £55 per term, bursaries available'
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -84,7 +83,47 @@ content_area:
     content:
       -
         type: text
-        text: "The Seagull's musical theatre classes include -"
+        text: 'The Seagull Youth Theatre runs on a Wednesday evening with three different age groups, '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '5 to 8 years - £55 per 11-week term. 5pm - 6pm.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '9 to 11 years - £55 per 11-week term. 6.15pm - 7.15pm.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '12+ years - £66 per 11-week term. 7pm - 8.30pm.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Bursaries are available.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Classes include -'
   -
     type: bulletList
     content:
@@ -98,7 +137,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Vocal and physical warm ups '
+                text: 'Performing skills with exercise and games'
       -
         type: listItem
         content:
@@ -109,7 +148,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Singing and dancing technique '
+                text: 'Script and Improvisation work'
       -
         type: listItem
         content:
@@ -120,7 +159,18 @@ content_area:
             content:
               -
                 type: text
-                text: 'Learning routines from classic and modern musicals'
+                text: 'Technical- lighting, sound, stage management'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Costumes and prop making'
   -
     type: paragraph
     attrs:
@@ -128,32 +178,43 @@ content_area:
     content:
       -
         type: text
-        text: 'To register for this exciting programme either phone '
+        text: 'These classes are great for giving your child a fantastic all-round experience in all disciplines of performing whilst helping them to develop and grow in self-confidence.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'To register for this fulfilling programme phone on '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01502589726'
+              href: 'tel:01502 589726'
               rel: null
               target: null
               title: null
         text: '01502 589726'
       -
         type: text
-        text: '  or email '
+        text: ' or email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:musicaltheatre@theseagull-co-uk.stackstaging.com'
+              href: 'mailto:youththeatre@theseagull.co.uk'
               rel: null
               target: null
               title: null
-        text: musicaltheatre@theseagull-co-uk.stackstaging.com
+        text: youththeatre@theseagull.co.uk
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -168,7 +229,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/community_events/musical-theatre-calss/'
+              href: 'https://theseagull.co.uk/community_events/youth-theatre/'
               rel: null
               target: _blank
               title: null
@@ -185,8 +246,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756738694
+updated_at: 1756739835
 duplicated_from: b4a726f3-3632-4d9c-8cd9-701f7ae29a3f
-attendance_information: 'suitable for children aged 8 to 11 years'
 ---
 Building confidence and self-esteem through theatre.
