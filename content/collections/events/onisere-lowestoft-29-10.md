@@ -4,7 +4,7 @@ blueprint: events
 title: 'Onisere and the Ballet Queen at Lowestoft Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756717802
+updated_at: 1756718295
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
 start_date: '2025-10-29 11:00'
@@ -19,7 +19,6 @@ free: true
 virtual: false
 organisers:
   - suffolk-community-libraries
-address_line_1: 'Lowestoft Library'
 address_line_2: 'Clapham Road South'
 town: Lowestoft
 postcode: 'NR32 1DR'
@@ -187,5 +186,6 @@ directions:
       -
         type: text
         text: .
+building_name: 'Lowestoft Library'
 ---
 Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
