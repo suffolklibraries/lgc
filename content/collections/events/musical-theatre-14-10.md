@@ -1,8 +1,7 @@
 ---
 id: be3d11d0-8cb1-46bb-b022-014433f22404
-published: false
 blueprint: events
-title: 'Musical Theatre Class (Duplicated)'
+title: 'Musical Theatre Class'
 event_categories:
   - music
   - theatre-and-performance
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: seagulltheatre/showcase.png
-start_date: '2025-10-07 17:45'
-end_date: '2025-10-07 18:45'
+start_date: '2025-10-14 17:45'
+end_date: '2025-10-14 18:45'
 free: false
 cost_details: '£50 per term, bursaries available'
 virtual: false
@@ -185,7 +184,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756738303
+updated_at: 1756738322
 duplicated_from: af24f239-29a1-4bc4-b73b-43ed9ab8b19a
 attendance_information: '6 - 18 year olds'
 ---
