@@ -1,8 +1,7 @@
 ---
 id: bcb86e34-8922-471e-95ec-c1a10a97a522
-published: false
 blueprint: events
-title: 'Seaagull Youth Theatre (Duplicated)'
+title: 'Seaagull Youth Theatre'
 event_categories:
   - music
   - theatre-and-performance
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: seagulltheatre/showcase.png
-start_date: '2025-10-22 17:00'
-end_date: '2025-10-22 20:30'
+start_date: '2025-11-05 17:00'
+end_date: '2025-11-05 20:30'
 free: false
 cost_details: 'From £55 per term, bursaries available'
 virtual: false
@@ -247,7 +246,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756740585
+updated_at: 1756740609
 duplicated_from: 116d9bae-eccd-4640-8d03-ebf344c2c4d0
 ---
 Building confidence and self-esteem through theatre.
