@@ -6,11 +6,12 @@ event_categories:
   - community
   - later-years
   - nature
+  - wellbeing
 organisers:
   - stour-valley-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-06-02 10:00'
-end_date: '2025-06-04 14:00'
+start_date: '2025-09-08 10:00'
+end_date: '2025-09-10 14:00'
 free: false
 cost_details: '£20 annual membership'
 virtual: false
@@ -74,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Traditional garden sheds can often be quite solitary in nature, while Men’s Shed are quite the opposite They are about social connections and friendship building, sharing skills and knowledge and of course, laughter. '
+        text: 'Traditional garden sheds can often be quite solitary in nature, while Men’s Shed are quite the opposite. They are about social connections and friendship building, sharing skills and knowledge and of course, laughter. '
   -
     type: paragraph
     attrs:
@@ -119,14 +120,6 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
-    content:
-      -
-        type: text
-        text: 'First and third Friday of the month - 10am - 2pm'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
   -
     type: paragraph
     attrs:
@@ -149,10 +142,6 @@ content_area:
       -
         type: text
         text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
   -
     type: paragraph
     attrs:
@@ -183,9 +172,8 @@ cta: |-
   [07949 411133](tel:07949411133)
 
   [stourvalleymensshed@gmail.com](mailto:stourvalleymensshed@gmail.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740581040
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756733931
 duplicated_from: 108a198b-92d9-4af9-b9a6-55f6e4ac0ef0
-published: false
 ---
 A community space for men to connect, converse and create.
