@@ -1,8 +1,7 @@
 ---
 id: a713be71-2476-4333-b632-037ffc709702
-published: false
 blueprint: events
-title: 'Onisere and the Ballet Queen at Gainsborough Community Library (Duplicated)'
+title: 'Dance Workshop at Gainsborough Community Library'
 event_categories:
   - family-friendly
   - dance
@@ -10,19 +9,16 @@ event_categories:
   - music
   - literature
 organisers:
-  - suffolk-libraries
-featured_image: suffolklibrariesimages/martell-richards-3x2.png
+  - suffolk-community-libraries
+featured_image: suffolklibrariesimages/island-movements-rehearsals-1--oxygen-arts-cic_53940312143_l.jpg
 start_date: '2025-10-28 14:00'
 end_date: '2025-10-28 15:30'
 free: true
 virtual: false
-attendance_information: 'Suitable for children aged 4-8 years.'
+attendance_information: 'Suitable for ages 7+'
 accessibility_information:
-  - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-  - 'Relaxed performance'
 latitude: '52.034417883929024'
 longitude: '1.1827043375840662'
 building_name: 'Gainsborough Community Library'
@@ -78,11 +74,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
+        text: 'Join our dance workshop at Ipswich County Library led by a professional dancer from Oxygen Arts, exploring ballet mixed with contemporary, African and Caribbean dance! This is followed by an informal Q&A with the dance instructor.'
   -
     type: paragraph
     attrs:
       textAlign: left
+    content:
+      -
+        type: text
+        text: 'Children ​must be accompanied by an adult.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
         type: text
@@ -92,14 +96,14 @@ content_area:
         text: 'Booking is required.'
       -
         type: text
-        text: ' Please book a ticket for each child attending. Accompanying adults don’t need to book. '
+        text: ' Please book a ticket for each child attending and their accompanying adults. '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-gainsborough-community-library/2025-10-28/14:00/t-xmpjjyl'
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/ballet-dance-workshop-at-gainsborough-community-library/2025-10-30/14:00/t-mogaakr'
               rel: noopener
               target: _blank
               title: null
@@ -108,7 +112,7 @@ content_area:
         text: 'Book your tickets online on TicketSource'
       -
         type: text
-        text: .
+        text: '. '
   -
     type: paragraph
     attrs:
@@ -131,7 +135,7 @@ content_area:
       -
         type: text
         text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/onisere-and-the-ballet-queen-at-gainsborough-community-library/'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/ballet-dance-workshop-at-gainsborough-community-library/'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -141,7 +145,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718312
+updated_at: 1756719796
 duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
 ---
-Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
+Explore a range of African and Carribean dance styles.
