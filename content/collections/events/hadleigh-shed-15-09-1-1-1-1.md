@@ -1,8 +1,8 @@
 ---
-id: b226946a-72a9-46bb-9bab-968a617693d6
+id: 2ecb3a14-f65f-44f7-a3da-1fce1bab54d8
 published: false
 blueprint: events
-title: "Hadleigh Men's Shed (Duplicated) (Duplicated)"
+title: "Hadleigh Men's Shed (Duplicated) (Duplicated) (Duplicated) (Duplicated)"
 event_categories:
   - community
   - later-years
@@ -199,6 +199,6 @@ cta: |-
   [hadleighmensshed@gmail.com](mailto:hadleighmensshed@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756732766
-duplicated_from: 8b5d5775-6854-4703-b1f6-4de4a05dccda
+duplicated_from: 07ee1a1a-18b1-46c6-b617-bbc107ffca48
 ---
 A community space for men to connect, converse and create.
