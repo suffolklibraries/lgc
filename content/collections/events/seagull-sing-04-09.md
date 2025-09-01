@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-07-31 12:30'
-end_date: '2025-07-31 14:00'
+start_date: '2025-09-04 12:30'
+end_date: '2025-09-04 14:00'
 free: true
 virtual: false
 accessibility_information:
@@ -108,7 +108,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Email '
+        text: 'Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/sing-a-long/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Seagull Theatre's website"
+      -
+        type: text
+        text: ' or email '
       -
         type: text
         marks:
@@ -135,10 +149,9 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [0333 666 3366](tel:03336663366)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609173
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756736950
 duplicated_from: 1f2c5d05-2d13-4f41-abbc-bc36ce453826
 attendance_information: 'People living with dementia and their families'
-published: false
 ---
 A fun weekly group for people and families living with dementia.
