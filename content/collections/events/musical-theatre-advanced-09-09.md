@@ -1,15 +1,16 @@
 ---
 id: 0d3bd712-752e-4f73-a2e1-5516d69e25e7
 blueprint: events
-title: 'Musical Theatre Class - Advanced'
+title: 'Musical Theatre Class - years 8+'
 event_categories:
   - music
   - theatre-and-performance
+  - teen
 organisers:
   - the-seagull-theatre
 featured_image: seagulltheatre/showcase.png
-start_date: '2025-04-01 19:00'
-end_date: '2025-04-01 20:30'
+start_date: '2025-09-09 19:00'
+end_date: '2025-09-09 20:30'
 free: false
 cost_details: '£66 per term, bursaries available'
 virtual: false
@@ -160,10 +161,9 @@ cta: |-
   [info@theseagull.co.uk](mailto:info@theseagull.co.uk)
 
   [0333 666 3366](tel:03336663366)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730110596
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756738793
 duplicated_from: 6373245d-747f-4412-947b-e4b7692260a8
-attendance_information: '6 - 18 year olds'
-published: false
+attendance_information: 'suitable for ages 12+'
 ---
 Building confidence and self-esteem through theatre.
