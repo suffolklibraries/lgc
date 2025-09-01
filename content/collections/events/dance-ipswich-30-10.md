@@ -1,17 +1,13 @@
 ---
 id: 28f49a74-264d-4a7a-904a-3f20ffe62580
-published: false
 blueprint: events
-title: 'Onisere and the Ballet Queen at Ipswich County Library (Duplicated)'
+title: 'Dance Workshop at Ipswich County Library'
 event_categories:
   - dance
-  - community
   - family-friendly
-  - literature
-  - museums
   - music
   - theatre-and-performance
-featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
+featured_image: suffolklibrariesimages/island-movements-rehearsals-1--oxygen-arts-cic_53940312143_l.jpg
 start_date: '2025-10-28 11:00'
 end_date: '2025-10-28 12:30'
 free: true
@@ -143,11 +139,11 @@ content_area:
     content:
       -
         type: text
-        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
+        text: 'Join our dance workshop at Ipswich County Library led by a professional dancer from Oxygen Arts, exploring ballet mixed with contemporary, African and Caribbean dance! This is followed by an informal Q&A with the dance instructor.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
@@ -157,14 +153,14 @@ content_area:
         text: 'Booking is required.'
       -
         type: text
-        text: ' Please book a ticket for each child attending. Accompanying adults don’t need to book. '
+        text: ' Please book a ticket for each child attending and their accompanying adults. '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-ipswich-county-library/2025-10-28/11:00/t-pqpggoa'
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/ballet-dance-workshop-at-ipswich-county-library/2025-10-30/11:00/t-jzemmlx'
               rel: noopener
               target: _blank
               title: null
@@ -173,7 +169,7 @@ content_area:
         text: 'Book your tickets online on TicketSource'
       -
         type: text
-        text: .
+        text: '. Children ​must be accompanied by an adult.'
   -
     type: paragraph
     attrs:
@@ -205,11 +201,11 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718248
+updated_at: 1756719537
 duplicated_from: 1105770a-e3f6-454d-aa26-b005a3bc472f
 organisers:
   - suffolk-community-libraries
-attendance_information: 'Suitable for children aged 4-8 years'
-booking_link: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-ipswich-county-library/2025-10-28/11:00/t-pqpggoa'
+attendance_information: 'Suitable for ages 7+'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/ballet-dance-workshop-at-ipswich-county-library/'
 ---
-Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
+Explore a range of African and Carribean dance styles.
