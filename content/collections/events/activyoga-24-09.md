@@ -146,17 +146,38 @@ content_area:
               target: null
               title: null
         text: mike@activlives.org.uk
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Find out more on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://activlives.org.uk/activsports/activity-sessions/activyoga-for-beginners-and-improvers/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'ActivLives website'
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by ActivLives
 
   [https://activlives.org.uk/](https://activlives.org.uk/) 
 
   [01473 345350](tel:01473345350)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747816344
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756741624
 duplicated_from: cc8201e9-a582-452f-be65-0b7af80d15db
 cost_details: £6.50
 address_line_1: '382 Landseer Road'
-booking_link: 'https://activlives.org.uk/activyoga-for-beginners-and-improvers/'
 ---
 If you haven’t tried it before, come and give it a go!
