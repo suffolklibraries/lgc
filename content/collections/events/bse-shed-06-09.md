@@ -7,8 +7,8 @@ event_categories:
   - later-years
   - nature
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-05-31 10:00'
-end_date: '2025-05-31 14:00'
+start_date: '2025-09-06 10:00'
+end_date: '2025-09-06 14:00'
 free: false
 cost_details: '£20 annual membership, £3 per Saturday session'
 virtual: false
@@ -125,14 +125,15 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Bury St Edmunds Men's Shed. 
+  This event is organised by Bury St Edmunds Men's Shed
 
   https://mensshedbse.org.uk/](https://mensshedbse.org.uk/)
 
   [shedheadsbse@gmail.com](mailto:shedheadsbse@gmail.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742474829
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756731080
 duplicated_from: c2a380f0-95b1-4dcc-8576-5c4fbc596791
-published: false
+organisers:
+  - bury-st-edmunds-mens-shed
 ---
 Open to anyone 18 or over, of all interests and skill levels (and not just men!)
