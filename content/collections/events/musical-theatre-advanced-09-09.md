@@ -148,11 +148,36 @@ content_area:
           -
             type: link
             attrs:
-              href: 'mailto:musicaltheatre@theseagull-co-uk.stackstaging.com'
+              href: 'mailto:musicaltheatre@theseagull.co.uk'
               rel: null
               target: null
               title: null
-        text: musicaltheatre@theseagull-co-uk.stackstaging.com
+        text: musicaltheatre@theseagull.co.uk
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Find out more on the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/musical-theatre-calss/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Seagull Theatre's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Seagull Theatre
 
@@ -162,7 +187,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756738793
+updated_at: 1756740034
 duplicated_from: 6373245d-747f-4412-947b-e4b7692260a8
 attendance_information: 'suitable for ages 12+'
 ---
