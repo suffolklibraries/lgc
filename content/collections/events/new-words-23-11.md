@@ -1,13 +1,12 @@
 ---
 id: 6f2d41d4-d599-4f66-a180-f263655aef55
-published: false
 blueprint: events
-title: 'New Words, Fresh Voices (Duplicated)'
+title: 'New Words, Fresh Voices'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756736781
-start_date: '2025-09-07 19:30'
-end_date: '2025-09-07 21:00'
+updated_at: 1756736835
+start_date: '2025-11-23 19:30'
+end_date: '2025-11-23 21:00'
 free: false
 virtual: false
 organisers:
