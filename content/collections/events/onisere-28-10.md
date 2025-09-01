@@ -1,26 +1,23 @@
 ---
 id: 1105770a-e3f6-454d-aa26-b005a3bc472f
 blueprint: events
-title: 'Africa Global Day'
+title: 'Onisere and the Ballet Queen at Ipswich County Library'
 event_categories:
   - dance
-  - art
   - community
   - family-friendly
-  - food
   - literature
   - museums
   - music
-featured_image: bme-suffolk/global-africa-day-3-x-2.png
-start_date: '2025-05-25 13:00'
-end_date: '2025-05-25 15:30'
+featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
+start_date: '2025-10-28 11:00'
+end_date: '2025-10-28 12:30'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Relaxed performance'
-  - 'Drop-in event'
 latitude: '52.05879312178225'
 longitude: '1.1565072711648254'
 building_name: 'Ipswich County Library'
@@ -144,7 +141,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our family friendly Africa Global Day celebrations!'
+        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
   -
     type: paragraph
     attrs:
@@ -152,28 +149,62 @@ content_area:
     content:
       -
         type: text
-        text: 'Activities include guest speakers, fun quizzes, poetry by children, networking, arts and crafts, food, music, and dance.'
+        marks:
+          -
+            type: bold
+        text: 'Booking is required.'
+      -
+        type: text
+        text: ' Please book a ticket for each child attending. Accompanying adults don’t need to book. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-ipswich-county-library/2025-10-28/11:00/t-pqpggoa'
+              rel: noopener
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'Book your tickets online on TicketSource.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Traditional clothing is welcome. '
+        text: 'This event is part of the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://blackbritishballet.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Black British Ballet project by Oxygen Arts'
+      -
+        type: text
+        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
 cta: |-
-  This event is organised by BME Suffolk
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.bmesuffolk.org/](https://www.bmesuffolk.org/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [info@bmesuffolk.org](mailto:info@bmesuffolk.org)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [07492 691190](tel:07492691190)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747233556
+  [0345 60 630 60](tel:03456063060)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756716725
 duplicated_from: 4ef752e5-caf0-4a8e-be06-df8a14d08b77
 organisers:
-  - bme-suffolk
-published: false
+  - suffolk-community-libraries
+attendance_information: 'Suitable for ​children aged 4-8 years.'
+booking_link: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-ipswich-county-library/2025-10-28/11:00/t-pqpggoa'
 ---
-Everyone's invited!
+Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
