@@ -1,8 +1,7 @@
 ---
 id: 1286509f-a246-4dcc-ac61-06e0680d7eab
-published: false
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated)'
+title: 'Singing for Lung Health'
 event_categories:
   - wellbeing
   - music
@@ -11,14 +10,14 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-12-11 12:30'
-end_date: '2025-12-11 14:00'
+start_date: '2025-09-06 10:00'
+end_date: '2025-09-06 11:30'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Dementia friendly'
   - 'Accessible toilets'
+  - 'Accessible parking spaces'
 latitude: '52.456816760715476'
 longitude: '1.7356360119327994'
 building_name: 'The Seagull Theatre'
@@ -85,23 +84,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We have a fun sing-a-long every Thursday between 12.30pm and 2.00pm.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'It’s a free, fun activity for people living with dementia and their families, with free tea and biscuits. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'No musical experience or talent required, just come along and join in! '
+        text: 'Our specially qualified group facilitator will support participants in a range of singing and music based exercises intended to support with th improvement of breathing and reductions in breathlessness.'
   -
     type: paragraph
     attrs:
@@ -116,7 +99,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://theseagull.co.uk/community_events/sing-a-long/'
+              href: 'https://theseagull.co.uk/community_events/singing-for-lung-health/'
               rel: null
               target: _blank
               title: null
@@ -151,8 +134,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756737616
+updated_at: 1756737838
 duplicated_from: e37de0ca-7f81-470a-99a5-587b1858a3a8
-attendance_information: 'People living with dementia and their families'
+attendance_information: 'Those managing impaired lung performance'
 ---
-A fun weekly group for people and families living with dementia.
+Improve your lung health through singing.
