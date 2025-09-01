@@ -203,11 +203,11 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756717414
+updated_at: 1756718219
 duplicated_from: 4ef752e5-caf0-4a8e-be06-df8a14d08b77
 organisers:
   - suffolk-community-libraries
-attendance_information: 'Suitable for children aged 4-8 years.'
+attendance_information: 'Suitable for children aged 4-8 years'
 booking_link: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-ipswich-county-library/2025-10-28/11:00/t-pqpggoa'
 ---
 Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
