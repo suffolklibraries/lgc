@@ -97,7 +97,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Vocal and physical warm ups '
+                text: 'Vocal and physical warm-ups '
       -
         type: listItem
         content:
@@ -141,18 +141,21 @@ content_area:
         text: '01502 589726'
       -
         type: text
-        text: '  or email '
+        text: ' or email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:musicaltheatre@theseagull-co-uk.stackstaging.com'
+              href: 'mailto:musicaltheatre@theseagull.co.uk'
               rel: null
               target: null
               title: null
-        text: musicaltheatre@theseagull-co-uk.stackstaging.com
+        text: musicaltheatre@theseagull.co.uk
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -184,7 +187,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756738701
+updated_at: 1756740137
 duplicated_from: 8e955d48-9cfe-4b2f-8acc-5e5a6963cf9c
 attendance_information: 'suitable for children aged 8 to 11 years'
 ---
