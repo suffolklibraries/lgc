@@ -1,8 +1,7 @@
 ---
 id: fe6cee84-0667-4f42-babc-2010cab7ca3d
-published: false
 blueprint: events
-title: 'Seagull Sing-a-Long (Duplicated) (Duplicated)'
+title: 'Seagull Sing-a-Long'
 event_categories:
   - wellbeing
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-11-13 12:30'
-end_date: '2025-11-13 14:00'
+start_date: '2025-11-27 12:30'
+end_date: '2025-11-27 14:00'
 free: true
 virtual: false
 accessibility_information:
@@ -151,7 +150,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756737531
+updated_at: 1756737574
 duplicated_from: 6297cd8e-c959-4b2e-b994-8136d9d8f9e5
 attendance_information: 'People living with dementia and their families'
 ---
