@@ -1,27 +1,30 @@
 ---
 id: 73e351a7-7933-4269-ba74-1e26369fee8b
 blueprint: events
-title: 'Blank Page - Lowestoft'
+title: 'Onisere and the Ballet Queen at Lowestoft Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742835290
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756717802
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
-start_date: '2025-04-09 09:45'
+start_date: '2025-10-29 11:00'
 event_categories:
-  - art
-  - computing
-  - teen
+  - dance
+  - literature
+  - museums
+  - family-friendly
+  - theatre-and-performance
+  - music
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
+  - suffolk-community-libraries
 address_line_1: 'Lowestoft Library'
 address_line_2: 'Clapham Road South'
 town: Lowestoft
 postcode: 'NR32 1DR'
-featured_image: pelicanpelican-3x2/teen-(1).png
-attendance_information: 'ages 10 - 16'
+featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
+attendance_information: 'Suitable for children aged 4-8 years.'
 content_area:
   -
     type: paragraph
@@ -30,23 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join artist Lulu Horsfield for this creative workshop for 10-16 year olds at Lowestoft Library and learn how to create your own 2D stop frame animation! This workshop is part of '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: 'The Blank Page Project'
-      -
-        type: text
-        text: .
+        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
   -
     type: paragraph
     attrs:
@@ -57,41 +44,43 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Workshops take place from 9.45AM to 3.30PM and include a free lunch, drinks and snacks!'
-      -
-        type: text
-        text: ‍
+        text: 'No booking required - just come along. '
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'This one-day workshop will introduce future animators to 2D stop frame animation using their own ideas, artwork and storytelling skills.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'This event is part of the '
       -
         type: text
-        text: 'We will encourage participants to tell their own stories through moving image, by exploring 2D methods of animation using iPad technology. Participants will have the opportunity to create their own artwork in different ways and learn how to work with stop frame animation techniques to make their own short film.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://blackbritishballet.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Black British Ballet project by Oxygen Arts'
+      -
+        type: text
+        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-09 15:30'
+  - 'Relaxed performance'
+end_date: '2025-10-29 12:30'
 duplicated_from: e3f7a53a-3400-4cc4-b142-d945925ba27c
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/lulu-horsfield-future-animators-lowestoft'
 directions:
   -
     type: paragraph
@@ -198,6 +187,5 @@ directions:
       -
         type: text
         text: .
-published: false
 ---
-High-quality creative activities run by local artists in libraries during the school holidays!
+Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
