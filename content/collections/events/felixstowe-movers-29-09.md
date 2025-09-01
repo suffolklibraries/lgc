@@ -3,8 +3,8 @@ id: e1abf8c7-3f4f-4448-971b-0e1a963d0225
 blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746023582
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756722615
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2025-09-29 13:00'
