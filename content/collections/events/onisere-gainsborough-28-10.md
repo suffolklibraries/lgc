@@ -140,7 +140,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718304
+updated_at: 1756718312
 duplicated_from: 7bbff4a8-3a00-49b2-8f97-cb32d0e81c2e
 ---
 Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
