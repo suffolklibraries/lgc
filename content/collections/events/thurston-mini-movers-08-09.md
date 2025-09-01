@@ -1,22 +1,20 @@
 ---
 id: 3ba2a702-8ba9-4428-ae08-f2baf32bb79e
-published: false
 blueprint: events
-title: 'Hadleigh Mini Movers (Duplicated)'
+title: 'Thurston Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756725389
-latitude: '52.04262545010293'
-longitude: '0.9547349567782285'
-start_date: '2025-09-09 09:15'
+updated_at: 1756730219
+latitude: '52.254201398431825'
+longitude: '0.810888126645686'
+start_date: '2025-09-08 10:00'
 free: false
 virtual: false
 organisers:
-  - dance-east
   - karen-louise-dance
-address_line_1: '29 High Street'
-town: Hadleigh
-postcode: 'IP7 5AG'
+address_line_1: 'Thurston Community College'
+town: 'Bury Saint Edmunds'
+postcode: 'IP31 3SD'
 featured_image: pelicanpelican-3x2/early-years-(1).png
 attendance_information: 'toddlers and their grown-ups'
 content_area:
@@ -27,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Hadleigh Mini Movers is the perfect way to nurture your little ones natural love of movement in a structured yet relaxed environment. Themes, music, props and games are used to develop balance, coordination and imagination, and grown-ups are encouraged to join in the fun too!'
+        text: 'Thurston Mini Movers is the perfect way to nurture your little ones natural love of movement in a structured yet relaxed environment. Themes, music, props and games are used to develop balance, coordination and imagination, and grown-ups are encouraged to join in the fun too!'
   -
     type: paragraph
     attrs:
@@ -212,7 +210,7 @@ cta: |-
 
   [https://karenlouisedance.com](https://karenlouisedance.com)
 cost_details: '£5 per grown-up and child together, £2 per additional child'
-end_date: '2025-09-09 10:15'
+end_date: '2025-09-08 11:30'
 duplicated_from: 8866d0e0-8475-47dc-84bf-950d6865bff3
 event_categories:
   - dance
@@ -220,7 +218,7 @@ event_categories:
   - wellbeing
   - early-years
   - family-friendly
-building_name: 'Hadleigh Library'
+building_name: 'Thurston Library'
 directions:
   -
     type: paragraph
@@ -234,61 +232,33 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/place/Market+Place/@52.0431339,0.951772,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a8726845aaab:0x336fee50da9201b5!2sHadleigh+Library,+High+Street,+Hadleigh,+Ipswich!2m2!1d0.9547218!2d52.0424951!1m6!1m2!1s0x47d9a872045f27c5:0x5f6b00c950f2491d!2sMarket+Place,+Hadleigh,+Ipswich+IP7+5AL!2m2!1d0.954147!2d52.043743!3e2!3m5!1s0x47d9a872045f27c5:0x5f6b00c950f2491d!8m2!3d52.043743!4d0.954147!16s%2Fg%2F1q67tdsnb?entry=ttu&g_ep=EgoyMDI0MTIwOS4wIKXMDSoASAFQAw%3D%3D'
+              href: 'https://www.google.co.uk/maps/dir/Thurston+Library/College+Main+Entrance,+Thurston,+Bury+Saint+Edmunds+IP31+3PB/@52.2538592,0.8101361,19z/data=!4m14!4m13!1m5!1m1!1s0x47d9b36b596bd0b5:0x7775d0f27554239e!2m2!1d0.8109291!2d52.2540167!1m5!1m1!1s0x47d9b36cbd39d1a7:0x701c4c4654a8af8f!2m2!1d0.809631!2d52.253654!3e2?entry=ttu&g_ep=EgoyMDI1MDgyNS4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
         text: 'nearest bus stop'
       -
         type: text
-        text: ' is a two minute walk away.'
+        text: ' is a two-minute walk away on Norton Road.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest parking is at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.babergh.gov.uk/environment/parking/babergh-car-and-lorry-parks/magdalen-road-short-term-car-park/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Magdalen Road car park'
-      -
-        type: text
-        text: ', which is a five minute walk away or '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.babergh.gov.uk/w/hadleigh-high-street-car-park'
-              rel: null
-              target: _blank
-              title: null
-        text: 'parking on the High Street'
-      -
-        type: text
-        text: ', a six minute walk away.'
+        text: 'There is limited onsite car parking.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Find access information for Hadleigh Library on the '
+        text: 'Find access information for Thurston Library on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/hadleigh-library'
+              href: 'https://www.accessable.co.uk/venues/thurston-library'
               rel: null
               target: _blank
               title: null
@@ -316,5 +286,6 @@ directions:
       -
         type: text
         text: .
+address_line_2: Thurston
 ---
 Come and try a weekly movement class, ideal for toddlers and their grown-ups!
