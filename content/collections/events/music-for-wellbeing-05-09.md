@@ -3,10 +3,10 @@ id: a55ecdff-dd87-45fa-b1d6-801e5bbf06ff
 blueprint: events
 title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743608560
-start_date: '2025-05-30 13:30'
-end_date: '2025-05-30 15:00'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756735927
+start_date: '2025-09-05 13:30'
+end_date: '2025-09-05 15:00'
 free: true
 virtual: false
 organisers:
@@ -37,7 +37,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Email '
+        text: 'Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
+              rel: null
+              target: _blank
+              title: null
+        text: "Seagull Theatre's website"
+      -
+        type: text
+        text: ' or email '
       -
         type: text
         marks:
@@ -74,7 +88,6 @@ event_categories:
   - community
   - music
   - later-years
-booking_link: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
 building_name: 'The Seagull Theatre'
 directions:
   -
@@ -128,6 +141,5 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-published: false
 ---
 An activity for anyone who enjoys music!
