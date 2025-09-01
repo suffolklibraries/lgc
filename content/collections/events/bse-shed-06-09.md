@@ -6,6 +6,7 @@ event_categories:
   - community
   - later-years
   - nature
+  - wellbeing
 featured_image: pelicanpelican-3x2/gardentools.png
 start_date: '2025-09-06 10:00'
 end_date: '2025-09-06 14:00'
@@ -131,7 +132,7 @@ cta: |-
 
   [shedheadsbse@gmail.com](mailto:shedheadsbse@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756731080
+updated_at: 1756731095
 duplicated_from: c2a380f0-95b1-4dcc-8576-5c4fbc596791
 organisers:
   - bury-st-edmunds-mens-shed
