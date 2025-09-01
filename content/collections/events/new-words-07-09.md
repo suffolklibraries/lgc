@@ -3,10 +3,10 @@ id: fc217148-5a26-4148-9d11-eca7a0b8e30e
 blueprint: events
 title: 'New Words, Fresh Voices'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743609899
-start_date: '2025-06-29 19:30'
-end_date: '2025-06-29 21:00'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756736781
+start_date: '2025-09-07 19:30'
+end_date: '2025-09-07 21:00'
 free: false
 virtual: false
 organisers:
@@ -58,7 +58,7 @@ address_line_1: 19-75
 address_line_2: 'Morton Road'
 postcode: 'NR33 0JH'
 duplicated_from: 50e42f1b-7e1d-417c-8427-bd2db2679450
-booking_link: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices-4/'
+booking_link: 'https://theseagull.co.uk/seagull_shows/new-words-fresh-voices/'
 cost_details: £4
 event_categories:
   - literature
@@ -117,6 +117,5 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-published: false
 ---
 The Seagull's bi-monthly performance platform for local poets and songwriters.
