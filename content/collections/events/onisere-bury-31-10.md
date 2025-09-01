@@ -1,105 +1,106 @@
 ---
 id: 8fd66c21-b616-4ef9-b4c4-848705fb8696
-published: false
 blueprint: events
-title: 'Blank Page - Bury St Edmunds'
+title: 'Onisere and the Ballet Queen at Bury St Edmunds Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1724232355
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756718215
 latitude: '52.248150770555625'
 longitude: '0.7114614702830845'
-start_date: '2024-07-30 09:45'
+start_date: '2025-10-31 11:00'
 event_categories:
-  - art
-  - computing
   - music
+  - family-friendly
+  - museums
+  - theatre-and-performance
+  - literature
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
-address_line_1: 'Bury St Edmunds Library'
+  - suffolk-community-libraries
 address_line_2: "2B St Andrew's Street North"
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 1TZ'
-featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
+attendance_information: 'Suitable for children aged 4-8 years'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
-  -
-    type: paragraph
-    content:
+        marks:
+          -
+            type: bold
+        text: 'Booking is required.'
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
+        text: ' Please book a ticket for each child attending and their accompanying adults. '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-bury-st-edmunds-library/2025-10-31/11:00/t-eagrrqo'
+              rel: noopener
               target: _blank
               title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
+            type: bold
+        text: 'Book your tickets online on TicketSource'
       -
         type: text
         text: .
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: start
     content:
       -
         type: text
-        text: 'How to get there'
+        text: 'This event is part of the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://blackbritishballet.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Black British Ballet project by Oxygen Arts'
+      -
+        type: text
+        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
+cta: |-
+  This event is organised by Suffolk Community Libraries
+
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
+
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
+
+  [0345 60 630 60](tel:03456063060)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
+  - 'Relaxed performance'
+end_date: '2025-10-31 12:30'
+duplicated_from: 5cdf968a-f57a-4107-a858-5dc390909048
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/onisere-and-the-ballet-queen-at-bury-st-edmunds-library/'
+building_name: 'Bury St Edmunds Library'
+directions:
   -
     type: paragraph
     content:
@@ -208,20 +209,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Suffolk Libraries
-
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
-
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-16 15:30'
-duplicated_from: 5cdf968a-f57a-4107-a858-5dc390909048
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
