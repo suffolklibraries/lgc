@@ -1,27 +1,28 @@
 ---
 id: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
 blueprint: events
-title: 'Blank Page - Beccles'
+title: 'Onisere and the Ballet Queen at Ipswich County Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742835100
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756718035
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
-start_date: '2025-04-08 09:45'
+start_date: '2025-10-29 14:00'
 event_categories:
   - literature
-  - teen
-  - art
+  - music
+  - family-friendly
+  - theatre-and-performance
+  - museums
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
-address_line_1: 'Beccles Library'
+  - suffolk-community-libraries
 address_line_2: Blyburgate
 town: Beccles
 postcode: 'NR34 9TB'
-featured_image: pelicanpelican-3x2/teen-(1).png
-attendance_information: 'ages 10 - 16'
+featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
+attendance_information: 'Suitable for children aged 4-8 years'
 content_area:
   -
     type: paragraph
@@ -30,23 +31,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join writer and performer Poppy Stevens for this creative workshop for 10-16 year olds at Beccles Library. This workshop will equip you with the skills to harness your creativity and get started! No previous writing experience necessary. Poppy’s workshop is brought to you as part of '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: 'The Blank Page Project'
-      -
-        type: text
-        text: .
+        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
   -
     type: paragraph
     attrs:
@@ -57,30 +42,62 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+        text: 'Booking is required.'
+      -
+        type: text
+        text: ' Please book a ticket for each child attending. Accompanying adults don’t need to book. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-beccles-library/2025-10-29/14:00/t-rpeggjv'
+              rel: noopener
+              target: _blank
+              title: null
+          -
+            type: bold
+        text: 'Book your tickets online on TicketSource'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: "Join us for games, writing, crafts and a whole lot more. You will come away with a beautifully decorated poem, as well as a bunch of creative prompts to continue your creativity at home. We will also be creating a daisy chain display for the library. These daisies might feature poems, positive affirmations or compliments to plant a seed of kindness for our fellow library users. \_"
+        text: 'This event is part of the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://blackbritishballet.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Black British Ballet project by Oxygen Arts'
+      -
+        type: text
+        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
-  - 'Accessible parking spaces'
-end_date: '2025-04-08 15:30'
+  - 'Relaxed performance'
+end_date: '2025-10-29 15:30'
 duplicated_from: 95c79c24-1d15-44d6-81e7-9875b86a7e4b
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/creative-writing-poppy-stevens'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/onisere-and-the-ballet-queen-at-beccles-library/'
 directions:
   -
     type: paragraph
@@ -162,6 +179,6 @@ directions:
       -
         type: text
         text: .
-published: false
+building_name: 'Beccles Library'
 ---
-High-quality creative activities run by local artists in libraries during the school holidays!
+Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
