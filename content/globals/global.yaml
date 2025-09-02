@@ -55,7 +55,7 @@ data:
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
     })(window,document,'script','dataLayer','GTM-P3RWPQVR');</script>
     <!-- End Google Tag Manager -->
-  seo_image: suffolklibrariesimages/lgc-scl-opengraph.png
+  seo_image: lgc-scl-opengraph-v2.png
   listing_section_title: 'List your event'
   listing_content: 'If you run a free or low-cost activity in Suffolk then please let us know about it.'
   listing_call_to_action: 'Get in touch with Eleanor'
