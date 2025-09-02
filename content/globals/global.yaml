@@ -32,13 +32,13 @@ data:
     -
       id: m1oy4d95
       text: 'Privacy Policy'
-      url: 'https://www.suffolk.gov.uk/about/privacy-and-data-protection'
+      url: 'https://www.suffolk.gov.uk/about/privacy-notice/suffolk-community-libraries-privacy-notice'
       type: new_set
       enabled: true
     -
       id: Dye9dxEu
       text: 'Terms & Conditions'
-      url: 'https://getcreative.suffolklibraries.co.uk/terms'
+      url: 'https://getcreative.suffolkcommunitylibraries.co.uk/terms'
       type: new_set
       enabled: true
     -
