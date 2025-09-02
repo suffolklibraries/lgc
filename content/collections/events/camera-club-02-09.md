@@ -112,5 +112,6 @@ cta: |-
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1733739313
 duplicated_from: bb407be2-7d87-4da3-bb0f-12e8fa4a25ee
+published: false
 ---
 Join our friendly camera club to share your photos with a welcoming group.
