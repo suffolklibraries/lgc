@@ -14,7 +14,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Digital Accessibility Statement for suffolklibraries.co.uk'
+        text: "Digital Accessibility Statement for\_getcreative.suffolkcommunitylibraries.co.uk"
   -
     type: paragraph
     attrs:
@@ -42,18 +42,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Community Libraries takes the following measures to ensure accessibility of '
+        text: "Suffolk Community Libraries\_takes the following measures to ensure accessibility of\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/'
+              href: 'https://getcreative.suffolkcommunitylibraries.co.uk/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: suffolkcommunitylibraries.co.uk
+        text: getcreative.suffolkcommunitylibraries.co.uk
       -
         type: text
         text: ':'
@@ -70,7 +70,18 @@ content_area:
             content:
               -
                 type: text
-                text: 'Integrate accessibility into our procurement practices.'
+                text: 'Include accessibility as part of our mission statement.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Include accessibility throughout our internal policies.'
       -
         type: listItem
         content:
@@ -101,7 +112,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The '
+        text: "The\_"
       -
         type: text
         marks:
@@ -115,7 +126,43 @@ content_area:
         text: 'Web Content Accessibility Guidelines (WCAG)'
       -
         type: text
-        text: ' defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. suffolklibraries.co.uk is partially conformant with WCAG 2.1 level AA. Partially conformant means that some parts of the content do not fully conform to the accessibility standard.'
+        text: "\_defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA.\_getcreative.suffolkcommunitylibraries.co.uk\_is\_partially conformant\_with\_WCAG 2.1 level AA.\_Partially conformant\_means that\_some parts of the content do not fully conform to the accessibility standard."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Additional accessibility considerations'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'getcreative.suffolkcommunitylibraries.co.uk offers a drop-down translation function with over 100 languages available, to ensure that visitors who do not speak English as their first language are able to view and interact with the digital content presented on the website.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'getcreative.suffolkcommunitylibraries.co.uk also offers a zoom function which enables visitors to increase or decrease the page size depending on their needs.'
   -
     type: heading
     attrs:
@@ -142,11 +189,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/'
+              href: 'https://getcreative.suffolkcommunitylibraries.co.uk/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: suffolkcommunitylibraries.co.uk
+        text: getcreative.suffolkcommunitylibraries.co.uk
       -
         type: text
         text: '. Please let us know if you encounter accessibility barriers on '
@@ -156,11 +203,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/'
+              href: 'https://getcreative.suffolkcommunitylibraries.co.uk/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: suffolkcommunitylibraries.co.uk
+        text: getcreative.suffolkcommunitylibraries.co.uk
       -
         type: text
         text: ':'
@@ -177,7 +224,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Phone: 01473 351249'
+                text: 'Phone: 0345 60 630 60'
       -
         type: listItem
         content:
@@ -218,7 +265,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We try to respond to feedback within two business days.'
+        text: 'We try to respond to feedback within five business days.'
   -
     type: heading
     attrs:
@@ -335,10 +382,10 @@ content_area:
                 marks:
                   -
                     type: bold
-                text: 'Some images do not contain appropriate alt text for screen readers'
+                text: 'Missing field and landmark labels'
               -
                 type: text
-                text: ': Some images have no appropriate alt text, mainly because old content has been imported on several occasions over a period of seven years. All web editors have been trained in appplying meaningful alt text to images and have been asked to update CMS images where they find missing text. Please report any images which do not alt text to '
+                text: ': Some fields and landmark elements do not have appropriate labels to identify their function. We continually review the accessibility of getcreative.suffolkcommunitylibraries.co.uk and are working to assign appropriate labels and roles to all functions of the website. Please report any major issues to '
               -
                 type: text
                 marks:
@@ -372,21 +419,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Suffolk Libraries assessed the accessibility of '
+        text: "Suffolk Community Libraries\_assessed the accessibility of\_"
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/'
+              href: 'https://getcreative.suffolkcommunitylibraries.co.uk/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: suffolkcommunitylibraries.co.uk
+        text: getcreative.suffolkcommunitylibraries.co.uk
       -
         type: text
-        text: ' by the following approaches:'
+        text: "\_by the following approaches:"
   -
     type: bulletList
     content:
@@ -412,17 +459,6 @@ content_area:
                       target: null
                       title: null
                 text: 'WCAG compliance automated checker'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'An informal audit and consultation by accessibility experts at Arts Council England'
   -
     type: heading
     attrs:
@@ -464,7 +500,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This statement was created on 21 September 2020 using the '
+        text: "This statement was created on\_2 September 2025\_using the\_"
       -
         type: text
         marks:
@@ -479,8 +515,8 @@ content_area:
       -
         type: text
         text: .
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748939714
+updated_by: b6080d5a-09dc-463a-919d-b42bd6740591
+updated_at: 1756812118
 parent: home
 hide_sidebar: false
 ---
