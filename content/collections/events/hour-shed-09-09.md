@@ -7,7 +7,7 @@ event_categories:
   - later-years
   - nature
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-09-09 10:00'
+start_date: '2025-09-09 19:00'
 end_date: '2025-09-13 13:00'
 free: false
 cost_details: '£30 for six month membership'
@@ -156,7 +156,7 @@ cta: |-
 
   [admin@hourcommunity.co.uk](mailto:admin@hourcommunity.co.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756997578
+updated_at: 1756997621
 duplicated_from: 57c2dddf-b64c-4ca9-a8b4-b51762474fa4
 ---
 Socialise and share skills.
