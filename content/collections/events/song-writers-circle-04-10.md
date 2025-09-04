@@ -1,26 +1,25 @@
 ---
 id: eb1f34b3-c0e3-4490-99df-6d0262cb79b6
-published: false
 blueprint: events
-title: 'Writing for Wellbeing Workshop (Duplicated)'
+title: 'Songwriters Circle'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756996534
+updated_at: 1756996876
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-09-14 13:00'
+start_date: '2025-10-04 12:00'
 event_categories:
   - community
   - later-years
   - art
-free: false
+free: true
 virtual: false
 organisers:
   - sudbury-arts-centre
 address_line_1: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EA'
-featured_image: pelicanpelican-3x2/literature.png
+featured_image: pelicanpelican-3x2/music.png
 content_area:
   -
     type: paragraph
@@ -29,47 +28,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Three workshops will be led by our Author-In-Residence Jules Stone. We’ll use a variety of writing activities to explore how we can:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Use writing to help us understand and manage our emotions'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Clarify our personal goals and what gets in the way'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Identify small day-today steps we can take to improve our well-being'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
+        text: 'A supportive peer to peer environment to play your songs, and receive feedback, tips and encouragement. All skills levels are welcomed!'
   -
     type: paragraph
     attrs:
@@ -77,7 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Most exercises will be completed individually and there is no need to share your writing with the group. You don’t need experience in creative writing as this is a chance to learn and experiment in a positive and safe environment, where all are welcome.'
+        text: 'This is a great opportunity to network with fellow songwriters.'
   -
     type: paragraph
     attrs:
@@ -85,43 +44,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Dates:'
+        text: 'Our cafe/bar will be open during the sessions.'
   -
-    type: bulletList
+    type: paragraph
+    attrs:
+      textAlign: start
     content:
       -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Sunday 14th September'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Sunday 12th October'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Sunday 14th October'
+        type: text
+        text: 'Led by Daniel Stephen Turner of Create More, Worry Less.'
 cta: |-
   This event is organised by Sudbury Arts Centre
 
@@ -133,7 +64,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-09-14 15:00'
+end_date: '2025-10-04 14:00'
 duplicated_from: b4c48a40-285e-425b-9578-eb007ba1524f
 directions:
   -
@@ -231,8 +162,7 @@ directions:
         type: text
         text: .
 building_name: 'Sudbury Arts Centre'
-cost_details: '£5 per person'
 attendance_information: 'suitable for adults and over 16s'
-booking_link: 'https://sudburyartscentre.com/event/writing-for-wellbeing-workshop-1/'
+booking_link: 'https://sudburyartscentre.com/event/songwriters-circle-7/'
 ---
-Join us this Autumn for a series of writing workshops, designed to support wellbeing.
+A friendly free drop in for songwriters to meet together.
