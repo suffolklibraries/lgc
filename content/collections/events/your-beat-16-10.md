@@ -1,17 +1,17 @@
 ---
 id: 4c20745c-e751-459d-92be-4070cae8249d
-published: false
 blueprint: events
-title: 'Embody Your Beat (Duplicated)'
+title: 'Embody Your Beat'
 event_categories:
   - community
   - music
   - dance
+  - wellbeing
 organisers:
   - the-cut
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-09-25 18:30'
-end_date: '2025-09-25 20:00'
+start_date: '2025-10-16 18:30'
+end_date: '2025-10-16 20:00'
 free: false
 cost_details: £10
 virtual: false
@@ -232,8 +232,8 @@ cta: |-
   [info@thecut.org.uk](mailto:info@thecut.org.uk)
 
   [0300 303 3211](tel:03003033211)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749548633
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756985918
 duplicated_from: 44743c9c-b507-4239-ad29-49750fa8a300
 booking_link: 'https://thecut.org.uk/events/embody-your-beat/'
 ---
