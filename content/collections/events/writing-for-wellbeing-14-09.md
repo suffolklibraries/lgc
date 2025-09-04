@@ -1,26 +1,25 @@
 ---
 id: b4c48a40-285e-425b-9578-eb007ba1524f
-published: false
 blueprint: events
-title: 'Stitch and Sip (Duplicated)'
+title: 'Writing for Wellbeing Workshop'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756996286
+updated_at: 1756996534
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-09-26 11:00'
+start_date: '2025-09-14 13:00'
 event_categories:
   - community
   - later-years
   - art
-free: true
+free: false
 virtual: false
 organisers:
   - sudbury-arts-centre
 address_line_1: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EA'
-featured_image: pelicanpelican-3x2/coffee.png
+featured_image: pelicanpelican-3x2/literature.png
 content_area:
   -
     type: paragraph
@@ -29,37 +28,99 @@ content_area:
     content:
       -
         type: text
-        text: 'Are you handy with the needle and thread? Do you enjoy patching and mending? Perhaps you’d like to meet new people with a shared interest?'
+        text: 'Three workshops will be led by our Author-In-Residence Jules Stone. We’ll use a variety of writing activities to explore how we can:'
   -
-    type: paragraph
-    attrs:
-      textAlign: start
+    type: bulletList
     content:
       -
-        type: text
-        text: 'If so our Stitch & Sip Cafe is the place to be! Pop in – the drinks are on us for any sewing bees volunteering to help mend and make things for the Arts Centre!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'No need to book, just come along. Visit the '
-      -
-        type: text
-        marks:
+        type: listItem
+        content:
           -
-            type: link
+            type: paragraph
             attrs:
-              href: 'https://sudburyartscentre.com/event/stitch-sip-sewing-group-8/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Sudbury Arts Centre website'
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Use writing to help us understand and manage our emotions'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Clarify our personal goals and what gets in the way'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Identify small day-today steps we can take to improve our well-being'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' to find out more.'
+        text: 'Most exercises will be completed individually and there is no need to share your writing with the group. You don’t need experience in creative writing as this is a chance to learn and experiment in a positive and safe environment, where all are welcome.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Dates:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Sunday 14th September'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Sunday 12th October'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Sunday 14th October'
 cta: |-
   This event is organised by Sudbury Arts Centre
 
@@ -71,7 +132,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-09-26 13:00'
+end_date: '2025-09-14 15:00'
 duplicated_from: 0e2aec2e-01ec-466a-a990-6f782e609866
 directions:
   -
@@ -169,5 +230,8 @@ directions:
         type: text
         text: .
 building_name: 'Sudbury Arts Centre'
+cost_details: '£5 per person'
+attendance_information: 'suitable for adults and over 16s'
+booking_link: 'https://sudburyartscentre.com/event/writing-for-wellbeing-workshop-1/'
 ---
-Join our friendly sewing group.
+Join us this Autumn for a series of writing workshops, designed to support wellbeing.
