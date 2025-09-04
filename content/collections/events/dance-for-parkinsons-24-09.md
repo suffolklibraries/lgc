@@ -3,11 +3,11 @@ id: b13f068a-13a2-4b80-b6e1-d6eef93b0f71
 blueprint: events
 title: 'Dance for Parkinson’s'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1743592150
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1757000847
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-06-25 14:15'
+start_date: '2025-09-24 14:15'
 free: true
 virtual: false
 organisers:
@@ -62,14 +62,14 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-06-25 15:30'
+end_date: '2025-09-24 15:30'
 attendance_information: "adults with Parkinson's"
 duplicated_from: 1aed97ef-89b5-4d0f-8416-17a6d14043ad
 cost_details: '£6 per session'
 event_categories:
-  - dance
   - wellbeing
   - later-years
+  - dance
 directions:
   -
     type: paragraph
@@ -199,8 +199,9 @@ directions:
               target: null
               title: null
         text: here.
-booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-4/'
+booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-18-open/'
 building_name: 'Dance East'
-published: false
+accessibility_information:
+  - 'Accessible toilets'
 ---
 Dance classes designed for people with Parkinson's.
