@@ -1,8 +1,7 @@
 ---
 id: abf94941-02c0-4795-94a8-9c51a4306bb4
-published: false
 blueprint: events
-title: 'Fressingfield Shed (Duplicated) (Duplicated)'
+title: 'Fressingfield Shed'
 event_categories:
   - community
   - later-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - fressingfield-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-09-16 10:00'
-end_date: '2025-09-18 12:00'
+start_date: '2025-09-30 10:00'
+end_date: '2025-10-02 12:00'
 free: false
 cost_details: '£24 annual membership'
 virtual: false
@@ -169,7 +168,7 @@ cta: |-
   [https://thefressingfieldshed.co.uk/](https://thefressingfieldshed.co.uk/) 
   [info@thefressingfieldshed.co.uk](mailto:info@thefressingfieldshed.co.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756998278
+updated_at: 1756998335
 duplicated_from: fb9804ec-5140-448c-ac78-0c47b10c8a01
 ---
 A community workshop and garden in north Suffolk.
