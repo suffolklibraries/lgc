@@ -1,20 +1,19 @@
 ---
 id: d5d7b8aa-22a8-45b3-abb4-5968e8402617
 blueprint: events
-title: 'Drop-In - ages 16 - 19'
+title: 'Drop-In - ages 18 to 25'
 event_categories:
   - teen
   - languages
-  - art
   - wellbeing
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-09-09 17:00'
-end_date: '2025-09-09 19:00'
+start_date: '2025-09-24 17:00'
+end_date: '2025-09-24 19:00'
 free: true
 virtual: false
-attendance_information: 'For young people aged 16 to 19'
+attendance_information: 'For young people aged 18 to 25'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -130,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756988472
+updated_at: 1756988977
 duplicated_from: c1be2d26-b591-4366-abbd-6edda57bf149
 ---
 Hang out in a chill and comfortable space.
