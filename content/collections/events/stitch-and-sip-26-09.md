@@ -1,14 +1,13 @@
 ---
 id: 0e2aec2e-01ec-466a-a990-6f782e609866
-published: false
 blueprint: events
-title: 'Stitch and Sip (Duplicated)'
+title: 'Stitch and Sip'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756996210
+updated_at: 1756996286
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-09-12 11:00'
+start_date: '2025-09-26 11:00'
 event_categories:
   - community
   - later-years
@@ -52,7 +51,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://sudburyartscentre.com/event/stitch-sip-sewing-group-7/'
+              href: 'https://sudburyartscentre.com/event/stitch-sip-sewing-group-8/'
               rel: null
               target: _blank
               title: null
@@ -71,7 +70,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-09-12 13:00'
+end_date: '2025-09-26 13:00'
 duplicated_from: 15ed78a8-1058-4376-ae86-e840215ae076
 directions:
   -
