@@ -1,8 +1,7 @@
 ---
 id: 966e99aa-32ae-45ee-bc21-0127dd074373
-published: false
 blueprint: events
-title: 'Drop-In - years 9, 10, and 11 (Duplicated)'
+title: 'Drop-In - years 9, 10, and 11'
 event_categories:
   - teen
   - languages
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-09-11 16:00'
-end_date: '2025-09-11 18:00'
+start_date: '2025-09-18 16:00'
+end_date: '2025-09-18 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 8, 9, and 10'
@@ -131,7 +130,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756989261
+updated_at: 1756989311
 duplicated_from: 7bd03e32-b56f-4c1b-98c8-f71c55b2406b
 ---
 Hang out in a chill and comfortable space.
