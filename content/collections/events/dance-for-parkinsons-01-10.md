@@ -1,14 +1,13 @@
 ---
 id: f4faea12-c9f8-419e-bfaf-c2e4d1ceda0b
-published: false
 blueprint: events
-title: 'Dance for Parkinson’s (Duplicated)'
+title: 'Dance for Parkinson’s'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757000847
+updated_at: 1757000888
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-09-24 14:15'
+start_date: '2025-10-01 14:15'
 free: true
 virtual: false
 organisers:
@@ -63,7 +62,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-09-24 15:30'
+end_date: '2025-10-01 15:30'
 attendance_information: "adults with Parkinson's"
 duplicated_from: b13f068a-13a2-4b80-b6e1-d6eef93b0f71
 cost_details: '£6 per session'
