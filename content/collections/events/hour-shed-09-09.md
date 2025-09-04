@@ -7,8 +7,8 @@ event_categories:
   - later-years
   - nature
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-07-30 10:00'
-end_date: '2025-08-02 17:00'
+start_date: '2025-09-09 10:00'
+end_date: '2025-09-13 13:00'
 free: false
 cost_details: '£30 for six month membership'
 virtual: false
@@ -112,15 +112,17 @@ content_area:
     content:
       -
         type: text
-        text: 'Wednesday - 2pm - 5pm'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Tuesday - 7pm to 9pm'
+      -
+        type: hardBreak
       -
         type: text
-        text: 'Saturday 10am - 1pm'
+        text: "Wednesday - 2pm to 5pm (men's session)"
+      -
+        type: hardBreak
+      -
+        type: text
+        text: "Saturday - 10am to 1pm\_"
   -
     type: paragraph
     attrs:
@@ -153,9 +155,8 @@ cta: |-
   [https://www.hourcommunity.co.uk/hour-shed](https://www.hourcommunity.co.uk/hour-shed)
 
   [admin@hourcommunity.co.uk](mailto:admin@hourcommunity.co.uk)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749109636
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756997578
 duplicated_from: 57c2dddf-b64c-4ca9-a8b4-b51762474fa4
-published: false
 ---
 Socialise and share skills.
