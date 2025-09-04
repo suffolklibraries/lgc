@@ -113,7 +113,30 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop-in runs every week and are a great way of meeting new friends and finding new passions.'
+        text: 'Our drop-ins are a safe and welcoming space for young people to hang out, meet new friends, chat to our youth workers, and most importantly, have fun.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'We offer a variety of activities, including table tennis, pool, video games, board games, arts and crafts, plus additional activities planned by our team (like football or Dodgeball).'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'For those needing a quieter environment, we also have a designated ‘quiet space’ available to use.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'We have a dedicated team of youth workers, who are present and available to have a chat, help and support, or to signpost young people to other support, both internally and externally. Our youth workers also hold qualifications in Mental Health First Aid, Safeguarding, First Aid, C-Card, and more.'
   -
     type: paragraph
     attrs:
@@ -129,7 +152,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756987454
+updated_at: 1756990394
 duplicated_from: 7c3836e4-c99a-4cef-a3cb-46e21071bda6
 ---
 Hang out in a chill and comfortable space.
