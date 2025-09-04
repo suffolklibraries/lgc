@@ -135,5 +135,6 @@ directions:
         text: .
 address_line_1: 'Old Bury Road'
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/stanton-wellbeing-walk-near-bury-st-edmunds-41'
+published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
