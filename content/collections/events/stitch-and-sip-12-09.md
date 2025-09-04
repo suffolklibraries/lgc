@@ -4,10 +4,10 @@ blueprint: events
 title: 'Stitch and Sip'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750175124
+updated_at: 1756996210
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-06-27 11:00'
+start_date: '2025-09-12 11:00'
 event_categories:
   - community
   - later-years
@@ -44,7 +44,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just come along.'
+        text: 'No need to book, just come along. Visit the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://sudburyartscentre.com/event/stitch-sip-sewing-group-7/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Sudbury Arts Centre website'
+      -
+        type: text
+        text: ' to find out more.'
 cta: |-
   This event is organised by Sudbury Arts Centre
 
@@ -56,7 +70,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-06-27 13:00'
+end_date: '2025-09-12 13:00'
 duplicated_from: c77ec61d-e73c-4fe9-824b-9f1a5b54659a
 directions:
   -
@@ -154,6 +168,5 @@ directions:
         type: text
         text: .
 building_name: 'Sudbury Arts Centre'
-published: false
 ---
 Join our friendly sewing group.
