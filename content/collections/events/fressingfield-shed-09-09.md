@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - fressingfield-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-07-29 10:00'
-end_date: '2025-08-01 12:00'
+start_date: '2025-09-09 10:00'
+end_date: '2025-09-11 12:00'
 free: false
 cost_details: '£24 annual membership'
 virtual: false
@@ -23,6 +23,26 @@ address_line_2: Fressingfield
 town: Eye
 postcode: 'IP21 5PG'
 directions:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is nearby parking by '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Methodist+Church/@52.3469093,1.3126007,19z/data=!4m6!3m5!1s0x47d9932e5f0c496f:0xed03bcae3c615bea!8m2!3d52.3472185!4d1.313273!16s%2Fg%2F1tfcshcf?entry=ttu&g_ep=EgoyMDI1MDgzMC4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Fressingfield Methodist Church'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -147,9 +167,8 @@ cta: |-
 
   [https://thefressingfieldshed.co.uk/](https://thefressingfieldshed.co.uk/) 
   [info@thefressingfieldshed.co.uk](mailto:info@thefressingfieldshed.co.uk)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742471490
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756998242
 duplicated_from: 37ce2a6e-093b-462a-94c3-378a286cc840
-published: false
 ---
 A community workshop and garden in north Suffolk.
