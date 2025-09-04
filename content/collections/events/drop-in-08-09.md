@@ -1,16 +1,17 @@
 ---
 id: 1ac5a604-cc02-4780-9d14-57c332d2970b
 blueprint: events
-title: 'Drop-In - year 7 and 8'
+title: 'Drop-In - years 7 and 8'
 event_categories:
   - teen
   - languages
   - art
+  - wellbeing
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-06-30 16:00'
-end_date: '2025-06-30 18:00'
+start_date: '2025-09-08 16:00'
+end_date: '2025-09-08 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 7 and 8'
@@ -128,9 +129,8 @@ cta: |-
   [https://www.themixstowmarket.org/](https://www.themixstowmarket.org/) 
 
   [01449 745130](tel:01449745130)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739973885
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756987520
 duplicated_from: e9ca71ed-a5e4-4e2f-96dd-a1c74ada0239
-published: false
 ---
 Hang out in a chill and comfortable space.
