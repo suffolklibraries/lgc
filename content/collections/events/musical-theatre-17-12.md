@@ -1,7 +1,7 @@
 ---
 id: 08a02173-90e6-41fe-aaba-7383b55e3417
 blueprint: events
-title: 'Seaagull Youth Theatre'
+title: 'Seagull Youth Theatre'
 event_categories:
   - music
   - theatre-and-performance
@@ -246,7 +246,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756740770
+updated_at: 1756982485
 duplicated_from: 28c2a68e-3719-4f7a-8178-1adb748be6af
 ---
 Building confidence and self-esteem through theatre.
