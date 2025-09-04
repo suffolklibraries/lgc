@@ -10,7 +10,7 @@ organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
 start_date: '2025-09-08 13:30'
-end_date: '2025-07-07 15:30'
+end_date: '2025-09-08 15:30'
 free: true
 virtual: false
 attendance_information: 'For young people aged 9 to 15 who are home educated'
@@ -129,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756987026
+updated_at: 1756987074
 duplicated_from: 79576292-4d67-4720-a612-2528b45c03f3
 ---
 Hang out in a chill and comfortable space.
