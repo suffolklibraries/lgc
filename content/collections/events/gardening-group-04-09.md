@@ -144,5 +144,6 @@ cta: |-
   [01728 451700](tel:01728451700)
 accessibility_information:
   - 'Accessible toilets'
+published: false
 ---
 Join us in the peaceful surroundings of The Red House Garden for our Bereavement Gardening Group.
