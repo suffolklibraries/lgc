@@ -129,8 +129,8 @@ content_area:
         type: text
         text: 'The group meet in the community room at the Co-op (near the café).'
 cta: 'This event is organised by the OffCut Choir'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1746008432
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1756986456
 duplicated_from: 5a5442ee-4dbe-4918-a9b8-e1c160ebc47e
 organisers:
   - off-cut-choir
