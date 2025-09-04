@@ -1,14 +1,13 @@
 ---
 id: 1a0c9392-c8e8-4db3-8801-31ba0fd601db
-published: false
 blueprint: events
-title: 'Writing for Wellbeing Workshop (Duplicated)'
+title: 'Writing for Wellbeing Workshop'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756996534
+updated_at: 1756996577
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-09-14 13:00'
+start_date: '2025-10-12 13:00'
 event_categories:
   - community
   - later-years
@@ -133,7 +132,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-09-14 15:00'
+end_date: '2025-10-12 15:00'
 duplicated_from: b4c48a40-285e-425b-9578-eb007ba1524f
 directions:
   -
@@ -233,6 +232,6 @@ directions:
 building_name: 'Sudbury Arts Centre'
 cost_details: '£5 per person'
 attendance_information: 'suitable for adults and over 16s'
-booking_link: 'https://sudburyartscentre.com/event/writing-for-wellbeing-workshop-1/'
+booking_link: 'https://sudburyartscentre.com/event/writing-for-wellbeing-workshop-2/'
 ---
 Join us this Autumn for a series of writing workshops, designed to support wellbeing.
