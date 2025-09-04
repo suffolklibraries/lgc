@@ -1,14 +1,13 @@
 ---
 id: 517bddf5-2225-44ee-9e3d-0db1ebbcc3ee
-published: false
 blueprint: events
-title: 'Songwriters Circle (Duplicated)'
+title: 'Songwriters Circle'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756996876
+updated_at: 1756996917
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
-start_date: '2025-10-04 12:00'
+start_date: '2025-11-01 12:00'
 event_categories:
   - community
   - later-years
@@ -65,7 +64,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-10-04 14:00'
+end_date: '2025-11-01 14:00'
 duplicated_from: eb1f34b3-c0e3-4490-99df-6d0262cb79b6
 directions:
   -
@@ -164,6 +163,6 @@ directions:
         text: .
 building_name: 'Sudbury Arts Centre'
 attendance_information: 'suitable for adults and over 16s'
-booking_link: 'https://sudburyartscentre.com/event/songwriters-circle-7/'
+booking_link: 'https://sudburyartscentre.com/event/songwriters-circle-8/'
 ---
 A friendly free drop in for songwriters to meet together.
