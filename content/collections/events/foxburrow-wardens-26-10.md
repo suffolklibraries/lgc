@@ -1,8 +1,7 @@
 ---
 id: 242a5ed8-6774-4998-827e-a30b5e1ce770
-published: false
 blueprint: events
-title: 'Young Wardens at Foxburrow (Duplicated)'
+title: 'Young Wardens at Foxburrow'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-28 10:00'
-end_date: '2025-09-28 14:00'
+start_date: '2025-10-26 10:00'
+end_date: '2025-10-26 14:00'
 free: false
 cost_details: £7
 virtual: false
@@ -93,7 +92,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-28-young-wardens-foxburrow'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-10-26-young-wardens-foxburrow'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -102,8 +101,8 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740668785
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1757000256
 duplicated_from: cdc6854b-cdc8-4eec-a504-a52804aca77d
 accessibility_information:
   - 'Wheelchair accessible'
