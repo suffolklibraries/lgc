@@ -4,14 +4,13 @@ blueprint: events
 title: 'Songwriters Circle'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756996917
+updated_at: 1756996983
 latitude: '52.03880776046766'
 longitude: '0.7314451553348278'
 start_date: '2025-11-01 12:00'
 event_categories:
   - community
-  - later-years
-  - art
+  - music
 free: true
 virtual: false
 organisers:
