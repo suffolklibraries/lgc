@@ -113,7 +113,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop-in runs every week and are a great way of meeting new friends and finding new passions.'
+        text: 'Drop-in runs once a month and are a great way of meeting new friends and finding new passions.'
   -
     type: paragraph
     attrs:
@@ -129,7 +129,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756988977
+updated_at: 1756990070
 duplicated_from: c1be2d26-b591-4366-abbd-6edda57bf149
 ---
 Hang out in a chill and comfortable space.
