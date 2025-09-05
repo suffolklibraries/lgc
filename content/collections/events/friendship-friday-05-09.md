@@ -217,5 +217,6 @@ event_categories:
   - community
   - art
 attendance_information: 'People aged 60+'
+published: false
 ---
 Join our friendly group.

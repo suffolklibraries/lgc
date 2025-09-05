@@ -85,5 +85,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1747243782
 duplicated_from: 65423eb0-63cb-41ff-9985-5bb3be172a7d
 booking_link: 'https://usethehive.org.uk/whats-occuring'
+published: false
 ---
 Come along and join The Hive's sewing group.
