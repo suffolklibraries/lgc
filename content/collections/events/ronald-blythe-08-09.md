@@ -154,5 +154,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1748508251
 latitude: '52.09184969111204'
 longitude: '1.465346256020226'
+published: false
 ---
 Ian Collins has drawn on decades of friendship for an intimate and candid biography which forms the basis of his talk.
