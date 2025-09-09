@@ -1,13 +1,12 @@
 ---
 id: 777f53fa-dbed-4d42-ba4b-152ecbe7faf8
-published: false
 blueprint: events
-title: 'Act Your Age (Duplicated) (Duplicated) (Duplicated)'
+title: 'Act Your Age'
 organisers:
   - theatre-royal
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-09-30 13:30'
-end_date: '2025-09-30 15:00'
+start_date: '2025-10-21 13:30'
+end_date: '2025-10-21 15:00'
 free: false
 cost_details: '£75 per term, with bursaries available'
 virtual: false
@@ -177,7 +176,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757430509
+updated_at: 1757430560
 duplicated_from: a9fb9d5c-c6fb-4976-a8eb-7b7a25c7076d
 accessibility_information:
   - 'Wheelchair accessible'
