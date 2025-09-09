@@ -1,8 +1,7 @@
 ---
 id: f76b80de-387f-4a41-8fc6-1698cfcaea92
-published: false
 blueprint: events
-title: 'Tell Your Story (Duplicated) (Duplicated)'
+title: 'Tell Your Story'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - new-wolsey-theatre
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-09-16 13:30'
-end_date: '2025-09-16 16:00'
+start_date: '2025-09-30 13:30'
+end_date: '2025-09-30 16:00'
 free: true
 virtual: false
 accessibility_information:
@@ -157,7 +156,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757430765
+updated_at: 1757430799
 duplicated_from: 8d413c61-fa72-43de-b6ab-1e66adb1cc47
 booking_link: 'https://www.wolseytheatre.co.uk/projects/tell-your-story-2025-26/'
 ---
