@@ -1,16 +1,16 @@
 ---
 id: 29bca6c4-9b42-4513-bfa5-ca6519bb7740
 blueprint: events
-title: 'Group for Grown-Ups of 0 to 1 year olds'
+title: 'Tell Your Story'
 event_categories:
   - art
   - community
   - literature
 organisers:
   - new-wolsey-theatre
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-01-08 12:00'
-end_date: '2025-01-08 13:00'
+featured_image: pelicanpelican-3x2/literature.png
+start_date: '2025-09-16 13:30'
+end_date: '2025-09-16 16:00'
 free: true
 virtual: false
 accessibility_information:
@@ -119,7 +119,7 @@ content_area:
     content:
       -
         type: text
-        text: 'These are a space to be creative with your little one and meet others sharing the same experience.'
+        text: 'This programme will focus on creative writing and print-making skills. Over 12 sessions, in a safe, playful and supportive environment, two professional artists will introduce participants to new creative skills and support them on a journey to expressing themselves. It will be a chance to have fun, meet like-minded people and get creative.'
   -
     type: paragraph
     attrs:
@@ -127,7 +127,7 @@ content_area:
     content:
       -
         type: text
-        text: "\_Free and open to anyone in receipt of benefits or engaging with the Jobcentre Plus."
+        text: "\_We have limited spaces left! Our morning group now has a wait list but we have some spaces in our afternoon group which will run every Tuesday from Tuesday 16th September – Tuesday 9th December (exc. Half term 28/10/25), 1:30pm - 4pm."
   -
     type: paragraph
     attrs:
@@ -135,21 +135,18 @@ content_area:
     content:
       -
         type: text
-        text: "\_Sign up by emailing "
+        text: 'You can find more information and register your interest via our website: '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:cdavis@wolseytheatre.co.uk'
+              href: 'https://www.wolseytheatre.co.uk/projects/tell-your-story-2025-26/'
               rel: null
               target: null
               title: null
-        text: cdavis@wolseytheatre.co.uk
-      -
-        type: text
-        text: ' or speaking to your work coach.'
+        text: 'https://www.wolseytheatre.co.uk/projects/tell-your-story-2025-26/'
 cta: |-
   This event is based at the New Wolsey Theatre
 
@@ -158,10 +155,9 @@ cta: |-
   [tickets@wolseytheatre.co.uk](mailto:tickets@wolseytheatre.co.uk)
 
   [01473 295900](tel:01473295900)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1731314152
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1757430765
 duplicated_from: 2deded0d-7664-4fba-a99e-ec47461dab6f
-attendance_information: 'carers of 0 - 1 year olds'
-published: false
+booking_link: 'https://www.wolseytheatre.co.uk/projects/tell-your-story-2025-26/'
 ---
-Be creative with your little one!
+A creative social prescribing project with the New Wolsey Theatre.
