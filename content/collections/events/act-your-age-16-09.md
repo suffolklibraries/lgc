@@ -5,8 +5,8 @@ title: 'Act Your Age'
 organisers:
   - theatre-royal
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-01-28 13:30'
-end_date: '2025-01-28 15:00'
+start_date: '2025-09-16 13:30'
+end_date: '2025-09-16 15:00'
 free: false
 cost_details: '£75 per term, with bursaries available'
 virtual: false
@@ -166,7 +166,7 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
-booking_link: 'https://theatreroyal.org/events/songwriting-masterclass/'
+booking_link: 'https://theatreroyal.org/community-engagement/act-your-age/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -175,8 +175,8 @@ cta: |-
   [01284769505](tel:01284769505)
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730904532
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1757430469
 duplicated_from: 97cee8c3-e397-4c1d-ad49-a0c36c7ed849
 accessibility_information:
   - 'Wheelchair accessible'
@@ -187,6 +187,5 @@ event_categories:
   - later-years
   - wellbeing
   - community
-published: false
 ---
 Join our friendly weekly theatre group at the Theatre Royal.
