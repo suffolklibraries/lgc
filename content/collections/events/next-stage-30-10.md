@@ -226,5 +226,6 @@ event_categories:
   - theatre-and-performance
   - teen
   - music
+published: false
 ---
 Ready to push yourself creatively? Take the next stage with Royal's Next Stage group.
