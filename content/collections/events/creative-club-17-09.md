@@ -1,17 +1,16 @@
 ---
 id: 2a7e4c5e-9778-4ac3-b090-4712fc0c95c5
-published: false
 blueprint: events
-title: 'Tell Your Story (Duplicated)'
+title: 'Creative Club'
 event_categories:
   - art
   - community
-  - literature
+  - wellbeing
 organisers:
   - new-wolsey-theatre
-featured_image: pelicanpelican-3x2/literature.png
-start_date: '2025-09-16 13:30'
-end_date: '2025-09-16 16:00'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-09-17 10:30'
+end_date: '2025-09-17 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -120,7 +119,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This programme will focus on creative writing and print-making skills. Over 12 sessions, in a safe, playful and supportive environment, two professional artists will introduce participants to new creative skills and support them on a journey to expressing themselves. It will be a chance to have fun, meet like-minded people and get creative.'
+        text: 'Following on from our Eat, Sleep, Move, Repeat project with Ipswich Jobcentre, our new Creative Club will be starting in September!'
   -
     type: paragraph
     attrs:
@@ -128,7 +127,15 @@ content_area:
     content:
       -
         type: text
-        text: "\_We have limited spaces left! Our morning group now has a wait list but we have some spaces in our afternoon group which will run every Tuesday from Tuesday 16th September – Tuesday 9th December (exc. Half term 28/10/25), 1:30pm - 4pm."
+        text: 'Creative Club is all about bringing people together with creativity! The club will be run by a multi-disciplinary artist, who will help you to get creative, learn new skills and share your interests.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Creative Club will run every Wednesday from 10:30am – 12:30pm (exc. school holidays). It is free and open to everyone of all ages.'
   -
     type: paragraph
     attrs:
@@ -136,18 +143,18 @@ content_area:
     content:
       -
         type: text
-        text: 'You can find more information and register your interest via our website: '
+        text: 'Sign up by contacting '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.wolseytheatre.co.uk/projects/tell-your-story-2025-26/'
+              href: 'mailto:cdavis@wolseytheatre.co.uk'
               rel: null
               target: null
               title: null
-        text: 'https://www.wolseytheatre.co.uk/projects/tell-your-story-2025-26/'
+        text: cdavis@wolseytheatre.co.uk
 cta: |-
   This event is based at the New Wolsey Theatre
 
@@ -157,8 +164,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757430765
+updated_at: 1757431158
 duplicated_from: 29bca6c4-9b42-4513-bfa5-ca6519bb7740
-booking_link: 'https://www.wolseytheatre.co.uk/projects/tell-your-story-2025-26/'
 ---
-A creative social prescribing project with the New Wolsey Theatre.
+A creative offer for everyone, in partnership with Ipswich Jobcentre
