@@ -1,17 +1,16 @@
 ---
 id: c1cc54b7-c2bf-4779-9df0-67d56fdbc775
-published: false
 blueprint: events
-title: 'Act Your Age (Duplicated)'
+title: 'Next Stage'
 organisers:
   - theatre-royal
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-01-28 13:30'
-end_date: '2025-01-28 15:00'
-free: false
-cost_details: '£75 per term, with bursaries available'
+start_date: '2025-10-30 17:00'
+end_date: '2025-01-30 19:30'
+free: true
+cost_details: '£185 per term, with bursaries available'
 virtual: false
-attendance_information: 'suitable for ages 55+'
+attendance_information: 'suitable for ages 16 to 18'
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
 building_name: 'Theatre Royal'
@@ -119,7 +118,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The Act Your Age group, which meets every Tuesday afternoon in term-time, is a friendly, supportive group for adults with a recommended age of 55 and over. We get together to explore drama techniques such as devising and improvisation.'
+        text: "Whether you're dreaming of a career in the arts or just looking for a space to go and experiment, join the Next Stage theatre group."
   -
     type: paragraph
     attrs:
@@ -127,7 +126,7 @@ content_area:
     content:
       -
         type: text
-        text: 'It’s good for wellbeing, making new friends and a chance to be a bit silly and let off steam!'
+        text: "You'll be supported by two experienced theatre professionals who will guide you in exploring key skills, including: acting technique, voice, movement, improvisation, script analysis, and you'll get a taste of technical theatre too. "
   -
     type: paragraph
     attrs:
@@ -135,7 +134,10 @@ content_area:
     content:
       -
         type: text
-        text: 'We are always on the lookout for new members to come and join us. No previous theatre experience is necessary.'
+        marks:
+          -
+            type: bold
+        text: 'Term One - playwrighting, producing, devising, behind the scenes. 18 November to 16 December 2025.'
   -
     type: paragraph
     attrs:
@@ -143,7 +145,10 @@ content_area:
     content:
       -
         type: text
-        text: 'Sessions take place at Theatre Royal every Tuesday from 1.30pm to 3pm.'
+        marks:
+          -
+            type: bold
+        text: 'Term Two - create original work together and perform it at Bloom Festival. 13 January to 24 March 2025.'
   -
     type: paragraph
     attrs:
@@ -151,7 +156,42 @@ content_area:
     content:
       -
         type: text
-        text: 'Act Your Age workshop costs £75.00 per term. Bursary places are available, '
+        text: 'All workshops take place on Tuesdays between 5pm - 7.30pm.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "If you're a confident, passional young adult who has left school and is ready for the next step in their learning, join us at our group auditions from 10.30am - 12.30pm on Thursday 30 October at the Theatre Royal."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'To audition email '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:engagement@theatreroyal.org'
+              rel: null
+              target: null
+              title: null
+        text: engagement@theatreroyal.org
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Next Stage workshop costs £185 per 15-week course but bursary places are available, '
       -
         type: text
         marks:
@@ -167,7 +207,6 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
-booking_link: 'https://theatreroyal.org/events/songwriting-masterclass/'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -176,8 +215,8 @@ cta: |-
   [01284769505](tel:01284769505)
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730904532
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1757430297
 duplicated_from: ed186757-9827-4158-9fb5-37ef06426514
 accessibility_information:
   - 'Wheelchair accessible'
@@ -185,8 +224,7 @@ accessibility_information:
   - 'Accessible toilets'
 event_categories:
   - theatre-and-performance
-  - later-years
-  - wellbeing
-  - community
+  - teen
+  - music
 ---
-Join our friendly weekly theatre group at the Theatre Royal.
+Ready to push yourself creatively? Take the next stage with Royal's Next Stage group.
