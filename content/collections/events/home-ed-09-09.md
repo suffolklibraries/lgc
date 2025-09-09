@@ -106,5 +106,6 @@ updated_at: 1755620155
 duplicated_from: 45796c41-95ad-4777-8b35-3f6b8a4b7833
 cost_details: £12.50
 booking_link: 'https://www.ampp.studio/whats-on'
+published: false
 ---
 Create with us in a calm and quiet inclusive space.
