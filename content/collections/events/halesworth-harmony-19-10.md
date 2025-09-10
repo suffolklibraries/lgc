@@ -1,8 +1,7 @@
 ---
 id: 573ab7c8-9061-4365-b8ce-59986d23cea7
-published: false
 blueprint: events
-title: 'Halesworth Harmony (Duplicated) (Duplicated)'
+title: 'Halesworth Harmony'
 event_categories:
   - community
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - halesworth-harmony
 featured_image: halesworth-harmony/halesworth-harmony-choir-july-2025.jpg
-start_date: '2025-09-21 10:30'
-end_date: '2025-09-21 12:30'
+start_date: '2025-10-19 10:30'
+end_date: '2025-10-19 12:30'
 free: true
 cost_details: 'Free taster session'
 virtual: false
@@ -222,7 +221,7 @@ cta: |-
 
   [halesworth.harmony@gmail.com](mailto:halesworth.harmony@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757521863
+updated_at: 1757521925
 duplicated_from: 9c1d08a2-046d-4a47-98d1-a1fba9d4b71e
 ---
 Halesworth Harmony is a friendly and supportive choir, welcoming all singers without an audition.
