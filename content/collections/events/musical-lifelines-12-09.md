@@ -7,8 +7,8 @@ event_categories:
   - later-years
   - music
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2025-06-27 10:30'
-end_date: '2025-06-27 12:00'
+start_date: '2025-09-12 10:30'
+end_date: '2025-09-12 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -133,9 +133,8 @@ cta: |-
   [clarkecaroline@live.co.uk](mailto:clarkecaroline@live.co.uk)
 
   [01986 511164](tel:01986511164)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1739785305
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1757487752
 duplicated_from: 05335f5c-c710-4096-a60e-94c4765538de
-published: false
 ---
 Free music workshops for people in later life.
