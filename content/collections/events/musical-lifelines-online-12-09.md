@@ -1,8 +1,7 @@
 ---
 id: 528ccc2a-e59d-4add-86ca-d925a849271d
-published: false
 blueprint: events
-title: 'Musical Lifelines - Bungay (Duplicated)'
+title: 'Musical Lifelines - online'
 event_categories:
   - wellbeing
   - later-years
@@ -11,7 +10,7 @@ featured_image: musical-lifelines/musical-lifelines--3x2.png
 start_date: '2025-09-12 10:30'
 end_date: '2025-09-12 12:00'
 free: true
-virtual: false
+virtual: true
 attendance_information: |-
   people in later life
   people with Parkinson's
@@ -22,59 +21,6 @@ accessibility_information:
   - 'Dementia friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-latitude: '52.44922342680505'
-longitude: '1.4431293259085236'
-building_name: 'Bungay Community Centre'
-address_line_1: 'Old Grammar Lane'
-town: Bungay
-postcode: 'NR35 1PU'
-directions:
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There is onsite parking at Bungay Community Centre.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'The '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.com/maps/dir/Bungay+Community+Centre,+Old+Grammar+Lane,+Bungay/Old+Grammar+School+Lane,+Bungay+NR35+1PU/@52.4486283,1.4402836,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9f171cfb3895d:0xf4a4b66a5ff54833!2m2!1d1.4431091!2d52.4490767!1m5!1m1!1s0x47d9f16581c0fafd:0x49355eb9d287c4e2!2m2!1d1.442896!2d52.448189!3e0?entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D'
-              rel: null
-              target: _blank
-              title: null
-        text: 'nearest bus stop'
-      -
-        type: text
-        text: " is a minute's walk away. "
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Plan your journey using '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkonboard.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Onboard'
-      -
-        type: text
-        text: .
 content_area:
   -
     type: paragraph
@@ -91,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No experience necessary - come and explore music!'
+        text: 'No experience necessary - explore music in your own home by joining this online workshop.'
   -
     type: paragraph
     attrs:
@@ -135,7 +81,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757487768
+updated_at: 1757488083
 duplicated_from: c2bb0200-f3dc-41c1-9cff-b5bac9ca8f91
 ---
 Free music workshops for people in later life.
