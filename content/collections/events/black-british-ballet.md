@@ -191,7 +191,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The exhibition will include almost 30 images, posters and news articles from the past 60 years, video clips of the dancer’s stories.'
+        text: "The exhibition will include almost 30 images, posters and news articles from the past 60 years, video clips of the dancers' stories."
   -
     type: paragraph
     attrs:
@@ -508,7 +508,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757501754
+updated_at: 1757502835
 duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
   - suffolk-community-libraries
