@@ -1,14 +1,13 @@
 ---
 id: cb241d52-c032-4604-a0fd-f8a51b0f08b4
-published: false
 blueprint: events
-title: 'Roly Poly - cardboard messy play (Duplicated)'
+title: 'Roly Poly'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757505133
+updated_at: 1757505228
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
-start_date: '2025-10-07 10:00'
+start_date: '2025-10-10 10:30'
 event_categories:
   - dance
   - literature
@@ -40,7 +39,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just come along.'
+        text: 'Enjoy relaxed ambient music and lighting, live clarinet, interactive movement and a playful rolling cardboard maze, for small audiences of babies/toddlers under two years old and their caregivers.'
   -
     type: paragraph
     attrs:
@@ -56,7 +55,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Find out more at '
+        text: 'Book your free family ticket at '
       -
         type: text
         marks:
@@ -65,9 +64,17 @@ content_area:
             attrs:
               href: 'http://www.rolypolyshow.com'
               rel: null
-              target: _blank
+              target: null
               title: null
         text: www.rolypolyshow.com
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Sessions start at 10.30am and 1.30pm.'
 cta: |-
   This event is organised by Roly Poly
 
@@ -76,7 +83,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Relaxed performance'
-end_date: '2025-10-07 12:00'
+end_date: '2025-10-10 14:30'
 duplicated_from: 12cecc6f-2f61-4cb0-9fd1-7786f749d5a4
 directions:
   -
@@ -186,4 +193,4 @@ directions:
         text: .
 building_name: 'Lowestoft Library'
 ---
-A friendly session for under twos and their caregivers to explore the world through messy play.
+A sensory musical playscape for under-twos and their caregivers.
