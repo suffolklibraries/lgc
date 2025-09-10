@@ -1,19 +1,18 @@
 ---
 id: c6eb5580-db8d-4aa4-8ea8-361bc1775dc8
-published: false
 blueprint: events
-title: 'Embody Your Beat (Duplicated)'
+title: 'Halesworth Harmony'
 event_categories:
   - community
   - music
-  - dance
+  - wellbeing
 organisers:
-  - the-cut
-featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2025-10-02 18:30'
-end_date: '2025-10-02 20:00'
-free: false
-cost_details: £10
+  - halesworth-harmony
+featured_image: halesworth-harmony/halesworth-harmony-choir-july-2025.jpg
+start_date: '2025-09-21 10:30'
+end_date: '2025-09-21 12:30'
+free: true
+cost_details: 'Free taster session'
 virtual: false
 accessibility_information:
   - 'Accessible toilets'
@@ -148,7 +147,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Music and dance activate pleasure centres in the body and brain stimulating comfort, calm, relaxation, joy and empowerment as well as recalibrating the sensory and nervous systems. The class is inclusive and trauma informed.'
+        text: 'We sing a varied mix of world music in three- or four-part harmony, and we are also fortunate to have worked with, and commissioned, contemporary British composers.'
   -
     type: paragraph
     attrs:
@@ -156,43 +155,7 @@ content_area:
     content:
       -
         type: text
-        text: 'A place where you can dance:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Freely, without performing, following steps, routines or partnering with no expectations of what your dance should be or look like'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Safely, with a diverse group who enjoy grounded, conscious, freeform movement dancing on their own and together with consent and respect'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Creating space for yourself, moving from the inside out, engaging with others and sharing experiences which has a positive effect on mental and physical health and wellbeing'
+        text: 'The choir meets approximately fortnightly on Sunday mornings (10.30-12.30) between September and June, usually at The Cut Arts Centre in Halesworth. There’s an interval to chat and make new friends.'
   -
     type: paragraph
     attrs:
@@ -200,7 +163,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You are welcome whatever your age, gender, culture, ability, experience, shape, fitness, physical and mental ability (under 16’s must be accompanied by an adult).'
+        text: 'We’re actively seeking new members to join us to learn a programme of songs for a summer-themed concert in June 2026. '
   -
     type: paragraph
     attrs:
@@ -208,33 +171,57 @@ content_area:
     content:
       -
         type: text
-        text: "Find out more on the Cut's website - "
+        text: 'Rehearsal dates up to Christmas are September 21st, October 5th & 19th, November 23rd & 30th, December 14th – all at The Cut, except Nov 30th which will be at The Hub in Huntingfield. There is also a full day workshop led by Sian Croose on November 9th, 10.30-16.00, at The Cut.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'If you’re interested in joining us, do come along to a rehearsal. You’ll receive a warm welcome and '
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'YOUR FIRST SESSION IS FREE'
+      -
+        type: text
+        text: '. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'There’s no need to be able to read music – songs are taught by ear and recordings are available for home practice.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "\_For further information please email "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://thecut.org.uk/events/embody-your-beat/'
+              href: 'mailto:halesworth.harmony@gmail.com'
               rel: null
               target: null
               title: null
-        text: 'https://thecut.org.uk/events/embody-your-beat/'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
+        text: halesworth.harmony@gmail.com
 cta: |-
-  This event is organised by The Cut
+  This event is organised by Halesworth Harmony 
 
-  [https://thecut.org.uk/](https://thecut.org.uk/) 
-
-  [info@thecut.org.uk](mailto:info@thecut.org.uk)
-
-  [0300 303 3211](tel:03003033211)
+  [halesworth.harmony@gmail.com](mailto:halesworth.harmony@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756308418
+updated_at: 1757521863
 duplicated_from: c9565103-93a8-4e5f-b0ef-4332fac141f0
-booking_link: 'https://thecut.org.uk/events/embody-your-beat/'
 ---
-If you don’t do your dance, who will?
+Halesworth Harmony is a friendly and supportive choir, welcoming all singers without an audition.
