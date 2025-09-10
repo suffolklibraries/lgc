@@ -1,15 +1,14 @@
 ---
 id: beaa0e4f-3cdf-4e6c-aabd-16edca1d5f6c
-published: false
 blueprint: events
-title: 'Musical Lifelines - Bungay (Duplicated) (Duplicated)'
+title: 'Musical Lifelines - Bungay'
 event_categories:
   - wellbeing
   - later-years
   - music
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2025-09-26 10:30'
-end_date: '2025-09-26 12:00'
+start_date: '2025-10-10 10:30'
+end_date: '2025-10-10 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -135,7 +134,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757487797
+updated_at: 1757487830
 duplicated_from: 0cd9e55d-9bf6-472b-8757-82edbc87b2a9
 ---
 Free music workshops for people in later life.
