@@ -1,15 +1,15 @@
 ---
 id: 5d9faee2-f920-48dd-9a19-2f93c5708a2d
-published: false
 blueprint: events
-title: 'Musical Lifelines - online (Duplicated)'
+title: 'Musical Lifelines - online'
 event_categories:
   - wellbeing
   - later-years
   - music
+  - computing
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2025-09-12 10:30'
-end_date: '2025-09-12 12:00'
+start_date: '2025-09-19 10:30'
+end_date: '2025-09-19 12:00'
 free: true
 virtual: true
 attendance_information: |-
@@ -82,7 +82,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757488083
+updated_at: 1757488121
 duplicated_from: 528ccc2a-e59d-4add-86ca-d925a849271d
 ---
 Free music workshops for people in later life.
