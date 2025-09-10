@@ -1,7 +1,7 @@
 ---
 id: 2ac9bd5f-05d5-42d2-9b9a-a4dfd7fbc6dc
 blueprint: events
-title: 'Musical Lifelines - near Halesworth'
+title: 'Musical Lifelines - St James South Elmham'
 event_categories:
   - wellbeing
   - later-years
@@ -81,7 +81,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757488645
+updated_at: 1757488700
 duplicated_from: 528ccc2a-e59d-4add-86ca-d925a849271d
 organisers:
   - musical-lifelines
