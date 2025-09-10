@@ -1,15 +1,14 @@
 ---
 id: f9827b23-0624-4185-9a75-3568f24b5e2d
-published: false
 blueprint: events
-title: 'Musical Lifelines - St James South Elmham (Duplicated) (Duplicated) (Duplicated) (Duplicated)'
+title: 'Musical Lifelines - St James South Elmham'
 event_categories:
   - wellbeing
   - later-years
   - music
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2025-10-13 10:30'
-end_date: '2025-10-13 12:00'
+start_date: '2026-02-09 10:30'
+end_date: '2026-02-09 12:00'
 free: true
 virtual: false
 attendance_information: |-
@@ -82,7 +81,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757488700
+updated_at: 1757488793
 duplicated_from: 6e223bb9-9f12-4a2f-8436-c9e86842d512
 organisers:
   - musical-lifelines
