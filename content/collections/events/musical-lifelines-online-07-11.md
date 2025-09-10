@@ -1,16 +1,15 @@
 ---
 id: 0ad34b1e-1d20-4a4c-bef6-057a56ef4651
-published: false
 blueprint: events
-title: 'Musical Lifelines - online (Duplicated)'
+title: 'Musical Lifelines - online'
 event_categories:
   - wellbeing
   - later-years
   - music
   - computing
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2025-10-24 10:30'
-end_date: '2025-10-24 12:00'
+start_date: '2025-11-07 10:30'
+end_date: '2025-11-07 12:00'
 free: true
 virtual: true
 attendance_information: |-
@@ -83,7 +82,7 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757488208
+updated_at: 1757488236
 duplicated_from: c1fc8186-4d38-4a38-952e-a922d2301b3d
 organisers:
   - musical-lifelines
