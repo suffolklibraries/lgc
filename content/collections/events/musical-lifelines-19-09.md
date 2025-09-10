@@ -134,7 +134,9 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757487788
+updated_at: 1757488536
 duplicated_from: c2bb0200-f3dc-41c1-9cff-b5bac9ca8f91
+organisers:
+  - musical-lifelines
 ---
 Free music workshops for people in later life.
