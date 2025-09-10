@@ -1,14 +1,13 @@
 ---
 id: 50d6da23-a684-4129-9917-8f770d00f3e8
-published: false
 blueprint: events
-title: 'Roly Poly - cardboard messy play (Duplicated)'
+title: 'Roly Poly - cardboard messy play'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757505133
-latitude: '52.47693008464241'
-longitude: '1.7503664745347964'
-start_date: '2025-10-07 10:00'
+updated_at: 1757505421
+latitude: '52.343102036954136'
+longitude: '0.500284254945463'
+start_date: '2025-10-17 10:00'
 event_categories:
   - dance
   - literature
@@ -19,9 +18,9 @@ free: true
 virtual: false
 organisers:
   - roly-poly
-address_line_2: 'Clapham Road South'
-town: Lowestoft
-postcode: 'NR32 1DR'
+address_line_2: Mildenhall
+town: 'Bury Saint Edmunds'
+postcode: 'IP28 7JX'
 featured_image: roly-polu/cardboard-messy-play-3x2.png
 attendance_information: 'Children aged up to two years and their caregiver'
 content_area:
@@ -76,7 +75,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Relaxed performance'
-end_date: '2025-10-07 12:00'
+end_date: '2025-10-17 12:00'
 duplicated_from: 12cecc6f-2f61-4cb0-9fd1-7786f749d5a4
 directions:
   -
@@ -84,69 +83,27 @@ directions:
     content:
       -
         type: text
-        text: 'Lowestoft '
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
+              href: 'https://www.google.com/maps/dir/Mildenhall+Library,+Mildenhall+Hub,+Sheldrick+Way,+Mildenhall,+Bury+Saint+Edmunds/Mildenhall+Col+Sheldrick+Way+Site,+Mildenhall,+Bury+Saint+Edmunds+IP28+7JX/@52.3437964,0.498113,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d8476e8b59c449:0x832b065d7f806767!2m2!1d0.5002628!2d52.3429382!1m5!1m1!1s0x47d847468a71d989:0xb734581cd807bc7c!2m2!1d0.501113!2d52.34351!3e2?entry=ttu&g_ep=EgoyMDI1MDEwOC4wIKXMDSoASAFQAw%3D%3D'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: 'railway station'
+        text: 'nearest bus station'
       -
         type: text
-        text: ' is a seven minute walk away, and the'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/place/Lowestoft+bus+station/@52.4770576,1.7497725,18z/data=!4m24!1m15!4m14!1m6!1m2!1s0x47da1af4dc6a0171:0xa9d78eb97007c720!2sLowestoft+Library!2m2!1d1.7503366!2d52.4768238!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+bus+station,+Lowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3m7!1s0x47da1af56d372b2b:0x7065be204d63f941!6m1!1v5!8m2!3d52.4773506!4d1.7519173!16s%2Fg%2F1q67mdqrk?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: ' bus station'
-      -
-        type: text
-        text: ' is a three minute walk away.'
+        text: ' is a four minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest car park is a one minute walk away at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/clapham_road/nr32/east_suffolk/?arriving=202404111030&leaving=202404111230'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Clapham Road car park'
-      -
-        type: text
-        text: ' or a three minute walk away at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://brittencentre.co.uk/getting-here/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Britten Centre'
-      -
-        type: text
-        text: .
+        text: 'There is free onsite parking. '
   -
     type: paragraph
     content:
@@ -159,11 +116,14 @@ directions:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/lowestoft-library#224575f8-3516-404e-b08b-2b948939e7ad'
+              href: 'https://www.accessable.co.uk/venues/mildenhall-library'
               rel: null
               target: _blank
               title: null
-        text: 'Lowestoft Library using AccessAble.'
+        text: 'Mildenhall Library on AccessAble'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     content:
@@ -184,6 +144,7 @@ directions:
       -
         type: text
         text: .
-building_name: 'Lowestoft Library'
+building_name: 'Mildenhall Library'
+address_line_1: 'Mildenhall Hub, Sheldrick Way'
 ---
 A friendly session for under twos and their caregivers to explore the world through messy play.
