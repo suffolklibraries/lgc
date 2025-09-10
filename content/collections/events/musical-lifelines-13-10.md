@@ -1,17 +1,16 @@
 ---
 id: 2ac9bd5f-05d5-42d2-9b9a-a4dfd7fbc6dc
-published: false
 blueprint: events
-title: 'Musical Lifelines - online (Duplicated)'
+title: 'Musical Lifelines - Halesworth'
 event_categories:
   - wellbeing
   - later-years
   - music
 featured_image: musical-lifelines/musical-lifelines--3x2.png
-start_date: '2025-09-12 10:30'
-end_date: '2025-09-12 12:00'
+start_date: '2025-10-13 10:30'
+end_date: '2025-10-13 12:00'
 free: true
-virtual: true
+virtual: false
 attendance_information: |-
   people in later life
   people with Parkinson's
@@ -38,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No experience necessary - explore music in your own home by joining this online workshop.'
+        text: 'No experience necessary - come and explore music!'
   -
     type: paragraph
     attrs:
@@ -82,7 +81,29 @@ cta: |-
 
   [01986 511164](tel:01986511164)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757488083
+updated_at: 1757488618
 duplicated_from: 528ccc2a-e59d-4add-86ca-d925a849271d
+organisers:
+  - musical-lifelines
+latitude: '52.378349050790305'
+longitude: '1.4067113535050833'
+building_name: 'St James and St Nicholas Village Hall'
+address_line_1: "St James' Lane"
+address_line_2: 'St James South Elmham'
+town: Halesworth
+postcode: 'IP19 0HP'
+directions:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is onsite parking at St James and St Nicholas Village Hall. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There are no local public transport links.'
 ---
 Free music workshops for people in later life.
