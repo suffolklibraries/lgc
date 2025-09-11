@@ -104,5 +104,6 @@ organisers:
   - eastern-angles
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1755074539
+published: false
 ---
 A weekly drama group for adults over 50
