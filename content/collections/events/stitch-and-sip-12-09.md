@@ -168,5 +168,6 @@ directions:
         type: text
         text: .
 building_name: 'Sudbury Arts Centre'
+published: false
 ---
 Join our friendly sewing group.
