@@ -91,5 +91,6 @@ duplicated_from: 6f86192c-06cb-4655-a766-fa04b12c878e
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Foxburrow Nature Reserve'
+published: false
 ---
 An evening walk looking and listening for bats.
