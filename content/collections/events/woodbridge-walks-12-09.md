@@ -141,5 +141,6 @@ event_categories:
   - movement
   - nature
 attendance_information: 'The route can cover uneven ground.'
+published: false
 ---
 A leisurely town and countryside walk.
