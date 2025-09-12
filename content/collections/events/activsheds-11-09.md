@@ -179,5 +179,6 @@ duplicated_from: a20f5c43-a546-4ae9-92df-62f320dadeff
 accessibility_information:
   - 'Autism friendly'
 booking_link: 'https://activlives.org.uk/activgardens/activsheds/'
+published: false
 ---
 A practical project for people who would like to share knowledge, learn new skills, and pursue hobbies and interests!
