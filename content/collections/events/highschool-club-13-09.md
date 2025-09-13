@@ -106,5 +106,6 @@ booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
 cost_details: £9
+published: false
 ---
 A weekly sketchbook club in Ipswich
