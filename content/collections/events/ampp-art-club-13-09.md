@@ -98,5 +98,6 @@ cost_details: £9
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
+published: false
 ---
 90 minutes of creative fun!
