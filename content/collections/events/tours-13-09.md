@@ -127,5 +127,6 @@ directions:
         type: text
         text: .
 address_line_1: '131 Fore Street'
+published: false
 ---
 Explore Suffolk Archives on Heritage Open Days.
