@@ -154,5 +154,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1755618034
 duplicated_from: 0a557cc1-d0fd-4722-a789-241c095687cb
 booking_link: 'https://www.marketplacearts.org.uk/the-lumini/'
+published: false
 ---
 Four days of extraordinary light, colour and joy!
