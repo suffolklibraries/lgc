@@ -116,5 +116,6 @@ updated_at: 1747148353
 duplicated_from: 09c54166-d23b-4a70-afc8-4c2bf7adbb5d
 address_line_2: 'Trimley St Mary'
 cost_details: '£8 adult, £5 child'
+published: false
 ---
 Bird ringing demonstration at Trimley Marshes.
