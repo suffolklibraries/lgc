@@ -128,5 +128,6 @@ event_categories:
   - nature
 address_line_2: Framlingham
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/framlingham-walk-around-town-and-surrounding-countryside-grade-4-2'
+published: false
 ---
 Explore Framlingham on foot.
