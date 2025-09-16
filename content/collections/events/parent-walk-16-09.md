@@ -104,5 +104,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1747240019
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: c7270659-2def-4e2d-8f4c-3c9db106a12f
+published: false
 ---
 Free walking activities to keep you well.
