@@ -106,5 +106,6 @@ accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Felsham Road'
 building_name: 'Education Centre'
+published: false
 ---
 A mindful day in the woods to relax, connect and enjoy.
