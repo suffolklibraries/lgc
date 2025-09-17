@@ -176,5 +176,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1746085559
 duplicated_from: 5f2c476c-0f2b-42ca-9f71-828fda077207
 booking_link: 'https://johnpeelcentre.com/JohnPeelCentre.dll/WhatsOn?f=71067'
+published: false
 ---
 Fun, fitness and friendship!
