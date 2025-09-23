@@ -1,17 +1,17 @@
 ---
 id: 3b851c2c-b271-47c4-bc16-d7c344b9e552
-published: false
 blueprint: events
-title: 'Home Ed Samba Music Classes (Duplicated)'
+title: 'Take 10, For Everyone'
 event_categories:
-  - music
-  - languages
+  - literature
+  - early-years
+  - family-friendly
 organisers:
   - east-point-pavilion
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-11-03 09:30'
-end_date: '2025-12-01 10:10'
-free: false
+featured_image: pelicanpelican-3x2/literature.png
+start_date: '2025-10-03 11:00'
+end_date: '2025-10-03 12:00'
+free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -76,55 +76,64 @@ content_area:
     content:
       -
         type: text
-        text: 'These relaxed classes aim to help to develop the listening skills needed to identify and replicate Samba rhythms, using musical instruments in an ensemble setting.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Mondays 9:30am – 10:10am (Doors open 9:20am for a prompt 9:30 start) '
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Dates: 3, 10, 17, 24 November, and 1 December.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Booking in advance required - '
+        text: 'In the lead up to'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/home-ed-samba-music-classes-with-norfolk-suffolk-music-hub/2025-09-29/09:30/t-pqppyaq'
+              href: 'https://literacytrust.org.uk/communities/take-10/'
               rel: null
               target: _blank
               title: null
-          -
-            type: underline
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/home-ed-samba-music-classes-with-norfolk-suffolk-music-hub/2025-09-29/09:30/t-pqppyaq'
+        text: ' ‘Take 10 to Read’ '
+      -
+        type: text
+        text: 'families with pre-school age children are invited to join us for this free ‘Take 10 for Everyone’ event.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
+      -
+        type: text
+        text: 'No need to book, just come along.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Take 10 to Read is a '
       -
         type: text
         marks:
           -
-            type: italic
-        text: 'This is not a drop-off event. Parents/carers must remain on the premises for the duration of the session.'
+            type: link
+            attrs:
+              href: 'https://literacytrust.org.uk/reading-for-pleasure/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: bold
+        text: 'reading for pleasure'
+      -
+        type: text
+        text: ' campaign to promote the wellbeing benefits of reading. The National Literacy Trust have resources that can be used year-round to support the campaign. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://literacytrust.org.uk/communities/take-10/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Click here to visit their website to find out more.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -132,10 +141,8 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758644683
+updated_at: 1758644956
 duplicated_from: 3ba1e160-7632-4650-ac0c-7f69a83fbb1f
-booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/home-ed-samba-music-classes-with-norfolk-suffolk-music-hub/2025-09-29/09:30/t-pqppyaq'
-cost_details: '£20 per five sessions, plus booking fee'
-attendance_information: 'Home educated children'
+attendance_information: 'Families with pre-school aged children'
 ---
-Relaxed and welcoming music classes for home educated children.
+Free Story and Craft with National Literacy Trust
