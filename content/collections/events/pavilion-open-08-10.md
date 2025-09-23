@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-07-09 18:30'
-end_date: '2025-07-09 21:00'
+start_date: '2025-10-08 18:30'
+end_date: '2025-10-08 21:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -95,15 +95,14 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750344221
+updated_at: 1758644403
 duplicated_from: 4f23e94e-c035-42c8-b2b8-8fdcd6448c3a
-booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-open-mic-night-7mg5x'
+booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-open-mic-session-6zy2p'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-published: false
 ---
 Inclusive open mic session where everyone is welcome!
