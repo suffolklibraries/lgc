@@ -1,17 +1,11 @@
 ---
 id: 5c6853d1-65c5-4781-8d35-2e1f81766d31
-published: false
 blueprint: events
-title: 'Dance Workshop at Ipswich County Library (Duplicated)'
-event_categories:
-  - dance
-  - family-friendly
-  - music
-  - theatre-and-performance
-featured_image: suffolklibrariesimages/island-movements-rehearsals-1--oxygen-arts-cic_53940312143_l.jpg
-start_date: '2025-10-30 11:00'
-end_date: '2025-10-30 12:30'
-free: false
+title: 'Curious Minds - Ipswich'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-11-03 13:30'
+end_date: '2025-11-03 15:30'
+free: true
 virtual: false
 accessibility_information:
   - 'Accessible toilets'
@@ -138,7 +132,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our dance workshop at Ipswich County Library led by a professional dancer from Oxygen Arts, exploring ballet mixed with contemporary, African and Caribbean dance! This is followed by an informal Q&A with the dance instructor.'
+        text: 'Curious Minds is a friendly, accessible and safe space to come and explore creativity with professional artists and discover interesting heritage facts that will inspire your imagination.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This is a 12-week programme at Ipswich County Library that supports people aged 18 or over with complex health needs. Supported by professional artists Sarah Lewis and Alice Andrea Ewing.'
   -
     type: paragraph
     attrs:
@@ -149,26 +151,23 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Booking is required.'
-      -
-        type: text
-        text: ' Please book a ticket for each child attending and their accompanying adults. '
+        text: 'You can be referred to our Curious Minds programme by your GP or social prescriber. or you can self-refer by completing '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/ballet-dance-workshop-at-ipswich-county-library/2025-10-30/11:00/t-jzemmlx'
+              href: 'https://docs.google.com/forms/d/e/1FAIpQLScEPAKlatueJj3EryvjxX6968T4CFBp4JEtmhj-I56vt8j2bg/viewform'
               rel: noopener
               target: _blank
               title: null
           -
             type: bold
-        text: 'Book your tickets online on TicketSource'
+        text: 'this online referral form'
       -
         type: text
-        text: '. Children ​must be accompanied by an adult.'
+        text: '. The Curious Minds team will then give you a call to check that this activity is right for you and answer any questions you may have.'
   -
     type: paragraph
     attrs:
@@ -176,21 +175,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is part of the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://blackbritishballet.com/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Black British Ballet project by Oxygen Arts'
-      -
-        type: text
-        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
+        text: 'The programme starts on Monday 3 November and sessions take place every Monday for 12 weeks from 13:30 to 15:30. No sessions on Monday 22 or Monday 29 December.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -200,11 +185,12 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756719980
+updated_at: 1758641716
 duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
   - suffolk-community-libraries
-attendance_information: 'Suitable for ages 7+'
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/ballet-dance-workshop-at-ipswich-county-library/'
+  - suffolk-artlink
+attendance_information: 'people aged 18 plus living with complex health needs'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/curious-minds-programme-at-ipswich-county-library-2025-11-03/'
 ---
-Explore a range of African and Carribean dance styles.
+Explore a variety of art forms whilst developing creative skills and tools to support mental wellbeing!
