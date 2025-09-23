@@ -134,5 +134,6 @@ updated_at: 1746008469
 duplicated_from: abd32800-4262-4328-90a2-c8fba958a8bc
 organisers:
   - off-cut-choir
+published: false
 ---
 Come along to join our welcoming choir.
