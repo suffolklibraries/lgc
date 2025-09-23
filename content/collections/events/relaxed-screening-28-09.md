@@ -1,8 +1,7 @@
 ---
 id: 65e1eb0a-1850-4cab-91ac-dcb2f6c8cc22
-published: false
 blueprint: events
-title: 'The Goonies (Duplicated)'
+title: 'Lilo &Stitch'
 event_categories:
   - early-years
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-09-25 10:30'
-end_date: '2025-09-25 12:00'
+start_date: '2025-09-28 10:30'
+end_date: '2025-09-28 12:00'
 free: false
 virtual: false
 latitude: '52.18522719751638'
@@ -28,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: "The Goonies, a group of adventurous kids, face the threat of their homes being destroyed by a property development company.\_To save their neighbourhood, they embark on a treasure hunt, following a map they found in Mikey's attic.\_This map leads them on an exciting adventure into underground caverns, booby traps, and a sunken galleon in search of One-Eyed Willy's treasure.\_Along the way, they encounter the Fratelli family, a group of criminals also after the treasure.\_The Goonies\_must outsmart the Fratellis and navigate the dangerous obstacles to find the treasure and save their homes.\_"
+        text: 'The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.'
   -
     type: paragraph
     attrs:
@@ -58,7 +57,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758644164
+updated_at: 1758644303
 duplicated_from: dfba43ea-4739-4b22-b266-eb6eaa0767b4
 accessibility_information:
   - 'Wheelchair accessible'
@@ -149,6 +148,6 @@ directions:
         type: text
         text: .
 cost_details: '£5 per person'
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=9823883'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=9823397'
 ---
 A relaxed and family friendly screening.
