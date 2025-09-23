@@ -1,11 +1,10 @@
 ---
 id: c4fc390c-bea7-4389-8c3d-a9176abe1e3d
-published: false
 blueprint: events
-title: 'Curious Minds - Ipswich (Duplicated) (Duplicated)'
+title: 'Curious Minds - Ipswich'
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-11-03 13:30'
-end_date: '2025-11-03 15:30'
+start_date: '2025-11-17 13:30'
+end_date: '2025-11-17 15:30'
 free: true
 virtual: false
 accessibility_information:
@@ -186,12 +185,17 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758641716
+updated_at: 1758641798
 duplicated_from: 146a9c9a-1254-46d4-9183-f7c86d6e6563
 organisers:
   - suffolk-community-libraries
   - suffolk-artlink
 attendance_information: 'people aged 18 plus living with complex health needs'
 booking_link: 'https://suffolkcommunitylibraries.co.uk/events/curious-minds-programme-at-ipswich-county-library-2025-11-03/'
+event_categories:
+  - wellbeing
+  - community
+  - art
+  - later-years
 ---
 Explore a variety of art forms whilst developing creative skills and tools to support mental wellbeing!
