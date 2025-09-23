@@ -185,12 +185,17 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758641769
+updated_at: 1758641832
 duplicated_from: 5c6853d1-65c5-4781-8d35-2e1f81766d31
 organisers:
   - suffolk-community-libraries
   - suffolk-artlink
 attendance_information: 'people aged 18 plus living with complex health needs'
 booking_link: 'https://suffolkcommunitylibraries.co.uk/events/curious-minds-programme-at-ipswich-county-library-2025-11-03/'
+event_categories:
+  - wellbeing
+  - later-years
+  - community
+  - art
 ---
 Explore a variety of art forms whilst developing creative skills and tools to support mental wellbeing!
