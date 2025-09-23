@@ -190,5 +190,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756740189
 duplicated_from: a0d1167c-aadf-411a-baa0-af0de97c2553
 attendance_information: 'suitable for ages 12+'
+published: false
 ---
 Building confidence and self-esteem through theatre.
