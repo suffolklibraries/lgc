@@ -1,18 +1,16 @@
 ---
 id: 839de6a6-aa35-4faf-b58d-931a25266810
 blueprint: events
-title: 'The Pavilion Sessions'
+title: 'Halloween Spooktacular!'
 event_categories:
-  - community
+  - family-friendly
   - music
-  - dance
-  - wellbeing
 organisers:
   - east-point-pavilion
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-07-20 13:30'
-end_date: '2025-07-20 16:00'
-free: true
+featured_image: eastpointpavilion/spooktacular-3x2.png
+start_date: '2025-10-27 16:30'
+end_date: '2025-10-27 18:30'
+free: false
 virtual: false
 latitude: '52.47138864661286'
 longitude: '1.7497777921068107'
@@ -71,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Hosted by John & Lynne Ward, Mario Price or Jim O’Toole. '
+        text: "Children's Entertainer, Barrie Thornton, is bringing his spooktacular Halloween Showcase to East Point Pavilion! \_This fancy dress party will be filled with music, magic, fun and games, with fangtastic prizes! \_"
   -
     type: paragraph
     attrs:
@@ -79,23 +77,15 @@ content_area:
     content:
       -
         type: text
-        text: 'All are welcome to join these unplugged sessions and play traditional or contemporary tunes, or sing songs.'
+        text: 'Snacks and refreshments will be available to purchase from the East Point Pavilion Bar throughout the event.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Join us from 1.30pm for a ‘Slow Tune Session for Improvers’, followed by a folk session for singers and players from 2-4pm.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'No need to book, just turn up and join in or listen!'
+        text: 'Tickets: Children 3yrs+ £7.59, Adults: £2.17, Group ticket £16.26'
 cta: |-
   This event is organised by First Light Festival
 
@@ -103,15 +93,16 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750344324
+updated_at: 1758645264
 duplicated_from: 679e2309-7843-42ce-b5ff-62e5de165ba5
-booking_link: 'https://www.eastpointpavilion.com/events/the-pavilion-sessions-erw6n-jtlxl-54754'
+booking_link: 'https://www.eastpointpavilion.com/events/halloween-spooktacular'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-published: false
+cost_details: 'From £2.17 per person'
+attendance_information: 'Families with children aged 3+'
 ---
-A 'come all’ inclusive folk get-together.
+Music, magic and family fun!
