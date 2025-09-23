@@ -142,5 +142,6 @@ longitude: '1.3202544617018266'
 booking_link: 'https://www.brittenpearsarts.org/events/participate-woodbridge'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756380789
+published: false
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
