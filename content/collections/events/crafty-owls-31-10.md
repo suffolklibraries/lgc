@@ -1,16 +1,16 @@
 ---
 id: c6b42cf1-04aa-4d83-aeae-25644499ea2a
-published: false
 blueprint: events
-title: 'Halloween Spooktacular! (Duplicated)'
+title: 'Crafty Kids and Awesome Owls'
 event_categories:
   - family-friendly
-  - music
+  - nature
+  - art
 organisers:
   - east-point-pavilion
-featured_image: eastpointpavilion/spooktacular-3x2.png
-start_date: '2025-10-27 16:30'
-end_date: '2025-10-27 18:30'
+featured_image: eastpointpavilion/owl-3x2.png
+start_date: '2025-10-31 11:00'
+end_date: '2025-10-31 12:00'
 free: false
 virtual: false
 latitude: '52.47138864661286'
@@ -70,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: "Children's Entertainer, Barrie Thornton, is bringing his spooktacular Halloween Showcase to East Point Pavilion! \_This fancy dress party will be filled with music, magic, fun and games, with fangtastic prizes! \_"
+        text: "Get creative with some autumn themed crafting, and meet and hold a real owl from Fritton Owl Sanctuary. A great photo opportunity!\_"
   -
     type: paragraph
     attrs:
@@ -78,15 +78,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Snacks and refreshments will be available to purchase from the East Point Pavilion Bar throughout the event.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Tickets: Children 3yrs+ £7.59, Adults: £2.17, Group ticket £16.26'
+        text: 'Children must be supervised by an adult at all times.'
 cta: |-
   This event is organised by First Light Festival
 
@@ -94,16 +86,16 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758645264
+updated_at: 1758645462
 duplicated_from: 839de6a6-aa35-4faf-b58d-931a25266810
-booking_link: 'https://www.eastpointpavilion.com/events/halloween-spooktacular'
+booking_link: 'https://www.eastpointpavilion.com/events/crafty-kids-awesome-owls'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-cost_details: 'From £2.17 per person'
-attendance_information: 'Families with children aged 3+'
+cost_details: '£3 per child'
+attendance_information: 'Families with children aged 4+'
 ---
-Music, magic and family fun!
+Owls, crafts and family fun!
