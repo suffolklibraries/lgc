@@ -1,11 +1,10 @@
 ---
 id: 73230163-a32e-4bac-87cc-36492c5dc5de
-published: false
 blueprint: events
-title: 'Curious Minds - Ipswich (Duplicated) (Duplicated)'
+title: 'Curious Minds - Ipswich'
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-12-15 13:30'
-end_date: '2025-12-15 15:30'
+start_date: '2026-01-12 13:30'
+end_date: '2026-01-12 15:30'
 free: true
 virtual: false
 accessibility_information:
@@ -186,7 +185,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758641902
+updated_at: 1758641953
 duplicated_from: 1f83cd01-d833-4055-99ae-55364feda77c
 organisers:
   - suffolk-community-libraries
