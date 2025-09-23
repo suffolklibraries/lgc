@@ -1,13 +1,14 @@
 ---
 id: 3ba1e160-7632-4650-ac0c-7f69a83fbb1f
+published: false
 blueprint: events
-title: 'First Light Fridays'
+title: 'Home Ed Samba Music Classes'
 event_categories:
   - art
   - community
 organisers:
   - east-point-pavilion
-featured_image: pelicanpelican-3x2/lgc-va.png
+featured_image: pelicanpelican-3x2/music.png
 start_date: '2025-06-07 13:00'
 end_date: '2025-06-07 14:00'
 free: false
@@ -98,10 +99,9 @@ cta: |-
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736939774
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758644483
 duplicated_from: 4ac9bc17-add9-486f-a764-65258e13cd04
 booking_link: 'chttps://www.eastpointpavilion.com/events/first-light-fridays-f7679-6bdst'
-published: false
 ---
 Come along and join our making sessions at East Point Pavilion.
