@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-07-31 09:30'
-end_date: '2025-07-31 12:00'
+start_date: '2025-10-02 09:30'
+end_date: '2025-10-02 12:00'
 free: true
 virtual: false
 latitude: '52.03758506760739'
@@ -151,10 +151,9 @@ cta: |-
   [https://activlives.org.uk/](https://activlives.org.uk/) 
 
   [01473 345350](tel:01473345350)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747815168
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758642622
 duplicated_from: a865d3f4-2ae9-457e-9e81-ff809ffbc0e9
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-community-sudbury/'
-published: false
 ---
 Get involved in community growing in and around Sudbury.
