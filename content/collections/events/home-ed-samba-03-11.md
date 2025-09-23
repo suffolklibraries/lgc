@@ -1,16 +1,15 @@
 ---
 id: 3ba1e160-7632-4650-ac0c-7f69a83fbb1f
-published: false
 blueprint: events
 title: 'Home Ed Samba Music Classes'
 event_categories:
-  - art
-  - community
+  - music
+  - languages
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-07 13:00'
-end_date: '2025-06-07 14:00'
+start_date: '2025-11-03 09:30'
+end_date: '2025-12-01 10:10'
 free: false
 virtual: false
 accessibility_information:
@@ -76,7 +75,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our parade theme for 2025 is all about celebrating the salty brine right here in Lowestoft. We will be visiting local schools looking at the Five Layers of the Sea and we’d love to see you at our community open events - First Light Fridays - where you can create a sea creature to use in our opening parade.'
+        text: 'These relaxed classes aim to help to develop the listening skills needed to identify and replicate Samba rhythms, using musical instruments in an ensemble setting.'
   -
     type: paragraph
     attrs:
@@ -84,7 +83,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We’ll be making octopus, jelly fish hats, and fishy masks to wear in the parade.'
+        text: 'Mondays 9:30am – 10:10am (Doors open 9:20am for a prompt 9:30 start) '
   -
     type: paragraph
     attrs:
@@ -92,7 +91,39 @@ content_area:
     content:
       -
         type: text
-        text: 'Join the parade! Come at 11am to East Point Pavilion on 21 June and and tag along - Dress to impress!'
+        text: 'Dates: 3, 10, 17, 24 November, and 1 December.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Booking in advance required - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/home-ed-samba-music-classes-with-norfolk-suffolk-music-hub/2025-09-29/09:30/t-pqppyaq'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: underline
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/home-ed-samba-music-classes-with-norfolk-suffolk-music-hub/2025-09-29/09:30/t-pqppyaq'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'This is not a drop-off event. Parents/carers must remain on the premises for the duration of the session.'
 cta: |-
   This event is organised by East Point Pavilion
 
@@ -100,8 +131,10 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758644483
+updated_at: 1758644683
 duplicated_from: 4ac9bc17-add9-486f-a764-65258e13cd04
-booking_link: 'chttps://www.eastpointpavilion.com/events/first-light-fridays-f7679-6bdst'
+booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/home-ed-samba-music-classes-with-norfolk-suffolk-music-hub/2025-09-29/09:30/t-pqppyaq'
+cost_details: '£20 per five sessions, plus booking fee'
+attendance_information: 'Home educated children'
 ---
-Come along and join our making sessions at East Point Pavilion.
+Relaxed and welcoming music classes for home educated children.
