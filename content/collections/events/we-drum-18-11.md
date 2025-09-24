@@ -1,16 +1,15 @@
 ---
 id: bc28e9ee-e08b-4042-8060-d67ed541ad06
-published: false
 blueprint: events
-title: 'WeDrum (Duplicated)'
+title: WeDrum
 event_categories:
   - teen
   - music
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-11-11 17:30'
-end_date: '2025-11-11 19:00'
+start_date: '2025-11-18 17:30'
+end_date: '2025-11-18 19:00'
 free: true
 virtual: false
 attendance_information: 'Young people aged 11 to 19 years'
@@ -133,7 +132,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758712580
+updated_at: 1758712605
 duplicated_from: b5fd83c0-2fe7-49f5-9272-9ee911dbe7a7
 accessibility_information:
   - 'Wheelchair accessible'
