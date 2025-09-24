@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - john-peel-centre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2025-11-11 19:30'
-end_date: '2025-11-11 22:00'
+start_date: '2025-11-13 19:30'
+end_date: '2025-11-13 22:00'
 free: true
 virtual: false
 latitude: '52.1878802563952'
@@ -204,8 +204,8 @@ cta: |-
   [boxoffice@johnpeelcentre.com](mail:boxoffice@johnpeelcentre.com)
 
   [01449 774678](tel:01449774678)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1737479179
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758696939
 duplicated_from: d20078e7-8ec9-46c5-aec6-c1aa5f765c7f
 accessibility_information:
   - 'Wheelchair accessible'
