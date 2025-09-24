@@ -1,17 +1,16 @@
 ---
 id: db3d70a5-23bc-4e24-b05c-76212c51c9ad
-published: false
 blueprint: events
-title: 'Singing for Lung Health (Duplicated)'
+title: 'Re>Charge Together'
 event_categories:
   - art
   - community
   - wellbeing
 organisers:
-  - first-light-festival
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-24 13:30'
-end_date: '2025-06-24 15:00'
+  - suffolk-artlink
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-10-02 10:00'
+end_date: '2025-10-02 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -142,6 +141,10 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
+    content:
+      -
+        type: text
+        text: 'A relaxed informal way to meet others who have found themselves isolated for a variety of reasons, whether it is through their role as a carer or due to living with a long-term health condition.'
   -
     type: paragraph
     attrs:
@@ -149,16 +152,63 @@ content_area:
     content:
       -
         type: text
-        text: 'Free to attend, no need to book just turn up!'
+        text: 'No experience is necessary. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Refreshments are provided free of charge.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'To find out more, contact Gabrielle: gabrielle@suffolkartlink.org.uk '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'mailto:gabrielle@suffolkartlink.org.uk'
+              rel: null
+              target: null
+              title: null
+        text: o
+      -
+        type: text
+        text: 'r '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01986873955'
+              rel: null
+              target: null
+              title: null
+        text: '01986 873955'
+      -
+        type: text
+        text: ' (Extension 5)'
 cta: |-
-  This event is organised by First Light Festival
+  This event is organised by Suffolk Artlink
 
-  [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
+  [https://www.suffolkartlink.org.uk/](https://www.suffolkartlink.org.uk/) 
 
-  [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
+  [01986 873955](tel:01986873955)
+
+  [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750179561
+updated_at: 1758695065
 duplicated_from: 15c4f5fd-35ee-4b8d-a863-55e1eb04b52c
 address_line_1: '119'
+booking_link: 'https://firstlightfestivalcic.com/whats-on/recharge-together-2tgkm-3j2zj-6bffw'
 ---
-Come and join the fun.
+A welcoming space to try out different creative activities.
