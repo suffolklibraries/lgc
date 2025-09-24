@@ -1,13 +1,17 @@
 ---
 id: 53ad4c3d-9fc0-411d-9e88-85544f21e284
+published: false
 blueprint: events
-title: 'Beyond the Bassline Dance Workshops - Ipswich'
+title: 'Beyond the Bassline: Celebrating Black History Through Sound, Art and Activism'
 event_categories:
   - family-friendly
   - dance
   - music
-organisers:
-  - suffolk-libraries
+  - museums
+  - languages
+  - literature
+  - activism
+  - community
 featured_image: suffolklibrariesimages/martell-richards-3x2.png
 start_date: '2024-11-16 13:00'
 end_date: '2024-11-16 16:50'
@@ -251,9 +255,8 @@ cta: |-
   [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
 
   [01473 351249](tel:01473351249)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730130902
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758711630
 duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
-published: false
 ---
-Join Martell Richards, friendly dance instructor, to explore the music from Beyond the Bassline!
+A powerful day of celebration, creativity, and community as we honour Black History Month.
