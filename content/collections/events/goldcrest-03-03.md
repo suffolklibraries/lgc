@@ -1,8 +1,7 @@
 ---
 id: dac1b836-66f5-4d88-8937-3df74b65f2d9
-published: false
 blueprint: events
-title: 'Outdoors at Goldcrest (Duplicated)'
+title: 'Outdoors at Goldcrest'
 event_categories:
   - wellbeing
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - involve-active-ltd
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-02-24 16:00'
-end_date: '2026-02-24 18:00'
+start_date: '2026-03-03 16:00'
+end_date: '2026-03-03 18:00'
 free: false
 virtual: false
 latitude: '52.43398727655812'
@@ -120,7 +119,7 @@ cta: |-
 
   [info@involveactive.co.uk](mailto:info@involveactive.co.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758714221
+updated_at: 1758714259
 duplicated_from: f4371148-9bf5-43fe-b57b-0d42df5e63e0
 booking_link: 'https://eequ.org/book/get2gether-outdoors-social-clubs-with-involve-active-ltd-7492'
 cost_details: '£5 per session'
