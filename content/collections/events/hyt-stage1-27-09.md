@@ -129,12 +129,37 @@ content_area:
               target: _blank
               title: null
         text: 'Please click here to contact Haverhill Youth Theatre for more information.'
+      -
+        type: text
+        text: ' '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "No need to worry if you've missed the start of the term, you can still join. Contact the box office to pay the pro rata rate on "
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'tel:01440714140'
+              rel: null
+              target: null
+              title: null
+        text: '01440 714140'
+      -
+        type: text
+        text: .
 booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-youth-theatre-stage-1-term-1/'
 cta: |-
   This event is organised by Haverhill Youth Theatre
 
   [https://haverhillyouththeatre.co.uk/](https://haverhillyouththeatre.co.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758698877
+updated_at: 1758699052
 ---
 Come and act, sing and dance!
