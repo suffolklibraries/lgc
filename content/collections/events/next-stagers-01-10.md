@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-10-10 10:30'
-end_date: '2025-10-10 11:30'
+start_date: '2025-10-01 10:30'
+end_date: '2025-10-01 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -171,7 +171,7 @@ cta: |-
 
   [01502 533200](tel:01502533200)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758696477
+updated_at: 1758696541
 duplicated_from: 5f489f75-9f21-42f1-98ab-066f72338c2b
 address_line_1: '119'
 cost_details: '£6 per session'
