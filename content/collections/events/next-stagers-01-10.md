@@ -1,18 +1,18 @@
 ---
 id: 15c4f5fd-35ee-4b8d-a863-55e1eb04b52c
-published: false
 blueprint: events
-title: 'Singing for Lung Health'
+title: 'Next Stagers with The Marina Theatre'
 event_categories:
-  - art
   - community
   - wellbeing
+  - theatre-and-performance
+  - literature
 organisers:
   - first-light-festival
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-06-24 13:30'
-end_date: '2025-06-24 15:00'
-free: true
+featured_image: pelicanpelican-3x2/theatre.png
+start_date: '2025-10-10 10:30'
+end_date: '2025-10-10 11:30'
+free: false
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
@@ -142,6 +142,10 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
+    content:
+      -
+        type: text
+        text: 'You might have experience in professional or amateur theatre, be an enthusiastic audience member, or maybe just looking to make new friends in the area. Either way, if you love theatre, we’d love you to join the Next Stagers. '
   -
     type: paragraph
     attrs:
@@ -149,16 +153,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Free to attend, no need to book just turn up!'
+        text: 'No previous theatre experience necessary and newcomers are always welcome! '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Next Stagers members also have access to specially discounted tickets and workshops throughout the year.'
 cta: |-
-  This event is organised by First Light Festival
+  This event is organised by the Marina Theatre
 
-  [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
+  [https://www.marinatheatre.co.uk/](https://www.marinatheatre.co.uk/)
 
-  [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
+  [info@marinatheatre.co.uk](mailto:info@marinatheatre.co.uk)
+
+  [01502 533200](tel:01502533200)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750179561
+updated_at: 1758696477
 duplicated_from: 5f489f75-9f21-42f1-98ab-066f72338c2b
 address_line_1: '119'
+cost_details: '£6 per session'
+booking_link: 'https://eequ.org/book/next-stagers-with-lorna-pearce-10946'
 ---
-Come and join the fun.
+Meet and discuss theatre, read plays and even rehearse and stage them!
