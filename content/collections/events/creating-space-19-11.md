@@ -1,14 +1,13 @@
 ---
 id: 0a764e86-c038-4fe8-a6ae-28b3af5c2e8f
-published: false
 blueprint: events
-title: 'Creating Space - Felixstowe (Duplicated) (Duplicated)'
+title: 'Creating Space - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758697513
+updated_at: 1758697541
 latitude: '51.984656214680406'
 longitude: '1.314060528006221'
-start_date: '2025-11-05 13:00'
+start_date: '2025-11-19 13:00'
 event_categories:
   - art
   - community
@@ -95,7 +94,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-11-05 15:00'
+end_date: '2025-11-19 15:00'
 duplicated_from: 1407e100-f970-4ae4-bc46-0564c2b7254b
 directions:
   -
