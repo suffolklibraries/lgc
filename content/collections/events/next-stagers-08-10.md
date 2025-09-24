@@ -1,8 +1,7 @@
 ---
 id: 2256b6a2-11c2-4479-b7c0-e0552579ec27
-published: false
 blueprint: events
-title: 'Next Stagers with The Marina Theatre (Duplicated)'
+title: 'Next Stagers with The Marina Theatre'
 event_categories:
   - community
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-10-10 10:30'
-end_date: '2025-10-10 11:30'
+start_date: '2025-10-08 10:30'
+end_date: '2025-10-08 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -172,7 +171,7 @@ cta: |-
 
   [01502 533200](tel:01502533200)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758696477
+updated_at: 1758696555
 duplicated_from: 15c4f5fd-35ee-4b8d-a863-55e1eb04b52c
 address_line_1: '119'
 cost_details: '£6 per session'
