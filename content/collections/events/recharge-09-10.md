@@ -1,8 +1,7 @@
 ---
 id: 24ba8e95-6740-4f3a-8d32-0440fdb994ad
-published: false
 blueprint: events
-title: 'Re>Charge Together (Duplicated)'
+title: 'Re>Charge Together'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-02 10:00'
-end_date: '2025-10-02 12:30'
+start_date: '2025-10-09 10:00'
+end_date: '2025-10-09 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -207,7 +206,7 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758695065
+updated_at: 1758695572
 duplicated_from: db3d70a5-23bc-4e24-b05c-76212c51c9ad
 address_line_1: '119'
 booking_link: 'https://firstlightfestivalcic.com/whats-on/recharge-together-2tgkm-3j2zj-6bffw'
