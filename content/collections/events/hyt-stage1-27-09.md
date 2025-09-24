@@ -1,24 +1,23 @@
 ---
 id: 46ea1a34-6a67-4a0d-a242-4e42670e9fd1
 blueprint: events
-title: 'Dementia Friendly Screening - Sister Act'
+title: 'Haverhill Youth Theatre - Stage 1'
 event_categories:
-  - film
   - community
   - wellbeing
-  - later-years
+  - theatre-and-performance
+  - music
 organisers:
-  - haverhill-arts-centre
-featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2024-11-12 13:30'
-end_date: '2024-11-12 15:00'
+  - haverhill-youth-theatre
+featured_image: pelicanpelican-3x2/theatre.png
+start_date: '2025-09-27 13:30'
+end_date: '2025-09-27 14:15'
 free: false
-cost_details: £5.50
+cost_details: '£45 per term, bursaries available'
 virtual: false
-attendance_information: 'people with dementia'
+attendance_information: 'children aged 5 to 11 years'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Dementia friendly'
   - 'Accessible toilets'
 latitude: '52.080992393382395'
 longitude: '0.44072955678052805'
@@ -102,18 +101,40 @@ content_area:
     content:
       -
         type: text
-        text: 'When a nightclub singer is forced to take refuge from the mob in a convent, she ends up turning the convent choir into a soulful chorus complete with a Motown repertoire, until the sudden celebrity of the choir jeopardizes her identity. Starring Whoopi Goldberg, Maggie Smith, Harvey Keitel and Bill Nunn.'
-booking_link: 'https://haverhillartscentre.co.uk/performance/sister-act/'
+        text: 'Learn and perform in a fully operational, professional theatre with qualified and experienced teachers. You can enjoy performing musical theatre songs and shows on the historic arts centre stage.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Learn and perform in a fully operational, professional theatre with qualified and experienced teachers. You can enjoy performing musical theatre songs and shows on the historic arts centre stage.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'There are bursaries for parents who need extra financial support. '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://haverhillyouththeatre.co.uk//#get-in-touch'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Please click here to contact Haverhill Youth Theatre for more information.'
+booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-youth-theatre-stage-1-term-1/'
 cta: |-
-  This event is organised by Haverhill Arts Centre
+  This event is organised by Haverhill Youth Theatre
 
-  [https://haverhillartscentre.co.uk/](https://haverhillartscentre.co.uk/) 
-
-  [boxoffice@haverhillartscentre.co.uk](mail:boxoffice@haverhillartscentre.co.uk)
-
-  [01440 714140](tel:01440714140)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730738366
-published: false
+  [https://haverhillyouththeatre.co.uk/](https://haverhillyouththeatre.co.uk/)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758698877
 ---
-Grab the popcorn and watch a classic film in a relaxed environment
+Come and act, sing and dance!
