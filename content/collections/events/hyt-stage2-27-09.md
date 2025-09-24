@@ -1,22 +1,22 @@
 ---
 id: ca963fe5-6ca1-4f4d-99ca-d37bd19113f7
-published: false
 blueprint: events
-title: 'Haverhill Youth Theatre - Stage 1 (Duplicated)'
+title: 'Haverhill Youth Theatre - Stage 2'
 event_categories:
   - community
   - wellbeing
   - theatre-and-performance
   - music
+  - teen
 organisers:
   - haverhill-youth-theatre
 featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-09-27 13:30'
-end_date: '2025-09-27 14:15'
+start_date: '2025-09-27 14:00'
+end_date: '2025-09-27 15:00'
 free: false
-cost_details: '£45 per term, bursaries available'
+cost_details: '£60 per term, bursaries available'
 virtual: false
-attendance_information: 'children aged 5 to 11 years'
+attendance_information: 'children aged 11 to 18 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -155,13 +155,13 @@ content_area:
       -
         type: text
         text: .
-booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-youth-theatre-stage-1-term-1/'
+booking_link: 'https://haverhillartscentre.co.uk/performance/haverhill-youth-theatre-stage-2-term-1/'
 cta: |-
   This event is organised by Haverhill Youth Theatre
 
   [https://haverhillyouththeatre.co.uk/](https://haverhillyouththeatre.co.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758699052
+updated_at: 1758699275
 duplicated_from: 46ea1a34-6a67-4a0d-a242-4e42670e9fd1
 ---
 Come and act, sing and dance!
