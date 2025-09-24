@@ -1,8 +1,7 @@
 ---
 id: 715d8d4a-b38b-442b-9d69-d87143d41d09
-published: false
 blueprint: events
-title: 'Re>Charge Together (Duplicated) (Duplicated)'
+title: 'Re>Charge Together'
 event_categories:
   - art
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-artlink
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-09 10:00'
-end_date: '2025-10-09 12:30'
+start_date: '2025-10-23 10:00'
+end_date: '2025-10-23 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -207,9 +206,9 @@ cta: |-
 
   [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758695572
+updated_at: 1758695647
 duplicated_from: 3323c1f2-563d-40cf-9a87-7eae6b465679
 address_line_1: '119'
-booking_link: 'https://firstlightfestivalcic.com/whats-on/recharge-together-2tgkm-3j2zj-6bffw'
+booking_link: 'https://firstlightfestivalcic.com/whats-on/recharge-together-lyzj4'
 ---
 A welcoming space to try out different creative activities.
