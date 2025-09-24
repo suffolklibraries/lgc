@@ -1,6 +1,5 @@
 ---
 id: 53ad4c3d-9fc0-411d-9e88-85544f21e284
-published: false
 blueprint: events
 title: 'Beyond the Bassline: Celebrating Black History Through Sound, Art and Activism'
 event_categories:
@@ -12,14 +11,17 @@ event_categories:
   - literature
   - activism
   - community
-featured_image: suffolklibrariesimages/martell-richards-3x2.png
-start_date: '2024-11-16 13:00'
-end_date: '2024-11-16 16:50'
+featured_image: suffolklibrariesimages/aspire-black-suffolk-3x2-1.png
+start_date: '2025-10-18 13:00'
+end_date: '2025-10-18 17:00'
 free: true
 virtual: false
 attendance_information: 'Family friendly'
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Accessible toilets'
+  - 'Relaxed performance'
+  - 'Drop-in event'
 latitude: '52.05888302273206'
 longitude: '1.1563992273587602'
 building_name: 'Ipswich County Library'
@@ -143,7 +145,129 @@ content_area:
     content:
       -
         type: text
-        text: 'Join Martell Richards, friendly dance instructor, to explore the music from Beyond the Bassline!'
+        text: 'Highlights include:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Steel Pan Performances'
+              -
+                type: text
+                text: ' – Uplifting live music that moves the soul, hands on experience'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Creative Stalls & Zine-Making Corner'
+              -
+                type: text
+                text: ' – Express yourself through art and words'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Learning Zone'
+              -
+                type: text
+                text: ' – Explore untold Black histories and community resources'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Capoeira & Cultural History'
+              -
+                type: text
+                text: ' – Experience the movement, roots, and resistance'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Silent Cinema'
+              -
+                type: text
+                text: ' – Watch thought-provoking films via headphones'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Beyond the Baseline Audio Space'
+              -
+                type: text
+                text: ' – Hear powerful stories and reflections'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: bold
+                text: 'Museum on the Move'
+              -
+                type: text
+                text: ' – Pop-up exhibits bringing history to life'
   -
     type: paragraph
     attrs:
@@ -151,112 +275,42 @@ content_area:
     content:
       -
         type: text
-        text: "Together with Martell, you'll listen to music from\_"
+        text: 'Free and suitable for all ages!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Aspire Black Suffolk is led by Black female professionals with a shared passion and vision; to change lives, empower communities and raise awareness of the key issues surrounding race, equality and inclusion in Suffolk and beyond. '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/news/beyond-the-bassline-exhibition-celebrates-black-british-music'
+              href: 'https://www.aspireblacksuffolk.org.uk/'
               rel: null
               target: _blank
               title: null
-          -
-            type: underline
-        text: "Suffolk Libraries' Beyond the Bassline exhibition"
+        text: 'Click here to visit the Aspire Black Suffolk website'
       -
         type: text
-        text: ', celebrating 500 years of Black British music. Using this as your inspiration, Martell will teach you some different dance moves and explore ways to move your body.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: "It's going to be high energy so make sure you bring your water bottle and get ready for some fun!\_You don't need to have any previous dance experience.\_You can check out Martell's dance moves via his\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.instagram.com/mrd.dance?igsh=eGF6ejBkZDJ6aDc1'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: Instagram
-      -
-        type: text
-        text: "\_and\_"
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.facebook.com/share/GQyMfDkjiwTRrAaG/'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: Facebook
-      -
-        type: text
-        text: "\_pages."
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Workshops start at 1PM, 2.30PM and 4PM. Workshops will last 50 minutes. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Book your free place '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/events/events/beyond-the-bassline-dance-workshops-at-ipswich-county-library'
-              rel: null
-              target: _blank
-              title: null
-        text: 'via the Suffolk Libraries website'
-      -
-        type: text
-        text: .
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Children must be accompanied by a responsible adult at all times. Suitable for ages 7+.'
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/beyond-the-bassline-dance-workshops-at-ipswich-county-library'
+        text: ' to find out more.'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758711630
+updated_at: 1758711956
 duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
+organisers:
+  - aspire-black-suffolk
+  - suffolk-community-libraries
 ---
 A powerful day of celebration, creativity, and community as we honour Black History Month.
