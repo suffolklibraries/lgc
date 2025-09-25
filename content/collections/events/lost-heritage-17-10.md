@@ -1,5 +1,6 @@
 ---
 id: 7fa69682-8545-4419-9892-86750b1bb04d
+published: false
 blueprint: events
 title: "Suffolk's Lost Heritage - Part One"
 event_categories:

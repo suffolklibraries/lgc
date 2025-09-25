@@ -1,5 +1,6 @@
 ---
 id: f8cab40c-d833-40d1-a105-1e054f9743b5
+published: false
 blueprint: events
 title: 'Walk: Gory stories of crime and punishment in Ipswich'
 event_categories:

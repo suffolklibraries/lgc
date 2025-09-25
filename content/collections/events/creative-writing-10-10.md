@@ -1,5 +1,6 @@
 ---
 id: a2854b1a-f3f4-49f0-b3a0-18e4e43b1a9d
+published: false
 blueprint: events
 title: 'Creative Writing Workshop with Amanda Hodgkinson'
 event_categories:

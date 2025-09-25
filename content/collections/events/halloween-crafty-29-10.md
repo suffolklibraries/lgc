@@ -1,5 +1,6 @@
 ---
 id: 652281a6-2e3e-4988-955a-4b80fcdd151e
+published: false
 blueprint: events
 title: "Let's Get Crafty - Halloween"
 event_categories:

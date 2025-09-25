@@ -1,5 +1,6 @@
 ---
 id: 0e683ca5-cb5b-499e-bef5-5c177f73aa91
+published: false
 blueprint: events
 title: 'Home from Home Poetry Workshop'
 event_categories:

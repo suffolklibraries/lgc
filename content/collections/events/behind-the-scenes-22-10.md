@@ -1,5 +1,6 @@
 ---
 id: 437fb44e-5436-4e5b-84e2-8cb40327c3ca
+published: false
 blueprint: events
 title: 'Behind the Scenes Tour'
 event_categories:

@@ -1,5 +1,6 @@
 ---
 id: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
+published: false
 blueprint: events
 title: 'Lates: Games Night'
 event_categories:
