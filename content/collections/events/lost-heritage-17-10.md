@@ -2,23 +2,20 @@
 id: 7fa69682-8545-4419-9892-86750b1bb04d
 published: false
 blueprint: events
-title: 'Lates: Games Night (Duplicated)'
+title: "Suffolk's Lost Heritage - Part One"
 event_categories:
   - museums
-  - teen
 organisers:
   - suffolk-archives
 featured_image: suffolkarchives/the-hold-3x2.png
-start_date: '2025-09-25 19:00'
-end_date: '2025-09-25 10:00'
+start_date: '2025-10-17 14:00'
+end_date: '2025-10-17 15:00'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-  - 'Relaxed performance'
-  - 'Drop-in event'
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 building_name: 'The Hold'
@@ -109,15 +106,27 @@ content_area:
     content:
       -
         type: text
-        text: 'There’ll be DnD sessions for beginners and experienced parties alike orr bring a team and have a go at Bloodbowl. '
+        text: 'Like so many other places in Britain, Suffolk has had its fair share of losses when it comes to the many historic buildings, grand mansions and medieval churches which have disappeared over past centuries due to war, fire, neglect and greed.'
   -
     type: paragraph
     attrs:
       textAlign: left
     content:
       -
+        type: hardBreak
+      -
         type: text
-        text: 'There’ll be spaces to bring your own games and play too.'
+        text: "Join local historian Stephen Poulter as he recreates these vanished architectural gems using surviving period prints and reports from travellers who visited the towns and villages during the past 400 years. Either for personal curiosity or in the process of compiling guidebooks for the increasing number of tourists who had leisure time along with cheaper and faster methods of transport at their disposal.\_"
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Both parts of this talk can be booked separately and each works as a stand-alone presentation.'
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-modmko&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
@@ -127,9 +136,8 @@ cta: |-
   [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
   [01473 296666](tel:01473296666)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748423272
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758786084
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
-attendance_information: 'Ages 18+'
 ---
-Join us for another of our popular Games Night Lates.
+Explore Suffolk's past.
