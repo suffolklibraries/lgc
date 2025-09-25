@@ -1,24 +1,21 @@
 ---
 id: 5d0de73e-aca0-4c87-bec8-6fcc8306632d
 blueprint: events
-title: "Let's Get Crafty - Anchors Away!"
+title: "Let's Get Crafty - Halloween"
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - suffolk-archives
-start_date: '2025-08-12 10:30'
-end_date: '2025-08-12 12:30'
-free: true
+start_date: '2025-10-28 10:30'
+end_date: '2025-10-28 12:30'
+free: false
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-  - 'Relaxed performance'
-  - 'Drop-in event'
 latitude: '52.05322071930784'
 longitude: '1.1636764272050126'
 town: Ipswich
@@ -31,12 +28,22 @@ content_area:
     content:
       -
         type: text
-        text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qdazzr&target=&iframe=true'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748361173
+        text: 'Come along to The Hold during the half-term to enjoy some family friendly spooky crafty fun!'
+      -
+        type: hardBreak
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Children must be accompanied by an appropriate adult at all times.'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqylvk&target=&iframe=true'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758786613
 duplicated_from: f8cff89d-538d-4acd-bd43-fb7ae58f7d85
-featured_image: suffolkarchives/anchors-away-3x2.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -123,6 +130,7 @@ directions:
         type: text
         text: .
 address_line_1: '131 Fore Street'
-published: false
+cost_details: '£5 per child'
+attendance_information: 'children aged 4-11 years old'
 ---
-Get crafty with Suffolk Archives this summer.
+Get crafty with Suffolk Archives this October.
