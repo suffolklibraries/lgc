@@ -1,20 +1,18 @@
 ---
 id: f8cab40c-d833-40d1-a105-1e054f9743b5
-published: false
 blueprint: events
-title: "Let's Get Crafty - Halloween (Duplicated)"
+title: 'Walk: Gory stories of crime and punishment in Ipswich'
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - suffolk-archives
-start_date: '2025-10-28 10:30'
-end_date: '2025-10-28 12:30'
+start_date: '2025-10-29 10:30'
+end_date: '2025-10-29 12:30'
 free: false
 virtual: false
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 latitude: '52.05322071930784'
@@ -29,9 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come along to The Hold during the half-term to enjoy some family friendly spooky crafty fun!'
-      -
-        type: hardBreak
+        text: 'Come on a stroll round central Ipswich to learn about crimes of the past, and what happened to people who got on the wrong side of the law. '
   -
     type: paragraph
     attrs:
@@ -39,10 +35,10 @@ content_area:
     content:
       -
         type: text
-        text: 'Children must be accompanied by an appropriate adult at all times.'
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqylvk&target=&iframe=true'
+        text: 'This walk is suitable for both children and adults, but children must be aged from 8 upwards and must be accompanied by an adult.'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqygmb&target=&iframe=true'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758786613
+updated_at: 1758786794
 duplicated_from: 5d0de73e-aca0-4c87-bec8-6fcc8306632d
 featured_image: pelicanpelican-3x2/lgc-va.png
 cta: |-
@@ -131,7 +127,7 @@ directions:
         type: text
         text: .
 address_line_1: '131 Fore Street'
-cost_details: '£5 per child'
-attendance_information: 'children aged 4-11 years old'
+cost_details: '£5 per person'
+attendance_information: 'suitable for children aged 8+'
 ---
-Get crafty with Suffolk Archives this October.
+Explore Ipswich's heritage.
