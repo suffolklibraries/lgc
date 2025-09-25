@@ -1,16 +1,14 @@
 ---
 id: a2854b1a-f3f4-49f0-b3a0-18e4e43b1a9d
-published: false
 blueprint: events
-title: 'Lates: Games Night (Duplicated)'
+title: 'Creative Writing Workshop with Amanda Hodgkinson'
 event_categories:
-  - museums
-  - teen
+  - literature
 organisers:
   - suffolk-archives
 featured_image: suffolkarchives/the-hold-3x2.png
-start_date: '2025-09-25 19:00'
-end_date: '2025-09-25 10:00'
+start_date: '2025-10-10 10:00'
+end_date: '2025-10-10 13:00'
 free: true
 virtual: false
 accessibility_information:
@@ -109,16 +107,29 @@ content_area:
     content:
       -
         type: text
-        text: 'There’ll be DnD sessions for beginners and experienced parties alike orr bring a team and have a go at Bloodbowl. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: "As part of Platforma Festival join award winning writer Dr Amanda Hodgkinson for a creative writing workshop. As well as from the stories of migration within her novel 22 Britannia Road.\_"
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
-        text: 'There’ll be spaces to bring your own games and play too.'
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-modmko&target=&iframe=true'
+        text: 'Part of'
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://counterpoints.org.uk/project/platforma/'
+              rel: null
+              target: _blank
+              title: null
+        text: ' Platforma Festival'
+      -
+        type: text
+        text: .
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-qmjabx&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -127,9 +138,9 @@ cta: |-
   [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
   [01473 296666](tel:01473296666)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748423272
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758785953
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
-attendance_information: 'Ages 18+'
+attendance_information: 'Ages 1+'
 ---
-Join us for another of our popular Games Night Lates.
+A workshop taking inspiration from stories of arrival, community, and belonging.
