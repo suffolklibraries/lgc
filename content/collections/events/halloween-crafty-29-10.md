@@ -1,22 +1,20 @@
 ---
 id: 652281a6-2e3e-4988-955a-4b80fcdd151e
 blueprint: events
-title: "Let's Get Crafty - Anchors Away!"
+title: "Let's Get Crafty - Halloween"
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - suffolk-archives
-start_date: '2025-08-27 10:30'
-end_date: '2025-08-27 12:30'
+start_date: '2025-10-29 10:30'
+end_date: '2025-10-29 12:30'
 free: true
 virtual: false
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
-  - 'Accessible parking spaces'
   - 'Relaxed performance'
   - 'Drop-in event'
 latitude: '52.24639291937291'
@@ -31,12 +29,20 @@ content_area:
     content:
       -
         type: text
-        text: "Come and enjoy some crafty family fun exploring sea legends such as pirates and mermaids.\_"
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-xzgalv&target=&iframe=true'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748362021
+        text: 'Come along to The Hold during the half-term to enjoy some family friendly spooky crafty fun!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Children must be accompanied by an appropriate adult at all times.'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqykrk&target=&iframe=true'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758787012
 duplicated_from: 54bafb51-e835-465f-9826-a5c0e4413b47
-featured_image: suffolkarchives/anchors-away-3x2.png
+featured_image: pelicanpelican-3x2/lgc-va.png
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -122,6 +128,6 @@ directions:
         type: text
         text: .
 address_line_1: Cornhill
-published: false
+attendance_information: 'children aged 4-11 years old'
 ---
-Get crafty with Suffolk Archives this summer.
+Get crafty with Suffolk Archives this October.
