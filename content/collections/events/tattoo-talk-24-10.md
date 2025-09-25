@@ -1,7 +1,7 @@
 ---
 id: 72fa1175-29a0-49fc-90ac-dbd8fec12f5f
 blueprint: events
-title: '"Not Just for Sailors Any More” Talk'
+title: '"Not Just for Sailors Anymore” Talk'
 event_categories:
   - museums
   - art
@@ -15,8 +15,8 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-latitude: '52.05322071930784'
-longitude: '1.1636764272050126'
+latitude: '52.05338322115616'
+longitude: '1.1636029399952699'
 town: Ipswich
 postcode: 'IP4 1LN'
 content_area:
@@ -50,7 +50,7 @@ content_area:
         text: "In this talk, Matt will discuss the longstanding intersections between tattooing and maritime [visual] cultures but also consider why tattoos have been so indelibly associated with the sea, despite their continuous presence amongst urban populations in Europe and America for more than four centuries. Moreover, with attention to visual evidence, he will illustrate the relationships between handicrafts made aboard ships, and the persistent folk imagery of the Western tattoo tradition. \_ \_"
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqygyb&target=&iframe=true'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758787207
+updated_at: 1758787259
 duplicated_from: e6171445-7a14-49cd-a801-985dcad57cf4
 featured_image: suffolkarchives/the-hold-3x2.png
 cta: |-
