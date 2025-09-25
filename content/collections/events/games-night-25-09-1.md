@@ -1,0 +1,135 @@
+---
+id: 0e683ca5-cb5b-499e-bef5-5c177f73aa91
+published: false
+blueprint: events
+title: 'Lates: Games Night (Duplicated)'
+event_categories:
+  - museums
+  - teen
+organisers:
+  - suffolk-archives
+featured_image: suffolkarchives/the-hold-3x2.png
+start_date: '2025-09-25 19:00'
+end_date: '2025-09-25 10:00'
+free: true
+virtual: false
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
+  - 'Accessible parking spaces'
+  - 'Relaxed performance'
+  - 'Drop-in event'
+latitude: '52.05322071930784'
+longitude: '1.1636764272050126'
+building_name: 'The Hold'
+address_line_1: '131 Fore Street'
+town: Ipswich
+postcode: 'IP4 1LN'
+directions:
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The Hold is a four minute walk from the nearest bus stop - see the latest bus timetables '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/buses/'
+              rel: null
+              target: null
+              title: null
+        text: here
+      -
+        type: text
+        text: '. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipserv.co.uk/car-parks/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Duke Street'
+      -
+        type: text
+        text: ' car park a five minute walk away or '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ipswich.gov.uk/crowncarpark'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Crown car park'
+      -
+        type: text
+        text: ' a six minute walk away. There are two accessible carpark spaces for blue badge holders in The Hold car park.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Plan your journey using '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.suffolkonboard.com/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Suffolk Onboard'
+      -
+        type: text
+        text: .
+content_area:
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'There’ll be DnD sessions for beginners and experienced parties alike orr bring a team and have a go at Bloodbowl. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'There’ll be spaces to bring your own games and play too.'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-modmko&target=&iframe=true'
+cta: |-
+  This event is organised by Suffolk Archives
+
+  [https://www.suffolkarchives.co.uk/](https://www.suffolkarchives.co.uk/)
+
+  [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
+
+  [01473 296666](tel:01473296666)
+updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
+updated_at: 1748423272
+duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
+attendance_information: 'Ages 18+'
+---
+Join us for another of our popular Games Night Lates.
