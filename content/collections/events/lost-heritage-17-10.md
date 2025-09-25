@@ -1,6 +1,5 @@
 ---
 id: 7fa69682-8545-4419-9892-86750b1bb04d
-published: false
 blueprint: events
 title: "Suffolk's Lost Heritage - Part One"
 event_categories:
@@ -127,7 +126,7 @@ content_area:
       -
         type: text
         text: 'Both parts of this talk can be booked separately and each works as a stand-alone presentation.'
-booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-modmko&target=&iframe=true'
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-kjgabg&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -137,7 +136,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758786084
+updated_at: 1758786089
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
 ---
 Explore Suffolk's past.
