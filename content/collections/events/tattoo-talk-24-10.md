@@ -1,5 +1,6 @@
 ---
 id: 72fa1175-29a0-49fc-90ac-dbd8fec12f5f
+published: false
 blueprint: events
 title: '"Not Just for Sailors Anymore” Talk'
 event_categories:
