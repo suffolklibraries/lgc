@@ -124,5 +124,6 @@ updated_at: 1740668622
 duplicated_from: de04153b-e60f-47d3-9387-643b29891fbd
 accessibility_information:
   - 'Accessible toilets'
+published: false
 ---
 Enjoy a talk about UK bat species as well as experiencing how to detect them!
