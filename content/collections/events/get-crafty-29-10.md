@@ -1,16 +1,15 @@
 ---
 id: 160f551f-1ad3-4eef-a888-e7d1d6e8361c
-published: false
 blueprint: events
-title: "Let's Get Crafty - Halloween (Duplicated)"
+title: "Let's Get Crafty - Halloween"
 event_categories:
   - art
   - family-friendly
   - museums
 organisers:
   - suffolk-archives
-start_date: '2025-10-28 10:30'
-end_date: '2025-10-28 12:30'
+start_date: '2025-10-29 10:30'
+end_date: '2025-10-29 12:30'
 free: false
 virtual: false
 accessibility_information:
@@ -42,7 +41,7 @@ content_area:
         text: 'Children must be accompanied by an appropriate adult at all times.'
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqylvk&target=&iframe=true'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758786613
+updated_at: 1758786643
 duplicated_from: 5d0de73e-aca0-4c87-bec8-6fcc8306632d
 featured_image: pelicanpelican-3x2/lgc-va.png
 cta: |-
