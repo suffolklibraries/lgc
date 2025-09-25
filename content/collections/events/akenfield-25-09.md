@@ -152,5 +152,6 @@ directions:
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756309185
 duplicated_from: 4cbdeca2-851d-4999-b48b-99c6edbe91fa
+published: false
 ---
 Based on Ronald Blythe's much loved Akenfield: Portrait of an English village.
