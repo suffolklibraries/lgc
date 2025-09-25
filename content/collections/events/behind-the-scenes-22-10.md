@@ -5,15 +5,14 @@ title: 'Behind the Scenes Tour'
 event_categories:
   - family-friendly
   - museums
-  - film
 organisers:
   - suffolk-archives
 featured_image: suffolkarchives/the-hold-3x2.png
-start_date: '2025-03-13 11:00'
-end_date: '2025-03-13 12:00'
+start_date: '2025-10-22 15:00'
+end_date: '2025-10-22 16:00'
 free: false
 cost_details: '£5 per person'
-virtual: false
+virtual: true
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -102,8 +101,16 @@ content_area:
     content:
       -
         type: text
-        text: 'See our award-nominated new archive building and experience our collections in their natural habitat.'
-booking_link: 'https://www.ticketsource.co.uk/booking/select/enggknznwwyn'
+        text: 'Join one of our Archivists for a tour of our award-nominated archive building, The Hold. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "Get an exclusive look at our impressive strongrooms and speak to an Archivist about the rich collections we house, and the archival work of the team!\_"
+booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-xoekye&target=&iframe=true'
 cta: |-
   This event is organised by Suffolk Archives
 
@@ -112,9 +119,8 @@ cta: |-
   [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
   [01473 296666](tel:01473296666)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738166421
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1758786347
 duplicated_from: e37201fe-25be-478c-b271-8881ce690e7b
-published: false
 ---
 Join us for a behind-the-scenes tour of The Hold with our archivists.
