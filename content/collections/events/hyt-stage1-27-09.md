@@ -161,5 +161,6 @@ cta: |-
   [https://haverhillyouththeatre.co.uk/](https://haverhillyouththeatre.co.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1758699052
+published: false
 ---
 Come and act, sing and dance!
