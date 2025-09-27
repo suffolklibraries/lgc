@@ -140,5 +140,6 @@ updated_at: 1740668735
 duplicated_from: 959d705c-fd89-45eb-8ff9-cfa82e8485ca
 accessibility_information:
   - 'Accessible toilets'
+published: false
 ---
 Celebrate all things bat related with this evening event.
