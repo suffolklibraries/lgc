@@ -109,5 +109,6 @@ duplicated_from: 31cece1b-2865-47fd-8424-aa93c5ef5caf
 accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Trimley St Mary'
+published: false
 ---
 Take part in the Great British Beach Clean with the Marine Conservation Society.
