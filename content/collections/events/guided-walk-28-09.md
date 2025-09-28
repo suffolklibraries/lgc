@@ -100,5 +100,6 @@ duplicated_from: e04407c8-69a4-4bb2-94db-e6c8e8b4147a
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Foxburrow Nature Reserve'
+published: false
 ---
 Discover nature as you walk.
