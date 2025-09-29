@@ -25,7 +25,7 @@ booking_link: 'https://forms.gle/cgZVguPrY3SP6fDP7'
 cta: "This event is organised by Suffolk Pride\r\nhttps://suffolkpride.org.uk/\r\ninfo@suffolkpride.org.uk"
 cost_details: '0'
 created_by: 969b1c68-6812-4ada-8e45-fd8db7a94a9e
-featured_image: suffolk-pride/suffolk-pride-3x2.png
+featured_image: 'user-events/c&c-may-final.png'
 event_categories:
   - activism
   - community
@@ -37,16 +37,10 @@ It's our 5th Conversations & Crumpets get-together with ICENI.
 If you're a local service that wants to be a part of the conversation
 Or a member of the community with something to say.
 You're welcome to join us.
+If you'd like to take part RSVP via the form: bit.ly/CrumpetsOct25
 
-If you'd like to take part RSVP via the form: bit.ly/CrumpetsOct25 
-
------
 As we head into a new school year, what can we in local services be doing to aid our Queer youth. Are the kids alright? Do the new young people in our community who've arrived in Ipswich know who they can reach out to?
 The 20 - 25 y/o's not in education, but working where do they fit in?
-
 Join Iceni & Suffolk for another Conversation & Crumpets, our theme for this session is LGBTQIA+ Youth.
-
 Let's discuss. If you joined us in May and made a promise to make one small change...how is that going? We'd love an update.
-
-
 Iceni is not an accessible venue space. This event is 18+.
