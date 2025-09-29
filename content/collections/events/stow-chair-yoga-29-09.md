@@ -157,5 +157,6 @@ directions:
         type: text
         text: .
 address_line_1: '3 Church Road'
+published: false
 ---
 Discover the gentle power of chair yoga, ideal for older adults and those with health conditions.
