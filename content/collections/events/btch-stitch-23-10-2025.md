@@ -32,7 +32,7 @@ content_area: |-
 
   <p>B*tch &amp; Stitch is a regular SP social occurring every 4th Thursday of the month*.</p>
 
-  <p><em>Every 4th Thursday, Jan – Nov. In Dec due to the holiday period, B&amp;S occurs on the 3rd Thursday</em><br><br>Produced by <a href="https://suffolkpride.org.uk/">Suffolk Pride</a> it's aimed at the LGBTQIA+ community and their allies. However, B&amp;S is about providing a safe space to vent about your week/month, have a catch up, bit of a gossip and enjoy some crafting if you're capable. If you can respect the space, practice kindness and join in, you're welcome to drop by.</p>
+  <p><em>Every 4th Thursday, Jan – Nov. In Dec due to the holiday period, B&amp;S occurs on the 3rd Thursday</em><br><br>Produced by</p>
 booking_link: 'https://www.eventbrite.co.uk/e/btch-stitch-tickets-1227831329559?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl'
 cta: "This event is organised by Suffolk Pride\r\nhttps://suffolkpride.org.uk/\r\ninfo@suffolkpride.org.uk"
 created_by: 969b1c68-6812-4ada-8e45-fd8db7a94a9e
