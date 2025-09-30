@@ -1,6 +1,5 @@
 ---
 id: 2fc164dd-2097-4197-8885-dbd86f8de729
-published: false
 blueprint: events
 title: 'Walk: Gory stories of crime and punishment in Ipswich'
 event_categories:
@@ -39,7 +38,7 @@ content_area:
         text: 'This walk is suitable for both children and adults, but children must be aged from 8 upwards and must be accompanied by an adult.'
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqygmb&target=&iframe=true'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758786821
+updated_at: 1759218110
 duplicated_from: f8cab40c-d833-40d1-a105-1e054f9743b5
 featured_image: pelicanpelican-3x2/lgc-va.png
 cta: |-
