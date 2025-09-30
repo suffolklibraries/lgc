@@ -1,21 +1,17 @@
 ---
 id: 80f00cf4-ae05-42b1-abb6-4c4f14f0f023
-published: false
 blueprint: events
-title: 'Onisere and the Ballet Queen at Lowestoft Library (Duplicated)'
+title: 'Creative Cauldrons at Lowestoft Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718295
+updated_at: 1759218584
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
-start_date: '2025-10-29 11:00'
+start_date: '2025-10-28 11:00'
 event_categories:
-  - dance
   - literature
-  - museums
   - family-friendly
   - theatre-and-performance
-  - music
 free: true
 virtual: false
 organisers:
@@ -23,8 +19,8 @@ organisers:
 address_line_2: 'Clapham Road South'
 town: Lowestoft
 postcode: 'NR32 1DR'
-featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
-attendance_information: 'Suitable for children aged 4-8 years.'
+featured_image: suffolklibrariesimages/creative-cauldrons-3x2.png
+attendance_information: 'Suitable for children aged 4+'
 content_area:
   -
     type: paragraph
@@ -33,18 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'No booking required - just come along. '
+        text: 'Funnelwick Limb needs your help to create their new show, Twelve Yuletime Yarns. A carrot has escaped from a school kitchen and is off on an adventure. Where will it go? Who will it meet? What will it do?'
   -
     type: paragraph
     attrs:
@@ -52,21 +37,37 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is part of the '
+        text: 'Come to the library on Sunday 2 November to help us build the story. You will get a chance to make your own carrot puppet, create an adventure story for it or take one of Funnelwick Limb’s story for a walk! We have two sessions available: 11:00 – 13:00 and 14:00 – 16:00.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This is a free drop-in session no booking required. Suitable for children aged 4+.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Click '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://blackbritishballet.com/'
+              href: 'https://suffolkcommunitylibraries.co.uk/events/creative-cauldrons-at-lowestoft-library/'
               rel: null
               target: _blank
               title: null
-        text: 'Black British Ballet project by Oxygen Arts'
+        text: 'here to visit the Suffolk Community Libraries website'
       -
         type: text
-        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
+        text: ' and find out more.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -79,7 +80,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Relaxed performance'
-end_date: '2025-10-29 12:30'
+end_date: '2025-10-28 16:00'
 duplicated_from: 73e351a7-7933-4269-ba74-1e26369fee8b
 directions:
   -
@@ -189,4 +190,4 @@ directions:
         text: .
 building_name: 'Lowestoft Library'
 ---
-Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
+Help a runaway carrot!
