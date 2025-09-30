@@ -1,18 +1,15 @@
 ---
 id: 82074bbe-e233-4c3a-ac59-654d641ab371
-published: false
 blueprint: events
-title: 'Onisere and the Ballet Queen at Bury St Edmunds Library (Duplicated)'
+title: 'Creative Cauldrons at Bury St Edmunds Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718277
+updated_at: 1759218939
 latitude: '52.248150770555625'
 longitude: '0.7114614702830845'
-start_date: '2025-10-31 11:00'
+start_date: '2025-10-29 11:00'
 event_categories:
-  - music
   - family-friendly
-  - museums
   - theatre-and-performance
   - literature
 free: true
@@ -22,8 +19,8 @@ organisers:
 address_line_2: "2B St Andrew's Street North"
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 1TZ'
-featured_image: suffolklibrariesimages/onisere-workshop-2_53951579973_l.jpg
-attendance_information: 'Suitable for children aged 4-8 years'
+featured_image: suffolklibrariesimages/creative-cauldrons-3x2.png
+attendance_information: 'Suitable for children aged 4+'
 content_area:
   -
     type: paragraph
@@ -32,37 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Booking is required.'
-      -
-        type: text
-        text: ' Please book a ticket for each child attending and their accompanying adults. '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-bury-st-edmunds-library/2025-10-31/11:00/t-eagrrqo'
-              rel: noopener
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'Book your tickets online on TicketSource'
-      -
-        type: text
-        text: .
+        text: 'Funnelwick Limb needs your help to create their new show, Twelve Yuletime Yarns. A carrot has escaped from a school kitchen and is off on an adventure. Where will it go? Who will it meet? What will it do?'
   -
     type: paragraph
     attrs:
@@ -70,21 +37,37 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is part of the '
+        text: 'Come to the library on Wednesday 29 October to help us build the story. You will get a chance to make your own carrot puppet, create an adventure story for it or take one of Funnelwick Limb’s story for a walk! We have two sessions available: 11:00 – 13:00 and 14:00 – 16:00.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This is a free drop-in session no booking required. Suitable for children aged 4+.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: Click
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://blackbritishballet.com/'
+              href: 'https://suffolkcommunitylibraries.co.uk/events/creative-cauldrons-at-bury-st-edmunds-library/'
               rel: null
               target: _blank
               title: null
-        text: 'Black British Ballet project by Oxygen Arts'
+        text: ' here to visit the Suffolk Community Libraries website'
       -
         type: text
-        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
+        text: ' and find out more.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -97,9 +80,9 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Relaxed performance'
-end_date: '2025-10-31 12:30'
+  - 'Drop-in event'
+end_date: '2025-10-29 16:00'
 duplicated_from: 8fd66c21-b616-4ef9-b4c4-848705fb8696
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/onisere-and-the-ballet-queen-at-bury-st-edmunds-library/'
 building_name: 'Bury St Edmunds Library'
 directions:
   -
@@ -211,4 +194,4 @@ directions:
         type: text
         text: .
 ---
-Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
+Help a runaway carrot!
