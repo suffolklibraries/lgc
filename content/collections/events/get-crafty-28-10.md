@@ -41,7 +41,7 @@ content_area:
         text: 'Children must be accompanied by an appropriate adult at all times.'
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqylvk&target=&iframe=true'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758787403
+updated_at: 1759218015
 duplicated_from: f8cff89d-538d-4acd-bd43-fb7ae58f7d85
 featured_image: pelicanpelican-3x2/lgc-va.png
 cta: |-
