@@ -1,22 +1,22 @@
 ---
 id: ec113c01-8017-4db0-97e8-ab7506d4181f
-published: false
 blueprint: events
-title: 'Dance for Parkinson’s (Duplicated)'
+title: 'Platforma Community Takeover'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757000888
+updated_at: 1759237888
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2025-10-01 14:15'
+start_date: '2025-10-18 12:00'
 free: true
 virtual: false
 organisers:
   - danceeast
+  - platforma
 address_line_1: 'Jerwood Dance House'
 town: Ipswich
 postcode: 'IP4 1DW'
-featured_image: pelicanpelican-3x2/dance.png
+featured_image: pelicanpelican-3x2/support.png
 content_area:
   -
     type: paragraph
@@ -25,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our Dance for Parkinson’s sessions are delivered in partnership with English National Ballet. The sessions bring a unique opportunity for people with Parkinson’s in Ipswich and the surrounding areas to engage with high quality dance classes in our studio.'
+        text: 'A day of sharing and celebration, giving space to artists and arts made by and with migrant and refugee communities to tell stories and highlight the important role of the arts and the fantastic work that takes place across Ipswich. The Jerwood DanceHouse will come alive with performances, artwork, films, poetry, spoken word and much more. An enriching day of arts and culture not to be missed!'
   -
     type: paragraph
     attrs:
@@ -33,29 +33,104 @@ content_area:
     content:
       -
         type: text
-        text: 'These weekly artistic and creative dance classes have the added benefits of improved mental and physical health and wellbeing, the chance for tea, biscuits, and a chat with like-minded people and most importantly, provide a fun, informal and energising activity suitable for all.'
+        marks:
+          -
+            type: bold
+        text: Theatre
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Our studio theatre will showcase a vibrant programme of dance, theatre and music brought to you by local Bollywood group, Dance Folks, Gecko Theatre’s Being Migrant group, and Status Creative’s young refugee musicians, to name a few.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'There will also be a range of films and presentations, showcasing some amazing projects from The Hold’s Arrivals project to Addictive TV’s Orchestra of Samples global music project.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Ipswich Windrush Society, Ipswich Romanian Community and This is Ipswich join forces to highlight stories of resilience and migration through film and Hannah Aria will present a virtual gallery for her Window to the Soul exhibition, sharing artwork, poetry and creative writing from women and girls from Afghanistan.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'If you would like to find out more information for yourself or if you know someone who would benefit and enjoy attending the classes you can do so by calling a member of our Box Office Team on '
+        marks:
+          -
+            type: bold
+        text: 'Art, Textile & Photography'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'A range of local artists and photographers will exhibit their work in our Whistler Gallery and throughout the building, including one of the photographers behind the brilliant Portrait of Norwich Road exhibition.'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'In the Wellbeing Studio, you will find Colchester-based RAMA (Refugee, Asylum seeker & Migrant Action) sharing some of the artwork made by the individuals they work with and Suffolk Refugee Support’s Women’s Sewing Group with an exhibition of their textile creations.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Workshops & Activities'
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Catch Gecko Theatre’s Associate Director, Helen Baggett, for a movement workshop in the Ashton Studio delving into the companies practice and work with refugees and migrant groups. The Hold will be running family-friendly arts & crafts activities in the Wellbeing Studio alongside a range of other stands and stalls. Join Future Female Society’s Woman 2 Woman Radio live sessions and listen to the 1SAF podcasts sharing personal stories of migration.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: Food
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'We’re excited to be working with The Hive and their incredible group of community cooks to offer an array of delicious food for all to enjoy throughout the afternoon.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Visit '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'tel:01473295230'
+              href: 'https://www.danceeast.co.uk/workshops/platforma-community-takeover/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: '01473 295230'
+        text: 'the DanceEast website'
       -
         type: text
-        text: .
+        text: ' to find out more.'
 cta: |-
   This event is organised by Dance East
   [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
@@ -63,14 +138,16 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2025-10-01 15:30'
-attendance_information: "adults with Parkinson's"
+end_date: '2025-10-01 18:00'
 duplicated_from: f4faea12-c9f8-419e-bfaf-c2e4d1ceda0b
-cost_details: '£6 per session'
 event_categories:
   - wellbeing
-  - later-years
   - dance
+  - activism
+  - community
+  - museums
+  - art
+  - family-friendly
 directions:
   -
     type: paragraph
@@ -200,9 +277,11 @@ directions:
               target: null
               title: null
         text: here.
-booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-18-open/'
 building_name: 'Dance East'
 accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Hearing loop available'
   - 'Accessible toilets'
+  - 'Drop-in event'
 ---
-Dance classes designed for people with Parkinson's.
+Vibrant. Courageous. Uplifting.
