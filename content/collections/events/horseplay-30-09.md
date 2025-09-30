@@ -155,5 +155,6 @@ updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1747234636
 duplicated_from: 12cbbb61-391b-4368-b586-ab5d59581098
 booking_link: 'https://www.nhrm.co.uk/events/newmarket-young-arts/'
+published: false
 ---
 Come along and join us for our monthly meet up at the Museum!
