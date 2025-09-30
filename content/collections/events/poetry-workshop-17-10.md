@@ -1,6 +1,5 @@
 ---
 id: 0e683ca5-cb5b-499e-bef5-5c177f73aa91
-published: false
 blueprint: events
 title: 'Home from Home Poetry Workshop'
 event_categories:
@@ -152,7 +151,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758786248
+updated_at: 1759217974
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
 attendance_information: 'Ages 16+'
 ---
