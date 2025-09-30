@@ -187,11 +187,10 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759218456
+updated_at: 1759218779
 duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
   - suffolk-community-libraries
 attendance_information: 'Suitable for ages 4+'
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/ballet-dance-workshop-at-ipswich-county-library/'
 ---
 Help a runaway carrot!
