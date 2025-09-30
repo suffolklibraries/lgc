@@ -1,25 +1,21 @@
 ---
 id: cd0b49b1-69c7-48dc-9494-dcb5c30b35f8
-published: false
 blueprint: events
-title: 'Onisere and the Ballet Queen at Gainsborough Community Library (Duplicated)'
+title: 'Creative Cauldrons at Gainsborough Community Library'
 event_categories:
   - family-friendly
-  - dance
   - theatre-and-performance
-  - music
   - literature
 organisers:
-  - suffolk-libraries
-featured_image: suffolklibrariesimages/martell-richards-3x2.png
-start_date: '2025-10-28 14:00'
-end_date: '2025-10-28 15:30'
+  - suffolk-community-libraries
+featured_image: suffolklibrariesimages/creative-cauldrons-3x2.png
+start_date: '2025-10-27 11:00'
+end_date: '2025-10-27 16:00'
 free: true
 virtual: false
-attendance_information: 'Suitable for children aged 4-8 years.'
+attendance_information: 'Suitable for children aged 4+'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
   - 'Relaxed performance'
@@ -78,37 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Onisere wants to be a ballet dancer but there’s just one problem: she’s black and she’s never seen any other ballet dancers who look like her. Enter, the ballet queen, Sandie Mae, who takes Onisere, and her annoying, football mad little brother Tayo, on a fantastical journey through the history of Black British ballet. A journey that begins in 1940s London, and takes in Glasgow, New York, Paris, Los Angeles and Johannesburg before landing back in the UK.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Booking is required.'
-      -
-        type: text
-        text: ' Please book a ticket for each child attending. Accompanying adults don’t need to book. '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-gainsborough-community-library/2025-10-28/14:00/t-xmpjjyl'
-              rel: noopener
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'Book your tickets online on TicketSource'
-      -
-        type: text
-        text: .
+        text: 'Funnelwick Limb needs your help to create their new show, Twelve Yuletime Yarns. A carrot has escaped from a school kitchen and is off on an adventure. Where will it go? Who will it meet? What will it do?'
   -
     type: paragraph
     attrs:
@@ -116,22 +82,37 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is part of the '
+        text: 'Come to the library on Monday 27 October to help us build the story. You will get a chance to make your own carrot puppet, create an adventure story for it or take one of Funnelwick Limb’s story for a walk! We have two sessions available: 11:00 – 13:00 and 14:00 – 16:00.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This is a free drop-in session no booking required. Suitable for children aged 4+.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Click '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://blackbritishballet.com/'
+              href: 'https://suffolkcommunitylibraries.co.uk/events/creative-cauldrons-at-gainsborough-community-library/'
               rel: null
               target: _blank
               title: null
-        text: 'Black British Ballet project by Oxygen Arts'
+        text: 'here to visit the Suffolk Community Libraries website '
       -
         type: text
-        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/onisere-and-the-ballet-queen-at-gainsborough-community-library/'
+        text: 'and find out more.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -141,7 +122,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756718312
+updated_at: 1759219100
 duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
 ---
-Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
+Help a runaway carrot!
