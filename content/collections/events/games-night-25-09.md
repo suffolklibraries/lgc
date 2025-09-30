@@ -1,6 +1,5 @@
 ---
 id: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
-published: false
 blueprint: events
 title: 'Lates: Games Night'
 event_categories:
@@ -127,8 +126,8 @@ cta: |-
   [archives@suffolk.gov.uk](mailto:archives@suffolk.gov.uk)
 
   [01473 296666](tel:01473296666)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1748423272
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1759217983
 duplicated_from: b79ab231-0fff-4681-a3cf-39da29584993
 attendance_information: 'Ages 18+'
 ---
