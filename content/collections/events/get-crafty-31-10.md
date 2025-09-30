@@ -1,6 +1,5 @@
 ---
 id: 4725b494-f4ee-4368-90e7-acfec66f87cc
-published: false
 blueprint: events
 title: "Let's Get Crafty - Halloween"
 event_categories:
@@ -42,7 +41,7 @@ content_area:
         text: 'Children must be accompanied by an appropriate adult at all times.'
 booking_link: 'https://www.ticketsource.co.uk/ticketshop/iframe/event.php?eventhash=e-mqylvk&target=&iframe=true'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758786656
+updated_at: 1759218025
 duplicated_from: 160f551f-1ad3-4eef-a888-e7d1d6e8361c
 featured_image: pelicanpelican-3x2/lgc-va.png
 cta: |-
