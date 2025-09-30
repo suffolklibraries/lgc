@@ -1,6 +1,5 @@
 ---
 id: 7fa69682-8545-4419-9892-86750b1bb04d
-published: false
 blueprint: events
 title: "Suffolk's Lost Heritage - Part One"
 event_categories:
@@ -137,7 +136,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758786089
+updated_at: 1759218080
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
 ---
 Explore Suffolk's past.
