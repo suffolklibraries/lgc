@@ -144,5 +144,6 @@ directions:
         type: text
         text: 'Free minibus pickup available from Lowestoft schools.'
 address_line_2: Mutford
+published: false
 ---
 A social club for those with additional needs.
