@@ -1,6 +1,5 @@
 ---
 id: a2854b1a-f3f4-49f0-b3a0-18e4e43b1a9d
-published: false
 blueprint: events
 title: 'Creative Writing Workshop with Amanda Hodgkinson'
 event_categories:
@@ -140,7 +139,7 @@ cta: |-
 
   [01473 296666](tel:01473296666)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758785953
+updated_at: 1759217939
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
 attendance_information: 'Ages 1+'
 ---
