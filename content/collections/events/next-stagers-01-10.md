@@ -176,5 +176,6 @@ duplicated_from: 5f489f75-9f21-42f1-98ab-066f72338c2b
 address_line_1: '119'
 cost_details: '£6 per session'
 booking_link: 'https://eequ.org/book/next-stagers-with-lorna-pearce-10946'
+published: false
 ---
 Meet and discuss theatre, read plays and even rehearse and stage them!
