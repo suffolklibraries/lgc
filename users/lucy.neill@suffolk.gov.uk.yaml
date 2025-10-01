@@ -1,4 +1,6 @@
-name: 'Lucy Neill'
-super: true
-id: b6080d5a-09dc-463a-919d-b42bd6740591
-password_hash: $2y$10$vVeAyaxafdw25XR7r651Mu7h1XIU/rLShlgKiDf9/dkPz.dzQ2vPq
+name: Lucy
+linked_organisations: suffolk-community-libraries
+roles:
+  - user
+id: 2e486333-020f-4932-aa56-00378913ebf9
+password_hash: $2y$10$1eZCuL1pVU3aLozOL.iTquRGGyiXVWWb68pX7TIZAFJnR8X1Dps1W
