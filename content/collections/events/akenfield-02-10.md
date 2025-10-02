@@ -167,5 +167,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756309201
 duplicated_from: 6ca9758e-afa7-43a0-9865-917a3e7adec8
 address_line_2: 'Gatacre Road'
+published: false
 ---
 Based on Ronald Blythe's much loved Akenfield: Portrait of an English village.
