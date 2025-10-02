@@ -210,5 +210,6 @@ updated_at: 1758695065
 duplicated_from: 15c4f5fd-35ee-4b8d-a863-55e1eb04b52c
 address_line_1: '119'
 booking_link: 'https://firstlightfestivalcic.com/whats-on/recharge-together-2tgkm-3j2zj-6bffw'
+published: false
 ---
 A welcoming space to try out different creative activities.
