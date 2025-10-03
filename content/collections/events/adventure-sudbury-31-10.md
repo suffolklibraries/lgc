@@ -1,13 +1,12 @@
 ---
 id: 4d563b87-17d1-485c-bbca-f21a60e3572d
-published: false
 blueprint: events
-title: 'Adventure Days - Sudbury (Duplicated)'
+title: 'Adventure Days - Sudbury'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-10-30 08:30'
-end_date: '2025-10-30 16:30'
+start_date: '2025-10-31 08:30'
+end_date: '2025-10-31 16:30'
 free: true
 virtual: false
 latitude: '52.034657651152074'
@@ -130,7 +129,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759497529
+updated_at: 1759497557
 duplicated_from: 83129103-8eaa-4e26-8bad-e25bf15c7166
 event_categories:
   - wellbeing
