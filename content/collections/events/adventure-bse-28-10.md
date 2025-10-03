@@ -1,13 +1,12 @@
 ---
 id: 1a09c53f-83f1-4e89-942f-284f599d18b5
-published: false
 blueprint: events
-title: 'Adventure Days - Bury St Edmunds (Duplicated)'
+title: 'Adventure Days - Bury St Edmunds'
 organisers:
   - abbeycroft-leisure
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-10-27 08:30'
-end_date: '2025-10-27 16:30'
+start_date: '2025-10-28 08:30'
+end_date: '2025-10-28 16:30'
 free: true
 virtual: false
 latitude: '52.25052967483318'
@@ -79,7 +78,7 @@ cta: |-
 
   [https://www.abbeycroft.org.uk/](https://www.abbeycroft.org.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759496997
+updated_at: 1759497022
 duplicated_from: 361f167f-1595-45d7-bb81-a2c9b3f4e381
 event_categories:
   - wellbeing
