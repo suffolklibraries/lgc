@@ -1,18 +1,18 @@
 ---
 id: c9d70e5c-0c22-49a7-9389-a7e7a337f5e0
-published: false
 blueprint: events
-title: 'High School Sketchbook Club (Duplicated)'
+title: 'Collage Club'
 event_categories:
   - teen
   - art
   - community
   - wellbeing
+  - later-years
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-04 12:00'
-end_date: '2025-10-04 13:30'
+start_date: '2025-11-07 19:00'
+end_date: '2025-11-07 21:00'
 free: false
-virtual: true
+virtual: false
 attendance_information: '11 to 18 year olds'
 accessibility_information:
   - 'Wheelchair accessible'
@@ -87,7 +87,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We have an open studio feel with creative prompts and access to materials and processes to illustrate, print make and create however you like.'
+        text: 'CUT. STICK. LAYER. PLAY.'
   -
     type: paragraph
     attrs:
@@ -95,17 +95,25 @@ content_area:
     content:
       -
         type: text
-        text: 'Bring your own sketchbook or project or come ready to get inspired!'
+        text: 'Rip into something new at this relaxed, no-rules collage session.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'No experience needed—just bring your curiosity. We’ll bring the scissors, glue, mags and materials.'
 cta: |-
   This event is run by AMPP Studio
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755618814
+updated_at: 1759499590
 duplicated_from: dec9b389-6232-45fe-858b-06a9f74ee14e
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
-cost_details: £9
+cost_details: £12
 ---
-A weekly sketchbook club in Ipswich
+A monthly creative meet-up for adults.
