@@ -9,11 +9,11 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-07-11 11:00'
-end_date: '2025-07-11 12:00'
+start_date: '2025-10-10 11:00'
+end_date: '2025-10-10 12:00'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children'
+attendance_information: 'suitable for pre-school children aged 18 months to 4 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -181,9 +181,9 @@ cta: |-
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638 667314](tel:01638667314)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1730815482
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1759501098
 duplicated_from: fc011e96-751f-4d05-85aa-c592b746b522
-published: false
+booking_link: 'https://www.nhrm.co.uk/events/pre-school-little-horseshoes-sessions/'
 ---
 Free, creative play sessions, designed to educate and entertain!
