@@ -1,18 +1,20 @@
 ---
 id: 2c5766d5-3931-45b4-a133-51c80732941b
-published: false
 blueprint: events
-title: 'Horseplay - board game mornings (Duplicated)'
+title: 'Black History Month at the National Horse Racing Museum'
 event_categories:
   - museums
   - family-friendly
   - teen
   - later-years
+  - activism
+  - community
+  - wellbeing
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-11-25 10:30'
-end_date: '2025-11-25 12:00'
+start_date: '2025-10-04 11:30'
+end_date: '2025-10-04 13:30'
 free: true
 virtual: false
 accessibility_information:
@@ -135,15 +137,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Enjoy a variety of different board games throughout the sessions, whilst meeting new people and enjoying a refreshment or two.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'All are welcome!'
+        text: 'You are invited to join our FREE family-friendly celebration to launch Black History Month here at the museum on Saturday 4 October 2025. Drop in any time from 11:30am until 1:30pm and learn about Black heritage, enjoy creative activities, hear African drums, taste African-Caribbean food and explore the museum.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -152,9 +146,8 @@ cta: |-
   [info@nhrm.co.uk](mailto:info@nhrm.co.uk)
 
   [01638 667314](tel:01638667314)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747234674
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1759500996
 duplicated_from: ba7677d0-8f5d-43c0-bf77-82bcf7c09cd0
-booking_link: 'https://www.nhrm.co.uk/events/newmarket-young-arts/'
 ---
-Come along and join us for our monthly meet up at the Museum!
+Free celebration to launch Black History Month
