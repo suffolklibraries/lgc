@@ -1,20 +1,19 @@
 ---
 id: 58344da4-a57a-4f56-9b70-6d3814386236
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'NightMARE at the Museum'
 event_categories:
   - museums
   - early-years
   - family-friendly
+  - art
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-10-10 11:00'
-end_date: '2025-10-10 12:00'
+featured_image: suffolklibrariesimages/halloween-3x2.png
+start_date: '2025-10-30 17:30'
+end_date: '2025-10-30 19:00'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children aged 18 months to 4 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,45 +134,41 @@ content_area:
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: 'Join us on Thursday 30th October for a Spooky Scavenger Hunt through the Museum grounds – you might even meet a few scary characters along the way. '
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your pre-school place, please email '
+        text: 'Plus, get creative with a range of creepy crafts, play some '
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'mailto:info@nhrm.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: info@nhrm.co.uk
+            type: italic
+        text: ghoulish
       -
         type: text
-        text: .
+        text: ' games, enter our Fab-'
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: Boo
+      -
+        type: text
+        text: '-lous fancy-dress competition (even our horses will be joining in on the fun!) and collect your Halloween treat bag. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Refreshments available to purchase throughout the evening.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -183,8 +178,9 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759501098
+updated_at: 1759501646
 duplicated_from: 83210907-13a3-4cd9-b182-423594c86c22
-booking_link: 'https://www.nhrm.co.uk/events/pre-school-little-horseshoes-sessions/'
+booking_link: 'https://www.nhrm.co.uk/events/nightmare-at-the-museum-2025/'
+cost_details: "Adults £6, Children £4, Under 5's Free"
 ---
-Free, creative play sessions, designed to educate and entertain!
+It looks as if it is going to be another NightMare at the Museum, this spooky season!
