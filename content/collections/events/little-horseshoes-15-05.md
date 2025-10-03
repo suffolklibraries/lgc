@@ -1,8 +1,7 @@
 ---
 id: 819f8e59-bdb6-4a63-8472-7a8ec8aaa43a
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Little Horseshoes’ Pre-School Creative Play Sessions'
 event_categories:
   - museums
   - early-years
@@ -183,7 +182,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759501218
+updated_at: 1759501252
 duplicated_from: 61645cc2-fc1f-4614-adc1-46b3cd89b30b
 booking_link: 'https://www.nhrm.co.uk/events/pre-school-little-horseshoes-sessions/'
 ---
