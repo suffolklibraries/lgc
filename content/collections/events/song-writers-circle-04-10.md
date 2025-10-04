@@ -163,5 +163,6 @@ directions:
 building_name: 'Sudbury Arts Centre'
 attendance_information: 'suitable for adults and over 16s'
 booking_link: 'https://sudburyartscentre.com/event/songwriters-circle-7/'
+published: false
 ---
 A friendly free drop in for songwriters to meet together.
