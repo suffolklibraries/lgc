@@ -223,5 +223,6 @@ cta: |-
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1757521929
 duplicated_from: c6eb5580-db8d-4aa4-8ea8-361bc1775dc8
+published: false
 ---
 Halesworth Harmony is a friendly and supportive choir, welcoming all singers without an audition.
