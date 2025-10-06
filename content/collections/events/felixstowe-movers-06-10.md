@@ -178,5 +178,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Come and try our weekly movement classes for people over 55!
