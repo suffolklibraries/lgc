@@ -4,7 +4,7 @@ blueprint: events
 title: 'Curious Minds - Felixstowe'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750347572
+updated_at: 1759831700
 latitude: '51.963591029049454'
 longitude: '1.3506722105946423'
 start_date: '2025-10-13 13:30'
@@ -15,7 +15,7 @@ event_categories:
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
+  - suffolk-community-libraries
 address_line_1: 'Felixstowe Library'
 address_line_2: 'Crescent Road'
 town: Felixstowe
@@ -100,13 +100,13 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
