@@ -8,7 +8,7 @@ event_categories:
   - museums
   - exhibition
 organisers:
-  - suffolk-libraries
+  - suffolk-community-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
 start_date: '2025-11-05 10:00'
 end_date: '2026-01-30 16:00'
@@ -301,15 +301,15 @@ content_area:
         type: text
         text: ' on Spotify.'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757505423
+updated_at: 1759831707
 duplicated_from: e8d591e6-323d-47bf-9ffb-6335707ad19e
 address_line_2: Mildenhall
 ---
