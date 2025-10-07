@@ -184,5 +184,6 @@ directions:
         type: text
         text: .
 building_name: 'Lowestoft Library'
+published: false
 ---
 A friendly session for under twos and their caregivers to explore the world through messy play.
