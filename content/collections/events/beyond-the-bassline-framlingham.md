@@ -8,7 +8,7 @@ event_categories:
   - museums
   - exhibition
 organisers:
-  - suffolk-libraries
+  - suffolk-community-libraries
 featured_image: suffolklibrariesimages/beyond-the-bassline-image.jpg
 start_date: '2026-03-31 10:00'
 end_date: '2026-04-25 16:00'
@@ -300,15 +300,15 @@ content_area:
         type: text
         text: ' on Spotify.'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1736844420
+  [0345 60 630 60](tel:03456063060)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1759831715
 duplicated_from: 3f69b22a-8933-49f8-b2ec-89bac97eeb7b
 address_line_2: Framlingham
 ---
