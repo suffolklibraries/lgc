@@ -73,5 +73,6 @@ organisers:
   - suffolk-community-libraries
 attendance_information: 'Ages 11+'
 booking_link: 'https://suffolkcommunitylibraries.co.uk/events/dance-photography-workshop-at-ipswich-county-library/'
+published: false
 ---
 Join us for this free online talk with BOM Media on creating a VR experience!
