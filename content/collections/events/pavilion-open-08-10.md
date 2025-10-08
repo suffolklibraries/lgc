@@ -104,5 +104,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
+published: false
 ---
 Inclusive open mic session where everyone is welcome!
