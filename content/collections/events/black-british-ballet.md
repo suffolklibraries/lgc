@@ -508,10 +508,10 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757502835
+updated_at: 1759998365
 duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
   - suffolk-community-libraries
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/'
+booking_link: 'https://www.ticketsource.co.uk/suffolk-community-libraries?eventref=black-british-ballet'
 ---
 Explore the history of Black British Ballet through exhibitions, workshops, and more.
