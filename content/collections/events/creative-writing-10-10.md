@@ -142,5 +142,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1759217939
 duplicated_from: 21a41b5f-8bd4-44ae-a685-a58ed582b9a8
 attendance_information: 'Ages 1+'
+published: false
 ---
 A workshop taking inspiration from stories of arrival, community, and belonging.
