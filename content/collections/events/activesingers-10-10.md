@@ -137,5 +137,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_1: 'Laburnum Close'
 booking_link: 'https://activlives.org.uk/activsingers-ipswich-2/'
+published: false
 ---
 Feel your spirits lift and find a new confidence in singing!
