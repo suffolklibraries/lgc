@@ -356,5 +356,6 @@ updated_at: 1758642480
 duplicated_from: 15c4f5fd-35ee-4b8d-a863-55e1eb04b52c
 booking_link: 'https://firstlightlowestoft.com/game-lowestoft-2/'
 address_line_1: '119'
+published: false
 ---
 Lowestoft’s first-ever gaming festival!
