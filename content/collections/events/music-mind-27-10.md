@@ -1,19 +1,18 @@
 ---
 id: fa44b77b-ecac-465b-9249-b4eb2dd3ccc6
-published: false
 blueprint: events
-title: 'Dance Workshop at Ipswich County Library (Duplicated)'
+title: 'Music In Mind'
 event_categories:
-  - dance
-  - family-friendly
   - music
-  - theatre-and-performance
-featured_image: suffolklibrariesimages/island-movements-rehearsals-1--oxygen-arts-cic_53940312143_l.jpg
-start_date: '2025-10-30 11:00'
-end_date: '2025-10-30 12:30'
-free: false
+  - wellbeing
+  - community
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2025-10-27 14:00'
+end_date: '2025-10-27 15:30'
+free: true
 virtual: false
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Accessible toilets'
 latitude: '52.05879312178225'
 longitude: '1.1565072711648254'
@@ -138,73 +137,61 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our dance workshop at Ipswich County Library led by a professional dancer from Oxygen Arts, exploring ballet mixed with contemporary, African and Caribbean dance! This is followed by an informal Q&A with the dance instructor.'
+        text: 'Please feel free to bring a friend, family member or support worker with you! '
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Booking is required.'
+        text: 'These friendly sessions are facilitated by Tracy Sharp, Jennie Fisk Ian Heywood and Rachel Parsons.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: ' Please book a ticket for each child attending and their accompanying adults. '
+        text: 'All our sessions are free but donations are welcome. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'To join a session, please '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/ballet-dance-workshop-at-ipswich-county-library/2025-10-30/11:00/t-jzemmlx'
-              rel: noopener
-              target: _blank
-              title: null
-          -
-            type: bold
-        text: 'Book your tickets online on TicketSource'
-      -
-        type: text
-        text: '. Children ​must be accompanied by an adult.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'This event is part of the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://blackbritishballet.com/'
+              href: 'https://musicinourbones.com/singing-groups/music-in-mind/'
               rel: null
               target: _blank
               title: null
-        text: 'Black British Ballet project by Oxygen Arts'
+        text: 'register your interest via the Music in our Bones website'
       -
         type: text
-        text: '. This project aims to fundamentally change the way that ballet is seen and operates in Britain. They are creating a range of products and activities to share the hidden history of black dancers in British ballet, bringing ballet to new and diverse audiences and driving change in the industry.'
+        text: .
 cta: |-
-  This event is organised by Suffolk Community Libraries
+  This event is organised by Music in our Bones
+  [http://musicinourbones.com/](http://musicinourbones.com/) 
 
-  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
+  [musicinourbones@gmail.com](mailto:musicinourbones@gmail.com)
 
-  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
-
-  [0345 60 630 60](tel:03456063060)
+  [07757 809297](tel:07757809297)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756719980
+updated_at: 1760342748
 duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
-  - suffolk-community-libraries
-attendance_information: 'Suitable for ages 7+'
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/ballet-dance-workshop-at-ipswich-county-library/'
+  - music-in-our-bones
+attendance_information: |-
+  - carers
+  - people managing long-term mental or physical health conditions
+  - people for whom singing would add to their quality of life
+booking_link: 'https://musicinourbones.com/singing-groups/music-in-mind/'
 ---
-Explore a range of African and Carribean dance styles.
+A singing project with a focus on mental health.
