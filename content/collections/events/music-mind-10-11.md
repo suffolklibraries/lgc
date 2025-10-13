@@ -1,15 +1,14 @@
 ---
 id: 0826e996-03d9-4552-ab9b-66a9fd32032d
-published: false
 blueprint: events
-title: 'Music In Mind (Duplicated)'
+title: 'Music In Mind'
 event_categories:
   - music
   - wellbeing
   - community
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-10-27 14:00'
-end_date: '2025-10-27 15:30'
+start_date: '2025-11-10 14:00'
+end_date: '2025-11-10 15:30'
 free: true
 virtual: false
 accessibility_information:
@@ -185,7 +184,7 @@ cta: |-
 
   [07757 809297](tel:07757809297)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1760342748
+updated_at: 1760342801
 duplicated_from: fa44b77b-ecac-465b-9249-b4eb2dd3ccc6
 organisers:
   - music-in-our-bones
