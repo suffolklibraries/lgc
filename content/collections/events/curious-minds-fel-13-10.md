@@ -209,5 +209,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/curious-minds-felixstowe-25/'
+published: false
 ---
 Nurture your wellbeing through creative and mindful activities.
