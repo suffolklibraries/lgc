@@ -135,5 +135,6 @@ directions:
         type: text
         text: .
 attendance_information: 'people who have been bereaved'
+published: false
 ---
 A walking group run by Living Grief.
