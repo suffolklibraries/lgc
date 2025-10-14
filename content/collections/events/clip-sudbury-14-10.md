@@ -173,5 +173,6 @@ directions:
         type: text
         text: .
 building_name: 'Sudbury Arts Centre'
+published: false
 ---
 A weekly club for young musicians to play with musical tech!
