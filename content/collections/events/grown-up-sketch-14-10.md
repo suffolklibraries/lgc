@@ -40,5 +40,6 @@ booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
 cost_details: £5
+published: false
 ---
 Explore creative prompts using whatever art materials you have at home.
