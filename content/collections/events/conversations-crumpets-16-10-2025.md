@@ -2,8 +2,8 @@
 id: 69a37d55-c8ad-4b04-8536-d02ccb7b4df6
 blueprint: events
 title: 'Conversations & Crumpets'
-start_date: 2025-10-16T18:00:00+00:00
-end_date: 2025-10-16T20:00:00+00:00
+start_date: 1760637600
+end_date: 1760644800
 free: true
 virtual: false
 attendance_information: 'Ages 18+'
@@ -32,6 +32,7 @@ event_categories:
   - wellbeing
 organisers:
   - suffolk-pride
+published: false
 ---
 It's our 5th Conversations & Crumpets get-together with ICENI.
 If you're a local service that wants to be a part of the conversation
