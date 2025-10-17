@@ -167,5 +167,6 @@ directions:
         type: text
         text: .
 building_name: 'Beccles Library'
+published: false
 ---
 A sensory musical playscape for under-twos and their caregivers.
