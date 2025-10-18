@@ -312,5 +312,6 @@ duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
 organisers:
   - aspire-black-suffolk
   - suffolk-community-libraries
+published: false
 ---
 A powerful day of celebration, creativity, and community as we honour Black History Month.
