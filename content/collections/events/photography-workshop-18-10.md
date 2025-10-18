@@ -214,5 +214,6 @@ organisers:
   - suffolk-community-libraries
 attendance_information: 'Ages 14+'
 booking_link: 'https://suffolkcommunitylibraries.co.uk/events/dance-photography-workshop-at-ipswich-county-library/'
+published: false
 ---
 Calling all budding photographers who want to learn more about movement and dance photography!
