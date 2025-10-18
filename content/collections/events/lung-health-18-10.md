@@ -137,5 +137,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756737974
 duplicated_from: fcc2f3c0-e20a-4c57-99b4-edd8bd2650a2
 attendance_information: 'Those managing impaired lung performance'
+published: false
 ---
 Improve your lung health through singing.
