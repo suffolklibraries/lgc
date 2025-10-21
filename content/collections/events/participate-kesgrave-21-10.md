@@ -144,5 +144,6 @@ updated_at: 1756379000
 duplicated_from: c4bbc166-5590-4416-b528-1ed61274a142
 latitude: '52.061363823568186'
 longitude: '1.2361075107491926'
+published: false
 ---
 Make music and explore historical objects with our friendly team of workshop leaders and musicians.
