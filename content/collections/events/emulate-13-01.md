@@ -9,9 +9,9 @@ event_categories:
   - computing
 organisers:
   - ipswich-community-media
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-01-13 18:00'
-end_date: '2025-01-13 20:00'
+featured_image: ipswich_community_media/campfire-1024x682.jpg
+start_date: '2025-10-27 18:00'
+end_date: '2025-10-27 20:00'
 free: true
 virtual: false
 attendance_information: 'for young men aged 16 - 25'
@@ -182,8 +182,7 @@ cta: |-
   [01473 852552](tel:01473852552)
 
   [https://www.ipswichcm.org.uk/](https://www.ipswichcm.org.uk/)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1733402120
-published: false
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1761137632
 ---
 For young men interested in music, media, sport and community.
