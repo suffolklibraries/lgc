@@ -170,5 +170,6 @@ directions:
         text: .
 booking_link: 'https://www.suffolkartlink.org.uk/sessions/creating-space-in-felixstowe/'
 building_name: 'The Welcome Hall'
+published: false
 ---
 A free 8-week creative programme for Adult Family Carers experiencing a time of change.
