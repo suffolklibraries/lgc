@@ -1,8 +1,7 @@
 ---
 id: d171a49c-8009-43e9-ac17-f92bd30ed671
-published: false
 blueprint: events
-title: 'ActivSheds (Duplicated) (Duplicated)'
+title: ActivSheds
 event_categories:
   - nature
   - community
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - activlives
 featured_image: activlives/activsheds.png
-start_date: '2026-01-08 09:30'
-end_date: '2026-01-09 15:30'
+start_date: '2026-01-22 09:30'
+end_date: '2026-01-23 15:30'
 free: true
 virtual: false
 latitude: '52.03960215792138'
@@ -175,7 +174,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1761139664
+updated_at: 1761139693
 duplicated_from: d756e909-53a8-4477-8807-1e671bfacbaf
 accessibility_information:
   - 'Autism friendly'
