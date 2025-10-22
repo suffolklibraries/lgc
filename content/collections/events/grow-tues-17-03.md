@@ -1,8 +1,7 @@
 ---
 id: b31bacfe-db7a-4ed6-b9ac-ab33d6fda4aa
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Future - Tuesdays (Duplicated) (Duplicated)'
+title: 'ActivGardens - Grow Your Future - Tuesdays'
 event_categories:
   - nature
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - activgardens
 featured_image: pelicanpelican-3x2/food_nature-(1).png
-start_date: '2026-03-03 09:30'
-end_date: '2026-03-03 14:30'
+start_date: '2026-03-17 09:30'
+end_date: '2026-03-17 14:30'
 free: true
 virtual: false
 latitude: '52.05374972132314'
@@ -104,7 +103,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1761143678
+updated_at: 1761143714
 duplicated_from: 6c7f4789-8f3f-4850-9b56-da8627614e10
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
 attendance_information: '16+ years'
