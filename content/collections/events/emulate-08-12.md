@@ -1,8 +1,7 @@
 ---
 id: 8e67902e-a820-45de-ac5c-0a064b939e9b
-published: false
 blueprint: events
-title: 'Emulate Social Club (Duplicated) (Duplicated)'
+title: 'Emulate Social Club'
 event_categories:
   - community
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - ipswich-community-media
 featured_image: ipswich_community_media/campfire-1024x682.jpg
-start_date: '2025-11-24 18:00'
-end_date: '2025-11-24 20:00'
+start_date: '2025-12-08 18:00'
+end_date: '2025-12-08 20:00'
 free: true
 virtual: false
 attendance_information: 'for young men aged 16 - 25'
@@ -184,7 +183,7 @@ cta: |-
 
   [https://www.ipswichcm.org.uk/](https://www.ipswichcm.org.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1761137703
+updated_at: 1761137734
 duplicated_from: 075b1577-ee2d-4bb4-b439-3c3729637b39
 ---
 For young men interested in music, media, sport and community.
