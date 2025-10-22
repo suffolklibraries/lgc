@@ -1,6 +1,5 @@
 ---
 id: 732a507a-753d-46af-8862-04c9ec3d63ba
-published: false
 blueprint: events
 title: ActivSheds
 event_categories:
@@ -175,7 +174,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1761139727
+updated_at: 1761139741
 duplicated_from: 1b3d7cfe-f1f3-472a-8453-c1e40bc75297
 accessibility_information:
   - 'Autism friendly'
