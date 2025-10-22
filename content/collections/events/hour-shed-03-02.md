@@ -1,16 +1,15 @@
 ---
 id: b4c0b4d4-b068-4d9a-8143-d818b6e0dbf4
-published: false
 blueprint: events
-title: 'Hour Shed (Duplicated)'
+title: 'Hour Shed'
 event_categories:
   - community
   - later-years
   - nature
   - wellbeing
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2026-01-27 10:00'
-end_date: '2026-01-31 13:00'
+start_date: '2026-02-03 10:00'
+end_date: '2026-02-07 13:00'
 free: false
 cost_details: '£30 for six month membership'
 virtual: false
@@ -176,7 +175,7 @@ cta: |-
 
   [admin@hourcommunity.co.uk](mailto:admin@hourcommunity.co.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1761140218
+updated_at: 1761140239
 duplicated_from: 679c9c74-29d7-4899-8110-f1e943ceb7af
 ---
 Socialise and share skills.
