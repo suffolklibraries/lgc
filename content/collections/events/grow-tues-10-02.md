@@ -1,18 +1,18 @@
 ---
 id: cf7755ba-de65-4c07-a9fa-d6883fa3b84f
-published: false
 blueprint: events
-title: 'ActivGardens - Grow Your Future - Tuesdays (Duplicated)'
+title: 'ActivGardens - Grow Your Future - Tuesdays'
 event_categories:
   - nature
   - community
   - languages
   - wellbeing
+  - teen
 organisers:
   - activgardens
 featured_image: pelicanpelican-3x2/food_nature-(1).png
-start_date: '2025-10-28 09:30'
-end_date: '2025-10-28 14:30'
+start_date: '2026-02-10 09:30'
+end_date: '2026-02-10 14:30'
 free: true
 virtual: false
 latitude: '52.05374972132314'
@@ -103,10 +103,10 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750760674
+updated_at: 1761143509
 duplicated_from: 4ad576f4-ba67-4289-a186-e78bb146ebfe
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-future/'
-attendance_information: '16 + years'
+attendance_information: '16+ years'
 accessibility_information:
   - '- Accessible for wheelchair users and people with mobility issues'
 building_name: 'Chantry Walled Garden'
