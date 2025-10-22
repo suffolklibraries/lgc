@@ -1,16 +1,15 @@
 ---
 id: 8c9165c2-560c-46cd-8bc9-fdddf667f08b
-published: false
 blueprint: events
-title: 'Family Music Makers (Duplicated) (Duplicated)'
+title: 'Family Music Makers'
 event_categories:
   - music
   - family-friendly
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-12-07 14:00'
-end_date: '2025-12-07 15:15'
+start_date: '2026-02-22 14:00'
+end_date: '2026-02-22 15:15'
 free: true
 virtual: false
 latitude: '52.16396364890942'
@@ -119,7 +118,7 @@ content_area:
         type: text
         text: 'Places are free but booking is essential.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1761139171
+updated_at: 1761139207
 duplicated_from: 9b521340-9425-4b73-b835-e5904c64073f
 cta: |-
   This event is organised by Britten Pears Arts
