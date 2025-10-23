@@ -2,8 +2,8 @@
 id: 5c685503-74c0-401d-b925-bf1d15681055
 blueprint: events
 title: 'B*tch & Stitch'
-start_date: 2025-10-23T19:00:00+00:00
-end_date: 2025-10-23T21:00:00+00:00
+start_date: 1761246000
+end_date: 1761253200
 free: true
 virtual: false
 attendance_information: 'Ages 18+'
@@ -44,5 +44,6 @@ event_categories:
   - wellbeing
 organisers:
   - suffolk-pride
+published: false
 ---
 Join us for our monthly crafty vent sesh at Geek Retreat Ipswich!
