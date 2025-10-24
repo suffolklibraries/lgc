@@ -202,5 +202,6 @@ updated_at: 1756999079
 duplicated_from: a787b0ca-7703-4553-ac38-bfa961ae830c
 organisers:
   - debenham-shed
+published: false
 ---
 A community space for people to connect, converse and create.
