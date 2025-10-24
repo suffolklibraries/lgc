@@ -140,5 +140,6 @@ directions:
         text: .
 address_line_1: '131 Fore Street'
 cost_details: £8
+published: false
 ---
 Maritime Tattooing in Context with Dr Matt Lodder.
