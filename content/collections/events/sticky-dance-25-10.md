@@ -369,5 +369,6 @@ duplicated_from: 7e2f8d50-c289-43d8-a079-a75ba5a05de2
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival'
 address_line_1: '119'
 attendance_information: 'Children aged 3 to 5 years with their carers'
+published: false
 ---
 An interactive, engaging and colourful performance installation for children and their families.
