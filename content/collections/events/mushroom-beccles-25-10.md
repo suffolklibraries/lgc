@@ -187,5 +187,6 @@ directions:
 building_name: 'Beccles Library'
 organisers:
   - suffolk-community-libraries
+published: false
 ---
 There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
