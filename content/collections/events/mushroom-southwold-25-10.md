@@ -163,5 +163,6 @@ building_name: 'Geography Fieldwork Academy'
 organisers:
   - suffolk-community-libraries
 address_line_1: '4, The Old Hospital'
+published: false
 ---
 There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
