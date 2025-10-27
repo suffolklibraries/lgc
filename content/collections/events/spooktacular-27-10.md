@@ -104,5 +104,6 @@ accessibility_information:
 address_line_2: 'Royal Plain'
 cost_details: 'From £2.17 per person'
 attendance_information: 'Families with children aged 3+'
+published: false
 ---
 Music, magic and family fun!
