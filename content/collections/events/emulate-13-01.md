@@ -184,5 +184,6 @@ cta: |-
   [https://www.ipswichcm.org.uk/](https://www.ipswichcm.org.uk/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1761137632
+published: false
 ---
 For young men interested in music, media, sport and community.
