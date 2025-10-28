@@ -132,5 +132,6 @@ directions:
 address_line_1: '131 Fore Street'
 cost_details: '£5 per child'
 attendance_information: 'children aged 4-11 years old'
+published: false
 ---
 Get crafty with Suffolk Archives this October.

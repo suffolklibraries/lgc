@@ -210,5 +210,6 @@ organisers:
   - suffolk-community-libraries
 attendance_information: 'Suitable for children aged 4-8 years'
 booking_link: 'https://www.ticketsource.co.uk/suffolk-community-libraries/onisere-and-the-ballet-queen-at-ipswich-county-library/2025-10-28/11:00/t-pqpggoa'
+published: false
 ---
 Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
