@@ -129,5 +129,6 @@ directions:
         text: .
 address_line_1: Cornhill
 attendance_information: 'children aged 4-11 years old'
+published: false
 ---
 Get crafty with Suffolk Archives this October.
