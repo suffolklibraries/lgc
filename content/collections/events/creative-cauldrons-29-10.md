@@ -193,5 +193,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Help a runaway carrot!

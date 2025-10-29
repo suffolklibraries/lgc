@@ -180,5 +180,6 @@ directions:
         type: text
         text: .
 building_name: 'Beccles Library'
+published: false
 ---
 Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!
