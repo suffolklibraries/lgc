@@ -201,5 +201,6 @@ duplicated_from: a1a371f5-39a4-4a8b-b13f-79aa1055d4b4
 booking_link: 'https://www.ticketsource.co.uk/whats-on/lowestoft/the-battery/halloween-crafts/'
 address_line_1: '119'
 cost_details: '£3 per child'
+published: false
 ---
 A spooktacular Halloween celebration filled with creativity, costumes, and family fun!
