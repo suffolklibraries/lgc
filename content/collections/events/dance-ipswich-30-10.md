@@ -205,5 +205,6 @@ organisers:
   - suffolk-community-libraries
 attendance_information: 'Suitable for ages 7+'
 booking_link: 'https://suffolkcommunitylibraries.co.uk/events/ballet-dance-workshop-at-ipswich-county-library/'
+published: false
 ---
 Explore a range of African and Carribean dance styles.
