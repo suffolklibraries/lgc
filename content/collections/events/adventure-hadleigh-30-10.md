@@ -106,5 +106,6 @@ accessibility_information:
 cost_details: 'Free for children receiving free school meals'
 attendance_information: 'Children aged 8-14'
 address_line_2: 'Layham Road'
+published: false
 ---
 Free activities for children who live in Hadleigh!
