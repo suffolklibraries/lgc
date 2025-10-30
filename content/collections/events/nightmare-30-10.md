@@ -182,5 +182,6 @@ updated_at: 1759501646
 duplicated_from: 83210907-13a3-4cd9-b182-423594c86c22
 booking_link: 'https://www.nhrm.co.uk/events/nightmare-at-the-museum-2025/'
 cost_details: "Adults £6, Children £4, Under 5's Free"
+published: false
 ---
 It looks as if it is going to be another NightMare at the Museum, this spooky season!
