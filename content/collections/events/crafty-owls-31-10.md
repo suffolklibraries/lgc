@@ -97,5 +97,6 @@ accessibility_information:
 address_line_2: 'Royal Plain'
 cost_details: '£3 per child'
 attendance_information: 'Families with children aged 4+'
+published: false
 ---
 Owls, crafts and family fun!
