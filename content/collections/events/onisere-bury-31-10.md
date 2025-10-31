@@ -209,5 +209,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 Dance and storytelling session to discover the Black dancers who blazed a trail through British ballet!

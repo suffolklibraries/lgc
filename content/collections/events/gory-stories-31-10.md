@@ -129,5 +129,6 @@ directions:
 address_line_1: '131 Fore Street'
 cost_details: '£5 per person'
 attendance_information: 'suitable for children aged 8+'
+published: false
 ---
 Explore Ipswich's heritage.
