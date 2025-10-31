@@ -513,5 +513,6 @@ duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
   - suffolk-community-libraries
 booking_link: 'https://www.ticketsource.co.uk/suffolk-community-libraries?eventref=black-british-ballet'
+published: false
 ---
 Explore the history of Black British Ballet through exhibitions, workshops, and more.
