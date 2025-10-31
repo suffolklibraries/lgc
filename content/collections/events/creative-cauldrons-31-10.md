@@ -165,5 +165,6 @@ directions:
         type: text
         text: .
 building_name: 'Beccles Library'
+published: false
 ---
 Help a runaway carrot!
