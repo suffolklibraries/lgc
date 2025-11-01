@@ -136,5 +136,6 @@ updated_at: 1756731380
 duplicated_from: 7b66e25a-a7d7-4c97-8c87-832b48f625e3
 organisers:
   - bury-st-edmunds-mens-shed
+published: false
 ---
 Open to anyone 18 or over, of all interests and skill levels (and not just men!)
