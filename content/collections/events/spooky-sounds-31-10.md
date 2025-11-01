@@ -84,5 +84,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 booking_link: 'https://www.brittenpearsarts.org/events/spooky-sounds-at-the-red-house-2'
+published: false
 ---
 Add your own spooky sounds to some traditional Suffolk ghost tales.
