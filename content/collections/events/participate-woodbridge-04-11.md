@@ -143,5 +143,6 @@ booking_link: 'https://www.brittenpearsarts.org/events/participate-woodbridge'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756380900
 duplicated_from: abe83223-348b-4171-a3ee-c6adb8dcef95
+published: false
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
