@@ -108,5 +108,6 @@ booking_link: 'https://www.brittenpearsarts.org/events/participate-saxmundham-2'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756380655
 duplicated_from: aeeb6b68-3dab-488a-801e-00a8cdd3ccfa
+published: false
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians
