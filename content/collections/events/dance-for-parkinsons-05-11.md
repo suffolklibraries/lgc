@@ -203,5 +203,6 @@ booking_link: 'https://www.danceeast.co.uk/classes/dance-for-parkinsons-18-open/
 building_name: 'Dance East'
 accessibility_information:
   - 'Accessible toilets'
+published: false
 ---
 Dance classes designed for people with Parkinson's.
