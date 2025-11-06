@@ -145,5 +145,6 @@ organisers:
   - orford-museum
 updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
 updated_at: 1748508253
+published: false
 ---
 Simon Pearson tells the story of Roger Bushell – aka “Big X”.
