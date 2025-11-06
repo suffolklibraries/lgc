@@ -128,5 +128,6 @@ directions:
         text: 'There is onsite car parking.'
 address_line_1: Horringer
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/wellbeing-wheels-ickworth-estate-4'
+published: false
 ---
 Explore Ickworth Estate on scooter or wheelchair.

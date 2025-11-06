@@ -133,5 +133,6 @@ booking_link: 'https://www.brittenpearsarts.org/take-part/adults/skylarks'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756381667
 duplicated_from: a11b0e39-a060-4a6b-a9e6-c4626afabcb7
+published: false
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
