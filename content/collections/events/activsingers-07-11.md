@@ -198,5 +198,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_1: 'Quay Street'
 booking_link: 'https://activlives.org.uk/activsingers-woodbridge-2/'
+published: false
 ---
 Feel your spirits lift and find a new confidence in singing!
