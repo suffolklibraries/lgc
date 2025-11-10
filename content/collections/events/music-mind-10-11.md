@@ -193,5 +193,6 @@ attendance_information: |-
   - people managing long-term mental or physical health conditions
   - people for whom singing would add to their quality of life
 booking_link: 'https://musicinourbones.com/singing-groups/music-in-mind/'
+published: false
 ---
 A singing project with a focus on mental health.
