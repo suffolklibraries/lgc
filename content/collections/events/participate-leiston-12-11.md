@@ -109,5 +109,6 @@ booking_link: 'https://www.brittenpearsarts.org/events/participate-leiston-2'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756379257
 duplicated_from: ee44da04-6cf8-4d8e-98ce-918484bca74d
+published: false
 ---
 Come and explore objects and music with our friendly team of workshop leaders and musicians.
