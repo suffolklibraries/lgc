@@ -94,5 +94,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756381395
 featured_image: pelicanpelican-3x2/music_singing.png
 duplicated_from: bc04b8d6-2f01-4d3d-a429-0bf03ed3efd8
+published: false
 ---
 Skylarks is a fun and friendly singing group for people living with Parkinson’s and their companions.
