@@ -86,5 +86,6 @@ updated_at: 1757488248
 duplicated_from: 0ad34b1e-1d20-4a4c-bef6-057a56ef4651
 organisers:
   - musical-lifelines
+published: false
 ---
 Free music workshops for people in later life.
