@@ -1,7 +1,7 @@
 ---
 id: 65e1eb0a-1850-4cab-91ac-dcb2f6c8cc22
 blueprint: events
-title: Smurfs
+title: 'Relaxed Screening - Smurfs'
 event_categories:
   - early-years
   - community
@@ -57,7 +57,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763570384
+updated_at: 1763570454
 duplicated_from: dfba43ea-4739-4b22-b266-eb6eaa0767b4
 accessibility_information:
   - 'Wheelchair accessible'
