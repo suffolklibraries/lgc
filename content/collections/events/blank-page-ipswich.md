@@ -7,10 +7,10 @@ event_categories:
   - art
   - teen
 organisers:
-  - suffolk-libraries
+  - suffolk-community-libraries
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-04-07 09:45'
-end_date: '2025-04-07 15:30'
+start_date: '2025-12-22 09:45'
+end_date: '2026-01-02 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -141,20 +141,45 @@ content_area:
     content:
       -
         type: text
-        text: 'Join photographer Gillian Allard for this creative workshop for 10-16 year olds at Ipswich County Library. Create a unique time-lapse film by playing with photography and sound effects. This workshop is part of '
+        text: 'Join us at Ipswich County Library for a variety of creative workshops this winter holidays for 10-16 year olds! '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Workshops are 9:45am - 3:30pm and include lunch, drinks and snacks. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Free places are available for those eligible for benefit related free school meals. Unsure if you’re eligible? For guidance visit www.gov.uk/apply-free-school-meals.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'For more information on each workshop and our brilliant artists, '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
+              href: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
               rel: null
               target: _blank
               title: null
-          -
-            type: underline
-        text: 'The Blank Page Project'
+        text: 'please visit our website'
       -
         type: text
         text: .
@@ -168,7 +193,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+        text: 'Workshop Schedule -'
   -
     type: paragraph
     attrs:
@@ -176,7 +201,7 @@ content_area:
     content:
       -
         type: text
-        text: "The workshop will start with participants taking original photos that represent their unique perspective, using books from the library, and any imagery they like. We will then manipulate the images and work them into a series, layering them together. \_"
+        text: 'December: Create Your Own Graphic Tee Using Typography with Printmaker Sarah Nkugwa '
   -
     type: paragraph
     attrs:
@@ -184,19 +209,26 @@ content_area:
     content:
       -
         type: text
-        text: 'In the second part of the workshop, we will explore creating animation through our photo series, ripping up the images to reveal each layer, making a time-lapse film. Lastly, we will be adding sound effects to enhance the visual experience of our artwork.'
+        text: '29 December: Learn How to Write a Song with Musician Charlie Law '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '2 January: Make Your Own Unique Keychain with Crocheter Clare Sams'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742835258
+  [0345 60 630 60](tel:03456063060)
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1763558110
 duplicated_from: f522fe47-08e9-4a04-ae42-631514069a8f
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/photography-animation-with-gillian-allard'
-published: false
+booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
