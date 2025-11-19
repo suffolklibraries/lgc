@@ -1,13 +1,13 @@
 ---
 id: 80f00cf4-ae05-42b1-abb6-4c4f14f0f023
 blueprint: events
-title: 'Creative Cauldrons at Lowestoft Library'
+title: 'Twelve Yuletide Yarns at Lowestoft Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759219139
+updated_at: 1763557076
 latitude: '52.47693008464241'
 longitude: '1.7503664745347964'
-start_date: '2025-10-28 11:00'
+start_date: '2025-12-07 12:00'
 event_categories:
   - literature
   - family-friendly
@@ -20,7 +20,7 @@ address_line_2: 'Clapham Road South'
 town: Lowestoft
 postcode: 'NR32 1DR'
 featured_image: suffolklibrariesimages/creative-cauldrons-3x2.png
-attendance_information: 'Suitable for children aged 4+'
+attendance_information: 'Suitable for all the family, especially children aged 4+.'
 content_area:
   -
     type: paragraph
@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Funnelwick Limb needs your help to create their new show, Twelve Yuletime Yarns. A carrot has escaped from a school kitchen and is off on an adventure. Where will it go? Who will it meet? What will it do?'
+        text: 'Twelve Yuletide Yarns is a big-hearted and hilarious journey into the magic of winter. This chaotic and utterly joyful show weaves together a mix of winter stories and poetry, promising an epic adventure where imagination (and escaping carrots!) run wild. A show where joy meets relentless novelty!'
   -
     type: paragraph
     attrs:
@@ -37,37 +37,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Come to the library on Tuesday 28 October to help us build the story. You will get a chance to make your own carrot puppet, create an adventure story for it or take one of Funnelwick Limb’s story for a walk! We have two sessions available: 11:00 – 13:00 and 14:00 – 16:00.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        marks:
+          -
+            type: bold
+        text: 'Booking is required.'
       -
         type: text
-        text: 'This is a free drop-in session no booking required. Suitable for children aged 4+.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Click '
+        text: ' This event is completely free but spaces are limited. Book your tickets on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/events/creative-cauldrons-at-lowestoft-library/'
-              rel: null
+              href: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
+              rel: noopener
               target: _blank
               title: null
-        text: 'here to visit the Suffolk Community Libraries website'
+        text: 'Eastern Angles website →'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' and find out more.'
+        text: 'We have two times available – 12:00 and 14:00. Performances last approx. an hour.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This show is brought to you by the creative team at Funnelwick Limb.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -80,7 +83,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
   - 'Relaxed performance'
-end_date: '2025-10-28 16:00'
+end_date: '2025-12-07 15:00'
 duplicated_from: 73e351a7-7933-4269-ba74-1e26369fee8b
 directions:
   -
@@ -189,6 +192,6 @@ directions:
         type: text
         text: .
 building_name: 'Lowestoft Library'
-published: false
+booking_link: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
 ---
-Help a runaway carrot!
+Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
