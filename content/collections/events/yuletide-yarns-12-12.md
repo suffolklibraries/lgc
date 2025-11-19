@@ -1,13 +1,13 @@
 ---
 id: 82074bbe-e233-4c3a-ac59-654d641ab371
 blueprint: events
-title: 'Creative Cauldrons at Bury St Edmunds Library'
+title: 'Twelve Yuletide Yarns at Bury St Edmunds Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759218939
+updated_at: 1763557225
 latitude: '52.248150770555625'
 longitude: '0.7114614702830845'
-start_date: '2025-10-29 11:00'
+start_date: '2025-12-12 11:00'
 event_categories:
   - family-friendly
   - theatre-and-performance
@@ -20,7 +20,7 @@ address_line_2: "2B St Andrew's Street North"
 town: 'Bury Saint Edmunds'
 postcode: 'IP33 1TZ'
 featured_image: suffolklibrariesimages/creative-cauldrons-3x2.png
-attendance_information: 'Suitable for children aged 4+'
+attendance_information: 'Suitable for all the family, especially children aged 4+.'
 content_area:
   -
     type: paragraph
@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Funnelwick Limb needs your help to create their new show, Twelve Yuletime Yarns. A carrot has escaped from a school kitchen and is off on an adventure. Where will it go? Who will it meet? What will it do?'
+        text: 'Twelve Yuletide Yarns is a big-hearted and hilarious journey into the magic of winter. This chaotic and utterly joyful show weaves together a mix of winter stories and poetry, promising an epic adventure where imagination (and escaping carrots!) run wild. A show where joy meets relentless novelty!'
   -
     type: paragraph
     attrs:
@@ -37,37 +37,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Come to the library on Wednesday 29 October to help us build the story. You will get a chance to make your own carrot puppet, create an adventure story for it or take one of Funnelwick Limb’s story for a walk! We have two sessions available: 11:00 – 13:00 and 14:00 – 16:00.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        marks:
+          -
+            type: bold
+        text: 'Booking is required.'
       -
         type: text
-        text: 'This is a free drop-in session no booking required. Suitable for children aged 4+.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: Click
+        text: ' This event is completely free but spaces are limited. Book your tickets on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/events/creative-cauldrons-at-bury-st-edmunds-library/'
-              rel: null
+              href: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
+              rel: noopener
               target: _blank
               title: null
-        text: ' here to visit the Suffolk Community Libraries website'
+        text: 'Eastern Angles website →'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' and find out more.'
+        text: 'We have two times available – 15:45 and 17:30. Performances last approx. an hour.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This show is brought to you by the creative team at Funnelwick Limb.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -81,7 +84,7 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Relaxed performance'
   - 'Drop-in event'
-end_date: '2025-10-29 16:00'
+end_date: '2025-12-12 16:00'
 duplicated_from: 8fd66c21-b616-4ef9-b4c4-848705fb8696
 building_name: 'Bury St Edmunds Library'
 directions:
@@ -193,6 +196,6 @@ directions:
       -
         type: text
         text: .
-published: false
+booking_link: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
 ---
-Help a runaway carrot!
+Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
