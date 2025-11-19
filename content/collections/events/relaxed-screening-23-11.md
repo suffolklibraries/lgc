@@ -1,7 +1,7 @@
 ---
 id: 65e1eb0a-1850-4cab-91ac-dcb2f6c8cc22
 blueprint: events
-title: 'Lilo &Stitch'
+title: Smurfs
 event_categories:
   - early-years
   - community
@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-09-28 10:30'
-end_date: '2025-09-28 12:00'
+start_date: '2025-11-23 10:30'
+end_date: '2025-11-23 12:00'
 free: false
 virtual: false
 latitude: '52.18522719751638'
@@ -27,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.'
+        text: "When evil wizards Razamel and Gargamel take Papa\_Smurf, the\_Smurfs\_embark on a mission to the real world to save him. With help from some new friends, they must discover what defines their destiny to save the universe."
   -
     type: paragraph
     attrs:
@@ -57,7 +57,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758644303
+updated_at: 1763570384
 duplicated_from: dfba43ea-4739-4b22-b266-eb6eaa0767b4
 accessibility_information:
   - 'Wheelchair accessible'
@@ -148,7 +148,6 @@ directions:
         type: text
         text: .
 cost_details: '£5 per person'
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=9823397'
-published: false
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10399910'
 ---
 A relaxed and family friendly screening.
