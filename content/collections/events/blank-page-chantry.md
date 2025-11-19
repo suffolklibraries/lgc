@@ -1,14 +1,13 @@
 ---
 id: f710d11e-c6d2-4c35-ab0f-c8e01ea70965
-published: false
 blueprint: events
 title: 'Blank Page - Chantry'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1720007121
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1763558828
 latitude: '52.04421576122085'
 longitude: '1.1204861971073565'
-start_date: '2024-07-22 09:45'
+start_date: '2025-12-22 09:45'
 event_categories:
   - art
   - computing
@@ -16,110 +15,150 @@ event_categories:
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
-address_line_1: 'Chantry Library'
+  - suffolk-community-libraries
 address_line_2: 'Hawthorn Drive'
 town: Ipswich
 postcode: 'IP2 0QY'
 featured_image: offthepressimages/new_resized_images/Teen.png
-attendance_information: '- Ages 10 - 16'
+attendance_information: 'ages 10 - 16'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Join us at Chantry Library for a variety of creative workshops throughout the winter holidays for 10-16 year olds!'
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Blank Page activities give 10-16 year olds the chance to express their creativity through a range of mediums. Each activity day will run from 9.45AM to 3.30PM and will include a free lunch. '
+        text: ' '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: "You can book onto as many workshops as you'd like – all workshops are designed to offer something different."
+        marks:
+          -
+            type: bold
+        text: 'Workshops are 9:45am - 3:30pm and include lunch, drinks and snacks. '
   -
     type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'Blank Page workshops are taking place in libraries across Suffolk. Visit the '
+        text: 'Free places are available for those eligible for benefit related free school meals. Unsure if you’re eligible? For guidance visit www.gov.uk/apply-free-school-meals.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'For more information on each workshop and our brilliant artists, '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
+              href: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Libraries website'
-      -
-        type: text
-        text: ' to find your nearest event.'
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'How to book'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Choose your workshop and book your place through the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Libraries website'
+        text: 'please visit our website'
       -
         type: text
         text: .
   -
-    type: heading
+    type: paragraph
     attrs:
-      level: 3
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
-        text: 'How to get there'
+        marks:
+          -
+            type: bold
+        text: 'Workshop Schedule -'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '22 December: Harness Your Imagination through Illustration with Designer Lucy Stuteley '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '29 December: Mood Books - Create Your Own Book Using Collage and Graphic Design with Artist Michelle Brace'
+cta: |-
+  This event is organised by Suffolk Community Libraries
+
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
+
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
+
+  [0345 60 630 60](tel:03456063060)
+accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Accessible toilets'
+  - 'Accessible parking spaces'
+  - 'Relaxed performance'
+end_date: '2025-12-29 15:30'
+duplicated_from: 73e351a7-7933-4269-ba74-1e26369fee8b
+booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
+building_name: 'Chantry Library'
+directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Chantry Library has on site car parking and the nearest'
+        text: 'Sudbury Library has on site car parking, and the nearest'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.com/maps/dir/Chantry+Library,+Hawthorn+Drive,+Ipswich/Gannet+Road,+Ipswich+IP2+0RG/@52.0445697,1.1176758,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47d9a05ba53ec9f9:0xf529ee657a4c5fa4!2m2!1d1.1204446!2d52.0441147!1m5!1m1!1s0x47d9a05bb691000f:0xabfcf2882ebddfdb!2m2!1d1.120213!2d52.044983!3e2?entry=ttu'
+              href: 'https://www.google.com/maps/place/Cotman+Road/@52.0347317,1.1796921,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d99fea5af611b5:0x4718b94a3008c570!2sGainsborough+Community+Library,+Clapgate+Ln,+Ipswich+IP3+0RL!2m2!1d1.1827311!2d52.0342691!1m6!1m2!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!2sCotman+Road,+Ipswich+IP3+0RG!2m2!1d1.181868!2d52.035336!3e2!3m5!1s0x47d99feb18d504d7:0xba3c4c99e783cda6!8m2!3d52.035336!4d1.181868!16s%2Fg%2F1q67rd9sc?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: ' bus stop'
+        text: ' '
       -
         type: text
-        text: " is a minute's walk away."
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.google.co.uk/maps/place/Gannet+Road/@52.0441564,1.1179113,17z/data=!4m14!1m7!3m6!1s0x47d9a05ba53ec9f9:0xf529ee657a4c5fa4!2sChantry+Library!8m2!3d52.0441564!4d1.1204862!16s%2Fg%2F1thwzq6q!3m5!1s0x47d9a05bb691000f:0xabfcf2882ebddfdb!8m2!3d52.044983!4d1.120213!16s%2Fg%2F1q67vjr8w?entry=ttu&g_ep=EgoyMDI1MTExNi4wIKXMDSoASAFQAw%3D%3D'
+              rel: null
+              target: _blank
+              title: null
+        text: 'bus stop '
+      -
+        type: text
+        text: 'is on Gannet Road, which is a two-minute walk away.'
   -
     type: paragraph
     content:
@@ -140,20 +179,5 @@ content_area:
       -
         type: text
         text: .
-cta: |-
-  This event is organised by Suffolk Libraries
-
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
-
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
-
-  [01473 351249](tel:01473351249)
-accessibility_information: |-
-  - Wheelchair access
-  - Indoor venue
-  - SEND support available
-end_date: '2024-08-15 15:30'
-duplicated_from: 73e351a7-7933-4269-ba74-1e26369fee8b
-booking_link: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
 ---
-The Blank Page Project is an exciting programme providing free high-quality creative activities run by local artists in libraries during the school holidays!
+High-quality creative activities run by local artists in libraries during the school holidays!
