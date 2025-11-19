@@ -2,7 +2,7 @@
 id: 56e0cc78-748a-416e-b04d-f3cda005c559
 published: false
 blueprint: events
-title: 'Blank Page - Bury St Edmunds (Duplicated)'
+title: 'Blank Page - Lowestoft'
 event_categories:
   - family-friendly
   - art
@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-community-libraries
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-12-29 09:45'
-end_date: '2026-01-02 15:30'
+start_date: '2025-12-22 09:45'
+end_date: '2025-12-23 15:30'
 free: true
 virtual: false
 attendance_information: 'children aged 10 to 16'
@@ -19,7 +19,7 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.248150770555625'
+latitude: '52.47693008464241'
 longitude: '0.7114614702830845'
 building_name: 'Bury St Edmunds Library'
 address_line_1: "2B St Andrew's Street North"
@@ -228,7 +228,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763558257
+updated_at: 1763558901
 duplicated_from: 5593ea38-3165-4eb2-a6d4-dfc6f9872a13
 booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
 ---
