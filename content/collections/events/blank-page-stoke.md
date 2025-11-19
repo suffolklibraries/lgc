@@ -1,8 +1,7 @@
 ---
 id: 58d84a61-253a-41a7-87d1-f7b41bc29f03
-published: false
 blueprint: events
-title: 'Blank Page - Lowestoft (Duplicated)'
+title: 'Blank Page - Stoke'
 event_categories:
   - family-friendly
   - art
@@ -10,7 +9,7 @@ event_categories:
 organisers:
   - suffolk-community-libraries
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-12-22 09:45'
+start_date: '2025-12-23 09:45'
 end_date: '2025-12-23 15:30'
 free: true
 virtual: false
@@ -19,97 +18,55 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.47693008464241'
-longitude: '1.7503664745347964'
-building_name: 'Lowestoft Library'
+latitude: '52.04301365935703'
+longitude: '1.1477817472449054'
+building_name: 'Stoke Library'
 town: Lowestoft
-postcode: 'NR32 1DR'
+postcode: 'IP2 8PL'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Lowestoft '
+        text: 'The '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
+              href: 'https://www.google.co.uk/maps/dir/Stoke+Library/Pembroke+Close,+Ipswich+IP2+8NZ/@52.0429571,1.1452093,17z/data=!4m14!4m13!1m5!1m1!1s0x47d9a03b45c05311:0x9d5ff02603a2ff69!2m2!1d1.1477842!2d52.0429571!1m5!1m1!1s0x47d9a03b374f0157:0x3baca37dcc6ed209!2m2!1d1.148271!2d52.044071!3e2?entry=ttu&g_ep=EgoyMDI1MTExNi4wIKXMDSoASAFQAw%3D%3D'
               rel: null
               target: _blank
               title: null
-        text: 'railway station'
+        text: 'nearest bus stop'
       -
         type: text
-        text: ' is a seven minute walk away, and the'
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.google.co.uk/maps/place/Lowestoft+bus+station/@52.4770576,1.7497725,18z/data=!4m24!1m15!4m14!1m6!1m2!1s0x47da1af4dc6a0171:0xa9d78eb97007c720!2sLowestoft+Library!2m2!1d1.7503366!2d52.4768238!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+bus+station,+Lowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3m7!1s0x47da1af56d372b2b:0x7065be204d63f941!6m1!1v5!8m2!3d52.4773506!4d1.7519173!16s%2Fg%2F1q67mdqrk?entry=ttu'
-              rel: null
-              target: _blank
-              title: null
-        text: ' bus station'
-      -
-        type: text
-        text: ' is a three minute walk away.'
+        text: ' is on Pembroke Close, a two-minute walk away.'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'The nearest car park is a one minute walk away at '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://en.parkopedia.co.uk/parking/carpark/clapham_road/nr32/east_suffolk/?arriving=202404111030&leaving=202404111230'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Clapham Road car park'
-      -
-        type: text
-        text: ' or a three minute walk away at the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://brittencentre.co.uk/getting-here/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Britten Centre'
-      -
-        type: text
-        text: .
+        text: 'Onsite parking is available on school site (unavailable between 14:45-15:15 due to school pickup times).'
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Find accessibility information for '
+        text: 'You can find more access information for Stoke Library on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.accessable.co.uk/venues/lowestoft-library#224575f8-3516-404e-b08b-2b948939e7ad'
+              href: 'https://www.accessable.co.uk/suffolk-county-council/access-guides/stoke-library'
               rel: null
               target: _blank
               title: null
-        text: 'Lowestoft Library using AccessAble.'
+        text: 'AccessAble website.'
   -
     type: paragraph
     content:
@@ -202,15 +159,7 @@ content_area:
     content:
       -
         type: text
-        text: '22 December: Build a Time Capsule Workshop with Artist and Poet Emma Rogerson '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: '23 December: Create Your Own Animated Character with Illustrator Eloise Cookson'
+        text: 'Star or Wreath Mosaic Decoration with Ceramicist Emma Jayne Robertson'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -220,9 +169,9 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763558966
+updated_at: 1763559449
 duplicated_from: 56e0cc78-748a-416e-b04d-f3cda005c559
 booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
-address_line_2: 'Clapham Road South'
+address_line_2: 'Maidenhall Approach'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
