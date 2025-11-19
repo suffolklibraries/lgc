@@ -1,8 +1,7 @@
 ---
 id: 0a66b9bc-6e62-428f-a58b-9b848373e995
-published: false
 blueprint: events
-title: 'Smurfs (Duplicated)'
+title: 'Relaxed Screening - Polar Express'
 event_categories:
   - early-years
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-11-23 10:30'
-end_date: '2025-11-23 12:00'
+start_date: '2025-11-30 10:30'
+end_date: '2025-11-30 12:00'
 free: false
 virtual: false
 latitude: '52.18522719751638'
@@ -28,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: "When evil wizards Razamel and Gargamel take Papa\_Smurf, the\_Smurfs\_embark on a mission to the real world to save him. With help from some new friends, they must discover what defines their destiny to save the universe."
+        text: "A young boy who has grown sceptical of Santa Claus is shocked to see a train stop outside his window on Christmas Eve, destined for the North Pole. When he accepts an invitation from the conductor to climb on board, he embarks on a white-knuckle ride to Santa's headquarters, where he makes fast friends and learns an invaluable lesson about the true spirit of Christmas."
   -
     type: paragraph
     attrs:
@@ -58,7 +57,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763570384
+updated_at: 1763570440
 duplicated_from: 65e1eb0a-1850-4cab-91ac-dcb2f6c8cc22
 accessibility_information:
   - 'Wheelchair accessible'
@@ -149,6 +148,6 @@ directions:
         type: text
         text: .
 cost_details: '£5 per person'
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10399910'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10404570'
 ---
 A relaxed and family friendly screening.
