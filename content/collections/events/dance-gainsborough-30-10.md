@@ -1,5 +1,6 @@
 ---
 id: a713be71-2476-4333-b632-037ffc709702
+published: false
 blueprint: events
 title: 'Dance Workshop at Gainsborough Community Library'
 event_categories:
@@ -145,8 +146,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756719796
+updated_at: 1763559537
 duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
-published: false
 ---
 Explore a range of African and Carribean dance styles.
