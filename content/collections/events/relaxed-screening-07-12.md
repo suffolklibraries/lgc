@@ -1,8 +1,7 @@
 ---
 id: 7dcc98f5-f20a-411e-b0a6-9e40e9381c2d
-published: false
 blueprint: events
-title: 'Relaxed Screening - Smurfs (Duplicated)'
+title: 'Relaxed Screening - The Nightmare Before Christmas'
 event_categories:
   - early-years
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-11-23 10:30'
-end_date: '2025-11-23 12:00'
+start_date: '2025-12-07 10:30'
+end_date: '2025-12-07 12:00'
 free: false
 virtual: false
 latitude: '52.18522719751638'
@@ -28,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: "When evil wizards Razamel and Gargamel take Papa\_Smurf, the\_Smurfs\_embark on a mission to the real world to save him. With help from some new friends, they must discover what defines their destiny to save the universe."
+        text: 'The film follows the misadventures of Jack Skellington, Halloweentown''s beloved pumpkin king, who has become bored with the same annual routine of frightening people in the "real world." When Jack accidentally stumbles on Christmastown, all bright colours and warm spirits, he gets a new lease on life -- he plots to bring Christmas under his control by kidnapping Santa Claus and taking over the role. But Jack soon discovers even the best-laid plans of mice and skeleton men can go seriously awry.'
   -
     type: paragraph
     attrs:
@@ -58,7 +57,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763570454
+updated_at: 1763570519
 duplicated_from: 65e1eb0a-1850-4cab-91ac-dcb2f6c8cc22
 accessibility_information:
   - 'Wheelchair accessible'
@@ -149,6 +148,6 @@ directions:
         type: text
         text: .
 cost_details: '£5 per person'
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10399910'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10404809'
 ---
 A relaxed and family friendly screening.
