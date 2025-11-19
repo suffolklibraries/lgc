@@ -1,6 +1,5 @@
 ---
 id: 56e0cc78-748a-416e-b04d-f3cda005c559
-published: false
 blueprint: events
 title: 'Blank Page - Lowestoft'
 event_categories:
@@ -20,43 +19,76 @@ accessibility_information:
   - 'Autism friendly'
   - 'Accessible toilets'
 latitude: '52.47693008464241'
-longitude: '0.7114614702830845'
-building_name: 'Bury St Edmunds Library'
-address_line_1: "2B St Andrew's Street North"
-town: 'Bury St Edmunds'
-postcode: 'IP33 1TZ'
+longitude: '1.7503664745347964'
+building_name: 'Lowestoft Library'
+town: Lowestoft
+postcode: 'NR32 1DR'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
+        text: 'Lowestoft '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/lwt'
               rel: null
               target: _blank
               title: null
-        text: 'Suffolk Onboard website'
+        text: 'railway station'
       -
         type: text
-        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
+        text: ' is a seven minute walk away, and the'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
+              href: 'https://www.google.co.uk/maps/place/Lowestoft+bus+station/@52.4770576,1.7497725,18z/data=!4m24!1m15!4m14!1m6!1m2!1s0x47da1af4dc6a0171:0xa9d78eb97007c720!2sLowestoft+Library!2m2!1d1.7503366!2d52.4768238!1m6!1m2!1s0x47da1af56d372b2b:0x7065be204d63f941!2sLowestoft+bus+station,+Lowestoft+NR32+1NL!2m2!1d1.7519173!2d52.4773506!3m7!1s0x47da1af56d372b2b:0x7065be204d63f941!6m1!1v5!8m2!3d52.4773506!4d1.7519173!16s%2Fg%2F1q67mdqrk?entry=ttu'
               rel: null
               target: _blank
               title: null
-        text: 'Greater Anglia website'
+        text: ' bus station'
+      -
+        type: text
+        text: ' is a three minute walk away.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'The nearest car park is a one minute walk away at '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://en.parkopedia.co.uk/parking/carpark/clapham_road/nr32/east_suffolk/?arriving=202404111030&leaving=202404111230'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Clapham Road car park'
+      -
+        type: text
+        text: ' or a three minute walk away at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://brittencentre.co.uk/getting-here/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Britten Centre'
       -
         type: text
         text: .
@@ -65,55 +97,18 @@ directions:
     content:
       -
         type: text
-        text: 'There is car parking at the '
+        text: 'Find accessibility information for '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              href: 'https://www.accessable.co.uk/venues/lowestoft-library#224575f8-3516-404e-b08b-2b948939e7ad'
               rel: null
               target: _blank
               title: null
-        text: 'Arc shopping centre'
-      -
-        type: text
-        text: ', which a six minute walk away from the library, and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
-              rel: null
-              target: _blank
-              title: null
-        text: 'St Andrews Flexi-Stay car park'
-      -
-        type: text
-        text: ', which is a five minute walk.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for Bury St Edmunds Library on '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
-              rel: null
-              target: _blank
-              title: null
-        text: AccessAble
-      -
-        type: text
-        text: '. '
+        text: 'Lowestoft Library using AccessAble.'
   -
     type: paragraph
     content:
@@ -142,7 +137,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at Bury St Edmunds Library for a variety of creative workshops this winter holidays for 10-16 year olds! '
+        text: 'Join us at Lowestoft Library for a variety of creative workshops this winter holidays for 10–16-year-olds! '
   -
     type: paragraph
     attrs:
@@ -188,6 +183,10 @@ content_area:
     type: paragraph
     attrs:
       textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -202,7 +201,7 @@ content_area:
     content:
       -
         type: text
-        text: '29 December: Book Binding Workshop with Hazel Garrity '
+        text: '22 December: Build a Time Capsule Workshop with Artist and Poet Emma Rogerson '
   -
     type: paragraph
     attrs:
@@ -210,15 +209,7 @@ content_area:
     content:
       -
         type: text
-        text: '30 December: Make Your Own Short Film Using 2D Stop Frame Animation with Artist Lulu Horsfield '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: '2 January: Music and Visual Arts Workshop with Creative Duo Ben Brown and Catalina Carvajal'
+        text: '23 December: Create Your Own Animated Character with Illustrator Eloise Cookson'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -228,8 +219,9 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763558901
+updated_at: 1763558966
 duplicated_from: 5593ea38-3165-4eb2-a6d4-dfc6f9872a13
 booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
+address_line_2: 'Clapham Road South'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
