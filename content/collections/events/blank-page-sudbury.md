@@ -1,22 +1,17 @@
 ---
 id: 46578f2b-d22b-4f9e-a201-837fb3667ee6
 blueprint: events
-title: 'The Mushroom Show'
+title: 'Blank Page - Sudbury'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756378079
+updated_at: 1763558443
 latitude: '52.038186464611634'
 longitude: '0.7299956222161745'
-start_date: '2025-10-27 15:30'
+start_date: '2025-12-23 09:45'
 event_categories:
   - languages
-  - nature
-  - family-friendly
-  - music
-  - theatre-and-performance
-  - literature
-  - early-years
   - teen
+  - family-friendly
 free: true
 virtual: false
 organisers:
@@ -24,8 +19,8 @@ organisers:
 address_line_2: 'Market Hill'
 town: Sudbury
 postcode: 'CO10 2EN'
-featured_image: "suffolklibrariesimages/the-mushroom-show---photo-credit-'becky-rui-photography'-(3)---resize.jpg"
-attendance_information: 'Suitable for ages 5+'
+featured_image: pelicanpelican-3x2/teen-(1).png
+attendance_information: 'Suitable for ages 10 - 16 years'
 content_area:
   -
     type: paragraph
@@ -34,10 +29,11 @@ content_area:
     content:
       -
         type: text
-        marks:
-          -
-            type: bold
-        text: 'Welcome to… THE MUSHROOM SHOW!'
+        text: 'Join us at Sudbury Library for a variety of creative workshops this winter holidays for 10-16 year olds! '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
   -
     type: paragraph
     attrs:
@@ -45,53 +41,71 @@ content_area:
     content:
       -
         type: text
-        text: 'Augustine Fogwoode might be the world’s MOST enthusiastic mushroom enthusiast! She is on a quest to make sure everyone knows about the brilliance of fungi: their scientific superpowers and amazing abilities. But it’s just her and her puppet friend Goldie. She might just need a few more fun-guys to make it happen. Join the party and discover how fungi grow, connect and help the natural world, including us humans. Packed full of interactive games, playful music and lots of laughs for all the family, The Mushroom Show is one person’s mission to build a community… and maybe it’ll become your mission too?'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
         marks:
           -
             type: bold
-        text: "Free to attend but booking is required. Please book a ticket for everyone in your family, including adults.\_"
+        text: 'Workshops are 9:45am - 3:30pm and include lunch, drinks and snacks. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        text: 'Book your ticket at the front desk of Sudbury Library or '
+        text: 'Free places are available for those eligible for benefit related free school meals. Unsure if you’re eligible? For guidance visit www.gov.uk/apply-free-school-meals.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'For more information on each workshop and our brilliant artists, '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/suffolk-community-libraries/the-mushroom-show-at-sudbury-library/2025-10-27/15:30/t-rperone'
-              rel: noopener
+              href: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
+              rel: null
               target: _blank
               title: null
-          -
-            type: bold
-        text: 'online on TicketSource'
+        text: 'please visit our website'
       -
         type: text
         text: .
   -
     type: paragraph
     attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Critically acclaimed Scratchworks Theatre fuses their signature style of physical comedy, audience interaction and family theatre with the world of fungi. Award winning Scratchworks Theatre Company brings together science, music and participatory activities for whole families to experience together. Suitable for ages 5+.'
+      textAlign: left
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Supported by Arts Council England, Doorstep Arts, Libraries Unlimited, Beaford, Theatre Alibi and Unity Theatre Trust. Developed in consultation with research partners and funding from the University of Plymouth.'
+        marks:
+          -
+            type: bold
+        text: 'Workshop Schedule -'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '23 December: Design and Print Your Own T-Shirt with Designer Holly Schofield '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '30 December: Create Your Own Book Using Collage and Graphic Design with Artist Michelle Brace'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -103,9 +117,10 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-end_date: '2025-10-27 16:30'
+  - 'Relaxed performance'
+end_date: '2025-12-30 15:30'
 duplicated_from: 0058a47c-04ea-466e-b9d7-50f9256b5673
-booking_link: 'https://suffolkcommunitylibraries.co.uk/events/the-mushroom-show-at-sudbury-library/'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
 building_name: 'Sudbury Library'
 directions:
   -
@@ -188,6 +203,5 @@ directions:
       -
         type: text
         text: .
-published: false
 ---
-There’s a secret kingdom full of mysteries… A whole world of strange, smelly and surprising life… And they’re all around us!
+High-quality creative activities run by local artists in libraries during the school holidays!
