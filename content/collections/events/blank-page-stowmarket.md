@@ -3,11 +3,11 @@ id: 901425aa-4fd4-4458-8823-a25c990a2f2a
 blueprint: events
 title: 'Blank Page - Stowmarket'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1742835281
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1763559093
 latitude: '52.187988733605216'
 longitude: '0.9971791124598641'
-start_date: '2025-04-09 09:45'
+start_date: '2025-12-31 09:45'
 event_categories:
   - art
   - teen
@@ -15,8 +15,7 @@ event_categories:
 free: true
 virtual: false
 organisers:
-  - suffolk-libraries
-address_line_1: 'Stowmarket Library'
+  - suffolk-community-libraries
 address_line_2: 'Milton Road North'
 town: Stowmarket
 postcode: 'IP14 1EX'
@@ -30,23 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join professional sculptor Emma Denby for this creative workshop for 10-16 year olds at Stowmarket Library. Learn how to use clay to sculpt your creations and cast them into a final piece. This workshop is part of '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolklibraries.co.uk/resources/the-blank-page-project'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: 'The Blank Page Project'
-      -
-        type: text
-        text: .
+        text: 'Join us at Stowmarket Library for a variety of creative workshops throughout the winter holidays for 10-16 year olds! '
   -
     type: paragraph
     attrs:
@@ -57,7 +40,7 @@ content_area:
         marks:
           -
             type: bold
-        text: 'Workshops take place from 9.45AM to 3.30PM and include lunch, drinks and snacks!'
+        text: 'Workshops are 9:45am - 3:30pm and include lunch, drinks and snacks. '
   -
     type: paragraph
     attrs:
@@ -65,7 +48,7 @@ content_area:
     content:
       -
         type: text
-        text: "This workshop introduces participants to the process of using clay to sculpt sculptures and using silicone and Jesmonite to cast them into a final piece. We will also explore using Jesmonite with pre-made moulds and will develop a variety of casting techniques. \_"
+        text: 'Free places are available for those eligible for benefit related free school meals. Unsure if you’re eligible? For guidance visit www.gov.uk/apply-free-school-meals.'
   -
     type: paragraph
     attrs:
@@ -73,22 +56,59 @@ content_area:
     content:
       -
         type: text
-        text: "Exploring a variety of artistic techniques, Emma will be leading participants through creative ways of building sculpture, whilst using specialist skills such as moulding and casting. Using pre-made moulds, different techniques used to create swirly patterns, abstract shapes and bright colours will be explored. Participants will take away their own sculptures cast in Jesmonite, along with coasters or candle holders which they decorate in their own way. \_"
+        text: 'For more information on each workshop and our brilliant artists, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
+              rel: null
+              target: _blank
+              title: null
+        text: 'please visit our website'
+      -
+        type: text
+        text: .
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Workshop Schedule -'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: '31 December: Learn How to Illustrate Your Own Characters with Animator Dex Legon'
 cta: |-
-  This event is organised by Suffolk Libraries
+  This event is organised by Suffolk Community Libraries
 
-  [https://www.suffolklibraries.co.uk/](https://www.suffolklibraries.co.uk/) 
+  [https://suffolkcommunitylibraries.co.uk/](https://suffolkcommunitylibraries.co.uk/) 
 
-  [help@suffolklibraries.co.uk](mailto:help@suffolklibraries.co.uk)
+  [library.help@suffolk.gov.uk](mailto:library.help@suffolk.gov.uk)
 
-  [01473 351249](tel:01473351249)
+  [0345 60 630 60](tel:03456063060)
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-end_date: '2025-04-09 15:30'
+end_date: '2025-12-31 15:30'
 duplicated_from: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
-booking_link: 'https://www.suffolklibraries.co.uk/events/events/sculpture-casting-creations-workshop-with-emma-denby'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
 directions:
   -
     type: paragraph
@@ -184,6 +204,6 @@ directions:
       -
         type: text
         text: .
-published: false
+building_name: 'Stowmarket Library'
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
