@@ -1,8 +1,7 @@
 ---
 id: 5593ea38-3165-4eb2-a6d4-dfc6f9872a13
-published: false
 blueprint: events
-title: 'Blank Page - Ipswich (Duplicated)'
+title: 'Blank Page - Bury St Edmunds'
 event_categories:
   - family-friendly
   - art
@@ -10,7 +9,7 @@ event_categories:
 organisers:
   - suffolk-community-libraries
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-12-22 09:45'
+start_date: '2025-12-29 09:45'
 end_date: '2026-01-02 15:30'
 free: true
 virtual: false
@@ -19,101 +18,101 @@ accessibility_information:
   - 'Wheelchair accessible'
   - 'Autism friendly'
   - 'Accessible toilets'
-latitude: '52.05888302273206'
-longitude: '1.1563992273587602'
-building_name: 'Ipswich County Library'
-address_line_1: 'Northgate Street'
-town: Ipswich
-postcode: 'IP1 3DE'
+latitude: '52.248150770555625'
+longitude: '0.7114614702830845'
+building_name: 'Bury St Edmunds Library'
+address_line_1: "2B St Andrew's Street North"
+town: 'Bury St Edmunds'
+postcode: 'IP33 1TZ'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'Ipswich '
+        text: "The nearest bus stop is a minute's walk away, and you can access up-to-date timetables on the "
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.greateranglia.co.uk/travel-information/station-information/ips'
+              href: 'https://www.suffolkonboard.com/ways-to-travel/bus/bus-timetables/'
               rel: null
               target: _blank
               title: null
-        text: 'railway station'
+        text: 'Suffolk Onboard website'
       -
         type: text
-        text: ' is a 21 minute walk away from the library, and the '
+        text: '.  Bury St Edmunds railway station is a 12 minute walk away and you can find the train times on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.google.co.uk/maps/place/Tower+Ramparts+bus+station/@52.0590456,1.1530657,17z/data=!4m23!1m16!4m15!1m6!1m2!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!2sTower+Ramparts+bus+station,+Ipswich!2m2!1d1.154715!2d52.059341!1m6!1m2!1s0x47d9a1d4b1ce6d1f:0xd66f77daa10f45b6!2sCounty+Library,+Northgate+St,+Ipswich+IP1+3DE!2m2!1d1.1565145!2d52.0587199!3e2!3m5!1s0x47d9a1d34396d717:0xe270c06e32b8a13f!8m2!3d52.059341!4d1.154715!16s%2Fg%2F1q67cvcv8?entry=ttu'
+              href: 'https://www.greateranglia.co.uk/travel-information/station-information/bse'
               rel: null
               target: _blank
               title: null
-        text: 'Tower Ramparts bus station'
-      -
-        type: text
-        text: ' is a three minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'There are several nearby carparks, including '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ipswich.gov.uk/crowncarpark'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Crown Street car park'
-      -
-        type: text
-        text: ' a six minute walk away and the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.buttermarketipswich.com/Parking/'
-              rel: null
-              target: _blank
-              title: null
-        text: Buttermarket
-      -
-        type: text
-        text: ' a seven minute walk away.'
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        text: 'Find accessibility information for '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.accessable.co.uk/venues/ipswich-county-library'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Ipswich County Library using AccessAble'
+        text: 'Greater Anglia website'
       -
         type: text
         text: .
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'There is car parking at the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/cattle-market-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'Arc shopping centre'
+      -
+        type: text
+        text: ', which a six minute walk away from the library, and the '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.westsuffolk.gov.uk/parking/car_parks/bse_car_parks/st-andrews-short-stay-car-park.cfm'
+              rel: null
+              target: _blank
+              title: null
+        text: 'St Andrews Flexi-Stay car park'
+      -
+        type: text
+        text: ', which is a five minute walk.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Find accessibility information for Bury St Edmunds Library on '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.accessable.co.uk/venues/bury-st-edmunds-library'
+              rel: null
+              target: _blank
+              title: null
+        text: AccessAble
+      -
+        type: text
+        text: '. '
   -
     type: paragraph
     content:
@@ -142,7 +141,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us at Ipswich County Library for a variety of creative workshops this winter holidays for 10-16 year olds! '
+        text: 'Join us at Bury St Edmunds Library for a variety of creative workshops this winter holidays for 10-16 year olds! '
   -
     type: paragraph
     attrs:
@@ -202,7 +201,7 @@ content_area:
     content:
       -
         type: text
-        text: 'December: Create Your Own Graphic Tee Using Typography with Printmaker Sarah Nkugwa '
+        text: '29 December: Book Binding Workshop with Hazel Garrity '
   -
     type: paragraph
     attrs:
@@ -210,7 +209,7 @@ content_area:
     content:
       -
         type: text
-        text: '29 December: Learn How to Write a Song with Musician Charlie Law '
+        text: '30 December: Make Your Own Short Film Using 2D Stop Frame Animation with Artist Lulu Horsfield '
   -
     type: paragraph
     attrs:
@@ -218,7 +217,7 @@ content_area:
     content:
       -
         type: text
-        text: '2 January: Make Your Own Unique Keychain with Crocheter Clare Sams'
+        text: '2 January: Music and Visual Arts Workshop with Creative Duo Ben Brown and Catalina Carvajal'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -228,7 +227,7 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763558110
+updated_at: 1763558257
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
 booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
 ---
