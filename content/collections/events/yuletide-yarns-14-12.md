@@ -1,14 +1,14 @@
 ---
 id: 8856277a-84cc-44db-8244-38afec8984ac
 blueprint: events
-title: 'Creative Cauldrons at Ipswich County Library'
+title: 'Twelve Yuletide Yarns at Ipswich County Library'
 event_categories:
   - family-friendly
   - theatre-and-performance
   - literature
 featured_image: suffolklibrariesimages/creative-cauldrons-3x2.png
-start_date: '2025-11-02 11:00'
-end_date: '2025-11-02 15:30'
+start_date: '2025-12-14 11:00'
+end_date: '2025-12-14 15:30'
 free: true
 virtual: false
 accessibility_information:
@@ -139,7 +139,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Funnelwick Limb needs your help to create their new show, Twelve Yuletime Yarns. A carrot has escaped from a school kitchen and is off on an adventure. Where will it go? Who will it meet? What will it do?'
+        text: 'Twelve Yuletide Yarns is a big-hearted and hilarious journey into the magic of winter. This chaotic and utterly joyful show weaves together a mix of winter stories and poetry, promising an epic adventure where imagination (and escaping carrots!) run wild. A show where joy meets relentless novelty!'
   -
     type: paragraph
     attrs:
@@ -147,37 +147,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Come to the library on Sunday 2 November to help us build the story. You will get a chance to make your own carrot puppet, create an adventure story for it or take one of Funnelwick Limb’s story for a walk! We have two sessions available: 11:00 – 13:00 and 14:00 – 15:30.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        marks:
+          -
+            type: bold
+        text: 'Booking is required.'
       -
         type: text
-        text: 'This is a free drop-in session no booking required. Suitable for children aged 4+.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Click '
+        text: ' This event is completely free but spaces are limited. Book your tickets on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/events/creative-cauldrons-at-ipswich-county-library/'
-              rel: null
+              href: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
+              rel: noopener
               target: _blank
               title: null
-        text: 'here to visit the Suffolk Community Libraries website'
+        text: 'Eastern Angles website →'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' and find out more.'
+        text: 'We have two times available – 12:00 and 14:00. Performances last approx. an hour.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This show is brought to you by the creative team at Funnelwick Limb.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -187,11 +190,11 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759218779
+updated_at: 1763557458
 duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
   - suffolk-community-libraries
-attendance_information: 'Suitable for ages 4+'
-published: false
+attendance_information: 'Suitable for all the family, especially children aged 4+.'
+booking_link: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
 ---
-Help a runaway carrot!
+Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
