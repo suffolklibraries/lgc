@@ -1,8 +1,7 @@
 ---
 id: 3fe99d15-5d89-47ee-93c4-c5ac289d7da6
-published: false
 blueprint: events
-title: 'Relaxed Screening - How the Grinch Stole Christmas (Duplicated)'
+title: 'Relaxed Screening - Home Alone'
 event_categories:
   - early-years
   - community
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-regal
 featured_image: pelicanpelican-3x2/film_resized.png
-start_date: '2025-12-21 10:30'
-end_date: '2025-12-21 12:00'
+start_date: '2025-12-28 10:30'
+end_date: '2025-12-28 12:00'
 free: false
 virtual: false
 latitude: '52.18522719751638'
@@ -28,16 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: "In this live-action adaptation of the beloved children's tale by Dr. Seuss, the reclusive green "
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Grinch '
-      -
-        type: text
-        text: '(Jim Carrey) decides to ruin Christmas for the cheery citizens of Whoville. Reluctantly joined by his hapless dog, Max, the Grinch comes down from his mountaintop home and sneaks into town to swipe everything holiday-related from the Whos. However, the bitter grump finds a hitch in his plans when he encounters the endearing Cindy Lou Who (Taylor Momsen).'
+        text: "When bratty 8-year-old Kevin McCallister (Macaulay Culkin) acts out the night before a family trip to Paris, his mother (Catherine O'Hara) makes him sleep in the attic. After the McCallisters mistakenly leave for the airport without Kevin, he awakens to an empty house and assumes his wish to have no family has come true. But his excitement sours when he realizes that two con men (Joe Pesci, Daniel Stern) plan to rob the McCallister residence, and that he alone must protect the family home."
   -
     type: paragraph
     attrs:
@@ -67,7 +57,7 @@ cta: |-
 
   [01449 612825](tel:01449612825)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763570617
+updated_at: 1763570656
 duplicated_from: eb3f3b2e-2335-4f13-9b7c-d977e24107fc
 accessibility_information:
   - 'Wheelchair accessible'
@@ -158,6 +148,6 @@ directions:
         type: text
         text: .
 cost_details: '£5 per person'
-booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10405049'
+booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10405069'
 ---
 A relaxed and family friendly screening.
