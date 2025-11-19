@@ -1,15 +1,14 @@
 ---
 id: cb34c76c-5323-4d8e-b813-e5f686e1f549
+published: false
 blueprint: events
-title: 'Sword in the Stone'
+title: 'Bloom Festival - Dance Masterclass for Young People'
 event_categories:
   - theatre-and-performance
   - family-friendly
   - teen
-  - art
 organisers:
   - theatre-royal
-featured_image: theatre-royal/9d0545f3-49d9-4c7f-9035-db6d6fd582ad.jpg
 start_date: '2025-08-21 19:00'
 end_date: '2025-08-23 20:30'
 free: true
@@ -191,7 +190,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750757635
+updated_at: 1763570903
 duplicated_from: be74a693-378a-49c1-8c66-aea3f312307b
 accessibility_information:
   - 'Wheelchair accessible'
@@ -199,6 +198,5 @@ accessibility_information:
   - 'Quiet space available'
   - 'Autism friendly'
   - 'Accessible toilets'
-published: false
 ---
-A show full of magic and mayhem for all ages
+Aimed at ages 10-17, learn new routines in a relaxed environment, led by Rosy May.
