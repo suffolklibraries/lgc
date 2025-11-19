@@ -1,13 +1,13 @@
 ---
 id: ecc28ff5-3d77-4e1b-b0e0-e98b2a97484b
 blueprint: events
-title: 'Creative Cauldrons at Beccles Library'
+title: 'Twelve Yuletide Yarns at Beccles Library'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759218784
+updated_at: 1763556972
 latitude: '52.45648425658775'
 longitude: '1.5657697817902454'
-start_date: '2025-10-31 11:00'
+start_date: '2025-12-06 13:00'
 event_categories:
   - literature
   - family-friendly
@@ -20,7 +20,7 @@ address_line_2: Blyburgate
 town: Beccles
 postcode: 'NR34 9TB'
 featured_image: suffolklibrariesimages/creative-cauldrons-3x2.png
-attendance_information: 'Suitable for children aged 4+'
+attendance_information: 'Suitable for all the family, especially children aged 4+.'
 content_area:
   -
     type: paragraph
@@ -29,7 +29,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Funnelwick Limb needs your help to create their new show, Twelve Yuletime Yarns. A carrot has escaped from a school kitchen and is off on an adventure. Where will it go? Who will it meet? What will it do?'
+        text: 'Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful! '
   -
     type: paragraph
     attrs:
@@ -37,7 +37,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come to the library on Friday 31 October to help us build the story. You will get a chance to make your own carrot puppet, create an adventure story for it or take one of Funnelwick Limb’s story for a walk! We have two sessions available: 11:00 – 13:00 and 14:00 – 16:00.'
+        text: 'Twelve Yuletide Yarns is a big-hearted and hilarious journey into the magic of winter. This chaotic and utterly joyful show weaves together a mix of winter stories and poetry, promising an epic adventure where imagination (and escaping carrots!) run wild. A show where joy meets relentless novelty!'
   -
     type: paragraph
     attrs:
@@ -45,29 +45,40 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a free drop-in session no booking required. Suitable for children aged 4+.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        marks:
+          -
+            type: bold
+        text: 'Booking is required.'
       -
         type: text
-        text: 'Click '
+        text: ' This event is completely free but spaces are limited. Book your tickets on the '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://suffolkcommunitylibraries.co.uk/events/creative-cauldrons-at-beccles-library/'
-              rel: null
+              href: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
+              rel: noopener
               target: _blank
               title: null
-        text: 'here to visit the Suffolk Community Libraries website'
+        text: 'Eastern Angles website →'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' and find out more.'
+        text: 'We have two times available – 13:00 and 15:00. Performances last approx. an hour.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'This show is brought to you by the creative team at Funnelwick Limb.'
 cta: |-
   This event is organised by Suffolk Community Libraries
 
@@ -81,7 +92,7 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Relaxed performance'
   - 'Drop-in event'
-end_date: '2025-10-31 16:00'
+end_date: '2025-12-06 16:00'
 duplicated_from: 8d18bbb4-6b7c-454f-92ff-07208e9e05bc
 directions:
   -
@@ -165,6 +176,6 @@ directions:
         type: text
         text: .
 building_name: 'Beccles Library'
-published: false
+booking_link: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
 ---
-Help a runaway carrot!
+Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
