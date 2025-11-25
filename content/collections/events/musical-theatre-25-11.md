@@ -190,5 +190,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1756740171
 duplicated_from: fd8d1cac-8f36-4878-8299-f6f6a10b3cb4
 attendance_information: 'suitable for children aged 8 to 11 years'
+published: false
 ---
 Building confidence and self-esteem through theatre.

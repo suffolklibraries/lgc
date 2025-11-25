@@ -220,5 +220,6 @@ directions:
         type: text
         text: .
 booking_link: 'https://eequ.org/book/wedrum-stowmarket-autumn-25-26-with-wedrum-cic-20267'
+published: false
 ---
 High energy group drumming sessions.
