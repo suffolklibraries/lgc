@@ -8,8 +8,8 @@ event_categories:
   - community
   - wellbeing
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-25 12:00'
-end_date: '2025-10-25 13:30'
+start_date: '2025-11-29 12:00'
+end_date: '2025-11-29 13:30'
 free: false
 virtual: false
 attendance_information: '11 to 18 year olds'
@@ -100,12 +100,11 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759499606
+updated_at: 1764176191
 duplicated_from: 9bed7cf5-5842-4f02-8e6a-6ce312f559b5
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
 cost_details: £9
-published: false
 ---
 A weekly sketchbook club in Ipswich
