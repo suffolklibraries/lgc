@@ -8,8 +8,8 @@ event_categories:
   - art
   - family-friendly
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-25 10:00'
-end_date: '2025-10-25 11:30'
+start_date: '2025-11-29 10:00'
+end_date: '2025-11-29 11:30'
 free: false
 virtual: false
 attendance_information: 'ages 5 to 10 years'
@@ -92,12 +92,11 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755618456
+updated_at: 1764176085
 duplicated_from: 6ad6fb80-4bbb-4178-a8b4-797c0181496d
 cost_details: £9
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
-published: false
 ---
 90 minutes of creative fun!
