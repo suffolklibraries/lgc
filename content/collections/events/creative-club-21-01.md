@@ -1,8 +1,7 @@
 ---
 id: 8834a381-b9f5-4679-99d5-6802f31b4ab5
-published: false
 blueprint: events
-title: 'Creative Club (Duplicated)'
+title: 'Creative Club'
 event_categories:
   - art
   - community
@@ -11,7 +10,7 @@ organisers:
   - new-wolsey-theatre
 featured_image: pelicanpelican-3x2/lgc-va.png
 start_date: '2026-01-14 10:30'
-end_date: '2026-01-14 12:30'
+end_date: '2026-01-21 12:30'
 free: true
 virtual: false
 accessibility_information:
@@ -157,7 +156,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764175886
+updated_at: 1764175908
 duplicated_from: 35247dcc-81c7-4d7a-9f6d-54bc2b334da3
 ---
 A creative offer for everyone, in partnership with Ipswich Jobcentre
