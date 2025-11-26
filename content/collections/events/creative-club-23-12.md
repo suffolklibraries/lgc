@@ -1,8 +1,7 @@
 ---
 id: 558aae79-1ec0-4380-93d6-77bfa72cab7f
-published: false
 blueprint: events
-title: 'Creative Club (Duplicated) (Duplicated)'
+title: 'Creative Club'
 event_categories:
   - art
   - community
@@ -120,14 +119,6 @@ content_area:
     content:
       -
         type: text
-        text: 'Following on from our Eat, Sleep, Move, Repeat project with Ipswich Jobcentre, our new Creative Club will be starting in September!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
         text: 'Creative Club is all about bringing people together with creativity! The club will be run by a multi-disciplinary artist, who will help you to get creative, learn new skills and share your interests.'
   -
     type: paragraph
@@ -165,7 +156,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757431410
+updated_at: 1764175846
 duplicated_from: 19f60a88-a545-4250-8365-6819450b329e
 ---
 A creative offer for everyone, in partnership with Ipswich Jobcentre
