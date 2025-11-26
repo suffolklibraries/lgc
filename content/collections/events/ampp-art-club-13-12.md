@@ -1,16 +1,15 @@
 ---
 id: bd29fbee-4525-4fe1-b9e1-f776905c4896
-published: false
 blueprint: events
-title: 'Saturday Art Club (Duplicated) (Duplicated)'
+title: 'Saturday Art Club'
 event_categories:
   - teen
   - languages
   - art
   - family-friendly
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-11-29 10:00'
-end_date: '2025-11-29 11:30'
+start_date: '2025-12-13 10:00'
+end_date: '2025-12-13 11:30'
 free: false
 virtual: false
 attendance_information: 'ages 5 to 10 years'
@@ -93,7 +92,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764176085
+updated_at: 1764176125
 duplicated_from: 5ef4d453-f0ae-4d49-a2ed-b39620e83797
 cost_details: £9
 booking_link: 'https://www.ampp.studio/whats-on'
