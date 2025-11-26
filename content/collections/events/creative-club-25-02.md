@@ -1,8 +1,7 @@
 ---
 id: 350f775d-a3a4-4a18-b378-c20d0950ddb1
-published: false
 blueprint: events
-title: 'Creative Club (Duplicated) (Duplicated)'
+title: 'Creative Club'
 event_categories:
   - art
   - community
@@ -157,7 +156,7 @@ cta: |-
 
   [01473 295900](tel:01473295900)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764175950
+updated_at: 1764175978
 duplicated_from: 959f44a9-89a1-4354-a23c-9c52c25c12a2
 ---
 A creative offer for everyone, in partnership with Ipswich Jobcentre
