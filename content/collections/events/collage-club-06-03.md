@@ -1,8 +1,7 @@
 ---
 id: c6dca6c8-51a9-4d06-af18-eb0c57a88d88
-published: false
 blueprint: events
-title: 'Collage Club (Duplicated)'
+title: 'Collage Club'
 event_categories:
   - teen
   - art
@@ -10,8 +9,8 @@ event_categories:
   - wellbeing
   - later-years
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2026-02-06 19:00'
-end_date: '2026-02-06 21:00'
+start_date: '2026-03-06 19:00'
+end_date: '2026-03-06 21:00'
 free: false
 virtual: false
 accessibility_information:
@@ -109,7 +108,7 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764176658
+updated_at: 1764176676
 duplicated_from: f851b12f-516c-44de-a9b6-3e9e31a3d4d1
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
