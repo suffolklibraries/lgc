@@ -1,6 +1,4 @@
 name: 'Eleanor Root'
-linked_organisations: suffolk-community-libraries
-roles:
-  - user
-id: 0f540da8-2c6a-42ee-9099-0d19494186ed
-password_hash: $2y$10$BrbRZTK8Tkljn2FJ7TbFC.slivN.OOiogj4pQ3pHGjVS5/mXSJyPu
+super: true
+id: c86ef296-82a8-4c92-8104-8f274952842b
+password_hash: $2y$10$fLjqUapKffrOneIWuhZwoumeiO1wfXzXDlU3uHcnGAN2XjynAYjx6
