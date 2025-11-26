@@ -9,11 +9,10 @@ event_categories:
   - wellbeing
   - later-years
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-11-07 19:00'
-end_date: '2025-11-07 21:00'
+start_date: '2025-12-05 19:00'
+end_date: '2025-12-05 21:00'
 free: false
 virtual: false
-attendance_information: '11 to 18 year olds'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -109,12 +108,11 @@ cta: |-
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759499590
+updated_at: 1764176615
 duplicated_from: dec9b389-6232-45fe-858b-06a9f74ee14e
 booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
 cost_details: £12
-published: false
 ---
 A monthly creative meet-up for adults.
