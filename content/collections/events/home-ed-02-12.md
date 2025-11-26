@@ -7,8 +7,8 @@ event_categories:
   - languages
   - art
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2025-10-21 13:00'
-end_date: '2025-10-21 15:00'
+start_date: '2025-12-02 13:00'
+end_date: '2025-12-02 15:00'
 free: false
 virtual: false
 attendance_information: 'For ages 8-14 who love being creative and need a different kind of educational space to thrive.'
@@ -96,16 +96,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Parents and Guardians are welcome to drop off or stay if they get involved!'
+        text: 'Parents and guardians are welcome to drop off or stay if they get involved!'
 cta: |-
   This event is run by AMPP
 
   [https://www.ampp.studio/](https://www.ampp.studio/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1755620270
+updated_at: 1764176837
 duplicated_from: 6e053ddd-d916-4a19-a1e2-aba3853b8a3f
 cost_details: £12.50
 booking_link: 'https://www.ampp.studio/whats-on'
-published: false
 ---
 Create with us in a calm and quiet inclusive space.
