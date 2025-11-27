@@ -160,11 +160,11 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
-              rel: noopener
+              href: 'https://suffolkcommunitylibraries.co.uk/events/twelve-yuletide-yarns-at-ipswich-county-library/'
+              rel: null
               target: _blank
               title: null
-        text: 'Eastern Angles website →'
+        text: 'Suffolk Community Libraries website.'
   -
     type: paragraph
     attrs:
@@ -190,11 +190,11 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763557458
+updated_at: 1764258771
 duplicated_from: 28f49a74-264d-4a7a-904a-3f20ffe62580
 organisers:
   - suffolk-community-libraries
 attendance_information: 'Suitable for all the family, especially children aged 4+.'
-booking_link: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/twelve-yuletide-yarns-at-ipswich-county-library/'
 ---
 Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
