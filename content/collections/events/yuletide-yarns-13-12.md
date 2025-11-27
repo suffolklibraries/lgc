@@ -95,11 +95,14 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
-              rel: noopener
+              href: 'https://suffolkcommunitylibraries.co.uk/events/twelve-yuletide-yarns-at-gainsborough-community-library/'
+              rel: null
               target: _blank
               title: null
-        text: 'Eastern Angles website →'
+        text: 'Suffolk Community Libraries website'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -125,8 +128,8 @@ cta: |-
 
   [0345 60 630 60](tel:03456063060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1763557291
+updated_at: 1764255568
 duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
-booking_link: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
+booking_link: 'https://suffolkcommunitylibraries.co.uk/events/twelve-yuletide-yarns-at-gainsborough-community-library/'
 ---
 Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
