@@ -1,18 +1,17 @@
 ---
 id: 5fea3e91-9c53-4d3c-b49c-cc78dfd09d72
-published: false
 blueprint: events
-title: 'Christmas Crafty Workshop (Duplicated)'
+title: 'Winter Solstice Sunrise Yoga'
 event_categories:
   - community
-  - family-friendly
-  - art
+  - movement
+  - wellbeing
 organisers:
   - east-point-pavilion
-featured_image: eastpointpavilion/pompoms.png
-start_date: '2025-12-16 13:00'
-end_date: '2025-12-16 14:30'
-free: true
+featured_image: pelicanpelican-3x2/wellbeing.png
+start_date: '2025-12-21 08:00'
+end_date: '2025-12-21 09:30'
+free: false
 virtual: false
 latitude: '52.47138864661286'
 longitude: '1.7497777921068107'
@@ -71,36 +70,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Let’s get crafty with wool to make a choice of pom-pom Christmas tree decorations.'
+        text: 'Although it marks the shortest day, the solstice is also a time for renewal.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Everyone welcome and all materials provided.'
+        text: 'It’s a moment to pause, breathe deeply, and welcome the gradual return of longer days from one of the most beautiful vantage points on the Suffolk coast.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Click here to book your free place: '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-pom-pom-decorations/2025-12-16/13:00/t-aaqxddg'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'Crafty Christmas Workshop: Pom pom decorations at East Point Pavilion event tickets from TicketSource'
+        text: 'Bring a matt if you have one.'
 cta: |-
   This event is organised by First Light Festival
 
@@ -108,14 +94,14 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764331085
+updated_at: 1764331341
 duplicated_from: 97e104f7-0191-458c-99fc-a7be5e59243d
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
+cost_details: £3
 ---
-Christmassy crafting fun for people of all ages.
+Join yoga instructor Jack Partridge at East Point Pavilion for an invigorating yoga class.
