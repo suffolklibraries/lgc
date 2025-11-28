@@ -1,16 +1,15 @@
 ---
 id: b5a0337f-09b1-4f1f-98d5-b4072c6c3f98
-published: false
 blueprint: events
-title: 'Christmas Tree Festival (Duplicated)'
+title: 'Ipswich Choral Society Performance'
 event_categories:
   - art
   - family-friendly
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
-start_date: '2025-11-25 10:00'
-end_date: '2026-01-04 16:00'
+start_date: '2025-12-06 12:30'
+end_date: '2025-12-06 13:00'
 free: true
 virtual: false
 latitude: '52.06078949566327'
@@ -26,7 +25,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the Mansion and spot all of the trees which have each been decorated by a different community group in Ipswich.'
+        text: 'Join us this Christmas at Christchurch Mansion for a series of festive lunchtime performances from local musical groups. On Saturday, 6 December we will be joined by the Ipswich Choral Society. Performances begin at 12:30pm in the Great Hall and are free to listen to.'
   -
     type: paragraph
     attrs:
@@ -34,7 +33,35 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is suitable for all ages. The trees will be located on both the ground floor and the first floor, which requires access via stairs.'
+        text: 'Why not spend a day at the Mansion exploring our '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswich.cimuseums.org.uk/events/christmas-tree-festival-2025/'
+              rel: noopener
+              target: _blank
+              title: null
+        text: 'Christmas Tree Festival'
+      -
+        type: text
+        text: ' or take part in some '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://ipswich.cimuseums.org.uk/events/christmas-card/'
+              rel: noopener
+              target: _blank
+              title: null
+        text: 'Christmas Crafts'
+      -
+        type: text
+        text: .
   -
     type: paragraph
     attrs:
@@ -42,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'For helpful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
+        text: "For useful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information:\_"
       -
         type: text
         marks:
@@ -53,8 +80,8 @@ content_area:
               rel: null
               target: null
               title: null
-        text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/tree-festival/'
+        text: 'Access at the Mansion | Ipswich Museums'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/ipswich-choral/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -65,7 +92,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764335123
+updated_at: 1764335982
 duplicated_from: 483e26e8-775d-4503-b20c-bd7574ef2ceb
 accessibility_information:
   - 'Accessible toilets'
@@ -127,4 +154,4 @@ directions:
         text: 'Access at Christchurch Mansion'
 building_name: 'Christchurch Mansion'
 ---
-Get in the festive spirit with our annual Christchurch Mansion Christmas Tree Festival!
+Get in the festive spirit at annual Christchurch Mansion.
