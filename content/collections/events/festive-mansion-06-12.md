@@ -3,8 +3,9 @@ id: b5a0337f-09b1-4f1f-98d5-b4072c6c3f98
 blueprint: events
 title: 'Ipswich Choral Society Performance'
 event_categories:
-  - art
   - family-friendly
+  - music
+  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
@@ -92,7 +93,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764335982
+updated_at: 1764336048
 duplicated_from: 483e26e8-775d-4503-b20c-bd7574ef2ceb
 accessibility_information:
   - 'Accessible toilets'
