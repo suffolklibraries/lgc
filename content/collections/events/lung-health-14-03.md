@@ -1,8 +1,7 @@
 ---
 id: 650f930f-3852-444e-a6a5-c6f38d122ca5
-published: false
 blueprint: events
-title: 'Singing for Lung Health (Duplicated)'
+title: 'Singing for Lung Health'
 event_categories:
   - wellbeing
   - music
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music_singing.png
-start_date: '2026-03-07 10:00'
-end_date: '2026-03-07 11:30'
+start_date: '2026-03-14 10:00'
+end_date: '2026-03-14 11:30'
 free: true
 virtual: false
 accessibility_information:
@@ -121,7 +120,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764342741
+updated_at: 1764342766
 duplicated_from: 7d3db916-09d8-4e46-8dc6-8557913bf66e
 attendance_information: 'Those managing impaired lung performance'
 booking_link: 'https://theseagull.co.uk/community_events/singing-for-lung-health/'
