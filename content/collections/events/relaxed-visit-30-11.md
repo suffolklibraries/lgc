@@ -9,11 +9,11 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christchurch-mansion-3x2.png
-start_date: '2025-08-31 11:00'
-end_date: '2025-08-31 12:00'
+start_date: '2025-11-30 11:00'
+end_date: '2025-11-30 12:00'
 free: true
 virtual: false
-attendance_information: '- people who have sensory requirements'
+attendance_information: 'people who have sensory requirements'
 accessibility_information:
   - 'Dementia friendly'
   - 'Autism friendly'
@@ -127,9 +127,8 @@ cta: |-
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740039072
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764335484
 duplicated_from: df2738d6-5a31-436c-b034-74a7b3488c82
-published: false
 ---
 Join us on the last Sunday of the month for a more relaxed time.
