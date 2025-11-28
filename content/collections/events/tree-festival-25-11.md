@@ -1,34 +1,31 @@
 ---
 id: 483e26e8-775d-4503-b20c-bd7574ef2ceb
 blueprint: events
-title: 'Mini Mansions'
+title: 'Christmas Tree Festival'
 event_categories:
   - art
-  - early-years
+  - family-friendly
 organisers:
   - ipswich-museums
-featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2025-06-03 10:00'
-end_date: '2025-06-03 12:00'
-free: false
+featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
+start_date: '2025-11-25 10:00'
+end_date: '2026-01-04 16:00'
+free: true
 virtual: false
-attendance_information: 'Suitable for ages 2½  – 4'
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
-address_line_1: 'Christchurch Mansion'
 address_line_2: 'Soane Street'
 town: Ipswich
 postcode: 'IP4 2BE'
 content_area:
   -
-    type: heading
+    type: paragraph
     attrs:
       textAlign: left
-      level: 3
     content:
       -
         type: text
-        text: 'What to expect'
+        text: 'Explore the Mansion and spot all of the trees which have each been decorated by a different community group in Ipswich.'
   -
     type: paragraph
     attrs:
@@ -36,7 +33,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for June is ‘The Alphabet’.'
+        text: 'This event is suitable for all ages. The trees will be located on both the ground floor and the first floor, which requires access via stairs.'
   -
     type: paragraph
     attrs:
@@ -44,43 +41,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Parents/carers must stay with their children throughout the session.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'The main session will be on the ground floor, with pushchair access to the Wolsey Art Gallery via the side garden entrance. Part of the session may involve exploring the Mansion using the stairs. Please let us know if you have any access requirements when you book, as there is no lift.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'You can book your ticket via the '
+        text: 'For helpful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://ipswich.cimuseums.org.uk/events/'
+              href: 'https://ipswich.cimuseums.org.uk/christchurchmansionaccess/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: "Ipswich Museums' website"
-      -
-        type: text
-        text: '. Choose from a range of 45-minute sessions - 10am - 10.45am and 11.15am - midday'
-  -
-    type: heading
-    attrs:
-      textAlign: left
-      level: 3
-booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-jun/'
+        text: 'Access at Christchurch Mansion'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/tree-festival/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -90,12 +63,14 @@ cta: |-
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740039690
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764335123
 duplicated_from: dd9c0808-163b-44a3-8e69-6c2ffb3f7416
-cost_details: £3
 accessibility_information:
   - 'Accessible toilets'
+  - 'Accessible parking spaces'
+  - 'Relaxed performance'
+  - 'Drop-in event'
 directions:
   -
     type: paragraph
@@ -149,6 +124,6 @@ directions:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-published: false
+building_name: 'Christchurch Mansion'
 ---
-Join our interactive sessions for children aged 2½  – 4 and their parents, grandparents and carers.
+Get in the festive spirit with our annual Christchurch Mansion Christmas Tree Festival!
