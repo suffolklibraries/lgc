@@ -1,8 +1,7 @@
 ---
 id: d9c9af1f-da0e-4d88-8eb3-374c65061775
-published: false
 blueprint: events
-title: 'Squawk (Duplicated) (Duplicated)'
+title: Squawk
 event_categories:
   - music
   - theatre-and-performance
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2026-01-08 10:00'
-end_date: '2026-01-08 15:00'
+start_date: '2026-01-22 10:00'
+end_date: '2026-01-22 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -116,8 +115,9 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756730642
+updated_at: 1764341772
 duplicated_from: fb44a382-0384-4ea5-a3ae-9bd004eab9eb
 attendance_information: 'adults with learning disabilities'
+booking_link: 'https://theseagull.co.uk/community_events/2924/'
 ---
 Musical theatre workshops for adults with learning disabilities.
