@@ -1,8 +1,7 @@
 ---
 id: 5f298ccf-0d33-4779-9b51-7c6aec1bab0e
-published: false
 blueprint: events
-title: 'Christmas at the Museum 2025 (Duplicated)'
+title: 'Christmas Decoration Workshop'
 event_categories:
   - museums
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-12-13 10:00'
-end_date: '2025-12-13 16:00'
+start_date: '2025-12-23 11:00'
+end_date: '2025-12-23 15:00'
 free: true
 virtual: false
 accessibility_information:
@@ -134,7 +133,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Celebrate the most wonderful time of the year with a Christmas carriage ride around the museum’s grounds. Enjoy festive-themed crafts, games, stalls and tasty seasonal treats. Plus add a touch of magic with a visit to Father Christmas’s grotto stable and say hello to his cheeky elves — our resident mini-Shetland ponies, Harry and Kizzy.'
+        text: 'Free with museum admission, drop in any time from 11am until 3pm. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Spaces are limited and allocated on a first-come-first-served basis. Children must be accompanied by an adult for the duration of the session.'
   -
     type: paragraph
     attrs:
@@ -142,95 +149,7 @@ content_area:
     content:
       -
         type: text
-        text: 'What to expect on the day:'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Horse and carriage rides'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Visit Father Christmas in his festive stable'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Seasonal Crafts and Games'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                marks:
-                  -
-                    type: link
-                    attrs:
-                      href: 'https://popclubchoir.uk/index.php#about'
-                      rel: noopener
-                      target: _blank
-                      title: null
-                text: 'Pop Club Choir'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Festive Food and Drink (including Mulled Wine!)'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Face painting'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: Stalls
+        text: 'This activity is part of the Suffolk Holiday Activity and Food Fund programme and if families are eligible for free school meals, picnic bag lunches from the Tack Box in the King’s Yard, for children aged 5-16 years, are available to book in advance along with museum admission for your family group through EEQU.'
   -
     type: paragraph
     attrs:
@@ -238,15 +157,10 @@ content_area:
     content:
       -
         type: text
-        text: 'Special admission price of £6 Adults, £4 Child, (under 5s free) includes access to all outside areas of the Museum. Tickets available to purchase on the day.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Please note: this event is not included with the annual pass. Under 3’s are not permitted on the carriage.'
+        marks:
+          -
+            type: bold
+        text: "\_"
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -256,9 +170,9 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764329403
+updated_at: 1764329565
 duplicated_from: a1480e71-71b3-443c-8641-48bd310d7b97
-booking_link: 'https://www.nhrm.co.uk/events/christmas-at-the-museum-copy/'
-cost_details: "Adults £6, Children £4, Under 5's Free"
+booking_link: 'https://www.nhrm.co.uk/events/free-festive-family-drop-in-workshop/'
+cost_details: 'Free with museum admission'
 ---
-Celebrate the most wonderful time of the year at Palace House.
+Join us for a fabulous festive family craft workshop this Christmas!
