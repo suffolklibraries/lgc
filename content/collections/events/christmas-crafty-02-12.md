@@ -1,18 +1,16 @@
 ---
 id: 377a8c90-e029-40d7-b56a-8c48ccfa6119
-published: false
 blueprint: events
-title: 'Pavilion Performers Open Mic Night (Duplicated)'
+title: 'Christmas Crafty Workshop'
 event_categories:
   - community
-  - music
-  - dance
-  - wellbeing
+  - family-friendly
+  - art
 organisers:
   - east-point-pavilion
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-10-08 18:30'
-end_date: '2025-10-08 21:00'
+featured_image: eastpointpavilion/pompoms.png
+start_date: '2025-12-02 13:00'
+end_date: '2025-12-02 14:30'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -72,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Whether you’re a gigging musician or someone who would love to experience performing in front of an audience, this relaxed open mic session is for you!'
+        text: "old, cut, stick & design a choice of festive paper crafts. Take home your finished products, all materials provided.\_"
   -
     type: paragraph
     attrs:
@@ -80,15 +78,20 @@ content_area:
     content:
       -
         type: text
-        text: '6.30pm - 7pm - Sign up to perform'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
+        text: 'Click here to book your free place: '
       -
         type: text
-        text: '7pm onwards - Live music from open-mic and a New Dawn showcase performance.'
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-paper-crafts/2025-12-02/13:00/t-zoglkkg'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-paper-crafts/2025-12-02/13:00/t-zoglkkg'
 cta: |-
   This event is organised by First Light Festival
 
@@ -96,9 +99,9 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758644403
+updated_at: 1764330558
 duplicated_from: 679e2309-7843-42ce-b5ff-62e5de165ba5
-booking_link: 'https://www.eastpointpavilion.com/events/pavilion-performers-open-mic-session-6zy2p'
+booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
@@ -106,4 +109,4 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 ---
-Inclusive open mic session where everyone is welcome!
+Christmassy crafting fun for people of all ages.
