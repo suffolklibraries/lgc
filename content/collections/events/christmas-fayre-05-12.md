@@ -1,8 +1,7 @@
 ---
 id: 0bcaed44-c1bb-4e44-8dde-ead53d7db10e
-published: false
 blueprint: events
-title: 'Christmas Crafty Workshop (Duplicated)'
+title: 'Festive Fayre'
 event_categories:
   - community
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/pompoms.png
-start_date: '2025-12-02 13:00'
-end_date: '2025-12-02 14:30'
+start_date: '2025-12-05 16:00'
+end_date: '2025-12-05 21:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -71,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: "old, cut, stick & design a choice of festive paper crafts. Take home your finished products, all materials provided.\_"
+        text: 'Bringing together local businesses, live music and street food for the main event of the Winter calendar!'
   -
     type: paragraph
     attrs:
@@ -79,20 +78,70 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to book your free place: '
+        text: 'Mark the date in your diaries and get ready to shop with small businesses and independent creatives to find one-of-a-kind gifts this Christmas season. Whether you’re in the market for handmade crafts, delicious street food or a helping of mulled wine - we’ve got it all at East Point Pavilion this December.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Meet Stanta'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'With the support of Pakefield Community Group, you’ll have the opportunity to sit down with Santa this Christmas and take home your very own hand-delivered gift!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Traders to be announced - keep an eye on our '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-paper-crafts/2025-12-02/13:00/t-zoglkkg'
+              href: 'https://www.facebook.com/EastPointPavilion'
               rel: null
-              target: null
+              target: _blank
               title: null
           -
             type: underline
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-paper-crafts/2025-12-02/13:00/t-zoglkkg'
+        text: Facebook
+      -
+        type: text
+        text: ' & '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.instagram.com/eastpointpavilion/?hl=en'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: underline
+        text: Instagram
+      -
+        type: text
+        text: ' pages for updates.'
 cta: |-
   This event is organised by First Light Festival
 
@@ -100,7 +149,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764330558
+updated_at: 1764330644
 duplicated_from: 377a8c90-e029-40d7-b56a-8c48ccfa6119
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
@@ -110,4 +159,4 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 ---
-Christmassy crafting fun for people of all ages.
+Our evening Christmas Market returns for 2025.
