@@ -1,8 +1,7 @@
 ---
 id: 3ffb8c3b-7284-4f0b-aa94-8bb830ac34eb
-published: false
 blueprint: events
-title: 'Cosy Club on Tuesdays (Duplicated)'
+title: 'Cosy Club on Tuesdays'
 event_categories:
   - museums
   - early-years
@@ -13,8 +12,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/coffee.png
-start_date: '2026-03-10 15:00'
-end_date: '2026-03-10 17:00'
+start_date: '2026-03-17 15:00'
+end_date: '2026-03-17 17:00'
 free: true
 virtual: false
 accessibility_information:
@@ -185,7 +184,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764329856
+updated_at: 1764329876
 duplicated_from: 808ea372-fe5f-4eb3-ba64-9da0edf935e7
 booking_link: 'https://www.nhrm.co.uk/events/cosy-club-on-tuesdays-2/'
 ---
