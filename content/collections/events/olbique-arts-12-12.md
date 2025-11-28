@@ -1,8 +1,7 @@
 ---
 id: 39e929aa-80ca-4041-8b83-cab5db7e9c40
-published: false
 blueprint: events
-title: 'Art for Wellbeing Course (Duplicated)'
+title: 'Art for Wellbeing Course'
 event_categories:
   - museums
   - languages
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/later_nature-(1).png
-start_date: '2025-12-05 13:30'
-end_date: '2025-12-05 15:30'
+start_date: '2025-12-12 13:30'
+end_date: '2025-12-12 15:30'
 free: true
 virtual: false
 accessibility_information:
@@ -162,7 +161,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764328588
+updated_at: 1764328606
 duplicated_from: 3c61230e-dd11-4f55-b077-aeae3e270ed5
 booking_link: 'https://www.nhrm.co.uk/events/art-for-wellbeing-course-with-oblique-arts/'
 ---
