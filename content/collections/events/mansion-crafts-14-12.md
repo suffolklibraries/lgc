@@ -1,8 +1,7 @@
 ---
 id: 51df3e98-23a2-49bb-83a5-57d5b213ac69
-published: false
 blueprint: events
-title: 'Make your own Christmas Decoration (Duplicated)'
+title: 'Make your own Christmas Decoration'
 event_categories:
   - art
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
-start_date: '2025-12-13 10:00'
-end_date: '2025-12-13 15:00'
+start_date: '2025-12-14 10:00'
+end_date: '2025-12-14 15:00'
 free: false
 virtual: false
 latitude: '52.06078949566327'
@@ -66,7 +65,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764336108
+updated_at: 1764336127
 duplicated_from: f6b36fba-3369-48b3-8bcb-f74a946c15d0
 accessibility_information:
   - 'Accessible toilets'
