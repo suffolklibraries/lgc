@@ -1,8 +1,7 @@
 ---
 id: 2f0ae5a1-e2fb-4225-a96f-4210a2ad1650
-published: false
 blueprint: events
-title: 'Ipswich Choral Society Performance (Duplicated)'
+title: 'Unscene Singers Performance'
 event_categories:
   - family-friendly
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
-start_date: '2025-12-06 12:30'
-end_date: '2025-12-06 13:00'
+start_date: '2025-12-13 12:30'
+end_date: '2025-12-13 13:00'
 free: true
 virtual: false
 latitude: '52.06078949566327'
@@ -27,7 +26,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us this Christmas at Christchurch Mansion for a series of festive lunchtime performances from local musical groups. On Saturday, 6 December we will be joined by the Ipswich Choral Society. Performances begin at 12:30pm in the Great Hall and are free to listen to.'
+        text: 'Join us this Christmas at Christchurch Mansion for a series of festive lunchtime performances from local musical groups. On Saturday, 13 December we will be joined by the Unscene Singers. This performance will begin at 2pm in the Great Hall and is free to listen to.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'This event is suitable for all ages.'
   -
     type: paragraph
     attrs:
@@ -56,7 +63,7 @@ content_area:
           -
             type: link
             attrs:
-              href: 'https://ipswich.cimuseums.org.uk/events/christmas-card/'
+              href: 'https://ipswich.cimuseums.org.uk/events/christmas-decoration/'
               rel: noopener
               target: _blank
               title: null
@@ -83,7 +90,7 @@ content_area:
               target: null
               title: null
         text: 'Access at the Mansion | Ipswich Museums'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/ipswich-choral/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/unscene-singers/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -94,7 +101,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764336048
+updated_at: 1764336171
 duplicated_from: b5a0337f-09b1-4f1f-98d5-b4072c6c3f98
 accessibility_information:
   - 'Accessible toilets'
