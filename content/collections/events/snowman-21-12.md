@@ -1,14 +1,13 @@
 ---
 id: ccd8d2a8-d6a9-4eda-9407-1f62ebd3225d
-published: false
 blueprint: events
-title: 'Magic of Christmas 2025 (Duplicated)'
+title: 'The Snowman with Live Orchestra'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-12-05 15:00'
-end_date: '2025-12-14 18:30'
+start_date: '2025-12-21 12:30'
+end_date: '2025-12-21 17:30'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764340750
+updated_at: 1764341247
 free: false
 virtual: false
 organisers:
@@ -21,7 +20,25 @@ content_area:
     content:
       -
         type: text
-        text: 'With prancing reindeer, rocking santas, a moving nativity scene, toe-tapping music and dynamic dancing, this has everything for a perfect Christmas treat for the whole family.'
+        text: 'A journey through the magic of winter featuring the professional artists of the Suffolk Ensemble joined by a chorus of talented young singers including some of our own Aldeburgh Young Musicians, Jubilee Opera, Sing Praise and Reverb.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'We welcome children of all ages to this performance. Please note that all children, other than babes in arms, will require their own seat/ticket.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Performances start at 12.30pm, 2.30pm, and 4.30pm and last 40 minutes.'
+      -
+        type: hardBreak
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -41,7 +58,7 @@ cta: |-
 event_categories:
   - music
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/co-op-juniors-magic-of-christmas-2025'
+booking_link: 'https://www.brittenpearsarts.org/events/the-snowman-with-live-orchestra'
 featured_image: pelicanpelican-3x2/music.png
 duplicated_from: 46c132f8-71f8-4671-a679-006319671745
 building_name: 'Snape Maltings Concert Hall'
@@ -112,6 +129,6 @@ directions:
       -
         type: text
         text: .
-cost_details: 'Tickets from £15, discounts for under 16s and seniors'
+cost_details: 'Tickets from £10'
 ---
-A spectacular new music and dance show bursting with energy and a generous sprinkling of festive magic.
+A must-see of the festive season.
