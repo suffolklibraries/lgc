@@ -1,19 +1,18 @@
 ---
 id: 46cc8b33-af77-4d63-9d90-aedfb7832cdb
-published: false
 blueprint: events
-title: 'Christmas Crafty Workshop (Duplicated)'
+title: 'Winter Warmer Folk Concert'
 event_categories:
   - community
-  - family-friendly
-  - art
+  - music
+  - theatre-and-performance
 organisers:
   - east-point-pavilion
-featured_image: eastpointpavilion/pompoms.png
-start_date: '2025-12-09 13:00'
-end_date: '2025-12-09 14:30'
-free: true
-virtual: false
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2025-12-11 19:30'
+end_date: '2025-12-11 21:30'
+free: false
+virtual: true
 latitude: '52.47138864661286'
 longitude: '1.7497777921068107'
 building_name: 'East Point Pavilion'
@@ -71,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Shape, create & take home festive salt dough decorations to air-dry & display.'
+        text: "Vicki Swann and Jonny Dyer's Christmas show blends traditional and contemporary winter songs and stories with joyous Christmas carols and toe tapping dance tunes. \_"
   -
     type: paragraph
     attrs:
@@ -79,33 +78,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to book your free place:'
+        text: "Be entranced by the haunting nyckelharpa, amazed at the cow horn (one of the world's earliest communication devices) and meet some of the bagpipes that didn't come from Scotland. Suitable for all ages, their evenings are packed with toe tapping tunes and songs of love, death, trains and dressing up (not always at the same time) all presented with sparkling gentle humour, lots of smiles and skilful musicianship."
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Book online at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/2025-12-23/10:30/t-dkadkqp'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-salt-dough-ornaments/2025-12-09/13:00/t-ejkoxxx'
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/vicki-swan-jonny-dyers-winter-warmer/e-zeaole'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-salt-dough-ornaments/2025-12-09/13:00/t-ejkoxxx'
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/vicki-swan-jonny-dyers-winter-warmer/e-zeaole'
 cta: |-
   This event is organised by First Light Festival
 
@@ -113,7 +107,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764330690
+updated_at: 1764330845
 duplicated_from: d24dbebb-88f7-4e5f-a810-63bddb4b5d0f
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
@@ -122,5 +116,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
+cost_details: £12
 ---
-Christmassy crafting fun for people of all ages.
+Folk at the Pavilion presents… Vicki Swan & Jonny Dyer who blend traditional material with contemporary sounds.
