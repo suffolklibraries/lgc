@@ -1,20 +1,21 @@
 ---
 id: d8d7be14-f5d3-405f-a5fa-6f2537a3c7e1
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Cosy Club on Tuesdays'
 event_categories:
   - museums
   - early-years
   - family-friendly
+  - art
+  - wellbeing
+  - community
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-12-12 11:00'
-end_date: '2025-12-12 12:00'
+featured_image: pelicanpelican-3x2/coffee.png
+start_date: '2026-01-06 15:00'
+end_date: '2026-01-06 17:00'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children aged 18 months to 4 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,7 +136,15 @@ content_area:
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: 'Our warm space is back for 2026 from Tuesday 6th January and every Tuesday to the end of March in term time, from 3 – 5pm. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Come along for FREE creative activities, explore the museum and enjoy refreshments kindly provided by The Tack Room. Booking is not required, just turn up and join in the fun!'
   -
     type: paragraph
     attrs:
@@ -143,7 +152,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
+        text: 'Cosy Club is made possible thanks to support from The Tack Room, the Co-Op through Association for Suffolk Museums, West Suffolk Council, Cadent Centre for Warm funding and the Racing Foundation.'
   -
     type: paragraph
     attrs:
@@ -151,29 +160,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your pre-school place, please email '
+        text: 'Visit '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:info@nhrm.co.uk'
+              href: 'https://www.nhrm.co.uk/events/cosy-club-on-tuesdays-2/'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: info@nhrm.co.uk
+        text: 'the Newmarket Racing Museum website'
       -
         type: text
-        text: .
+        text: ' to see what is planned for the new term.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -183,8 +184,8 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759501141
+updated_at: 1764329696
 duplicated_from: ba743126-5b4c-43ec-ac11-9c588066ddd5
-booking_link: 'https://www.nhrm.co.uk/events/pre-school-little-horseshoes-sessions/'
+booking_link: 'https://www.nhrm.co.uk/events/cosy-club-on-tuesdays-2/'
 ---
-Free, creative play sessions, designed to educate and entertain!
+Calling all families to Save the Date!
