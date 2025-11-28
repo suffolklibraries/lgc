@@ -1,8 +1,7 @@
 ---
 id: d24dbebb-88f7-4e5f-a810-63bddb4b5d0f
-published: false
 blueprint: events
-title: 'Christmas Crafty Workshop (Duplicated)'
+title: 'Christmas Crafty Workshop'
 event_categories:
   - community
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/pompoms.png
-start_date: '2025-12-02 13:00'
-end_date: '2025-12-02 14:30'
+start_date: '2025-12-09 13:00'
+end_date: '2025-12-09 14:30'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -71,28 +70,41 @@ content_area:
     content:
       -
         type: text
-        text: "old, cut, stick & design a choice of festive paper crafts. Take home your finished products, all materials provided.\_"
+        text: 'Shape, create & take home festive salt dough decorations to air-dry & display.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Click here to book your free place: '
+        text: 'Click here to book your free place:'
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-paper-crafts/2025-12-02/13:00/t-zoglkkg'
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/2025-12-23/10:30/t-dkadkqp'
+              rel: null
+              target: _blank
+              title: null
+          -
+            type: underline
+        text: ' '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-salt-dough-ornaments/2025-12-09/13:00/t-ejkoxxx'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-paper-crafts/2025-12-02/13:00/t-zoglkkg'
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-salt-dough-ornaments/2025-12-09/13:00/t-ejkoxxx'
 cta: |-
   This event is organised by First Light Festival
 
@@ -100,7 +112,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764330558
+updated_at: 1764330690
 duplicated_from: 377a8c90-e029-40d7-b56a-8c48ccfa6119
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
