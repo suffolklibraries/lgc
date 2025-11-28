@@ -1,8 +1,7 @@
 ---
 id: 2118f36a-3ff5-4dd8-8204-516d8d7d1ed2
-published: false
 blueprint: events
-title: 'Knit and Natter (Duplicated)'
+title: 'Knit and Natter'
 event_categories:
   - wellbeing
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-seagull-theatre
 featured_image: pelicanpelican-3x2/olderpeople.png
-start_date: '2025-12-18 12:30'
-end_date: '2025-12-18 14:30'
+start_date: '2025-12-18 10:00'
+end_date: '2025-12-18 12:00'
 free: true
 virtual: false
 accessibility_information:
@@ -124,7 +123,8 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756730881
+updated_at: 1764343023
 duplicated_from: 134f8ace-1073-42a4-8a02-fbd4a9a113e2
+booking_link: 'https://theseagull.co.uk/2020/07/15/knit-and-natter/'
 ---
 Make friends, bring your knitting, and stay for a chat.
