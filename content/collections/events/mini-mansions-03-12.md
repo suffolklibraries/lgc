@@ -141,5 +141,6 @@ directions:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
+published: false
 ---
 Join our interactive sessions for children aged 2½  – 4 and their parents, grandparents and carers.
