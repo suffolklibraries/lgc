@@ -1,8 +1,7 @@
 ---
 id: f925dfaf-93f4-4509-a4ec-864e4e40b729
-published: false
 blueprint: events
-title: 'Cosy Club on Tuesdays (Duplicated)'
+title: 'Easter Paw-ty 2026'
 event_categories:
   - museums
   - early-years
@@ -12,9 +11,9 @@ event_categories:
   - community
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/coffee.png
-start_date: '2026-03-25 15:00'
-end_date: '2026-03-25 17:00'
+featured_image: pelicanpelican-3x2/support.png
+start_date: '2026-04-03 10:00'
+end_date: '2026-04-03 16:00'
 free: true
 virtual: false
 accessibility_information:
@@ -137,15 +136,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Our warm space is back for 2026 from Tuesday 6th January and every Tuesday to the end of March in term time, from 3 – 5pm. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Come along for FREE creative activities, explore the museum and enjoy refreshments kindly provided by The Tack Room. Booking is not required, just turn up and join in the fun!'
+        text: 'Come and celebrate Easter with us and join in with our doggie themed events, including our Fun Dog Show, displays in the arena, have a go opportunities, creative activities.'
   -
     type: paragraph
     attrs:
@@ -153,29 +144,16 @@ content_area:
     content:
       -
         type: text
-        text: 'Cosy Club is made possible thanks to support from The Tack Room, the Co-Op through Association for Suffolk Museums, West Suffolk Council, Cadent Centre for Warm funding and the Racing Foundation.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'Visit '
+        text: 'Stay tuned for further event '
       -
         type: text
         marks:
           -
-            type: link
-            attrs:
-              href: 'https://www.nhrm.co.uk/events/cosy-club-on-tuesdays-2/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'the Newmarket Racing Museum website'
+            type: italic
+        text: pup
       -
         type: text
-        text: ' to see what is planned for the new term.'
+        text: dates.
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -185,8 +163,8 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764329903
+updated_at: 1764330001
 duplicated_from: 86dbccdc-5a03-4e34-ab29-95f0a3c40827
-booking_link: 'https://www.nhrm.co.uk/events/cosy-club-on-tuesdays-2/'
+booking_link: 'https://www.nhrm.co.uk/events/easter-paw-ty-at-the-museum-2026/'
 ---
-Calling all families to Save the Date!
+You are invited to an Easter Paw-ty at the National Horseracing Museum!
