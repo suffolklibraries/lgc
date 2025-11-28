@@ -1,18 +1,19 @@
 ---
 id: 4721a98b-fe7a-42bb-83a0-cd7acceb2183
-published: false
 blueprint: events
-title: 'Father Christmas sails into Snape Quay (Duplicated)'
-start_date: '2025-12-06 10:00'
-end_date: '2025-12-06 12:30'
+title: 'Sing Christmas!'
+start_date: '2025-12-06 16:00'
+end_date: '2025-12-20 17:30'
 free: false
 virtual: false
 accessibility_information:
+  - 'Wheelchair accessible'
+  - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_1: 'Snape Maltings'
 address_line_2: Snape
-building_name: 'The Quay'
+building_name: 'Britten Studio'
 town: Suffolk
 postcode: 'IP17 1SP'
 directions:
@@ -90,37 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Come and join us to greet Father Christmas as he sails around the narrows of the winding River Alde and disembarks at Snape Maltings Quay.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'No need to book, just come along.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Visit the '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.brittenpearsarts.org/visit-us/snape-maltings/father-christmas-sails-into-snape-quay'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Britten Pears Arts website'
-      -
-        type: text
-        text: ' to find out more.'
+        text: 'Join conductor Ben Parry, the Britten Pears Chamber Choir and a four-piece band to sing your heart out with Christmas songs from the past 40 years. No previous singing experience necessary and seasonal dress is obligatory…'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -131,15 +102,16 @@ created_by: 23b93f65-4171-46a0-806d-9ce87f14d30f
 event_categories:
   - community
   - family-friendly
-  - early-years
-  - teen
+  - music
 organisers:
   - britten-pears-arts
-featured_image: brittenpearsartsimages/father-christmas-at-snape.png
+featured_image: pelicanpelican-3x2/music.png
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756382552
+updated_at: 1764341094
 duplicated_from: 0dd9564e-275a-4ff9-9899-f8e24de35efd
+cost_details: 'From £12.50'
+booking_link: 'https://www.brittenpearsarts.org/events/sing-christmas'
 ---
-A firm favourite in the Britten Pears Arts Christmas calendar.
+Come and sing favourite Christmas pop songs from Slade to Shakin’ Stevens and Wizzard to Wham!
