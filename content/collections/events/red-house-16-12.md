@@ -1,16 +1,16 @@
 ---
 id: 6c5907f8-aae3-430a-96d8-bba585def0ea
 blueprint: events
-title: 'Spooky Sounds at The Red House'
+title: 'Christmas Carols at The Red House'
 event_categories:
   - music
   - family-friendly
-  - art
+  - museums
 organisers:
   - britten-pears-arts
-featured_image: pelicanpelican-3x2/theatre.png
-start_date: '2025-10-31 11:00'
-end_date: '2025-11-01 16:00'
+featured_image: brittenpearsartsimages/christmas-carols.png
+start_date: '2025-12-16 14:00'
+end_date: '2025-12-16 15:00'
 free: true
 virtual: false
 latitude: '52.16397679077819'
@@ -60,7 +60,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Children will have the opportunity to decorate and create their own Sound Effect Kit so they can tell their spooky stories at home. Then take part in our sound effect trail in The Red House gardens to win a spooky prize.'
+        text: 'A fun and informal gathering to celebrate the festive season; all the favourites are sung plus some special solos and arrangements.'
   -
     type: paragraph
     attrs:
@@ -68,9 +68,33 @@ content_area:
     content:
       -
         type: text
-        text: 'Free but booking recommended.'
+        text: 'This free event includes complimentary hot drinks and mince pies.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Song sheets will be provided, so all you need to bring is your finest voice.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'As the event will be outside, please wrap up warm for the weather. Limited shelter will be provided.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Suitable for all ages.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756382411
+updated_at: 1764340905
 duplicated_from: 5dd5587f-64e2-4e99-a382-7a12d2b21321
 cta: |-
   This event is organised by Britten Pears Arts
@@ -83,7 +107,6 @@ cta: |-
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-booking_link: 'https://www.brittenpearsarts.org/events/spooky-sounds-at-the-red-house-2'
-published: false
+booking_link: 'https://www.brittenpearsarts.org/events/christmas-carols-at-the-red-house-2'
 ---
-Add your own spooky sounds to some traditional Suffolk ghost tales.
+Join us for a festive sing-a-long followed by warming drinks and mince pies.
