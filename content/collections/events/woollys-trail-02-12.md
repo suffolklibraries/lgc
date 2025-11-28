@@ -1,17 +1,17 @@
 ---
 id: 0fa83a32-5125-4922-8466-92455cf81bda
-published: false
 blueprint: events
-title: 'Christmas Tree Festival (Duplicated)'
+title: 'Woolly’s Reindeer Trail'
 event_categories:
   - art
   - family-friendly
+  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
-start_date: '2025-11-25 10:00'
-end_date: '2026-01-04 16:00'
-free: true
+start_date: '2025-12-02 10:00'
+end_date: '2025-12-31 16:00'
+free: false
 virtual: false
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
@@ -26,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the Mansion and spot all of the trees which have each been decorated by a different community group in Ipswich.'
+        text: 'This winter 12 reindeers have joined Woolly on his trail. They are all keeping warm around the Mansion. Can you help Woolly find where they are resting? Find all 12 Woollys hiding around the Mansion and collect your prize at the end.'
   -
     type: paragraph
     attrs:
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is suitable for all ages. The trees will be located on both the ground floor and the first floor, which requires access via stairs.'
+        text: 'An accessible Elf Trail is also available on the ground floor of the Mansion.'
   -
     type: paragraph
     attrs:
@@ -42,7 +42,15 @@ content_area:
     content:
       -
         type: text
-        text: 'For helpful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
+        text: 'Suitable for ages 3+.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: "For helpful details about how to find us and the facilities available at Christchurch Mansion, we recommend reading our Access information:\_"
       -
         type: text
         marks:
@@ -54,7 +62,7 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/tree-festival/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/woollys-reindeer-trail/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -65,7 +73,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764335123
+updated_at: 1764335762
 duplicated_from: 483e26e8-775d-4503-b20c-bd7574ef2ceb
 accessibility_information:
   - 'Accessible toilets'
@@ -126,5 +134,7 @@ directions:
               title: null
         text: 'Access at Christchurch Mansion'
 building_name: 'Christchurch Mansion'
+cost_details: '£ per child'
+attendance_information: 'ages 3+'
 ---
-Get in the festive spirit with our annual Christchurch Mansion Christmas Tree Festival!
+Get in the festive spirit at Christchurch Mansion.
