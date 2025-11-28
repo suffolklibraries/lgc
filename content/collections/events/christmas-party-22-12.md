@@ -1,18 +1,18 @@
 ---
 id: 58660dba-0c5d-4f86-9b41-e23ee0de41af
-published: false
 blueprint: events
-title: 'Christmas Crafty Workshop (Duplicated)'
+title: 'Family Christmas Party'
 event_categories:
   - community
   - family-friendly
-  - art
+  - dance
+  - music
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/pompoms.png
-start_date: '2025-12-16 13:00'
-end_date: '2025-12-16 14:30'
-free: true
+start_date: '2025-12-22 15:00'
+end_date: '2025-12-22 17:00'
+free: false
 virtual: false
 latitude: '52.47138864661286'
 longitude: '1.7497777921068107'
@@ -71,36 +71,40 @@ content_area:
     content:
       -
         type: text
-        text: 'Let’s get crafty with wool to make a choice of pom-pom Christmas tree decorations.'
+        text: 'Expect traditional party games and a family disco with modern hits and timeless party classics. So come on and join the Conga!'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Everyone welcome and all materials provided.'
+        text: 'The East Point Pavilion Bar will be open serving drinks and snacks.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Click here to book your free place: '
+        text: 'Booking Essential: '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-pom-pom-decorations/2025-12-16/13:00/t-aaqxddg'
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/family-xmas-party/2025-12-22/15:00/t-plzepxo'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: 'Crafty Christmas Workshop: Pom pom decorations at East Point Pavilion event tickets from TicketSource'
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/family-xmas-party/2025-12-22/15:00/t-plzepxo'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
 cta: |-
   This event is organised by First Light Festival
 
@@ -108,7 +112,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764331085
+updated_at: 1764331509
 duplicated_from: 97e104f7-0191-458c-99fc-a7be5e59243d
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
@@ -117,5 +121,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
+cost_details: 'Adults £2, Children £7'
 ---
-Christmassy crafting fun for people of all ages.
+Children’s Entertainer Barrie Thornton returns to East Point Pavilion for a Christmas party!
