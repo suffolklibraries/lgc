@@ -1,13 +1,12 @@
 ---
 id: d892c5d2-1aeb-4bff-b76d-1a6a30d0550a
-published: false
 blueprint: events
-title: 'Music for Wellbeing (Duplicated)'
+title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756736724
-start_date: '2026-01-09 13:30'
-end_date: '2026-01-09 15:00'
+updated_at: 1764341975
+start_date: '2026-01-16 13:30'
+end_date: '2026-01-16 15:00'
 free: true
 virtual: false
 organisers:
@@ -142,5 +141,6 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
+booking_link: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
 ---
 An activity for anyone who enjoys music!
