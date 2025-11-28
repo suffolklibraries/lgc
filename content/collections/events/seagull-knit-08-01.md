@@ -123,7 +123,7 @@ cta: |-
 
   [0333 666 3366](tel:03336663366)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764343051
+updated_at: 1764343087
 duplicated_from: 2118f36a-3ff5-4dd8-8204-516d8d7d1ed2
 booking_link: 'https://theseagull.co.uk/2020/07/15/knit-and-natter/'
 ---
