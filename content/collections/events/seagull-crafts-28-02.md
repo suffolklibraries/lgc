@@ -1,13 +1,12 @@
 ---
 id: 1f048110-1ec9-487b-88e6-c4674d1fb8f0
-published: false
 blueprint: events
-title: 'Arts and Crafts Group (Duplicated) (Duplicated)'
+title: 'Arts and Crafts Group'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764342337
-start_date: '2026-02-14 14:00'
-end_date: '2026-02-14 15:00'
+updated_at: 1764342364
+start_date: '2026-02-28 14:00'
+end_date: '2026-02-28 15:00'
 event_categories:
   - art
   - teen
