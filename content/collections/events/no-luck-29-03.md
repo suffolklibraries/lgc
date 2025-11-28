@@ -1,10 +1,9 @@
 ---
 id: 3190e51f-710a-416a-a5f0-ec5ae8af7cc9
-published: false
 blueprint: events
-title: 'Sing Christmas! (Duplicated)'
-start_date: '2025-12-06 16:00'
-end_date: '2025-12-20 17:30'
+title: 'Concerteenies: The Duck with No Luck'
+start_date: '2026-03-29 12:00'
+end_date: '2026-03-29 12:55'
 free: false
 virtual: false
 accessibility_information:
@@ -92,7 +91,31 @@ content_area:
     content:
       -
         type: text
-        text: 'Join conductor Ben Parry, the Britten Pears Chamber Choir and a four-piece band to sing your heart out with Christmas songs from the past 40 years. No previous singing experience necessary and seasonal dress is obligatory…'
+        text: "When Dizzy the duck oversleeps and misses the flight South, he knows that he must, somehow, catch his friends up. Unfortunately, Dizzy doesn't have a good sense of direction. Can anyone help him on his way? Join him as he encounters a mischievous pigeon, a well-meaning parrot, and a hungry vulture… not to mention swampy jungles and a chase into space!"
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'With songs and actions to join in with and a relaxed and friendly environment, this is a perfect introduction to music, animation and storytelling.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Narrator Polly Ives, bassoonist Daria Phillips and pianist Annabelle Lawson combine new music, composed by award-winning Paul Rissmann, and digital animations by Victor Craven, with this much-loved children’s book written by Jonathan Long and illustrated by Korky Paul.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Join us in the foyer before and after the concert for creative activities inspired by the story.'
 cta: |-
   This event is organised by Britten Pears Arts
 
@@ -110,9 +133,10 @@ featured_image: pelicanpelican-3x2/music.png
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764341094
+updated_at: 1764341462
 duplicated_from: 4721a98b-fe7a-42bb-83a0-cd7acceb2183
-cost_details: 'From £12.50'
-booking_link: 'https://www.brittenpearsarts.org/events/sing-christmas'
+cost_details: 'From £5'
+booking_link: 'https://www.brittenpearsarts.org/events/concerteenies-the-duck-with-no-luck'
+attendance_information: 'Children aged 3 - 7 and their families'
 ---
-Come and sing favourite Christmas pop songs from Slade to Shakin’ Stevens and Wizzard to Wham!
+Join Concerteenies for the musical story of “The Duck With No Luck”.
