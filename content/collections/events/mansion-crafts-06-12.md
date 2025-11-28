@@ -1,8 +1,7 @@
 ---
 id: 48d5c60b-3521-4a75-899e-7557cf2a60a9
-published: false
 blueprint: events
-title: 'Make your own Christmas Card (Duplicated)'
+title: 'Make your own Christmas Card'
 event_categories:
   - art
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
-start_date: '2025-11-30 10:00'
-end_date: '2025-11-30 15:00'
+start_date: '2025-12-06 10:00'
+end_date: '2025-12-06 15:00'
 free: false
 virtual: false
 latitude: '52.06078949566327'
@@ -74,7 +73,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764335328
+updated_at: 1764335358
 duplicated_from: 1a411569-0713-47c4-b188-92f576786d0d
 accessibility_information:
   - 'Accessible toilets'
