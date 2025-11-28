@@ -5,10 +5,11 @@ title: 'Mini Mansions'
 event_categories:
   - art
   - early-years
+  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/mini-mansions-1080-x-675-new.jpg
-start_date: '2025-05-07 10:00'
+start_date: '2025-12-03 10:00'
 end_date: '2025-05-07 12:00'
 free: false
 virtual: false
@@ -21,22 +22,13 @@ town: Ipswich
 postcode: 'IP4 2BE'
 content_area:
   -
-    type: heading
-    attrs:
-      textAlign: left
-      level: 3
-    content:
-      -
-        type: text
-        text: 'What to expect'
-  -
     type: paragraph
     attrs:
       textAlign: left
     content:
       -
         type: text
-        text: 'Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for June is ‘The Alphabet’.'
+        text: "Join our interactive sessions for children aged 2½\_ – 4 and their parents, grandparents and carers. Explore the collections and galleries together through play, stories, craft and science activities designed to encourage development, communication and curiosity about the world around us. The theme for December is ‘Seasons’."
   -
     type: paragraph
     attrs:
@@ -52,7 +44,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The main session will be on the ground floor, with pushchair access to the Wolsey Art Gallery via the side garden entrance. Part of the session may involve exploring the Mansion using the stairs. Please let us know if you have any access requirements when you book, as there is no lift.'
+        text: 'The main session will be on the ground floor, with pushchair access to the Lower Tudor Room. Part of the session may involve exploring the Mansion using the stairs. Please let us know if you have any access requirements when you book, as there is no lift.'
   -
     type: paragraph
     attrs:
@@ -60,29 +52,29 @@ content_area:
     content:
       -
         type: text
-        text: 'You can book your ticket via the '
+        text: 'For useful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://ipswich.cimuseums.org.uk/events/'
+              href: 'https://ipswich.cimuseums.org.uk/christchurchmansionaccess/'
               rel: null
-              target: _blank
+              target: null
               title: null
-        text: "Ipswich Museums' website"
-      -
-        type: text
-        text: '. Choose from a range of 45-minute sessions - 10am - 10.45am and 11.15am - midday'
+        text: 'Access at Christchurch Mansion'
   -
-    type: heading
+    type: paragraph
     attrs:
       textAlign: left
-      level: 3
-booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-may/'
+    content:
+      -
+        type: text
+        text: 'Mini Mansion sessions are designed for pre-school children and their carers – they are unsuitable for larger nursery groups.'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/mini-mansions-dec/'
 cta: |-
-  This event is organised by Ipswich Museums:
+  This event is organised by Ipswich Museums
 
   [https://ipswich.cimuseums.org.uk/](https://ipswich.cimuseums.org.uk/) 
 
@@ -90,8 +82,8 @@ cta: |-
   [museums@colchester.gov.uk](mailto:museums@colchester.gov.uk)
 
   [01206 282931](tel:01206282931)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740039637
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764335872
 duplicated_from: 2fb9bb87-644e-4b89-9152-1062c25b3e3d
 cost_details: £3
 accessibility_information:
@@ -149,6 +141,5 @@ directions:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-published: false
 ---
 Join our interactive sessions for children aged 2½  – 4 and their parents, grandparents and carers.
