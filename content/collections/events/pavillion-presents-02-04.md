@@ -1,8 +1,7 @@
 ---
 id: 0e943253-cd4d-4686-8f6f-4a5c24ab39c8
-published: false
 blueprint: events
-title: 'Winter Warmer Folk Concert (Duplicated)'
+title: 'Folk at the Pavilion'
 event_categories:
   - community
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-12-11 19:30'
-end_date: '2025-12-11 21:30'
+start_date: '2026-04-02 19:30'
+end_date: '2026-04-02 20:30'
 free: false
 virtual: true
 latitude: '52.47138864661286'
@@ -71,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: "Vicki Swann and Jonny Dyer's Christmas show blends traditional and contemporary winter songs and stories with joyous Christmas carols and toe tapping dance tunes. \_"
+        text: 'Award-winning songwriter Reg Meuross, introduced at the Royal Albert Hall by Mike Harding as “one of this country’s finest”, is a true modern troubadour and one of the most respected voices in contemporary English folk. With a beautiful tenor voice and a catalogue of songs that span compassion, social justice, history and humanity, he has captivated audiences for decades across the UK, Europe, North America and the Antipodes.'
   -
     type: paragraph
     attrs:
@@ -79,7 +78,7 @@ content_area:
     content:
       -
         type: text
-        text: "Be entranced by the haunting nyckelharpa, amazed at the cow horn (one of the world's earliest communication devices) and meet some of the bagpipes that didn't come from Scotland. Suitable for all ages, their evenings are packed with toe tapping tunes and songs of love, death, trains and dressing up (not always at the same time) all presented with sparkling gentle humour, lots of smiles and skilful musicianship."
+        text: 'A Reg Meuross concert is a masterclass in musical storytelling. Accompanying himself on his vintage 1944 Martin six-string guitar, harmonica, tenor guitar, banjo and dulcimer, he draws listeners into the heart and soul of his songs: stories that need telling, lives that need honouring, truths that need unearthing. Across 17 critically acclaimed albums, Reg continues to prove how highly relevant his songs are, whilst reaching new audiences with consistently spellbinding performances.'
   -
     type: paragraph
     attrs:
@@ -87,20 +86,69 @@ content_area:
     content:
       -
         type: text
-        text: 'Book online at '
+        text: 'Reg is currently touring songs from his extensive back catalogue alongside Fire and Dust, the narrated song-cycle commissioned by Pete Townshend, which explores the life of Woody Guthrie and shines a light on racism, corruption and inequality. A new solo album is due in 2026.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '7pm - Doors Open'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '7.30pm - Performance from John & Lynne Ward'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: '8.30pm - Reg Meuross'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Tickets: £12, book online at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/vicki-swan-jonny-dyers-winter-warmer/e-zeaole'
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/folk-at-the-pavilion-reg-meuross/e-erdgea'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/vicki-swan-jonny-dyers-winter-warmer/e-zeaole'
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/folk-at-the-pavilion-reg-meuross/e-erdgea'
 cta: |-
   This event is organised by First Light Festival
 
@@ -108,7 +156,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764330845
+updated_at: 1764332095
 duplicated_from: 46cc8b33-af77-4d63-9d90-aedfb7832cdb
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
@@ -119,4 +167,4 @@ accessibility_information:
 address_line_2: 'Royal Plain'
 cost_details: £12
 ---
-Folk at the Pavilion presents… Vicki Swan & Jonny Dyer who blend traditional material with contemporary sounds.
+Folk at the Pavilion presents… Reg Meuross
