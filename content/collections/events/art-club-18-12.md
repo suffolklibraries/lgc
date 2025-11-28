@@ -1,20 +1,19 @@
 ---
 id: b9d48b32-14bb-4c58-88ce-1f6630230cfe
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Art Club with The Hub'
 event_categories:
   - museums
-  - early-years
-  - family-friendly
+  - teen
+  - languages
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-12-12 11:00'
-end_date: '2025-12-12 12:00'
+featured_image: pelicanpelican-3x2/support.png
+start_date: '2025-12-18 13:30'
+end_date: '2025-12-18 15:30'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children aged 18 months to 4 years'
+attendance_information: 'Young people aged 16 to 18 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,7 +134,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: 'We are delighted to launch a new creative initiative for young people aged 16-18 years in collaboration with Newmarket Community Arts and the Hub, thanks to support from the Thriving Communities Fund and the Racing Foundation.'
   -
     type: paragraph
     attrs:
@@ -143,7 +142,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
+        text: 'Young people can join our six, monthly Art Club sessions at the museum, where they will meet a range of artists, learn new skills and techniques, develop their wellbeing and a portfolio of work and enjoy spending time being creative. The first session will be on Thursday 27 November from 1:30-3:30pm at the museum with screen printing artist Ricki Oultis, young people will develop and create their own unique t-shirt using screen printing techniques. Participants will also receive a sketch book and pencils so they can continue to enjoy being creative between sessions.'
   -
     type: paragraph
     attrs:
@@ -151,29 +150,21 @@ content_area:
     content:
       -
         type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your pre-school place, please email '
+        text: 'Email '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'mailto:info@nhrm.co.uk'
+              href: 'mailto:makeda@newmarketcharity.org'
               rel: null
               target: null
               title: null
-        text: info@nhrm.co.uk
+        text: Makeda
       -
         type: text
-        text: .
+        text: ' to book your place.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -183,8 +174,8 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759501141
+updated_at: 1764328805
 duplicated_from: ba743126-5b4c-43ec-ac11-9c588066ddd5
-booking_link: 'https://www.nhrm.co.uk/events/pre-school-little-horseshoes-sessions/'
+booking_link: 'https://www.nhrm.co.uk/events/art-club-with-the-hub/'
 ---
-Free, creative play sessions, designed to educate and entertain!
+A new creative initiative for young people aged 16-18 years.
