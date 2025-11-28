@@ -10,8 +10,8 @@ event_categories:
 organisers:
   - first-light-festival
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-07-20 13:30'
-end_date: '2025-07-20 16:00'
+start_date: '2025-12-21 13:30'
+end_date: '2025-12-21 16:00'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -71,7 +71,7 @@ content_area:
     content:
       -
         type: text
-        text: 'All are welcome to join these unplugged sessions and play traditional or contemporary tunes, or sing songs.'
+        text: 'All are welcome to join these unplugged sessions and play traditional or contemporary tunes or sing songs.'
   -
     type: paragraph
     attrs:
@@ -79,7 +79,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us from 1.30pm for a ‘Slow Tune Session for Improvers’, followed by a folk session for singers and players from 2-4pm.'
+        text: 'Join us from 1pm for a ‘Slow Tune Session for Improvers’, followed by a folk session for singers and players from 2-4pm.'
   -
     type: paragraph
     attrs:
@@ -87,15 +87,15 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just turn up and join in or listen!'
+        text: 'Free entry. No need to book, just turn up and join in or listen!'
 cta: |-
   This event is organised by First Light Festival
 
   [https://firstlightlowestoft.com/](https://firstlightlowestoft.com/)
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747312518
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764331408
 duplicated_from: 4f23e94e-c035-42c8-b2b8-8fdcd6448c3a
 booking_link: 'https://www.eastpointpavilion.com/events/the-pavilion-sessions-erw6n-jtlxl-54754'
 accessibility_information:
@@ -104,6 +104,5 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-published: false
 ---
 ‘Come all’ inclusive folk get-togethers.
