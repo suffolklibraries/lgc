@@ -1,20 +1,18 @@
 ---
 id: a1480e71-71b3-443c-8641-48bd310d7b97
-published: false
 blueprint: events
-title: 'Art Club with The Hub (Duplicated)'
+title: 'Christmas at the Museum 2025'
 event_categories:
   - museums
   - teen
-  - languages
+  - family-friendly
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/support.png
-start_date: '2026-04-23 13:30'
-end_date: '2026-04-23 15:30'
+featured_image: pelicanpelican-3x2/music.png
+start_date: '2025-12-13 10:00'
+end_date: '2025-12-13 16:00'
 free: true
 virtual: false
-attendance_information: 'Young people aged 16 to 18 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,7 +133,7 @@ content_area:
     content:
       -
         type: text
-        text: 'We are delighted to launch a new creative initiative for young people aged 16-18 years in collaboration with Newmarket Community Arts and the Hub, thanks to support from the Thriving Communities Fund and the Racing Foundation.'
+        text: 'Celebrate the most wonderful time of the year with a Christmas carriage ride around the museum’s grounds. Enjoy festive-themed crafts, games, stalls and tasty seasonal treats. Plus add a touch of magic with a visit to Father Christmas’s grotto stable and say hello to his cheeky elves — our resident mini-Shetland ponies, Harry and Kizzy.'
   -
     type: paragraph
     attrs:
@@ -143,29 +141,111 @@ content_area:
     content:
       -
         type: text
-        text: 'Young people can join our six, monthly Art Club sessions at the museum, where they will meet a range of artists, learn new skills and techniques, develop their wellbeing and a portfolio of work and enjoy spending time being creative. The first session will be on Thursday 27 November from 1:30-3:30pm at the museum with screen printing artist Ricki Oultis, young people will develop and create their own unique t-shirt using screen printing techniques. Participants will also receive a sketch book and pencils so they can continue to enjoy being creative between sessions.'
+        text: 'What to expect on the day:'
   -
-    type: paragraph
-    attrs:
-      textAlign: start
+    type: bulletList
     content:
       -
-        type: text
-        text: 'Email '
-      -
-        type: text
-        marks:
+        type: listItem
+        content:
           -
-            type: link
+            type: paragraph
             attrs:
-              href: 'mailto:makeda@newmarketcharity.org'
-              rel: null
-              target: null
-              title: null
-        text: Makeda
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Horse and carriage rides'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Visit Father Christmas in his festive stable'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Seasonal Crafts and Games'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                marks:
+                  -
+                    type: link
+                    attrs:
+                      href: 'https://popclubchoir.uk/index.php#about'
+                      rel: noopener
+                      target: _blank
+                      title: null
+                text: 'Pop Club Choir'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Festive Food and Drink (including Mulled Wine!)'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Face painting'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: Stalls
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        text: ' to book your place.'
+        text: 'Special admission price of £6 Adults, £4 Child, (under 5s free) includes access to all outside areas of the Museum. Tickets available to purchase on the day.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: 'Please note: this event is not included with the annual pass. Under 3’s are not permitted on the carriage.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -175,8 +255,9 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764328937
+updated_at: 1764329403
 duplicated_from: dda74051-5546-4c71-99a7-2d3cce056de1
-booking_link: 'https://www.nhrm.co.uk/events/art-club-with-the-hub/'
+booking_link: 'https://www.nhrm.co.uk/events/christmas-at-the-museum-copy/'
+cost_details: "Adults £6, Children £4, Under 5's Free"
 ---
-A new creative initiative for young people aged 16-18 years.
+Celebrate the most wonderful time of the year at Palace House.
