@@ -1,18 +1,15 @@
 ---
 id: 3d41eb16-bffc-490f-ade6-4aa6817d2db2
-published: false
 blueprint: events
-title: 'Family Christmas Party (Duplicated)'
+title: 'Festive Drama Games'
 event_categories:
-  - community
   - family-friendly
-  - dance
-  - music
+  - theatre-and-performance
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/pompoms.png
-start_date: '2025-12-22 15:00'
-end_date: '2025-12-22 17:00'
+start_date: '2025-12-23 10:30'
+end_date: '2025-12-23 11:15'
 free: false
 virtual: false
 latitude: '52.47138864661286'
@@ -72,7 +69,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Expect traditional party games and a family disco with modern hits and timeless party classics. So come on and join the Conga!'
+        text: 'Local actor and drama facilitator, Honey-Rose, presents a 45-minute workshop of fun festive themed drama games!'
   -
     type: paragraph
     attrs:
@@ -80,7 +77,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The East Point Pavilion Bar will be open serving drinks and snacks.'
+        text: 'The East Point Pavilion Bar will be open for drinks and snacks.'
   -
     type: paragraph
     attrs:
@@ -88,24 +85,20 @@ content_area:
     content:
       -
         type: text
-        text: 'Booking Essential: '
+        text: 'Book Here: '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/family-xmas-party/2025-12-22/15:00/t-plzepxo'
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/2025-12-23/10:30/t-dkadkqp'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/family-xmas-party/2025-12-22/15:00/t-plzepxo'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
+        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/2025-12-23/10:30/t-dkadkqp'
 cta: |-
   This event is organised by First Light Festival
 
@@ -113,7 +106,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764331509
+updated_at: 1764331637
 duplicated_from: 58660dba-0c5d-4f86-9b41-e23ee0de41af
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
@@ -122,6 +115,7 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
-cost_details: 'Adults £2, Children £7'
+cost_details: '£4.50 per child'
+attendance_information: 'Children aged 5-11 years'
 ---
-Children’s Entertainer Barrie Thornton returns to East Point Pavilion for a Christmas party!
+Does your child love to play, imagine, act and perform?
