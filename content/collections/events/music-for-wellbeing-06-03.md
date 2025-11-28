@@ -1,13 +1,12 @@
 ---
 id: eb62da96-98f9-4e93-9249-776733085ad5
-published: false
 blueprint: events
-title: 'Music for Wellbeing (Duplicated) (Duplicated)'
+title: 'Music for Wellbeing'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764342049
-start_date: '2026-02-20 13:30'
-end_date: '2026-02-20 15:00'
+updated_at: 1764342093
+start_date: '2026-03-06 13:30'
+end_date: '2026-03-06 15:00'
 free: true
 virtual: false
 organisers:
