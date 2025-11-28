@@ -1,16 +1,16 @@
 ---
 id: de1f5dab-b4f7-479e-b8f7-da9f605e08c4
-published: false
 blueprint: events
-title: 'Ipswich Choral Society Performance (Duplicated)'
+title: 'Ipswich Community Hospital Choir Performance'
 event_categories:
-  - art
   - family-friendly
+  - museums
+  - music
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
-start_date: '2025-12-06 12:30'
-end_date: '2025-12-06 13:00'
+start_date: '2025-12-07 12:30'
+end_date: '2025-12-07 13:00'
 free: true
 virtual: false
 latitude: '52.06078949566327'
@@ -82,7 +82,7 @@ content_area:
               target: null
               title: null
         text: 'Access at the Mansion | Ipswich Museums'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/ipswich-choral/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/ipswich-hospital-choir/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -93,7 +93,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764335982
+updated_at: 1764336038
 duplicated_from: b5a0337f-09b1-4f1f-98d5-b4072c6c3f98
 accessibility_information:
   - 'Accessible toilets'
