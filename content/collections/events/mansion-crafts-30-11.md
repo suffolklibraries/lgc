@@ -1,17 +1,17 @@
 ---
 id: 1a411569-0713-47c4-b188-92f576786d0d
-published: false
 blueprint: events
-title: 'Christmas Tree Festival (Duplicated)'
+title: 'Make your own Christmas Card'
 event_categories:
   - art
   - family-friendly
+  - museums
 organisers:
   - ipswich-museums
 featured_image: ipswichmuseums/christmas-tree-festival-3x2.png
-start_date: '2025-11-25 10:00'
-end_date: '2026-01-04 16:00'
-free: true
+start_date: '2025-11-30 10:00'
+end_date: '2025-11-30 15:00'
+free: false
 virtual: false
 latitude: '52.06078949566327'
 longitude: '1.158103369168139'
@@ -26,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore the Mansion and spot all of the trees which have each been decorated by a different community group in Ipswich.'
+        text: 'Are you planning a festive visit to Christchurch Mansion this holiday season? Make your day even more special by joining our Christmas card craft sessions, where you can decorate your own card that you can take home and send to your family or friends.'
   -
     type: paragraph
     attrs:
@@ -34,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This event is suitable for all ages. The trees will be located on both the ground floor and the first floor, which requires access via stairs.'
+        text: 'Our drop-in sessions will be held on the weekends of 29–30 November and 6–7 December, running daily from 10 AM to 3 PM. All materials will be provided, and our friendly team will be available to guide you through each step. This activity is suitable for children aged 5 and up, making it a perfect festive treat for the whole family.'
   -
     type: paragraph
     attrs:
@@ -42,7 +42,15 @@ content_area:
     content:
       -
         type: text
-        text: 'For helpful information, such as how to find us and what facilities the Mansion has, we recommend reading our Access information: '
+        text: 'There’s no need to book in advance. Simply visit the gift shop when you arrive to collect your ticket, and you can join the session at any time throughout the day.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'The event will be held in the Lower Tudor Room, located on the ground floor and fully accessible to all visitors. For helpful details about how to find us and the facilities available at Christchurch Mansion, we recommend reading our Access information: '
       -
         type: text
         marks:
@@ -54,7 +62,7 @@ content_area:
               target: null
               title: null
         text: 'Access at Christchurch Mansion'
-booking_link: 'https://ipswich.cimuseums.org.uk/events/tree-festival/'
+booking_link: 'https://ipswich.cimuseums.org.uk/events/christmas-card/'
 cta: |-
   This event is organised by Ipswich Museums:
 
@@ -65,7 +73,7 @@ cta: |-
 
   [01206 282931](tel:01206282931)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764335123
+updated_at: 1764335328
 duplicated_from: 483e26e8-775d-4503-b20c-bd7574ef2ceb
 accessibility_information:
   - 'Accessible toilets'
@@ -126,5 +134,6 @@ directions:
               title: null
         text: 'Access at Christchurch Mansion'
 building_name: 'Christchurch Mansion'
+cost_details: '£3 per child'
 ---
-Get in the festive spirit with our annual Christchurch Mansion Christmas Tree Festival!
+Get in the festive spirit with Christmas crafts.
