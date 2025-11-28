@@ -1,8 +1,7 @@
 ---
 id: 97e104f7-0191-458c-99fc-a7be5e59243d
-published: false
 blueprint: events
-title: 'Christmas Crafty Workshop (Duplicated)'
+title: 'Christmas Crafty Workshop'
 event_categories:
   - community
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - east-point-pavilion
 featured_image: eastpointpavilion/pompoms.png
-start_date: '2025-12-09 13:00'
-end_date: '2025-12-09 14:30'
+start_date: '2025-12-16 13:00'
+end_date: '2025-12-16 14:30'
 free: true
 virtual: false
 latitude: '52.47138864661286'
@@ -71,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Shape, create & take home festive salt dough decorations to air-dry & display.'
+        text: 'Let’s get crafty with wool to make a choice of pom-pom Christmas tree decorations.'
   -
     type: paragraph
     attrs:
@@ -79,33 +78,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Click here to book your free place:'
+        text: 'Everyone welcome and all materials provided.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Click here to book your free place: '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/festive-drama-games/2025-12-23/10:30/t-dkadkqp'
-              rel: null
-              target: _blank
-              title: null
-          -
-            type: underline
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-salt-dough-ornaments/2025-12-09/13:00/t-ejkoxxx'
+              href: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-pom-pom-decorations/2025-12-16/13:00/t-aaqxddg'
               rel: null
               target: null
               title: null
           -
             type: underline
-        text: 'https://www.ticketsource.co.uk/first-light-festival-cic/crafty-christmas-workshop-salt-dough-ornaments/2025-12-09/13:00/t-ejkoxxx'
+        text: 'Crafty Christmas Workshop: Pom pom decorations at East Point Pavilion event tickets from TicketSource'
 cta: |-
   This event is organised by First Light Festival
 
@@ -113,7 +107,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764330690
+updated_at: 1764331085
 duplicated_from: d24dbebb-88f7-4e5f-a810-63bddb4b5d0f
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
