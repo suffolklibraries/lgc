@@ -1,13 +1,13 @@
 ---
 id: 46c132f8-71f8-4671-a679-006319671745
 blueprint: events
-title: 'Around Britten in Brass'
+title: 'Magic of Christmas 2025'
 latitude: '52.16396364890942'
 longitude: '1.4967351727076355'
-start_date: '2025-06-29 11:00'
-end_date: '2025-06-29 12:10'
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738582726
+start_date: '2025-12-05 15:00'
+end_date: '2025-12-14 18:30'
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764340750
 free: false
 virtual: false
 organisers:
@@ -20,15 +20,7 @@ content_area:
     content:
       -
         type: text
-        text: 'The launch of the new album from Onyx Brass, featuring first performances of Britten and Imogen Holst among a varied and colourful programme of music from the last 100 years.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'This “wonderful, virtuoso brass quintet” presents the world premiere of Benjamin Britten’s Funeral March, newly completed by Bernard Hughes from sketches in our archive. We will hear the first modern performance of his Fanfare for David Webster and three special pieces by Imogen Holst, including her Leiston Suite. The programme also contains a wealth of stirring brass music from the last century including suites by Horovitz and Bernstein, Malcolm Arnold’s Quintet, and Walton’s fantastic Roaring Fanfare.'
+        text: 'With prancing reindeer, rocking santas, a moving nativity scene, toe-tapping music and dynamic dancing, this has everything for a perfect Christmas treat for the whole family.'
 address_line_1: 'Snape Maltings'
 town: Snape
 postcode: 'IP17 1SP'
@@ -48,10 +40,10 @@ cta: |-
 event_categories:
   - music
   - theatre-and-performance
-booking_link: 'https://www.brittenpearsarts.org/events/around-britten-in-brass'
+booking_link: 'https://www.brittenpearsarts.org/events/co-op-juniors-magic-of-christmas-2025'
 featured_image: pelicanpelican-3x2/music.png
 duplicated_from: 081ae46e-3713-4eea-8f13-f2d19c8c3a94
-building_name: 'Britten Studio'
+building_name: 'Snape Maltings Concert Hall'
 directions:
   -
     type: paragraph
@@ -119,7 +111,6 @@ directions:
       -
         type: text
         text: .
-cost_details: 'Tickets from £17.50; under 30s half price'
-published: false
+cost_details: 'Tickets from £15, discounts for under 16s and seniors'
 ---
-"The classiest brass ensemble in Britain."
+A spectacular new music and dance show bursting with energy and a generous sprinkling of festive magic.
