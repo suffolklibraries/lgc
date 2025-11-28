@@ -1,8 +1,7 @@
 ---
 id: ea255983-d672-471f-a2d7-f6dcc3c3fcf9
-published: false
 blueprint: events
-title: 'Art Club with The Hub (Duplicated)'
+title: 'Art Club with The Hub'
 event_categories:
   - museums
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - national-horse-racing-museum
 featured_image: pelicanpelican-3x2/support.png
-start_date: '2025-12-18 13:30'
-end_date: '2025-12-18 15:30'
+start_date: '2026-01-22 13:30'
+end_date: '2026-01-22 15:30'
 free: true
 virtual: false
 attendance_information: 'Young people aged 16 to 18 years'
@@ -175,7 +174,7 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764328805
+updated_at: 1764328835
 duplicated_from: b9d48b32-14bb-4c58-88ce-1f6630230cfe
 booking_link: 'https://www.nhrm.co.uk/events/art-club-with-the-hub/'
 ---
