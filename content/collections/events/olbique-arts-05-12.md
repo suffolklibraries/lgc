@@ -1,20 +1,20 @@
 ---
 id: 3c61230e-dd11-4f55-b077-aeae3e270ed5
-published: false
 blueprint: events
-title: 'Little Horseshoes’ Pre-School Creative Play Sessions (Duplicated)'
+title: 'Art for Wellbeing Course'
 event_categories:
   - museums
-  - early-years
-  - family-friendly
+  - languages
+  - wellbeing
+  - community
+  - later-years
 organisers:
   - national-horse-racing-museum
-featured_image: pelicanpelican-3x2/early-years-(1).png
-start_date: '2025-12-12 11:00'
-end_date: '2025-12-12 12:00'
+featured_image: pelicanpelican-3x2/later_nature-(1).png
+start_date: '2025-12-05 13:30'
+end_date: '2025-12-05 15:30'
 free: true
 virtual: false
-attendance_information: 'suitable for pre-school children aged 18 months to 4 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -135,7 +135,7 @@ content_area:
     content:
       -
         type: text
-        text: 'You can have fun exploring the galleries together, discovering objects, listening to stories and rhymes inspired by our collections and make and create something to take home.'
+        text: 'Sign up for this six-week art course focused on developing your wellbeing through creativity.'
   -
     type: paragraph
     attrs:
@@ -143,7 +143,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Places are free for pre-school children but limited to 15 children per session.'
+        text: 'Our experienced tutors will guide you in developing new techniques and you will develop a range of creative skills.'
   -
     type: paragraph
     attrs:
@@ -151,29 +151,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Please note: There is one session on the day at 11am. Please specify the date and session when booking. If your preferred session is booked, we can add you to the waiting list for cancellations, just let us know via email whether you would like to be added to this.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'To book your pre-school place, please email '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:info@nhrm.co.uk'
-              rel: null
-              target: null
-              title: null
-        text: info@nhrm.co.uk
-      -
-        type: text
-        text: .
+        text: 'The course is made possible thanks to funding from Oblique Arts and Arts Council England and donations towards materials are welcome.'
 cta: |-
   This event is organised by National Horse Racing Museum
 
@@ -183,8 +161,8 @@ cta: |-
 
   [01638 667314](tel:01638667314)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1759501141
+updated_at: 1764328588
 duplicated_from: ba743126-5b4c-43ec-ac11-9c588066ddd5
-booking_link: 'https://www.nhrm.co.uk/events/pre-school-little-horseshoes-sessions/'
+booking_link: 'https://www.nhrm.co.uk/events/art-for-wellbeing-course-with-oblique-arts/'
 ---
-Free, creative play sessions, designed to educate and entertain!
+Fully funded six-week adult art class with Oblique Arts.
