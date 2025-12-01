@@ -137,7 +137,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764592959
+updated_at: 1764604245
 duplicated_from: 9330c63e-2518-4ba5-a16d-f15b9a175027
 cost_details: '£5 per session'
 attendance_information: 'people aged 55+'
