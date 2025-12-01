@@ -1,14 +1,13 @@
 ---
 id: 16fb4ef1-342a-4824-adda-c4e20198ec4d
-published: false
 blueprint: events
-title: 'Moving Minds (Duplicated) (Duplicated) (Duplicated)'
+title: 'Moving Minds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764603855
+updated_at: 1764603908
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
-start_date: '2026-02-04 10:30'
+start_date: '2026-02-25 10:30'
 free: true
 virtual: false
 organisers:
@@ -105,7 +104,7 @@ cta: |-
   [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
 
   [01473 295230](tel:01473295230)
-end_date: '2026-02-04 12:00'
+end_date: '2026-02-25 12:00'
 attendance_information: 'all welcome'
 duplicated_from: 8c886589-4b4e-49aa-93ad-209a6de93cb3
 cost_details: 'donations welcome'
