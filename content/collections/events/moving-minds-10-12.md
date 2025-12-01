@@ -4,7 +4,7 @@ blueprint: events
 title: 'Moving Minds'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1757000713
+updated_at: 1764603562
 latitude: '52.05290880617399'
 longitude: '1.1552660082048722'
 start_date: '2025-12-10 10:30'
@@ -111,7 +111,6 @@ cost_details: 'donations welcome'
 event_categories:
   - dance
   - wellbeing
-  - movement
   - later-years
 accessibility_information:
   - 'Accessible toilets'
