@@ -7,7 +7,7 @@ event_categories:
   - community
   - later-years
   - dance
-  - movement
+  - movement-and-sport
 organisers:
   - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/dance.png
@@ -133,7 +133,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764584280
+updated_at: 1764604139
 duplicated_from: 44d20b91-119d-46f0-afd0-e5390e903133
 cost_details: £5
 attendance_information: 'people aged 55+'
