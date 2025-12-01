@@ -4,12 +4,11 @@ blueprint: events
 title: 'Wellbeing Walk - Sutton Hoo Strollers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758700098
+updated_at: 1764604568
 latitude: '52.09456252204828'
 longitude: '1.3410000833155278'
 start_date: '2026-02-05 10:30'
 event_categories:
-  - movement
   - wellbeing
   - later-years
   - community
