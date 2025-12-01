@@ -7,7 +7,7 @@ event_categories:
   - community
   - later-years
   - dance
-  - movement
+  - movement-and-sport
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance.png
@@ -138,7 +138,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756723950
+updated_at: 1764604227
 duplicated_from: 15977f9b-dd0b-43c1-a7a8-f1f1146e3a52
 cost_details: '£5 per session'
 attendance_information: 'people aged 55+'
