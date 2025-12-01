@@ -4,7 +4,7 @@ blueprint: events
 title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764587365
+updated_at: 1764604728
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
 start_date: '2026-02-06 14:00'
@@ -94,8 +94,7 @@ duplicated_from: b07bc040-33a8-45a2-9a1a-17faaaa2522b
 event_categories:
   - dance
   - later-years
-  - wellbeing
-  - movement
+  - movement-and-sport
 building_name: 'John Peel Centre'
 directions:
   -
