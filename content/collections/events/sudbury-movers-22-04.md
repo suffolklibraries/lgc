@@ -1,8 +1,7 @@
 ---
 id: f2d1d7d8-3fac-4fa9-a96d-0af4dc659b62
-published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated) (Duplicated) (Duplicated)'
+title: 'Sudbury Movers'
 event_categories:
   - wellbeing
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2026-04-01 10:00'
-end_date: '2026-04-01 11:30'
+start_date: '2026-04-22 10:00'
+end_date: '2026-04-22 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -192,7 +191,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764592775
+updated_at: 1764592830
 duplicated_from: b1864d8d-52da-492d-8f48-44d8e4459040
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
