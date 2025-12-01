@@ -1,19 +1,18 @@
 ---
 id: 9286dfc7-ac16-4d83-9897-b09892f10da5
-published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated) (Duplicated) (Duplicated)'
+title: 'Sudbury Movers'
 event_categories:
   - wellbeing
   - community
   - later-years
   - dance
-  - movement
+  - movement-and-sport
 organisers:
-  - danceeast
+  - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-12-10 10:00'
-end_date: '2025-12-10 11:30'
+start_date: '2026-01-14 10:00'
+end_date: '2026-01-14 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -186,17 +185,15 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+  This event is organised by Alysha Hudson Dance
 
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+  [Alyshalouisehudson@outlook.com](mailto:Alyshalouisehudson@outlook.com)
 
-  [01473 295230](tel:01473295230)
+  [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764592443
+updated_at: 1764592580
 duplicated_from: 2e38b548-0bb6-4aca-88a6-8d03284c9ae5
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
-booking_link: 'https://www.danceeast.co.uk/movers-2/'
 ---
 Come and try our weekly movement classes for people over 55!
