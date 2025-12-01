@@ -4,7 +4,7 @@ blueprint: events
 title: 'Hadleigh Mini Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756727695
+updated_at: 1764602424
 latitude: '52.04262545010293'
 longitude: '0.9547349567782285'
 start_date: '2025-12-16 09:15'
@@ -215,10 +215,10 @@ end_date: '2025-12-16 10:15'
 duplicated_from: dddbc47f-edbd-474f-a4aa-84b574639d18
 event_categories:
   - dance
-  - movement
   - wellbeing
   - early-years
   - family-friendly
+  - movement-and-sport
 building_name: 'Hadleigh Library'
 directions:
   -
