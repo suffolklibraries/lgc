@@ -1,16 +1,15 @@
 ---
 id: 99e9073f-0e8e-438e-a549-7ecfa1f4008e
-published: false
 blueprint: events
-title: "Bury St Edmunds Men's Shed (Duplicated)"
+title: "Bury St Edmunds Men's Shed"
 event_categories:
   - community
   - later-years
   - nature
   - wellbeing
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2026-04-04 10:00'
-end_date: '2026-04-04 14:00'
+start_date: '2026-04-18 10:00'
+end_date: '2026-04-18 14:00'
 free: false
 cost_details: '£20 annual membership, £3 per Saturday session'
 virtual: false
@@ -133,7 +132,7 @@ cta: |-
 
   [shedheadsbse@gmail.com](mailto:shedheadsbse@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764609530
+updated_at: 1764609569
 duplicated_from: 897cc59b-868e-47ef-ac6d-834bfb15b1fb
 organisers:
   - bury-st-edmunds-mens-shed
