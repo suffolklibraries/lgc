@@ -133,7 +133,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764584154
+updated_at: 1764592584
 duplicated_from: 82d9399a-1009-4b6b-932f-d2193293c025
 cost_details: £5
 attendance_information: 'people aged 55+'
