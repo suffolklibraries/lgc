@@ -1,11 +1,10 @@
 ---
 id: 516d72f5-c89b-42d4-9353-12298d9bd99b
-published: false
 blueprint: events
-title: 'Hadleigh Chair Yoga (Duplicated) (Duplicated)'
+title: 'Hadleigh Chair Yoga'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764590995
+updated_at: 1764591052
 latitude: '52.0426848527466'
 longitude: '0.9532103414348425'
 start_date: '2026-03-06 11:00'
@@ -101,7 +100,7 @@ cta: |-
 accessibility_information:
   - 'Wheelchair accessible'
 cost_details: '£7 per session'
-end_date: '2026-03-06 12:00'
+end_date: '2026-03-20 12:00'
 duplicated_from: 6a56d0e7-8327-4be5-87f0-60f613d3ce0a
 event_categories:
   - dance
