@@ -136,5 +136,6 @@ duplicated_from: 4ac9bc17-add9-486f-a764-65258e13cd04
 booking_link: 'https://www.ticketsource.co.uk/first-light-festival-cic/home-ed-samba-music-classes-with-norfolk-suffolk-music-hub/2025-09-29/09:30/t-pqppyaq'
 cost_details: '£20 per five sessions, plus booking fee'
 attendance_information: 'Home educated children'
+published: false
 ---
 Relaxed and welcoming music classes for home educated children.
