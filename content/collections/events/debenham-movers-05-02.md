@@ -1,8 +1,7 @@
 ---
 id: 64d57010-10d4-4fea-a3c1-d369f1bda8fd
-published: false
 blueprint: events
-title: 'Debenham Movers (Duplicated) (Duplicated) (Duplicated) (Duplicated)'
+title: 'Debenham Movers'
 event_categories:
   - wellbeing
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2026-01-08 10:30'
-end_date: '2026-01-08 12:00'
+start_date: '2026-02-05 10:30'
+end_date: '2026-02-05 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -138,7 +137,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764592959
+updated_at: 1764593022
 duplicated_from: b44b433d-3228-4287-b2b6-f16a4eeb448e
 cost_details: '£5 per session'
 attendance_information: 'people aged 55+'
