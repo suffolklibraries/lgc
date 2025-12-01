@@ -1,8 +1,7 @@
 ---
 id: a1f82d86-e27b-49f8-8702-c6d7ec778fc6
-published: false
 blueprint: events
-title: 'Lowestoft Movers (Duplicated) (Duplicated)'
+title: 'Lowestoft Movers'
 event_categories:
   - wellbeing
   - community
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2026-02-27 10:00'
-end_date: '2026-02-27 11:30'
+start_date: '2026-03-13 10:00'
+end_date: '2026-03-13 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -134,7 +133,7 @@ cta: |-
 
   [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764584241
+updated_at: 1764584280
 duplicated_from: 44d20b91-119d-46f0-afd0-e5390e903133
 cost_details: £5
 attendance_information: 'people aged 55+'
