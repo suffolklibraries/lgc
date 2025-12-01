@@ -4,7 +4,7 @@ blueprint: events
 title: 'Hadleigh Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756721773
+updated_at: 1764603319
 latitude: '52.044439425379515'
 longitude: '0.9559571219725871'
 start_date: '2025-12-16 10:00'
@@ -89,9 +89,9 @@ end_date: '2025-12-16 11:30'
 duplicated_from: 4217a29a-8f83-48b2-b84a-e4c92ab48aa5
 event_categories:
   - dance
-  - movement
   - later-years
   - wellbeing
+  - movement-and-sport
 building_name: 'Hadleigh Baptist Church'
 directions:
   -
