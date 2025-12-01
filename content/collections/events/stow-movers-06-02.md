@@ -1,14 +1,13 @@
 ---
 id: 0c2a2b08-e935-4099-84d5-736806771fa2
-published: false
 blueprint: events
-title: 'Stow Movers (Duplicated) (Duplicated) (Duplicated) (Duplicated)'
+title: 'Stow Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764587292
+updated_at: 1764587365
 latitude: '52.18786710902753'
 longitude: '0.9967641862737325'
-start_date: '2026-01-09 14:00'
+start_date: '2026-02-06 14:00'
 free: false
 virtual: false
 organisers:
@@ -90,7 +89,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
 cost_details: '£5 per session'
-end_date: '2026-01-09 15:30'
+end_date: '2026-02-06 15:30'
 duplicated_from: b07bc040-33a8-45a2-9a1a-17faaaa2522b
 event_categories:
   - dance
