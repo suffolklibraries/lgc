@@ -67,10 +67,31 @@ return [
         ],
 
         'assets' => [
-            'driver' => 'local',
-            'root' => public_path('assets'),
-            'url' => '/assets',
+            'driver' => !in_array(config('app.env'), ['local', 'testing']) ? 's3' : 'local',
+            'url' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_URL') : '/assets',
+            'root' => !in_array(config('app.env'), ['local', 'testing']) ? 'assets' : public_path('assets'),
             'visibility' => 'public',
+
+            'key' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_ACCESS_KEY_ID') : null,
+            'secret' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_SECRET_ACCESS_KEY') : null,
+            'region' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_DEFAULT_REGION', 'eu-west-2') : null,
+            'bucket' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_BUCKET') : null,
+            'endpoint' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_ENDPOINT') : null,
+            'use_path_style_endpoint' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_USE_PATH_STYLE_ENDPOINT', false) : false,
+        ],
+
+        'glide' => [
+            'driver' => !in_array(config('app.env'), ['local', 'testing']) ? 's3' : 'local',
+            'url' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_URL') : '/glide',
+            'root' => !in_array(config('app.env'), ['local', 'testing']) ? 'glide' : public_path('glide'),
+            'visibility' => 'public',
+
+            'key' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_ACCESS_KEY_ID') : null,
+            'secret' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_SECRET_ACCESS_KEY') : null,
+            'region' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_DEFAULT_REGION', 'eu-west-2') : null,
+            'bucket' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_BUCKET') : null,
+            'endpoint' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_ENDPOINT') : null,
+            'use_path_style_endpoint' => !in_array(config('app.env'), ['local', 'testing']) ? env('AWS_USE_PATH_STYLE_ENDPOINT', false) : false,
         ],
 
     ],

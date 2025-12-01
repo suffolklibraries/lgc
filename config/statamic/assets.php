@@ -52,8 +52,8 @@ return [
         |
         */
 
-        'cache' => false,
-        'cache_path' => public_path('img'),
+        'cache' => config('app.env') != 'local' ? 'glide' : false,
+        'cache_path' => config('app.env') != 'local' ? null : public_path('img'),
 
         /*
         |--------------------------------------------------------------------------
