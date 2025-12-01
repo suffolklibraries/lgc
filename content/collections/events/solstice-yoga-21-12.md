@@ -4,8 +4,8 @@ blueprint: events
 title: 'Winter Solstice Sunrise Yoga'
 event_categories:
   - community
-  - movement
   - wellbeing
+  - movement-and-sport
 organisers:
   - east-point-pavilion
 featured_image: pelicanpelican-3x2/wellbeing.png
@@ -94,7 +94,7 @@ cta: |-
 
   [info@firstlightlowestoft.com](mailto:info@firstlightlowestoft.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764331341
+updated_at: 1764609079
 duplicated_from: 97e104f7-0191-458c-99fc-a7be5e59243d
 booking_link: 'https://www.eastpointpavilion.com/events'
 accessibility_information:
