@@ -52,13 +52,13 @@ cta: |-
   [https://www.theapex.co.uk/](https://www.theapex.co.uk/) 
 
   [01284 758000](tel:01284758000)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738685991
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764609058
 duplicated_from: 3fa8eb2a-55c9-407d-aa00-e5eaeebff9d3
 event_categories:
-  - movement
   - later-years
   - wellbeing
+  - movement-and-sport
 building_name: 'The Apex'
 directions:
   -
