@@ -4,12 +4,11 @@ blueprint: events
 title: 'Wellbeing on Wheels - Ickworth Estate'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1758699767
+updated_at: 1764604532
 latitude: '52.220563808639156'
 longitude: '0.656974212158819'
 start_date: '2025-12-04 10:15'
 event_categories:
-  - movement
   - wellbeing
   - later-years
   - community
