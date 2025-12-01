@@ -5,8 +5,8 @@ title: 'ActivYoga - beginners and improvers'
 event_categories:
   - community
   - wellbeing
-  - movement
   - later-years
+  - movement-and-sport
 organisers:
   - activlives
 featured_image: pelicanpelican-3x2/wellbeing.png
@@ -175,7 +175,7 @@ cta: |-
 
   [01473 345350](tel:01473345350)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756741820
+updated_at: 1764604402
 duplicated_from: 4a625070-e4e1-476b-84af-084994b75481
 cost_details: £6.50
 address_line_1: '382 Landseer Road'
