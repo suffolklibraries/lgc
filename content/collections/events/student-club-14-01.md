@@ -1,7 +1,7 @@
 ---
 id: f09ebe81-a096-4b27-8e25-e93654e33df0
 blueprint: events
-title: 'Student Art Club (Duplicated)'
+title: 'Student Art Club'
 event_categories:
   - art
   - teen
@@ -138,7 +138,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764602161
+updated_at: 1764602177
 duplicated_from: aff02e61-7f38-4174-a9a1-feae72a1e216
 cost_details: '£2 per person'
 booking_link: 'https://www.thebankeye.org/store/p73/studentartclub.html'
