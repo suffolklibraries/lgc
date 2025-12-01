@@ -1,16 +1,15 @@
 ---
 id: 674302ce-2dfa-4d93-9586-54a1839022dc
-published: false
 blueprint: events
-title: 'Folk Night (Duplicated)'
+title: 'Folk Night'
 event_categories:
   - community
   - music
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-12-10 19:15'
-end_date: '2025-12-10 22:00'
+start_date: '2026-01-14 19:15'
+end_date: '2026-01-14 22:00'
 free: false
 virtual: false
 accessibility_information:
@@ -154,7 +153,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756394705
+updated_at: 1764601699
 duplicated_from: 0068415d-71a0-410d-9705-2259ad3e6b5f
 cost_details: £3
 ---
