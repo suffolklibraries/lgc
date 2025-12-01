@@ -1,16 +1,15 @@
 ---
 id: 3b12e277-0c76-4f6a-a328-6bb6650fafa2
-published: false
 blueprint: events
-title: 'Student Art Club (Duplicated) (Duplicated)'
+title: 'Student Art Club'
 event_categories:
   - art
   - teen
 organisers:
   - the-bank
 featured_image: pelicanpelican-3x2/lgc-va.png
-start_date: '2026-01-28 17:00'
-end_date: '2026-01-28 19:00'
+start_date: '2026-02-11 17:00'
+end_date: '2026-02-11 19:00'
 free: false
 virtual: false
 accessibility_information:
@@ -139,7 +138,7 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764602203
+updated_at: 1764602260
 duplicated_from: 8f04f79f-538e-4ea5-b2e8-a2b431d6ac52
 cost_details: '£2 per person'
 booking_link: 'https://www.thebankeye.org/store/p73/studentartclub.html'
