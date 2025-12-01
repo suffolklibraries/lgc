@@ -125,14 +125,13 @@ cta: |-
   [ramblers@ramblers.zendesk.com](mailto:ramblers@ramblers.zendesk.com)
 
   [020 3961 3232](tel:02039613232)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749134714
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764604559
 duplicated_from: 2b5befb9-6080-442d-91cf-d3d00cd7edc0
 event_categories:
   - wellbeing
   - community
   - later-years
-  - movement
   - nature
 ---
 Explore Bury St Edmunds with an option of lengths.
