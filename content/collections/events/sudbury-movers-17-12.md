@@ -1,19 +1,18 @@
 ---
 id: 7dc12c48-9be1-45ef-a2fc-f38655adc1be
-published: false
 blueprint: events
-title: 'Sudbury Movers (Duplicated)'
+title: 'Sudbury Movers'
 event_categories:
   - wellbeing
   - community
   - later-years
   - dance
-  - movement
+  - movement-and-sport
 organisers:
   - danceeast
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-12-10 10:00'
-end_date: '2025-12-10 11:30'
+start_date: '2025-12-17 10:00'
+end_date: '2025-12-17 11:30'
 free: false
 virtual: false
 accessibility_information:
@@ -193,7 +192,7 @@ cta: |-
 
   [01473 295230](tel:01473295230)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764592443
+updated_at: 1764592490
 duplicated_from: d6f87428-83ec-49dd-ab35-448b3c124d7a
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
