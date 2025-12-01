@@ -1,14 +1,13 @@
 ---
 id: d3a23914-b1a7-466a-9514-3dc2ac38d837
-published: false
 blueprint: events
-title: 'Felixstowe Movers (Duplicated)'
+title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764584778
+updated_at: 1764584805
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
-start_date: '2026-02-16 13:00'
+start_date: '2026-02-23 13:00'
 free: false
 virtual: false
 organisers:
@@ -90,7 +89,7 @@ accessibility_information:
     - Wheelchair access
     - Indoor venue
 cost_details: '£5 per session'
-end_date: '2026-02-16 14:30'
+end_date: '2026-02-23 14:30'
 duplicated_from: a2e0358b-5098-4225-a88d-7e9eae39d11c
 event_categories:
   - dance
