@@ -1,19 +1,18 @@
 ---
 id: c169955a-63c9-422e-b89a-f6557f858ba6
-published: false
 blueprint: events
-title: 'Debenham Movers (Duplicated)'
+title: 'Debenham Movers'
 event_categories:
   - wellbeing
   - community
   - later-years
   - dance
-  - movement
+  - movement-and-sport
 organisers:
-  - danceeast
+  - alysha-hudson-dance-yoga-movement
 featured_image: pelicanpelican-3x2/dance.png
-start_date: '2025-12-18 10:30'
-end_date: '2025-12-18 12:00'
+start_date: '2026-01-08 10:30'
+end_date: '2026-01-08 12:00'
 free: false
 virtual: false
 accessibility_information:
@@ -132,17 +131,15 @@ content_area:
         type: text
         text: .
 cta: |-
-  This event is organised by Dance East
-  [https://www.danceeast.co.uk/](https://www.danceeast.co.uk/)
+  This event is organised by Alysha Hudson Dance
 
-  [info@danceeast.co.uk(mailto:info@danceeast.co.uk)
+  [Alyshalouisehudson@outlook.com](mailto:Alyshalouisehudson@outlook.com)
 
-  [01473 295230](tel:01473295230)
+  [07984 756499](tel:07984756499)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756723977
+updated_at: 1764592959
 duplicated_from: 9330c63e-2518-4ba5-a16d-f15b9a175027
 cost_details: '£5 per session'
 attendance_information: 'people aged 55+'
-booking_link: 'https://www.danceeast.co.uk/movers-2/'
 ---
 Come and try our weekly movement classes for people over 55!
