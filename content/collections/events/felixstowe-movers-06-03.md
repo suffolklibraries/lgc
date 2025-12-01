@@ -4,7 +4,7 @@ blueprint: events
 title: 'Felixstowe Movers'
 author: 5b72ad31-9613-4471-9564-e28d5005ecc0
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764584992
+updated_at: 1764609015
 latitude: '51.97275582218113'
 longitude: '1.338361103263136'
 start_date: '2026-04-06 13:00'
@@ -93,9 +93,9 @@ end_date: '2026-04-06 14:30'
 duplicated_from: c6956449-8676-4c63-acc1-c0592b610377
 event_categories:
   - dance
-  - movement
   - later-years
   - wellbeing
+  - movement-and-sport
 building_name: 'Walton Community Hall'
 directions:
   -
