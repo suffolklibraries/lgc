@@ -1,16 +1,15 @@
 ---
 id: aff02e61-7f38-4174-a9a1-feae72a1e216
-published: false
 blueprint: events
-title: 'Folk Night (Duplicated)'
+title: 'Student Art Club'
 event_categories:
-  - community
-  - music
+  - art
+  - teen
 organisers:
   - the-bank
-featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-12-10 19:15'
-end_date: '2025-12-10 22:00'
+featured_image: pelicanpelican-3x2/lgc-va.png
+start_date: '2025-12-10 17:00'
+end_date: '2025-12-10 19:00'
 free: false
 virtual: false
 accessibility_information:
@@ -18,7 +17,6 @@ accessibility_information:
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-  - 'Drop-in event'
 latitude: '52.32027658647194'
 longitude: '1.1456559672682736'
 building_name: 'The Bank'
@@ -114,21 +112,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join The Bank's regular workshops to grow your creativity and meet new people. To see the full list of groups, visit "
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.thebankeye.org/groupsandactivities.html'
-              rel: null
-              target: _blank
-              title: null
-        text: "The Bank's website"
-      -
-        type: text
-        text: .
+        text: "Embracing the notion of Art for All these sessions introduce techniques that are an essential base for creative learning and exploring our imagination. They are open to all levels of creativity working at your own pace in a fun and safe environment.\_"
   -
     type: paragraph
     attrs:
@@ -136,7 +120,7 @@ content_area:
     content:
       -
         type: text
-        text: "Bring your own instruments and take part or enjoy listening. All standards welcome and encouraged.\_"
+        text: "Suitable for both\_mainstream and home educated children and young people."
   -
     type: paragraph
     attrs:
@@ -144,7 +128,7 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just drop-in.'
+        text: 'The booking price includes all materials.'
 cta: |-
   This event is organised by The Bank
 
@@ -154,8 +138,9 @@ cta: |-
 
   [01379 873495](tel:01379873495)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756394705
+updated_at: 1764602128
 duplicated_from: 0068415d-71a0-410d-9705-2259ad3e6b5f
-cost_details: £3
+cost_details: '£2 per person'
+booking_link: 'https://www.thebankeye.org/store/p73/studentartclub.html'
 ---
-Join us for an evening of acoustic music.
+Join us for our new after school art club for 13-16's.
