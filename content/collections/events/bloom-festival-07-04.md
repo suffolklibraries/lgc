@@ -1,8 +1,7 @@
 ---
 id: 4517b621-f68f-4baf-a63e-b166c6563970
-published: false
 blueprint: events
-title: 'Making Magic Workshop (Duplicated)'
+title: 'An Introduction to Public Speaking'
 event_categories:
   - wellbeing
   - theatre-and-performance
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-04-08 10:00'
-end_date: '2026-04-08 12:00'
+start_date: '2026-04-07 10:00'
+end_date: '2026-04-07 12:00'
 free: true
 virtual: false
 latitude: '52.248150770555625'
@@ -28,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'In this hands-on workshop, young magicians will learn how to turn everyday objects into amazing magic tricks and discover the secrets to performing them with confidence and flair.'
+        text: 'Step up, speak out and own the stage with confidence!'
   -
     type: paragraph
     attrs:
@@ -36,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'What will you get to do?'
+        text: 'Join our interactive public speaking workshop, designed for teens and young adults, which will boost confidence, enable you to master presentation skills and make your message heard.'
   -
     type: bulletList
     content:
@@ -50,7 +49,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Patter Power: Learn how to talk like a magician and charm your audience!'
+                text: 'Build confidence in front of any audience.'
       -
         type: listItem
         content:
@@ -61,7 +60,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Finding Your Character: Are you mysterious, funny, or daring? Create your magician persona.'
+                text: 'Learn storytelling and persuasive speech techniques.'
       -
         type: listItem
         content:
@@ -72,40 +71,7 @@ content_area:
             content:
               -
                 type: text
-                text: 'Magic with Newspaper: Predict the news!'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Magic with Breakfast: Make breakfast disappear (almost!)'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Magic with Bananas: Peel back the secrets of fruity fun tricks.'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Magic with Paper: Fold, twist and transform ordinary paper into extraordinary magic.'
+                text: 'Get real-time feedback and performance tips.'
   -
     type: paragraph
     attrs:
@@ -139,9 +105,9 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764684614
+updated_at: 1764684684
 duplicated_from: 5d6ac069-a034-4ebc-9ac1-2fd3f4a86c0e
-booking_link: 'https://theatreroyal.org/events/making-magic-workshop-at-the-library/'
+booking_link: 'https://theatreroyal.org/events/an-introduction-to-public-speaking-at-the-library/'
 attendance_information: 'suitable for ages 8+'
 accessibility_information:
   - 'Wheelchair accessible'
