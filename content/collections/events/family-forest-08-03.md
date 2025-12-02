@@ -1,8 +1,7 @@
 ---
 id: 2065035f-4b5a-4b4f-9458-294c6824c3cf
-published: false
 blueprint: events
-title: 'Family Forest Adventure at Foxburrow (Duplicated)'
+title: 'Family Forest Adventure at Foxburrow'
 event_categories:
   - nature
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-02-08 10:30'
-end_date: '2026-02-08 12:30'
+start_date: '2026-03-08 10:30'
+end_date: '2026-03-08 12:30'
 free: false
 cost_details: 'Prices from £10 per adult and child'
 virtual: false
@@ -85,7 +84,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-01-11-family-forest-adventure-foxburrow'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-03-08-family-forest-adventure-foxburrow'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -95,7 +94,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764682046
+updated_at: 1764682547
 duplicated_from: 4129cd2e-179d-4260-b151-e560b7ac7cf7
 accessibility_information:
   - 'Accessible toilets'
