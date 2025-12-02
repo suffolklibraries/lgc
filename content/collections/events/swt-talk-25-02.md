@@ -1,16 +1,15 @@
 ---
 id: c3874496-bc77-4913-a10e-8dc56c2278f8
 blueprint: events
-title: 'Butterflies in Suffolk Wildlife Reserves'
+title: 'Talk - the history of Peregrines in Suffolk'
 event_categories:
   - nature
   - languages
-  - family-friendly
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-04-23 19:30'
-end_date: '2025-04-23 20:30'
+start_date: '2026-02-25 19:30'
+end_date: '2026-02-25 20:30'
 free: false
 cost_details: '£3, under 25s free'
 virtual: false
@@ -103,11 +102,19 @@ content_area:
     content:
       -
         type: text
-        text: 'Steve will talk about the butterflies found on the Trust’s reserves, and the work being undertaken to support important populations of rarer species. He will consider the opportunities that rewilding creates for butterflies.'
+        text: "Peter will tell us how an ornithologist, with close on 50 years' experience dealing with the rescue and recovery of raptors, has advised and assisted local industry and commerce on how to integrate protected birds into the workplace.\_ "
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'He has been responsible for box installations on the Orwell Bridge, BT, Dockland and various churches. Boxes have been installed at 10 sites and have fledged 146 young in Peter’s time with the project.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
     content:
       -
         type: text
@@ -134,7 +141,7 @@ content_area:
       -
         type: text
         text: ' to find out more.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-02-25-talk-history-peregrines-suffolk'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -143,14 +150,13 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732104751
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764682477
 duplicated_from: eea98d3b-c68f-4e68-9e7c-9d44e31d4fb1
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-published: false
 ---
-Join us for an illustrated talk by Steve Aylward from Suffolk Wildlife Trust.
+Join Pete Merchant as he shares his wealth of experience of raptors in the county.
