@@ -1,8 +1,7 @@
 ---
 id: 42112d00-0d1c-4445-bde7-52b0b93aecf4
-published: false
 blueprint: events
-title: 'Family Theatre Tour (Duplicated)'
+title: 'Family Theatre Tour'
 event_categories:
   - theatre-and-performance
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-02-21 11:00'
-end_date: '2026-02-21 12:00'
+start_date: '2026-04-11 11:00'
+end_date: '2026-04-11 12:00'
 free: false
 virtual: false
 latitude: '52.24082876567966'
@@ -63,7 +62,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685468
+updated_at: 1764685493
 duplicated_from: 6edb6263-c5f1-490d-82b8-639513c18919
 booking_link: 'https://theatreroyal.org/events/family-theatre-tour/'
 attendance_information: 'suitable for ages 5+'
