@@ -1,19 +1,17 @@
 ---
 id: 6edb6263-c5f1-490d-82b8-639513c18919
-published: false
 blueprint: events
-title: 'An Introduction to Set & Costume Design (Duplicated)'
+title: 'Family Theatre Tour'
 event_categories:
-  - wellbeing
   - theatre-and-performance
   - teen
   - family-friendly
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-04-02 10:00'
-end_date: '2026-04-02 12:00'
-free: true
+start_date: '2026-02-21 11:00'
+end_date: '2026-02-21 12:00'
+free: false
 virtual: false
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
@@ -28,7 +26,33 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our expert set and costume designer, Heidi McEvoy-Swift, as she takes you through the process of creating a design for stage!'
+        text: 'Led by our enthusiastic team of Tour Guides, travel around our vibrant 200-year-old theatre! '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Explore all aspects of the theatre from Front of House to the Behind the Scenes learning all about the last remaining working regency playhouse in the country. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: text
+        text: 'Join our tour guide as they tell you all about the historic building and the stories that they have to tell about those who have treaded our famous boards!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'Unfortunately, we are unable to provide accessible friendly tours due to the design of the theatre.'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -38,12 +62,11 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764684912
+updated_at: 1764685468
 duplicated_from: b56687c6-c6e5-49e8-a71c-3f789c0e3f23
-booking_link: 'https://theatreroyal.org/events/an-introduction-to-set-costume-design/'
-attendance_information: 'suitable for ages 10 to 17 years'
+booking_link: 'https://theatreroyal.org/events/family-theatre-tour/'
+attendance_information: 'suitable for ages 5+'
 accessibility_information:
-  - 'Wheelchair accessible'
   - 'Accessible toilets'
 building_name: 'Theatre Royal'
 directions:
@@ -139,5 +162,6 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
+cost_details: £10
 ---
 A part of Theatre Royal's Bloom Festival.
