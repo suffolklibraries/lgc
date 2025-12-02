@@ -1,8 +1,7 @@
 ---
 id: 5c10b796-4ec2-4db9-82a8-d2c852676d58
-published: false
 blueprint: events
-title: 'Wildlife Walk at Lackford Lakes (Duplicated)'
+title: 'Wildlife Walk at Lackford Lakes'
 event_categories:
   - nature
   - wellbeing
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-12-10 11:00'
-end_date: '2025-12-10 13:00'
+start_date: '2026-01-14 11:00'
+end_date: '2026-01-14 13:00'
 free: false
 cost_details: £5
 virtual: false
@@ -100,7 +99,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764680601
+updated_at: 1764681056
 duplicated_from: f9b33fef-e836-4618-a72f-5cce53706fd6
 ---
 Learn about the history, ecology and management of Lackford Lakes.
