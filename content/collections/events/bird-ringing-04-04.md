@@ -1,8 +1,7 @@
 ---
 id: 1850c4c8-97b5-4a85-bfb8-c95ae171a086
-published: false
 blueprint: events
-title: 'Bird Ringing at West Stow (Duplicated) (2)'
+title: 'Bird Ringing at West Stow'
 event_categories:
   - nature
   - family-friendly
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - west-suffolk-council
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-02-21 10:00'
-end_date: '2026-02-21 11:00'
+start_date: '2026-04-04 10:00'
+end_date: '2026-04-04 11:00'
 free: false
 cost_details: '£3 per person, under 16s free'
 virtual: false
@@ -109,7 +108,7 @@ cta: |-
 
   [01284 763233](tel:01284763233)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764668860
+updated_at: 1764668907
 duplicated_from: 5704eb9b-2060-42a8-a6be-6ed4c399c2ee
 ---
 Come and explore your local nature.
