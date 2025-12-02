@@ -11,7 +11,7 @@ organisers:
   - stour-valley-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
 start_date: '2026-02-02 10:00'
-end_date: '2026-02-05 14:00'
+end_date: '2026-02-04 14:00'
 free: false
 cost_details: '£20 annual membership'
 virtual: false
@@ -173,7 +173,7 @@ cta: |-
 
   [stourvalleymensshed@gmail.com](mailto:stourvalleymensshed@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764674760
+updated_at: 1764674815
 duplicated_from: 8ec7231f-8f64-4373-828b-d88e84f98aba
 ---
 A community space for men to connect, converse and create.
