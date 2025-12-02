@@ -1,7 +1,7 @@
 ---
 id: 17914dfa-5099-42b5-808e-996936a1dd8d
 blueprint: events
-title: 'Fressingfield Shed (Duplicated)'
+title: 'Fressingfield Shed'
 event_categories:
   - community
   - later-years
@@ -168,7 +168,7 @@ cta: |-
   [https://thefressingfieldshed.co.uk/](https://thefressingfieldshed.co.uk/) 
   [info@thefressingfieldshed.co.uk](mailto:info@thefressingfieldshed.co.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764675730
+updated_at: 1764675764
 duplicated_from: 945dc827-762e-4a67-bcb3-9d06d0416adb
 ---
 A community workshop and garden in north Suffolk.
