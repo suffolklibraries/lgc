@@ -1,8 +1,7 @@
 ---
 id: 40feb329-12b4-433f-9a58-ef18786caab8
-published: false
 blueprint: events
-title: 'Introductory Walking Group - Christchurch Park (Duplicated)'
+title: 'Introductory Walking Group - Christchurch Park'
 event_categories:
   - wellbeing
   - later-years
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
-start_date: '2026-02-05 10:00'
-end_date: '2026-02-05 12:00'
+start_date: '2026-02-12 10:00'
+end_date: '2026-02-12 12:00'
 free: true
 virtual: false
 latitude: '52.06397235074485'
@@ -113,7 +112,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764680239
+updated_at: 1764680270
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 139555a6-219b-4c95-b1b6-4160c0818acb
 address_line_1: '33 Bolton Lane'
