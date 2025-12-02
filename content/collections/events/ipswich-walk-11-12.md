@@ -4,8 +4,8 @@ blueprint: events
 title: 'Introductory Walking Group - Christchurch Park'
 event_categories:
   - wellbeing
-  - movement
   - later-years
+  - movement-and-sport
 organisers:
   - the-way-to-go
 featured_image: pelicanpelican-3x2/wellbeing.png
@@ -112,7 +112,7 @@ cta: |-
 
   [01473 260060](tel:01473260060)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764676802
+updated_at: 1764676816
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 823e371c-2b8d-464f-b25b-61d68ec892e3
 address_line_1: '33 Bolton Lane'
