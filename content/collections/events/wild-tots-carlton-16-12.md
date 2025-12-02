@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-12-09 10:30'
+start_date: '2025-12-16 10:30'
 end_date: '2025-12-16 12:00'
 free: false
 cost_details: '£6 per child, adults free'
@@ -135,7 +135,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764670984
+updated_at: 1764671045
 duplicated_from: f0f6e603-82c1-47e3-b996-16c31eaade95
 ---
 Wild play activities for children.
