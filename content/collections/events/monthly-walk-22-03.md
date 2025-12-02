@@ -1,8 +1,7 @@
 ---
 id: 9befdf15-5b88-4a7c-8508-154b10c4a53c
-published: false
 blueprint: events
-title: 'Guided Monthly Walk - New Years Fresh Air (Duplicated)'
+title: 'Guided Monthly Walk - Spring Awakening'
 event_categories:
   - nature
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-01-01 14:00'
-end_date: '2026-01-01 16:00'
+start_date: '2026-03-22 14:00'
+end_date: '2026-03-22 16:00'
 free: false
 cost_details: £5
 virtual: false
@@ -107,11 +106,12 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764680716
+updated_at: 1764682904
 duplicated_from: dee97727-aa6a-43fd-94f2-943e7c9767e3
 accessibility_information:
   - 'Accessible toilets'
 address_line_2: 'Saddlemakers Lane'
 building_name: 'Foxburrow Nature Reserve'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-03-22-guided-monthly-walk-spring-awakening'
 ---
 Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide.
