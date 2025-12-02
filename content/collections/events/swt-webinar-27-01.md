@@ -1,8 +1,7 @@
 ---
 id: 6920ffa6-076a-48e3-87b3-463ccff48be9
-published: false
 blueprint: events
-title: 'Wildlife Live Webinar - Bugs on the Move (Duplicated)'
+title: 'Wildlife Live Webinar - Bird Pellets'
 event_categories:
   - nature
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-01-15 19:00'
-end_date: '2026-01-15 20:30'
+start_date: '2026-01-27 19:00'
+end_date: '2026-01-27 20:30'
 free: false
 cost_details: 'from £3'
 virtual: true
@@ -23,23 +22,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Discover the intricate world of communication in the insect world, with Dr Ian Bedford'
+        text: 'Knowing what different species of bird eat is an important part of providing the right habitats for them and understanding why populations of particular birds may be going up or down.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'This Wildlife Live Webinar is part of a series of online events on a range of wildlife topics. It is scheduled to last approximately one hour plus a questions & answers session. Suffolk Wildlife Trust uses the Zoom platform for its webinars and, when you book, you will receive simple instructions on how to join the event from the comfort of your own home. '
+        text: 'Dr Ed Drewitt has been studying the food of urban peregrines for 27 years and supported hundreds of students in dissecting owl pellets, the regurgitated undigested packages of their food. In his latest book, Bird Pellets, Ed provides a photographic guide to the different pellets birds produce, from eagles and owls to robins and blackbirds, and how to identify what is inside them. The book in particular helps you to identify small mammal and bird skulls.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'When booking, please do input the same email you will be using on the night as confirmation details will be sent to that address and access to the webinar will be via that address. Subtitles are available.'
+        text: "In tonight's presentation Ed will be revealing more about the fascinating world of pellets, how you can find and dissect them yourselves, how to identify some of the common voles and mice found in barn owl pellets and showcase those birds you may least expect to produce a pellet!"
   -
     type: paragraph
     attrs:
@@ -62,7 +61,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-01-15-wildlife-live-webinar-bugs-move'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-01-27-wildlife-live-webinar-bird-pellets'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -72,7 +71,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764681427
+updated_at: 1764681755
 duplicated_from: d04b8a2f-6615-46f7-b751-10acb3940ae6
 ---
-Discover the intricate world of communication in the insect world, with Dr Ian Bedford.
+Discover the wonders of bird pellets and what they can tell us about bird populations.
