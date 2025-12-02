@@ -1,18 +1,16 @@
 ---
 id: 2d595371-402d-454d-95a1-53d68f2d6ff7
-published: false
 blueprint: events
-title: 'Family & Friends Singing Masterclass (Duplicated)'
+title: 'Dance Masterclass'
 event_categories:
   - theatre-and-performance
-  - teen
-  - family-friendly
   - music
+  - movement-and-sport
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-04-08 10:00'
-end_date: '2026-04-08 12:00'
+start_date: '2026-03-30 18:00'
+end_date: '2026-03-30 20:00'
 free: true
 virtual: false
 latitude: '52.24082876567966'
@@ -28,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join us with your family and friends in this relaxed singing workshop here at Theatre Royal Bury St Edmunds.'
+        text: 'Spend your evening in a fun and freeing dance workshop on our stage.'
   -
     type: paragraph
     attrs:
@@ -36,7 +34,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Our expert practitioner will take you through singing exercises to get the most out your voice whilst helping you to perform songs you know and love as a group.'
+        text: 'Learning new routines in a relaxed environment, led by highly-skilled dance practitioner, '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.rosymaydancer.co.uk/'
+              rel: null
+              target: null
+              title: null
+          -
+            type: underline
+        text: 'Rosy May'
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -46,10 +60,10 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685575
+updated_at: 1764685668
 duplicated_from: 630c149f-8cfd-4689-84d4-2bd9f9af8a4f
-booking_link: 'https://theatreroyal.org/events/family-friends-singing-masterclass/'
-attendance_information: 'suitable for ages 8+'
+booking_link: 'https://theatreroyal.org/events/dance-masterclass-for-adults-with-rosy-may/'
+attendance_information: 'suitable for adults'
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Theatre Royal'
