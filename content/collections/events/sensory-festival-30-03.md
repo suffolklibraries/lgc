@@ -1,8 +1,7 @@
 ---
 id: fb246e47-1f5f-4fd2-8858-8faf0a7da9a2
-published: false
 blueprint: events
-title: 'Dance Masterclass for Young People (Duplicated)'
+title: 'SENsory Creative Play 6-12'
 event_categories:
   - wellbeing
   - teen
@@ -12,8 +11,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-03-30 10:00'
-end_date: '2026-03-30 12:00'
+start_date: '2026-03-30 13:00'
+end_date: '2026-03-30 13:45'
 free: true
 virtual: false
 latitude: '52.24082876567966'
@@ -29,31 +28,23 @@ content_area:
     content:
       -
         type: text
-        text: 'Spend your evening in a fun and freeing dance workshop on our stage.'
+        text: 'Dive into a world of imagination and play with our SEN (Special Educational Needs) Creative Play Workshop. '
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'Aimed at ages 10-17, learn new routines in a relaxed environment, led by highly-skilled dance practitioner, '
+        text: 'This workshop is specially designed to celebrate diversity and cater to varying abilities and needs. We will immerse ourselves in the magic of creative play with hands-on activities. '
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
+    content:
       -
         type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.rosymaydancer.co.uk/'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'Rosy May'
-      -
-        type: text
-        text: .
+        text: 'You will discover the power of expressive arts in enhancing communication and self-expression.'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -63,10 +54,10 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764684990
+updated_at: 1764685070
 duplicated_from: 8bae58ab-ef72-4b98-8410-ed5338ff0993
-booking_link: 'https://theatreroyal.org/events/dance-masterclass-for-young-people/'
-attendance_information: 'suitable for ages 10 to 17 years'
+booking_link: 'https://theatreroyal.org/events/sensory-creative-play-6-12/'
+attendance_information: 'suitable for ages 6 to 12 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
