@@ -1,8 +1,7 @@
 ---
 id: 99c4270d-dbe2-4bcc-a30e-c74b8cab76b8
-published: false
 blueprint: events
-title: "Hadleigh Men's Shed (Duplicated)"
+title: "Hadleigh Men's Shed"
 event_categories:
   - community
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - hadleigh-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2025-12-22 18:00'
-end_date: '2025-12-26 13:00'
+start_date: '2026-01-05 18:00'
+end_date: '2026-01-09 13:00'
 free: false
 cost_details: '£40 annual membership'
 virtual: false
@@ -198,7 +197,7 @@ cta: |-
 
   [hadleighmensshed@gmail.com](mailto:hadleighmensshed@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764667572
+updated_at: 1764667704
 duplicated_from: 1275e8e9-2bf3-4c9a-86c7-8582f518ec47
 ---
 A community space for men to connect, converse and create.
