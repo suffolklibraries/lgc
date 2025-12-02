@@ -1,21 +1,20 @@
 ---
 id: f9b33fef-e836-4618-a72f-5cce53706fd6
 blueprint: events
-title: 'Warden Walk at Lackford Lakes'
+title: 'Wildlife Walk at Lackford Lakes'
 event_categories:
   - nature
   - wellbeing
   - later-years
-  - movement
+  - movement-and-sport
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-07-25 10:30'
-end_date: '2025-07-25 12:30'
+start_date: '2025-12-10 11:00'
+end_date: '2025-12-10 13:00'
 free: false
 cost_details: £5
 virtual: false
-attendance_information: 'Adults and children aged 11+'
 latitude: '52.304423567293775'
 longitude: '0.6387903808049041'
 building_name: 'Suffolk Wildlife Trust'
@@ -60,7 +59,7 @@ content_area:
     content:
       -
         type: text
-        text: "Join one of our Wardens for a morning walk around the reserve. Learn about the history and ecology of the Reserve, and how our team manages it for the benefit of its wildlife and people.\_"
+        text: "Join our volunteer David for a guided walk around the reserve.\_"
   -
     type: paragraph
     attrs:
@@ -68,15 +67,7 @@ content_area:
     content:
       -
         type: text
-        text: 'This is a monthly walk with seasonal theme, discover what makes Lackford special and how management practices change through the year. For more Warden Walks, please visit our events page.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
-        text: 'This event is aimed at adults and would be suitable for children 11+. Children need their own ticket and must be accompanied by an adult. Babies in arms/pushchairs are welcome to accompany for free.'
+        text: 'Discover the beauty of Lackford Lakes and the wildlife that lives here!'
   -
     type: paragraph
     attrs:
@@ -99,7 +90,6 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-07-25-warden-walk-lackford-lakes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -108,9 +98,8 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740666540
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764680601
 duplicated_from: ee699074-84fb-4e35-8cef-b1c9e5fb11ee
-published: false
 ---
 Learn about the history, ecology and management of Lackford Lakes.
