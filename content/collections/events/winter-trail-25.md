@@ -1,10 +1,10 @@
 ---
 id: 5b233a93-70ac-4c7b-9fbb-4471186f7af3
 blueprint: events
-title: 'Brandon Country Park’s Signs of Spring Trail'
+title: 'Brandon Country Park’s Winter Tree Holiday Trail'
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-02-15 10:00'
-end_date: '2025-02-23 16:00'
+start_date: '2025-12-20 10:00'
+end_date: '2026-01-05 16:00'
 free: false
 cost_details: £1.50
 virtual: false
@@ -12,7 +12,6 @@ accessibility_information:
   - 'Drop-in event'
 latitude: '52.43617350622472'
 longitude: '0.6251570175510857'
-address_line_1: 'Brandon Country Park'
 address_line_2: 'Bury Road'
 town: Brandon
 postcode: 'IP27 0SU'
@@ -71,7 +70,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Follow the trail, finding words along the way, fill them in to find the special word and then return to the café to collect your prize.'
+        text: 'Come along to Brandon Country Park and pick up a trail sheet from the café!'
   -
     type: paragraph
     attrs:
@@ -79,7 +78,11 @@ content_area:
     content:
       -
         type: text
-        text: 'No need to book, just come along and pick up a puzzle sheet from the Copper Beech Café.'
+        text: 'Follow the trail, solving the tree related clues along the way to help find the special word, and then return to the café to collect a small prize!'
+  -
+    type: paragraph
+    attrs:
+      textAlign: left
 cta: |-
   This event is organised by West Suffolk Council
 
@@ -88,14 +91,16 @@ cta: |-
   [enquiries@suffolkartlink.org.uk](mail:enquiries@suffolkartlink.org.uk)
 
   [01284 763233](tel:01284763233)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1738160719
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764668733
 duplicated_from: 3efc2fac-9ed8-4765-bdcd-4669185f164e
 event_categories:
   - nature
   - family-friendly
+  - wellbeing
+  - movement-and-sport
 organisers:
   - west-suffolk-council
-published: false
+building_name: 'Brandon Country Park'
 ---
 Explore nature with a fun family-friendly trail.
