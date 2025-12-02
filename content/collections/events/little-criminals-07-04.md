@@ -1,17 +1,16 @@
 ---
 id: a23ff63c-bff6-4dfd-a49e-7a79a0cadfb9
-published: false
 blueprint: events
-title: 'An Introduction to Clowning for Adults (Duplicated)'
+title: 'Little Criminals & The Wardrobe'
 event_categories:
   - theatre-and-performance
   - music
-  - later-years
+  - teen
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-04-11 13:00'
-end_date: '2026-04-11 15:00'
+start_date: '2026-04-07 18:00'
+end_date: '2026-04-07 20:00'
 free: true
 virtual: false
 latitude: '52.24082876567966'
@@ -21,13 +20,14 @@ town: 'Bury St Edmunds'
 postcode: 'IP33 1QR'
 content_area:
   -
-    type: paragraph
+    type: heading
     attrs:
-      textAlign: left
+      textAlign: start
+      level: 4
     content:
       -
         type: text
-        text: 'Spend an afternoon “clowning around” with our comedy and clowning expert.'
+        text: 'One show, TWO plays! Performed by our fantastic Youth Theatre groups as part of BLOOM Festival:'
   -
     type: paragraph
     attrs:
@@ -35,7 +35,68 @@ content_area:
     content:
       -
         type: text
-        text: 'Explore a range of dramatic techniques whilst playing games and encouraging each other to be a little bit sillier…'
+        text: '8-11’s Youth Theatre presents:'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'Little Criminals'
+      -
+        type: text
+        text: ' by Evan Placey'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: "You know the tales… but have you heard every side of the story? Join Little Red Riding Hood, Peter Pan, Goldilocks and many more famous characters as they take to the stand and face their fate. Who are the real baddies here? The trial of the\_"
+      -
+        type: text
+        marks:
+          -
+            type: italic
+        text: 'Little Criminals'
+      -
+        type: text
+        text: "\_is about to begin."
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '12-16’s Youth Theatre presents:'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: bold
+        text: 'The Wardrobe'
+      -
+        type: text
+        text: ' by Sam Holdcroft – in association with Nick Hern Books.'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
+      -
+        type: text
+        text: '“’That’s what a wardrobe is for – to guard your secrets. Warden, warder, wardrobe. And it is nearly one hundred and fifty years old. So imagine what secrets it has kept guard over in all that time.” Across seven centuries, small groups of children seek sanctuary in the same solid old wardrobe. It’s the safest place they know – but is it safe enough?'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -45,11 +106,11 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685890
+updated_at: 1764685992
 duplicated_from: b1b5aece-5193-4474-a7cb-15101d3b5867
-booking_link: 'https://theatreroyal.org/events/an-introduction-to-clowning-for-adults/'
-attendance_information: 'suitable for adults'
+booking_link: 'https://theatreroyal.org/events/little-criminals-the-wardrobe/'
 accessibility_information:
+  - 'Wheelchair accessible'
   - 'Accessible toilets'
 building_name: 'Theatre Royal'
 directions:
