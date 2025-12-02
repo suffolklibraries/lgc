@@ -1,17 +1,18 @@
 ---
 id: 72f384df-d421-4dc7-87af-1490fceec5b1
 blueprint: events
-title: 'Brave Art - Bury St Edmunds'
+title: 'An Introduction to Puppetry for Young People'
 event_categories:
-  - art
   - wellbeing
-  - community
+  - theatre-and-performance
+  - teen
+  - family-friendly
 organisers:
-  - suffolk-artlink
-featured_image: offthepressimages/support.png
-start_date: '2025-11-04 10:00'
-end_date: '2025-11-04 15:00'
-free: false
+  - theatre-royal
+featured_image: theatre-royal/bloom-festival-logo.jpeg
+start_date: '2026-04-09 13:00'
+end_date: '2026-04-09 15:00'
+free: true
 virtual: false
 latitude: '52.248150770555625'
 longitude: '0.7114614702830845'
@@ -26,7 +27,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Through a series of artist-led sessions in three locations we provide inspiration and support for people to express themselves through visual arts, bringing the social and wellbeing benefits of being creative together.'
+        text: 'Want to learn how to create a character through puppetry?'
   -
     type: paragraph
     attrs:
@@ -34,7 +35,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Each day-long session starts with a group activity, skill sharing or discussion, before people are invited to develop and work on a personal project. Participants are encouraged and supported to explore their interests and develop their own creative voice through a range of materials, techniques and creative prompts.'
+        text: 'This two-hour workshop will teach you the basics of puppetry, using materials and objects that you can find at home to bring your imagination to life!'
   -
     type: paragraph
     attrs:
@@ -42,102 +43,38 @@ content_area:
     content:
       -
         type: text
-        text: 'Our experienced Project Officer Charlie Meyer will, as usual, create a safe and welcoming space where everyone can be creative and make new friends.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Course Ticket: £200'
-      -
-        type: text
-        text: ' (8 days @ £25/day) buy online via the'
+        text: 'This session will take place at '
       -
         type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://www.suffolkartlink.org.uk/sessions/ba-autumn-bse-24/'
-              rel: null
-              target: _blank
-              title: null
-        text: ' '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-bse-25/'
-              rel: null
-              target: _blank
-              title: null
-        text: 'Suffolk Artlink website'
-      -
-        type: text
-        text: .
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'or by cheque, payable to “Suffolk Artlink” posted to: Suffolk Artlink, Units 13 & 14, Malt Store Annex, The Cut, 8 New Cut, Halesworth, IP19 8BY'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'Day Tickets are £30/day, subject to availability'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'For more assistance, please contact Charlie Meyer - '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'mailto:charlie@suffolkartlink.org.uk'
+              href: 'https://suffolkcommunitylibraries.co.uk/libraries/bury-st-edmunds/'
               rel: null
               target: null
               title: null
-        text: charlie@suffolkartlink.org.uk
+          -
+            type: underline
+        text: 'Bury St Edmunds Library'
+      -
+        type: text
+        text: ".\_"
 cta: |-
-  This event is organised by Suffolk Artlink
+  This event is organised by the Theatre Royal 
 
-  [https://www.suffolkartlink.org.uk/](https://www.suffolkartlink.org.uk/) 
+  [booking@theatreroyal.org](mailto:booking@theatreroyal.org)
 
-  [01986 873955](tel:01986873955)
+  [01284769505](tel:01284769505)
 
-  [enquiries@suffolkartlink.org.uk](mailto:enquiries@suffolkartlink.org.uk)
+  [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750345566
+updated_at: 1764684517
 duplicated_from: 9c74dad1-5e37-4b81-85e7-722bb9766dee
-booking_link: 'https://www.suffolkartlink.org.uk/sessions/brave-art-autumn-programme-bse-25/'
-cost_details: '£200 for course ticket, £30 per day ticket'
-attendance_information: 'Learning disabled and neurodivergent adults'
+booking_link: 'https://theatreroyal.org/events/an-introduction-to-puppetry-for-young-people/'
+attendance_information: 'suitable for ages 8+'
 accessibility_information:
   - 'Wheelchair accessible'
-  - 'Autism friendly'
   - 'Accessible toilets'
 building_name: 'Bury St Edmunds Library'
 directions:
@@ -249,6 +186,5 @@ directions:
       -
         type: text
         text: .
-published: false
 ---
-Enjoy high quality creative opportunities
+A part of Theatre Royal's Bloom Festival.
