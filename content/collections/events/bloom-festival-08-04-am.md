@@ -1,18 +1,18 @@
 ---
 id: 630c149f-8cfd-4689-84d4-2bd9f9af8a4f
-published: false
 blueprint: events
-title: 'Family Theatre Tour (Duplicated)'
+title: 'Family & Friends Singing Masterclass'
 event_categories:
   - theatre-and-performance
   - teen
   - family-friendly
+  - music
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-02-21 11:00'
-end_date: '2026-02-21 12:00'
-free: false
+start_date: '2026-04-08 10:00'
+end_date: '2026-04-08 12:00'
+free: true
 virtual: false
 latitude: '52.24082876567966'
 longitude: '0.7168733718612081'
@@ -27,33 +27,15 @@ content_area:
     content:
       -
         type: text
-        text: 'Led by our enthusiastic team of Tour Guides, travel around our vibrant 200-year-old theatre! '
+        text: 'Join us with your family and friends in this relaxed singing workshop here at Theatre Royal Bury St Edmunds.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Explore all aspects of the theatre from Front of House to the Behind the Scenes learning all about the last remaining working regency playhouse in the country. '
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: text
-        text: 'Join our tour guide as they tell you all about the historic building and the stories that they have to tell about those who have treaded our famous boards!'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'Unfortunately, we are unable to provide accessible friendly tours due to the design of the theatre.'
+        text: 'Our expert practitioner will take you through singing exercises to get the most out your voice whilst helping you to perform songs you know and love as a group.'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -63,10 +45,10 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685468
+updated_at: 1764685575
 duplicated_from: 6edb6263-c5f1-490d-82b8-639513c18919
-booking_link: 'https://theatreroyal.org/events/family-theatre-tour/'
-attendance_information: 'suitable for ages 5+'
+booking_link: 'https://theatreroyal.org/events/family-friends-singing-masterclass/'
+attendance_information: 'suitable for ages 8+'
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Theatre Royal'
@@ -163,6 +145,5 @@ directions:
               target: _blank
               title: null
         text: 'Suffolk Onboard.'
-cost_details: £10
 ---
 A part of Theatre Royal's Bloom Festival.
