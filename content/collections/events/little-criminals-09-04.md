@@ -1,8 +1,7 @@
 ---
 id: 6bcd2bf8-bb5e-4d39-bc2f-8647bdee8d78
-published: false
 blueprint: events
-title: 'Little Criminals & The Wardrobe (Duplicated) (Duplicated)'
+title: 'Little Criminals & The Wardrobe'
 event_categories:
   - theatre-and-performance
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-04-07 18:00'
-end_date: '2026-04-07 20:00'
+start_date: '2026-04-09 18:00'
+end_date: '2026-04-09 20:00'
 free: true
 virtual: false
 latitude: '52.24082876567966'
@@ -107,7 +106,7 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685992
+updated_at: 1764686032
 duplicated_from: 73c1a1eb-7fa4-4313-bb31-3d403c83ce28
 booking_link: 'https://theatreroyal.org/events/little-criminals-the-wardrobe/'
 accessibility_information:
