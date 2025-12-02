@@ -1,8 +1,7 @@
 ---
 id: 9593a61b-9d87-405b-a0c3-915ab942b4b0
-published: false
 blueprint: events
-title: 'Young Wardens at Foxburrow (Duplicated)'
+title: 'Young Wardens at Foxburrow'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-03-22 10:00'
-end_date: '2026-03-22 14:00'
+start_date: '2026-04-26 10:00'
+end_date: '2026-04-26 14:00'
 free: false
 cost_details: £7
 virtual: false
@@ -102,7 +101,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764669945
+updated_at: 1764669970
 duplicated_from: 6f3f9bc4-b5fa-4144-8745-cb98dd0b8fb5
 accessibility_information:
   - 'Wheelchair accessible'
