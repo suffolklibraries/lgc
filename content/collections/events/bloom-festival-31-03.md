@@ -44,10 +44,10 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685173
+updated_at: 1764685246
 duplicated_from: 8bae58ab-ef72-4b98-8410-ed5338ff0993
 booking_link: 'https://theatreroyal.org/events/an-introduction-to-stage-combat-for-young-people-11-13/'
-attendance_information: 'suitable for ages 11 to 17 years'
+attendance_information: 'suitable for ages 11 to 13 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
