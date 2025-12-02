@@ -1,7 +1,7 @@
 ---
 id: 0f286787-da0d-41ae-ba63-e432f0eb0b1d
 blueprint: events
-title: 'Mini Music Makers'
+title: 'Easter Family Fun'
 event_categories:
   - music
   - early-years
@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - britten-pears-arts
 featured_image: pelicanpelican-3x2/music.png
-start_date: '2025-11-14 10:00'
-end_date: '2025-11-14 11:30'
+start_date: '2026-04-08 11:00'
+end_date: '2026-04-09 16:00'
 free: true
 virtual: false
 latitude: '52.16397679077819'
@@ -60,52 +60,72 @@ content_area:
     content:
       -
         type: text
-        text: 'For 0–5-year-olds at The Red House, Aldeburgh. Join Joe and friends for singing and creative play; great for the little ones to learn social skills, turn-taking, sharing and of course, how to have fun'
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: .
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: hardBreak
-        marks:
-          -
-            type: bold
-      -
-        type: text
-        text: "Joe Carr is our Community and Collection Curator based at The Red House as part of our Community Team. He aims to bring education and enrichment to people's lives by engaging them through music and heritage, working closely with schools, families and young people. He launched the first Mini Music Makers in 2017. As a guitarist he aims to bring a range of musical styles to Mini Music Makers sessions each week, from traditional nursery rhymes to blues, rock and roll, and new music."
+        text: 'Enjoy our Easter activities and explore the gardens of The Red House on our audio Easter Egg Hunt, as you find the hidden sounds and collect your Easter prize.'
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'If a session is showing sold out, you can '
+        text: 'Book a session – 11am, 12pm, 2pm, 3pm'
+  -
+    type: paragraph
+    attrs:
+      textAlign: start
+    content:
       -
         type: text
-        marks:
+        text: 'Activities will include:'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
           -
-            type: link
+            type: paragraph
             attrs:
-              href: 'https://www.brittenpearsarts.org/contact-us'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'contact the box office'
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Easter storytelling with interactive sounds'
       -
-        type: text
-        text: ' to be added to the waiting list. Please let us know if you can no longer make a session, so the place can be offered to another music maker.'
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Easter Craft: Make your own Easter-themed musical instrument'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Audio Easter Egg Hunt around The Red House Garden to receive your Easter prize'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: "Games and activities in the garden.\_"
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1750761962
+updated_at: 1764668480
 duplicated_from: 91040214-285b-4230-9816-bf79b969279a
 cta: |-
   This event is organised by Britten Pears Arts
@@ -118,8 +138,6 @@ cta: |-
 accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
-attendance_information: 'under 5s'
-booking_link: 'https://www.brittenpearsarts.org/events/mini-music-makers'
-published: false
+booking_link: 'https://www.brittenpearsarts.org/events/easter-family-fun-at-the-red-house-2'
 ---
-Friday morning session of fun music and play activities!
+Musical crafts and an audio Easter egg hunt.
