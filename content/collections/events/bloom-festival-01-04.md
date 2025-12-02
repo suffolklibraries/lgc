@@ -1,18 +1,18 @@
 ---
 id: cb7c4dbc-5e75-4e2d-8c4d-76e83a02c7d5
-published: false
 blueprint: events
-title: 'An Introduction to Public Speaking (Duplicated)'
+title: "Children's Story Time"
 event_categories:
   - wellbeing
   - theatre-and-performance
-  - teen
   - family-friendly
+  - early-years
+  - literature
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-04-07 10:00'
-end_date: '2026-04-07 12:00'
+start_date: '2026-04-01 10:00'
+end_date: '2026-04-01 12:00'
 free: true
 virtual: false
 latitude: '52.248150770555625'
@@ -24,11 +24,11 @@ content_area:
   -
     type: paragraph
     attrs:
-      textAlign: left
+      textAlign: start
     content:
       -
         type: text
-        text: 'Step up, speak out and own the stage with confidence!'
+        text: 'Inspire your toddler to explore the world around them through the power of stories.'
   -
     type: paragraph
     attrs:
@@ -36,43 +36,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Join our interactive public speaking workshop, designed for teens and young adults, which will boost confidence, enable you to master presentation skills and make your message heard.'
-  -
-    type: bulletList
-    content:
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Build confidence in front of any audience.'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Learn storytelling and persuasive speech techniques.'
-      -
-        type: listItem
-        content:
-          -
-            type: paragraph
-            attrs:
-              textAlign: left
-            content:
-              -
-                type: text
-                text: 'Get real-time feedback and performance tips.'
+        text: 'Join our brilliant storyteller and delve into new worlds that will captivate little people as we explore the beauty of storytelling.'
   -
     type: paragraph
     attrs:
@@ -106,10 +70,9 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764684684
+updated_at: 1764684758
 duplicated_from: 4517b621-f68f-4baf-a63e-b166c6563970
-booking_link: 'https://theatreroyal.org/events/an-introduction-to-public-speaking-at-the-library/'
-attendance_information: 'suitable for ages 8+'
+booking_link: 'https://theatreroyal.org/events/childrens-story-time-at-the-library/'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
