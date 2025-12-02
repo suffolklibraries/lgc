@@ -1,8 +1,7 @@
 ---
 id: 5d6ac069-a034-4ebc-9ac1-2fd3f4a86c0e
-published: false
 blueprint: events
-title: 'An Introduction to Puppetry for Young People (Duplicated)'
+title: 'Making Magic Workshop'
 event_categories:
   - wellbeing
   - theatre-and-performance
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-04-09 13:00'
-end_date: '2026-04-09 15:00'
+start_date: '2026-04-08 10:00'
+end_date: '2026-04-08 12:00'
 free: true
 virtual: false
 latitude: '52.248150770555625'
@@ -28,15 +27,84 @@ content_area:
     content:
       -
         type: text
-        text: 'Want to learn how to create a character through puppetry?'
+        text: 'In this hands-on workshop, young magicians will learn how to turn everyday objects into amazing magic tricks and discover the secrets to performing them with confidence and flair.'
   -
     type: paragraph
     attrs:
-      textAlign: start
+      textAlign: left
     content:
       -
         type: text
-        text: 'This two-hour workshop will teach you the basics of puppetry, using materials and objects that you can find at home to bring your imagination to life!'
+        text: 'What will you get to do?'
+  -
+    type: bulletList
+    content:
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Patter Power: Learn how to talk like a magician and charm your audience!'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Finding Your Character: Are you mysterious, funny, or daring? Create your magician persona.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Magic with Newspaper: Predict the news!'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Magic with Breakfast: Make breakfast disappear (almost!)'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Magic with Bananas: Peel back the secrets of fruity fun tricks.'
+      -
+        type: listItem
+        content:
+          -
+            type: paragraph
+            attrs:
+              textAlign: left
+            content:
+              -
+                type: text
+                text: 'Magic with Paper: Fold, twist and transform ordinary paper into extraordinary magic.'
   -
     type: paragraph
     attrs:
@@ -70,9 +138,9 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764684517
+updated_at: 1764684614
 duplicated_from: 72f384df-d421-4dc7-87af-1490fceec5b1
-booking_link: 'https://theatreroyal.org/events/an-introduction-to-puppetry-for-young-people/'
+booking_link: 'https://theatreroyal.org/events/making-magic-workshop-at-the-library/'
 attendance_information: 'suitable for ages 8+'
 accessibility_information:
   - 'Wheelchair accessible'
