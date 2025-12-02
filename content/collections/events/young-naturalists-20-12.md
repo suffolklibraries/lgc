@@ -1,7 +1,7 @@
 ---
 id: 700a19c1-4279-4b47-b5ee-c27c0d3a7b7d
 blueprint: events
-title: 'Young Naturalists - Beautiful Butterflies'
+title: 'Young Naturalists at Lackford Lakes'
 event_categories:
   - nature
   - teen
@@ -9,10 +9,10 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-08-16 14:00'
-end_date: '2025-08-16 16:00'
+start_date: '2025-12-20 14:00'
+end_date: '2025-12-20 16:00'
 free: false
-cost_details: £7
+cost_details: £7.86
 virtual: false
 attendance_information: 'children aged 11 - 16'
 latitude: '52.304423567293775'
@@ -67,14 +67,6 @@ content_area:
     content:
       -
         type: text
-        text: "This month's theme: Beautiful butterflies! Learn how to identify the species we have at Lackford, and find out what on earth caterpillars get up to in their cocoons."
-  -
-    type: paragraph
-    attrs:
-      textAlign: start
-    content:
-      -
-        type: text
         text: 'Young Naturalists runs on the 3rd Saturday every month.'
   -
     type: paragraph
@@ -98,7 +90,7 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-08-16-young-naturalists-beautiful-butterflies'
+booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-12-20-young-naturalists-bird-bonanza'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -107,9 +99,8 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1740667665
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764683657
 duplicated_from: 323d37fc-3106-47c1-b773-b3e1d43ffc53
-published: false
 ---
 Monthly wildlife club for teens.
