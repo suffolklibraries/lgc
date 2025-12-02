@@ -9,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-06 10:30'
-end_date: '2025-09-06 14:30'
+start_date: '2025-12-06 10:30'
+end_date: '2025-12-06 14:30'
 free: false
 cost_details: £7
 virtual: false
@@ -90,7 +90,6 @@ content_area:
       -
         type: text
         text: ' to find out more and book.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-06-young-wardens-lackford-lakes'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -99,9 +98,8 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747148679
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764669793
 duplicated_from: 93eb69ef-e261-4a26-8d72-c4701a3c747d
-published: false
 ---
 Get outdoors, earn your Duke of Edinburgh award, and meet new friends.
