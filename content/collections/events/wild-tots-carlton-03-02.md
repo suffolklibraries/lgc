@@ -1,7 +1,7 @@
 ---
 id: 46494c44-9cd8-4390-a845-ac8529b4f316
 blueprint: events
-title: 'Wild Tots at Carlton Marshes (Duplicated) (Duplicated)'
+title: 'Wild Tots at Carlton Marshes'
 event_categories:
   - nature
   - wellbeing
@@ -135,7 +135,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764671073
+updated_at: 1764672113
 duplicated_from: 3c0b46d2-521b-4442-be11-54ae9263f858
 ---
 Wild play activities for children.
