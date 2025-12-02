@@ -1,8 +1,7 @@
 ---
 id: 5ee2790c-710c-4c91-95a2-9c13c586b9de
-published: false
 blueprint: events
-title: 'An Introduction to Stage Combat for Young People (Duplicated)'
+title: 'An Introduction to Stage Combat for Young People'
 event_categories:
   - wellbeing
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-03-31 10:00'
-end_date: '2026-03-31 12:00'
+start_date: '2026-03-31 13:00'
+end_date: '2026-03-31 14:00'
 free: true
 virtual: false
 latitude: '52.24082876567966'
@@ -35,7 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'If you’re aged 11-13, join our stage combat expert as they teach you all about unarmed combat techniques and how to tell a story to your audience.'
+        text: 'If you’re aged 14-17, join our stage combat expert as they teach you all about unarmed combat techniques and how to tell a story to your audience.'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -45,10 +44,10 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685173
+updated_at: 1764685255
 duplicated_from: 6bd51a7f-9374-4401-a784-de8fb66da415
-booking_link: 'https://theatreroyal.org/events/an-introduction-to-stage-combat-for-young-people-11-13/'
-attendance_information: 'suitable for ages 11 to 17 years'
+booking_link: 'https://theatreroyal.org/events/an-introduction-to-stage-combat-for-young-people-14-17/'
+attendance_information: 'suitable for ages 14 to 17 years'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
