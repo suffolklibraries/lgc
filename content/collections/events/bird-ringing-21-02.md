@@ -1,22 +1,20 @@
 ---
 id: 5704eb9b-2060-42a8-a6be-6ed4c399c2ee
 blueprint: events
-title: 'Hidden History of West Stow Country Park'
+title: 'Bird Ringing at West Stow'
 event_categories:
   - nature
   - family-friendly
   - wellbeing
-  - museums
 organisers:
   - west-suffolk-council
-featured_image: west-stow-country-park/history-walk.jpg
-start_date: '2025-07-10 11:00'
-end_date: '2025-07-10 13:00'
+featured_image: pelicanpelican-3x2/nature.png
+start_date: '2026-02-21 10:00'
+end_date: '2026-02-21 11:00'
 free: false
 cost_details: '£3 per person, under 16s free'
 virtual: false
 attendance_information: 'suitable for ages 8+'
-additional_access_information: 'uneven terrain'
 latitude: '52.31127405487969'
 longitude: '0.6382591770587054'
 building_name: 'West Stow Country Park'
@@ -93,12 +91,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Scattered throughout West Stow Country Park’s beautiful landscape are some fascinating tales about its hidden history.'
-      -
-        type: hardBreak
-      -
-        type: text
-        text: 'It is home to one of the only curved river locks in the Country and used to be home to the local authority’s tip site! Join this guided walk to find out more about the site’s lesser-known heritage.'
+        text: 'Join us in West Stow Country Park for a session of bird ringing as we look to understand more about the ages, habits and number of different birds that visit the Country Park each year.'
   -
     type: paragraph
     attrs:
@@ -106,17 +99,16 @@ content_area:
     content:
       -
         type: text
-        text: 'Walks last about two hours. '
-booking_link: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=904947&ins=1615390'
+        text: 'Get up close and see the beautiful markings and help determine the ages of the birds we catch, and ring them so we can continue to track them in the future. No harm comes to the birds themselves, and you will learn a great deal about the reasons why we ring birds, and the huge benefit it has to monitoring bird populations.'
+booking_link: 'https://www.whatsonwestsuffolk.co.uk/whats-on/details.cfm?id=959347&ins=1719392'
 cta: |-
   This event is organised by West Suffolk Council
 
   [https://www.westsuffolk.gov.uk/](https://www.westsuffolk.gov.uk/) 
 
   [01284 763233](tel:01284763233)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1749035315
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764668860
 duplicated_from: 7a0d30c9-311b-42a7-ab95-49535badd7dc
-published: false
 ---
-Discover some of its fascinating hidden history.
+Come and explore your local nature.
