@@ -1,8 +1,7 @@
 ---
 id: 3c6442d7-aef7-4c3f-8d99-13ecfc03d7ad
-published: false
 blueprint: events
-title: "Mildenhall Men's Shed (Duplicated)"
+title: "Mildenhall Men's Shed"
 event_categories:
   - community
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - mildenhall-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2026-04-07 10:00'
-end_date: '2026-04-07 12:00'
+start_date: '2026-04-14 10:00'
+end_date: '2026-04-14 12:00'
 free: false
 cost_details: '£30 annual membership'
 virtual: false
@@ -123,7 +122,7 @@ cta: |-
 
   [colin.daultrey@gmail.com](mailto:colin.daultrey@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764674485
+updated_at: 1764674511
 duplicated_from: 9aabafd0-6efa-492e-917c-f03094bd5a78
 ---
 A community space for men to connect, converse and create.
