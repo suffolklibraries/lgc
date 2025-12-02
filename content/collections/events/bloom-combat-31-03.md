@@ -1,8 +1,7 @@
 ---
 id: 67236309-32e5-4d57-9d6e-0b0423412950
-published: false
 blueprint: events
-title: 'Dance Masterclass (Duplicated)'
+title: 'An Introduction to Stage Combat'
 event_categories:
   - theatre-and-performance
   - music
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - theatre-royal
 featured_image: theatre-royal/bloom-festival-logo.jpeg
-start_date: '2026-03-30 18:00'
-end_date: '2026-03-30 20:00'
+start_date: '2026-03-31 18:00'
+end_date: '2026-03-31 20:00'
 free: true
 virtual: false
 latitude: '52.24082876567966'
@@ -27,7 +26,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Spend your evening in a fun and freeing dance workshop on our stage.'
+        text: 'Want to learn how they fight in the movies and on stage?'
   -
     type: paragraph
     attrs:
@@ -35,23 +34,7 @@ content_area:
     content:
       -
         type: text
-        text: 'Learning new routines in a relaxed environment, led by highly-skilled dance practitioner, '
-      -
-        type: text
-        marks:
-          -
-            type: link
-            attrs:
-              href: 'https://www.rosymaydancer.co.uk/'
-              rel: null
-              target: null
-              title: null
-          -
-            type: underline
-        text: 'Rosy May'
-      -
-        type: text
-        text: .
+        text: 'If you’re aged 18+, join our stage combat expert as they teach you all about unarmed combat techniques, characterisation in a fight scene and how to tell a story to your audience.'
 cta: |-
   This event is organised by the Theatre Royal 
 
@@ -61,9 +44,9 @@ cta: |-
 
   [https://theatreroyal.org/](https://theatreroyal.org/)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764685668
+updated_at: 1764685737
 duplicated_from: 2d595371-402d-454d-95a1-53d68f2d6ff7
-booking_link: 'https://theatreroyal.org/events/dance-masterclass-for-adults-with-rosy-may/'
+booking_link: 'https://theatreroyal.org/events/an-introduction-to-stage-combat-for-adults/'
 attendance_information: 'suitable for adults'
 accessibility_information:
   - 'Accessible toilets'
