@@ -1,8 +1,7 @@
 ---
 id: 640b9b4d-6e6c-431b-9c48-88ff119e0eee
-published: false
 blueprint: events
-title: 'Young Wardens at Foxburrow (Duplicated)'
+title: 'Young Wardens at Spring Wood'
 event_categories:
   - nature
   - teen
@@ -10,25 +9,36 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-01-25 10:00'
-end_date: '2026-01-25 14:00'
+start_date: '2026-01-18 10:00'
+end_date: '2026-01-18 12:30'
 free: false
 cost_details: £7
 virtual: false
 attendance_information: 'suitable for young people aged 11 to 16'
-latitude: '52.11759364824492'
-longitude: '1.3209740998584045'
-building_name: 'Discovery Room'
+latitude: '52.02939956937617'
+longitude: '1.124542908754181'
+building_name: 'Spring Wood'
 address_line_1: 'Foxburrow Nature Reserve'
-town: Melton
-postcode: 'IP12 1NA'
+town: Ipswich
+postcode: 'IP8 3TD'
 directions:
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'There is onsite parking at the nature reserve.'
+        text: 'The entrance to Spring Wood is off Marbled White Drive, which you can navigate to using What Three Words - '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://what3words.com/driftwood.surprised.smarter'
+              rel: null
+              target: null
+              title: null
+        text: 'https://what3words.com/driftwood.surprised.smarter'
   -
     type: paragraph
     content:
@@ -102,11 +112,8 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764669920
+updated_at: 1764673437
 duplicated_from: cdc6854b-cdc8-4eec-a504-a52804aca77d
-accessibility_information:
-  - 'Wheelchair accessible'
-  - 'Accessible toilets'
-address_line_2: 'Saddlemakers Lane'
+address_line_2: Pinewood
 ---
 Practical conservation and survey skills for teenagers.
