@@ -1,8 +1,7 @@
 ---
 id: 6395e8b7-3c64-4ef9-beaa-23eda987ed69
-published: false
 blueprint: events
-title: "Stour Valley Men's Shed (Duplicated) (Duplicated) (Duplicated)"
+title: "Stour Valley Men's Shed"
 event_categories:
   - community
   - later-years
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - stour-valley-mens-shed
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2026-01-19 10:00'
-end_date: '2026-01-22 14:00'
+start_date: '2026-02-09 10:00'
+end_date: '2026-02-11 14:00'
 free: false
 cost_details: '£20 annual membership'
 virtual: false
@@ -174,7 +173,7 @@ cta: |-
 
   [stourvalleymensshed@gmail.com](mailto:stourvalleymensshed@gmail.com)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764674619
+updated_at: 1764674803
 duplicated_from: 11bee9a4-05e7-4f94-a273-9cbdb71aecba
 ---
 A community space for men to connect, converse and create.
