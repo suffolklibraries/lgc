@@ -9,7 +9,7 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-28 10:00'
+start_date: '2026-01-25 10:00'
 end_date: '2026-01-25 14:00'
 free: false
 cost_details: £7
@@ -101,7 +101,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764669870
+updated_at: 1764669920
 duplicated_from: 4bc0ebac-923b-441a-b77b-ca9ce76b3a82
 accessibility_information:
   - 'Wheelchair accessible'
