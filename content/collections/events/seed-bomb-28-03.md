@@ -9,12 +9,11 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-03-01 10:00'
-end_date: '2025-03-01 15:00'
+start_date: '2026-03-28 10:00'
+end_date: '2026-03-29 14:00'
 free: false
 cost_details: '£3 per seed bomb'
 virtual: false
-attendance_information: 'family friendly'
 latitude: '52.467464593763445'
 longitude: '1.69091590181885'
 building_name: 'Carlton Marshes Visitor Centre'
@@ -112,11 +111,10 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1732103774
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764683150
 duplicated_from: f8c4bfb2-f10a-4944-8770-5db441885378
 accessibility_information:
   - 'Accessible toilets'
-published: false
 ---
-Come and have a go at making a seed bomb to take home and watch the flowers grow.
+Come and have a go at making a wildflower seed bomb to take home.
