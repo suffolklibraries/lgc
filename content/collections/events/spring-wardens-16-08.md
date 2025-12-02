@@ -1,8 +1,7 @@
 ---
 id: 3a1633c5-2fba-4f46-a049-f222cf1186de
-published: false
 blueprint: events
-title: 'Young Wardens at Spring Wood (Duplicated)'
+title: 'Young Wardens at Spring Wood'
 event_categories:
   - nature
   - teen
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2026-07-19 10:00'
-end_date: '2026-07-19 12:30'
+start_date: '2026-08-16 10:00'
+end_date: '2026-08-16 12:30'
 free: false
 cost_details: £7
 virtual: false
@@ -113,7 +112,7 @@ cta: |-
 
   [01473 890089](tel:01473890089)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764673576
+updated_at: 1764673610
 duplicated_from: cdef6bc9-ed8e-4c89-9cef-ef2ea87c3aa7
 address_line_2: Pinewood
 ---
