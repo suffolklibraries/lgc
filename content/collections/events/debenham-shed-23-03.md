@@ -1,16 +1,15 @@
 ---
 id: 1011677c-ea1b-499e-8406-a81555981f0d
-published: false
 blueprint: events
-title: 'Debenham Shed (Duplicated) (Duplicated) (Duplicated)'
+title: 'Debenham Shed'
 event_categories:
   - community
   - later-years
   - nature
   - wellbeing
 featured_image: pelicanpelican-3x2/gardentools.png
-start_date: '2026-03-02 09:00'
-end_date: '2026-03-06 17:00'
+start_date: '2026-03-23 09:00'
+end_date: '2026-03-27 17:00'
 free: false
 cost_details: '£50 annual membership, with pay as you go schemes available'
 virtual: false
@@ -199,7 +198,7 @@ cta: |-
 
   [info@debenhamshed.org.uk](mailto:info@debenhamshed.org.uk)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764676012
+updated_at: 1764676065
 duplicated_from: 7c31609f-5f74-447b-be82-dfcbc0a81cd5
 organisers:
   - debenham-shed
