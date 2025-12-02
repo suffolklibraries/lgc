@@ -1,15 +1,15 @@
 ---
 id: f011b597-dfef-4b31-badd-9bf9beb11b76
 blueprint: events
-title: 'Talk - The Glem valley floodplain'
+title: 'Talk: A Local Regenerative Farm'
 event_categories:
   - nature
   - languages
 organisers:
   - suffolk-wildlife-trust
 featured_image: pelicanpelican-3x2/nature.png
-start_date: '2025-09-10 14:30'
-end_date: '2025-09-10 15:30'
+start_date: '2026-01-14 14:30'
+end_date: '2026-01-14 15:30'
 free: true
 cost_details: '£3 for adults, under 25s free'
 virtual: false
@@ -74,7 +74,7 @@ content_area:
     content:
       -
         type: text
-        text: "This presentation will cover the restoration of a more natural environment in the valley of the river Glem and the advisory role the Suffolk Wildlife Trust is having in this.\_"
+        text: 'After attaining the 2025 Farming and Wildlife Advisory Group’s East Farm Conservation Award, we are delighted to welcome the recipient, John Humphries along to tell us about aspects of his considered, regenerative approach to improving the land whilst running a farming business where the importance of wildlife is a key factor.'
   -
     type: paragraph
     attrs:
@@ -83,7 +83,6 @@ content_area:
       -
         type: text
         text: 'No booking required.'
-booking_link: 'https://www.suffolkwildlifetrust.org/events/2025-09-10-talk-glem-valley-floodplain-alice-wickman'
 cta: |-
   This event is organised by Suffolk Wildlife Trust
 
@@ -92,13 +91,12 @@ cta: |-
   [teamwilder@suffolkwildlifetrust.org](mailto:teamwilder@suffolkwildlifetrust.org)
 
   [01473 890089](tel:01473890089)
-updated_by: c2a9acd7-26be-4f49-89cb-918d0960210a
-updated_at: 1747148643
+updated_by: c86ef296-82a8-4c92-8104-8f274952842b
+updated_at: 1764681132
 duplicated_from: a28d8854-8506-4f72-b47c-31f3fd401729
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Hearing loop available'
   - 'Accessible toilets'
-published: false
 ---
-Join Suffolk Wildlife Trust's Rivers Advisor Alice for this fascinating talk.
+Humphrey Mills explains his approach to farming and wildlife.
