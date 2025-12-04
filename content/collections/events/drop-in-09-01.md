@@ -1,8 +1,7 @@
 ---
 id: c794ab5f-078d-40d0-b11e-983a8fc7c239
-published: false
 blueprint: events
-title: 'Drop-In - years 7 to 11 (Duplicated)'
+title: 'Drop-In - years 7 to 11'
 event_categories:
   - teen
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-12-12 16:00'
-end_date: '2025-12-12 18:00'
+start_date: '2026-01-09 16:00'
+end_date: '2026-01-09 18:00'
 free: true
 virtual: false
 attendance_information: 'for young people in years 7 to 11'
@@ -128,7 +127,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop in. '
+        text: 'Find out more and sign up '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.themixstowmarket.co.uk/our-services/open-access-2'
+              rel: null
+              target: _blank
+              title: null
+        text: "via The Mix's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Mix
 
@@ -136,7 +149,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756995734
+updated_at: 1764850465
 duplicated_from: 6150aa52-f66c-473e-be33-f62951061a5e
 address_line_2: "Crowley Park, Barrett's Lane"
 ---
