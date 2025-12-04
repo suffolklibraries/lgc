@@ -211,7 +211,7 @@ content_area:
         type: text
         text: 'Once we’ve got all the info from your sign up form, simply come along to your first session and let the staff know if you’re coming back next week. We do have a limited capacity so please make sure to let us know if you will be attending so we can add your name to our register and ensure we have a space for you.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756390824
+updated_at: 1764840748
 booking_link: 'https://easternangles.co.uk/event/after-school-club/'
 cta: |-
   This event is organised by Eastern Angles
@@ -222,5 +222,6 @@ cta: |-
 
   [01473 211498](tel:01473211498)
 duplicated_from: e5a13fc6-b59d-4fff-9dd3-68203f452ca5
+attendance_information: 'years 3 and up'
 ---
-Homework and creative learning with Eastern Angles
+Homework and creative learning with Eastern Angles.
