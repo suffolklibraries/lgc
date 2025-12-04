@@ -1,8 +1,7 @@
 ---
 id: e030d977-6469-4e24-9992-5b7576c16311
-published: false
 blueprint: events
-title: 'Drop-In - years 7 and 8 (Duplicated)'
+title: 'Drop-In - years 7 and 8'
 event_categories:
   - teen
   - languages
@@ -11,11 +10,11 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-12-15 16:00'
-end_date: '2025-12-15 18:00'
+start_date: '2026-01-05 16:00'
+end_date: '2026-01-05 18:00'
 free: true
 virtual: false
-attendance_information: 'For young people in years 7 and 8'
+attendance_information: 'for young people in years 7 and 8'
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
@@ -146,7 +145,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop in. '
+        text: 'Find out more and sign up '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.themixstowmarket.co.uk/our-services/open-access-2'
+              rel: null
+              target: _blank
+              title: null
+        text: "via The Mix's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Mix
 
@@ -154,7 +167,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756990468
+updated_at: 1764849317
 duplicated_from: 08bbb77b-88fb-4e00-929b-c62003f05a6a
 ---
 Hang out in a chill and comfortable space.
