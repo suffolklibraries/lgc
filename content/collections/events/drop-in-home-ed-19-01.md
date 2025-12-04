@@ -1,8 +1,7 @@
 ---
 id: 7acf60a8-0233-40fc-a915-17b7f2760f3b
-published: false
 blueprint: events
-title: 'Drop-In - Home Ed (Duplicated) (Duplicated)'
+title: 'Drop-In - Home Ed'
 event_categories:
   - teen
   - languages
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2026-01-05 13:30'
-end_date: '2026-01-05 15:30'
+start_date: '2026-01-19 13:30'
+end_date: '2026-01-19 15:30'
 free: true
 virtual: false
 attendance_information: 'For young people aged 9 to 15 who are home educated'
@@ -153,7 +152,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764841749
+updated_at: 1764841794
 duplicated_from: 59213d54-02f3-4834-8ac2-c26825d1023a
 ---
 Hang out in a chill and comfortable space.
