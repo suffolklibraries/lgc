@@ -114,7 +114,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop-in runs every week and are a great way of meeting new friends and finding new passions.'
+        text: 'Our Drop-Ins are a safe and welcoming space for young people to hang out, meet new friends, chat to our youth workers, and most importantly, have fun.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'We offer a variety of activities, including table tennis, pool, video games, board games, arts and crafts, plus additional activities planned by our team (like football or Dodgeball).'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'For those needing a quieter environment, we also have a designated ‘quiet space’ available to use.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'We have a dedicated team of youth workers, who are present and available to have a chat, help and support, or to signpost young people to other support, both internally and externally. Our youth workers also hold qualifications in Mental Health First Aid, Safeguarding, First Aid, C-Card, and more.'
   -
     type: paragraph
     attrs:
@@ -122,7 +143,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop in. '
+        text: 'Find out more and sign up '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.themixstowmarket.co.uk/our-services/open-access-2'
+              rel: null
+              target: _blank
+              title: null
+        text: "via The Mix's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Mix
 
@@ -130,7 +165,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764841588
+updated_at: 1764850589
 duplicated_from: 6983b81e-bda9-4ace-b9fb-2b9e87875cf5
 ---
 Hang out in a chill and comfortable space.
