@@ -1,8 +1,7 @@
 ---
 id: f21fc069-13f4-4805-b1aa-791b9fd66e35
-published: false
 blueprint: events
-title: 'Drop-In - years 9, 10, and 11 (Duplicated)'
+title: 'Drop-In - years 9, 10, and 11'
 event_categories:
   - teen
   - languages
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-12-11 16:00'
-end_date: '2025-12-11 18:00'
+start_date: '2025-12-18 16:00'
+end_date: '2025-12-18 18:00'
 free: true
 virtual: false
 attendance_information: 'For young people in years 8, 9, and 10'
@@ -115,7 +114,28 @@ content_area:
     content:
       -
         type: text
-        text: 'Drop-in runs every week and are a great way of meeting new friends and finding new passions.'
+        text: 'Our Drop-Ins are a safe and welcoming space for young people to hang out, meet new friends, chat to our youth workers, and most importantly, have fun.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'We offer a variety of activities, including table tennis, pool, video games, board games, arts and crafts, plus additional activities planned by our team (like football or Dodgeball).'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'For those needing a quieter environment, we also have a designated ‘quiet space’ available to use.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
+      -
+        type: text
+        text: 'We have a dedicated team of youth workers, who are present and available to have a chat, help and support, or to signpost young people to other support, both internally and externally. Our youth workers also hold qualifications in Mental Health First Aid, Safeguarding, First Aid, C-Card, and more.'
   -
     type: paragraph
     attrs:
@@ -123,7 +143,15 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop in. '
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://getcreative.suffolkcommunitylibraries.co.uk/'
+              rel: null
+              target: null
+              title: null
+        text: "Activities & events across Suffolk - Let's Get Creative"
 cta: |-
   This event is organised by The Mix
 
@@ -131,7 +159,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764841588
+updated_at: 1764850037
 duplicated_from: 112d0476-a436-43a5-ac76-a456f630e63f
 ---
 Hang out in a chill and comfortable space.
