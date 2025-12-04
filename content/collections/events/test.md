@@ -100,13 +100,14 @@ cta: |-
 
   [01473 400081](tel:01473400081)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764851438
+updated_at: 1764851622
 event_categories:
   - art
   - family-friendly
   - community
   - music
   - food
+  - activism
 end_date: '2026-01-01 18:00'
 featured_image: pelicanpelican-3x2/support.png
 accessibility_information:
