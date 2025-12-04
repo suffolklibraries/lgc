@@ -1,8 +1,7 @@
 ---
 id: e5d4f7a0-68f0-4b59-931b-90723d820332
-published: false
 blueprint: events
-title: 'After School Club (Duplicated)'
+title: 'After School Club'
 event_categories:
   - teen
   - languages
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - eastern-angles
 featured_image: pelicanpelican-3x2/literature.png
-start_date: '2026-02-03 15:30'
-end_date: '2026-02-04 17:00'
+start_date: '2026-02-10 15:30'
+end_date: '2026-02-11 17:00'
 free: true
 virtual: false
 accessibility_information:
@@ -212,7 +211,7 @@ content_area:
         type: text
         text: 'Once we’ve got all the info from your sign up form, simply come along to your first session and let the staff know if you’re coming back next week. We do have a limited capacity so please make sure to let us know if you will be attending so we can add your name to our register and ensure we have a space for you.'
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764840884
+updated_at: 1764841339
 booking_link: 'https://easternangles.co.uk/event/after-school-club/'
 cta: |-
   This event is organised by Eastern Angles
