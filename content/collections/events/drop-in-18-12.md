@@ -143,15 +143,21 @@ content_area:
     content:
       -
         type: text
+        text: 'Find out more and sign up '
+      -
+        type: text
         marks:
           -
             type: link
             attrs:
-              href: 'https://getcreative.suffolkcommunitylibraries.co.uk/'
+              href: 'https://www.themixstowmarket.co.uk/our-services/open-access-2'
               rel: null
-              target: null
+              target: _blank
               title: null
-        text: "Activities & events across Suffolk - Let's Get Creative"
+        text: "via The Mix's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Mix
 
@@ -159,7 +165,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764850037
+updated_at: 1764850593
 duplicated_from: 112d0476-a436-43a5-ac76-a456f630e63f
 ---
 Hang out in a chill and comfortable space.
