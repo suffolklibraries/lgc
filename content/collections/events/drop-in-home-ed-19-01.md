@@ -144,7 +144,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop in. '
+        text: 'Find out more and sign up '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.themixstowmarket.co.uk/our-services/open-access-2'
+              rel: null
+              target: _blank
+              title: null
+        text: "via The Mix's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Mix
 
@@ -152,7 +166,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764841794
+updated_at: 1764850504
 duplicated_from: 59213d54-02f3-4834-8ac2-c26825d1023a
 ---
 Hang out in a chill and comfortable space.
