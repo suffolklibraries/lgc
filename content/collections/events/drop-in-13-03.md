@@ -1,8 +1,7 @@
 ---
 id: b04720ac-681f-42ad-9f6d-faec0532cc53
-published: false
 blueprint: events
-title: 'Drop-In - years 7 to 11 (Duplicated)'
+title: 'Drop-In - years 7 to 11'
 event_categories:
   - teen
   - wellbeing
@@ -10,8 +9,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2026-03-06 16:00'
-end_date: '2026-03-06 18:00'
+start_date: '2026-03-13 16:00'
+end_date: '2026-03-13 18:00'
 free: true
 virtual: false
 attendance_information: 'for young people in years 7 to 11'
@@ -150,7 +149,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1764850806
+updated_at: 1764850829
 duplicated_from: f1601050-884d-42d9-a65b-2d625348574c
 address_line_2: "Crowley Park, Barrett's Lane"
 ---
