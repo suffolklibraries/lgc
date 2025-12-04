@@ -1,11 +1,10 @@
 ---
 id: c36df0b0-0f46-432a-842c-25063704ad1b
-published: false
 blueprint: events
-title: '1 Big Multicultural Festival (Duplicated)'
+title: 'TEST TEST TEST'
 organisers:
   - bsc-multicultural-services
-start_date: '2025-08-31 12:00'
+start_date: '2026-01-01 12:00'
 free: true
 virtual: false
 latitude: '52.05441943009391'
@@ -101,14 +100,14 @@ cta: |-
 
   [01473 400081](tel:01473400081)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1751974274
+updated_at: 1764851438
 event_categories:
   - art
   - family-friendly
   - community
   - music
   - food
-end_date: '2025-08-31 18:00'
+end_date: '2026-01-01 18:00'
 featured_image: pelicanpelican-3x2/support.png
 accessibility_information:
   - 'Relaxed performance'
