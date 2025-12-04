@@ -114,20 +114,18 @@ content_area:
     content:
       -
         type: text
-        text: 'Our drop-ins are a safe and welcoming space for young people to hang out, meet new friends, chat to our youth workers, and most importantly, have fun.'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+        text: 'Our Drop-Ins are a safe and welcoming space for young people to hang out, meet new friends, chat to our youth workers, and most importantly, have fun.'
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
         text: 'We offer a variety of activities, including table tennis, pool, video games, board games, arts and crafts, plus additional activities planned by our team (like football or Dodgeball).'
-  -
-    type: paragraph
-    attrs:
-      textAlign: left
-    content:
+      -
+        type: hardBreak
+      -
+        type: hardBreak
       -
         type: text
         text: 'For those needing a quieter environment, we also have a designated ‘quiet space’ available to use.'
@@ -145,7 +143,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop in. '
+        text: 'Find out more and sign up '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.themixstowmarket.co.uk/our-services/open-access-2'
+              rel: null
+              target: _blank
+              title: null
+        text: "via The Mix's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Mix
 
@@ -153,7 +165,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756990468
+updated_at: 1764850663
 duplicated_from: ce408ab8-71fe-4a0e-947e-341490dcaef5
 ---
 Hang out in a chill and comfortable space.
