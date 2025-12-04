@@ -1,8 +1,7 @@
 ---
 id: 1412d5be-a259-405d-abc7-041395a581cc
-published: false
 blueprint: events
-title: 'Drop-In - ages 16 - 19 (Duplicated)'
+title: 'Drop-In - ages 16 - 19'
 event_categories:
   - teen
   - languages
@@ -11,8 +10,8 @@ event_categories:
 organisers:
   - the-mix
 featured_image: pelicanpelican-3x2/teen-(1).png
-start_date: '2025-12-16 17:00'
-end_date: '2025-12-16 19:00'
+start_date: '2026-01-06 17:00'
+end_date: '2026-01-06 19:00'
 free: true
 virtual: false
 attendance_information: 'For young people aged 16 to 19'
@@ -146,7 +145,21 @@ content_area:
     content:
       -
         type: text
-        text: 'No booking required, just drop in. '
+        text: 'Find out more and sign up '
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: 'https://www.themixstowmarket.co.uk/our-services/open-access-2'
+              rel: null
+              target: _blank
+              title: null
+        text: "via The Mix's website"
+      -
+        type: text
+        text: .
 cta: |-
   This event is organised by The Mix
 
@@ -154,7 +167,7 @@ cta: |-
 
   [01449 745130](tel:01449745130)
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
-updated_at: 1756990424
+updated_at: 1764849606
 duplicated_from: f7e18468-c715-4a92-b013-3b3ea630843f
 ---
 Hang out in a chill and comfortable space.
