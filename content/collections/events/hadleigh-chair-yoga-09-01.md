@@ -190,5 +190,6 @@ directions:
         type: text
         text: .
 address_line_1: 'Market Place'
+published: false
 ---
 Discover the gentle power of chair yoga, ideal for older adults and those with health conditions.
