@@ -259,5 +259,6 @@ updated_at: 1764329403
 duplicated_from: dda74051-5546-4c71-99a7-2d3cce056de1
 booking_link: 'https://www.nhrm.co.uk/events/christmas-at-the-museum-copy/'
 cost_details: "Adults £6, Children £4, Under 5's Free"
+published: false
 ---
 Celebrate the most wonderful time of the year at Palace House.

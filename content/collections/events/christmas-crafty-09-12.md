@@ -121,5 +121,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
+published: false
 ---
 Christmassy crafting fun for people of all ages.

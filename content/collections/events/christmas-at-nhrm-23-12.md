@@ -174,5 +174,6 @@ updated_at: 1764329565
 duplicated_from: a1480e71-71b3-443c-8641-48bd310d7b97
 booking_link: 'https://www.nhrm.co.uk/events/free-festive-family-drop-in-workshop/'
 cost_details: 'Free with museum admission'
+published: false
 ---
 Join us for a fabulous festive family craft workshop this Christmas!
