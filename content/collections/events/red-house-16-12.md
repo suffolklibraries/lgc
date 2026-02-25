@@ -108,5 +108,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 booking_link: 'https://www.brittenpearsarts.org/events/christmas-carols-at-the-red-house-2'
+published: false
 ---
 Join us for a festive sing-a-long followed by warming drinks and mince pies.
