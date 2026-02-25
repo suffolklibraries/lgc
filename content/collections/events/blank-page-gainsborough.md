@@ -166,5 +166,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1763559104
 duplicated_from: 1dfa5c88-631d-4c86-84a4-ac7537069704
 booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
+published: false
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!

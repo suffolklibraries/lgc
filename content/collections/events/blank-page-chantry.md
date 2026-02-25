@@ -179,5 +179,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
