@@ -99,5 +99,6 @@ duplicated_from: 812e1154-972b-40d6-8256-c309f0ca6c05
 accessibility_information:
   - 'Accessible toilets'
 building_name: 'Foxburrow Nature Reserve'
+published: false
 ---
 Explore our forest school with group activities, games, and fun free-flow stations.
