@@ -142,5 +142,6 @@ cta: |-
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1750173223
 duplicated_from: a8b4416f-c53f-4650-8613-e8d5bd3e5f7f
+published: false
 ---
 Join our vibrant community of green thumbs, novice gardeners, and nature enthusiasts.

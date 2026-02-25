@@ -163,5 +163,6 @@ directions:
               title: null
         text: 'Suffolk Onboard.'
 cost_details: £10
+published: false
 ---
 A part of Theatre Royal's Bloom Festival.
