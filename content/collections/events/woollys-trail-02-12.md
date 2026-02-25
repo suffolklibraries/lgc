@@ -136,5 +136,6 @@ directions:
 building_name: 'Christchurch Mansion'
 cost_details: '£ per child'
 attendance_information: 'ages 3+'
+published: false
 ---
 Get in the festive spirit at Christchurch Mansion.

@@ -117,5 +117,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 cost_details: £12
+published: false
 ---
 Folk at the Pavilion presents… Vicki Swan & Jonny Dyer who blend traditional material with contemporary sounds.
