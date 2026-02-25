@@ -130,5 +130,6 @@ cta: |-
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764335572
 duplicated_from: beace21a-55ed-4150-9191-25c0d4c72b4e
+published: false
 ---
 Join us on the last Sunday of the month for a more relaxed time.
