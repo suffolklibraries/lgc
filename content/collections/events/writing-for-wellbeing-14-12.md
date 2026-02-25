@@ -233,5 +233,6 @@ building_name: 'Sudbury Arts Centre'
 cost_details: '£5 per person'
 attendance_information: 'suitable for adults and over 16s'
 booking_link: 'https://sudburyartscentre.com/event/writing-for-wellbeing-workshop-3/'
+published: false
 ---
 Join us this Autumn for a series of writing workshops, designed to support wellbeing.
