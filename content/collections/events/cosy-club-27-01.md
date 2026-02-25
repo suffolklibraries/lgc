@@ -187,5 +187,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764329758
 duplicated_from: 3ca2b8ff-8ba0-4fc0-a982-d6b7bfb7228f
 booking_link: 'https://www.nhrm.co.uk/events/cosy-club-on-tuesdays-2/'
+published: false
 ---
 Calling all families to Save the Date!
