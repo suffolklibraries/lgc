@@ -160,5 +160,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1761142673
 duplicated_from: aeecdb82-6506-46f3-9345-a0c51bc8c244
 booking_link: 'https://activlives.org.uk/activgardens/grow-your-community-sudbury/'
+published: false
 ---
 Get involved in community growing in and around Sudbury.
