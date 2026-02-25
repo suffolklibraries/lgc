@@ -179,5 +179,6 @@ duplicated_from: 732a507a-753d-46af-8862-04c9ec3d63ba
 accessibility_information:
   - 'Autism friendly'
 booking_link: 'https://activlives.org.uk/activgardens/activsheds/'
+published: false
 ---
 Share knowledge, learn new skills, and pursue hobbies!
