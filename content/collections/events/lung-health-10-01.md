@@ -124,5 +124,6 @@ updated_at: 1764342594
 duplicated_from: ba9acca6-e3df-4bb5-b8bc-59fdbe7025ea
 attendance_information: 'Those managing impaired lung performance'
 booking_link: 'https://theseagull.co.uk/community_events/singing-for-lung-health/'
+published: false
 ---
 Improve your lung health through singing.
