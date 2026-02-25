@@ -112,5 +112,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £15, discounts for under 16s and seniors'
+published: false
 ---
 A spectacular new music and dance show bursting with energy and a generous sprinkling of festive magic.
