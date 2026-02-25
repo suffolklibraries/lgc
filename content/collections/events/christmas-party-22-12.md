@@ -122,5 +122,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 cost_details: 'Adults £2, Children £7'
+published: false
 ---
 Children’s Entertainer Barrie Thornton returns to East Point Pavilion for a Christmas party!

@@ -117,5 +117,6 @@ accessibility_information:
 address_line_2: 'Royal Plain'
 cost_details: '£4.50 per child'
 attendance_information: 'Children aged 5-11 years'
+published: false
 ---
 Does your child love to play, imagine, act and perform?
