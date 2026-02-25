@@ -151,5 +151,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 cost_details: '£5 per child'
+published: false
 ---
 Get ready for a sprinkle of festive magic.
