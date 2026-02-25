@@ -105,5 +105,6 @@ directions:
       -
         type: text
         text: 'There are no local public transport links.'
+published: false
 ---
 Free music workshops for people in later life.
