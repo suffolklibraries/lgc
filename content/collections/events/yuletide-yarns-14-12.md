@@ -196,5 +196,6 @@ organisers:
   - suffolk-community-libraries
 attendance_information: 'Suitable for all the family, especially children aged 4+.'
 booking_link: 'https://suffolkcommunitylibraries.co.uk/events/twelve-yuletide-yarns-at-ipswich-county-library/'
+published: false
 ---
 Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!

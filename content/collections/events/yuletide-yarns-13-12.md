@@ -131,5 +131,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764255568
 duplicated_from: 9b0ad969-3738-413a-b098-b2499a324fc7
 booking_link: 'https://suffolkcommunitylibraries.co.uk/events/twelve-yuletide-yarns-at-gainsborough-community-library/'
+published: false
 ---
 Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
