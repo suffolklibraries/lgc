@@ -177,5 +177,6 @@ directions:
         text: .
 building_name: 'Beccles Library'
 booking_link: 'https://easternangles.co.uk/event/twelve-yuletime-yarns/#all-dates'
+published: false
 ---
 Get ready for an enchanting new festive production that’s big-hearted, chaotic, and utterly joyful!
