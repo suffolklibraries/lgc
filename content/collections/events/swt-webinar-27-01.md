@@ -73,5 +73,6 @@ cta: |-
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764681755
 duplicated_from: d04b8a2f-6615-46f7-b751-10acb3940ae6
+published: false
 ---
 Discover the wonders of bird pellets and what they can tell us about bird populations.
