@@ -133,5 +133,6 @@ event_categories:
   - community
   - later-years
   - nature
+published: false
 ---
 Explore Bury St Edmunds with an option of lengths.
