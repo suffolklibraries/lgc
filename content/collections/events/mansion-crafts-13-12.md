@@ -127,5 +127,6 @@ directions:
         text: 'Access at Christchurch Mansion'
 building_name: 'Christchurch Mansion'
 cost_details: '£3 per child'
+published: false
 ---
 Get in the festive spirit with Christmas crafts.
