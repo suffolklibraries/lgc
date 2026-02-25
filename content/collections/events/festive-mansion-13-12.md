@@ -162,5 +162,6 @@ directions:
               title: null
         text: 'Access at Christchurch Mansion'
 building_name: 'Christchurch Mansion'
+published: false
 ---
 Get in the festive spirit at annual Christchurch Mansion.
