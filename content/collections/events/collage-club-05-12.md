@@ -114,5 +114,6 @@ booking_link: 'https://www.ampp.studio/whats-on'
 organisers:
   - ampp-studio
 cost_details: £12
+published: false
 ---
 A monthly creative meet-up for adults.
