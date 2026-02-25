@@ -169,5 +169,6 @@ cta: |-
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764849410
 duplicated_from: 2b610be0-848d-4089-ab06-3d38629c11b9
+published: false
 ---
 Hang out in a chill and comfortable space.
