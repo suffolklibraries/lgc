@@ -113,5 +113,6 @@ updated_at: 1764341094
 duplicated_from: 0dd9564e-275a-4ff9-9899-f8e24de35efd
 cost_details: 'From £12.50'
 booking_link: 'https://www.brittenpearsarts.org/events/sing-christmas'
+published: false
 ---
 Come and sing favourite Christmas pop songs from Slade to Shakin’ Stevens and Wizzard to Wham!
