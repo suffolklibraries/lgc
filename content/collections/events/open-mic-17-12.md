@@ -111,5 +111,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
+published: false
 ---
 Join us for a special festive edition of our monthly open mic night!
