@@ -223,5 +223,6 @@ updated_at: 1763558966
 duplicated_from: 5593ea38-3165-4eb2-a6d4-dfc6f9872a13
 booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
 address_line_2: 'Clapham Road South'
+published: false
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
