@@ -126,5 +126,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764343023
 duplicated_from: 134f8ace-1073-42a4-8a02-fbd4a9a113e2
 booking_link: 'https://theseagull.co.uk/2020/07/15/knit-and-natter/'
+published: false
 ---
 Make friends, bring your knitting, and stay for a chat.
