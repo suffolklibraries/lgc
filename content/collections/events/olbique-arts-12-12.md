@@ -164,5 +164,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764328606
 duplicated_from: 3c61230e-dd11-4f55-b077-aeae3e270ed5
 booking_link: 'https://www.nhrm.co.uk/events/art-for-wellbeing-course-with-oblique-arts/'
+published: false
 ---
 Fully funded six-week adult art class with Oblique Arts.
