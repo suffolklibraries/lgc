@@ -158,5 +158,6 @@ directions:
         text: .
 cost_details: '£5 per person'
 booking_link: 'https://regalstowmarket.co.uk/RegalStowmarket.dll/WhatsOn?f=10405049'
+published: false
 ---
 A relaxed and family friendly screening.
