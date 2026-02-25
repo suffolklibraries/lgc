@@ -142,5 +142,6 @@ updated_at: 1764602203
 duplicated_from: be3057a7-22b2-4daf-b13c-a7831b52f341
 cost_details: '£2 per person'
 booking_link: 'https://www.thebankeye.org/store/p73/studentartclub.html'
+published: false
 ---
 Join us for our after school art club for 13-16's.
