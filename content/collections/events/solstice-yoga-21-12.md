@@ -103,5 +103,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 cost_details: £3
+published: false
 ---
 Join yoga instructor Jack Partridge at East Point Pavilion for an invigorating yoga class.

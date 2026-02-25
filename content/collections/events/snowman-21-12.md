@@ -130,5 +130,6 @@ directions:
         type: text
         text: .
 cost_details: 'Tickets from £10'
+published: false
 ---
 A must-see of the festive season.
