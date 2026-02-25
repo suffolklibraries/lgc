@@ -205,5 +205,6 @@ directions:
         type: text
         text: .
 building_name: 'Stowmarket Library'
+published: false
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!

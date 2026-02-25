@@ -173,5 +173,6 @@ updated_at: 1763559449
 duplicated_from: 56e0cc78-748a-416e-b04d-f3cda005c559
 booking_link: 'https://suffolkcommunitylibraries.co.uk/children-and-teens/the-blank-page-project/'
 address_line_2: 'Maidenhall Approach'
+published: false
 ---
 High-quality creative activities run by local artists in libraries during the school holidays!
