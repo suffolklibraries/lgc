@@ -177,5 +177,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764328835
 duplicated_from: b9d48b32-14bb-4c58-88ce-1f6630230cfe
 booking_link: 'https://www.nhrm.co.uk/events/art-club-with-the-hub/'
+published: false
 ---
 A new creative initiative for young people aged 16-18 years.
