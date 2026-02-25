@@ -197,5 +197,6 @@ event_categories:
   - community
   - art
   - later-years
+published: false
 ---
 Explore a variety of art forms whilst developing creative skills and tools to support mental wellbeing!
