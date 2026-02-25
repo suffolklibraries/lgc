@@ -98,5 +98,6 @@ cta: |-
 updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764334976
 duplicated_from: bbf15f58-9ff1-4d14-82d0-f575c3965766
+published: false
 ---
 Enjoy live music from local musicians in Haverhill.
