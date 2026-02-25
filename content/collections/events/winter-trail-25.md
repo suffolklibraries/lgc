@@ -102,5 +102,6 @@ event_categories:
 organisers:
   - west-suffolk-council
 building_name: 'Brandon Country Park'
+published: false
 ---
 Explore nature with a fun family-friendly trail.
