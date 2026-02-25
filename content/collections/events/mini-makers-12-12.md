@@ -112,5 +112,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 attendance_information: 'under 5s'
 booking_link: 'https://www.brittenpearsarts.org/events/mini-music-makers-at-christmas'
+published: false
 ---
 Join Mini Music Makers at Snape Maltings for a fun, Christmassy session of music, play and exploration.
