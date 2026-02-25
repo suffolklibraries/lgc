@@ -144,5 +144,6 @@ directions:
         text: 'Suffolk Onboard.'
 building_name: 'The Seagull Theatre'
 booking_link: 'https://theseagull.co.uk/community_events/arts-and-crafts-group/'
+published: false
 ---
 Support for young people at risk of bullying
