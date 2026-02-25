@@ -99,5 +99,6 @@ directions:
         text: 'There is onsite car parking.'
 address_line_1: 'Tranmer House'
 booking_link: 'https://www.ramblers.org.uk/go-walking/wellbeing-walks/sutton-hoo-strollers-booking-advised-not-essential-25'
+published: false
 ---
 Enjoy a walk as you explore Suffolk's towns and countryside.
