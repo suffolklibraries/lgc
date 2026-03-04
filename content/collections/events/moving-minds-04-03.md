@@ -229,5 +229,6 @@ directions:
         text: here.
 booking_link: 'https://www.danceeast.co.uk/classes/moving-minds-sp26/'
 building_name: 'Dance East'
+published: false
 ---
 Open to anyone who feels drawn to the idea of creative dance and movement to support their wellbeing and mental health.
