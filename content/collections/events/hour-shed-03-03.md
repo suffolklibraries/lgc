@@ -179,5 +179,6 @@ updated_at: 1761140379
 duplicated_from: 8963c4fb-3e8b-4581-aa9f-fcafd7a33fe6
 organisers:
   - hour-community
+published: false
 ---
 Socialise and share skills.
