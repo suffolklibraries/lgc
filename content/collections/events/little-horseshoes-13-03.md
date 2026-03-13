@@ -185,5 +185,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1759501200
 duplicated_from: d0fe96c0-d819-4bdb-a788-7e8df33da0a3
 booking_link: 'https://www.nhrm.co.uk/events/pre-school-little-horseshoes-sessions/'
+published: false
 ---
 Free, creative play sessions, designed to educate and entertain!
