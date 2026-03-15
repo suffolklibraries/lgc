@@ -11,9 +11,6 @@ attendance_information: 'Whatever your experience, come along. Tuition and guida
 accessibility_information:
   - 'Wheelchair accessible'
   - 'Accessible toilets'
-additional_access_information: 'Free car park close by. Ramp in, but exterior ground slightly uneven.'
-latitude: '52.32323760000001'
-longitude: '1.4816591'
 address_line_1: '2 Halesworth Road'
 address_line_2: Walpole
 building_name: 'Walpole Old Chapel'
