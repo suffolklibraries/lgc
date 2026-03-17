@@ -122,5 +122,6 @@ accessibility_information:
   - 'Accessible parking spaces'
 address_line_2: 'Royal Plain'
 cost_details: '£10 per person'
+published: false
 ---
 Dance the evening away with the hugely popular Ceilidh band, Skiphire.
