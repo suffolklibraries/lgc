@@ -119,5 +119,6 @@ updated_at: 1764341895
 duplicated_from: 1d708095-e0d8-49f0-b2f1-d9b31a7f0066
 attendance_information: 'adults with learning disabilities'
 booking_link: 'https://theseagull.co.uk/community_events/2924/'
+published: false
 ---
 Musical theatre workshops for adults with learning disabilities.
