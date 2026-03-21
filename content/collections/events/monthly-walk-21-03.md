@@ -105,5 +105,6 @@ accessibility_information:
 address_line_2: 'Saddlemakers Lane'
 building_name: 'Foxburrow Nature Reserve'
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-03-21-morning-marshes-spring'
+published: false
 ---
 A bacon roll followed by a guided walk on the nature reserve.
