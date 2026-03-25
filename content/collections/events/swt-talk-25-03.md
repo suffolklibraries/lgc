@@ -166,5 +166,6 @@ accessibility_information:
   - 'Hearing loop available'
   - 'Accessible toilets'
   - 'Accessible parking spaces'
+published: false
 ---
 RSPB Minsmere volunteer, Steve Everett will reveal the secrets life of Digger Alley.
