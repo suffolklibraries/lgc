@@ -142,5 +142,6 @@ directions:
               title: null
         text: 'Suffolk Onboard.'
 booking_link: 'https://theseagull.co.uk/community_events/singing-for-wellbeing/'
+published: false
 ---
 An activity for anyone who enjoys music!
