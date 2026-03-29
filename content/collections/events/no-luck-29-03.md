@@ -138,5 +138,6 @@ duplicated_from: 4721a98b-fe7a-42bb-83a0-cd7acceb2183
 cost_details: 'From £5'
 booking_link: 'https://www.brittenpearsarts.org/events/concerteenies-the-duck-with-no-luck'
 attendance_information: 'Children aged 3 - 7 and their families'
+published: false
 ---
 Join Concerteenies for the musical story of “The Duck With No Luck”.
