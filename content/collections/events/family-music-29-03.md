@@ -134,5 +134,6 @@ accessibility_information:
 attendance_information: 'Children aged 5–10 and their grown-ups'
 booking_link: 'https://www.brittenpearsarts.org/events/family-music-makers-ages-5-10'
 address_line_1: 'Snape Maltings'
+published: false
 ---
 Warm-ups, musical games and creating new music.
