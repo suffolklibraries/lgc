@@ -166,5 +166,6 @@ updated_by: c86ef296-82a8-4c92-8104-8f274952842b
 updated_at: 1764330001
 duplicated_from: 86dbccdc-5a03-4e34-ab29-95f0a3c40827
 booking_link: 'https://www.nhrm.co.uk/events/easter-paw-ty-at-the-museum-2026/'
+published: false
 ---
 You are invited to an Easter Paw-ty at the National Horseracing Museum!
