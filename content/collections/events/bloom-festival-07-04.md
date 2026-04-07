@@ -222,5 +222,6 @@ directions:
       -
         type: text
         text: .
+published: false
 ---
 A part of Theatre Royal's Bloom Festival.
