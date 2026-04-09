@@ -139,5 +139,6 @@ accessibility_information:
   - 'Accessible toilets'
   - 'Accessible parking spaces'
 booking_link: 'https://www.brittenpearsarts.org/events/easter-family-fun-at-the-red-house-2'
+published: false
 ---
 Musical crafts and an audio Easter egg hunt.
