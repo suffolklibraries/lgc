@@ -195,5 +195,6 @@ updated_at: 1764592820
 duplicated_from: f94960a6-edf6-4ca7-bf08-b5be71e42f7c
 cost_details: '£6 per session'
 attendance_information: 'people aged 55+'
+published: false
 ---
 Come and try our weekly movement classes for people over 55!
