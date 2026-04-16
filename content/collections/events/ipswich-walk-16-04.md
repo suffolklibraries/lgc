@@ -116,5 +116,6 @@ updated_at: 1764680439
 booking_link: 'https://walkingandcyclinginsuffolk.org.uk/get-in-touch/'
 duplicated_from: 8c6c0562-57b1-4ddd-81e4-94c453429b7c
 address_line_1: '33 Bolton Lane'
+published: false
 ---
 Free walking activities to keep you well.
