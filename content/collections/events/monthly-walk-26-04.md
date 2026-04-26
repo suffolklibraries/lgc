@@ -113,5 +113,6 @@ accessibility_information:
 address_line_2: 'Saddlemakers Lane'
 building_name: 'Foxburrow Nature Reserve'
 booking_link: 'https://www.suffolkwildlifetrust.org/events/2026-04-26-guided-monthly-walk-flight-fledglings'
+published: false
 ---
 Discover Foxburrow Reserve on a guided walk from our knowledgeable wildlife guide.
