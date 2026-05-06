@@ -1,3 +1,6 @@
 name: 'Liz Wooster'
-id: 2fe61f11-da33-4524-abd8-d4e54d132da6
-password_hash: $2y$10$VPeB5DpkDvjrYzCMAQOCce9WqTCLwjpIBHwNASj3b.pkN13v5lfJq
+linked_organisations: halesworth-harmony
+roles:
+  - user
+id: d70b3a9e-21b9-4757-9aee-c3ee3e296e1e
+password_hash: $2y$10$dwem3GxIpft/N4ZrEaRwauCpIz1ZzfopeenvDFmVhUwWTsgPZoM.6
